@@ -1,0 +1,2 @@
+# cursor
+for cursor only
