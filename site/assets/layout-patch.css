@@ -1,6 +1,126 @@
 /* Layout v4 — coordinated header, hero dashboard, refined sidebars */
 
-body { padding: 28px 20px 40px; }
+/* App shell: no full-page scroll; columns manage their own overflow */
+html, body { height: 100%; }
+body {
+  max-height: 100vh;
+  overflow: hidden;
+  padding: 24px 20px 16px;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.layout-container {
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  max-width: 1200px;
+  overflow: hidden;
+}
+.footer {
+  flex-shrink: 0;
+  margin-top: 12px;
+  padding: 12px 0 0;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.sidebar-left {
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  max-height: calc(100vh - 120px);
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.sidebar-left .panel-title { flex-shrink: 0; }
+.sidebar-left .nav-scroll {
+  flex: 1;
+  min-height: 0;
+  max-height: none;
+  overflow-y: auto;
+}
+
+.sidebar-right {
+  position: sticky;
+  top: 0;
+  align-self: flex-start;
+  max-height: calc(100vh - 120px);
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  max-height: calc(100vh - 120px);
+}
+.main-column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  height: 100%;
+}
+.main-hub-head { flex-shrink: 0; }
+.main-toolbar-wrap {
+  flex-shrink: 0;
+  position: sticky;
+  top: 0;
+  z-index: 6;
+  background: var(--bg-color);
+  padding: 4px 0 10px;
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--border-color);
+}
+.main-toolbar-wrap .toolbar { margin-bottom: 0; }
+.main-feed-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-top: 12px;
+  padding-right: 4px;
+}
+.main-feed-scroll .category-block:last-child { margin-bottom: 24px; }
+
+.chip-ghost {
+  background: transparent;
+  border-style: dashed;
+  font-weight: 500;
+}
+.chip-ghost:hover {
+  border-style: solid;
+  background: var(--card-bg);
+}
+
+/* Card footer: meta + mark-read on one row */
+.card-footer {
+  flex-direction: column !important;
+  align-items: stretch !important;
+  gap: 8px !important;
+}
+.card-footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+}
+.card-footer-row .meta-line {
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-footer-row .mark-read-btn {
+  flex-shrink: 0;
+  margin-left: 0;
+  align-self: center;
+}
 
 .header-bar {
   display: grid;
@@ -340,22 +460,214 @@ body { padding: 28px 20px 40px; }
 }
 .footer a:hover { color: var(--text-main); }
 
+/* ── Tablet / mobile: natural page scroll, main content first ── */
 @media (max-width: 960px) {
+  html, body {
+    height: auto;
+    max-height: none;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 16px 14px calc(16px + env(safe-area-inset-bottom));
+  }
+  .layout-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "main" "timeline" "filters";
+    gap: 20px;
+    max-height: none;
+    overflow: visible;
+  }
+  .main-content {
+    grid-area: main;
+    max-height: none;
+    overflow: visible;
+  }
+  .sidebar-left {
+    grid-area: timeline;
+    width: 100%;
+    position: static;
+    max-height: none;
+  }
+  .sidebar-right {
+    grid-area: filters;
+    width: 100%;
+    position: static;
+    max-height: none;
+    gap: 12px;
+  }
+  .main-column { height: auto; }
+  .main-feed-scroll {
+    overflow: visible;
+    max-height: none;
+    padding-top: 8px;
+  }
+  .main-toolbar-wrap {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    padding: 8px 0 10px;
+    margin: 0 -2px;
+    background: color-mix(in srgb, var(--bg-color) 92%, transparent);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
   .header-bar {
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto auto;
+    margin-bottom: 16px;
+    padding-bottom: 0;
+  }
+  .dash-metrics { grid-template-columns: repeat(3, 1fr); }
+  .sidebar-block { padding: 12px; }
+  .nav-scroll, .sidebar-tags .tags-scroll {
+    max-height: none;
+    overflow: visible;
+  }
+}
+
+/* ── Phone H5 ── */
+@media (max-width: 768px) {
+  body { padding: 12px 12px calc(20px + env(safe-area-inset-bottom)); }
+  .header-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px 12px;
+    margin-bottom: 12px;
   }
   .header-bar .header-title {
-    grid-column: 1 / -1;
-    justify-self: center;
-    order: -1;
+    order: 0;
+    flex: 1 1 auto;
+    font-size: 1.25rem;
+    text-align: left;
+    justify-self: auto;
+    grid-column: auto;
   }
-  .header-bar .header-lang { justify-self: end; }
-  .dash-metrics { grid-template-columns: repeat(3, 1fr); }
-  .nav-scroll, .sidebar-tags .tags-scroll { max-height: none; }
-  .sidebar-right { max-height: none; }
+  .header-bar .header-back {
+    order: 0;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+  .header-bar .header-lang {
+    order: 0;
+    flex-shrink: 0;
+    justify-self: auto;
+  }
+  .header-bar .lang-btn { padding: 6px 14px; font-size: 0.82rem; }
+
+  .dashboard-hero { padding: 16px; border-radius: 12px; }
+  .dash-row-top { margin-bottom: 12px; padding-bottom: 12px; }
+  .dash-latest-date { font-size: 1.25rem; }
+  .dash-unread-num { font-size: 2.1rem; }
+  .dash-metrics {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+  }
+  .dash-metric { padding: 8px 4px; }
+  .dash-metric-val { font-size: 1rem; }
+
+  .toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+  .toolbar-filters,
+  .toolbar-actions {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 8px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+  .toolbar-filters::-webkit-scrollbar,
+  .toolbar-actions::-webkit-scrollbar { display: none; }
+  .chip, .chip-filter, .chip-act {
+    flex-shrink: 0;
+    min-height: 40px;
+    padding: 8px 14px;
+    font-size: 0.82rem;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .sidebar-left .panel-title { margin-bottom: 8px; }
+  .sidebar-left .nav-scroll {
+    overflow: visible;
+    max-height: none;
+  }
+  .sidebar-left .year-group { margin-bottom: 8px; }
+  .sidebar-left .month-days.open {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 8px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 6px 0 4px;
+    margin-top: 4px;
+    scrollbar-width: none;
+  }
+  .sidebar-left .month-days.open::-webkit-scrollbar { display: none; }
+  .sidebar-left .month-days .nav-item {
+    flex: 0 0 auto;
+    min-width: 64px;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+    background: var(--card-bg);
+    font-size: 0.9rem;
+    min-height: 44px;
+  }
+  .sidebar-left .month-days .nav-item.active {
+    border-color: var(--text-main);
+    background: var(--nav-hover);
+    color: var(--text-main);
+  }
+  .sidebar-left .month-title {
+    padding: 4px 0;
+  }
+  .sidebar-left .fold-btn {
+    min-width: 36px;
+    min-height: 36px;
+  }
+
+  .sidebar-tags .tag-cloud {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 8px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+  }
+  .sidebar-tags .tag-cloud::-webkit-scrollbar { display: none; }
+  .sidebar-tags .tag-group {
+    margin-bottom: 14px;
+  }
+  .sidebar-tags .chip-tag {
+    flex-shrink: 0;
+    min-height: 36px;
+  }
+
+  .blog-card {
+    padding: 16px;
+    border-radius: 10px;
+  }
+  .blog-card h4, .title-block .title-zh { font-size: 1rem; }
+  .mark-read-btn {
+    min-height: 36px;
+    padding: 6px 12px;
+    font-size: 0.75rem;
+  }
+  .category-block h3 { font-size: 0.95rem; }
+  .footer { margin-top: 24px; font-size: 0.8rem; }
 }
 
 @media (max-width: 520px) {
   .dash-metrics { grid-template-columns: repeat(2, 1fr); }
+  .dash-baseline { width: 100%; font-size: 0.72rem; }
 }

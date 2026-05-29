@@ -340,7 +340,7 @@
   }
 
   function renderActionChips(opts = {}) {
-    const { catchUp = false, markDay = false } = opts;
+    const { catchUp = false, markDay = false, resetMonth = false } = opts;
     let html = `<div class="toolbar-actions">`;
     if (markDay) {
       html += `<button type="button" class="chip chip-act" id="btn-mark-day">${t("全部已读", "Mark all read")}</button>`;
@@ -350,13 +350,24 @@
     if (catchUp) {
       html += `<button type="button" class="chip chip-act" id="btn-catch-up">${t("追平到最新", "Catch up to latest")}</button>`;
     }
+    if (resetMonth) {
+      html += `<button type="button" class="chip chip-act chip-ghost" id="btn-reset-month">${t("重置阅读", "Reset read")}</button>`;
+    }
     html += `</div>`;
     return html;
   }
 
   function renderToolbar(opts = {}) {
-    const { catchUp = false, markDay = false } = opts;
-    return `<div class="toolbar">${renderFilterChips()}${renderActionChips({ catchUp, markDay })}</div>`;
+    const { catchUp = false, markDay = false, resetMonth = false } = opts;
+    return `<div class="toolbar">${renderFilterChips()}${renderActionChips({ catchUp, markDay, resetMonth })}</div>`;
+  }
+
+  function wrapMainScrollable(headHtml, toolbarHtml, bodyHtml) {
+    return `<div class="main-column">
+      <div class="main-hub-head">${headHtml}</div>
+      <div class="main-toolbar-wrap">${toolbarHtml}</div>
+      <div class="main-feed-scroll">${bodyHtml}</div>
+    </div>`;
   }
 
   function getVisibleItems(applyUnreadFilter = filterUnread) {
@@ -408,9 +419,11 @@
       ${titleBlock}
       ${summary ? `<p class="summary">${escapeHtml(summary)}</p>` : ""}
       <div class="card-footer">
-        <span class="meta-line">${escapeHtml(it.source)} · ${it.date}</span>
-        <span class="tag-row">${tags}</span>
-        <button type="button" class="mark-read-btn" data-mark="${it.date}:${it.id}">${read ? t("标为未读", "Mark unread") : t("标为已读", "Mark read")}</button>
+        <div class="card-footer-row">
+          <span class="meta-line">${escapeHtml(it.source)} · ${it.date}</span>
+          <button type="button" class="mark-read-btn" data-mark="${it.date}:${it.id}">${read ? t("标为未读", "Mark unread") : t("标为已读", "Mark read")}</button>
+        </div>
+        ${tags ? `<span class="tag-row">${tags}</span>` : ""}
       </div>
     </a>`;
   }
@@ -450,7 +463,7 @@
   function renderMain() {
     const el = document.getElementById("main-panel");
     const items = getVisibleItems();
-    const toolbar = renderToolbar({ catchUp: true });
+    const toolbar = renderToolbar({ catchUp: true, resetMonth: true });
 
     if (route.view === "hub") {
       let body = "";
@@ -468,7 +481,7 @@
         }
         if (!body) body = `<div class="empty">${t("暂无内容", "No content")}</div>`;
       }
-      el.innerHTML = renderDashboard() + toolbar + body;
+      el.innerHTML = wrapMainScrollable(renderDashboard(), toolbar, body);
       return;
     }
 
@@ -490,7 +503,8 @@
       : `<div class="empty">${filterUnread ? t("此处无未读", "No unread here") : t("无内容", "Empty")}</div>`;
     const backLink = `<p class="view-back"><a href="#" id="link-back-hub">${t("← 返回本月面板", "← Back to month")}</a></p>`;
     const subToolbar = renderToolbar({ markDay: route.view === "day", catchUp: false });
-    el.innerHTML = `${backLink}<h2 class="view-title">${escapeHtml(title)}</h2>${subToolbar}<div class="blog-list">${list}</div>`;
+    const head = `${backLink}<h2 class="view-title">${escapeHtml(title)}</h2>`;
+    el.innerHTML = wrapMainScrollable(head, subToolbar, `<div class="blog-list">${list}</div>`);
   }
 
   function monthsByYear() {
@@ -564,10 +578,7 @@
       html += `</div></div>`;
     }
 
-    html += `</div>
-      <div class="nav-actions">
-        <button type="button" class="nav-text-btn" id="btn-reset-month">${t("重置阅读", "Reset read")}</button>
-      </div>`;
+    html += `</div>`;
     el.innerHTML = html;
   }
 
@@ -668,10 +679,6 @@
         navigate(`#/${monthId}/day/${day.dataset.day}`);
         return;
       }
-      if (e.target.id === "btn-reset-month") {
-        resetMonthReadState();
-        return;
-      }
     });
 
     document.getElementById("tag-panel")?.addEventListener("click", (e) => {
@@ -702,6 +709,10 @@
       if (e.target.id === "btn-catch-up") {
         setLastVisit();
         render();
+        return;
+      }
+      if (e.target.id === "btn-reset-month") {
+        resetMonthReadState();
         return;
       }
 
