@@ -1,0 +1,750 @@
+{
+  "date": "2026-05-28",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 41,
+    "by_category": {}
+  },
+  "items": [
+    {
+      "id": "LEGACY-001",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "title": {
+        "zh": "Anthropic 发布 Opus 4.8，称其“更可能标记工作中的不确定性，更少做出无依据的声明”，价格与 4.7 相同",
+        "en": "Anthropic launches Opus 4.8, saying it's “more likely to flag uncertainties about its work and less likely to make unsupported claims”, at the same price as 4.7"
+      },
+      "summary": {
+        "zh": "Anthropic 推出了新的 Opus 4.8 模型，声称其在标记工作中的不确定性和避免无依据声明方面表现更好，同时价格与之前的 4.7 版本相同。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-002",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.bbc.com/news/articles/cd7pwezyze1o",
+      "title": {
+        "zh": "英国研究人员获得谷歌Willow量子芯片的使用权，据称该芯片能在五分钟内解决超级计算机需10万亿年才能完成的问题",
+        "en": "UK researchers gain access to Google's Willow quantum chip, which it says solves a problem in five minutes that would take supercomputers 10 septillion years"
+      },
+      "summary": {
+        "zh": "英国研究人员获得了谷歌Willow量子芯片的使用权，据谷歌称，该芯片能够在五分钟内解决超级计算机需10万亿年才能完成的计算问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-003",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/ibm-red-hat-pledge-5-billion-for-ai-driven-open-source-security-initiative-4f1e03a4?st=8fwrTE&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "IBM 和 Red Hat 投资 50 亿美元建立名为 Project Lightwell 的开源软件新模式，并将在全球部署 2 万名工程师",
+        "en": "IBM and Red Hat commit $5B to establish a new open-source software model, dubbed Project Lightwell, and will deploy 20,000 engineers globally, supported by AI"
+      },
+      "summary": {
+        "zh": "IBM 和 Red Hat 宣布投资 50 亿美元，推出名为 Project Lightwell 的开源软件新模式，并计划在全球范围内部署 2 万名工程师，利用 AI 提供支持。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-004",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomm-snapdragon-c-is-official-and-its-taking-aim-at-macbook-neo-and-chromebooks-new-low-end-arm-chip-brings-all-day-battery-life-to-usd300-windows-11-devices",
+      "title": {
+        "zh": "高通发布 Snapdragon C，面向 Windows 11 设备的入门级 ARM SoC",
+        "en": "Qualcomm unveils the Snapdragon C, an entry-level ARM-based SoC for Windows 11 devices starting from $300 and shipping in 2026, taking aim at the MacBook Neo"
+      },
+      "summary": {
+        "zh": "高通推出 Snapdragon C，这是一款面向 Windows 11 设备的入门级 ARM 架构 SoC，起售价为 300 美元，计划于 2026 年开始出货，目标竞争对手为 MacBook Neo。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-005",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+      "title": {
+        "zh": "英特尔推出首款专用掌上游戏芯片 Arc G3 和 Arc G3 Extreme",
+        "en": "Intel unveils its first dedicated handheld gaming chips, the Arc G3 and Arc G3 Extreme, featuring Xe3 GPU cores, arriving first in the Acer Predator Atlas 8"
+      },
+      "summary": {
+        "zh": "英特尔发布其首款专用掌上游戏芯片 Arc G3 和 Arc G3 Extreme，配备 Xe3 GPU 核心，将首先应用于宏碁 Predator Atlas 8。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-006",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/bytedance-developing-custom-cpu-chips-support-ai-rollout-sources-say-2026-05-28/",
+      "title": {
+        "zh": "消息称字节跳动正在开发自有 CPU 以支持其 AI 基础设施需求",
+        "en": "Sources: ByteDance is developing its own CPUs to support its growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans"
+      },
+      "summary": {
+        "zh": "据消息人士透露，字节跳动正在开发自有 CPU，以满足其日益增长的 AI 基础设施需求，同时应对芯片价格上涨和供应短缺对扩展计划的限制。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-007",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "title": {
+        "zh": "AWS自2025年底起使用具有平面网格设计的弹性网络图架构以加速信息流",
+        "en": "AWS has used Resilient Network Graphs, a quasi-random networking architecture with a flat mesh design, since late 2025 and says it accelerates information flows"
+      },
+      "summary": {
+        "zh": "AWS自2025年底开始采用一种名为弹性网络图的准随机网络架构，其平面网格设计能够显著加速信息流动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-008",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/ibm-plans-10-billion-investment-large-scale-quantum-computer-by-2029-2026-05-28/",
+      "title": {
+        "zh": "IBM计划未来五年投资超过100亿美元，目标在2029年前建成首台大规模无误差量子计算机",
+        "en": "IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029"
+      },
+      "summary": {
+        "zh": "IBM宣布将在未来五年内投资超过100亿美元，致力于在2029年前建成首台大规模、无误差的量子计算机。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-009",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTk3MDMzNywiZXhwIjoxNzgwNTc1MTM3LCJhcnRpY2xlSWQiOiJURlFYU1FLSVVQVVkwMCIsImJjb25uZWN0SWQiOiJBMENBREVFNzhEMEI0NzhEOTM0MkRGQTE1MUYxNEU0MiJ9._mQlenNKDj3eHEpbpKs55xUJl3p9ehGuj_dIc8sEj40",
+      "title": {
+        "zh": "基于消息来源的插图展示苹果 Siri 的重大改进，包括新界面、聊天机器人风格的应用程序，以及 iOS 27 的重大变化，WWDC 主题演讲将于 6 月 8 日举行",
+        "en": "Illustrations based on sources detail Apple's Siri overhaul, like a new UI and chatbot-style app, and major iOS 27 changes, ahead of the WWDC keynote on June 8"
+      },
+      "summary": {
+        "zh": "消息来源透露，苹果计划对 Siri 进行重大改进，包括推出新界面和聊天机器人风格的应用程序，同时 iOS 27 也将迎来重大变化。这些更新预计将在 6 月 8 日的 WWDC 上展示。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-010",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "title": {
+        "zh": "YouTube 推出新的 Premium 播客功能，包括 AI 驱动的推荐工具、“自动速度”设置和新的随时随地收听模式",
+        "en": "YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an “Auto speed” setting, and a new on-the-go listening mode"
+      },
+      "summary": {
+        "zh": "YouTube 推出了多项新的 Premium 播客功能，包括 AI 推荐工具、“自动速度”设置以及新的便携式收听模式，旨在提升用户体验。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-011",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "title": {
+        "zh": "Anthropic 和 OpenAI 似乎终于找到了编码代理的产品市场契合点，这些工具正迅速成为高薪专业人士的日常工具",
+        "en": "Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for very well-paid professionals"
+      },
+      "summary": {
+        "zh": "Anthropic 和 OpenAI 的编码代理工具正在迅速普及，成为高薪专业人士的日常工作助手，表明其产品市场契合度显著提升。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-012",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3",
+      "title": {
+        "zh": "全球收入最高的律师事务所 Kirkland & Ellis 拨款 5 亿美元打造自有 AI 平台，而非依赖竞争对手的工具",
+        "en": "Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals"
+      },
+      "summary": {
+        "zh": "Kirkland & Ellis 律师事务所宣布将投资 5 亿美元开发自己的 AI 平台，以减少对竞争对手工具的依赖。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-013",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/media-telecom/global-firms-use-ai-indian-hubs-bring-more-ad-work-in-house-2026-05-27/",
+      "title": {
+        "zh": "企业在印度的全球能力中心使用 AI，将更多创意工作内化",
+        "en": "Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies"
+      },
+      "summary": {
+        "zh": "企业正在利用人工智能在印度的全球能力中心完成更多创意工作，从而缩短交付时间并减少对广告代理机构的依赖。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-014",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html?unlocked_article_code=1.l1A.Ljth.RDbPsUK0c4m2&smid=nytcore-ios-share",
+      "title": {
+        "zh": "Anthropic 完成 650 亿美元 H 轮融资，估值达 9650 亿美元，超越 OpenAI 的 8520 亿美元估值，并称其月收入运行率已超过 470 亿美元",
+        "en": "Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month"
+      },
+      "summary": {
+        "zh": "Anthropic 宣布完成 650 亿美元 H 轮融资，估值达到 9650 亿美元，超过 OpenAI 的估值。此外，公司表示其月收入运行率本月已突破 470 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-015",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html",
+      "title": {
+        "zh": "戴尔报告第一季度收入同比增长 88% 至 438.4 亿美元，高于预期的 354.3 亿美元，并预测 2027 财年收入将超出预期；戴尔股价盘后上涨超 38%",
+        "en": "Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 38%+ after hours"
+      },
+      "summary": {
+        "zh": "戴尔公布第一季度收入同比增长 88%，达到 438.4 亿美元，超出市场预期，并预测 2027 财年收入将高于预期。受此消息影响，戴尔股价盘后上涨超过 38%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-016",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/temu-fined-232-million-breaching-eu-rules-sale-illegal-products-2026-05-28/",
+      "title": {
+        "zh": "欧盟委员会根据 DSA 对 Temu 处以 2 亿欧元罚款，指控其未能有效阻止非法产品的销售；可能会有进一步处罚",
+        "en": "The European Commission fines Temu €200M under the DSA for allegedly failing to adequately stop the sale of illegal products; further penalties could follow"
+      },
+      "summary": {
+        "zh": "欧盟委员会根据数字服务法案（DSA）对 Temu 处以 2 亿欧元罚款，原因是其未能有效阻止非法产品的销售，并警告可能会有进一步的处罚。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-017",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "title": {
+        "zh": "Visa 对 Replit 进行未披露金额的投资；双方将探索 Replit 开发者如何使用 Visa 智能商务和可信代理协议",
+        "en": "Visa makes an undisclosed investment in Replit; the two will explore how developers on Replit can use Visa Intelligent Commerce and the Trusted Agent Protocol"
+      },
+      "summary": {
+        "zh": "Visa 宣布对 Replit 进行未披露金额的投资，双方将合作探索如何利用 Visa 智能商务和可信代理协议为 Replit 开发者提供支持。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-018",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools",
+      "title": {
+        "zh": "备忘录：Meta 计划将工程师和产品经理嵌入大型企业客户中，作为新企业解决方案部门的一部分，以协助部署其 AI 工具",
+        "en": "Memo: Meta plans to embed engineers and product managers inside large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools"
+      },
+      "summary": {
+        "zh": "Meta 计划通过其新成立的企业解决方案部门，将工程师和产品经理直接嵌入到大型企业客户中，以帮助这些企业更好地部署和使用其 AI 工具。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-019",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/mistral-chases-ai-superintelligence-to-counter-u-s-dominance-b2a44fa1?st=NnFC9i&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Mistral 表示加速超级智能开发以确保欧洲摆脱美国科技巨头的依赖，并与空客和宝马签署供应协议",
+        "en": "Mistral says it is accelerating superintelligence development to ensure Europe's independence from US tech giants, and signs deals to supply Airbus and BMW"
+      },
+      "summary": {
+        "zh": "Mistral 宣布将加速超级智能技术的开发，以确保欧洲在技术上独立于美国科技巨头，并已与空客和宝马签署供应协议。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-020",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
+      "title": {
+        "zh": "消息称上海期货交易所正设计 AI 代币期货合约，美国交易所计划推出 GPU 计算期货",
+        "en": "Source: the Shanghai Futures Exchange is in the early stages of designing futures contracts for AI tokens; US exchanges are set to launch GPU compute futures"
+      },
+      "summary": {
+        "zh": "据消息人士透露，上海期货交易所正处于设计 AI 代币期货合约的早期阶段，而美国交易所则计划推出 GPU 计算期货。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-021",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/business/technology/tech-asia/ai-demand-strains-supplies-of-lasers-fiber-and-other-optical-tech",
+      "title": {
+        "zh": "AI 需求激增导致从激光器到光纤和连接器的整个光学供应链出现短缺和价格上涨",
+        "en": "Surging AI demand is causing shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors"
+      },
+      "summary": {
+        "zh": "由于 AI 需求的快速增长，整个光学供应链，包括激光器、基板、光纤和连接器等，都出现了短缺和价格上涨的情况。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-022",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/apollo-shops-36-billion-debt-deal-to-buy-google-chips-for-anthropic",
+      "title": {
+        "zh": "消息称 Apollo Global 和 Blackstone 正在为 360 亿美元债务融资引入更多投资者，用于购买 Google TPU 供 Anthropic 租赁",
+        "en": "Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease"
+      },
+      "summary": {
+        "zh": "据消息人士透露，Apollo Global 和 Blackstone 正在为一项约 360 亿美元的债务融资引入更多投资者，以购买 Google TPU 并租赁给 Anthropic 使用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-023",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/world-s-appetite-for-ai-makes-china-less-afraid-of-stronger-yuan",
+      "title": {
+        "zh": "全球 AI 硬件需求缓解中国对人民币升值影响出口的担忧，AI 硬件出口激增，芯片设备进口增加",
+        "en": "Global AI hardware demand is easing China's concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise"
+      },
+      "summary": {
+        "zh": "全球对 AI 硬件的需求激增，这缓解了中国对人民币升值可能影响出口的担忧，同时 AI 硬件出口和芯片设备进口均呈现增长趋势。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-024",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/ai-boom-fuels-record-14-5-billion-in-taiwan-tech-firm-borrowing",
+      "title": {
+        "zh": "台湾科技公司在 2026 年迄今已完成创纪录的 145 亿美元债务交易，以满足 AI 产能激增的需求",
+        "en": "Taiwanese tech companies have completed a record $14.5B of debt deals so far in 2026, as they race to secure financing to meet soaring demand for AI capacity"
+      },
+      "summary": {
+        "zh": "截至 2026 年，台湾科技公司已完成创纪录的 145 亿美元债务交易，以确保能够满足快速增长的 AI 产能需求。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-025",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
+      "title": {
+        "zh": "Okta 报告第一季度收入同比增长 11% 至 7.65 亿美元",
+        "en": "Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 8%+ after hours"
+      },
+      "summary": {
+        "zh": "Okta 公布第一季度收入同比增长 11%，达到 7.65 亿美元，高于预期的 7.52 亿美元。公司表示，代理型 AI 的发展推动了对其身份工具的需求，消息公布后股价盘后上涨超过 8%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-026",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/article/3355027/kuaishou-beats-estimates-kling-ai-video-generators-revenue-jumps-300",
+      "title": {
+        "zh": "快手报告第一季度收入同比增长 3.4%，Kling AI 收入同比增长超 300%",
+        "en": "Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026"
+      },
+      "summary": {
+        "zh": "快手第一季度收入同比增长 3.4% 至约 50 亿美元，旗下 Kling AI 收入同比增长超过 300% 至约 9600 万美元，并在 2026 年 3 月达到了约 5 亿美元的年化收入运行率。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-027",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/9d7d6204-4fc7-4f1d-af05-473c3649efcd",
+      "title": {
+        "zh": "文件显示欧盟正准备紧急权力以干预芯片供应链",
+        "en": "Doc: the EU is preparing emergency powers to intervene in Europe's chip supply chains during shortages, including by forcing chipmakers to override contracts"
+      },
+      "summary": {
+        "zh": "文件显示，欧盟正在准备紧急权力，以在芯片短缺期间干预欧洲的芯片供应链，包括强制芯片制造商优先满足特定需求。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-028",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
+      "title": {
+        "zh": "费城半导体指数年初至今上涨约 75%，有望创 1999 年以来最大年度涨幅",
+        "en": "Analysis: the Philadelphia Semiconductor Index, which tracks the 30 top US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999"
+      },
+      "summary": {
+        "zh": "分析显示，追踪美国 30 家顶级上市芯片制造商的费城半导体指数年初至今上涨约 75%，有望创下自 1999 年以来的最大年度涨幅。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-029",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/transactional/synopsys-reaches-settlement-with-elliott-says-jesse-cohn-join-board-2026-05-27/",
+      "title": {
+        "zh": "芯片设计软件公司 Synopsys 与 Elliott 达成协议，给予董事会席位",
+        "en": "Chip design software maker Synopsys reaches a deal with Elliott, giving one board seat to the activist investor's Jesse Cohn, after roughly two months of talks"
+      },
+      "summary": {
+        "zh": "芯片设计软件制造商 Synopsys 与激进投资者 Elliott 达成协议，经过大约两个月的谈判，Elliott 的 Jesse Cohn 获得了公司董事会的一个席位。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-030",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "title": {
+        "zh": "埃隆·马斯克称 Anthropic 的 Colossus 合同为“180 天租约，90 天通知”",
+        "en": "Elon Musk says Anthropic's Colossus deal is “a 180 day lease with 90 day notice”; SpaceX's S-1 said Anthropic “agreed to pay a monthly fee through May 2029”"
+      },
+      "summary": {
+        "zh": "埃隆·马斯克表示，Anthropic 的 Colossus 合同为“180 天租约，90 天通知”。SpaceX 的 S-1 文件显示，Anthropic 同意支付月租费至 2029 年 5 月。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-031",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/big-subsidies-for-google-limited-water-for-locals-the-dilemma-of-ai-in-india-105a770e?st=CizQnF&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "谷歌计划在印度维沙卡帕特南建设150亿美元的AI数据中心，当地居民和权益团体对“极高”的水资源压力表示担忧",
+        "en": "As Google plans to build a $15B AI data center hub in Visakhapatnam, India, locals and rights groups are raising concerns over “extremely high” water stress"
+      },
+      "summary": {
+        "zh": "谷歌计划在印度维沙卡帕特南投资150亿美元建设AI数据中心，但此举引发了当地居民和权益团体对水资源压力过大的担忧。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-032",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/record-spend-on-data-centers-drives-australia-investment-growth",
+      "title": {
+        "zh": "澳大利亚数据中心投资创纪录达62亿美元，环比几乎翻倍，推动第一季度投资增长",
+        "en": "A record ~$6.2B spent on data centers in Australia, almost double QoQ, drove Q1 investment growth and helped an economy strained by energy costs and high rates"
+      },
+      "summary": {
+        "zh": "澳大利亚在数据中心上的投资创下62亿美元的纪录，环比增长近一倍，这推动了第一季度的投资增长，并缓解了因能源成本和高利率导致的经济压力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-033",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/b0b16d69-15f6-4c35-bbb4-65633fe863a5",
+      "title": {
+        "zh": "消息称澳大利亚创立的Airwallex计划扩展美国市场，同时将部分员工从中国迁出",
+        "en": "Sources: Australia-founded Airwallex, which Keith Rabois accused of being a “Chinese backdoor”, is relocating some staff out of China as it plans a US expansion"
+      },
+      "summary": {
+        "zh": "消息人士透露，澳大利亚创立的Airwallex计划扩展美国市场，并将部分员工从中国迁出。此前，该公司曾被指控为“中方后门”。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-034",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/airwallex-addition-valuation",
+      "title": {
+        "zh": "消息称Airwallex在12亿美元估值下完成新一轮融资，年经常性收入达15亿美元",
+        "en": "Sources: Airwallex raised new funding led by Lee Fixel's Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October"
+      },
+      "summary": {
+        "zh": "消息人士称，Airwallex在Lee Fixel的Addition基金领投下完成新一轮融资，公司估值从去年底的80亿美元增长至120亿美元，年经常性收入从去年10月的10亿美元增长至15亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-035",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.koreaherald.com/article/10757889",
+      "title": {
+        "zh": "三星旗下证券、SDS和卡片部门将以约4.46亿美元现金收购Dunamu 4%的股份",
+        "en": "Samsung's Securities, SDS, and Card units say they will acquire a 4% stake in Dunamu, which operates South Korea's largest crypto exchange, for ~$446M in cash"
+      },
+      "summary": {
+        "zh": "三星旗下的证券、SDS和卡片部门宣布将以约4.46亿美元现金收购运营韩国最大加密货币交易所的Dunamu公司4%的股份。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-036",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/politics/policy/trump-regulator-moves-to-drop-case-that-drew-ire-of-winklevoss-twins-e8e26a2a",
+      "title": {
+        "zh": "CFTC撤销与Gemini的500万美元和解协议，推翻拜登政府时期的执法行动",
+        "en": "The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins"
+      },
+      "summary": {
+        "zh": "在Winklevoss兄弟的游说活动后，美国商品期货交易委员会（CFTC）决定撤销与加密货币交易所Gemini达成的500万美元和解协议，推翻了拜登政府时期的相关执法行动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-037",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/",
+      "title": {
+        "zh": "信件：美国中央司令部称收到“关于敌方利用商业位置数据针对战区美军人员的威胁报告”",
+        "en": "Letter: US Central Command says it received “threat reports concerning adversary exploitation of commercial location data” to target US personnel in war zones"
+      },
+      "summary": {
+        "zh": "美国中央司令部表示，他们收到报告称敌方可能利用商业位置数据来针对战区的美军人员，这引发了对数据安全的担忧。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-038",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+      "title": {
+        "zh": "消息称亚马逊关闭了内部排行榜，因员工通过无意义任务提升分数",
+        "en": "Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks"
+      },
+      "summary": {
+        "zh": "据消息人士透露，亚马逊关闭了一个用于追踪员工使用 AI 工具的内部排行榜，因为一些员工试图通过完成无意义的任务来提高自己的分数。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-039",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots",
+      "title": {
+        "zh": "京东创始人刘强东内部讲话：承诺保护公司 90 万员工免受 AI 和自动化影响，称将“尽一切可能”",
+        "en": "Internal speech: JD.com founder Liu Qiangdong vows to protect the company's 900,000 employees from AI and automation, saying it will “do everything possible”"
+      },
+      "summary": {
+        "zh": "京东创始人刘强东在内部讲话中承诺，将尽一切可能保护公司 90 万名员工免受 AI 和自动化技术的影响。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-040",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "http://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
+      "title": {
+        "zh": "文件显示CNN在纽约起诉Perplexity，指控其非法复制和分发CNN内容",
+        "en": "Filing: CNN sues Perplexity in New York for allegedly unlawfully copying and distributing CNN content, after failing to agree on terms with Perplexity in 2025"
+      },
+      "summary": {
+        "zh": "根据文件显示，CNN在纽约起诉Perplexity，指控其非法复制和分发CNN内容，此前双方未能在2025年就相关条款达成一致。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-041",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://apnews.com/article/23andme-lawsuit-data-breach-genetic-testing-0fc216812a2a35b72068c228384f597b",
+      "title": {
+        "zh": "加州总检察长Rob Bonta起诉23andMe，指控其未能保护2023年数据泄露中约700万用户的敏感数据",
+        "en": "California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US"
+      },
+      "summary": {
+        "zh": "加州总检察长Rob Bonta对23andMe提起诉讼，指控其在2023年的数据泄露事件中未能保护约700万美国用户的敏感数据。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    }
+  ]
+}

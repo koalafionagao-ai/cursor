@@ -1,0 +1,88 @@
+name: AI Daily Pipeline
+
+on:
+  schedule:
+    # 北京时间约 09:00（UTC 01:00）— Techmeme 当日早报已出，整合前一日简报
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "简报日期 YYYY-MM-DD（默认：北京时间昨日）"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-daily-pipeline
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r Daily_Parser/requirements.txt
+
+      - name: Resolve target date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            echo "target=${{ github.event.inputs.date }}" >> "$GITHUB_OUTPUT"
+          else
+            python3 -c "from datetime import timedelta; from zoneinfo import ZoneInfo; from datetime import datetime; d=(datetime.now(ZoneInfo('Asia/Shanghai')).date()-timedelta(days=1)); print('target='+d.isoformat())" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch Techmeme
+        run: python3 Daily_Parser/techmeme_fetcher.py --date ${{ steps.date.outputs.target }}
+
+      - name: Fetch TLDR AI
+        run: python3 Daily_Parser/tldr_fetcher.py --date ${{ steps.date.outputs.target }}
+
+      - name: Merge & clean (Agent2)
+        run: python3 Daily_Parser/merge_cleaner.py --date ${{ steps.date.outputs.target }}
+
+      - name: Filter score (Agent3)
+        env:
+          GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 Daily_Parser/filter_scorer.py --date ${{ steps.date.outputs.target }}
+
+      - name: Enrich translate (Agent4)
+        env:
+          GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 Daily_Parser/enrich.py --date ${{ steps.date.outputs.target }}
+
+      - name: Build site data (Agent5)
+        run: python3 Daily_Parser/build_site_data.py --date ${{ steps.date.outputs.target }}
+
+      - name: Pipeline summary
+        if: always()
+        run: |
+          D=${{ steps.date.outputs.target }}
+          M=${D:0:7}
+          FILTER="Daily_Parser/Processed/$M/filter_$D.json"
+          PROC="Daily_Parser/Processed/$M/processed_$D.json"
+          echo "## AI Daily $D" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f "$FILTER" ]; then
+            python3 -c "import json; d=json.load(open('$FILTER')); print(f'- 筛选: {d[\"kept\"]}/{d[\"total\"]} kept (threshold={d[\"threshold\"]})')" >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if [ -f "$PROC" ]; then
+            python3 -c "import json; d=json.load(open('$PROC')); print(f'- 发布: {len(d.get(\"items\",[]))} 条 processed')" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commit pipeline outputs
+        run: |
+          git config user.name "ai-daily-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Daily_Parser/Techmeme Daily_Parser/TLDR Daily_Parser/Processed site/data
+          git diff --cached --quiet || git commit -m "chore(daily): ${{ steps.date.outputs.target }}"
+          git push

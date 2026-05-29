@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="base-path" content="/ai-daily/">
+<title>AI Daily | Fiona Gao</title>
+<style>
+:root {
+--bg-color: #FDFCF8;
+--text-main: #4A4643;
+--text-muted: #8E8A86;
+--accent-color: #A39B8B;
+--card-bg: #FFFFFF;
+--border-color: #EBE8E0;
+--toggle-bg: #F0EFE9;
+--nav-hover: #F5F4EE;
+--success-color: #10b981;
+--tag-bg: #F5F4EE;
+}
+html { scroll-behavior: smooth; }
+body {
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Helvetica Neue", sans-serif;
+background-color: var(--bg-color);
+color: var(--text-main);
+margin: 0;
+padding: 40px 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+min-height: 100vh;
+box-sizing: border-box;
+line-height: 1.6;
+}
+.header { text-align: center; margin-bottom: 50px; width: 100%; max-width: 900px; }
+.header h1 { font-size: 2.4rem; font-weight: 600; margin: 0 0 12px 0; letter-spacing: 1px; }
+.contact-info { font-size: 0.95rem; color: var(--text-muted); margin-bottom: 15px; display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; }
+.email-copy { cursor: pointer; text-decoration: underline; text-underline-offset: 3px; transition: color 0.2s; position: relative; }
+.email-copy:hover { color: var(--text-main); }
+.copy-hint { position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: var(--text-main); color: #fff; padding: 4px 8px; border-radius: 4px; font-size: 10px; display: none; white-space: nowrap; }
+.header p { font-size: 1.05rem; color: var(--text-muted); font-weight: 300; margin-bottom: 25px; }
+.meta-bar { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 20px; }
+.lang-toggle { display: inline-flex; background: var(--toggle-bg); border-radius: 30px; padding: 4px; }
+.lang-btn { background: transparent; border: none; padding: 8px 20px; font-size: 0.9rem; color: var(--text-muted); cursor: pointer; border-radius: 26px; transition: all 0.3s ease; font-weight: 500; }
+.lang-btn.active { background: var(--card-bg); color: var(--text-main); box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+.layout-container { display: flex; width: 100%; max-width: 1200px; gap: 40px; align-items: flex-start; }
+.sidebar { width: 220px; position: sticky; top: 40px; flex-shrink: 0; }
+.nav-menu { display: none; flex-direction: column; gap: 8px; }
+.nav-menu.active { display: flex; }
+.nav-link { text-decoration: none; color: var(--text-muted); font-size: 0.95rem; padding: 10px 16px; border-radius: 8px; transition: all 0.2s ease; cursor: pointer; border: none; background: none; text-align: left; width: 100%; font-family: inherit; }
+.nav-link:hover, .nav-link.active { background-color: var(--nav-hover); color: var(--text-main); }
+.main-content { flex-grow: 1; min-width: 0; max-width: 650px; }
+.content-lang-section { display: none; animation: fadeIn 0.4s ease forwards; }
+.content-lang-section.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.anchor-section { scroll-margin-top: 40px; margin-bottom: 60px; }
+.category-title { font-size: 1.2rem; color: var(--text-main); margin: 0 0 20px 0; font-weight: 600; }
+.blog-list { display: flex; flex-direction: column; gap: 16px; }
+.blog-card {
+background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 24px;
+text-decoration: none; display: block; transition: all 0.3s ease; color: inherit;
+}
+.blog-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.04); border-color: var(--accent-color); }
+.blog-info h3 { margin: 0 0 8px 0; font-size: 1.1rem; font-weight: 600; color: var(--text-main); line-height: 1.4; }
+.blog-info p { margin: 0 0 10px 0; font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; }
+.card-meta { font-size: 0.8rem; color: var(--text-muted); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.tag-chip { background: var(--tag-bg); padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; }
+.timeline-sidebar { width: 240px; position: sticky; top: 40px; flex-shrink: 0; }
+.timeline-header { font-size: 1.1rem; color: var(--text-main); margin: 0 0 16px 0; font-weight: 600; }
+.month-group { margin-bottom: 10px; }
+.month-title { font-size: 0.95rem; font-weight: 600; color: var(--text-main); background: var(--card-bg); border: 1px solid var(--border-color); padding: 10px 14px; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.2s ease; user-select: none; }
+.month-title:hover { border-color: var(--accent-color); }
+.month-title .icon { font-size: 0.75rem; color: var(--text-muted); transition: transform 0.3s ease; }
+.month-title.open .icon { transform: rotate(90deg); }
+.month-content { display: none; padding-left: 12px; margin-top: 12px; margin-left: 12px; border-left: 2px solid var(--border-color); }
+.month-content.open { display: block; animation: fadeIn 0.3s ease; }
+.timeline-item { position: relative; margin-bottom: 18px; padding-left: 14px; }
+.timeline-item::before { content: ''; position: absolute; left: -17px; top: 6px; width: 6px; height: 6px; background: var(--bg-color); border: 2px solid var(--accent-color); border-radius: 50%; }
+.item-date { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 2px; font-family: monospace; }
+.item-link { font-size: 0.9rem; color: var(--text-main); text-decoration: none; line-height: 1.4; display: block; cursor: pointer; background: none; border: none; padding: 0; font-family: inherit; text-align: left; }
+.item-link:hover, .item-link.active { color: var(--accent-color); text-decoration: underline; text-underline-offset: 3px; }
+.footer { margin-top: 80px; padding: 40px 0; text-align: center; font-size: 0.85rem; color: var(--text-muted); border-top: 1px solid var(--border-color); width: 100%; max-width: 1000px; }
+.footer-disclaimer { margin-top: 12px; font-size: 0.75rem; opacity: 0.8; max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.4; }
+.loading { text-align: center; color: var(--text-muted); padding: 40px; }
+@media (max-width: 900px) {
+.layout-container { flex-direction: column; gap: 20px; }
+.sidebar { width: 100%; position: sticky; top: 0; background-color: var(--bg-color); z-index: 100; padding: 10px 0; border-bottom: 1px solid var(--border-color); }
+.nav-menu.active { flex-direction: row; overflow-x: auto; white-space: nowrap; }
+.nav-link { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 20px; padding: 6px 16px; font-size: 0.85rem; width: auto; }
+.main-content { max-width: 100%; }
+.timeline-sidebar { width: 100%; position: static; margin-top: 20px; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1 id="page-title">AI Daily</h1>
+<div class="contact-info">
+<span style="font-weight: 500;">Fiona Gao</span>
+<span>|</span>
+<span class="email-copy" onclick="copyEmail(this)">
+koala.fiona.gao@gmail.com
+<span class="copy-hint" id="copy-hint">Copied!</span>
+</span>
+</div>
+<p id="page-desc">Curated AI news for product builders — models, tech, apps, and business.</p>
+<div class="meta-bar" id="meta-bar"></div>
+<div class="lang-toggle">
+<button class="lang-btn active" onclick="switchLang('en')" id="btn-en">English</button>
+<button class="lang-btn" onclick="switchLang('zh')" id="btn-zh">中文</button>
+</div>
+</div>
+
+<div class="layout-container">
+<aside class="sidebar">
+<nav id="nav-categories" class="nav-menu active"></nav>
+</aside>
+
+<main class="main-content" id="main-feed">
+<div class="loading" id="loading">Loading…</div>
+</main>
+
+<aside class="timeline-sidebar">
+<div class="timeline-header" id="timeline-title">📡 AI Radar</div>
+<div id="timeline-root"></div>
+</aside>
+</div>
+
+<div class="footer">
+<div id="footer-text">
+© 2026 Fiona Gao. All Rights Reserved.
+<div class="footer-disclaimer">
+LEGAL DISCLAIMER: AI Daily aggregates and translates publicly available news. Original reporting belongs to respective publishers.
+</div>
+</div>
+</div>
+
+<script>
+const BASE = (() => {
+  const meta = document.querySelector('meta[name="base-path"]')?.content;
+  if (location.pathname.includes('/cursor/')) return '/cursor/';
+  if (meta) return meta.endsWith('/') ? meta : meta + '/';
+  const parts = location.pathname.split('/').filter(Boolean);
+  if (parts.length && parts[0] !== 'index.html') return '/' + parts[0] + '/';
+  return '/ai-daily/';
+})();
+
+let manifest = null;
+let currentLang = 'en';
+let currentDate = null;
+let currentBrief = null;
+
+function asset(path) {
+  return BASE + path.replace(/^\//, '');
+}
+
+async function fetchJSON(path) {
+  const res = await fetch(asset(path));
+  if (!res.ok) throw new Error(path + ' ' + res.status);
+  return res.json();
+}
+
+function toggleTimeline(el) {
+  const content = el.nextElementSibling;
+  el.classList.toggle('open');
+  content.classList.toggle('open');
+}
+
+function copyEmail(element) {
+  const email = 'koala.fiona.gao@gmail.com';
+  const hint = document.getElementById('copy-hint');
+  navigator.clipboard.writeText(email).then(() => {
+    hint.style.display = 'block';
+    element.style.color = 'var(--success-color)';
+    setTimeout(() => { hint.style.display = 'none'; element.style.color = ''; }, 2000);
+  });
+}
+
+function switchLang(lang) {
+  currentLang = lang;
+  document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+  document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+  const timelineTitle = document.getElementById('timeline-title');
+  const pageTitle = document.getElementById('page-title');
+  const pageDesc = document.getElementById('page-desc');
+  const footerText = document.getElementById('footer-text');
+  const copyHint = document.getElementById('copy-hint');
+  if (lang === 'zh') {
+    pageTitle.textContent = 'AI 简报';
+    pageDesc.textContent = '为 AI 产品经理精选的分类资讯 — 模型、技术、应用与商业。';
+    timelineTitle.textContent = '📡 AI 简报';
+    copyHint.textContent = '已复制！';
+    footerText.innerHTML = `© 2026 Fiona Gao. 保留所有权利。
+<div class="footer-disclaimer">AI 简报聚合并翻译公开资讯，版权归原作者所有。</div>`;
+  } else {
+    pageTitle.textContent = 'AI Daily';
+    pageDesc.textContent = 'Curated AI news for product builders — models, tech, apps, and business.';
+    timelineTitle.textContent = '📡 AI Radar';
+    copyHint.textContent = 'Copied!';
+    footerText.innerHTML = `© 2026 Fiona Gao. All Rights Reserved.
+<div class="footer-disclaimer">AI Daily aggregates and translates publicly available news. Original reporting belongs to respective publishers.</div>`;
+  }
+  renderNav();
+  renderFeed();
+  renderTimeline();
+}
+
+function getQueryDate() {
+  const p = new URLSearchParams(location.search);
+  return p.get('date');
+}
+
+function categorySections() {
+  if (!manifest) return [];
+  return manifest.categories || [];
+}
+
+function itemsByCategory(brief) {
+  const map = {};
+  for (const cat of categorySections()) map[cat.id] = [];
+  for (const item of brief.items || []) {
+    const catTag = (item.tags || []).find(t => t.startsWith('cat:')) || 'cat:other';
+    if (!map[catTag]) map[catTag] = [];
+    map[catTag].push(item);
+  }
+  return map;
+}
+
+function renderNav() {
+  const nav = document.getElementById('nav-categories');
+  nav.innerHTML = '';
+  for (const cat of categorySections()) {
+    const btn = document.createElement('button');
+    btn.className = 'nav-link';
+    btn.textContent = (currentLang === 'zh' ? cat.emoji + ' ' + cat.zh : cat.emoji + ' ' + cat.en);
+    btn.onclick = () => {
+      document.getElementById('sec-' + cat.id)?.scrollIntoView({ behavior: 'smooth' });
+    };
+    nav.appendChild(btn);
+  }
+}
+
+function renderFeed() {
+  const main = document.getElementById('main-feed');
+  if (!currentBrief) {
+    main.innerHTML = '<div class="loading">No brief for this date.</div>';
+    return;
+  }
+  const grouped = itemsByCategory(currentBrief);
+  const meta = document.getElementById('meta-bar');
+  meta.textContent = currentLang === 'zh'
+    ? `日期 ${currentBrief.date} · ${currentBrief.items.length} 条 · 来源 ${(currentBrief.sources || []).join(' + ')}`
+    : `Date ${currentBrief.date} · ${currentBrief.items.length} items · ${(currentBrief.sources || []).join(' + ')}`;
+
+  let html = '';
+  for (const cat of categorySections()) {
+    const items = grouped[cat.id] || [];
+    if (!items.length) continue;
+    html += `<section id="sec-${cat.id}" class="anchor-section"><h2 class="category-title">${cat.emoji} ${currentLang === 'zh' ? cat.zh : cat.en}</h2><div class="blog-list">`;
+    for (const item of items) {
+      const title = currentLang === 'zh' ? (item.title.zh || item.title.en) : (item.title.en || item.title.zh);
+      const summary = currentLang === 'zh' ? (item.summary.zh || item.summary.en) : (item.summary.en || item.summary.zh);
+      const linkTitle = item.title.en || item.title.zh;
+      const tags = (item.tags || []).filter(t => !t.startsWith('cat:')).slice(0, 4);
+      const tagHtml = tags.map(t => `<span class="tag-chip">${t}</span>`).join('');
+      html += `<a class="blog-card" href="${item.url}" target="_blank" rel="noopener noreferrer">
+        <div class="blog-info">
+          <h3>${escapeHtml(title)}</h3>
+          <p>${escapeHtml(summary || '')}</p>
+          <div class="card-meta">
+            <span>${escapeHtml(item.source)}</span>
+            ${tagHtml}
+          </div>
+        </div>
+      </a>`;
+    }
+    html += '</div></section>';
+  }
+  main.innerHTML = html || '<div class="loading">No items.</div>';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function renderTimeline() {
+  const root = document.getElementById('timeline-root');
+  if (!manifest?.days?.length) {
+    root.innerHTML = '';
+    return;
+  }
+  const byMonth = {};
+  for (const day of manifest.days) {
+    const ym = day.date.slice(0, 7);
+    if (!byMonth[ym]) byMonth[ym] = [];
+    byMonth[ym].push(day);
+  }
+  let html = '';
+  const months = Object.keys(byMonth).sort().reverse();
+  months.forEach((ym, idx) => {
+    const [y, m] = ym.split('-');
+    const label = currentLang === 'zh' ? `${y} / ${parseInt(m)}月` : `${y} / ${monthName(m)}`;
+    const open = idx === 0 ? ' open' : '';
+    html += `<div class="month-group"><div class="month-title${open}" onclick="toggleTimeline(this)"><span>${label}</span><span class="icon">▶</span></div><div class="month-content${open}">`;
+    for (const day of byMonth[ym]) {
+      const md = day.date.slice(5);
+      const active = day.date === currentDate ? ' active' : '';
+      const labelDay = currentLang === 'zh' ? day.title_zh : day.title_en;
+      html += `<div class="timeline-item"><div class="item-date">${md}</div>
+        <button type="button" class="item-link${active}" onclick="loadDate('${day.date}')">${escapeHtml(labelDay)}</button></div>`;
+    }
+    html += '</div></div>';
+  });
+  root.innerHTML = html;
+}
+
+function monthName(m) {
+  const names = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return names[parseInt(m, 10) - 1] || m;
+}
+
+async function loadDate(date) {
+  currentDate = date;
+  const url = new URL(location.href);
+  url.searchParams.set('date', date);
+  history.replaceState({}, '', url);
+  currentBrief = await fetchJSON('data/daily/' + date + '.json');
+  renderFeed();
+  renderTimeline();
+}
+
+async function init() {
+  try {
+    manifest = await fetchJSON('data/manifest.json');
+    const q = getQueryDate();
+    currentDate = q || manifest.days[0]?.date;
+    if (!currentDate) throw new Error('no days');
+    await loadDate(currentDate);
+    switchLang(currentLang);
+  } catch (e) {
+    document.getElementById('main-feed').innerHTML = '<div class="loading">Failed to load: ' + escapeHtml(e.message) + '</div>';
+  }
+}
+init();
+</script>
+</body>
+</html>

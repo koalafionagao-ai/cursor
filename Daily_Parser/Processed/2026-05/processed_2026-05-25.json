@@ -1,0 +1,642 @@
+{
+  "date": "2026-05-25",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 35,
+    "by_category": {}
+  },
+  "items": [
+    {
+      "id": "LEGACY-001",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic为Claude Code和Claude Security准备Mythos 1",
+        "en": "Anthropic prepares Mythos 1 for Claude Code and Claude Security (2 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic正在推动Mythos 1模型的更广泛应用，该模型已通过漏洞发现计划出现在Google Cloud和AWS上，预计即将发布。此外，Claude Opus 4.8也传闻即将推出。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-002",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://huggingface.co/bytedance-research/Lance?utm_source=tldrai",
+      "title": {
+        "zh": "Lance（Hugging Face代码库）",
+        "en": "Lance (Hugging Face Repo)"
+      },
+      "summary": {
+        "zh": "Lance是一个轻量级的原生统一多模态模型，支持图像和视频的理解、生成和编辑。该模型仅使用3B活跃参数，在128块A100 GPU预算下从零开始训练，表现出色。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-003",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://x.com/_mohansolo/status/2058740603563966758?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini 3.5 Flash（低）版本发布（1 分钟阅读）",
+        "en": "Gemini 3.5 Flash (Low) (1 minute read)"
+      },
+      "summary": {
+        "zh": "Gemini 3.5 Flash（低）生成的 Token 数量比 Gemini 3.5 Flash（中）少约 45%，并且在软件工程任务上通常优于 Gemini 3.5 Flash（高）。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-004",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown",
+      "title": {
+        "zh": "华为表示计划通过“逻辑折叠”技术在2031年前制造1.4纳米芯片，该技术基于其新的Tau缩放定律，旨在突破摩尔定律的限制",
+        "en": "Huawei says it aims to make 1.4nm chips by 2031 using its “LogicFolding” tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits"
+      },
+      "summary": {
+        "zh": "华为宣布了一项名为Tau（τ）缩放定律的新原则，旨在指导半导体行业的未来发展。基于这一原则，华为计划到2031年推出具有1.4纳米工艺等效晶体管密度的高端芯片，试图突破摩尔定律的限制。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-005",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html?unlocked_article_code=1.lFA.gdLY.3R72u5UgZr1A&smid=url-share",
+      "title": {
+        "zh": "探讨英国AI安全研究所，其研究人员检测AI模型的安全漏洞，其工作正成为其他政府AI政策的蓝图",
+        "en": "A look at the UK's AI Safety Institute, whose researchers probe AI models for safety gaps, as its work becomes a blueprint for other governments' AI policies"
+      },
+      "summary": {
+        "zh": "英国AI安全研究所的研究人员专注于检测AI模型中的安全漏洞，其研究成果正逐渐成为其他国家政府制定AI政策的参考蓝图。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-006",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://x.com/bookwormengr/status/2057909493250539891",
+      "title": {
+        "zh": "DeepSeek的模型优化：减少HBM使用，助力中国AI硬件生态系统的构建",
+        "en": "A look at DeepSeek's model optimization to reduce HBM use, potentially enabling domestic memory, ASIC, and CPU makers to create a Chinese AI hardware ecosystem"
+      },
+      "summary": {
+        "zh": "文章探讨了DeepSeek的模型优化技术，这种技术可以减少高带宽内存（HBM）的使用，有望推动国内存储器、ASIC和CPU制造商构建中国的AI硬件生态系统。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-007",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://research.checkpoint.com/2026/fast-and-furious-nimbus-manticore-operations-during-the-iranian-conflict/",
+      "title": {
+        "zh": "伊朗威胁组织Nimbus Manticore如何利用AI辅助恶意软件开发和SEO投毒攻击公司",
+        "en": "How Iranian threat actor Nimbus Manticore used techniques like AI-assisted malware development and SEO poisoning to target companies during the US-Iran war"
+      },
+      "summary": {
+        "zh": "文章揭示了伊朗威胁组织Nimbus Manticore在美伊战争期间如何利用AI辅助恶意软件开发和SEO投毒等技术对公司进行攻击。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-008",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
+      "title": {
+        "zh": "供应链攻击“巨齿鲨”感染超过5500个GitHub代码库，利用自动提交传播恶意软件",
+        "en": "More than 5,500 GitHub repositories were infected with malware in a supply chain attack, dubbed Megalodon, on May 18 that relies on automated commits"
+      },
+      "summary": {
+        "zh": "5月18日，一场名为“巨齿鲨”的供应链攻击感染了超过5500个GitHub代码库，攻击依赖自动提交功能传播恶意软件。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-009",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/592e6821-b94f-42df-8cd4-368d11c19fac",
+      "title": {
+        "zh": "英国在人工智能领域落后于美中，转向神经形态计算等实验性技术以寻求计算主权",
+        "en": "The UK, outpaced by the US and China in AI, is turning to experimental technologies like neuromorphic computing in search of computing sovereignty"
+      },
+      "summary": {
+        "zh": "面对在人工智能领域被美国和中国超越的局面，英国正在探索神经形态计算等实验性技术，以实现计算主权并缩小差距。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-010",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems?utm_source=tldrai",
+      "title": {
+        "zh": "大规模评估多智能体系统",
+        "en": "Evaluating Multi-Agent Systems at Scale (48 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI提出了一种宏观评估工作流程，用于分析多智能体系统的行为模式，而不仅仅是孤立的失败案例。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-011",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/?utm_source=tldrai",
+      "title": {
+        "zh": "2026年7月28日MCP规范候选版本发布",
+        "en": "The 2026-07-28 MCP Specification Release Candidate (9 minute read)"
+      },
+      "summary": {
+        "zh": "下一版模型上下文协议（MCP）规范的候选版本现已发布。这是自发布以来最大的一次修订，包含无状态核心、与OAuth和OpenID Connect更紧密对齐的授权机制等多项重大变化，并引入了正式的弃用政策。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-012",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee?utm_source=tldrai",
+      "title": {
+        "zh": "Bumblebee 开源了（1 分钟阅读）",
+        "en": "Bumblebee Goes Open Source (1 minute read)"
+      },
+      "summary": {
+        "zh": "Perplexity 开源了 Bumblebee，这是一款只读的安全扫描器，可识别开发者机器上的高风险包、扩展和 AI 工具配置。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-013",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.businessinsider.com/x-cracks-down-on-stolen-content-nikita-bier-2026-5",
+      "title": {
+        "zh": "X表示正在打击通过“程序化重新上传小账户内容”来操纵其收入分享计划的大账户",
+        "en": "X says it is cracking down on large accounts that have been gaming its revenue-sharing program by “programmatically reuploading content from smaller accounts”"
+      },
+      "summary": {
+        "zh": "X宣布将打击那些通过程序化重新上传小账户内容来操纵收入分享计划的大账户，并将这些内容的浏览量完全分配给原作者。同时，X建议用户通过分享视频或引用功能来确保内容的正确归属。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-014",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/ai-agents-work-executives-a38400e1?st=7ax3UY&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "越来越多的高管创建AI数字孪生体来管理任务；里德·霍夫曼表示“Reid AI”自2024年以来已完成75次以上的演讲和报告",
+        "en": "A growing number of execs are creating AI digital twins to manage tasks; Reid Hoffman says “Reid AI” has delivered 75+ addresses and presentations since 2024"
+      },
+      "summary": {
+        "zh": "越来越多的高管开始使用AI数字孪生体来处理任务。里德·霍夫曼透露，他的“Reid AI”自2024年以来已完成超过75次演讲和报告。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-015",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/?utm_source=tldrai",
+      "title": {
+        "zh": "Reasonix（网站）",
+        "en": "Reasonix (Website)"
+      },
+      "summary": {
+        "zh": "Reasonix是一个为终端设计的DeepSeek原生编码代理，围绕前缀缓存稳定性构建，设计为可持续运行，且在长时间会话中保持低代币成本。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-016",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 计划通过新的记忆文件更新 Claude 的记忆功能（2 分钟阅读）",
+        "en": "Anthropic plans Claude memory update with new Memory Files (2 minute read)"
+      },
+      "summary": {
+        "zh": "记忆文件将笔记分布在多个按主题、项目或上下文组织的结构化文档中。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-017",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://threadreaderapp.com/thread/2057908052968521902.html?utm_source=tldrai",
+      "title": {
+        "zh": "文书工作更轻松：只需通过对话完成（1 分钟阅读）",
+        "en": "Paperwork is better when you can just talk through it (1 minute read)"
+      },
+      "summary": {
+        "zh": "ChatGPT 用户现在可以上传表单图片，添加所需填写的详细信息，聊天机器人将自动为其填写表单。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-018",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share",
+      "title": {
+        "zh": "教皇利奥十四世发布关于人工智能的通谕《伟大的人性》，呼吁对人工智能进行监管，保护儿童免受过度性化AI图像的侵害等",
+        "en": "Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more"
+      },
+      "summary": {
+        "zh": "教皇利奥十四世发布了一份名为《伟大的人性》的通谕，呼吁对人工智能进行监管，保护儿童免受过度性化AI图像的侵害，并强调人工智能应服务于人类尊严，而非成为支配或排斥的工具。此外，通谕还提到放缓人工智能发展和关注技术供应链中的“新型奴役”问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-019",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/europe/eu-plans-fine-google-high-triple-digit-million-euro-sum-handelsblatt-reports-2026-05-25/",
+      "title": {
+        "zh": "报告：欧盟计划对谷歌处以高达数亿欧元的罚款，因其在2025年调查中被指偏袒自身服务的搜索结果",
+        "en": "Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results"
+      },
+      "summary": {
+        "zh": "据报道，欧盟计划在2025年的一项调查中对谷歌处以高达数亿欧元的罚款，原因是其搜索结果中被指偏袒自家服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-020",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/middle-east/irans-president-orders-reopening-international-internet-access-state-media-2026-05-25/",
+      "title": {
+        "zh": "伊朗国家媒体报道总统马苏德·佩泽什基安下令在近90天的断网后重新开放国际互联网访问",
+        "en": "Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout"
+      },
+      "summary": {
+        "zh": "伊朗国家媒体报道称，总统马苏德·佩泽什基安已下令重新开放国际互联网访问，此前该国经历了近90天的网络中断。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-021",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.calcalistech.com/ctechnews/article/b1oebi11xge",
+      "title": {
+        "zh": "消息人士称Wix预计将在未来几个月裁员约1000人，占其员工总数的约20%，原因是2026年第一季度业绩疲软及股价暴跌约50%",
+        "en": "Sources: Wix is expected to cut ~1,000 jobs in the coming months, or ~20% of its workforce, after weak Q1 earnings and a ~50% collapse of its stock in 2026"
+      },
+      "summary": {
+        "zh": "消息人士透露，由于2026年第一季度业绩疲软以及股价暴跌约50%，Wix预计将在未来几个月裁员约1000人，占其员工总数的约20%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-022",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-25/softbank-shares-hit-record-high-with-lift-from-openai-ipo-hopes",
+      "title": {
+        "zh": "软银股价周一上涨4.6%创历史新高，因市场对其在OpenAI和SB能源公司股份上市后获得高额回报的期望",
+        "en": "SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company's stakes in OpenAI and SB Energy Corp if they go public"
+      },
+      "summary": {
+        "zh": "软银股价周一上涨4.6%创历史新高，主要受市场对其在OpenAI和SB能源公司股份上市后可能获得高额回报的预期推动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-023",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/meta-andrew-bosworth-ai-3df12d4f?st=bsjQcE&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Meta首席技术官Andrew “Boz” Bosworth：领导Meta转型为AI优先公司的关键人物",
+        "en": "A profile of Meta CTO Andrew “Boz” Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company"
+      },
+      "summary": {
+        "zh": "文章聚焦Meta首席技术官Andrew “Boz” Bosworth，他是马克·扎克伯格的重要助手，正在领导Meta向AI优先公司转型的巨大努力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-024",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/big-tech/article/3354556/how-xiaomis-push-ai-chips-and-evs-future-proofing-its-hardware-empire",
+      "title": {
+        "zh": "小米的AI战略：未来保障其硬件和电动车生态系统，未来三年投资约88亿美元",
+        "en": "A look at Xiaomi's AI push to future-proof its hardware and EV ecosystem, as it recently committed ~$8.8B in AI investments over the next three years"
+      },
+      "summary": {
+        "zh": "文章分析了小米在AI领域的努力，包括未来三年投入约88亿美元，以确保其硬件和电动车生态系统的未来竞争力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-025",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+      "title": {
+        "zh": "FTC与Cox、MindSift和1010 Digital Works达成93万美元和解，因其虚假声称可利用手机麦克风进行广告定位",
+        "en": "The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting"
+      },
+      "summary": {
+        "zh": "美国联邦贸易委员会（FTC）与Cox、MindSift和1010 Digital Works达成93万美元的和解协议，因这些公司虚假声称可以利用手机麦克风监视用户以进行广告定位。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-026",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
+      "title": {
+        "zh": "Quartermaster完成4300万美元A轮融资，开发实时海事数据分析平台和智能桅杆",
+        "en": "Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship's mast to relay real-time maritime data, raised a $43M Series A"
+      },
+      "summary": {
+        "zh": "Quartermaster正在开发一个分析平台和智能桅杆，后者通过船舶桅杆上的传感器传输实时海事数据，公司已完成4300万美元的A轮融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-027",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-19/la-caisse-arm-buys-database-firm-isc-in-872-million-deal",
+      "title": {
+        "zh": "Plenary Americas LP同意以8.72亿美元收购加拿大数据库公司ISC并将其私有化，预计第三季度完成交易",
+        "en": "Plenary Americas LP, La Caisse's infrastructure arm, agrees to acquire and take private Canadian database company ISC for $872M, expected to close in Q3"
+      },
+      "summary": {
+        "zh": "La Caisse的基础设施部门Plenary Americas LP同意以8.72亿美元收购加拿大数据库公司ISC并将其私有化，交易预计将在2023年第三季度完成。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-028",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bostonglobe.com/2026/05/25/business/massachusetts-app-drivers-union/",
+      "title": {
+        "zh": "马萨诸塞州正式承认应用司机工会，代表约7万名工人，成为美国首个州认证的网约车工会",
+        "en": "Massachusetts formally recognizes the App Drivers Union, which says it represents ~70,000 workers and is the first state-certified rideshare union in the US"
+      },
+      "summary": {
+        "zh": "马萨诸塞州正式承认应用司机工会，该工会声称代表约7万名工人，成为美国首个获得州认证的网约车工会。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-029",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/tether-georgia-government-launch-official-stablecoin-georgia-2026-05-25/",
+      "title": {
+        "zh": "Tether计划推出GELT，一种代表格鲁吉亚拉里的“官方”稳定币，并获得格鲁吉亚政府的支持",
+        "en": "Tether plans to launch GELT, an “official” stablecoin representing the Georgian lari, with the support of Georgia's government in an unusual partnership"
+      },
+      "summary": {
+        "zh": "Tether宣布计划推出名为GELT的稳定币，该币将代表格鲁吉亚的法定货币拉里。这一举措得到了格鲁吉亚政府的支持，标志着一种不同寻常的合作模式。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-030",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242d?st=WHZ8nS&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "David Sacks的最后时刻请求促使特朗普推迟签署AI行政命令",
+        "en": "David Sacks's 11th-Hour Plea Led to Trump's Backtrack on AI Executive Order (9 minute read)"
+      },
+      "summary": {
+        "zh": "风险投资家David Sacks在与特朗普的通话中警告称，拟议的AI行政命令可能导致强制性监管，从而减缓美国在与中国竞争中的AI发展。特朗普随后决定推迟签署该命令，显示了Sacks的强大影响力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-031",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://contraryresearch.substack.com/p/anthropics-march-to-profitability?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic迈向盈利之路",
+        "en": "Anthropic's march to profitability (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic在第二季度的收入达到109亿美元，比第一季度的48亿美元大幅增长。计算成本的下降是其盈利的关键因素，公司预计将在10月IPO前实现5.59亿美元的利润。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-032",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e?utm_source=tldrai",
+      "title": {
+        "zh": "TLDR 招聘高级软件工程师，专注于应用 AI（年薪 25 万至 35 万美元，全远程）",
+        "en": "TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)"
+      },
+      "summary": {
+        "zh": "TLDR 的应用 AI 团队致力于使公司所有流程可被代码理解、任何人可运行，并可组合成更大的工作流。加入一个使用最新 AI 工具的小型快速团队，且拥有无限的 Token 预算。了解更多信息。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-033",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html?unlocked_article_code=1.k1A.TWOD.KHWZKRVSxV6R&smid=bs-share",
+      "title": {
+        "zh": "特朗普政府如何削弱商品期货交易委员会（CFTC），撤换执法人员并任命对行业友好的官员，同时特朗普家族涉足加密货币和预测市场",
+        "en": "How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets"
+      },
+      "summary": {
+        "zh": "报道揭示了特朗普政府如何削弱商品期货交易委员会（CFTC），包括撤换执法人员并任命对行业友好的官员，同时特朗普家族开始涉足加密货币和预测市场。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-034",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/05/24/ai-hallucinations-scientific-research-authors-medical-journal-treatment/",
+      "title": {
+        "zh": "研究：自2023年以来，生物医学论文中伪造引用的比例增长了12倍以上；到2026年初，每277篇论文中至少有一篇包含不存在的引用",
+        "en": "Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference"
+      },
+      "summary": {
+        "zh": "一项研究显示，自2023年以来，生物医学论文中伪造引用的比例显著增加，到2026年初，每277篇论文中就有一篇至少包含一个不存在的引用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-035",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://variety.com/2026/digital/news/star-citizen-1-billion-funding-squadron-42-release-update-1236757420/",
+      "title": {
+        "zh": "自2012年开发以来，《星际公民》游戏累计融资已达10亿美元，但仍处于测试阶段且未确定发布日期",
+        "en": "Star Citizen, a video game in development since 2012, has reached $1B in lifetime funding; it remains in alpha and does not have a confirmed release date"
+      },
+      "summary": {
+        "zh": "《星际公民》是一款自2012年开始开发的电子游戏，目前已筹集了10亿美元的总资金。然而，该游戏仍处于Alpha测试阶段，尚未确定正式发布日期。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "site_name": "AI Daily",
+  "base_path": "/ai-daily/",
+  "categories": [
+    {
+      "id": "cat:model",
+      "zh": "新模型",
+      "en": "Models",
+      "emoji": "🧠"
+    },
+    {
+      "id": "cat:tech",
+      "zh": "新技术",
+      "en": "Technology",
+      "emoji": "⚙️"
+    },
+    {
+      "id": "cat:app",
+      "zh": "新应用",
+      "en": "Applications",
+      "emoji": "📱"
+    },
+    {
+      "id": "cat:business",
+      "zh": "新商业",
+      "en": "Business",
+      "emoji": "💼"
+    },
+    {
+      "id": "cat:other",
+      "zh": "其它",
+      "en": "Other",
+      "emoji": "📌"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-05-28",
+      "title_zh": "AI 简报 2026-05-28",
+      "title_en": "AI Daily 2026-05-28",
+      "total": 41,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-28.json"
+    },
+    {
+      "date": "2026-05-26",
+      "title_zh": "AI 简报 2026-05-26",
+      "title_en": "AI Daily 2026-05-26",
+      "total": 34,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-26.json"
+    },
+    {
+      "date": "2026-05-25",
+      "title_zh": "AI 简报 2026-05-25",
+      "title_en": "AI Daily 2026-05-25",
+      "total": 35,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-25.json"
+    },
+    {
+      "date": "2026-05-19",
+      "title_zh": "AI 简报 2026-05-19",
+      "title_en": "AI Daily 2026-05-19",
+      "total": 64,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-19.json"
+    }
+  ],
+  "category_labels": {
+    "cat:model": "新模型",
+    "cat:tech": "新技术",
+    "cat:app": "新应用",
+    "cat:business": "新商业",
+    "cat:other": "其它"
+  }
+}
