@@ -18,7 +18,6 @@
   let route = { month: "", view: "hub", date: "", tag: "", cat: "" };
   /** 主面板默认只看未读；关闭后显示全部（已读带 ✅） */
   let filterUnread = true;
-  let tagOnlyUnread = true;
 
   function asset(path) {
     return BASE + path.replace(/^\//, "");
@@ -203,6 +202,40 @@
     return `${unread}/${total}`;
   }
 
+
+  function monthLabelFor(routeMonth) {
+    const m = (manifest?.months || []).find((x) => x.id === routeMonth);
+    if (!m) return routeMonth;
+    return lang === "zh" ? m.label_zh : m.label_en;
+  }
+
+  function renderFilterChips() {
+    return `<div class="toolbar-filters">
+      <button type="button" class="chip chip-filter${filterUnread ? " active" : ""}" id="btn-filter-unread">${t("未读", "Unread")}</button>
+      <button type="button" class="chip chip-filter${!filterUnread ? " active" : ""}" id="btn-filter-all">${t("全部", "All")}</button>
+    </div>`;
+  }
+
+  function renderActionChips(opts = {}) {
+    const { catchUp = false, markDay = false } = opts;
+    let html = `<div class="toolbar-actions">`;
+    if (markDay) {
+      html += `<button type="button" class="chip chip-act" id="btn-mark-day">${t("全部已读", "Mark all read")}</button>`;
+    } else {
+      html += `<button type="button" class="chip chip-act" id="btn-mark-all">${t("全部已读", "Mark all read")}</button>`;
+    }
+    if (catchUp) {
+      html += `<button type="button" class="chip chip-act" id="btn-catch-up">${t("追平到最新", "Catch up to latest")}</button>`;
+    }
+    html += `</div>`;
+    return html;
+  }
+
+  function renderToolbar(opts = {}) {
+    const { catchUp = false, markDay = false } = opts;
+    return `<div class="toolbar">${renderFilterChips()}${renderActionChips({ catchUp, markDay })}</div>`;
+  }
+
   function getVisibleItems(applyUnreadFilter = filterUnread) {
     if (!monthData) return [];
     let list = [...monthData.items];
@@ -262,41 +295,30 @@
   function renderDashboard() {
     const s = monthStats;
     const lv = getLastVisit();
-  return `<div class="dashboard-card">
-      <div class="stat-hero">
-        <div class="stat-month">${t('月份','Month')}: <strong>${route.month}</strong></div>
-        <div class="stat-primary">
+  const ml = monthLabelFor(route.month);
+  return `<div class="dashboard-card dashboard-compact">
+      <div class="stat-headline">
+        <span class="stat-month-big">${escapeHtml(ml)}</span>
+        <span class="stat-primary">
           <span class="stat-number">${s.unread}</span>
           <span class="stat-unit">${t("条未读", "unread")}</span>
-        </div>
-        <p class="stat-equation">${t("本月", "This month")} <strong>${s.total}</strong> ${t("条", "items")}
-          = <span class="stat-unread">${s.unread}</span> ${t("未读", "unread")}
-          + <span class="stat-read">${s.read}</span> ${t("已读", "read")}</p>
+        </span>
       </div>
-      <div class="stat-secondary">
-        <span>${t("未读分布在", "Unread across")} <strong>${s.daysWithUnread}</strong> ${t("天", "days")}
-          · <strong>${s.catsWithUnread}</strong> ${t("个分类", "categories")}
-          · <strong>${s.tagsWithUnread}</strong> ${t("个标签", "tags")}</span>
-      </div>
-      <p class="stat-hint">${t("追平基准日", "Catch-up baseline")}: <strong>${lv || t("无（全部算未读）", "none — all unread")}</strong>
+      <p class="stat-equation">${t("本月", "This month")} <strong>${s.total}</strong> ${t("条", "items")}
+        = <span class="stat-unread">${s.unread}</span> ${t("未读", "unread")}
+        + <span class="stat-read">${s.read}</span> ${t("已读", "read")}
+        · ${t("未读分布在", "Unread across")} <strong>${s.daysWithUnread}</strong> ${t("天", "days")}
+        · <strong>${s.catsWithUnread}</strong> ${t("分类", "cat")}
+        · <strong>${s.tagsWithUnread}</strong> ${t("标签", "tags")}</p>
+      <p class="stat-meta">${t("追平基准日", "Baseline")}: <strong>${lv || t("无", "none")}</strong>
         · ${t("最新简报", "Latest")}: <strong>${manifest?.latest_date || "-"}</strong></p>
-      <p class="stat-hint muted">${t("历史日期无红点 = 该日早于基准日或已标已读，不是自动全员已读。", "No dot on older dates = before baseline or marked read.")}</p>
     </div>`;
   }
 
   function renderMain() {
     const el = document.getElementById("main-panel");
     const items = getVisibleItems();
-    const toolbar = `<div class="toolbar">
-        <div class="toolbar-left">
-          <button type="button" class="chip${filterUnread ? " active" : ""}" id="btn-unread-filter">${filterUnread ? t("仅未读", "Unread only") : t("显示全部（含已读）", "Show all incl. read")}</button>
-        </div>
-        <div class="toolbar-right">
-          <button type="button" class="chip action" id="btn-mark-all">${t("全部已读", "Mark all read")}</button>
-          <button type="button" class="chip action" id="btn-catch-up">${t("追平到最新", "Catch up")}</button>
-          <button type="button" class="chip action chip-ghost" id="btn-reset-read">${t("重置阅读记录", "Reset")}</button>
-        </div>
-      </div>`;
+    const toolbar = renderToolbar({ catchUp: true });
 
     if (route.view === "hub") {
       let body = "";
@@ -334,32 +356,15 @@
     const list = items.length
       ? items.map(renderCard).join("")
       : `<div class="empty">${filterUnread ? t("此处无未读", "No unread here") : t("无内容", "Empty")}</div>`;
-    const extraDay =
-      route.view === "day"
-        ? `<button type="button" class="chip" id="btn-mark-day">${t("全部已读", "Mark all read")}</button>`
-        : "";
-    el.innerHTML = `<h2 class="view-title">${escapeHtml(title)}</h2>
-      <div class="toolbar">
-        <button type="button" class="chip chip-back" id="btn-back-hub">${t("← 本月面板", "← Month hub")}</button>
-        <button type="button" class="chip${filterUnread ? " active" : ""}" id="btn-unread-filter">${filterUnread ? t("仅未读", "Unread only") : t("显示全部", "Show all")}</button>
-        ${extraDay}
-        <button type="button" class="chip" id="btn-mark-all">${t("本页标为已读", "Mark visible read")}</button>
-      </div>
-      <div class="blog-list">${list}</div>`;
+    const backLink = `<p class="view-back"><a href="#" id="link-back-hub">${t("← 返回本月面板", "← Back to month")}</a></p>`;
+    const subToolbar = renderToolbar({ markDay: route.view === "day", catchUp: false });
+    el.innerHTML = `${backLink}<h2 class="view-title">${escapeHtml(title)}</h2>${subToolbar}<div class="blog-list">${list}</div>`;
   }
 
   function renderLeftNav() {
     const el = document.getElementById("left-nav");
     const s = monthStats;
-    let html = `<div class="toolbar" style="margin-bottom:14px;">
-      <div class="toolbar-left">
-        <button type="button" class="chip action chip-ghost" id="btn-reset-left">${t("重置阅读记录", "Reset")}</button>
-      </div>
-      <div class="toolbar-right">
-        <button type="button" class="chip action" id="btn-catch-up-left">${t("追平到最新", "Catch up")}</button>
-      </div>
-    </div>
-    <p class="panel-title">${t("月份", "Months")}</p>`;
+    let html = `<p class="panel-title">${t("时间", "Timeline")}</p><div class="nav-scroll">`;
 
     for (const m of manifest.months || []) {
       const open = m.id === route.month;
@@ -384,16 +389,6 @@
       html += `</div></div>`;
     }
 
-    html += `<p class="panel-title">${t("分类（本月）", "Categories")}</p><div class="nav-stack">`;
-    for (const cat of manifest.categories || []) {
-      const st = s.byCat[cat.id] || { total: 0, unread: 0 };
-      if (st.total === 0) continue;
-      const active = route.view === "cat" && route.cat === cat.id ? " active" : "";
-      html += `<button type="button" class="nav-item${active}" data-cat="${cat.id}">
-        <span>${cat.emoji} ${lang === "zh" ? cat.zh : cat.en}</span>
-        <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
-      </button>`;
-    }
     html += `</div>`;
     el.innerHTML = html;
   }
@@ -403,13 +398,19 @@
     const s = monthStats;
     const groups = window.AI_DAILY_TAG_GROUPS || [];
     const used = new Set(Object.keys(s.byTag));
-    let html = `<p class="panel-title">${t("标签（本月）", "Tags this month")}</p>
-      <p class="panel-hint">${t("数字 = 未读/本月共出现", "Numbers = unread / total in month")}</p>
-      <div class="toolbar"><div class="toolbar-left">
-        <button type="button" class="chip${tagOnlyUnread ? ' active' : ''}" id="btn-tag-unread">${tagOnlyUnread ? t("仅未读标签", "Unread tags") : t("全部标签", "All tags")}</button>
-      </div><div class="toolbar-right">
-        <button type="button" class="chip action chip-ghost" id="btn-reset-read-side">${t("重置", "Reset")}</button>
-      </div></div>`;
+    let html = `<p class="panel-title">${t("分类（本月）", "Categories")}</p><div class="nav-stack compact-nav">`;
+    for (const cat of manifest.categories || []) {
+      const st = s.byCat[cat.id] || { total: 0, unread: 0 };
+      if (st.total === 0) continue;
+      const active = route.view === "cat" && route.cat === cat.id ? " active" : "";
+      html += `<button type="button" class="nav-item${active}" data-cat="${cat.id}">
+        <span>${cat.emoji} ${lang === "zh" ? cat.zh : cat.en}</span>
+        <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
+      </button>`;
+    }
+    html += `</div><p class="panel-title">${t("标签（本月）", "Tags")}</p>
+      <p class="panel-hint">${t("未读/本月出现；全读显示置灰", "Unread/total; all-read grayed")}</p>
+      <div class="nav-scroll tags-scroll">`;
 
     const assigned = new Set();
 
@@ -420,7 +421,6 @@
         assigned.add(tag);
         const st = s.byTag[tag];
         if (!st?.total) continue;
-        if (tagOnlyUnread && st.unread === 0) continue;
         entries.push({ tag, ...st });
       }
       entries.sort((a, b) => b.unread - a.unread || b.total - a.total);
@@ -429,9 +429,9 @@
       html += `<div class="tag-group"><div class="tag-group-title">${lang === "zh" ? group.label.zh : group.label.en}</div><div class="tag-cloud">`;
       for (const { tag, unread, total } of entries) {
         const active = route.view === "tag" && route.tag === tag ? " active" : "";
-        html += `<button type="button" class="chip chip-tag${active}" data-tag-nav="${escapeHtml(tag)}">
+        html += `<button type="button" class="chip chip-tag${active}${unread === 0 ? " is-done" : ""}" data-tag-nav="${escapeHtml(tag)}">
           <span class="tag-name">${escapeHtml(tag)}</span>
-          <span class="nav-count ${unread ? "" : "muted"}">${unread}/${total}</span>
+          <span class="nav-count ${unread ? "" : "muted"}">${countLabel(unread, total)}</span>
         </button>`;
       }
       html += `</div></div>`;
@@ -443,7 +443,7 @@
       for (const tag of other) {
         const st = s.byTag[tag];
         const active = route.view === "tag" && route.tag === tag ? " active" : "";
-        html += `<button type="button" class="chip chip-tag${active}" data-tag-nav="${escapeHtml(tag)}">
+        html += `<button type="button" class="chip chip-tag${active}${unread === 0 ? " is-done" : ""}" data-tag-nav="${escapeHtml(tag)}">
           <span class="tag-name">${escapeHtml(tag)}</span>
           <span class="nav-count ${st.unread ? "" : "muted"}">${st.unread}/${st.total}</span>
         </button>`;
@@ -451,6 +451,7 @@
       html += `</div></div>`;
     }
 
+    html += `</div>`;
     el.innerHTML = html;
   }
 
@@ -475,12 +476,22 @@
 
     document.getElementById("tag-panel")?.addEventListener("click", (e) => {
       const tag = e.target.closest("[data-tag-nav]");
-      if (tag) navigate(`#/${route.month}/tag/${encodeURIComponent(tag.dataset.tagNav)}`);
+      if (tag) {
+        navigate(`#/${route.month}/tag/${encodeURIComponent(tag.dataset.tagNav)}`);
+        return;
+      }
+      const cat = e.target.closest("[data-cat]");
+      if (cat) navigate(`#/${route.month}/cat/${encodeURIComponent(cat.dataset.cat)}`);
     });
 
     document.getElementById("main-panel")?.addEventListener("click", (e) => {
-      if (e.target.id === "btn-unread-filter") {
-        filterUnread = !filterUnread;
+      if (e.target.id === "btn-filter-unread") {
+        filterUnread = true;
+        render();
+        return;
+      }
+      if (e.target.id === "btn-filter-all") {
+        filterUnread = false;
         render();
         return;
       }
@@ -488,18 +499,9 @@
         markAllVisibleRead();
         return;
       }
-      if (e.target.id === "btn-catch-up" || e.target.id === "btn-catch-up-left") {
+      if (e.target.id === "btn-catch-up") {
         setLastVisit();
         render();
-        return;
-      }
-      if (e.target.id === "btn-reset-read" || e.target.id === "btn-reset-left" || e.target.id === "btn-reset-read-side") {
-        resetReadState();
-        return;
-      }
-      if (e.target.id === "btn-tag-unread") {
-        tagOnlyUnread = !tagOnlyUnread;
-        renderTagPanel();
         return;
       }
 
@@ -507,7 +509,8 @@
         markDayRead(route.date);
         return;
       }
-      if (e.target.id === "btn-back-hub") {
+      if (e.target.id === "btn-back-hub" || e.target.id === "link-back-hub") {
+        e.preventDefault();
         navigate("#/" + route.month);
         return;
       }
