@@ -142,3 +142,47 @@ body {
   .main-content { max-width: 100%; }
   .nav-stack { flex-direction: row; flex-wrap: wrap; }
 }
+
+/* ── v2: 统计、标题块、已读、标签分组 ── */
+.stat-hero { margin-bottom: 12px; }
+.stat-primary { display: flex; align-items: baseline; gap: 8px; margin-bottom: 6px; }
+.stat-number { font-size: 2.5rem; font-weight: 600; color: var(--text-main); line-height: 1; }
+.stat-unit { font-size: 1rem; color: var(--text-muted); }
+.stat-equation { margin: 0; font-size: 0.9rem; color: var(--text-muted); }
+.stat-equation strong { color: var(--text-main); }
+.stat-unread { color: var(--unread-dot); font-weight: 600; }
+.stat-read { color: var(--text-muted); }
+.stat-secondary { font-size: 0.88rem; color: var(--text-muted); margin-bottom: 8px; }
+.stat-hint { margin: 4px 0 0; font-size: 0.8rem; color: var(--text-muted); }
+.stat-hint.muted { opacity: 0.85; font-size: 0.75rem; }
+
+.nav-count { font-size: 0.78rem; font-variant-numeric: tabular-nums; color: var(--text-muted); flex-shrink: 0; }
+.nav-count.muted { opacity: 0.55; }
+.month-title .nav-count { margin-right: 8px; font-size: 0.75rem; }
+
+.title-block { margin-bottom: 8px; padding-bottom: 8px; border-bottom: 1px dashed var(--border-color); }
+.title-block .title-zh { margin: 0 0 6px; font-size: 1.05rem; font-weight: 600; line-height: 1.4; }
+.title-block .title-en {
+  margin: 0; font-size: 0.8rem; color: var(--text-muted); line-height: 1.45;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+
+.blog-card.is-read { opacity: 0.92; border-left-color: var(--border-color); }
+.blog-card.is-read.unread { opacity: 1; }
+.read-badge {
+  position: absolute; top: 14px; right: 14px; width: 22px; height: 22px; border-radius: 50%;
+  background: var(--success-color); color: #fff; font-size: 0.75rem; display: flex; align-items: center; justify-content: center;
+}
+.blog-card { position: relative; }
+.card-footer { flex-direction: column; align-items: flex-start; gap: 8px; }
+.meta-line { font-size: 0.78rem; }
+.tag-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.mark-read-btn { margin-left: 0; align-self: flex-end; }
+
+.section-count { font-size: 0.85rem; font-weight: 500; color: var(--text-muted); margin-left: 8px; }
+.panel-hint { font-size: 0.72rem; color: var(--text-muted); margin: -6px 0 12px; line-height: 1.4; }
+.tag-group { margin-bottom: 18px; }
+.tag-group-title { font-size: 0.8rem; font-weight: 600; color: var(--text-main); margin-bottom: 8px; }
+.chip-tag { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; }
+.chip-tag .tag-name { max-width: 120px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chip-ghost { background: transparent; border-style: dashed; }
