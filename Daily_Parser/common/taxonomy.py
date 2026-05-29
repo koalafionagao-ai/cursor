@@ -311,6 +311,30 @@ def normalize_tags(
     return out
 
 
+
+def infer_entity_tags_from_text(text: str, *, max_n: int = 2) -> list[str]:
+    """当 LLM 未返回实体标签时，从标题/摘要做词表回退匹配（非自造标签）。"""
+    if not text:
+        return []
+    low = text.lower()
+    found: list[str] = []
+    for alias, tag in sorted(ALIASES.items(), key=lambda x: -len(x[0])):
+        if tag.startswith("cat:") or tag not in ENTITY_TAGS:
+            continue
+        if alias in low and tag not in found:
+            found.append(tag)
+            if len(found) >= max_n:
+                return found
+    for tag in ENTITY_TAGS:
+        if tag in found:
+            continue
+        needle = tag.replace("-", " ")
+        if needle in low or tag in low:
+            found.append(tag)
+            if len(found) >= max_n:
+                break
+    return found
+
 def tags_for_prompt() -> str:
     """供 LLM system prompt 使用的标签清单摘要。"""
     lines = [
