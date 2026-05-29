@@ -364,9 +364,11 @@
 
   function wrapMainScrollable(headHtml, toolbarHtml, bodyHtml) {
     return `<div class="main-column">
-      <div class="main-hub-head">${headHtml}</div>
       <div class="main-toolbar-wrap">${toolbarHtml}</div>
-      <div class="main-feed-scroll">${bodyHtml}</div>
+      <div class="main-feed-scroll">
+        <div class="main-hub-head">${headHtml}</div>
+        ${bodyHtml}
+      </div>
     </div>`;
   }
 
@@ -421,9 +423,9 @@
       <div class="card-footer">
         <div class="card-footer-row">
           <span class="meta-line">${escapeHtml(it.source)} · ${it.date}</span>
+          <span class="tag-row${tags ? "" : " tag-row-empty"}">${tags || `<span class="tag-none" title="${escapeHtml(t("无实体标签（仅有分类）；多来自 LLM 未命中词表或历史 LEGACY 数据", "No entity tags (category only); often LLM miss or legacy rows"))}">—</span>`}</span>
           <button type="button" class="mark-read-btn" data-mark="${it.date}:${it.id}">${read ? t("标为未读", "Mark unread") : t("标为已读", "Mark read")}</button>
         </div>
-        ${tags ? `<span class="tag-row">${tags}</span>` : ""}
       </div>
     </a>`;
   }
@@ -779,6 +781,56 @@
     renderLeftNav();
     renderTagPanel();
     renderMain();
+    bindMobileChrome();
+  }
+
+  let mobileWinScrollBound = false;
+
+  function bindMobileChrome() {
+    const feed = document.querySelector(".main-feed-scroll");
+    const header = document.querySelector(".header-bar");
+    if (!feed || !header) return;
+
+    if (!feed.dataset.scrollBound) {
+      feed.dataset.scrollBound = "1";
+      let lastY = feed.scrollTop;
+      let ticking = false;
+      feed.addEventListener(
+        "scroll",
+        () => {
+          if (!ticking) {
+            ticking = true;
+            requestAnimationFrame(() => {
+              const y = feed.scrollTop;
+              if (y > lastY + 8 && y > 72) header.classList.add("header-hidden");
+              else if (y < lastY - 8 || y <= 8) header.classList.remove("header-hidden");
+              lastY = y;
+              ticking = false;
+            });
+          }
+        },
+        { passive: true }
+      );
+    }
+
+    if (!mobileWinScrollBound) {
+      mobileWinScrollBound = true;
+      let winLast = 0;
+      window.addEventListener(
+        "scroll",
+        () => {
+          if (window.innerWidth > 768) {
+            header.classList.remove("header-hidden");
+            return;
+          }
+          const y = window.scrollY;
+          if (y > winLast + 8 && y > 48) header.classList.add("header-hidden");
+          else if (y < winLast - 8) header.classList.remove("header-hidden");
+          winLast = y;
+        },
+        { passive: true }
+      );
+    }
   }
 
   async function init() {

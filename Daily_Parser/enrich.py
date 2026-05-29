@@ -18,7 +18,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 from common.dates import parse_date_list  # noqa: E402
 from common.llm import DEFAULT_MODEL, run_batches  # noqa: E402
 from common.schema import BlocksFile, ProcessedBrief, ProcessedItem, TweetItem  # noqa: E402
-from common.taxonomy import CATEGORY_ID_TO_TAG, normalize_tags, tags_for_prompt  # noqa: E402
+from common.taxonomy import CATEGORY_ID_TO_TAG, infer_entity_tags_from_text, normalize_tags, tags_for_prompt  # noqa: E402
 from common.text_utils import is_duplicate, pick_summary  # noqa: E402
 
 BATCH_SIZE = 10
@@ -125,6 +125,11 @@ def process_date(date_str: str) -> bool:
         if isinstance(raw_tags, str):
             raw_tags = [raw_tags]
         tags = normalize_tags(list(raw_tags), category_id=cat_id)
+        if not any(not t.startswith("cat:") for t in tags):
+            hint = f"{block.title} {(row.get('zh_title') or '')} {block.excerpt or ''}"
+            for t in infer_entity_tags_from_text(hint):
+                if t not in tags:
+                    tags.append(t)
 
         src = row.get("source") or ("Techmeme" if item_id.startswith("TM") else "TLDR")
         url = url_mapping.get(item_id, block.url or "")
