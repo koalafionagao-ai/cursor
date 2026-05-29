@@ -1,0 +1,86 @@
+/* Layout v3 — compact hub, split toolbars, scrollable nav */
+
+.layout-container { gap: 28px; }
+.sidebar-left { width: 168px; }
+.sidebar-right { width: 248px; max-height: calc(100vh - 120px); display: flex; flex-direction: column; }
+
+.nav-scroll {
+  max-height: min(42vh, 360px);
+  overflow-y: auto;
+  padding-right: 4px;
+  margin-bottom: 4px;
+}
+.tags-scroll { max-height: min(38vh, 320px); }
+.compact-nav { margin-bottom: 12px; }
+
+/* Dashboard: month + unread same visual tier */
+.dashboard-compact { padding: 18px 20px; margin-bottom: 18px; }
+.stat-headline {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px 20px;
+  margin-bottom: 10px;
+}
+.stat-month-big {
+  font-size: 2.5rem; font-weight: 600; color: var(--text-main); line-height: 1.1;
+}
+.stat-headline .stat-primary { margin: 0; }
+.stat-headline .stat-number { font-size: 2.5rem; }
+.stat-meta { margin: 0; font-size: 0.8rem; color: var(--text-muted); }
+
+/* Toolbars: filters (left) vs actions (right) */
+.toolbar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 12px; margin-bottom: 18px;
+}
+.toolbar-filters, .toolbar-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+
+.chip-filter {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  color: var(--text-muted);
+}
+.chip-filter:hover { border-color: var(--accent-color); color: var(--text-main); }
+.chip-filter.active {
+  background: var(--text-main);
+  color: #fff;
+  border-color: var(--text-main);
+}
+
+.chip-act {
+  background: var(--card-bg);
+  border: 1px solid var(--text-main);
+  color: var(--text-main);
+  font-weight: 500;
+}
+.chip-act:hover {
+  background: var(--text-main);
+  color: #fff;
+}
+
+.view-back { margin: 0 0 8px; font-size: 0.9rem; }
+.view-back a {
+  color: var(--text-muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.view-back a:hover {
+  color: var(--text-main);
+  border-bottom-color: var(--accent-color);
+}
+
+.chip-tag.is-done {
+  opacity: 0.55;
+  border-color: var(--border-color);
+}
+.chip-tag.is-done .tag-name { color: var(--text-muted); }
+
+.footer a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.footer a:hover { color: var(--text-main); }
+
+@media (max-width: 960px) {
+  .nav-scroll, .tags-scroll { max-height: none; }
+  .sidebar-right { max-height: none; }
+}
