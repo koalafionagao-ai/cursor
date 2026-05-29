@@ -342,6 +342,11 @@
         markAllVisibleRead();
         return;
       }
+      if (e.target.id === "btn-catch-up") {
+        setLastVisit();
+        render();
+        return;
+      }
       if (e.target.id === "btn-mark-day") {
         markDayRead(route.date);
         return;
