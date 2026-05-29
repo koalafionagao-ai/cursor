@@ -1,0 +1,233 @@
+{
+  "date": "2026-05-24",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: Uber weighs a higher bid after it approached a major Delivery Hero shareholder with a €38-per-share bid, valuing the group at €11.5B+, but was rebuffed",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/04f5d191-f5d9-4221-bf62-c34c879ab81b",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "DeepSeek says it will lower V4 Pro API prices by 75% to $0.435/1M input and $0.87/1M output tokens, making permanent the discount prices set to expire on May 31",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+        "tweets": [
+          {
+            "author": "@deepseek_ai",
+            "text": "We are making our discount permanent! 🎉 Enjoy building with DeepSeek-V4-Pro and bring your innovative ideas to life! 🚀 [image]",
+            "url": "https://x.com/deepseek_ai/status/2057854261699195173"
+          },
+          {
+            "author": "@jukan05",
+            "text": "Does this mean DeepSeek has already brought a Huawei Ascend 950 cluster online? [image]",
+            "url": "https://x.com/jukan05/status/2057981012743963019"
+          },
+          {
+            "author": "@goodalexander",
+            "text": "btw guys this is 1/35th the price of GPT 5.5",
+            "url": "https://x.com/goodalexander/status/2057879735225512417"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "The ECB summons Eurozone banks to a meeting on Tuesday to discuss risks posed by the latest AI models and hopes US banks with Mythos access will share lessons",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hands-on with a pre-release build of Google Docs Live, an AI-powered voice tool for drafting documents, rolling out this summer to AI Pro and Ultra subscribers",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/personal-tech/google-docs-live-test-e4473e07?st=ZSgpnS&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A deep dive into Apple Watch and Health efforts; sources: iOS 27 to get a revamped AirPods control panel and default support for AirPlay rivals like Google Cast",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-05-24/apple-watch-needs-shake-up-amid-whoop-oura-google-fitbit-air-airpods-ios-27-mpjuh7ln",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of TP-Link, whose share of the US consumer router market grew from 10% to 60%+ between 2019 and 2025, as it seeks to rebut national security concerns",
+        "excerpt": "",
+        "url": "https://www.thewirechina.com/2026/05/17/tp-links-american-dream/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Zoom's stake in Anthropic is worth ~$1.27B based on a February round which valued Anthropic at $380B; Zoom invested an additional $46M in recent months",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Rising DRAM prices are driving “forced premiumization” in the smartphone market in India and Africa, as consumers in the sub-$200 segment risk being priced out",
+        "excerpt": "",
+        "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with Sundar Pichai on Google Search's future, Google's place in the AI race, public skepticism of AI, TPUs, being “behind the frontier” in coding, more",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "A look at a copy of the AI EO that President Trump was expected to sign on May 21; the unsigned EO emphasized that government AI reviews would be voluntary",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/05/22/heres-a-draft-of-trumps-unsigned-ai-executive-order-00933411",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Anthropic's ongoing discussions with the Vatican about ethics and AI led to Christopher Olah being invited to Pope Leo's unveiling of an encyclical on AI",
+        "excerpt": "",
+        "url": "https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Salesforce's promotional videos showcased Agentforce mock-ups and features that are not widely available, as CEO Marc Benioff defends forward-looking marketing",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-22/salesforce-touts-ai-promise-over-reality-in-saaspocalypse-fight?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTQ2MjE2OSwiZXhwIjoxNzgwMDY2OTY5LCJhcnRpY2xlSWQiOiJURVc3UjhLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJEQ0FGMjNFM0YyMkE0Qzk5OTM0RUMyRDEwNkM0ODc0NyJ9.Lq_hNo42hnye49XlGwuvGNeC7NxfVuAV7Cg70R4_C_g",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/dell-sells-1-000-ai-servers-with-nvidia-chips-in-current-quarter",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cloudflare CEO Matthew Prince says AI won't replace builders or sellers, but it will affect middle managers, operations jobs, and other “measuring” positions",
+        "excerpt": "",
+        "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5?st=wfuf1k",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As the US House probes Airbnb's use of Chinese AI models, CEO Brian Chesky says the company is not sharing data with Chinese firms and uses open-source models",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/airbnb-s-chesky-says-us-misunderstanding-use-of-chinese-open-source-ai-models",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How the AI boom is transforming global M&A, now dominated by the AI-driven race to control the world's energy, fiber networks, and computing capacity",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/8e044bee-edcb-4be7-b1d4-45b616af164a",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/21/books/audiobook-piracy-youtube.html?unlocked_article_code=1.kFA.qUyS.1r1NrWh-s6p6&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Sources: the ECB warned EU finance ministers that proposals to issue more euro stablecoins could reduce bank lending and make controlling interest rates harder",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/ecb-rebuffs-proposals-boost-euro-stablecoins-too-risky-2026-05-22/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tether buys out SoftBank's ~26% stake in bitcoin treasury company Twenty One Capital, taking Tether's stake to ~71%; SoftBank's stake was worth ~$679M",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/tether-buys-out-softbank-stake-in-bitcoin-treasury-firm",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung's bonus deal is fueling employee resentment over a 100x payout gap between memory division staff and those making smartphones, TVs, and home appliances",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-22/samsung-chip-workers-face-colleagues-resentment-over-bonus-deal",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-19/former-citadel-quants-raise-78-million-for-ai-fintech-moment",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Fresha, a London-based beauty and wellness booking marketplace, raised $80M from KKR's growth equity arm at a $1B+ valuation, bringing its total raised to $285M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Princeton Digital Group to sell its Chinese data center assets for as much as $1B, as global buyout firms retreat from China's data center market",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/c6ded5c6-6343-4e9b-a170-7232ab28f63e",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "FOIA lawsuit documents show hackers who breached SolarWinds potentially had access to all “treasury.gov” email addresses from July 6, 2020 to October 12, 2020",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-05-20/russian-hackers-who-breached-solarwinds-had-deep-access-to-treasury-emails?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTUxNDkyNiwiZXhwIjoxNzgwMTE5NzI2LCJhcnRpY2xlSWQiOiJURkNNNFBLR0NUSVkwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.p-TmauzJzzP2E-144as3CgJs_I3xyIL-Za-IOg3MWKs",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US NTSB suspends access to its civil transportation accidents database after people used AI to re-create voices of pilots killed in a 2025 UPS plane crash",
+        "excerpt": "",
+        "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.klA.oMPG.M4nxA06biS9H&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 6,
+    "news_count": 28
+  }
+}

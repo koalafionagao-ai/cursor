@@ -1,0 +1,388 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short
+Tweets:
+  - Author: @markgurman
+    Text: For its part, Apple has been furious for over a year about OpenAI's aggressive recruiting of its hardware engineers for its AI devices division that was acquired from former Apple design chief Jony Ive. Apple has also been wary of OpenAI's privacy practices.
+    Link ID: TM-01-TW-01
+  - Author: @mikeisaac
+    Text: it is pretty funny to be like “oh damn the deal we cut sucks, time to sue you” also reminds me of the Square/Starbucks deal from years back, in which square thought it was getting a distribution coup but they negotiated poorly and ended costing them $$$ (no lawsuit there tho!)
+    Link ID: TM-01-TW-02
+  - Author: @patrickmoorhead
+    Text: Still no Apple Health on ChatGPT yet available on Claude and Perplexity. You know it had to be some non- technical issue.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Cerebras shares closed up 68% at $311.07 in the company's Nasdaq debut after it raised $5.5B in the year's largest IPO, giving it a market value of $67B
+Tweets:
+  - Author: @rolfewinkler
+    Text: What investors first paid per share for Cerebras, closed at $311 today: A: $0.85 ... @ericvishria / @benchmark , @vassallo / @FoundationCap , Pierre Lamond*/ @EclipseVentures , also angels including @sama , @adamdangelo B: $2.75 ... @coatue_thomas / @coatuemgmt C: $8.95 ... @altcap , @atamas / Vy Capital *did the deal when he was ~85
+    Link ID: TM-02-TW-01
+  - Author: @jaltma
+    Text: Huge congrats to Andrew and the Cerebras team. What an insane accomplishment. Proud to be in the same room as my partner @ericvishria who I think is one of the best to ever do it.
+    Link ID: TM-02-TW-02
+  - Author: @dinabass
+    Text: It took a decade and the road to IPO was a bit stop/start, but Benchmark, Foundation and Eclipse's early venture backing of Cerebras is now looking mighty prescient  by @nmasc_ @RebeccaTorrenc5 @EdLudlow & me
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Cerebras co-founders CEO Andrew Feldman and CTO Sean Lie own stakes worth $3.2B and $1.7B, respectively, representing about 5.5% and 3% of the company
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Sources: the US has cleared ~10 Chinese companies, including Alibaba, Tencent, ByteDance, and JD.com, to buy Nvidia H200 chips, but no deliveries have been made
+Tweets:
+  - Author: @jimhansondc
+    Text: NVIDIA scores the first big deal out of President Trump's China trip.  Cleared to sell the H200 chip to 10 Chinese companies opening perhaps a $50B market opportunity.  The H200 is a full generation behind NVIDIA's top chips Blackwell & Rubin so this is not a major technology jump but a pure commerce play.  It makes sure Jensen Huang has an opportunity to sell as many of the previous designs as possible.  This also retains the US competitive advantage for the newest fastest ones.
+    Link ID: TM-03-TW-01
+  - Author: @chrisrmcguire
+    Text: To explain: Huawei plans to ship 750,000 Ascend 950PR AI chips this year. Each 950PR has half the computing power and half the memory bandwidth of the H200. Selling 750,000 H200s to China on top of its existing 950PR production gives it the equivalent of 2,250,000 Ascend 950PRs. [image]
+    Link ID: TM-03-TW-02
+  - Author: @adamscochran
+    Text: China is actively using frontier AI to systematically attack US businesses. And giving North Korean hackers access to it. In one short meeting Trump folded on blocking the H200 chip sales. Embarrassing.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone
+---
+ID: TM-05
+Title: Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans
+---
+ID: TM-06
+Title: As Meta prepares to lay off ~10% of its staff on May 20, sources say morale is low, and it moved 1,000+ engineers to an AI unit to build generative AI models
+---
+ID: TM-07
+Title: AT&T, T-Mobile, and Verizon sign an “agreement in principle” to form a joint venture that aims to end wireless dead zones in the US, without giving many details
+---
+ID: TM-08
+Title: Musk v. Altman: in closing arguments, Musk's attorney doubled down on claims of Altman's untrustworthiness, while OpenAI's lawyer said Musk has no evidence
+Sub Items:
+  - Title: Musk v. Altman filing: Sam Altman holds $2B+ in stakes in companies that have done business with OpenAI, including a $1.7B stake in fusion startup Helion Energy
+    Link ID: TM-08-SUB-01
+---
+ID: TM-09
+Title: OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team
+Tweets:
+  - Author: @zeffmax
+    Text: Story has been updated.  The new structure of OpenAI's product org is basically: @gdb is effectively head of product @thsottiaux leads core product/platform (hello super app) @nickaturley leads enterprise Ashley Alexander leads consumer @vijayeraji continues to lead infra/scaling products
+    Link ID: TM-09-TW-01
+  - Author: @lennysan
+    Text: I'm actually surprised how rarely these big reorgs at top AI companies happen, given their pace.  They seem to happen every ~6 months, which is about the same rate as traditional hypergrowth companies.  Maybe this is the limit on how much humans can deal with such change.  Or, how long it takes to figure out something is broken, no matter your shipping pace.
+    Link ID: TM-09-TW-02
+  - Author: @morqon
+    Text: fidji is advising greg from medical leave [screenshot: “...The company tells WIRED that Simo remains on medical leave, and worked directly with Brockman on these organizational changes and product strategy."]
+    Link ID: TM-09-TW-03
+---
+ID: TM-10
+Title: OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more
+Tweets:
+  - Author: @fidjissimo
+    Text: “Help me save money” is one of the core benefits people hope to get out of AI.  With this launch we're making this super easy.  Similar to what we did for Health by letting you connect your health records, you can now do the same for financial records so ChatGPT can have the full picture and give you more informed answers.
+    Link ID: TM-10-TW-01
+  - Author: @racheltobac
+    Text: Just worked w/ @CNN on a piece about why I wouldn't upload full financial docs (tax docs, statements, etc) to AI tools due to leakage & hacking risk. I don't recommend connecting bank accounts to AI tools. It becomes a 1 stop shop for attackers looking to drain your accounts🤖💸
+    Link ID: TM-10-TW-02
+  - Author: @pitdesi
+    Text: Hot take: Chat is useful for asking questions about money.  But it is not a good interface for managing money.  Finance is full of structured workflows... For those, you want purpose-built UI... Chat works best when intent is fuzzy: “Where did my money go?” or “What should I look at?”  But once the job becomes structured, repeated, visual, or high-stakes, UI wins.  People are way more likely to use a purpose-built UI that guides them than a chat window for this.  Like what @bchesky said about travel, similar thing here.
+    Link ID: TM-10-TW-03
+---
+ID: TM-11
+Title: Google confirms a new storage policy test, after some users reported that new Gmail accounts get 5GB, not 15GB, of free storage if they don't add a phone number
+---
+ID: TM-12
+Title: Nvidia's future in China remains unclear after the Trump-Xi Summit; Trump says China “chose not to” buy Nvidia chips as “they want to try to develop their own”
+Sub Items:
+  - Title: Semiconductor stocks fell globally on Friday after the Trump-Xi summit concluded without major chip deals; Nvidia closed down 4.42% and AMD closed down 5.69%
+    Link ID: TM-12-SUB-01
+---
+ID: TM-13
+Title: Meta rolls out new features for its Ray-Ban Display glasses, including neural handwriting support for all users, and opens up support for third-party apps
+---
+ID: TM-14
+Title: Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round
+---
+ID: TM-15
+Title: Bill Ackman says his fund has taken a new stake in Microsoft after the company's recent share price decline; Ackman says investors underestimate Microsoft 365
+---
+ID: TM-16
+Title: Alphabet sold ~$3.6B of bonds in its debut yen-denominated bond sale, the largest yen deal by a non-Japanese company, as AI-driven capital spending accelerates
+---
+ID: TM-17
+Title: Sources: SpaceX aims to make its IPO prospectus public by next week, targeting a June 12 listing on Nasdaq, driven by a faster-than-expected SEC review
+---
+ID: TM-18
+Title: Sources: the US FTC is investigating whether Arm is trying to illegally monopolize parts of the semiconductor market
+---
+ID: TM-19
+Title: Filings: YouTube and Snap reached agreements to settle a lawsuit headed to trial in June over claims addiction to social media has disrupted students' learning
+---
+ID: TM-20
+Title: Ofcom says X has committed to implementing stronger protections for UK users, including reviewing illegal hate and terror content within 24 hours, after a probe
+---
+ID: TM-21
+Title: Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple's Memory Integrity Enforcement tech
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-22
+Title: Foxconn reports Q1 revenue up 29% YoY to ~$67B and net profit up 19% YoY to ~$1.6B, meeting est., as it boosts AI server production, its largest revenue source
+---
+ID: TM-23
+Title: Figma reports Q1 revenue up 46% YoY to $333.4M, vs. $313.2M est., and forecasts Q2 revenue above estimates, citing AI monetization; FIG jumps 8%+ after hours
+---
+ID: TM-24
+Title: SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY
+---
+ID: TM-25
+Title: Klarna reports Q1 revenue up 44% YoY to $1.01B, above est., GMV up 33% YoY to $33.7B, customers up 20% YoY to 119M, and a $1M profit, vs. a $99M loss in Q1 2025
+---
+ID: TM-26
+Title: Gemini reports Q1 revenue up 42% YoY to $50.3M, vs. $47.9M est., announces a $100M capital injection from Winklevoss Capital Fund; GEMI jumps 22%+ after hours
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-27
+Title: Sources: Google plans to announce a new Gemini model at its I/O conference next week; the model will land roughly in the class of GPT-5.5, but short of Mythos
+---
+ID: TM-28
+Title: Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML
+---
+ID: TM-29
+Title: OpenAI says two employee devices were impacted via a supply chain attack on TanStack but no user data or production systems were compromised
+---
+ID: TM-30
+Title: Anthropic and the Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January
+---
+ID: TM-31
+Title: Microsoft updates Edge with new AI features, including letting Copilot gather information from open tabs and use browsing history for more relevant answers
+---
+ID: TM-32
+Title: Sources: Microsoft plans to remove most of its Claude Code licenses and push its developers toward GitHub Copilot CLI, after previously pushing Claude Code
+---
+ID: TM-33
+Title: Filing: Jensen Huang's foundation bought $108.3M worth of AI computing time from CoreWeave and is donating it to universities and other nonprofit institutes
+---
+ID: TM-34
+Title: Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI's finance sector push, but financiers are rarely using it for work
+---
+ID: TM-35
+Title: OpenEvidence, an AI-powered medical search engine, says ~65% of US physicians, or ~650K doctors, and another 1.2M doctors internationally use its services
+---
+ID: TM-36
+Title: Replit says it has “worked things out with Apple”, which has approved a Replit update after four months, following a reported dispute over vibe coding apps
+---
+ID: TM-37
+Title: ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have “incontrovertible evidence” of AI-generated work
+---
+ID: TM-38
+Title: xAI launches Grok Build, an agent and CLI for coding, building apps, and automating workflows, in early beta, available first for SuperGrok Heavy subscribers
+---
+ID: TM-39
+Title: Sources: xAI co-founder Igor Babuschkin plans to raise up to $1B at an up to $5B valuation for a new AI research startup, with General Catalyst possibly leading
+---
+ID: TM-40
+Title: In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028
+---
+ID: TM-41
+Title: The UK's HMRC tax authority announces a 10-year, £175M deal to use London-based Quantexa's AI tech to help identify fraud incidents and fix tax return errors
+---
+ID: TM-42
+Title: OpenAI's disavowal of a liability shield in Illinois SB 3444 bill and endorsement of a stronger SB 315 suggest it is open to meaningful AI safety legislation
+---
+ID: TM-43
+Title: A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2
+---
+ID: TM-44
+Title: Professional services firm EY has withdrawn a study on loyalty rewards programs after researchers at GPTZero found apparent AI hallucinations and fake footnotes
+---
+ID: TM-45
+Title: YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others
+---
+ID: TM-46
+Title: A look at Matthew McConaughey's novel legal strategy to fight unauthorized AI use of his image and likeness, by trademarking video and audio clips of himself
+---
+
+[CATEGORY: REGULATION]
+ID: TM-47
+Title: The Senate Banking Committee advances the Clarity Act, which would make CFTC the primary regulator for most digital assets while SEC oversees digital securities
+---
+ID: TM-48
+Title: The UK CMA launches an antitrust investigation into Microsoft's business software dominance, focusing on its bundling of Windows, Word, Teams, and other apps
+---
+ID: TM-49
+Title: California Gov. Gavin Newsom proposes a new 7.25% tax on web-based software sales, targeting $1.1B in state and local tax revenue in the upcoming budget year
+---
+ID: TM-50
+Title: OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency
+---
+
+[CATEGORY: M&A]
+ID: TM-51
+Title: LY Corp and Bain Capital launch a bid to acquire Kakaku.com, which operates restaurant review and booking site Tabelog, for ~$4B, challenging EQT's ~$3.75B bid
+---
+ID: TM-52
+Title: A look at GameStop's takeover bid for eBay, a bizarre job application by GameStop CEO Ryan Cohen, who does not have the money to buy eBay, to become eBay's CEO
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-53
+Title: Wirestock, which says it provides multi-modal data to six of the largest foundation AI labs, raised a $23M Series A, bringing its total funding to $26M
+---
+ID: TM-54
+Title: Riyadh-based Stitch, which develops software for banks and financial services companies, raised a $25M Series A led by a16z, its first investment in the Gulf
+---
+ID: TM-55
+Title: Ian Crosby's Synthetic, which is building an AI bookkeeper, raised a $10M seed led by Khosla; Crosby founded Bench, which raised $100M+ and imploded in 2024
+---
+ID: TM-56
+Title: Indian ride-hailing app Rapido raised $240M led by Prosus as part of a broader primary and secondary financing transaction, valuing Rapido at $3B post-money
+---
+ID: TM-57
+Title: London-based edtech startup Multiverse raised $70M at a $2.1B valuation from Index and others as it pushes into AI training; it acquired StackFuel in January
+---
+ID: TM-58
+Title: Sources: Nord Quantique, a quantum computing startup that is pursuing a hardware-level quantum error correction approach, raised $30M at a $1.4B valuation
+---
+ID: TM-59
+Title: UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures
+---
+ID: TM-60
+Title: Gridcare, which uses AI to detect underused capacity in electric grids, raised a $64M Series A, following a $13.5M seed in 2025
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-61
+Title: Spotify says it will adopt Apple's HTTP Live Streaming tech later in 2026, helping Spotify creators distribute video podcast shows on Apple Podcasts and Spotify
+---
+ID: TM-62
+Title: Sources: Joshua Kushner's Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce
+---
+ID: TM-63
+Title: Blackstone Digital Infrastructure Trust raised $1.75B in its US IPO, selling 87.5M shares for $20 each, and plans to acquire data centers worth $250M to $1.5B
+---
+ID: TM-64
+Title: Sources: Intel has begun testing production of “low-end/legacy iPhone, iPad, and Mac processors”; Apple thinks TSMC's resources will continue tilting toward AI
+---
+ID: TM-65
+Title: TikTok launches TikTok GO in the US for users to book hotels, attractions, and experiences directly in the app, partnering with Booking.com, Expedia, and others
+---
+ID: TM-66
+Title: Razer updates the Blade 18 with an Intel Core Ultra 9 290HX Plus chip, starting at $4000 with an Nvidia RTX 5070 Ti, up $500 from the comparable 2025 model
+---
+ID: TM-67
+Title: Motorola Razr Fold review: good performance and screen, great battery life, sharp cameras, and stylus support, but heavier than the Z Fold 7 and lackluster AI
+---
+ID: TM-68
+Title: Ford stock jumped as much as 25% in two days after the launch of Ford Energy, a new subsidiary providing battery storage capacity to AI data centers
+---
+ID: TM-69
+Title: Meta President Dina Powell McCormick went with President Trump on his China trip and met King Charles III in April, indicating she's Meta's new global emissary
+---
+ID: TM-70
+Title: Sources: climate watchdog SBTi drops proposed rules that would limit tech companies' claims that gas-fueled data centers are covered by clean energy investments
+---
+ID: TM-71
+Title: Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI tools; Clio had a $5B valuation after a $500M Series G in November 2025
+---
+ID: TM-72
+Title: Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing's plans to take on Silicon Valley; China is offering big incentives
+---
+ID: TM-73
+Title: ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1%
+---
+ID: TM-74
+Title: Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices
+---
+ID: TM-75
+Title: Kioxia reports record Q4 operating profit of ~$3.8B, forecasts Q1 operating profit of ~$8.2B, and says it's planning a US listing; Kioxia's stock is up 300% YTD
+---
+ID: TM-76
+Title: Akamai acquires Israeli cybersecurity startup LayerX Security, which develops a browser-based platform to secure employee use of AI tools, for ~$205M in cash
+---
+ID: TM-77
+Title: How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more
+---
+ID: TM-78
+Title: A profile of Amazon CEO Andy Jassy, who is killing projects, cutting staff, and assuring investors, all while also placing staggeringly expensive bets on AI
+---
+
+[CATEGORY: VENTURE CAPITAL]
+ID: TM-79
+Title: Sources: HSG, formerly known as Sequoia China, set up a $3B continuation fund anchored by its ByteDance stake, offering ByteDance exposure at a ~$370B valuation
+---
+ID: TM-80
+Title: In a viral X post that parodies the old Mac vs. PC commercials, General Catalyst posted a “VC vs GC” video, with the VC apparently modeled after Marc Andreessen
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Introducing Grok Build (2 minute read)
+Excerpt: Grok Build is a coding agent that runs from the terminal. It is now in early beta for SuperGrok Heavy subscribers. AGENTS.md, plugin, hooks, skills, and MCP servers all work out of the box. Grok Build supports subagents for larger tasks, and it also supports deep worktree integrations, so users can launch subagents in their own worktrees. There is a headless mode that allows the easy running of agents inside scripts and automations.
+---
+ID: TL-02
+Title: Cloud Agent Development Environments (6 minute read)
+Excerpt: Cursor detailed a new system for configuring cloud-based development environments tailored to autonomous coding agents. It supports multi-repo, environment configuration as code, automated setup workflows, and governance controls for managing fleets of parallel agents.
+---
+ID: TL-03
+Title: OpenAI Explores Legal Action Against Apple (1 minute read)
+Excerpt: Bloomberg reported that OpenAI explored legal options against Apple over dissatisfaction with how deeply ChatGPT was integrated into Apple's ecosystem and the limited subscriber growth that followed.
+---
+ID: TL-04
+Title: 2028: Two scenarios for global AI leadership (28 minute read)
+Excerpt: Anthropic outlines two possible 2028 global AI leadership scenarios: one where the US retains its compute advantage and shapes AI norms, and another where China competes closely due to policy inaction. The US currently leads due to strong export controls and advanced chip technology preventing China from keeping pace. Closing loopholes on compute access and restricting distillation attacks are crucial for maintaining the US lead and ensuring democracies shape AI governance.
+---
+ID: TL-05
+Title: How We Built Secure, Scalable Agent Sandbox Infrastructure (8 minute read)
+Excerpt: There are two ways to sandbox an agent that can execute code: isolate the tool or isolate the agent. Agents should have nothing worth stealing and nothing worth reserving. Isolating the agent requires an extra network hop on every operation and more services to deploy, but there are no secrets to steal, no state to preserve, and agents can be killed, restarted, and scaled independently.
+---
+ID: TL-06
+Title: Codex is getting easier to automate and customize around your code (1 minute read)
+Excerpt: Codex has implemented hooks and programmatic tokens to make it easier to automate and customize code. Hooks can customize the Codex loop with scripts that run at key points in a task. Programmatic access provides scoped credentials for Business and Enterprise teams. A video showing how to create access tokens for Codex automations is available.
+---
+ID: TL-07
+Title: Raindrop Workshop (GitHub Repo)
+Excerpt: Raindrop Workshop gives Claude Code the ability to read traces, write evals against codebases, and fix what's broken. It provides livestreamed traces, coding-agent integration, a self-healing eval loop, and local replay. Raindrop Workshop is compatible with TypeScript, Python, Go, and Rust, and most popular SDKs, providers, and coding agents.
+---
+ID: TL-08
+Title: Genkit Middleware (10 minute read)
+Excerpt: Genkit is a framework for building full-stack, AI-powered and agentic applications for any platform. It supports TypeScript, Go, Dart, and Python. Genkit uses composable hooks that intercept generation calls to implement retries and fall-backs for maximum reliability, human approval before destructive tool calls, and observability across every layer. Its middleware system runs a tool loop that repeats until the model is done. The Genkit Developer can be used to inspect, test, and debug applications and middleware execution.
+---
+ID: TL-09
+Title: Unlocking asynchronicity in continuous batching (20 minute read)
+Excerpt: Asynchronous batching can reduce idle time between CPU and GPU cycles, improving GPU utilization for inference by 22%. By using CUDA streams and events, CPU tasks prepare batch N+1 during batch N's GPU computation, eliminating idle gaps. This method yields more efficient GPU operations without changing kernels or models, enhancing generation speed substantially.
+---
+ID: TL-10
+Title: Microsoft is quietly shopping for an OpenAI replacement (4 minute read)
+Excerpt: Microsoft signed a deal with OpenAI late April that amended the company's exclusive license to OpenAI models, freed OpenAI to sell on any other cloud, and removed the AGI clause that would have triggered changes to Microsoft's IP rights once OpenAI's board declared the threshold reached. Microsoft's IP license, a 27% stake worth roughly $135 billion, will be kept through 2032. Microsoft is reportedly looking to purchase Inception, a company that builds diffusion-based language models. It is interesting that Microsoft would spend $13 billion on a partner and then immediately start a shadow procurement process for a replacement.
+---
+ID: TL-11
+Title: Elon Musk's SpaceXAI has been bleeding staff since its merger (2 minute read)
+Excerpt: SpaceXAI is reportedly losing top talent across coding, world models, and Grok voice. Rivals like Meta and Thinking Machines Lab are scooping up former staff. Elon Musk's culture of extreme work has led some staff to leave. Several of the exits could have been driven by a desire to cash out.
+---
+ID: TL-12
+Title: Igor Babuschkin Seeks Up To $1 Billion For River AI (3 minute read)
+Excerpt: Babuschkin, an xAI cofounder, is putting in $100 million of his own money into the company.
+---
+ID: TL-13
+Title: Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI (3 minute read)
+Excerpt: Nvidia has announced a partnership with Ineffable Intelligence, a startup pursuing superintelligence that was founded in late 2025 by UCL professor and former lead of DeepMind's reinforcement learning team, David Silver.
+---
+ID: TL-14
+Title: Work with Codex from anywhere (6 minute read)
+Excerpt: Codex is now available in the ChatGPT mobile app, enabling seamless remote access to ongoing work on laptops, devboxes, or remote environments.
+---
+ID: TL-15
+Title: OpenSquilla launches open-source AI agent to cut token costs (4 minute read)
+Excerpt: OpenSquilla has introduced an open-source AI agent runtime designed to reduce unnecessary token spend by reusing context efficiently.
+---
+ID: TL-16
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---
+ID: TL-17
+Title: Toto 2.0: Time series forecasting enters the scaling era (13 minute read)
+Excerpt: Datadog's Toto 2.0, a scalable time series forecasting model family, is now available on Hugging Face.
+---

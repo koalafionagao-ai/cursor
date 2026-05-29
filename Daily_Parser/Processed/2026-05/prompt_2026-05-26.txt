@@ -1,0 +1,147 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Dropbox founder Drew Houston is stepping down as CEO after 19 years to become executive chairman, replaced by Ashraf Alkarmi, who is SVP and GM of Dropbox Core
+Tweets:
+  - Author: @drewhouston
+    Text: Today, we're promoting Ashraf Alkarmi to co-CEO of @Dropbox .  Ashraf and I will jointly lead the company, and after a transition period, I'll move into the role of executive chairman and Ashraf will be sole CEO.  Ashraf has transformed our core business since joining — the business has gotten stronger every quarter under his leadership, and he's the leader I trust to run this company.  What's next for me: my focus right now is making sure Dropbox is in the strongest possible shape.  But knowing myself, it won't be long before I'm getting credit card alerts for my Cursor token spend.
+    Link ID: TM-01-TW-01
+  - Author: @suhail
+    Text: Hell of a run @drewhouston - congrats on *19 years*. [image]
+    Link ID: TM-01-TW-02
+  - Author: @balajis
+    Text: @drewhouston @Dropbox Incredible run. Seven hundred million registered users. You created the category. Others did it first, but you did it best. Dropbox is still better than Google Drive on so many dimensions, particularly for individuals. 🫡
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race
+Tweets:
+  - Author: @morningbrew
+    Text: Micron's Market Cap: • May 27, 2025: $108 billion • May 26, 2026: $1.01 trillion For perspective, Spotify's current market cap is $108 billion. It's the 210th largest company in the world.
+    Link ID: TM-02-TW-01
+  - Author: @boringbiz_
+    Text: Watching Micron go from $80 billion to a trillion dollar market cap within the span of a year [image]
+    Link ID: TM-02-TW-02
+  - Author: @tiernanraytech
+    Text: I have been writing for years that Micron Technology is one of the most valuable companies in all of semiconductors, perhaps all of tech.  The upward revisions happening for the DRAM market, and possibly NAND, are astounding, and beyond even what I expected.  But it is in line with my thinking that the business is becoming less of a commodity business over time, which naturally leads to higher valuations.  Micron is now the best performer of the TL20, up over 1,200% since 2022
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek
+Tweets:
+  - Author: @noahpinion
+    Text: This fuels my belief that: A) We ARE living in the Chinese Century, but B) The Chinese Century is going to be a lot less Chinese than the American Century was American.
+    Link ID: TM-03-TW-01
+  - Author: @yaqiu
+    Text: Nothing will push top AI talent away faster than telling them they are not allowed to leave. The CCP just can't win people's hearts because, at its core, it is a control freak.
+    Link ID: TM-03-TW-02
+  - Author: @msmelchen
+    Text: If you're a Westerner reading this, please do not fall into the trap of thinking “oh, China is scared.  Freedom wins again.  We've got the AI race in the bag.”...  There are countless examples in history of these types of societies innovating ruthlessly, relentlessly, and often faster than we care to admit...tech transfer and industrial espionage means China's rapid advancement wasn't achieved without an assist from the West but that doesn't mean that China cannot innovate because they have stamped out individualism and hedonistic self-expression
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: US law enforcement documents: the DHS, FBI, and other agencies introduce a novel domestic threat category termed “anti-tech violent extremism” amid the AI boom
+---
+ID: TM-05
+Title: American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others
+---
+ID: TM-06
+Title: Spotify launches a library of over 650 narrated long-form magazine articles in English for Premium users; free users can buy articles “individually for $1.99”
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-07
+Title: Pony AI reports Q1 revenue up 145% YoY to ~$34.3M, above $21.7M est., and increases its 2026 robotaxi fleet target by 500 to 3,500 vehicles on fast growth
+---
+ID: TM-08
+Title: Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump
+---
+ID: TM-09
+Title: US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 4.48%
+---
+ID: TM-11
+Title: Q&A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more
+---
+ID: TM-12
+Title: Spotify co-CEO Alex Norström defends the company's expansion into AI-generated music, arguing that “controlled” products are superior to unregulated AI “slop”
+---
+ID: TM-13
+Title: OpenAI hires ServiceNow CMO Colin Fleming as CMO for its business segment; he succeeds Kate Rouch, who stepped down earlier this year to focus on her health
+---
+ID: TM-14
+Title: A surge in AI-generated “pro se” cases, or lawsuits filed by self-represented litigants, is democratizing the US legal system but consuming more court resources
+---
+ID: TM-15
+Title: How AI startups like Altur are using chatbots to help automate debt collection; YC incubated six debt collection and settlement startups in the past six years
+---
+
+[CATEGORY: REGULATION]
+ID: TM-16
+Title: The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing “a possible risk to the public interest”
+---
+ID: TM-17
+Title: Spain says it is blocking Polymarket and Kalshi as a precautionary measure while it probes possible gambling law violations over the next three to four months
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-18
+Title: Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter's Salesforce instance and threatened to leak the data
+---
+ID: TM-19
+Title: Kelp DAO says its restaked Ether token has been restored after a five-week recovery effort following a $293M exploit by North Korea's Lazarus Group on April 18
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-20
+Title: Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January
+---
+ID: TM-21
+Title: Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+
+---
+ID: TM-22
+Title: Atlanta-based e-commerce logistics company Stord raised a $250M Series F led by Strike at a $3B valuation, up from $1.5B after a $200M Series E in May 2025
+---
+ID: TM-23
+Title: OpenRouter raised $113M led by CapitalG, a source says at a $1.3B valuation, and now processes 25T tokens across 400+ models weekly, up from 5T six months ago
+---
+ID: TM-24
+Title: London-based Perceptic, which says its end-to-end AI platform for drug development is being used by top pharmaceuticals, raised a $12M seed led by Accel
+---
+ID: TM-25
+Title: Human Archive, which trains robots using first-person video from 1,000+ camera-equipped caps worn by Indian home services workers, raised $8.2M from YC and more
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-26
+Title: Sources: SpaceX successfully lobbied the Pentagon to pay more for use of Starlink on LUCAS kamikaze drones amid increasing tensions over Starlink's pricing
+---
+ID: TM-27
+Title: Nvidia officially retires its GeForce Control Panel app after 20 years, following the porting of all of its major features to the Nvidia app
+---
+ID: TM-28
+Title: SpaceX filing: X's ad revenue was $1.8B in 2025, $1.7B in 2024, and $2.3B in 2023, below Twitter's $4B in 2021; X and Grok now have 6.3M active paid subscribers
+---
+ID: TM-29
+Title: China executes a man called Xu Yao for killing Yoozoo Games founder Lin Qi in 2020; Lin reportedly sidelined Xu, who helped land the 3 Body Problem Netflix deal
+---
+ID: TM-30
+Title: Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist
+---
+ID: TM-31
+Title: Visually impaired Waymo users in California say riding in a Waymo gives them a feeling of independence and spares them from discrimination from human drivers
+---
+ID: TM-32
+Title: SEC filing: Quantinuum is seeking to raise $1.05B in its US IPO, marketing ~21M shares for $45 to $50 each, giving it a $12.7B valuation at the top of the range
+---
+ID: TM-33
+Title: Filing: Monzo reports its “refer a friend” payouts grew 40% YoY to £29.5M for the 12 months ending March 2026, as part of a broader £143M marketing spend
+---
+ID: TM-34
+Title: A Samsung union representing its consumer electronics division says it asked a South Korean court to block a pay deal vote that mainly benefits chip workers
+---

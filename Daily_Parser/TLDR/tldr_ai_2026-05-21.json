@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-21",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Anthropic to Pay SpaceX Nearly $45 Billion for Computing Deal (2 minute read)",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/anthropic-to-pay-spacex-nearly-45-billion-for-computing-deal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTM0MDE0MywiZXhwIjoxNzc5OTQ0OTQzLCJhcnRpY2xlSWQiOiJURkNUNldLSUpISUkwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.7GmTLgNTHuRQhQxgg38WqTvHCpZXe6DAGkd4qH3ckIA&utm_source=tldrai",
+        "excerpt": "Anthropic has agreed to pay SpaceX nearly $45 billion over the next three years for compute resources. It will pay $1.25 billion per month until May 2029, with either party being able to end the agreement with 90 days' notice. The companies had earlier this month inked a deal that gave Anthropic 300 megawatts of computing capacity from a large SpaceX data center in Memphis known as Colossus 1. This partnership has expanded to include capacity at a second SpaceX data center."
+      },
+      {
+        "title": "OpenAI Reportedly Moves Toward IPO (2 minute read)",
+        "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/?utm_source=tldrai",
+        "excerpt": "OpenAI is reportedly preparing for a potential IPO as early as September following the dismissal of Elon Musk's lawsuit challenging the company's structure."
+      },
+      {
+        "title": "Stable Audio 3.0 (3 minute read)",
+        "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models?utm_source=tldrai",
+        "excerpt": "Stability AI released a new family of Stable Audio 3.0 models, including open-weight versions capable of generating music and sound effects up to more than six minutes long."
+      },
+      {
+        "title": "On Building Agents From First Principles (15 minute read)",
+        "url": "https://x.com/athleticKoder/status/2057091692235481560?utm_source=tldrai",
+        "excerpt": "Mishra strips away the TRL, Unsloth, and PRIME-RL framework abstractions to show that every agent-training system reduces to the same loop: prompt to model action to environment to reward to gradient update. He builds a toy tldraw-style text-to-diagram agent in pure Python where the model emits JSON create_shape and connect actions against a validating canvas, then layers a reward function combining JSON validity, schema compliance, layout quality, and semantic coverage of prompt keywords."
+      },
+      {
+        "title": "A Bitter Lesson for Data Filtering (1 minute read)",
+        "url": "https://arxiv.org/abs/2605.19407?utm_source=tldrai",
+        "excerpt": "New scaling studies reveal that using no data filtering may be optimal for large model pretraining in high compute, data-scarce settings. Large parameter models not only tolerate but benefit from including low-quality and distractor data. Contrary to prevailing beliefs, filtering out low-quality data may not be necessary with ample compute resources."
+      },
+      {
+        "title": "AI Solves a Longstanding Geometry Conjecture (14 minute read)",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/?utm_source=tldrai",
+        "excerpt": "An OpenAI reasoning model autonomously disproved a major conjecture tied to the planar unit distance problem, an open question in combinatorial geometry that dates back to 1946. The proof introduced techniques from algebraic number theory and was independently verified by external mathematicians, marking one of the first cases where an AI system resolved a prominent unsolved mathematics problem."
+      },
+      {
+        "title": "Lance Unified Multimodal Model (GitHub Repo)",
+        "url": "https://github.com/bytedance/Lance?utm_source=tldrai",
+        "excerpt": "Lance is a 3B multimodal model from ByteDance capable of image and video understanding, generation, and editing within a single architecture trained entirely from scratch."
+      },
+      {
+        "title": "Introducing Agent Executor, Google's distributed Agent Runtime (6 minute read)",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/?utm_source=tldrai",
+        "excerpt": "Google Agent Executor is an open-source runtime standard for reliable and efficient execution of long-running agent workflows. Key features like durable execution, secure isolation, and connection recovery enhance workflow management, while session consistency and trajectory branching support distributed agent environments. It also collaborates with Kubernetes Engine on Agent Substrate to optimize compute efficiency for massive agent deployments."
+      },
+      {
+        "title": "WavFlow Generates Audio Directly in Waveform Space (GitHub Repo)",
+        "url": "https://github.com/facebookresearch/WavFlow?utm_source=tldrai",
+        "excerpt": "WavFlow is a flow-matching framework from Meta AI that generates synchronized audio from video and text inputs directly in raw waveform space without relying on latent audio compression."
+      },
+      {
+        "title": "LiteFrame Scales Video LLM Efficiency (6 minute read)",
+        "url": "https://jjihwan.github.io/projects/LiteFrame/?utm_source=tldrai",
+        "excerpt": "LiteFrame proposed a lightweight video encoder designed to improve long-form video understanding in Video LLMs by reducing inefficiencies in both vision transformers and language model processing."
+      },
+      {
+        "title": "Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter (5 minute read)",
+        "url": "https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4?st=rMpJ6a&reflink=desktopwebshare_permalink&utm_source=tldrai",
+        "excerpt": "Anthropic's revenue is set to more than double in the second quarter to $10.9 billion. The projections, disclosed to Anthropic's investors as part of an ongoing funding round, show how the company's sales have exploded since the start of the year. Its quarterly revenue is now growing faster than Google's and Facebook's in the run-up to their initial public offerings. The company might not remain profitable for the full year as it plans to increase spending due to its vast need for compute."
+      },
+      {
+        "title": "Cheap AI could derail OpenAI and Anthropic's IPOs (7 minute read)",
+        "url": "https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html?utm_source=tldrai",
+        "excerpt": "OpenAI and Anthropic's expected IPOs face challenges due to decreasing AI costs and increased competition. American and Chinese labs are producing cheaper and efficient AI models, threatening their market share and pricing power. Enterprises are increasingly adopting cost-saving measures like \"advisor models\" and seeking affordable alternatives, complicating the valuation for anticipated IPOs."
+      },
+      {
+        "title": "Better Experiments with LLM Evals — A funnel, not a fork (6 minute read)",
+        "url": "https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork?utm_source=tldrai",
+        "excerpt": "LLM evals paired with online experiments create a feedback loop that makes both evals and experiments smarter over time."
+      },
+      {
+        "title": "Alibaba unveils new AI chip in push for domestic alternatives (3 minute read)",
+        "url": "https://ca.finance.yahoo.com/news/alibaba-unveils-ai-chip-push-050035417.html?utm_source=tldrai",
+        "excerpt": "Alibaba's new chip, the Zhenwu M890, is well-suited to handle the heavy memory and communication demands of AI agent workloads."
+      },
+      {
+        "title": "Google adds llms.txt check to Chrome Lighthouse (5 minute read)",
+        "url": "https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246?utm_source=tldrai",
+        "excerpt": "Google introduced an llms.txt check in Chrome's Lighthouse audits under the \"Agentic Browsing\" category to enhance machine interaction with websites."
+      },
+      {
+        "title": "The Unsustainable Subsidy (1 minute read)",
+        "url": "https://tomtunguz.com/ai-model-inflation/?utm_source=tldrai",
+        "excerpt": "AI pricing is increasing as cash is tight and margins matter."
+      }
+    ]
+  }
+}

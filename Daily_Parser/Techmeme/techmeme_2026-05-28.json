@@ -1,0 +1,548 @@
+{
+  "date": "2026-05-28",
+  "sections": {
+    "top news": [
+      {
+        "title": "Anthropic launches Opus 4.8, saying it's “more likely to flag uncertainties about its work and less likely to make unsupported claims”, at the same price as 4.7",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+        "tweets": [
+          {
+            "author": "@bcherny",
+            "text": "Claude Opus 4.8 is out today. It's our strongest coding model yet: up on SWE-bench Pro (from 64.3 to 69.2) and noticeably more honest about its own work. It tells you when it's unsure and catches its own bugs instead of declaring victory early. Same price as 4.7.",
+            "url": "https://x.com/bcherny/status/2060048873440129073"
+          },
+          {
+            "author": "@teortaxestex",
+            "text": "...this is quite crushing. People unsubscribing from Ant will crawl back. Things are beginning to go very fast. And yes it feels a bit more “AGI-like” than 4.6 immediately (4.7 was a tool anyway and not appreciably sharper). 5.6 next, then what? [image]",
+            "url": "https://x.com/teortaxestex/status/2060105674311295454"
+          },
+          {
+            "author": "@emollick",
+            "text": "Here Opus 4.8 built and play-tested a new RPG in Claude Code, including 3 PDF manuals and adventures, playtest notes, a website, and a playable solo adventure - then put it all on Netlify. No feedback from me at all.  [image]",
+            "url": "https://x.com/emollick/status/2060045063275573723"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Anthropic says it expects Mythos-class models to be available to all customers “in the coming weeks” following the development of stronger safeguards",
+            "url": "https://www.axios.com/2026/05/28/anthropic-opus-release-mythos"
+          },
+          {
+            "title": "Anthropic adds dynamic workflows to Claude Code, enabling hundreds of subagents to run in parallel for complex engineering tasks such as framework migrations",
+            "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"
+          }
+        ]
+      },
+      {
+        "title": "Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html?unlocked_article_code=1.l1A.Ljth.RDbPsUK0c4m2&smid=nytcore-ios-share",
+        "tweets": [
+          {
+            "author": "@mikeisaac",
+            "text": "new numbers from ANT too: company says its revenue run rate surpassed $47 billion earlier this month. that is an enormous surge of nearly four times its run rate from just three months ago",
+            "url": "https://x.com/mikeisaac/status/2060062844713066587"
+          },
+          {
+            "author": "@edels0n",
+            "text": "$65B private round More than double the size of the largest IPO ever",
+            "url": "https://x.com/edels0n/status/2060067234618515908"
+          },
+          {
+            "author": "@edzitron",
+            "text": "Round is actually $50 billion, this also included $15 billion from Amazon and Google that was raised in April btw. Google also, per CNBC, actually invested at a $380 billion valuation.  [image]",
+            "url": "https://x.com/edzitron/status/2060080214240313403"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 38%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/28/dell-q1-earnings-report-2027.html",
+        "tweets": [
+          {
+            "author": "@benbajarin",
+            "text": "Dell + NVIDIA has very similar dynamics to Dell + Intel in the early PC days. But as I outlined here, Dell's storage business is VERY well positioned within their entire infrastructure solutions.",
+            "url": "https://x.com/benbajarin/status/2060122857758400743"
+          },
+          {
+            "author": "@ljkawa",
+            "text": "Dell's AI server business didn't exist until late 2023 as a business segment. Its sales are now larger than Dell's entire Client Solutions Group (its foundational, mature PC-focused division)  $DELL [image]",
+            "url": "https://x.com/ljkawa/status/2060095751326183485"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Illustrations based on sources detail Apple's Siri overhaul, like a new UI and chatbot-style app, and major iOS 27 changes, ahead of the WWDC keynote on June 8",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTk3MDMzNywiZXhwIjoxNzgwNTc1MTM3LCJhcnRpY2xlSWQiOiJURlFYU1FLSVVQVVkwMCIsImJjb25uZWN0SWQiOiJBMENBREVFNzhEMEI0NzhEOTM0MkRGQTE1MUYxNEU0MiJ9._mQlenNKDj3eHEpbpKs55xUJl3p9ehGuj_dIc8sEj40",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: at WWDC, Apple is likely to showcase how 15 years of designing chips gives it an advantage in running AI locally, and will use a distilled Gemini model",
+            "url": "https://www.theinformation.com/articles/apple-renew-push-ai-runs-devices-instead-cloud"
+          }
+        ]
+      },
+      {
+        "title": "Letter: US Central Command says it received “threat reports concerning adversary exploitation of commercial location data” to target US personnel in war zones",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an “Auto speed” setting, and a new on-the-go listening mode",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "YouTube adds a “custom feed” to its home page that lets users prompt it to create a constantly refreshing feed, available to signed-in US users with history on",
+            "url": "https://9to5google.com/2026/05/27/youtube-adds-custom-feed-to-home-page/"
+          }
+        ]
+      },
+      {
+        "title": "The European Commission fines Temu €200M under the DSA for allegedly failing to adequately stop the sale of illegal products; further penalties could follow",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/temu-fined-232-million-breaching-eu-rules-sale-illegal-products-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for very well-paid professionals",
+        "excerpt": "",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Visa makes an undisclosed investment in Replit; the two will explore how developers on Replit can use Visa Intelligent Commerce and the Trusted Agent Protocol",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: Meta plans to embed engineers and product managers inside large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mistral says it is accelerating superintelligence development to ensure Europe's independence from US tech giants, and signs deals to supply Airbus and BMW",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/mistral-chases-ai-superintelligence-to-counter-u-s-dominance-b2a44fa1?st=NnFC9i&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "IBM and Red Hat commit $5B to establish a new open-source software model, dubbed Project Lightwell, and will deploy 20,000 engineers globally, supported by AI",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/ibm-red-hat-pledge-5-billion-for-ai-driven-open-source-security-initiative-4f1e03a4?st=8fwrTE&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal speech: JD.com founder Liu Qiangdong vows to protect the company's 900,000 employees from AI and automation, saying it will “do everything possible”",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: the Shanghai Futures Exchange is in the early stages of designing futures contracts for AI tokens; US exchanges are set to launch GPU compute futures",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Surging AI demand is causing shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/tech-asia/ai-demand-strains-supplies-of-lasers-fiber-and-other-optical-tech",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/apollo-shops-36-billion-debt-deal-to-buy-google-chips-for-anthropic",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Global AI hardware demand is easing China's concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/world-s-appetite-for-ai-makes-china-less-afraid-of-stronger-yuan",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Taiwanese tech companies have completed a record $14.5B of debt deals so far in 2026, as they race to secure financing to meet soaring demand for AI capacity",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/ai-boom-fuels-record-14-5-billion-in-taiwan-tech-firm-borrowing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/global-firms-use-ai-indian-hubs-bring-more-ad-work-in-house-2026-05-27/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 8%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/article/3355027/kuaishou-beats-estimates-kling-ai-video-generators-revenue-jumps-300",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Qualcomm unveils the Snapdragon C, an entry-level ARM-based SoC for Windows 11 devices starting from $300 and shipping in 2026, taking aim at the MacBook Neo",
+        "excerpt": "",
+        "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomm-snapdragon-c-is-official-and-its-taking-aim-at-macbook-neo-and-chromebooks-new-low-end-arm-chip-brings-all-day-battery-life-to-usd300-windows-11-devices",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Intel unveils its first dedicated handheld gaming chips, the Arc G3 and Arc G3 Extreme, featuring Xe3 GPU cores, arriving first in the Acer Predator Atlas 8",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: ByteDance is developing its own CPUs to support its growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/bytedance-developing-custom-cpu-chips-support-ai-rollout-sources-say-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Doc: the EU is preparing emergency powers to intervene in Europe's chip supply chains during shortages, including by forcing chipmakers to override contracts",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/9d7d6204-4fc7-4f1d-af05-473c3649efcd",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: the Philadelphia Semiconductor Index, which tracks the 30 top US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chip design software maker Synopsys reaches a deal with Elliott, giving one board seat to the activist investor's Jesse Cohn, after roughly two months of talks",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/synopsys-reaches-settlement-with-elliott-says-jesse-cohn-join-board-2026-05-27/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Elon Musk says Anthropic's Colossus deal is “a 180 day lease with 90 day notice”; SpaceX's S-1 said Anthropic “agreed to pay a monthly fee through May 2029”",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As Google plans to build a $15B AI data center hub in Visakhapatnam, India, locals and rights groups are raising concerns over “extremely high” water stress",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/big-subsidies-for-google-limited-water-for-locals-the-dilemma-of-ai-in-india-105a770e?st=CizQnF&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A record ~$6.2B spent on data centers in Australia, almost double QoQ, drove Q1 investment growth and helped an economy strained by energy costs and high rates",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/record-spend-on-data-centers-drives-australia-investment-growth",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AWS has used Resilient Network Graphs, a quasi-random networking architecture with a flat mesh design, since late 2025 and says it accelerates information flows",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "quantum computing": [
+      {
+        "title": "IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/ibm-plans-10-billion-investment-large-scale-quantum-computer-by-2029-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK researchers gain access to Google's Willow quantum chip, which it says solves a problem in five minutes that would take supercomputers 10 septillion years",
+        "excerpt": "",
+        "url": "https://www.bbc.com/news/articles/cd7pwezyze1o",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "payments": [
+      {
+        "title": "Sources: Australia-founded Airwallex, which Keith Rabois accused of being a “Chinese backdoor”, is relocating some staff out of China as it plans a US expansion",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/b0b16d69-15f6-4c35-bbb4-65633fe863a5",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: Airwallex raised new funding led by Lee Fixel's Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October",
+            "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/airwallex-addition-valuation"
+          }
+        ]
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Samsung's Securities, SDS, and Card units say they will acquire a 4% stake in Dunamu, which operates South Korea's largest crypto exchange, for ~$446M in cash",
+        "excerpt": "",
+        "url": "https://www.koreaherald.com/article/10757889",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/policy/trump-regulator-moves-to-drop-case-that-drew-ire-of-winklevoss-twins-e8e26a2a",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "Filing: CNN sues Perplexity in New York for allegedly unlawfully copying and distributing CNN content, after failing to agree on terms with Perplexity in 2025",
+        "excerpt": "",
+        "url": "http://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US",
+        "excerpt": "",
+        "url": "https://apnews.com/article/23andme-lawsuit-data-breach-genetic-testing-0fc216812a2a35b72068c228384f597b",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Last.fm says it is now an independent company again, 19 years after being acquired by CBS, and plans to keep its current team and continue the service as normal",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2182644/lastfm-independent-company-cbs-paramount-skydance/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Amazon will acquire Apple's 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger",
+        "excerpt": "",
+        "url": "https://www.pcmag.com/news/amazon-to-take-over-apples-20-stake-in-globalstar-as-part-of-acquisition",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Autodesk agrees to buy MaintainX, a company focused on maintenance tools, in an all-cash deal that values MaintainX at $3.6B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/autodesk-to-buy-maintainx-for-about-3-6-billion-in-cash-mppxfnfb",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The European Commission opens a full review of JD.com's €2.2B acquisition of Germany-based electronics retailer Ceconomy under its Foreign Subsidies Regulation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/jd-com-s-2-2-billion-ceconomy-deal-hit-by-eu-subsidy-probe",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Source: Groq is raising up to $650M from existing investors; the AI chipmaker earlier signed a $20B Nvidia licensing deal that saw much of its senior team leave",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/28/groq-650-million-nvidia",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Fonoa, which helps enterprises manage indirect tax compliance, raised a $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/fonoa-110m-pwc-tax-platform-buy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Corgi, which uses AI to provide insurance for startups, raised a $106M Series B1 at a $2.6B valuation, up from $1.3B on May 6, for a total funding of $378M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London- and SF-based Orbital Industries, which uses its Orb model to design advanced materials and then sell them directly, raised a $50M Series B led by Plural",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed",
+        "excerpt": "",
+        "url": "https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Geordie AI, which builds a security and governance platform for AI agents, raised a $30M Series A led by Balderton at an estimated $180M valuation",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Saris, which builds AI agents to automate back-office work for banks and credit unions, raised a $28.8M Series A led by 8VC",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/saris-series-a-bank-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Tel Aviv-based web development company Wix cuts ~20% of its workforce, citing the “fast evolution of AI capabilities” and currency exchange rate difficulties",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/28/wix-layoffs-ai-exchange-rates.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, shipping from June 4 for $399, up from the Ring 4's $349",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/oura-ring-5-40-smaller-more-like-regular-ring-hypertension-and-sleep-apnea",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Waymo unveils Ojai, a vehicle designed in partnership with Zeekr for robotaxi use, initially for select riders in San Francisco, Los Angeles, and Phoenix",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta's Oversight Board says Meta agreed to increase its funding by $13M, ensuring that it will be funded through 2028, reversing a planned decrease in funding",
+        "excerpt": "",
+        "url": "https://www.platformer.news/meta-oversight-board-funding-2028/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Snowflake stock closed up 36% on Thursday, its best day ever, after the company boosted guidance and announced an AI compute deal with Amazon",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower weapon costs",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/national-security/trump-us-drone-company-funding-cadef1f7?st=HRwRd8&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Trade Desk's market cap is down ~70% from its December 2024 peak, as it contends with frustrated agency partners and competition from Google and Amazon",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/media/the-trade-desks-fall-from-69-billion-digital-ad-darling-6e1cdbf3?st=pnGEc3&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Swedish chip optical component maker Sivers, whose stock is up ~1,700% YTD, giving it a ~$2.5B market cap, has become one of the country's most-shorted stocks",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/a-1-700-jump-turns-retail-trader-favorite-sivers-into-short-bet",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dealroom: London overtakes Paris to reclaim its position as Europe's leading tech hub, and now ranks fourth globally; London startups raised $17.7B in 2025",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/uk/london-reclaims-top-european-tech-spot-paris-dealroom-says-2026-05-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Steam Deck's huge price hike, from $399 in 2022 to $789 today, is the end of an era for gaming handhelds, coming amid RAMageddon, tariffs, and the Iran war",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Swiggy CEO Sriharsha Majety says the quick commerce company will avoid India's spending war, as Amazon and Flipkart shrink delivery times and expand discounts",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/swiggy-s-sriharsha-majety-vows-to-stay-out-of-amazon-walmart-ambani-spending-war",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As the US AI boom drains venture capital from Africa, startups on the continent are pivoting to domestic funding sources, like pension funds and local VC firms",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/africa-startups-turn-inward-as-us-ai-boom-drains-venture-capital",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 12,
+    "news_count": 64
+  }
+}

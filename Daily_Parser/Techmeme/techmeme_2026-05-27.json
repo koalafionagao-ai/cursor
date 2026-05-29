@@ -1,0 +1,454 @@
+{
+  "date": "2026-05-27",
+  "sections": {
+    "top news": [
+      {
+        "title": "Robinhood launches a feature to let users link AI agents, such as Claude or Cursor, to separate, dedicated investment accounts for trading stocks autonomously",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed?st=hSM5Yq&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@robinhoodapp",
+            "text": "Your strategy shouldn't sleep just because you do.  Connect your AI agent to a Robinhood Agentic Account to explore trade ideas, build and rebalance portfolios, program custom tools, and place trades as your strategy evolves.  Rolling out now.",
+            "url": "https://x.com/robinhoodapp/status/2059652337690448344"
+          },
+          {
+            "author": "@vladtenev",
+            "text": "Agent, meet markets.",
+            "url": "https://x.com/vladtenev/status/2059659590745424213"
+          },
+          {
+            "author": "@mikeisaac",
+            "text": "first instinct was to be like “wha-whaaaaa?!?” but am failing to see how this is not just algorithmic trading with a different wrapper",
+            "url": "https://x.com/mikeisaac/status/2059646057144090648"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, will test $7.99/mo. and $19.99/mo. Meta AI plans, a $49.99/mo. creator plan, and more",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+        "tweets": [
+          {
+            "author": "@financejack44",
+            "text": "Something else that's interesting about the new $META subscriptions is they AREN'T ad free.  So $META is not sacrificing any advertising revenue with the rollout of these paid experiences.  If they can create a decent value proposition for the subscriptions without removing ads that's a HUGE monetization lever.",
+            "url": "https://x.com/financejack44/status/2059743818392473683"
+          },
+          {
+            "author": "@rihardjarc",
+            "text": "Did people really expect $META wouldn't charge a subscription for AI products and use their +3B distribution network?  $SNAP makes $5B in ad revenue and $1B in direct subs revenue (growing 87% YoY).  $META can add a few $10B to its bottom line just by providing solid-value subscriptions.  Distribution is the ultimate AI bottleneck and moat, as we have AI models and services available in every app and platform.",
+            "url": "https://x.com/rihardjarc/status/2059705183471579404"
+          },
+          {
+            "author": "@supbagholder",
+            "text": "@RihardJarc I already pay for Instagram Plus. It's great to track who views my stories/what performs. Lots of value to unlock with subscriptions imo.",
+            "url": "https://x.com/supbagholder/status/2059705728076595530"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Valve raises Steam Deck OLED prices due to “rising memory and storage costs”; the 512GB model is now $789, up from $549, and the 1TB model is $949, up from $649",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+        "tweets": [
+          {
+            "author": "@genepark",
+            "text": "the steam deck is a top 3 gaming device or console i've ever owned. it's also now no longer worth buying. i wanted to get another spare one but so much for that. unbelievably, the xbox rog ally x is now vastly better priced atm at $1,000, more powerful than steam deck.",
+            "url": "https://x.com/genepark/status/2059755508517437479"
+          },
+          {
+            "author": "@carygolomb",
+            "text": "It is such a crazy time that I'm actually saying out loud, actually don't even bother getting a Steam Deck OLED, just get the Xbox ALLY X",
+            "url": "https://x.com/carygolomb/status/2059692962439737660"
+          },
+          {
+            "author": "@jezcorden",
+            "text": "I expect PlayStation and Xbox to increase prices again before this is all over. CHINESE MEMORY PLS SAVE US.",
+            "url": "https://x.com/jezcorden/status/2059698287196680376"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects “significant photorealistic AI use”",
+        "excerpt": "",
+        "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung's largest union approves a pay deal that would give chip workers an average bonus of ~$340K, with ~74% of members voting in favor, staving off a strike",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/samsung-union-votes-in-favor-of-deal-averting-chip-plant-strike",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Source: TSMC CEO C.C. Wei told staff that they will see a 30%+ bump in their profit-sharing payouts in 2026 on average, after some staff voiced concerns online",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-27/tsmc-s-ceo-pledges-30-plus-incentive-bump-while-ai-profits-soar"
+          }
+        ]
+      },
+      {
+        "title": "SK Hynix tops $1T in market value after jumping 9% on Wednesday, becoming the third Asian company to hit the milestone; shares are up 1,000%+ in the past year",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/sk-hynix-joins-1-trillion-club-on-ai-memory-chip-dominance",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "A deep dive into how Anthropic's Claude Code and Peter Steinberger's OpenClaw unleashed the AI agent revolution that is rapidly transforming modern computing",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Q&A with Claude Code creator and head Boris Cherny on how the title “software engineer” could disappear, why AI may create more jobs than it destroys, and more",
+            "url": "https://www.platformer.news/boris-cherny-interview-ai-jobs/"
+          }
+        ]
+      },
+      {
+        "title": "ElevenLabs launches Music v2, which can switch genres mid-track and handle complex vocal compositions, built on licensed data and cleared for commercial use",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI coding startup Cognition AI raised more than $1B at a $26B valuation, and says its revenue run rate has increased to $492M from $37M in May 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon says it is making the “architecture, starter code, and learnings” from Alexa for Shopping available to third-party retailers, starting with Kate Spade",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/27/amazon-ai-shopping-alexa-kate-spade.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon MGM Studios announces the GenAI Creators' Fund, greenlights three AI animated series for Prime Video, and launches an AI production platform with AWS",
+        "excerpt": "",
+        "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%",
+        "excerpt": "",
+        "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Demis Hassabis says he still broadly expects AGI around 2030, though he now sees 2029 as a possibility, and 2026's “agentic era” is a “bit like a practice run”",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/26/deepmind-ceo-demis-hassabis",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Biohub, a Mark Zuckerberg- and Priscilla Chan-funded institute, releases “a world model of protein biology” to researchers for prediction, design, and discovery",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/27/zuckerbergs-biohub-unveils-ai-world-model-of-proteins",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI announces partnerships to combat election misinformation, offering cybersecurity products to state officials and backing legislation to curb deepfakes",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/27/openai-cyber-misinformation-defenses-elections",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources and docs detail how China is modernizing its decade-old domestic surveillance network by investing in new generations of AI-enabled cameras and software",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/788a9229-adad-4f0a-a26b-78613f195293",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How AI is starting to dismantle the hegemony of the Big Four consultancies and other large firms, as AI agents help smaller consultancies handle big workloads",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/befb2ded-8ea2-450d-932d-ad40ac1c1a0c",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 35%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est.",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Temu owner PDD reports Q1 revenue up 11% YoY to ~$15.7B, below ~$16.2B est., net profit down 15% to ~$1.85B, below ~$3.4B est.; PDD closes down 10.38%",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/earnings/temu-owner-pdd-posts-profit-miss-amid-fierce-competition-in-china-a8cf3b0a?st=sGDa8G&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/hp-gives-profit-outlook-that-tops-estimate-managing-chip-crunch",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Starlette, an open-source Python framework underpinning FastAPI, has a vulnerability called BadHost that can allow hackers to bypass authorization",
+        "excerpt": "",
+        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The UK's GCHQ head says the UK and allies have a “narrowing window” to counter cyber threats from China and Russia, as Russia intensifies “daily” hybrid warfare",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/27/uk-spy-chief-gchq-russia-china-us-cyber-attack-security.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "The EU proposes new satellite access rules to let non-European companies like SpaceX bid for the airwaves, while preserving 33%+ of licenses for local companies",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/eu-satellite-proposal-makes-limited-room-for-musk-s-starlink",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: EU leaders are divided on curbing Big Tech as they weigh cloud tender rules and giving EU companies preferential access to mobile satellite spectrum",
+            "url": "https://www.reuters.com/business/media-telecom/europes-push-break-big-techs-grip-tempered-by-internal-debate-2026-05-27/"
+          }
+        ]
+      },
+      {
+        "title": "Illinois Legislature passes SB 315, a bill requiring annual independent third-party safety audits of leading AI companies; the bill heads to the governor's desk",
+        "excerpt": "",
+        "url": "https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Germany and Spain are leading opposition to the EU's plan to ban Chinese suppliers like Huawei from telecom networks as part of new cybersecurity rules",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "prediction markets": [
+      {
+        "title": "President Trump says it is “critically important” that the CFTC keep exclusive authority to oversee prediction markets, as some states attempt to regulate them",
+        "excerpt": "",
+        "url": "https://thehill.com/homenews/administration/5896316-trump-cftc-prediction-markets/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Polymarket is making it harder to use VPNs to access its service, blocking some IPs and suspicious accounts, and is asking some customers to identify themselves",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/polymarket-wants-traders-id-faces-sanctions-legal-risks",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google's Year in Search results",
+        "excerpt": "",
+        "url": "https://abcnews.com/US/google-employee-charged-inside-information-make-1-million/story?id=133350018",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Jensen Huang says Nvidia spends $100B-$150B per year on its Taiwan supply chain, up from $10B-$15B in 2022-2023, and will boost its 1,000 staff there to 4,000",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-spending-up-to-150bn-a-year-on-taiwan-ai-suppliers-jensen-huang",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Document: Samsung plans to invest ~$1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/samsung-plans-15-billion-chip-testing-plant-vietnam-document-shows-2026-05-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Taiwan suspects three people smuggled at least one shipment of Nvidia chips to China after exporting them to Japan; Taiwan detained the trio last week",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/taiwan-said-to-suspect-nvidia-chips-smuggled-to-china-via-japan",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: inference cloud startup Fireworks AI is in talks to raise funding at a $15B valuation, up from $4B after it announced a $250M round in October 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Milan-based social travel startup WeRoad raised a $58M Series C led by Airbnb, taking its total funding to ~$100M, to expand into the US, starting in Austin",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NYC-based Pace, whose AI agents automate back-office operations for insurance companies, raised a $46M series B led by Thrive and Sequoia at a $375M valuation",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/annatong/2026/05/27/thrive-and-sequoia-back-pace-with-46-million-to-automate-insurances-back-office/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "DC-based Airis Labs, which uses AI to convert visual data to law enforcement intelligence, emerges from stealth with a $31M Series B, for $60M in total funding",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/05/27/ai-video-defense-airis-labs-software",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Opendoor co-Founder Eric Wu's NavigateAI, which is building an expert AI coach for construction workers, raised a $25M seed led by Elad Gil at a $225M valuation",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/annatong/2026/05/26/opendoor-co-founder-eric-wu-launches-ai-for-construction-venture/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tensormesh, whose inference platform uses KV caching to reduce costs, raised a $20M seed extension, bringing its total funding to $24.5M",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/05/27/ai-inference-tensormesh-nvidia-amd",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Trajectory, founded by ex-DeepMind, Apple, OpenAI and Meta researchers to build continual learning models, raised a $15M seed at a $115M post-money valuation",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "OpenAI Foundation says it is committing an initial $250M for grants, partnerships, and direct work aimed at helping workers and economies navigate AI disruption",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Roku launches its first major homescreen overhaul in over a decade, including a large “marquee” ad spot to tout apps or shows, in a bid to drive more engagement",
+        "excerpt": "",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/roku-changes-homescreen-overhaul-1236606121/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Initial benchmarks: Nvidia's Vera Rubin CPU, which features 88 Nvidia-designed Olympus cores, packs a heavy-hitting punch, beating Intel's and AMD's x86_64 CPUs",
+        "excerpt": "",
+        "url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: ByteDance is discussing up to $70B of 2026 capex as it builds out data centers and other AI infrastructure, underwritten by its ~$50B profit in 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Xreal launches a new sub-brand, X by Xreal, and $299 a01 display glasses with micro OLED displays, a 50° FOV, and a 62g weight, set for a July release in the US",
+        "excerpt": "",
+        "url": "https://www.cnet.com/tech/computing/xreals-new-budget-display-glasses-can-change-their-look-on-the-fly/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at the Pentagon's embrace of autonomous weapons before its fight over Anthropic's two “red lines”, and AI's creeping influence in military operations",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImpLWjdveFNldTIiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzNzAyOC9taWxpdGFyeS1haS13YXJmYXJlLXJlZC1saW5lcyIsImV4cCI6MTc4MDIzMDU2OSwiaWF0IjoxNzc5Nzk4NTY5fQ.P9eUlF5lyJf3vyQeS1RDtAe2S6jPLgtexCBJV_W9bdw&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon says it invested £15B+ in the UK in 2025, including new sites and expanded studio facilities, keeping it on track to invest £40B over three years by 2027",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/amazon-invests-20-billion-uk-2025-2026-05-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management's 14.6% share at a €12B valuation, after a takeover offer last week",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/5d91a37f-cbaa-42ae-b5c5-69ec73b3c1f3",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Shanghai Stock Exchange says memory maker CXMT cleared a listing review for the exchange's Nasdaq-like STAR Board, in what could be China's top IPO in 2026",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/china-memory-chip-maker-cxmt-clears-shanghai-listing-review-0fc8dae2?st=1ttzBL&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mark Zuckerberg tells shareholders that a Meta cloud computing business is “definitely on the table” if it overspends on data centers and has excess capacity",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: software-specialist PE firm Hg agrees to acquire Rightsline, whose software helps Disney, the BBC, WBD, and others manage IP licensing, for $500M",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/2addf5f8-56de-42f9-834e-14024f0139d7",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US DOD announces a $9.7B five-year deal with Dell to provide Microsoft 365, advanced cloud subscriptions, and on-premises licensing to the US military",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/27/dell-dod-pentagon-software-deal-digital-infrastructure-trump.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: the share of entry-level tech hiring in India fell from 28% in 2024 to ~15% in 2025 as companies focused on AI, cloud, cybersecurity, and automation",
+        "excerpt": "",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/python-in-the-grass-it-freshers-must-speak-ai-to-stay-on-par/articleshow/131314611.cms",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 52
+  }
+}

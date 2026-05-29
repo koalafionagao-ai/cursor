@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-15",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Introducing Grok Build (2 minute read)",
+        "url": "https://x.ai/news/grok-build-cli?utm_source=tldrai",
+        "excerpt": "Grok Build is a coding agent that runs from the terminal. It is now in early beta for SuperGrok Heavy subscribers. AGENTS.md, plugin, hooks, skills, and MCP servers all work out of the box. Grok Build supports subagents for larger tasks, and it also supports deep worktree integrations, so users can launch subagents in their own worktrees. There is a headless mode that allows the easy running of agents inside scripts and automations."
+      },
+      {
+        "title": "Cloud Agent Development Environments (6 minute read)",
+        "url": "https://cursor.com/blog/cloud-agent-development-environments?utm_source=tldrai",
+        "excerpt": "Cursor detailed a new system for configuring cloud-based development environments tailored to autonomous coding agents. It supports multi-repo, environment configuration as code, automated setup workflows, and governance controls for managing fleets of parallel agents."
+      },
+      {
+        "title": "OpenAI Explores Legal Action Against Apple (1 minute read)",
+        "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/?utm_source=tldrai",
+        "excerpt": "Bloomberg reported that OpenAI explored legal options against Apple over dissatisfaction with how deeply ChatGPT was integrated into Apple's ecosystem and the limited subscriber growth that followed."
+      },
+      {
+        "title": "2028: Two scenarios for global AI leadership (28 minute read)",
+        "url": "https://www.anthropic.com/research/2028-ai-leadership?utm_source=tldrai",
+        "excerpt": "Anthropic outlines two possible 2028 global AI leadership scenarios: one where the US retains its compute advantage and shapes AI norms, and another where China competes closely due to policy inaction. The US currently leads due to strong export controls and advanced chip technology preventing China from keeping pace. Closing loopholes on compute access and restricting distillation attacks are crucial for maintaining the US lead and ensuring democracies shape AI governance."
+      },
+      {
+        "title": "How We Built Secure, Scalable Agent Sandbox Infrastructure (8 minute read)",
+        "url": "https://x.com/larsencc/status/2027225210412470668?utm_source=tldrai",
+        "excerpt": "There are two ways to sandbox an agent that can execute code: isolate the tool or isolate the agent. Agents should have nothing worth stealing and nothing worth reserving. Isolating the agent requires an extra network hop on every operation and more services to deploy, but there are no secrets to steal, no state to preserve, and agents can be killed, restarted, and scaled independently."
+      },
+      {
+        "title": "Codex is getting easier to automate and customize around your code (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2055032115964870838.html?utm_source=tldrai",
+        "excerpt": "Codex has implemented hooks and programmatic tokens to make it easier to automate and customize code. Hooks can customize the Codex loop with scripts that run at key points in a task. Programmatic access provides scoped credentials for Business and Enterprise teams. A video showing how to create access tokens for Codex automations is available."
+      },
+      {
+        "title": "Raindrop Workshop (GitHub Repo)",
+        "url": "https://github.com/raindrop-ai/workshop?utm_source=tldrai",
+        "excerpt": "Raindrop Workshop gives Claude Code the ability to read traces, write evals against codebases, and fix what's broken. It provides livestreamed traces, coding-agent integration, a self-healing eval loop, and local replay. Raindrop Workshop is compatible with TypeScript, Python, Go, and Rust, and most popular SDKs, providers, and coding agents."
+      },
+      {
+        "title": "Genkit Middleware (10 minute read)",
+        "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/?utm_source=tldrai",
+        "excerpt": "Genkit is a framework for building full-stack, AI-powered and agentic applications for any platform. It supports TypeScript, Go, Dart, and Python. Genkit uses composable hooks that intercept generation calls to implement retries and fall-backs for maximum reliability, human approval before destructive tool calls, and observability across every layer. Its middleware system runs a tool loop that repeats until the model is done. The Genkit Developer can be used to inspect, test, and debug applications and middleware execution."
+      },
+      {
+        "title": "Unlocking asynchronicity in continuous batching (20 minute read)",
+        "url": "https://huggingface.co/blog/continuous_async?utm_source=tldrai",
+        "excerpt": "Asynchronous batching can reduce idle time between CPU and GPU cycles, improving GPU utilization for inference by 22%. By using CUDA streams and events, CPU tasks prepare batch N+1 during batch N's GPU computation, eliminating idle gaps. This method yields more efficient GPU operations without changing kernels or models, enhancing generation speed substantially."
+      },
+      {
+        "title": "Microsoft is quietly shopping for an OpenAI replacement (4 minute read)",
+        "url": "https://thenextweb.com/news/microsoft-startup-deals-life-after-openai?utm_source=tldrai",
+        "excerpt": "Microsoft signed a deal with OpenAI late April that amended the company's exclusive license to OpenAI models, freed OpenAI to sell on any other cloud, and removed the AGI clause that would have triggered changes to Microsoft's IP rights once OpenAI's board declared the threshold reached. Microsoft's IP license, a 27% stake worth roughly $135 billion, will be kept through 2032. Microsoft is reportedly looking to purchase Inception, a company that builds diffusion-based language models. It is interesting that Microsoft would spend $13 billion on a partner and then immediately start a shadow procurement process for a replacement."
+      },
+      {
+        "title": "Elon Musk's SpaceXAI has been bleeding staff since its merger (2 minute read)",
+        "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/?utm_source=tldrai",
+        "excerpt": "SpaceXAI is reportedly losing top talent across coding, world models, and Grok voice. Rivals like Meta and Thinking Machines Lab are scooping up former staff. Elon Musk's culture of extreme work has led some staff to leave. Several of the exits could have been driven by a desire to cash out."
+      },
+      {
+        "title": "Igor Babuschkin Seeks Up To $1 Billion For River AI (3 minute read)",
+        "url": "https://letsdatascience.com/news/igor-babuschkin-seeks-up-to-1-billion-for-river-ai-8c36ce09?utm_source=tldrai",
+        "excerpt": "Babuschkin, an xAI cofounder, is putting in $100 million of his own money into the company."
+      },
+      {
+        "title": "Nvidia's Jensen Huang bets on this British startup to build 'next frontier' of AI (3 minute read)",
+        "url": "https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html?utm_source=tldrai",
+        "excerpt": "Nvidia has announced a partnership with Ineffable Intelligence, a startup pursuing superintelligence that was founded in late 2025 by UCL professor and former lead of DeepMind's reinforcement learning team, David Silver."
+      },
+      {
+        "title": "Work with Codex from anywhere (6 minute read)",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/?utm_source=tldrai",
+        "excerpt": "Codex is now available in the ChatGPT mobile app, enabling seamless remote access to ongoing work on laptops, devboxes, or remote environments."
+      },
+      {
+        "title": "OpenSquilla launches open-source AI agent to cut token costs (4 minute read)",
+        "url": "https://www.testingcatalog.com/opensquilla-launches-open-source-ai-agent-to-cut-token-costs/?utm_source=tldrai",
+        "excerpt": "OpenSquilla has introduced an open-source AI agent runtime designed to reduce unnecessary token spend by reusing context efficiently."
+      },
+      {
+        "title": "TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)",
+        "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e?utm_source=tldrai",
+        "excerpt": "TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more."
+      },
+      {
+        "title": "Toto 2.0: Time series forecasting enters the scaling era (13 minute read)",
+        "url": "https://www.datadoghq.com/blog/ai/toto-2/?utm_source=tldrai",
+        "excerpt": "Datadog's Toto 2.0, a scalable time series forecasting model family, is now available on Hugging Face."
+      }
+    ]
+  }
+}

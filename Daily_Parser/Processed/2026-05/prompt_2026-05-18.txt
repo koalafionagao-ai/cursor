@@ -1,0 +1,209 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27
+Tweets:
+  - Author: @tgod34748
+    Text: Apple Intelligence is already considered a “beta”, even nearly 2 years later. Honestly with how Apple Intelligence rolled out, it was barely an alpha.
+    Link ID: TM-01-TW-01
+  - Author: @vyyyper
+    Text: At this point it might be time to think about a rebrand for Siri.
+    Link ID: TM-01-TW-02
+  - Author: @jehangeer_hasan
+    Text: @markgurman Auto-deleting chats is cool but Siri first needs to survive a conversation longer than 3 prompts without acting confused.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay
+Tweets:
+  - Author: @grafana
+    Text: ... we've determined the appropriate path forward is to not pay the ransom. As part of Grafana Labs' standard security practices, we will share additional information from our post-incident review when our investigations are complete. (6/6)
+    Link ID: TM-02-TW-01
+  - Author: @quinnypig
+    Text: Reminder that “no customer impact” in a breach disclosure is the security equivalent of “we're continuing to invest in this product.” It means whatever the legal team needed it to mean at 11pm last night.
+    Link ID: TM-02-TW-02
+  - Author: @troyhunt
+    Text: Grafana giving a big middle finger to extortion:
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing
+Tweets:
+  - Author: @yacinemtb
+    Text: YouTube shorts is hitting relatively uneducated societies like a nuclear bomb man
+    Link ID: TM-03-TW-01
+  - Author: @alecmacgillis
+    Text: “In country after country, the birth rate plunged after introduction of smartphones, no matter what the previous trend was. The younger the age group, the more pronounced the downturn—a mirror image of phone usage patterns.” @jburnmurdoch, so persuasive:
+    Link ID: TM-03-TW-02
+  - Author: @paulg
+    Text: If Steve Jobs were still alive, he would have the moral authority to face and maybe even to solve this problem. But I doubt anyone in the phone business now does. [image]
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Filings: in Q1, Trump traded $220M-$750M in NVDA, MSFT, AMZN, META, ORCL, and other stocks; millions of dollars of NVDA were bought shortly before major news
+---
+ID: TM-05
+Title: In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events
+---
+ID: TM-06
+Title: Experts: Stuxnet-linked Fast16 malware, designed to subvert nuclear weapons testing simulations, was likely part of a campaign to slow Iran's nuclear ambitions
+---
+ID: TM-07
+Title: SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps
+---
+ID: TM-09
+Title: Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people's voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M
+---
+ID: TM-10
+Title: Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue
+---
+ID: TM-11
+Title: OpenAI partners with Malta's AI for All initiative to give citizens a free year of ChatGPT Plus if they complete a University of Malta AI literacy course
+---
+ID: TM-12
+Title: US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8%
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-13
+Title: Power prices on the largest electric grid in the US, operated by PJM, jumped 76% YoY to an average of $136.53/MWh in Q1 due to rampant demand from data centers
+---
+ID: TM-14
+Title: Hill County, which faced eight new data centers, passed what may be Texas' first county-wide ban on them, for one year; the state trails only VA in data centers
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-15
+Title: ASML will partner with Tata Electronics to help it bring an $11B 300mm chip factory online in Gujarat, expanding India's ability to produce chips domestically
+---
+ID: TM-16
+Title: Sources detail friction between Samsung's memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere
+---
+
+[CATEGORY: PUBLIC OFFERINGS]
+ID: TM-17
+Title: Shenzhen-listed RoboTechnik, which claims to be the largest silicon photonics tool maker and whose stock is up 340% over the past year, files for a HK listing
+---
+ID: TM-18
+Title: Sources: DayOne, the spinoff of China's largest data center operator GDS Holdings, plans dual IPO in Singapore and NY, seeking to raise $5B at a ~$20B valuation
+---
+
+[CATEGORY: M&A]
+ID: TM-19
+Title: Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash
+---
+ID: TM-20
+Title: Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and “radical transparency”, in a $100M deal
+---
+ID: TM-21
+Title: South Korea's Hana Bank agrees to acquire a 6.55% stake in Dunamu, which runs South Korea's largest crypto exchange Upbit, for $672.5M from Kakao
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-22
+Title: Seoul-based WIRobotics, which develops wearable and humanoid robots and is collaborating with Nvidia and AWS, raised a ~$68M Series B led by JB Investment
+---
+ID: TM-23
+Title: LA-based Fasset, which offers stablecoin-powered banking and cross-border payments services across Asia, Africa, and the Middle East, raised a $51M Series B
+---
+ID: TM-24
+Title: Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors
+---
+ID: TM-25
+Title: Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion
+---
+ID: TM-26
+Title: Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-27
+Title: Sources: Kalshi has probed and flagged 400+ suspicious trades YTD, more than 2x the number it investigated in all of 2025; Polymarket has seen a similar uptick
+---
+ID: TM-28
+Title: King's Cross, where Google's new UK HQ is due to open later this year, has become London's new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others
+---
+ID: TM-29
+Title: Vietnam's government, which once saw video games as a social risk, named gaming as one of its key cultural industries in 2025 and now promotes them at expos
+---
+ID: TM-30
+Title: A profile of SAS CEO Jim Goodnight, the 83-year-old who co-founded the 50-year-old analytics firm and holds a ~67% stake worth $13.3B, as AI tests SAS' strategy
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: ChatGPT Personal Finance (6 minute read)
+Excerpt: OpenAI released a preview of a new personal finance experience in ChatGPT for Pro users in the US. The feature lets users securely connect financial accounts, view spending dashboards, and ask questions grounded in their financial context and goals.
+---
+ID: TL-02
+Title: Gemini app rolling out ‘Extended' thinking level, new 3rd-party app integrations (3 minute read)
+Excerpt: Google is rolling out a new 'Thinking level' option for Gemini. The option has appeared for some users when they select Fast or Gemini 3.1 Pro. Google is also preparing to add more integrations with third-party apps in Gemini. Support for Canva, Instacart, and OpenTable appears to be coming.
+---
+ID: TL-03
+Title: Codex will soon be able to control other desktop devices via Computer Use (2 minute read)
+Excerpt: OpenAI is working on a capability that lets its coding agent operate macOS applications through Computer Use even when a laptop is locked or asleep. Computer Use currently requires an unlocked, awake session to see the screen, move the cursor, and type. Lifting the restriction will allow users to direct their agents without having to walk back to their machines to log in first. It is unknown when the feature will be released.
+---
+ID: TL-04
+Title: AI economics part 2 (11 minute read)
+Excerpt: AI labs are in an ongoing war over GPU resources. That article looks into demand and supply and how the infrastructure powering AI today may not be sufficient. Scaling GPUs doesn't scale compute linearly. Efficiency matters more at raw scale given finite supply.
+---
+ID: TL-05
+Title: Portability Is a Myth: Why the Best AI Stacks Will Never Be Hardware-Agnostic (15 minute read)
+Excerpt: AI kernel portability is structurally impossible because TPU's Pallas, NVIDIA's CuTile and CUTLASS, AWS's NKI, AMD's FlyDSL, and Tenstorrent's tt-Metalium each expose hardware-specific concepts that no universal DSL can unify. The evidence: MaxText's MoE grouped matmul ships as 282 lines of Pallas on TPU while flashinfer's equivalent for Blackwell SM100 takes 4 million lines of generated CUDA, with zero shared code because the algorithms themselves diverge across hardware.
+---
+ID: TL-06
+Title: Tokenomics: the 62.5-minute rule for Claude's cache (8 minute read)
+Excerpt: If you expect to need a cache before 62.5 minutes, refresh it. Otherwise, let it expire. This number stays the same between models, and it doesn't change, no matter the size of the cache. The amount of dollars may change, but the decision point is still the same.
+---
+ID: TL-07
+Title: How Claude Code works in large codebases: Best practices and where to start (5 minute read)
+Excerpt: Claude Code is now being used in production across multiple large codebases in organizations with thousands of developers. These environments bring challenges that smaller codebases don't. This article covers patterns that Anthropic has seen that have led to the successful adoption of Claude Code at scale. It looks at how Claude Code has been used in monorepos with millions of lines, legacy systems built over decades, and microservices across separate repositories.
+---
+ID: TL-08
+Title: Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention (33 minute read)
+Excerpt: KV-cache size, memory traffic, and attention cost quickly become the main constraints as reasoning models and agent workflows keep more tokens around for longer. LLM developers are adding a growing number of architecture tricks to reduce costs. Most of the changes look like small tweaks, but some are quite intricate design changes. This article looks at these architecture changes with a focus on what changes inside the transformer block, residual stream, KV cache, and attention computation.
+---
+ID: TL-09
+Title: Lighthouse Attention (11 minute read)
+Excerpt: Lighthouse Attention, a selection-based hierarchical attention, offers up to 17x faster forward and backward passes than standard attention models at large contexts. It utilizes FlashAttention on a dense sub-sequence, maintaining efficiency and compatibility with upstream improvements. By enabling efficient long-context training and retaining dense model competence, Lighthouse Attention achieves 1.4x to 1.7x speedup in pretraining while reducing computational costs.
+---
+ID: TL-10
+Title: Notes on pretraining parallelisms and failed training runs (12 minute read)
+Excerpt: Pretraining runs often fail. This article looks at all the ways that things can go wrong and why training is such a precarious operation. The key culprits seem to be breaking causality and adding bias.
+---
+ID: TL-11
+Title: The haves and have nots of the AI gold rush (1 minute read)
+Excerpt: The AI boom has created a wealth divide, with an estimated 10,000 individuals from companies like OpenAI and Nvidia achieving over $20M in wealth, while others face uncertain futures with stagnant job prospects and layoffs. Software engineers express concerns about their skills becoming obsolete, raising anxiety about career paths. This disparity fuels tension in San Francisco's tech scene as some criticize the dual role of AI as a wealth source and a career threat.
+---
+ID: TL-12
+Title: Runway started by helping filmmakers — now it wants to beat Google at AI (11 minute read)
+Excerpt: Runway's founders believe that the next form of AI will be built from video and world models that learn how the world works. The company is training models directly on observational data to reach the next frontier of AI. Runway was one of the first to develop AI video generation, but world models are a different race with deep-pocketed competitors. The company has raised $860 million to date, but it is going against incumbents like OpenAI and Google.
+---
+ID: TL-13
+Title: Headroom (GitHub Repo)
+Excerpt: Headroom compresses everything an agent reads before it reaches the LLM to produce the same answers at a fraction of the tokens.
+---
+ID: TL-14
+Title: Apple Silicon costs more than OpenRouter (3 minute read)
+Excerpt: Openrouter costs about 1/3 the price at around 2x the speed for comparable models.
+---
+ID: TL-15
+Title: DeepSeek-V4-Flash means LLM steering is interesting again (9 minute read)
+Excerpt: Steering is the idea that LLM outputs can be guided by directly manipulating the activations of a model mid-flight.
+---
+ID: TL-16
+Title: OpenAI Quietly Bought Voice-Cloning Startup Weights.gg, Then Folded the Team (3 minute read)
+Excerpt: OpenAI acquired the six-person team and its intellectual properties, then shut down Weights.gg and dispersed its team across multiple OpenAI groups.
+---
+ID: TL-17
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---

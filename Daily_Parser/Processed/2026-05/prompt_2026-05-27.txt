@@ -1,0 +1,274 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Robinhood launches a feature to let users link AI agents, such as Claude or Cursor, to separate, dedicated investment accounts for trading stocks autonomously
+Tweets:
+  - Author: @robinhoodapp
+    Text: Your strategy shouldn't sleep just because you do.  Connect your AI agent to a Robinhood Agentic Account to explore trade ideas, build and rebalance portfolios, program custom tools, and place trades as your strategy evolves.  Rolling out now.
+    Link ID: TM-01-TW-01
+  - Author: @vladtenev
+    Text: Agent, meet markets.
+    Link ID: TM-01-TW-02
+  - Author: @mikeisaac
+    Text: first instinct was to be like “wha-whaaaaa?!?” but am failing to see how this is not just algorithmic trading with a different wrapper
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, will test $7.99/mo. and $19.99/mo. Meta AI plans, a $49.99/mo. creator plan, and more
+Tweets:
+  - Author: @financejack44
+    Text: Something else that's interesting about the new $META subscriptions is they AREN'T ad free.  So $META is not sacrificing any advertising revenue with the rollout of these paid experiences.  If they can create a decent value proposition for the subscriptions without removing ads that's a HUGE monetization lever.
+    Link ID: TM-02-TW-01
+  - Author: @rihardjarc
+    Text: Did people really expect $META wouldn't charge a subscription for AI products and use their +3B distribution network?  $SNAP makes $5B in ad revenue and $1B in direct subs revenue (growing 87% YoY).  $META can add a few $10B to its bottom line just by providing solid-value subscriptions.  Distribution is the ultimate AI bottleneck and moat, as we have AI models and services available in every app and platform.
+    Link ID: TM-02-TW-02
+  - Author: @supbagholder
+    Text: @RihardJarc I already pay for Instagram Plus. It's great to track who views my stories/what performs. Lots of value to unlock with subscriptions imo.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Valve raises Steam Deck OLED prices due to “rising memory and storage costs”; the 512GB model is now $789, up from $549, and the 1TB model is $949, up from $649
+Tweets:
+  - Author: @genepark
+    Text: the steam deck is a top 3 gaming device or console i've ever owned. it's also now no longer worth buying. i wanted to get another spare one but so much for that. unbelievably, the xbox rog ally x is now vastly better priced atm at $1,000, more powerful than steam deck.
+    Link ID: TM-03-TW-01
+  - Author: @carygolomb
+    Text: It is such a crazy time that I'm actually saying out loud, actually don't even bother getting a Steam Deck OLED, just get the Xbox ALLY X
+    Link ID: TM-03-TW-02
+  - Author: @jezcorden
+    Text: I expect PlayStation and Xbox to increase prices again before this is all over. CHINESE MEMORY PLS SAVE US.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects “significant photorealistic AI use”
+---
+ID: TM-05
+Title: Samsung's largest union approves a pay deal that would give chip workers an average bonus of ~$340K, with ~74% of members voting in favor, staving off a strike
+Sub Items:
+  - Title: Source: TSMC CEO C.C. Wei told staff that they will see a 30%+ bump in their profit-sharing payouts in 2026 on average, after some staff voiced concerns online
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: SK Hynix tops $1T in market value after jumping 9% on Wednesday, becoming the third Asian company to hit the milestone; shares are up 1,000%+ in the past year
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-07
+Title: A deep dive into how Anthropic's Claude Code and Peter Steinberger's OpenClaw unleashed the AI agent revolution that is rapidly transforming modern computing
+Sub Items:
+  - Title: Q&A with Claude Code creator and head Boris Cherny on how the title “software engineer” could disappear, why AI may create more jobs than it destroys, and more
+    Link ID: TM-07-SUB-01
+---
+ID: TM-08
+Title: ElevenLabs launches Music v2, which can switch genres mid-track and handle complex vocal compositions, built on licensed data and cleared for commercial use
+---
+ID: TM-09
+Title: AI coding startup Cognition AI raised more than $1B at a $26B valuation, and says its revenue run rate has increased to $492M from $37M in May 2025
+---
+ID: TM-10
+Title: Amazon says it is making the “architecture, starter code, and learnings” from Alexa for Shopping available to third-party retailers, starting with Kate Spade
+---
+ID: TM-11
+Title: Amazon MGM Studios announces the GenAI Creators' Fund, greenlights three AI animated series for Prime Video, and launches an AI production platform with AWS
+---
+ID: TM-12
+Title: Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%
+---
+ID: TM-13
+Title: Demis Hassabis says he still broadly expects AGI around 2030, though he now sees 2029 as a possibility, and 2026's “agentic era” is a “bit like a practice run”
+---
+ID: TM-14
+Title: Biohub, a Mark Zuckerberg- and Priscilla Chan-funded institute, releases “a world model of protein biology” to researchers for prediction, design, and discovery
+---
+ID: TM-15
+Title: OpenAI announces partnerships to combat election misinformation, offering cybersecurity products to state officials and backing legislation to curb deepfakes
+---
+ID: TM-16
+Title: Sources and docs detail how China is modernizing its decade-old domestic surveillance network by investing in new generations of AI-enabled cameras and software
+---
+ID: TM-17
+Title: How AI is starting to dismantle the hegemony of the Big Four consultancies and other large firms, as AI agents help smaller consultancies handle big workloads
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-18
+Title: Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 35%+ after hours
+---
+ID: TM-19
+Title: Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est.
+---
+ID: TM-20
+Title: Temu owner PDD reports Q1 revenue up 11% YoY to ~$15.7B, below ~$16.2B est., net profit down 15% to ~$1.85B, below ~$3.4B est.; PDD closes down 10.38%
+---
+ID: TM-21
+Title: HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-22
+Title: Starlette, an open-source Python framework underpinning FastAPI, has a vulnerability called BadHost that can allow hackers to bypass authorization
+---
+ID: TM-23
+Title: The UK's GCHQ head says the UK and allies have a “narrowing window” to counter cyber threats from China and Russia, as Russia intensifies “daily” hybrid warfare
+---
+
+[CATEGORY: REGULATION]
+ID: TM-24
+Title: The EU proposes new satellite access rules to let non-European companies like SpaceX bid for the airwaves, while preserving 33%+ of licenses for local companies
+Sub Items:
+  - Title: Sources: EU leaders are divided on curbing Big Tech as they weigh cloud tender rules and giving EU companies preferential access to mobile satellite spectrum
+    Link ID: TM-24-SUB-01
+---
+ID: TM-25
+Title: Illinois Legislature passes SB 315, a bill requiring annual independent third-party safety audits of leading AI companies; the bill heads to the governor's desk
+---
+ID: TM-26
+Title: Sources: Germany and Spain are leading opposition to the EU's plan to ban Chinese suppliers like Huawei from telecom networks as part of new cybersecurity rules
+---
+
+[CATEGORY: PREDICTION MARKETS]
+ID: TM-27
+Title: President Trump says it is “critically important” that the CFTC keep exclusive authority to oversee prediction markets, as some states attempt to regulate them
+---
+ID: TM-28
+Title: Polymarket is making it harder to use VPNs to access its service, blocking some IPs and suspicious accounts, and is asking some customers to identify themselves
+---
+ID: TM-29
+Title: US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google's Year in Search results
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-30
+Title: Jensen Huang says Nvidia spends $100B-$150B per year on its Taiwan supply chain, up from $10B-$15B in 2022-2023, and will boost its 1,000 staff there to 4,000
+---
+ID: TM-31
+Title: Document: Samsung plans to invest ~$1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027
+---
+ID: TM-32
+Title: Sources: Taiwan suspects three people smuggled at least one shipment of Nvidia chips to China after exporting them to Japan; Taiwan detained the trio last week
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-33
+Title: Sources: inference cloud startup Fireworks AI is in talks to raise funding at a $15B valuation, up from $4B after it announced a $250M round in October 2025
+---
+ID: TM-34
+Title: Milan-based social travel startup WeRoad raised a $58M Series C led by Airbnb, taking its total funding to ~$100M, to expand into the US, starting in Austin
+---
+ID: TM-35
+Title: NYC-based Pace, whose AI agents automate back-office operations for insurance companies, raised a $46M series B led by Thrive and Sequoia at a $375M valuation
+---
+ID: TM-36
+Title: DC-based Airis Labs, which uses AI to convert visual data to law enforcement intelligence, emerges from stealth with a $31M Series B, for $60M in total funding
+---
+ID: TM-37
+Title: Opendoor co-Founder Eric Wu's NavigateAI, which is building an expert AI coach for construction workers, raised a $25M seed led by Elad Gil at a $225M valuation
+---
+ID: TM-38
+Title: Tensormesh, whose inference platform uses KV caching to reduce costs, raised a $20M seed extension, bringing its total funding to $24.5M
+---
+ID: TM-39
+Title: Trajectory, founded by ex-DeepMind, Apple, OpenAI and Meta researchers to build continual learning models, raised a $15M seed at a $115M post-money valuation
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-40
+Title: OpenAI Foundation says it is committing an initial $250M for grants, partnerships, and direct work aimed at helping workers and economies navigate AI disruption
+---
+ID: TM-41
+Title: Roku launches its first major homescreen overhaul in over a decade, including a large “marquee” ad spot to tout apps or shows, in a bid to drive more engagement
+---
+ID: TM-42
+Title: Initial benchmarks: Nvidia's Vera Rubin CPU, which features 88 Nvidia-designed Olympus cores, packs a heavy-hitting punch, beating Intel's and AMD's x86_64 CPUs
+---
+ID: TM-43
+Title: Sources: ByteDance is discussing up to $70B of 2026 capex as it builds out data centers and other AI infrastructure, underwritten by its ~$50B profit in 2025
+---
+ID: TM-44
+Title: Xreal launches a new sub-brand, X by Xreal, and $299 a01 display glasses with micro OLED displays, a 50° FOV, and a 62g weight, set for a July release in the US
+---
+ID: TM-45
+Title: A look at the Pentagon's embrace of autonomous weapons before its fight over Anthropic's two “red lines”, and AI's creeping influence in military operations
+---
+ID: TM-46
+Title: Amazon says it invested £15B+ in the UK in 2025, including new sites and expanded studio facilities, keeping it on track to invest £40B over three years by 2027
+---
+ID: TM-47
+Title: Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management's 14.6% share at a €12B valuation, after a takeover offer last week
+---
+ID: TM-48
+Title: The Shanghai Stock Exchange says memory maker CXMT cleared a listing review for the exchange's Nasdaq-like STAR Board, in what could be China's top IPO in 2026
+---
+ID: TM-49
+Title: Mark Zuckerberg tells shareholders that a Meta cloud computing business is “definitely on the table” if it overspends on data centers and has excess capacity
+---
+ID: TM-50
+Title: Sources: software-specialist PE firm Hg agrees to acquire Rightsline, whose software helps Disney, the BBC, WBD, and others manage IP licensing, for $500M
+---
+ID: TM-51
+Title: The US DOD announces a $9.7B five-year deal with Dell to provide Microsoft 365, advanced cloud subscriptions, and on-premises licensing to the US military
+---
+ID: TM-52
+Title: Analysis: the share of entry-level tech hiring in India fell from 28% in 2024 to ~15% in 2025 as companies focused on AI, cloud, cybersecurity, and automation
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Musk's xAI Warns Staffers to Limit Contact With Cursor Employees (4 minute read)
+Excerpt: xAI's top lawyer has warned xAI employees to carefully moderate their interactions with workers from Cursor. Staff should not extend beyond what is necessary to implement a technical partnership. The warning is standard during acquisitions, but it is coming a bit late as the companies' employees have been working alongside each other for weeks. Any accusation that the two sides improperly co-mingled their business could put the acquisition deal in jeopardy.
+---
+ID: TL-02
+Title: MAI-Image-2.5 launches at No. 3 on Arena (1 minute read)
+Excerpt: MAI-Image-2.5 ranks third on Arena's text-to-image leaderboard, excelling in style variety, accurate text rendering, and detailed imagery. It improves significantly over MAI-Image-2 with advancements in visual reasoning, scene structure, and commercial illustration capabilities. These enhancements enhance its ability to transform simple instructions into polished images.
+---
+ID: TL-03
+Title: China Expands Travel Curbs to Top AI Talent at Private Firms (4 minute read)
+Excerpt: China has restricted overseas travel for top AI professionals in private firms. These individuals will need approval from relevant authorities before embarking on overseas travel. The restricted individuals include a mix of startup founders, researchers, and executives. China has previously restricted travel for key personnel, from prominent researchers to nuclear scientists and executives at state firms, but it is unusual for the travel restrictions to be extended to private firms.
+---
+ID: TL-04
+Title: Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning (10 minute read)
+Excerpt: NVIDIA's CompileIQ, integrated into CUDA 13.3, uses AI-driven evolutionary algorithms to auto-tune GPU compiler settings, optimizing performance for specific workloads beyond standard heuristics. It provides fine-tuned compiler configurations for individual kernels, offering up to 15% performance improvements on already-optimized AI inference and training tasks. With CompileIQ, developers define optimization objectives, allowing for multi-objective tuning, including trade-offs between runtime, power, and compile time, making it suitable for high-impact applications like LLM inference.
+---
+ID: TL-05
+Title: How we contain Claude across products (28 minute read)
+Excerpt: Agents are a new category of software, but their system-level interactions are not. Design for containment at the environment layer first, then steer behavior at the model layer. Match isolation strength to the user's capacity for oversight, and use battle-tested components. AI deployment can be risky, but placing a hard limit on the potential damage often shifts the balance in the right direction.
+---
+ID: TL-06
+Title: DeepSWE (21 minute read)
+Excerpt: DeepSWE introduces a sophisticated benchmark for long-horizon software engineering, with tasks spanning 91 repositories in 5 languages and ensuring no model has pre-seen the solution. It delivers four key improvements: tasks are contamination-free, reflect real-world complexity, cover diverse repositories, and employ reliable verification processes. DeepSWE provides sharper separation metrics for coding agents, contrasting with the clustering seen in existing benchmarks like SWE-Bench Pro.
+---
+ID: TL-07
+Title: Native Multimodal Models (GitHub Repo)
+Excerpt: This repository catalogs work moving from modular multimodal assembly toward native multimodal modeling, where different modalities are integrated inside a unified transformer space or joint backbone.
+---
+ID: TL-08
+Title: OpenRouter more than doubles valuation to $1.3B in a year (2 minute read)
+Excerpt: OpenRouter raised $113 million in a Series B round led by CapitalG, bringing its valuation to $1.3 billion. The AI gateway startup provides access to over 400 models and processes 100 trillion tokens monthly. OpenRouter's growth reflects a shift in AI towards multi-model solutions, allowing companies to avoid dependence on a single model provider.
+---
+ID: TL-09
+Title: SpaceX Has Two AI Compute Stories; Only One Generates Revenue (14 minute read)
+Excerpt: SpaceX's S-1 tells two stories. The first is that the company is spending billions building terrestrial data centers and has signed one disclosed external customer, Anthropic, with a deal worth $1.25 billion per month through to May 2029. The second is that the future of AI inference belongs in orbit and that SpaceX is the only company that has already accomplished the key technical challenges associated with evolving connectivity satellites into AI compute satellites. Both stories are presented with conviction, and neither is contingent on the other being wrong.
+---
+ID: TL-10
+Title: Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a "cute, simple proof" (2 minute read)
+Excerpt: Mythos' solution was a bit worse than OpenAI's, but Mythos was reportedly able to find OpenAI's solution too.
+---
+ID: TL-11
+Title: Anthropic to introduce AI Fluency scorecard in Claude (5 minute read)
+Excerpt: Anthropic plans to introduce an AI Fluency scorecard in Claude that evaluates user interaction skills across 11 behavioral indicators.
+---
+ID: TL-12
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---
+ID: TL-13
+Title: Initial Results on Legal Agent Benchmark (8 minute read)
+Excerpt: Harvey baselined frontier models on its Legal Agent Benchmark holdout under an "all-pass" standard requiring every rubric criterion to pass, and Claude Opus 4.7 led at just 7.1% with Sonnet 4.6 at 5.4%, Opus 4.6 at 4.2%, GPT-5.5 at 2.1%, and Gemini 3.5 Flash at 0.8%, signaling legal work is far from saturated by frontier intelligence.
+---
+ID: TL-14
+Title: How Claude Cowork's Lead Engineer Uses AI (8 minute read)
+Excerpt: Felix Rieseberg showed how he used Claude Cowork for tasks like converting a 2D house plan into a 3D floor planner, mining email as a personal inventory database, and building live dashboards from connected apps.
+---

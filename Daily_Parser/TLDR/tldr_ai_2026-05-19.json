@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-19",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Qwen3.7 Preview lands on Arena (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2056403591464984753.html?utm_source=tldrai",
+        "excerpt": "Qwen3.7 Preview is now on Arena for Text and Vision. Qwen3.7 Max Preview ranks 13th overall in Text Arena, while Qwen3.7 Plus Preview ranks 16th overall in Vision Arena."
+      },
+      {
+        "title": "Cursor Released Composer 2.5 (7 minute read)",
+        "url": "https://cursor.com/blog/composer-2-5?utm_source=tldrai",
+        "excerpt": "Cursor introduced Composer 2.5, an updated coding agent trained with targeted reinforcement learning, synthetic data, and new distributed training techniques."
+      },
+      {
+        "title": "Anthropic Acquires SDK Startup Stainless (4 minute read)",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless?utm_source=tldrai",
+        "excerpt": "Anthropic acquired developer tools startup Stainless, whose SDK automation platform was widely used by AI companies, including OpenAI, Google, and Cloudflare."
+      },
+      {
+        "title": "What political censorship looks like inside an LLM's weights (109 minute read)",
+        "url": "https://vas-blog.pages.dev/qwen-censorship/?utm_source=tldrai",
+        "excerpt": "Qwen3.5-9B's political censorship is a small circuit that can be read and turned off. The factual knowledge is already in pretraining. The censorship behavior is layered on top of the facts. The model never loses the knowledge, it just learns to route around it."
+      },
+      {
+        "title": "Agent Evaluation: A Detailed Guide (53 minute read)",
+        "url": "https://cameronrwolfe.substack.com/p/agent-evals?utm_source=tldrai",
+        "excerpt": "LLM evaluation has shifted from static benchmarks to more dynamic, real-world agent systems. Effective evaluation now requires realistic harnesses to test agents over long time horizons in complex environments. This is crucial as agents increasingly adopt high-stakes roles, such as coding and medicine, necessitating rigorous performance measurement and outcome-oriented evaluation."
+      },
+      {
+        "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation (9 minute read)",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation?utm_source=tldrai",
+        "excerpt": "NVIDIA Cosmos Predict 2.5 generates videos from text, adapting for specific tasks like robot manipulation using LoRA/DoRA to inject trainable adapters, minimizing memory use. These methods offer efficient fine-tuning on a single GPU, preventing catastrophic forgetting while generating synthetic trajectories quickly. Fine-tuning with LoRA and DoRA significantly improves video quality, with LoRA more suited for tight memory conditions and DoRA preferred for addressing training instability."
+      },
+      {
+        "title": "HRM-Text (GitHub Repo)",
+        "url": "https://github.com/sapientinc/HRM-Text?utm_source=tldrai",
+        "excerpt": "HRM-Text is a 1B text generation model based on the HRM architecture. It can be trained with 130-600x less compute and 150-900x less data than foundation models, making foundation model pretraining accessible. The 0.6B parameter version of the model can be trained on 8 H100s on a single node in about 50 hours for around $800. The 1B parameter model can be trained on 16 H100s on two nodes in about 46 hours for around $1,472."
+      },
+      {
+        "title": "Generalization Dynamics of LM Pre-training (17 minute read)",
+        "url": "https://jiaxin-wen.github.io/blog/generalization-dynamics?utm_source=tldrai",
+        "excerpt": "Language models (LMs) undergo unpredictable switches between parroting patterns and exhibiting adaptive intelligence during pre-training, a phenomenon termed \"mode-hopping.\" This behavior cannot be corrected by standard optimization techniques and presents as a competition for model capacity, influenced by data from each training window. Researchers propose leveraging these dynamics to better select pre-training checkpoints, curate data for stable generalization, and evaluate metrics predicting LM behavior."
+      },
+      {
+        "title": "Vera Arrives: NVIDIA's First CPU Built for Agents Lands at Top AI Labs (4 minute read)",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/?utm_source=tldrai",
+        "excerpt": "The first Nvidia Vera CPUs recently arrived at Anthropic, OpenAI, SpaceXAI, and Oracle. They were hand-delivered by Nvidia Vice President of Hyperscale and High-Performance Computing, Ian Buck. Vera features 88 custom Nvidia-designed Olympus cores, 1.2 TB/s of memory bandwidth, and 50% faster per-core performance. It is the host processor for Vera Rubin NVL72, which pairs via second-generation Nvidia NVLink-C2C to a pair of Rubin GPUs."
+      },
+      {
+        "title": "Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman (6 minute read)",
+        "url": "https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed?utm_source=tldrai",
+        "excerpt": "Elon Musk's lawsuit against Sam Altman and OpenAI has been dismissed. A jury has decided that Musk waited too long to file his lawsuit. Musk says he plans to appeal."
+      },
+      {
+        "title": "Skills in web, iOS, and Android (2 minute read)",
+        "url": "https://x.ai/news/grok-skills?utm_source=tldrai",
+        "excerpt": "xAI launched \"Skills\" for Grok, allowing users to teach it functions once, which it remembers across interactions."
+      },
+      {
+        "title": "LLM Wiki v2 (16 minute read)",
+        "url": "https://gist.github.com/kanmadigital/2369c4f5ea410cb8f6a1647b40c0e2a1?utm_source=tldrai",
+        "excerpt": "This post contains a pattern for building personal knowledge bases using LLMs."
+      },
+      {
+        "title": "Introducing Scheduled Tasks 2.0 (7 minute read)",
+        "url": "https://manus.im/blog/manus-schedules?utm_source=tldrai",
+        "excerpt": "Scheduled Tasks 2.0 enhances automation by allowing tasks to run with context, ensuring continuity in workflows across different projects and apps."
+      },
+      {
+        "title": "Turn repeated instructions into reusable skills in Lovable (14 minute read)",
+        "url": "https://lovable.dev/blog/introducing-skills?utm_source=tldrai",
+        "excerpt": "Skills in Lovable allow users to create reusable, markdown-based instructions to eliminate repetitive explanations."
+      },
+      {
+        "title": "TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)",
+        "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e?utm_source=tldrai",
+        "excerpt": "TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more."
+      }
+    ]
+  }
+}

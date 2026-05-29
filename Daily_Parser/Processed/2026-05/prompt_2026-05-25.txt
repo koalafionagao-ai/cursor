@@ -1,0 +1,167 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more
+Tweets:
+  - Author: @pontifex
+    Text: Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together.  In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.
+    Link ID: TM-01-TW-01
+  - Author: @davidsacks
+    Text: The Pope rightly warns that AI must serve human dignity, not become a tool of domination or exclusion.  But if we hand governments sweeping power over AI development in the name of safety, how do we prevent it from being used to censor, surveil, and control citizens — as Orwell foretold in 1984?  This is the real alignment problem
+    Link ID: TM-01-TW-02
+  - Author: @deanwball
+    Text: Reading the encyclical, I am reminded that the Vatican is fundamentally a city-state on the continent of Europe, and that its elites, which of course include the Pope himself, cannot resist the myopic preoccupations of the Eurocrat.  This document would be much improved if it were less enamored of the traditional academia/civil society talking points on AI
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV's first AI encyclical
+    Link ID: TM-01-SUB-01
+  - Title: In his ~43,000-word encyclical, the Pope urged governments to slow down AI development and decried “new forms of slavery” in AI and tech supply chains
+    Link ID: TM-01-SUB-02
+  - Title: A section of the Pope's encyclical describing AI's unpredictability suggests influence from Anthropic, whose co-founder Christopher Olah attended the unveiling
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Huawei says it aims to make 1.4nm chips by 2031 using its “LogicFolding” tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits
+Tweets:
+  - Author: @huawei
+    Text: HUAWEI has presented the Tau (τ) Scaling Law, a new principle for guiding the future development of the semiconductor industry. By 2031, HUAWEI's high-end chips based on this law are expected to feature a transistor density that is equivalent to 14 Å (1.4 nm) processes.
+    Link ID: TM-02-TW-01
+  - Author: @kyleichan
+    Text: It obviously matters that Huawei announced this in English at a major international scientific conference. They're trying to send a message to the US that Huawei (and China) are basically able to make progress despite export controls. So take that for what it's worth.
+    Link ID: TM-02-TW-02
+  - Author: @iancutress
+    Text: Doesn't look like a huge breakthrough.  They're using a technique that's expected to be done by everyone - because they can't scale litho, they've accelerated other parts of the roadmap.  Logic splitting is best shown in AMD's 2021 roadmap.  It requires tight pitch TSVs and best in class HBI.  So even if it comes out in 2026/2027, Huawei still has a way to go to hit 14A equivalents by 2031 using SMIC multipatterning...  [image]
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: X says it is cracking down on large accounts that have been gaming its revenue-sharing program by “programmatically reuploading content from smaller accounts”
+Tweets:
+  - Author: @nikitabier
+    Text: Over the past month, we have identified a number of large accounts that have been programmatically reuploading content from smaller accounts to game the revenue share program and circumvent crediting the original author.  We are now identifying these posts and allocating the impressions entirely to the creator.  If you have insightful commentary about a post, we recommend using the Share Video or Quote feature to ensure your posts are properly attributed.
+    Link ID: TM-03-TW-01
+  - Author: @ianmiles
+    Text: All true, and yet: 1) X still lacks proper native video editing tools.  The article system exists but isn't surfaced on the main timeline, which means long-form writing on X is effectively invisible to most of the audience that would read it.  Live streaming?  Forget about it.  2) X under-incentivizes original content because creators get no real metrics.  Other platforms give per-post earnings estimates.  On X we get a bimonthly payout with no breakdown of which content drove what, so creators are optimizing blind.  3) Whether a piece of content is a banger should be decided by the audience, not the algorithm or AI
+    Link ID: TM-03-TW-02
+  - Author: @tomwarren
+    Text: I wish all platforms did a lot more of this. There are far too many aggregator accounts on here that just post screenshots of people's work or regularly upload TikTok videos they didn't create without linking the original. The web was built on linking to sources
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results
+---
+ID: TM-05
+Title: Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout
+---
+ID: TM-06
+Title: How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets
+---
+ID: TM-07
+Title: Sources: Wix is expected to cut ~1,000 jobs in the coming months, or ~20% of its workforce, after weak Q1 earnings and a ~50% collapse of its stock in 2026
+---
+ID: TM-08
+Title: SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company's stakes in OpenAI and SB Energy Corp if they go public
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: A growing number of execs are creating AI digital twins to manage tasks; Reid Hoffman says “Reid AI” has delivered 75+ addresses and presentations since 2024
+---
+ID: TM-10
+Title: A look at the UK's AI Safety Institute, whose researchers probe AI models for safety gaps, as its work becomes a blueprint for other governments' AI policies
+---
+ID: TM-11
+Title: Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference
+---
+ID: TM-12
+Title: A profile of Meta CTO Andrew “Boz” Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company
+---
+ID: TM-13
+Title: A look at DeepSeek's model optimization to reduce HBM use, potentially enabling domestic memory, ASIC, and CPU makers to create a Chinese AI hardware ecosystem
+---
+ID: TM-14
+Title: A look at Xiaomi's AI push to future-proof its hardware and EV ecosystem, as it recently committed ~$8.8B in AI investments over the next three years
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-15
+Title: How Iranian threat actor Nimbus Manticore used techniques like AI-assisted malware development and SEO poisoning to target companies during the US-Iran war
+---
+ID: TM-16
+Title: More than 5,500 GitHub repositories were infected with malware in a supply chain attack, dubbed Megalodon, on May 18 that relies on automated commits
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-17
+Title: The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting
+---
+ID: TM-18
+Title: Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship's mast to relay real-time maritime data, raised a $43M Series A
+---
+ID: TM-19
+Title: Plenary Americas LP, La Caisse's infrastructure arm, agrees to acquire and take private Canadian database company ISC for $872M, expected to close in Q3
+---
+ID: TM-20
+Title: Massachusetts formally recognizes the App Drivers Union, which says it represents ~70,000 workers and is the first state-certified rideshare union in the US
+---
+ID: TM-21
+Title: Tether plans to launch GELT, an “official” stablecoin representing the Georgian lari, with the support of Georgia's government in an unusual partnership
+---
+ID: TM-22
+Title: Star Citizen, a video game in development since 2012, has reached $1B in lifetime funding; it remains in alpha and does not have a confirmed release date
+---
+ID: TM-23
+Title: The UK, outpaced by the US and China in AI, is turning to experimental technologies like neuromorphic computing in search of computing sovereignty
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Anthropic prepares Mythos 1 for Claude Code and Claude Security (2 minute read)
+Excerpt: Anthropic appears to be moving Claude Mythos to broader availability, with the model now helping protect a wider range of organizations. Traces of the model have already surfaced on Google Cloud and AWS through vulnerability discovery programs. A release for Mythos 1 seems imminent. Claude Opus 4.8 is also rumored to be in the works for release.
+---
+ID: TL-02
+Title: Evaluating Multi-Agent Systems at Scale (48 minute read)
+Excerpt: OpenAI outlined a macro-evaluation workflow for agentic systems that analyzes patterns across entire populations of traces rather than isolated failures.
+---
+ID: TL-03
+Title: Lance (Hugging Face Repo)
+Excerpt: Lance is a lightweight native unified multimodal model that supports image and video understanding, generation, and editing. It delivers strong performance across image generation, image editing, and video generation benchmarks with just 3B active parameters. The model was trained entirely from scratch within a 128-A100-GPU budget. Examples of clips generated by the model are available in the repository.
+---
+ID: TL-04
+Title: Reasonix (Website)
+Excerpt: Reasonix is a DeepSeek-native coding agent for the terminal. It is engineered around prefix-cache stability and designed to be left running. Token costs stay low across long sessions.
+---
+ID: TL-05
+Title: The 2026-07-28 MCP Specification Release Candidate (9 minute read)
+Excerpt: The release candidate for the next Model Context Protocol (MCP) specification is now available. It is the largest revision of the protocol since launch. The candidate introduces a stateless core that scales on ordinary HTTP infrastructure, extensions, authorization that aligns more closely with OAuth and OpenID Connect deployments, a formal deprecation policy, and many other changes. It contains breaking changes. The final specification will ship on July 28.
+---
+ID: TL-06
+Title: David Sacks's 11th-Hour Plea Led to Trump's Backtrack on AI Executive Order (9 minute read)
+Excerpt: David Sacks, a venture Capitalist, warned President Trump on a call that the long-awaited executive order on the dangers posed by artificial intelligence that Trump was deliberating on could lead to mandatory regulations that slow down the industry in its race with Chinese competitors. Trump responded that he shared concerns about China and was worried about hindering AI investment. He then postponed the signing and told reporters he wouldn't sign the order. The incident shows how powerful Sacks' influence is and marks a win for those against strong guardrails to limit the risks posed by the technology.
+---
+ID: TL-07
+Title: Anthropic's march to profitability (3 minute read)
+Excerpt: Anthropic is on track to do $10.9 billion in Q2 revenue, up from $4.8 billion in Q1, growing faster right now than Zoom did at the peak of the pandemic. The thing that flipped them to profit is compute getting cheaper, 71 cents of compute per revenue dollar in Q1, 56 cents in Q2. Claude Code on its own is at $2.5 billion in revenue, and the company expects to clear $559 million in profit just in time for its October IPO. The "AI labs burn money forever" story finally has a hole in it.
+---
+ID: TL-08
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---
+ID: TL-09
+Title: Bumblebee Goes Open Source (1 minute read)
+Excerpt: Perplexity open-sourced Bumblebee, a read-only security scanner that identifies risky packages, extensions, and AI tool configurations on developer machines.
+---
+ID: TL-10
+Title: Anthropic plans Claude memory update with new Memory Files (2 minute read)
+Excerpt: Memory Files distributes notes across multiple structured documents organized by topic, project, or context.
+---
+ID: TL-11
+Title: Gemini 3.5 Flash (Low) (1 minute read)
+Excerpt: Gemini 3.5 Flash (Low) generates around 45% fewer tokens than Gemini 3.5 Flash (Medium) and generally outperforms Gemini 3.5 Flash (High) on SWE tasks.
+---
+ID: TL-12
+Title: Paperwork is better when you can just talk through it (1 minute read)
+Excerpt: ChatGPT users can now upload a form image, add the details they want included, and the chatbot can fill it out for them.
+---

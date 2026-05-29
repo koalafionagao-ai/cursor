@@ -1,0 +1,338 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Anthropic launches Opus 4.8, saying it's “more likely to flag uncertainties about its work and less likely to make unsupported claims”, at the same price as 4.7
+Tweets:
+  - Author: @bcherny
+    Text: Claude Opus 4.8 is out today. It's our strongest coding model yet: up on SWE-bench Pro (from 64.3 to 69.2) and noticeably more honest about its own work. It tells you when it's unsure and catches its own bugs instead of declaring victory early. Same price as 4.7.
+    Link ID: TM-01-TW-01
+  - Author: @teortaxestex
+    Text: ...this is quite crushing. People unsubscribing from Ant will crawl back. Things are beginning to go very fast. And yes it feels a bit more “AGI-like” than 4.6 immediately (4.7 was a tool anyway and not appreciably sharper). 5.6 next, then what? [image]
+    Link ID: TM-01-TW-02
+  - Author: @emollick
+    Text: Here Opus 4.8 built and play-tested a new RPG in Claude Code, including 3 PDF manuals and adventures, playtest notes, a website, and a playable solo adventure - then put it all on Netlify. No feedback from me at all.  [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Anthropic says it expects Mythos-class models to be available to all customers “in the coming weeks” following the development of stronger safeguards
+    Link ID: TM-01-SUB-01
+  - Title: Anthropic adds dynamic workflows to Claude Code, enabling hundreds of subagents to run in parallel for complex engineering tasks such as framework migrations
+    Link ID: TM-01-SUB-02
+---
+ID: TM-02
+Title: Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month
+Tweets:
+  - Author: @mikeisaac
+    Text: new numbers from ANT too: company says its revenue run rate surpassed $47 billion earlier this month. that is an enormous surge of nearly four times its run rate from just three months ago
+    Link ID: TM-02-TW-01
+  - Author: @edels0n
+    Text: $65B private round More than double the size of the largest IPO ever
+    Link ID: TM-02-TW-02
+  - Author: @edzitron
+    Text: Round is actually $50 billion, this also included $15 billion from Amazon and Google that was raised in April btw. Google also, per CNBC, actually invested at a $380 billion valuation.  [image]
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 38%+ after hours
+Tweets:
+  - Author: @benbajarin
+    Text: Dell + NVIDIA has very similar dynamics to Dell + Intel in the early PC days. But as I outlined here, Dell's storage business is VERY well positioned within their entire infrastructure solutions.
+    Link ID: TM-03-TW-01
+  - Author: @ljkawa
+    Text: Dell's AI server business didn't exist until late 2023 as a business segment. Its sales are now larger than Dell's entire Client Solutions Group (its foundational, mature PC-focused division)  $DELL [image]
+    Link ID: TM-03-TW-02
+---
+ID: TM-04
+Title: Illustrations based on sources detail Apple's Siri overhaul, like a new UI and chatbot-style app, and major iOS 27 changes, ahead of the WWDC keynote on June 8
+Sub Items:
+  - Title: Sources: at WWDC, Apple is likely to showcase how 15 years of designing chips gives it an advantage in running AI locally, and will use a distilled Gemini model
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Letter: US Central Command says it received “threat reports concerning adversary exploitation of commercial location data” to target US personnel in war zones
+---
+ID: TM-06
+Title: YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an “Auto speed” setting, and a new on-the-go listening mode
+Sub Items:
+  - Title: YouTube adds a “custom feed” to its home page that lets users prompt it to create a constantly refreshing feed, available to signed-in US users with history on
+    Link ID: TM-06-SUB-01
+---
+ID: TM-07
+Title: The European Commission fines Temu €200M under the DSA for allegedly failing to adequately stop the sale of illegal products; further penalties could follow
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for very well-paid professionals
+---
+ID: TM-09
+Title: Visa makes an undisclosed investment in Replit; the two will explore how developers on Replit can use Visa Intelligent Commerce and the Trusted Agent Protocol
+---
+ID: TM-10
+Title: Memo: Meta plans to embed engineers and product managers inside large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools
+---
+ID: TM-11
+Title: Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks
+---
+ID: TM-12
+Title: Mistral says it is accelerating superintelligence development to ensure Europe's independence from US tech giants, and signs deals to supply Airbus and BMW
+---
+ID: TM-13
+Title: IBM and Red Hat commit $5B to establish a new open-source software model, dubbed Project Lightwell, and will deploy 20,000 engineers globally, supported by AI
+---
+ID: TM-14
+Title: Internal speech: JD.com founder Liu Qiangdong vows to protect the company's 900,000 employees from AI and automation, saying it will “do everything possible”
+---
+ID: TM-15
+Title: Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals
+---
+ID: TM-16
+Title: Source: the Shanghai Futures Exchange is in the early stages of designing futures contracts for AI tokens; US exchanges are set to launch GPU compute futures
+---
+ID: TM-17
+Title: Surging AI demand is causing shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors
+---
+ID: TM-18
+Title: Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease
+---
+ID: TM-19
+Title: Global AI hardware demand is easing China's concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise
+---
+ID: TM-20
+Title: Taiwanese tech companies have completed a record $14.5B of debt deals so far in 2026, as they race to secure financing to meet soaring demand for AI capacity
+---
+ID: TM-21
+Title: Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-22
+Title: Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 8%+ after hours
+---
+ID: TM-23
+Title: Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-24
+Title: Qualcomm unveils the Snapdragon C, an entry-level ARM-based SoC for Windows 11 devices starting from $300 and shipping in 2026, taking aim at the MacBook Neo
+---
+ID: TM-25
+Title: Intel unveils its first dedicated handheld gaming chips, the Arc G3 and Arc G3 Extreme, featuring Xe3 GPU cores, arriving first in the Acer Predator Atlas 8
+---
+ID: TM-26
+Title: Sources: ByteDance is developing its own CPUs to support its growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans
+---
+ID: TM-27
+Title: Doc: the EU is preparing emergency powers to intervene in Europe's chip supply chains during shortages, including by forcing chipmakers to override contracts
+---
+ID: TM-28
+Title: Analysis: the Philadelphia Semiconductor Index, which tracks the 30 top US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999
+---
+ID: TM-29
+Title: Chip design software maker Synopsys reaches a deal with Elliott, giving one board seat to the activist investor's Jesse Cohn, after roughly two months of talks
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-30
+Title: Elon Musk says Anthropic's Colossus deal is “a 180 day lease with 90 day notice”; SpaceX's S-1 said Anthropic “agreed to pay a monthly fee through May 2029”
+---
+ID: TM-31
+Title: As Google plans to build a $15B AI data center hub in Visakhapatnam, India, locals and rights groups are raising concerns over “extremely high” water stress
+---
+ID: TM-32
+Title: A record ~$6.2B spent on data centers in Australia, almost double QoQ, drove Q1 investment growth and helped an economy strained by energy costs and high rates
+---
+ID: TM-33
+Title: AWS has used Resilient Network Graphs, a quasi-random networking architecture with a flat mesh design, since late 2025 and says it accelerates information flows
+---
+
+[CATEGORY: QUANTUM COMPUTING]
+ID: TM-34
+Title: IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029
+---
+ID: TM-35
+Title: UK researchers gain access to Google's Willow quantum chip, which it says solves a problem in five minutes that would take supercomputers 10 septillion years
+---
+
+[CATEGORY: PAYMENTS]
+ID: TM-36
+Title: Sources: Australia-founded Airwallex, which Keith Rabois accused of being a “Chinese backdoor”, is relocating some staff out of China as it plans a US expansion
+Sub Items:
+  - Title: Sources: Airwallex raised new funding led by Lee Fixel's Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October
+    Link ID: TM-36-SUB-01
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-37
+Title: Samsung's Securities, SDS, and Card units say they will acquire a 4% stake in Dunamu, which operates South Korea's largest crypto exchange, for ~$446M in cash
+---
+ID: TM-38
+Title: The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-39
+Title: Filing: CNN sues Perplexity in New York for allegedly unlawfully copying and distributing CNN content, after failing to agree on terms with Perplexity in 2025
+---
+ID: TM-40
+Title: California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US
+---
+
+[CATEGORY: M&A]
+ID: TM-41
+Title: Last.fm says it is now an independent company again, 19 years after being acquired by CBS, and plans to keep its current team and continue the service as normal
+---
+ID: TM-42
+Title: Filing: Amazon will acquire Apple's 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger
+---
+ID: TM-43
+Title: Autodesk agrees to buy MaintainX, a company focused on maintenance tools, in an all-cash deal that values MaintainX at $3.6B
+---
+ID: TM-44
+Title: The European Commission opens a full review of JD.com's €2.2B acquisition of Germany-based electronics retailer Ceconomy under its Foreign Subsidies Regulation
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-45
+Title: Source: Groq is raising up to $650M from existing investors; the AI chipmaker earlier signed a $20B Nvidia licensing deal that saw much of its senior team leave
+---
+ID: TM-46
+Title: Fonoa, which helps enterprises manage indirect tax compliance, raised a $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform
+---
+ID: TM-47
+Title: Corgi, which uses AI to provide insurance for startups, raised a $106M Series B1 at a $2.6B valuation, up from $1.3B on May 6, for a total funding of $378M
+---
+ID: TM-48
+Title: London- and SF-based Orbital Industries, which uses its Orb model to design advanced materials and then sell them directly, raised a $50M Series B led by Plural
+---
+ID: TM-49
+Title: Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024
+---
+ID: TM-50
+Title: Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed
+---
+ID: TM-51
+Title: London-based Geordie AI, which builds a security and governance platform for AI agents, raised a $30M Series A led by Balderton at an estimated $180M valuation
+---
+ID: TM-52
+Title: Saris, which builds AI agents to automate back-office work for banks and credit unions, raised a $28.8M Series A led by 8VC
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-53
+Title: Tel Aviv-based web development company Wix cuts ~20% of its workforce, citing the “fast evolution of AI capabilities” and currency exchange rate difficulties
+---
+ID: TM-54
+Title: Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, shipping from June 4 for $399, up from the Ring 4's $349
+---
+ID: TM-55
+Title: Waymo unveils Ojai, a vehicle designed in partnership with Zeekr for robotaxi use, initially for select riders in San Francisco, Los Angeles, and Phoenix
+---
+ID: TM-56
+Title: Meta's Oversight Board says Meta agreed to increase its funding by $13M, ensuring that it will be funded through 2028, reversing a planned decrease in funding
+---
+ID: TM-57
+Title: Snowflake stock closed up 36% on Thursday, its best day ever, after the company boosted guidance and announced an AI compute deal with Amazon
+---
+ID: TM-58
+Title: Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower weapon costs
+---
+ID: TM-59
+Title: The Trade Desk's market cap is down ~70% from its December 2024 peak, as it contends with frustrated agency partners and competition from Google and Amazon
+---
+ID: TM-60
+Title: Swedish chip optical component maker Sivers, whose stock is up ~1,700% YTD, giving it a ~$2.5B market cap, has become one of the country's most-shorted stocks
+---
+ID: TM-61
+Title: Dealroom: London overtakes Paris to reclaim its position as Europe's leading tech hub, and now ranks fourth globally; London startups raised $17.7B in 2025
+---
+ID: TM-62
+Title: The Steam Deck's huge price hike, from $399 in 2022 to $789 today, is the end of an era for gaming handhelds, coming amid RAMageddon, tariffs, and the Iran war
+---
+ID: TM-63
+Title: Swiggy CEO Sriharsha Majety says the quick commerce company will avoid India's spending war, as Amazon and Flipkart shrink delivery times and expand discounts
+---
+ID: TM-64
+Title: As the US AI boom drains venture capital from Africa, startups on the continent are pivoting to domestic funding sources, like pension funds and local VC firms
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: More Devins in More Places (3 minute read)
+Excerpt: Cognition raised over $1B at a $26B valuation, with significant backing from major investors to expand Devin, an AI software engineer. Devin has significantly cut project times and improved automation for clients like Mercedes-Benz and Itaú. Cognition aims to further streamline software development by matching models to tasks while expanding its engineering capabilities.
+---
+ID: TL-02
+Title: ElevenLabs Music Generation Model (3 minute read)
+Excerpt: ElevenLabs has released Music v2, a music-generation model capable of switching genres mid-track while maintaining vocal and compositional coherence.
+---
+ID: TL-03
+Title: Biohub releases a world model of protein biology (9 minute read)
+Excerpt: Biohub has made its open discovery engine for protein structure prediction, design, and biological discovery available to researchers everywhere. The release includes ESMC, a state-of-the-art language model that has internalized the fundamental properties that govern protein biology; ESMFold2, a design engine designed to transform ESMC's sequence representations into atomically-resolved 3D structures of biomolecular complexes; and ESM Atlas, which makes ESMC's representations navigable across 6.8 billion protein sequences and 1.1 billion predicted structures. All three models are freely available to the global scientific community.
+---
+ID: TL-04
+Title: I think Anthropic and OpenAI have found product-market fit (11 minute read)
+Excerpt: Both Anthropic and OpenAI have started aggressively pricing their APIs. This is likely because they have found product-market fit with coding/general-purpose agent products. Companies spending over $200 per month per user helps these businesses cover their costs much better than charging $10 to $20 per month per user. Coding agents amplify this spending significantly.
+---
+ID: TL-05
+Title: Building self-improving tax agents with Codex (17 minute read)
+Excerpt: Real-world systems often behave differently in production than they do in the lab. Teams often discover these failures after launch, then spend weeks fixing them. That feedback loop is slow and manual. Today, it is possible to build agents that self-improve. This post looks at how OpenAI used Codex to build this type of agent at Thrive Holdings, resulting in an AI that can prepare increasingly complex tax returns.
+---
+ID: TL-06
+Title: Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL (4 minute read)
+Excerpt: The blog post introduces a method to reduce the weight synchronization payload in async RL using "Delta Weight Sync," which transmits only changed model parameters between RL steps, significantly reducing data transfer from gigabytes to megabytes. A Hugging Face Hub "bucket" manages high-frequency object storage, enabling separate locations for the trainer and inference engine without direct communication, leading to substantial bandwidth savings.
+---
+ID: TL-07
+Title: Secure MCP Tunnel (6 minute read)
+Excerpt: Secure MCP Tunnel enables connecting private MCP servers to OpenAI products without exposing them to the internet. It uses tunnel-client to establish outbound HTTPS paths for request handling while maintaining server privacy. The solution integrates easily with existing systems, supporting enterprise networking requirements and maintaining secure data flow.
+---
+ID: TL-08
+Title: LiteParse v2.0 (1 minute read)
+Excerpt: LiteParse is a standalone OSS PDF parsing tool that provides high-quality spatial text parsing with bounding boxes without proprietary LLM features or cloud dependencies. It features fast text parsing, screenshot generation, and support for multiple languages, platforms, and output formats. Everything runs locally on users' machines.
+---
+ID: TL-09
+Title: NVIDIA's LocateAnything for Faster Grounding (8 minute read)
+Excerpt: NVIDIA's LocateAnything is a vision-language grounding framework that decodes bounding boxes in parallel rather than token-by-token.
+---
+ID: TL-10
+Title: Introducing Apex: A Fast, Specialized Model for React Native (6 minute read)
+Excerpt: Apex is a React Native coding model trained to build apps by analyzing architecture decisions, fixing framework-specific issues, and reasoning about constraints. While it doesn't match frontier models on coding benchmarks, the optimized model significantly alters the performance-to-cost ratio within its specific domain. The model is still in development. It is now available in a private beta with selected teams.
+---
+ID: TL-11
+Title: Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires (13 minute read)
+Excerpt: Nvidia will invest $150 billion a year to make sure that Taiwan remains at the epicenter of the AI revolution. The investment is aimed at cementing Taiwan as the world's tech manufacturing hub for a long time. Nvidia will create a new headquarters in Taiwan to expand its partnership with TSMC, benefit from close proximity to advanced packaging technology not yet available at TSMC's factories in the US, and boost its alliances with other nearby partners. Expanding the AI ecosystem helps Nvidia further its bottom line.
+---
+ID: TL-12
+Title: YouTube Expands Automatic AI Video Labeling (1 minute read)
+Excerpt: YouTube said it will automatically apply labels to videos containing significant photorealistic AI content, reducing reliance on creator self-disclosure.
+---
+ID: TL-13
+Title: Former Google and Apple researchers launch Trajectory to enhance AI feedback loops (3 minute read)
+Excerpt: The new Palo Alto-based startup aims to make AI systems that can actually see and interpret the physical world.
+---
+ID: TL-14
+Title: Finding high-severity security issues with publicly available models (8 minute read)
+Excerpt: Ramp pointed roughly 10,000 Inspect coding-agent sessions at its backend in an 8-hour run with a minimal "find security issues" prompt.
+---
+ID: TL-15
+Title: Google DeepMind's Hassabis: AGI is 3 to 4 years away (2 minute read)
+Excerpt: Google DeepMind CEO Demis Hassabis now predicts AGI could be achieved by 2029-30, accelerating from his earlier estimate of 2030-2035.
+---
+ID: TL-16
+Title: Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings (1 minute read)
+Excerpt: Epicure is a family of three sibling skip-gram ingredient embeddings retrained from scratch on a multilingual recipe corpus.
+---
+ID: TL-17
+Title: Google expands Gemini for Business with shareable Projects (2 minute read)
+Excerpt: Google enhances Gemini for Business with the introduction of shareable Projects, which allow team members to collaborate within dedicated multi-surface workspaces.
+---
+ID: TL-18
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---
+ID: TL-19
+Title: Anthropic to expand Claude Voice Mode to more languages (2 minute read)
+Excerpt: Anthropic plans to expand Claude's voice mode to 18 new languages.
+---

@@ -1,0 +1,148 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: Trump delayed signing the AI EO because “he just hates regulation”; there were questions about the EO giving the Treasury Department a leading role
+Tweets:
+  - Author: @dashaburns
+    Text: NEW: Trump told me in an interview today that he “was hearing concerns” about the AI executive order but was also “seeing the concerns myself.”  “I have concerns about it, and I don't want to approve anything until it's done properly,” he said.
+    Link ID: TM-01-TW-01
+  - Author: @cheyennehaslett
+    Text: Andy Stone, spokesperson for Meta, says Mark Zuckerberg didn't talk to Trump until after the president made the call to abrupty pull yesterday's AI executive order: “Mark didn't speak to the president until after the event had already been canceled.”  Elon Musk earlier today said he also didn't speak to the president about pulling yesterday's scheduled AI executive order until after it happened.
+    Link ID: TM-01-TW-02
+  - Author: @mikeisaac
+    Text: interesting media study on how many different versions of “why the AI exec order wasnt signed” are going around right now and who gets to save face depending on where the story landed [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: Trump postponed AI EO signing after talking to David Sacks and others, and told staff the EO is not moving forward after calls with Musk and Zuckerberg
+    Link ID: TM-01-SUB-01
+  - Title: Sources: David Sacks told President Trump that federal reviews of AI models before release would slow down innovation and hurt the US in its AI race with China
+    Link ID: TM-01-SUB-02
+---
+ID: TM-02
+Title: Meta releases Forum, a Reddit-like standalone app for Facebook Groups, with a feed showing Group conversations and an AI-powered “Ask” feature, on iOS
+Tweets:
+  - Author: @mattnavarra
+    Text: Update Just received this comment about Forum from the Meta via email: “We test lots of new products publicly to see what people find interesting and useful to their experiences across our apps.” - Meta Spokesperson
+    Link ID: TM-02-TW-01
+  - Author: @millsbaker
+    Text: Just yesterday I mentioned FB's habit of spinning out (and later reintegrating) products! Features like Groups are bigger than many companies, easily justify their own apps, but also pale compared to “the overall platform” and get reabsorbed later.
+    Link ID: TM-02-TW-02
+  - Author: @milkkarten
+    Text: interest-based algorithms have rooted out the “social” in social media so now those same platforms are creating new apps to address problems of their own making
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit's stock is now down almost 40% this year
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: The Trump administration plans to require most green card applicants to return to their home countries to apply, which could adversely impact tech workers
+Tweets:
+  - Author: @can
+    Text: china could drop a nuke in silicon valley and still wouldn't do this much damage
+    Link ID: TM-03-TW-01
+  - Author: @garrytan
+    Text: We need to keep smart people in the country to build the future and build tomorrow's businesses that employ millions of people This is bad and misguided policy
+    Link ID: TM-03-TW-02
+  - Author: @govkathyhochul
+    Text: Forcing immigrants pursuing green cards legally to leave behind their homes, their jobs, and in some cases their families betrays the very promise that built this country.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Google's AI Overviews are failing to provide search summaries for specific command-style terms including “disregard”, “ignore”, and “skip”
+---
+ID: TM-05
+Title: Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%
+Sub Items:
+  - Title: President Emmanuel Macron says France will invest an additional €1B for quantum computing research and a further €550M in state funding for semiconductors
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: US and Canadian authorities arrest 23-year-old Jacob Butler, known online as “Dort”, for allegedly operating the Kimwolf DDoS botnet, which infected ~2M devices
+---
+ID: TM-07
+Title: Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading
+---
+
+[CATEGORY: GAMING]
+ID: TM-08
+Title: Sources: Sony's Bungie plans significant layoffs as it ends development on its online game Destiny 2 with no new projects lined up; Destiny 2 launched in 2017
+---
+ID: TM-09
+Title: Sources: Nintendo asked partners and suppliers to assemble ~20M Switch 2 consoles by March 2027, ~20% above the 16.5M public sales outlook issued in early May
+---
+ID: TM-10
+Title: Activision shareholders reach a $250M settlement over allegations that Microsoft and Activision underpaid them during Microsoft's 2023 acquisition of Activision
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Sources: DeepSeek execs told potential investors in its ongoing $10B round that it will prioritize groundbreaking AI research over short-term commercialization
+---
+ID: TM-12
+Title: Sources and documents detail Satya Nadella's effort to revamp Microsoft's senior leadership, creating a startup-style operating model to compete in the AI race
+---
+ID: TM-13
+Title: Sources: WH approved a $9B request to acquire advanced AI chips for spy agencies; Anthropic is finalizing a classified contract for NSA to keep using its tools
+---
+ID: TM-14
+Title: Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-15
+Title: AMD CEO Lisa Su projects the CPU market will grow over 35% annually through 2031, up from 3% to 4% historically, driven by AI inference and agentic AI demand
+---
+ID: TM-16
+Title: Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices
+---
+ID: TM-17
+Title: Meta, Broadcom, Applied Materials, GlobalFoundries, and Synopsys launch a $125M “Semiconductor Hub” at UCLA to advance AI chip research and more
+---
+ID: TM-18
+Title: How the global memory chip crunch, driven by AI demand, is hurting China's car industry, squeezing automakers already hit by a price war and razor-thin margins
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-19
+Title: Sources: the SEC has delayed the release of a plan for an “innovation exemption” that would allow crypto firms to trade tokenized versions of US stocks
+---
+ID: TM-20
+Title: Internal Binance reports and sources reveal Iran moved billions through Binance to fund entities like the IRGC, with some transactions as recent as this month
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-21
+Title: Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it “prevailed in the marketplace fair and square”
+---
+ID: TM-22
+Title: China's Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses
+---
+
+[CATEGORY: STREAMING]
+ID: TM-23
+Title: The US Ambassador to Canada accuses Canada of imposing trade barriers by requiring that US streamers contribute 15% of Canadian revenue to local programming
+---
+ID: TM-24
+Title: Italian police dismantle a piracy network that streamed paid content from Netflix and others via an app called Cinemagoal with annual subscriptions of €40-€130
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-25
+Title: Lenovo reports Q4 revenue up 27% YoY to $21.6B, above $18.7B est., net profit up 479% to $521M, above $271M est., as the PC maker pushes into AI server markets
+---
+ID: TM-26
+Title: Farther Finance, which is building an AI-enabled wealth management platform for financial advisors, raised a $150M Series D at a $1B+ post-money valuation
+---
+ID: TM-27
+Title: Socket: TeamPCP, the gang claiming GitHub's repositories breach, also executed 20 “waves” of supply chain attacks recently, compromising 500+ pieces of software
+---
+ID: TM-28
+Title: Google rolls out a Google Wallet redesign, including “dynamic quick access” for favorites, a “View more” floating action button, and more
+---
+ID: TM-29
+Title: Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year
+---
+ID: TM-30
+Title: Driverless car startup Bliq.ai says it has received approval for fully driverless road operations in Estonia, the first authorization of its kind in the EU
+---

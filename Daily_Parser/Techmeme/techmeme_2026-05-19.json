@@ -1,0 +1,432 @@
+{
+  "date": "2026-05-19",
+  "sections": {
+    "top news": [
+      {
+        "title": "Musk v. Altman: the jury unanimously rejects Elon Musk's claims against Sam Altman, finding that the claims were filed outside of the statute of limitations",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html",
+        "tweets": [
+          {
+            "author": "@elonmusk",
+            "text": "[Post no longer available] This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent.  She just handed out a free license to loot charities if you can keep the looting quiet for a few years!",
+            "url": "https://x.com/elonmusk/status/2056472426658058358"
+          },
+          {
+            "author": "@sporadica",
+            "text": "i just don't know how people expected Elon to have a legit case it was always so clearly the biggest sham lawsuit. i mean bro missed the statute of limitations by years. this was all theatre. so stupid (but we did get some interesting historical info and private text messages!) [image]",
+            "url": "https://x.com/sporadica/status/2056438777258893731"
+          },
+          {
+            "author": "@zeffmax",
+            "text": "...Because this case was filed in 2024, Musk had to argue that the OpenAI charity was stolen after 2021 (within the statute of limitations).  Musk claimed it happened in 2023, when MSFT invested $10B in OpenAI's for-profit arm... Evidence revealed in the case showed that Altman sent Musk an OpenAI summary term sheet in 2018, revealing their plans to create a for-profit arm next year (in 2019) and raise more than $10B for it in the future.  Musk testified that he never read the whole document (which was 4 pages)... The jury never even got to reveal whether they thought the OpenAI charity was stolen, because they unanimously decided that Musk's claim should be thrown out on a timeliness issue.",
+            "url": "https://x.com/zeffmax/status/2056476111459213511"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Musk v. Altman: Elon Musk says the judge and jury “never actually ruled on the merits of the case, just on a calendar technicality” and he will file an appeal",
+            "url": "https://x.com/elonmusk/status/2056474896641782077"
+          }
+        ]
+      },
+      {
+        "title": "Cursor releases Composer 2.5, saying it's better at sustained work on long-running tasks and follows complex instructions more reliably; it's built on Kimi K2.5",
+        "excerpt": "",
+        "url": "https://cursor.com/blog/composer-2-5",
+        "tweets": [
+          {
+            "author": "@cursor_ai",
+            "text": "Together with SpaceXAI, we're training a significantly larger model from scratch, using 10x more total compute. With Colossus 2's million H100-equivalents and our combined data and training techniques, we expect this to be a major leap in model capability.",
+            "url": "https://x.com/cursor_ai/status/2056415419536461836"
+          },
+          {
+            "author": "@eliebakouch",
+            "text": "cursor is at frontier scale, both in terms of performance and compute if composer 2.5's budget was put into a pre-train: ~6.3T total, 200B active trained on ~56T tokens if composer 3 allocates 50% of the budget to pre-training: ~500B active, 15.3T total trained on 135T tokens. [image]",
+            "url": "https://x.com/eliebakouch/status/2056448276887482707"
+          },
+          {
+            "author": "@kvfrans",
+            "text": "We used a pretty cool “RL with text feedback” formulation to train this one (see blog post for some details). As RL tasks get longer in horizon, I think it's a ripe time to think about ways we can extract signals that avoid the variance explosion.",
+            "url": "https://x.com/kvfrans/status/2056453445356269865"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness",
+        "excerpt": "",
+        "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+        "tweets": [
+          {
+            "author": "@kr0der",
+            "text": "i read it and thought these 2 main points were interesting: 1.  Mythos vs other frontier models - Frontier models could find a lot of the individual bugs, but a lot of cyber attacks use multiple small bugs chained together.  Frontier models weren't that good at piecing these small bugs together, while Mythos was great at combining them and actually writing the code to reproduce the bug as proof.  2. Pointing Mythos at a codebase and saying “look for vulnerabilities” doesn't work, so Cloudflare built a custom harness instead.",
+            "url": "https://x.com/kr0der/status/2056388605732704705"
+          },
+          {
+            "author": "@dan_jeffries1",
+            "text": "This is the kind of conversation we need, not idiotic ones about the end of all software... it can't just be patching the 100 or so projects that got access to Project Glasswing.  That is not gonna help the world... In the long run, AI will make software more secure, not less.  But it will change how teams have to work to get there.",
+            "url": "https://x.com/dan_jeffries1/status/2056407157113860312"
+          },
+          {
+            "author": "@samuelcolvin",
+            "text": "Reading this, the bun rewrite to rust makes much more sense.  My guess: Mythos looked at bun and had a shit fit - generated a deluge of vulnerabilities and memory bugs so vast and profound that they would be effectively impossible to fix in zig.  Anthropic looked at the report and concluded (reasonably I think) that the only way to make zig safe was to rewrite it in a memory safe language.",
+            "url": "https://x.com/samuelcolvin/status/2056425100421804306"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance",
+            "url": "https://www.wsj.com/tech/ai/anthropic-lets-mythos-users-share-cyber-threats-with-others-26d17bc6?st=Cja8ZV&reflink=desktopwebshare_permalink"
+          },
+          {
+            "title": "Sources: Anthropic agrees to brief the Financial Stability Board on global financial system vulnerabilities found by Mythos, after a request by the FSB's Chair",
+            "url": "https://www.ft.com/content/7d309f94-3618-4511-9778-d1447799c5e4"
+          }
+        ]
+      },
+      {
+        "title": "Samsung's shares closed up 3.88% after the company resumed talks with its union and a court partially granted an injunction against illegal union actions",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/samsung-shares-jump-after-leaders-resume-high-stakes-union-talks",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Seagate shares drop 6.87%, leading a group-wide sell-off after comments from its CEO raised concerns it won't be able to meet demand fueled by the AI buildout",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon's Alexa+ now produces AI-generated “podcasts” on various topics in the US, featuring chats between two AI “co-hosts”, using content from media outlets",
+        "excerpt": "",
+        "url": "https://variety.com/2026/digital/news/amazon-alexa-plus-ai-podcasts-1236752477/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html?unlocked_article_code=1.jVA.w1Cp.q_Tt-P929doT&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Eric Schmidt faced loud boos during his University of Arizona commencement speech while discussing “rational” fears over the impact of AI and automation on jobs",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/students-boo-eric-schmidt-google-ceo-ai-university-arizona-2026-5",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Apple's ongoing strategy of repurposing binned chips for cheaper devices; sources: Apple ordered more A18 Pros for the MacBook Neo amid its popularity",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/apple-is-making-hit-products-and-high-profits-from-imperfect-chips-d32c21d8?st=HpBr22",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Uber increases its stake in Delivery Hero to 19.5%, up from 7% in April, and says it “has no intent to acquire 30% or more” of Delivery Hero's voting rights",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/uber-boosts-stake-in-delivery-hero-says-no-takeover-for-now",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "In his weekly Linux kernel post, Linus Torvalds says “AI tools are great” but duplicate bug reports have made the security list “almost entirely unmanageable”",
+        "excerpt": "",
+        "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NextEra's $67B deal to buy Dominion, the largest utility merger in US history, signals a new era of utility consolidation to accommodate AI-driven power demand",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/nextera-dominion-deal-signals-new-era-of-ai-utility-mega-mergers",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A college senior at Stanford describes how AI has changed classes: cheating using AI “has become omnipresent” with students “fudging just about everything”",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html?unlocked_article_code=1.jFA.POX8.IbIaTxGsZdkJ&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Vatican says Anthropic co-founder Christopher Olah will join Pope Leo on May 25 to launch the pope's first encyclical, setting out his views on the AI age",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/anthropic-s-co-founder-to-launch-encyclical-on-ai-with-pope-leo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTExMTY3NCwiZXhwIjoxNzc5NzE2NDc0LCJhcnRpY2xlSWQiOiJURjhGMjNLSkg2VkcwMCIsImJjb25uZWN0SWQiOiI4QjVENTdBQTJGNjY0RTdCOEQ4NkUxMzcwMDNDMkVDNCJ9.OEFYqROFrqezWHTRznaz9xKZCem4PIY99uXzZJ3bWQQ",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven't been paid out",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/musk-s-xai-promised-staff-420-for-their-tax-returns-hasn-t-paid?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTExMzE2OSwiZXhwIjoxNzc5NzE3OTY5LCJhcnRpY2xlSWQiOiJURVhUQ0RUOU5KTFUwMCIsImJjb25uZWN0SWQiOiI3N0VBQzdGODQxNzg0QTZFQkZDNzhDQjdDNkQ4NEMwMyJ9.DDbxHeVltS6euXMN5IVv2Unz5S1rS1caEyClDDR-0OI",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: competition for Google's TPUs among its employees and researchers intensified as it prioritizes cloud customers and flagship AI products over research",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/google-s-own-ai-researchers-jockey-for-access-to-its-computing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTEyMjg1OCwiZXhwIjoxNzc5NzI3NjU4LCJhcnRpY2xlSWQiOiJURjhHUkJLR0lGVkYwMCIsImJjb25uZWN0SWQiOiIxMEJDQkE5REUzM0U0M0M0ODBBNzNCMjFFQzdGQ0Q2RiJ9.WIzc4OFq-1vRbiSqA4yzGclCdLLxBlQuHKQHbdoID3M",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How the AI industry's intense pressure to keep up and its financial rewards are creating “walls of resentment” between Silicon Valley workers and their spouses",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at the new class of jobs created by AI companies: AI storytellers, forward deployed engineers, AI accelerators, AI philosophers, AI gig workers, and more",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/new-ai-jobs-2026-5",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Amazon, which took a measured tone on AI, went from an AI also-ran to a real contender, thanks to $200B in spending, a bet on custom chips, and savvy deals",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/how-amazon-went-from-an-ai-also-ran-to-a-real-contender-ed596336?st=CZSvA8&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/18/trump-ai-steve-bannon-humans-first-letter",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Baidu reports Q1 revenue down 1.1% YoY to ~$4.7B, above ~$4.5B est., and net income down 55% YoY to ~$506.6M, above ~$462.5M est., amid a slow AI payoff",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/earnings/baidus-profit-slides-again-amid-slow-ai-payoff-1060fbdb?st=RjYeXD&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chinese chipmaker CXMT reports Q1 revenue up 719% YoY to ~$7.5B, net profit up 1,688% to $3.6B, and says Omdia ranks it No. 4 in DRAM with a 7.67% global share",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-logs-1-688-profit-surge-amid-global-memory-crunch",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in “select regions”, blaming “ongoing market conditions”",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company's narrative single-player games will now be PlayStation exclusive",
+            "url": "https://bsky.app/profile/jasonschreier.bsky.social/post/3mm5jzsls5s2a"
+          }
+        ]
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Strategy acquired 24,869 bitcoin for ~$2.01B at an $80,985 average price from May 11 to May 17, taking its holdings to 843,738 BTC, or 4%+ of the total supply",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/401627/big-dot-energy-michael-saylors-strategy-buys-more-bitcoin",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nasdaq-listed Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy, blaming “increasingly stringent compliance obligations”",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Iranian media: Iran launches “Hormuz Safe”, a Bitcoin-backed insurance service for shipping companies transiting the Strait of Hormuz; ~1,500 ships are trapped",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Arkham: Iran's largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February",
+        "excerpt": "",
+        "url": "https://www.reuters.com/investigations/how-trumps-crypto-venture-irans-top-exchange-tapped-into-same-industry-networks-2026-05-18/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Pwn2Own Berlin 2026: participants earned a total of $1,298,250 for 47 vulnerabilities, with successful exploits of AI products like Codex, Cursor, and LM Studio",
+        "excerpt": "",
+        "url": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation",
+        "excerpt": "",
+        "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Companies running bug bounty programs are adding more stringent background checks and building AI agents to triage a flood of low-quality, AI-generated reports",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/4705ed16-12f8-412f-b28c-78f97b064fdd",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Security researcher Peter G. Neumann, who criticized the industry's lax attitudes toward computer security and digital privacy, died on May 17 at the age of 93",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html?unlocked_article_code=1.jFA.zkdM.3PYAmGCdxXrb&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "prediction markets": [
+      {
+        "title": "Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/regulation/government-prediction-markets-betting-2126dcb3?st=eZosow&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Polymarket and Kalshi continue to operate in India despite an April 25 government advisory, addressed to VPN providers, labeling prediction markets as “illegal”",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/kalshi-polymarket-defy-india-ban-on-online-betting-platforms",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Decart, which offers real-time generative video and GPU optimization tech, raised $300M at a ~$4B valuation, up from $3.1B after raising $153M in August 2025",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/startup-makes-switching-ai-chips-easierand-nvidia-is-a-new-investor-c78e3a54?st=Gw2rpV&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation",
+        "excerpt": "",
+        "url": "https://thenextweb.com/news/sigma-computing-series-e-80-million-3-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Quebec-based telecom software startup Gaiia raised a CA$54.8M Series B led by JMI Equity, bringing its total funding to ~CA$90M from backers including YC",
+        "excerpt": "",
+        "url": "https://betakit.com/telecom-software-startup-gaiia-secures-40-million-usd-series-b-round/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/jack-altman-talks-about-his-first-benchmark-deal-2026-5",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dust, which helps enterprises design and deploy specialized AI agents that work alongside humans, raised a $40M Series B led by Abstract and Sequoia",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/05/18/agentic-ai-dust-snowflake-sequoia",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New York City-based GovWell, which uses AI to streamline government processes like permitting and licensing, raised a $25M Series A led by Insight Partners",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/05/14/govwell-25m-government-permitting-tech",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Microsoft says it's retiring Teams' Together Mode, debuted in 2020, and plans to simplify meeting layouts and focus on video quality, stability, and performance",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A deep dive into Meta's Hyperion data center campus in Louisiana, expected to reach 5 GW of compute capacity; source: Meta plans to spend $200B+ on the project",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/features/2026-meta-facebook-ai-data-center-louisiana/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTE0MzY0OCwiZXhwIjoxNzc5NzQ4NDQ4LCJhcnRpY2xlSWQiOiJURjkzT1BLSVVQWlIwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.k-1_v7eO52l28jPzuwhEkxbsxeYkjVPyd86pxBfEItY",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-18/akamai-seeks-to-raise-2-6-billion-in-convertbile-bond-offering",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "After EV maker Fisker's collapse, ~4,000 car owners formed a nonprofit to keep their cars working by reverse-engineering software and building open-source tools",
+        "excerpt": "",
+        "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How gambling companies like FanDuel and DraftKings, as well as Meta and a16z's founders, are pouring millions into state-level election campaigns via super PACs",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-05-18/draftkings-meta-andreessen-horowitz-give-millions-to-influence-state-elections?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTEyMTI4NSwiZXhwIjoxNzc5NzI2MDg1LCJhcnRpY2xlSWQiOiJURjg3UUZLR1pBSjUwMCIsImJjb25uZWN0SWQiOiI4MEY4ODRCQzVENzY0MjM4OTA5N0NFMUE5REEzRkRBRCJ9.tJmtlz6iMjEin1xBp_6nOd4o9KlHXfgMCZFVTmntXEw&leadSource=uverify%20wall",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "X quietly limits users who didn't pay for verification to “50 original posts and 200 replies per day”, down from 2,400 posts per day",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2175771/x-free-accounts-limited-to-50-posts-and-200-replies-a-day/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Procurement records: the FBI seeks a vendor that can provide access to automated license plate readers nationwide; Flock and Motorola are among the few options",
+        "excerpt": "",
+        "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 10,
+    "news_count": 48
+  }
+}

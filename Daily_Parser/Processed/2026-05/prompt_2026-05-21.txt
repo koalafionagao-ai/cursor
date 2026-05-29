@@ -1,0 +1,467 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company
+Tweets:
+  - Author: @gergelyorosz
+    Text: I don't offer investment advice, but when I see that SpaceX claims that their total addressable market is the size of the *complete* US economy (with everything!) and they are saying they are now 1% SpaceX, 5% Starlink, 94% AI (???) - I sense AI washing.
+    Link ID: TM-01-TW-01
+  - Author: @rmac18
+    Text: SpaceX's IPO prospectus was just made public and it details Elon Musk's stake. So I did some back of the envelope math. He owns more than 51% of current shares outstanding. At SpaceX's current $1.25 trillion self-valuation, his stake is worth more than $635 billion. [image]
+    Link ID: TM-01-TW-02
+  - Author: @danprimack
+    Text: The bull case is that this could work as a growth story. The bear case is that it is already long-in-the-tooth as an IPO, and moving into a market w/ giant hungry players.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B
+    Link ID: TM-01-SUB-01
+  - Title: SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok's AI features
+    Link ID: TM-01-SUB-02
+  - Title: SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it's expanding the deal to include Colossus 2 capacity
+    Link ID: TM-01-SUB-03
+  - Title: SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it's being sued over
+    Link ID: TM-01-SUB-04
+---
+ID: TM-02
+Title: Sources: OpenAI is preparing to file confidentially for an IPO as early as Friday; the company plans to be ready to go public as early as September
+Tweets:
+  - Author: @danprimack
+    Text: Anthropic and OpenAI both want to go public first, because it lets you set the narrative rather than being defined by your rival. BUT: There's also an argument that the one that pulls trigger first is doing so because it's numbers are inferior (i.e. doesn't want the known comp)
+    Link ID: TM-02-TW-01
+  - Author: @conorsen
+    Text: The same day that it's reported OpenAI wants to IPO as soon as September we get a WSJ story with updated impressive Anthropic financials. Doesn't seem like a coincidence.
+    Link ID: TM-02-TW-02
+  - Author: @stocksavvyshay
+    Text: @VanquishTrader I'm glad the IPO window is reopening but OpenAI and SpaceX going public within weeks of each other feels like too much supply at once.. its going to force people split demand or potentially pull liquidity away across the AI and space trade.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization
+Tweets:
+  - Author: @stocksavvyshay
+    Text: Jensen Huang closed the earnings call by saying “demand has gone parabolic” driven by agentic AI and profitable token generation. $NVDA sits at the center because it runs every frontier AI model and “compute capacity is revenue and profits.” [image]
+    Link ID: TM-03-TW-01
+  - Author: @munster_gene
+    Text: Physical AI & $NVDA As in each of the past five quarters, Jensen reminds investors that physical AI will become a major driver in the next several years, but it has not yet started.  My take: Investors are under appreciating the impact of physical AI.  This year, FSD will account for about 0.3% of total passenger miles driven in the U.S., and autonomous ride-hailing will account for about 2% of rideshare.  Cars are one part of physical AI.
+    Link ID: TM-03-TW-02
+  - Author: @gavinsbaker
+    Text: Nvidia's “AI hyperscaler” revenue grew 191% YoY in the April quarter ex China (effectively all hyperscaler). Broadcom has guided to 143% YoY growth for their AI segment in their next quarter. Interesting.
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: GitHub confirms ~3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension; TeamPCP claims responsibility
+---
+ID: TM-05
+Title: Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year
+---
+ID: TM-06
+Title: Internal memo: Intuit is laying off ~17% of its workforce, or ~3,000 employees worldwide, to streamline operations and sharpen its focus on key bets, like AI
+---
+ID: TM-07
+Title: Internal memo: Xbox hires game industry analyst Matthew Ball as chief strategy officer, and names Scott Van Vliet, who led Azure AI infrastructure, as Xbox CTO
+---
+ID: TM-08
+Title: Samsung Electronics and its South Korean labor union reach a preliminary pay deal; the union says it has suspended a general strike and put the deal to a vote
+---
+ID: TM-09
+Title: The US Commerce Department plans to award $2B in grants to nine quantum computing companies and will take equity stakes; IBM is set to get $1B of the package
+Tweets:
+  - Author: @arvindkrishna
+    Text: With support from the @CommerceGov, @IBM today announced plans for Anderon, America's first purpose-built quantum chip foundry.  Leveraging IBM's decades-long quantum leadership and strengths in wafer fabrication, the initiative will accelerate American quantum innovation and enable advanced quantum wafer production for a broad range of companies.  [image]
+    Link ID: TM-09-TW-01
+  - Author: @patrickmoorhead
+    Text: Not greenfield.  IBM has been fabricating Loon and Nighthawk on 300mm at NY CREATES Albany since November 2025.  Anderon is the corporate spinout, capitalized for merchant scale.  Superconducting qubits and supporting electronics first, with stated intent to expand modalities... Three U.S. paths to quantum manufacturing are now in motion.  SkyWater (IonQ-owned) takes third-party work as a general-purpose foundry.  PsiQuantum runs photonic at GlobalFoundries.  Anderon enters as the only dedicated, focused, and government-backed.  The U.S. quantum merchant market just got more serious.
+    Link ID: TM-09-TW-02
+  - Author: @squawkstreet
+    Text: “It's an entirely passive stake - no voting on the shares, no board seats, etcetera.” @infleqtion CEO Matt Kinsella...  [video]
+    Link ID: TM-09-TW-03
+---
+ID: TM-10
+Title: The White House postpones a planned Thursday ceremony for Trump to sign a new EO on AI and cybersecurity; Trump says “I didn't like certain aspects of it”
+Tweets:
+  - Author: @alexeheath
+    Text: Update: White House is postponing this (lots of CEOs couldn't make it on such short notice)
+    Link ID: TM-10-TW-01
+  - Author: @tonyromm
+    Text: Trump says he will not sign an order on AI today. Asked about it, he said it was “because I didn't like certain aspects of it,” adding: “I postponed it... we're leading China, we're leading everybody, and I don't want to do anything that's going to get in the way of that lead.”
+    Link ID: TM-10-TW-02
+  - Author: @tedlieu
+    Text: trump and Republicans show again that they support the AI industry running wild with no guardrails. November is coming.
+    Link ID: TM-10-TW-03
+---
+ID: TM-11
+Title: Spotify and UMG plan to let Premium users create AI covers and remixes using music from participating UMG artists as a paid add-on, without giving a launch date
+Tweets:
+  - Author: @tbpn
+    Text: BREAKING: Spotify has reached an agreement with UMG to allow users to create covers and remixes of their favorite songs. Artists get a share of the streaming revenue. Co-CEO @alega explains: [video]
+    Link ID: TM-11-TW-01
+Sub Items:
+  - Title: Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40%
+    Link ID: TM-11-SUB-01
+---
+ID: TM-12
+Title: SpaceX S-1: Starlink subscribers grew 105% YoY to 10.3M in Q1 2026; SpaceX's “Connectivity” business, which is primarily driven by Starlink, made $11.3B in 2025
+Sub Items:
+  - Title: Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok's Spicy and Unhinged modes, which “present heightened risks”
+    Link ID: TM-12-SUB-01
+  - Title: SpaceX S-1: Valor Equity founder Antonio Gracias, a longtime Elon Musk ally, controls a 4% stake in SpaceX, the second-largest disclosed holder after Musk
+    Link ID: TM-12-SUB-02
+---
+ID: TM-13
+Title: GitHub links the breach of 3,800 internal repositories to the TanStack npm supply-chain attack, saying hackers used a malicious Nx Console VS Code extension
+---
+ID: TM-14
+Title: Analysis: Samsung is set to distribute ~$26.6B to its 78,000 chip employees, or a ~$340K bonus to each, in early 2027 as part of a last-minute labor union deal
+---
+ID: TM-15
+Title: AMD pledges to invest $10B+ in Taiwan's chip industry to make advanced chip packaging for AI, and says TSMC will ramp up production of its next-gen Venice chips
+---
+ID: TM-16
+Title: Jensen Huang says that Nvidia has “largely conceded” China's AI chip market to Huawei and should “expect nothing” regarding approvals to sell chips in China
+---
+ID: TM-17
+Title: Sources: Manus' co-founders are in talks to raise $1B+ to buy back the Chinese-founded startup, after Beijing ordered Meta to unwind its $2B Manus acquisition
+---
+ID: TM-18
+Title: Jeff Bezos dismisses AI job fears, defends billionaires against “vilification”, proposes eliminating income taxes for low earners, and praises President Trump
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-19
+Title: In disclosures to investors, Anthropic says it expects to generate $10.9B in revenue in Q2, vs. $4.8B in Q1, and turn a $559M operating profit, its first ever
+---
+ID: TM-20
+Title: OpenAI says an internal general-purpose reasoning model has disproved the Erd&odblacs unit distance conjecture, a central problem in discrete geometry posed in 1946
+---
+ID: TM-21
+Title: Sam Altman says OpenAI offered to invest $2M in tokens in each startup in the current YC batch; a source says the offer is in exchange for equity via a SAFE
+---
+ID: TM-22
+Title: An analysis based on OpenAI's and Anthropic's current valuations suggests ~$370B of philanthropic assets tied to the two AI companies could soon become liquid
+---
+ID: TM-23
+Title: Singapore announces a National AI Partnership with Google and an MoU with OpenAI, which will set up an AI lab and commit $234M+ to the city-state's AI ecosystem
+---
+ID: TM-24
+Title: Gemini 3.5 Flash costs $1.50 per 1M input tokens and $9 per 1M output tokens, 3x the price of Gemini 3 Flash Preview and 6x the price of Gemini 3.1 Flash-Lite
+---
+ID: TM-25
+Title: Stability AI releases a new family of audio models called Stable Audio 3.0 that is trained on licensed data; the top model can generate six-minute songs
+---
+ID: TM-26
+Title: Two research papers describe how Google's Co-Scientist and nonprofit FutureHouse's AI tools can succeed at drug retargeting by developing and testing hypotheses
+---
+ID: TM-27
+Title: Granta and the Commonwealth Foundation say they can't determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use
+---
+ID: TM-28
+Title: Q&A with Harvey CEO Winston Weinberg on launching the legal AI startup in 2022, how AI could shake up law firms' business models, legal AI competition, and more
+---
+ID: TM-29
+Title: Sources: OpenAI generated ~$5.7B in revenue in Q1, ~$1B more than Anthropic; its adjusted operating income margin was -122%, and ChatGPT user growth stalled
+---
+ID: TM-30
+Title: Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis
+---
+ID: TM-31
+Title: Anthropic, Blackstone, and Hellman & Friedman's unnamed enterprise services JV buys Fractional AI, its first deal; sources say Fractional ends its OpenAI deal
+---
+ID: TM-32
+Title: Sources: Anthropic is in talks to rent servers powered by Microsoft-designed chips; source: Anthropic has steadily increased its Azure usage since November 2025
+---
+ID: TM-33
+Title: Federal records: Grok was utilized in only 3 of 400+ publicly identified federal AI use cases in 2025, behind 234 for ChatGPT, 33 for Gemini, 26 for Claude
+---
+ID: TM-34
+Title: Cohere releases Command A+, a sparse MoE open model built for agentic tasks, with 218B total and 25B active parameters, its first under the Apache 2.0 license
+---
+ID: TM-35
+Title: Gavin Newsom signs an EO mandating state agencies work with the AI industry and others to study subsidies for companies that don't replace workers with AI
+---
+ID: TM-36
+Title: Sources: Starbucks shut down an AI program for automating inventory counts, nine months after deploying it, after it frequently miscounted and mislabeled items
+---
+ID: TM-37
+Title: Adobe, Canva, and CapCut announce Gemini integrations to let users access the companies' image and video editing tools within the Gemini app
+---
+ID: TM-38
+Title: ElevenLabs, which aims to build an all-in-one AI voice app, licensed 200K human-voiced audiobooks from major publishers, available in ElevenReader for $11/mo.
+---
+ID: TM-39
+Title: Higgsfield AI premieres Hell Grind, a 95-minute fully AI-generated film, at Cannes and says it took two weeks and cost $500K to make, of which $400K was on AI
+---
+
+[CATEGORY: AI PROCESSORS]
+ID: TM-40
+Title: Alibaba's chipmaking unit T-Head unveils the Zhenwu M890 for AI training and inference, saying it is well-suited for agentic tasks, and plans annual upgrades
+---
+ID: TM-41
+Title: Russia's Sberbank says it hopes to use Chinese chips to power its flagship GigaChat AI model, as sanctions continue to block the country's access to hardware
+---
+
+[CATEGORY: REGULATION]
+ID: TM-42
+Title: The Take It Down Act, a US law forcing social networks to remove nonconsensual intimate images within 48 hours of reporting or face fines, took effect on May 19
+---
+ID: TM-43
+Title: OpenAI's Chris Lehane says he is pursuing “reverse federalism”, lobbying blue states to pass AI safety laws and create a de facto US standard, as DC dithers
+---
+ID: TM-44
+Title: Vietnam introduces Decree 142 to implement its AI law, requiring that companies classify AI models by risk level, label deepfakes, and more
+---
+ID: TM-45
+Title: Document and sources: China banned Nvidia's RTX 5090D V2 chip, aimed at gamers and animators, while Jensen Huang was visiting China with Donald Trump last week
+---
+ID: TM-46
+Title: Sources: a draft White House EO would create a “voluntary framework” for AI companies to give government agencies early access to models before public release
+---
+
+[CATEGORY: E-COMMERCE]
+ID: TM-47
+Title: Airbnb says it is adding luggage storage, airport pickups, car rentals, grocery delivery, and thousands of boutique and independent hotels to its platform
+---
+ID: TM-48
+Title: Apple says the App Store prevented over $2.2B in potentially fraudulent transactions in 2025, rejected over 2M problematic app submissions, and more
+---
+
+[CATEGORY: ADVERTISING]
+ID: TM-49
+Title: Google says it is testing new ad formats in search results and AI Mode, including Conversational Discovery ads, Highlighted Answers, and AI-powered Shopping ads
+---
+ID: TM-50
+Title: Owl & Co. report: the podcast industry generated $9.2B in sales globally in 2025, up 23% YoY, with 73% of the growth in the US coming from video-related revenue
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-51
+Title: Q&A with Google SVP James Manyika on AI's ability to automate tasks versus occupations, his optimism about the labor market despite AI-driven layoffs, and more
+---
+ID: TM-52
+Title: Three precedent-setting court rulings in China have said that employers replacing workers with AI is voluntary cost-cutting that does not justify mass layoffs
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-53
+Title: Exa, which offers a search engine that is designed for AI agents, raised $250M led by a16z at a $2.2B valuation, up from $700M in September 2025
+---
+ID: TM-54
+Title: Mercury, which provides banking services to startups, raised a $200M Series D led by TCV at a $5.2B valuation, up from $3.5B in March 2025
+---
+ID: TM-55
+Title: London-based Primer, which helps e-commerce merchants connect and manage multiple payment providers, raised a $100M Series C led by Sofina
+---
+ID: TM-56
+Title: Socket, which helps companies safeguard open-source code against hackers, raised $60M led by Thrive Capital at a $1B valuation
+---
+ID: TM-57
+Title: Variational, which has built a protocol for decentralized derivatives trading aimed at gathering liquidity from traditional markets, raised a $50M Series A
+---
+ID: TM-58
+Title: Berlin-based bunch, an AI-native platform for managers and institutional investors to manage the entire fund lifecycle, raised a €30.1M Series B led by Portage
+---
+ID: TM-59
+Title: Circle cofounder Sean Neville's Catena Labs, which lets users set financial guardrails for AI agents, raised a $30M Series A and applies for a US bank charter
+---
+ID: TM-60
+Title: Boston-based CircuitHub, which manufactures circuit boards based on customers' requirements, raised a $28M Series A led by Plural
+---
+ID: TM-61
+Title: Prelude, which helps companies with digital onboarding, raised a $20M Series A led by podcaster Harry Stebbings' 20VC, bringing its total funding to $27M
+---
+ID: TM-62
+Title: NanoClaw creator NanoCo raised a $12M seed led by Valley Capital and says it is booking enterprise customers; co-founders say they rejected a $20M buyout offer
+---
+ID: TM-63
+Title: Hark, founded by Figure AI CEO Brett Adcock to build AI-powered devices, raised a $700M+ Series A led by Parkway Venture at a $6B post-money valuation
+---
+ID: TM-64
+Title: Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025
+---
+ID: TM-65
+Title: Paris-based Pivot, which develops AI tools for procurement and financial workflows, raised a $40M Series B co-led by Forestay Capital and Notion Capital
+---
+ID: TM-66
+Title: Commure, which offers AI, revenue cycle management, and workflow automation tools for healthcare providers, raised $70M led by GC at a $7B post-money valuation
+---
+ID: TM-67
+Title: Bengaluru-based Scapia, which offers travel-focused co-branded credit cards and an app, raised $63M led by GC, a source says at a $500M+ post-money valuation
+---
+ID: TM-68
+Title: August Robotics, which makes autonomous robots for construction and industrial applications, raised $30M led by Big Pi Ventures
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-69
+Title: Kickstarter retracts its stricter rules on mature content after creator backlash, and says it adopted the tougher rules because of its payment processor Stripe
+---
+ID: TM-70
+Title: Ubisoft reports a record operating loss of $1.40B for the year to March and says sales in 2026-27 will fall by about 8% to 9%; UBI falls 6%+
+---
+ID: TM-71
+Title: Sources: an attack exploiting a previously unknown vulnerability in Huawei router software caused a three-hour nationwide telecoms outage in Luxembourg in 2025
+---
+ID: TM-72
+Title: S. “Soma” Somasegar, who led Microsoft's Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59
+---
+ID: TM-73
+Title: Cloud provider Railway says Google Cloud suspended its account without cause, resulting in an outage; in 2024, GCP deleted an Australian pension fund's account
+---
+ID: TM-74
+Title: An interview with Match Group CEO Spencer Rascoff about plans for Tinder, including a redesign, AI features, live events, and group dating to win over Gen Z
+---
+ID: TM-75
+Title: Sources: Nvidia's business development group, not its VC arm NVentures, has led much of its ~$90B dealmaking push across 145+ companies over the past 16 months
+---
+ID: TM-76
+Title: Filing and sources: private equity firm Hg spun out €500M in assets from its €19B software group Visma, whose London IPO remains shelved amid the SaaSpocalypse
+---
+ID: TM-77
+Title: SkyeChip becomes the first Malaysian chip design company to IPO on the Bursa Malaysia exchange, surging 300%+; the company was valued at ~$397M at its IPO price
+---
+ID: TM-78
+Title: Flipper unveils the Flipper One, a pocketable open Arm Linux computer with similar performance to a Raspberry Pi 5, and welcomes feedback to get it market-ready
+---
+ID: TM-79
+Title: Waymo suspends freeway rides and pauses its Atlanta operations, as it updates software to improve performance around construction zones and flooded roadways
+---
+ID: TM-80
+Title: Bluesky and Clemson University researchers detail a novel Russian influence campaign that hijacked influential Bluesky accounts to spread pro-Kremlin propaganda
+---
+ID: TM-81
+Title: London Mayor Sadiq Khan blocks the Met police's £50M Palantir deal to automate intelligence analysis, citing a “clear and serious breach” of procurement rules
+---
+ID: TM-82
+Title: AMD says its Mac Mini-sized Ryzen AI Halo PC starts at $3,999 with Ryzen AI Max 300 chips, for preorder in June, and unveils Ryzen AI Max 400 chips coming in Q3
+---
+ID: TM-83
+Title: Arizona State University study: waste heat from Phoenix-area data centers raised downwind neighborhoods' air temperatures by up to 4°F above upwind temperatures
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-84
+Title: Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours
+---
+ID: TM-85
+Title: Zoom reports Q1 revenue up 5.5% YoY to $1.24B, vs. $1.22B est., AI Companion paid users up 184%, forecasts FY 2027 revenue above est.; ZM jumps 8%+ after hours
+---
+ID: TM-86
+Title: Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI's November 19 launch date; TTWO jumps 6%+ after hours
+---
+
+[CATEGORY: STREAMING]
+ID: TM-87
+Title: Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US
+Sub Items:
+  - Title: Spotify Labs launches Studio, a NotebookLM-like desktop app to generate private, AI-powered podcasts, in research preview across 20+ markets
+    Link ID: TM-87-SUB-01
+  - Title: Spotify says it has 1M+ subscriptions to Audiobook+, which is on track for $100M in ARR, and unveils an ElevenLabs-powered audiobook self-publishing tool
+    Link ID: TM-87-SUB-02
+---
+ID: TM-88
+Title: Apple plans to broadcast an MLS game on Saturday shot entirely on 15 iPhone 17 Pros, the first major live sports event to be captured using only smartphones
+---
+ID: TM-89
+Title: Netflix and iHeartMedia say Charlamagne tha God's The Breakfast Club will stream live on Netflix on weekdays from June 1, the service's first daily live show
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-90
+Title: Meta joins TikTok, Snap, and YouTube in settling with a Kentucky school district to avoid a trial over claims the platforms were designed to addict kids
+---
+ID: TM-91
+Title: Texas AG Ken Paxton sues Meta, accusing WhatsApp of marketing its services as secure but failing to “deliver on those promises” by accessing encrypted messages
+---
+ID: TM-92
+Title: Ofcom says Meta, Snap, and Roblox have agreed to adopt stronger anti-grooming measures, while TikTok and YouTube “failed to commit to any significant changes”
+---
+ID: TM-93
+Title: X resolved a three-year dispute with Australia's eSafety regulator after a court upheld a fine against the company for inadequate disclosures on combating CSAM
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-94
+Title: Sources: the EU will propose temporarily lifting sanctions, imposed in April, on a major Chinese semiconductor supplier after automakers warned of shortages
+---
+ID: TM-95
+Title: Taiwan is seeking to detain three people for forging documents to export Super Micro servers with Nvidia chips to China, Hong Kong, and Macau, breaking US rules
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-96
+Title: Crypto exchange Blockchain.com confidentially files for a US IPO; the UK-based company founded in 2011 was once valued at $14B
+---
+ID: TM-97
+Title: Source: smart ring maker Oura filed confidentially for a US IPO, set for later in 2026; SF- and Finland-based Oura had an $11B valuation in September 2025
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Anthropic to Pay SpaceX Nearly $45 Billion for Computing Deal (2 minute read)
+Excerpt: Anthropic has agreed to pay SpaceX nearly $45 billion over the next three years for compute resources. It will pay $1.25 billion per month until May 2029, with either party being able to end the agreement with 90 days' notice. The companies had earlier this month inked a deal that gave Anthropic 300 megawatts of computing capacity from a large SpaceX data center in Memphis known as Colossus 1. This partnership has expanded to include capacity at a second SpaceX data center.
+---
+ID: TL-02
+Title: OpenAI Reportedly Moves Toward IPO (2 minute read)
+Excerpt: OpenAI is reportedly preparing for a potential IPO as early as September following the dismissal of Elon Musk's lawsuit challenging the company's structure.
+---
+ID: TL-03
+Title: Stable Audio 3.0 (3 minute read)
+Excerpt: Stability AI released a new family of Stable Audio 3.0 models, including open-weight versions capable of generating music and sound effects up to more than six minutes long.
+---
+ID: TL-04
+Title: On Building Agents From First Principles (15 minute read)
+Excerpt: Mishra strips away the TRL, Unsloth, and PRIME-RL framework abstractions to show that every agent-training system reduces to the same loop: prompt to model action to environment to reward to gradient update. He builds a toy tldraw-style text-to-diagram agent in pure Python where the model emits JSON create_shape and connect actions against a validating canvas, then layers a reward function combining JSON validity, schema compliance, layout quality, and semantic coverage of prompt keywords.
+---
+ID: TL-05
+Title: A Bitter Lesson for Data Filtering (1 minute read)
+Excerpt: New scaling studies reveal that using no data filtering may be optimal for large model pretraining in high compute, data-scarce settings. Large parameter models not only tolerate but benefit from including low-quality and distractor data. Contrary to prevailing beliefs, filtering out low-quality data may not be necessary with ample compute resources.
+---
+ID: TL-06
+Title: AI Solves a Longstanding Geometry Conjecture (14 minute read)
+Excerpt: An OpenAI reasoning model autonomously disproved a major conjecture tied to the planar unit distance problem, an open question in combinatorial geometry that dates back to 1946. The proof introduced techniques from algebraic number theory and was independently verified by external mathematicians, marking one of the first cases where an AI system resolved a prominent unsolved mathematics problem.
+---
+ID: TL-07
+Title: Lance Unified Multimodal Model (GitHub Repo)
+Excerpt: Lance is a 3B multimodal model from ByteDance capable of image and video understanding, generation, and editing within a single architecture trained entirely from scratch.
+---
+ID: TL-08
+Title: Introducing Agent Executor, Google's distributed Agent Runtime (6 minute read)
+Excerpt: Google Agent Executor is an open-source runtime standard for reliable and efficient execution of long-running agent workflows. Key features like durable execution, secure isolation, and connection recovery enhance workflow management, while session consistency and trajectory branching support distributed agent environments. It also collaborates with Kubernetes Engine on Agent Substrate to optimize compute efficiency for massive agent deployments.
+---
+ID: TL-09
+Title: WavFlow Generates Audio Directly in Waveform Space (GitHub Repo)
+Excerpt: WavFlow is a flow-matching framework from Meta AI that generates synchronized audio from video and text inputs directly in raw waveform space without relying on latent audio compression.
+---
+ID: TL-10
+Title: LiteFrame Scales Video LLM Efficiency (6 minute read)
+Excerpt: LiteFrame proposed a lightweight video encoder designed to improve long-form video understanding in Video LLMs by reducing inefficiencies in both vision transformers and language model processing.
+---
+ID: TL-11
+Title: Mind-Blowing Growth Is About to Propel Anthropic Into Its First Profitable Quarter (5 minute read)
+Excerpt: Anthropic's revenue is set to more than double in the second quarter to $10.9 billion. The projections, disclosed to Anthropic's investors as part of an ongoing funding round, show how the company's sales have exploded since the start of the year. Its quarterly revenue is now growing faster than Google's and Facebook's in the run-up to their initial public offerings. The company might not remain profitable for the full year as it plans to increase spending due to its vast need for compute.
+---
+ID: TL-12
+Title: Cheap AI could derail OpenAI and Anthropic's IPOs (7 minute read)
+Excerpt: OpenAI and Anthropic's expected IPOs face challenges due to decreasing AI costs and increased competition. American and Chinese labs are producing cheaper and efficient AI models, threatening their market share and pricing power. Enterprises are increasingly adopting cost-saving measures like "advisor models" and seeking affordable alternatives, complicating the valuation for anticipated IPOs.
+---
+ID: TL-13
+Title: Better Experiments with LLM Evals — A funnel, not a fork (6 minute read)
+Excerpt: LLM evals paired with online experiments create a feedback loop that makes both evals and experiments smarter over time.
+---
+ID: TL-14
+Title: Alibaba unveils new AI chip in push for domestic alternatives (3 minute read)
+Excerpt: Alibaba's new chip, the Zhenwu M890, is well-suited to handle the heavy memory and communication demands of AI agent workloads.
+---
+ID: TL-15
+Title: Google adds llms.txt check to Chrome Lighthouse (5 minute read)
+Excerpt: Google introduced an llms.txt check in Chrome's Lighthouse audits under the "Agentic Browsing" category to enhance machine interaction with websites.
+---
+ID: TL-16
+Title: The Unsustainable Subsidy (1 minute read)
+Excerpt: AI pricing is increasing as cash is tight and margins matter.
+---

@@ -1,0 +1,847 @@
+{
+  "date": "2026-05-21",
+  "sections": {
+    "top news": [
+      {
+        "title": "SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx",
+        "tweets": [
+          {
+            "author": "@gergelyorosz",
+            "text": "I don't offer investment advice, but when I see that SpaceX claims that their total addressable market is the size of the *complete* US economy (with everything!) and they are saying they are now 1% SpaceX, 5% Starlink, 94% AI (???) - I sense AI washing.",
+            "url": "https://x.com/gergelyorosz/status/2057224869968757086"
+          },
+          {
+            "author": "@rmac18",
+            "text": "SpaceX's IPO prospectus was just made public and it details Elon Musk's stake. So I did some back of the envelope math. He owns more than 51% of current shares outstanding. At SpaceX's current $1.25 trillion self-valuation, his stake is worth more than $635 billion. [image]",
+            "url": "https://x.com/rmac18/status/2057222049953980430"
+          },
+          {
+            "author": "@danprimack",
+            "text": "The bull case is that this could work as a growth story. The bear case is that it is already long-in-the-tooth as an IPO, and moving into a market w/ giant hungry players.",
+            "url": "https://x.com/danprimack/status/2057208691485499678"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B",
+            "url": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html?unlocked_article_code=1.j1A.y4Gx.iIyF9EciU9p-&smid=bs-share"
+          },
+          {
+            "title": "SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok's AI features",
+            "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
+          },
+          {
+            "title": "SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it's expanding the deal to include Colossus 2 capacity",
+            "url": "https://www.axios.com/2026/05/20/anthropic-spacex-compute"
+          },
+          {
+            "title": "SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it's being sued over",
+            "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/"
+          }
+        ]
+      },
+      {
+        "title": "Sources: OpenAI is preparing to file confidentially for an IPO as early as Friday; the company plans to be ready to go public as early as September",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?st=6pJKH3&reflink=article_copyURL_share",
+        "tweets": [
+          {
+            "author": "@danprimack",
+            "text": "Anthropic and OpenAI both want to go public first, because it lets you set the narrative rather than being defined by your rival. BUT: There's also an argument that the one that pulls trigger first is doing so because it's numbers are inferior (i.e. doesn't want the known comp)",
+            "url": "https://x.com/danprimack/status/2057139374261727590"
+          },
+          {
+            "author": "@conorsen",
+            "text": "The same day that it's reported OpenAI wants to IPO as soon as September we get a WSJ story with updated impressive Anthropic financials. Doesn't seem like a coincidence.",
+            "url": "https://x.com/conorsen/status/2057203305848205492"
+          },
+          {
+            "author": "@stocksavvyshay",
+            "text": "@VanquishTrader I'm glad the IPO window is reopening but OpenAI and SpaceX going public within weeks of each other feels like too much supply at once.. its going to force people split demand or potentially pull liquidity away across the AI and space trade.",
+            "url": "https://x.com/stocksavvyshay/status/2057153640901796323"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization",
+        "excerpt": "",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
+        "tweets": [
+          {
+            "author": "@stocksavvyshay",
+            "text": "Jensen Huang closed the earnings call by saying “demand has gone parabolic” driven by agentic AI and profitable token generation. $NVDA sits at the center because it runs every frontier AI model and “compute capacity is revenue and profits.” [image]",
+            "url": "https://x.com/stocksavvyshay/status/2057226303204622775"
+          },
+          {
+            "author": "@munster_gene",
+            "text": "Physical AI & $NVDA As in each of the past five quarters, Jensen reminds investors that physical AI will become a major driver in the next several years, but it has not yet started.  My take: Investors are under appreciating the impact of physical AI.  This year, FSD will account for about 0.3% of total passenger miles driven in the U.S., and autonomous ride-hailing will account for about 2% of rideshare.  Cars are one part of physical AI.",
+            "url": "https://x.com/munster_gene/status/2057219110912893202"
+          },
+          {
+            "author": "@gavinsbaker",
+            "text": "Nvidia's “AI hyperscaler” revenue grew 191% YoY in the April quarter ex China (effectively all hyperscaler). Broadcom has guided to 143% YoY growth for their AI segment in their next quarter. Interesting.",
+            "url": "https://x.com/gavinsbaker/status/2057211357259334081"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B",
+            "url": "https://www.wsj.com/tech/ai/nvidia-nvda-1st-quarter-earnings-report-2026-stock-c2bb9c1c"
+          }
+        ]
+      },
+      {
+        "title": "GitHub confirms ~3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension; TeamPCP claims responsibility",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/meta-ceo-tells-employees-he-does-not-expect-more-company-wide-layoffs-this-year-2026-05-20/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal memo: Intuit is laying off ~17% of its workforce, or ~3,000 employees worldwide, to streamline operations and sharpen its focus on key bets, like AI",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/world-at-work/intuit-cut-17-global-jobs-streamline-operations-memo-shows-2026-05-20/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal memo: Xbox hires game industry analyst Matthew Ball as chief strategy officer, and names Scott Van Vliet, who led Azure AI infrastructure, as Xbox CTO",
+        "excerpt": "",
+        "url": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkdHWWhBb1dCd2ciLCJwIjoiL3JlcG9ydC85MzQ2ODcveGJveC1tYXR0aGV3LWJhbGwtc3RyYXRlZ3ktb2ZmaWNlci1oaXJlIiwiZXhwIjoxNzc5NzI1MTk4LCJpYXQiOjE3NzkyOTMxOTh9.kSFVS3D-ZFX9QDJdw_kgkXPIZqarlNLRgdw-Fyb-kl0&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung Electronics and its South Korean labor union reach a preliminary pay deal; the union says it has suspended a general strike and put the deal to a vote",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/world-at-work/samsung-elecs-south-korean-labour-union-vote-tentative-pay-plan-union-2026-05-20/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US Commerce Department plans to award $2B in grants to nine quantum computing companies and will take equity stakes; IBM is set to get $1B of the package",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/u-s-to-award-quantum-computing-firms-2-billion-and-take-equity-stakes-7382e6be?st=TLeAYk&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@arvindkrishna",
+            "text": "With support from the @CommerceGov, @IBM today announced plans for Anderon, America's first purpose-built quantum chip foundry.  Leveraging IBM's decades-long quantum leadership and strengths in wafer fabrication, the initiative will accelerate American quantum innovation and enable advanced quantum wafer production for a broad range of companies.  [image]",
+            "url": "https://x.com/arvindkrishna/status/2057413327425286281"
+          },
+          {
+            "author": "@patrickmoorhead",
+            "text": "Not greenfield.  IBM has been fabricating Loon and Nighthawk on 300mm at NY CREATES Albany since November 2025.  Anderon is the corporate spinout, capitalized for merchant scale.  Superconducting qubits and supporting electronics first, with stated intent to expand modalities... Three U.S. paths to quantum manufacturing are now in motion.  SkyWater (IonQ-owned) takes third-party work as a general-purpose foundry.  PsiQuantum runs photonic at GlobalFoundries.  Anderon enters as the only dedicated, focused, and government-backed.  The U.S. quantum merchant market just got more serious.",
+            "url": "https://x.com/patrickmoorhead/status/2057453385645748315"
+          },
+          {
+            "author": "@squawkstreet",
+            "text": "“It's an entirely passive stake - no voting on the shares, no board seats, etcetera.” @infleqtion CEO Matt Kinsella...  [video]",
+            "url": "https://x.com/squawkstreet/status/2057499064036475292"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "The White House postpones a planned Thursday ceremony for Trump to sign a new EO on AI and cybersecurity; Trump says “I didn't like certain aspects of it”",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/21/white-house-postpones-ai-eo-signing",
+        "tweets": [
+          {
+            "author": "@alexeheath",
+            "text": "Update: White House is postponing this (lots of CEOs couldn't make it on such short notice)",
+            "url": "https://x.com/alexeheath/status/2057484568727552259"
+          },
+          {
+            "author": "@tonyromm",
+            "text": "Trump says he will not sign an order on AI today. Asked about it, he said it was “because I didn't like certain aspects of it,” adding: “I postponed it... we're leading China, we're leading everybody, and I don't want to do anything that's going to get in the way of that lead.”",
+            "url": "https://x.com/tonyromm/status/2057498635772834225"
+          },
+          {
+            "author": "@tedlieu",
+            "text": "trump and Republicans show again that they support the AI industry running wild with no guardrails. November is coming.",
+            "url": "https://x.com/tedlieu/status/2057515311889359065"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Spotify and UMG plan to let Premium users create AI covers and remixes using music from participating UMG artists as a paid add-on, without giving a launch date",
+        "excerpt": "",
+        "url": "https://variety.com/2026/digital/news/spotify-universal-music-licensing-agreements-fan-made-covers-1236755951/",
+        "tweets": [
+          {
+            "author": "@tbpn",
+            "text": "BREAKING: Spotify has reached an agreement with UMG to allow users to create covers and remixes of their favorite songs. Artists get a share of the streaming revenue. Co-CEO @alega explains: [video]",
+            "url": "https://x.com/tbpn/status/2057594142172344588"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40%",
+            "url": "https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html"
+          }
+        ]
+      },
+      {
+        "title": "SpaceX S-1: Starlink subscribers grew 105% YoY to 10.3M in Q1 2026; SpaceX's “Connectivity” business, which is primarily driven by Starlink, made $11.3B in 2025",
+        "excerpt": "",
+        "url": "https://www.pcmag.com/news/spacex-ipo-filing-offers-first-glimpse-at-subscriber-numbers-financials",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok's Spicy and Unhinged modes, which “present heightened risks”",
+            "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/"
+          },
+          {
+            "title": "SpaceX S-1: Valor Equity founder Antonio Gracias, a longtime Elon Musk ally, controls a 4% stake in SpaceX, the second-largest disclosed holder after Musk",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-20/musk-ally-antonio-gracias-stands-to-make-billions-off-spacex-bet"
+          }
+        ]
+      },
+      {
+        "title": "GitHub links the breach of 3,800 internal repositories to the TanStack npm supply-chain attack, saying hackers used a malicious Nx Console VS Code extension",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Samsung is set to distribute ~$26.6B to its 78,000 chip employees, or a ~$340K bonus to each, in early 2027 as part of a last-minute labor union deal",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/samsung-chip-workers-to-get-average-340-000-bonus-in-ai-boom",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AMD pledges to invest $10B+ in Taiwan's chip industry to make advanced chip packaging for AI, and says TSMC will ramp up production of its next-gen Venice chips",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/amd-to-invest-more-than-10-billion-in-taiwans-chip-industry-28081fb7?st=7GduXF&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Jensen Huang says that Nvidia has “largely conceded” China's AI chip market to Huawei and should “expect nothing” regarding approvals to sell chips in China",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Manus' co-founders are in talks to raise $1B+ to buy back the Chinese-founded startup, after Beijing ordered Meta to unwind its $2B Manus acquisition",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/manus-weighs-raising-1-billion-to-unwind-meta-takeover",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Jeff Bezos dismisses AI job fears, defends billionaires against “vilification”, proposes eliminating income taxes for low earners, and praises President Trump",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "In disclosures to investors, Anthropic says it expects to generate $10.9B in revenue in Q2, vs. $4.8B in Q1, and turn a $559M operating profit, its first ever",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4?st=HwPZX6&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI says an internal general-purpose reasoning model has disproved the Erd&odblacs unit distance conjecture, a central problem in discrete geometry posed in 1946",
+        "excerpt": "",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sam Altman says OpenAI offered to invest $2M in tokens in each startup in the current YC batch; a source says the offer is in exchange for equity via a SAFE",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/sam-altman-offers-yc-founders-2-million-openai-tokens-equity",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An analysis based on OpenAI's and Anthropic's current valuations suggests ~$370B of philanthropic assets tied to the two AI companies could soon become liquid",
+        "excerpt": "",
+        "url": "https://nanransohoff.substack.com/p/the-third-wave-of-american-philanthropy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Singapore announces a National AI Partnership with Google and an MoU with OpenAI, which will set up an AI lab and commit $234M+ to the city-state's AI ecosystem",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/20/singapore-google-openai-ai-partnerships-lab-investment-chatgpt-ai-agents-atxsummit-mddi.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Gemini 3.5 Flash costs $1.50 per 1M input tokens and $9 per 1M output tokens, 3x the price of Gemini 3 Flash Preview and 6x the price of Gemini 3.1 Flash-Lite",
+        "excerpt": "",
+        "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Stability AI releases a new family of audio models called Stable Audio 3.0 that is trained on licensed data; the top model can generate six-minute songs",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Two research papers describe how Google's Co-Scientist and nonprofit FutureHouse's AI tools can succeed at drug retargeting by developing and testing hypotheses",
+        "excerpt": "",
+        "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Granta and the Commonwealth Foundation say they can't determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with Harvey CEO Winston Weinberg on launching the legal AI startup in 2022, how AI could shake up law firms' business models, legal AI competition, and more",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/47eafdcb-5a0a-4515-a07a-70e89ad2fa78",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OpenAI generated ~$5.7B in revenue in Q1, ~$1B more than Anthropic; its adjusted operating income margin was -122%, and ChatGPT user growth stalled",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/openai-held-1-billion-revenue-lead-anthropic-first-quarter",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/cursor-hits-3-billion-annual-sales-rate-ahead-of-spacex-deal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic, Blackstone, and Hellman & Friedman's unnamed enterprise services JV buys Fractional AI, its first deal; sources say Fractional ends its OpenAI deal",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/anthropic-s-new-consulting-venture-makes-its-first-acquisition",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Anthropic is in talks to rent servers powered by Microsoft-designed chips; source: Anthropic has steadily increased its Azure usage since November 2025",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Federal records: Grok was utilized in only 3 of 400+ publicly identified federal AI use cases in 2025, behind 234 for ChatGPT, 33 for Gemini, 26 for Claude",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/grok-falls-flat-washington-undercutting-spacexs-ai-growth-story-2026-05-21/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cohere releases Command A+, a sparse MoE open model built for agentic tasks, with 218B total and 25B active parameters, its first under the Apache 2.0 license",
+        "excerpt": "",
+        "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Gavin Newsom signs an EO mandating state agencies work with the AI industry and others to study subsidies for companies that don't replace workers with AI",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html?unlocked_article_code=1.kFA.XMou.QGqvJ_mu9J58",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Starbucks shut down an AI program for automating inventory counts, nine months after deploying it, after it frequently miscounted and mislabeled items",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/starbucks-scraps-ai-inventory-tool-across-north-america-2026-05-21/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Adobe, Canva, and CapCut announce Gemini integrations to let users access the companies' image and video editing tools within the Gemini app",
+        "excerpt": "",
+        "url": "https://www.pcmag.com/news/adobe-canva-capcut-are-coming-to-gemini-to-help-you-edit-ai-creations",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ElevenLabs, which aims to build an all-in-one AI voice app, licensed 200K human-voiced audiobooks from major publishers, available in ElevenReader for $11/mo.",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-05-21/elevenlabs-an-ai-voice-startup-is-angling-to-disrupt-the-audiobooks-industry",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Higgsfield AI premieres Hell Grind, a 95-minute fully AI-generated film, at Cannes and says it took two weeks and cost $500K to make, of which $400K was on AI",
+        "excerpt": "",
+        "url": "https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d?st=HWtRjK&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "ai processors": [
+      {
+        "title": "Alibaba's chipmaking unit T-Head unveils the Zhenwu M890 for AI training and inference, saying it is well-suited for agentic tasks, and plans annual upgrades",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/alibaba-unveils-new-ai-chip-for-training-and-inferencing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Russia's Sberbank says it hopes to use Chinese chips to power its flagship GigaChat AI model, as sanctions continue to block the country's access to hardware",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/sberbank-seeks-chinese-chips-power-russias-gigachat-ai-model-2026-05-20/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "The Take It Down Act, a US law forcing social networks to remove nonconsensual intimate images within 48 hours of reporting or face fines, took effect on May 19",
+        "excerpt": "",
+        "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI's Chris Lehane says he is pursuing “reverse federalism”, lobbying blue states to pass AI safety laws and create a de facto US standard, as DC dithers",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/05/20/chatgpt-state-ai-fight-00928903",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Vietnam introduces Decree 142 to implement its AI law, requiring that companies classify AI models by risk level, label deepfakes, and more",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/vietnam-unveils-ai-law-regulating-chatgpt-like-tools",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Document and sources: China banned Nvidia's RTX 5090D V2 chip, aimed at gamers and animators, while Jensen Huang was visiting China with Donald Trump last week",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/a30c3dd5-9383-4606-a649-fdf19c41c308?accessToken=zwAAAZ5Ey6AakdOjDD3Vk4NGBtOmSf3xnEHDCA.MEQCIHgBA4cv7YnP40sij9odmFz5qIthmGr-Bar7DKVMM3khAiAeL0qW5eB-U-gMqy3IaNSyC8Sd-ek5qXeNuHRsOd897Q&sharetype=gift&token=2d43291b-5ef6-4760-aaf0-21805c088ddf&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: a draft White House EO would create a “voluntary framework” for AI companies to give government agencies early access to models before public release",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/20/ai-trump-executive-order-white-house-infighting",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "e-commerce": [
+      {
+        "title": "Airbnb says it is adding luggage storage, airport pickups, car rentals, grocery delivery, and thousands of boutique and independent hotels to its platform",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/hospitality/how-airbnb-ceo-brian-chesky-learned-to-stop-hating-hotels-89f4a281",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple says the App Store prevented over $2.2B in potentially fraudulent transactions in 2025, rejected over 2M problematic app submissions, and more",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/05/20/apple-gives-update-on-the-app-store-and-its-key-protections/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "advertising": [
+      {
+        "title": "Google says it is testing new ad formats in search results and AI Mode, including Conversational Discovery ads, Highlighted Answers, and AI-powered Shopping ads",
+        "excerpt": "",
+        "url": "https://searchengineland.com/google-tests-new-conversational-ad-formats-in-ai-mode-and-search-478115",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Owl & Co. report: the podcast industry generated $9.2B in sales globally in 2025, up 23% YoY, with 73% of the growth in the US coming from video-related revenue",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/video-adoption-propels-global-podcast-sales-to-record-high-of-9-2-billion",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "personnel changes": [
+      {
+        "title": "Q&A with Google SVP James Manyika on AI's ability to automate tasks versus occupations, his optimism about the labor market despite AI-driven layoffs, and more",
+        "excerpt": "",
+        "url": "https://www.platformer.news/james-manyika-google-ai-jobs-io-2026/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Three precedent-setting court rulings in China have said that employers replacing workers with AI is voluntary cost-cutting that does not justify mass layoffs",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html?unlocked_article_code=1.j1A.Z3Vx.qem6HAwmIeop&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Exa, which offers a search engine that is designed for AI agents, raised $250M led by a16z at a $2.2B valuation, up from $700M in September 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/andreessen-backed-ai-search-startup-exa-valued-at-2-2-billion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mercury, which provides banking services to startups, raised a $200M Series D led by TCV at a $5.2B valuation, up from $3.5B in March 2025",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Primer, which helps e-commerce merchants connect and manage multiple payment providers, raised a $100M Series C led by Sofina",
+        "excerpt": "",
+        "url": "https://sifted.eu/articles/primer-raises-100m-series-c/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Socket, which helps companies safeguard open-source code against hackers, raised $60M led by Thrive Capital at a $1B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-20/security-firm-thwarting-nation-state-hackers-valued-at-1-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTI4NTgxMCwiZXhwIjoxNzc5ODkwNjEwLCJhcnRpY2xlSWQiOiJURkM5S0JLR0NUTTYwMCIsImJjb25uZWN0SWQiOiI4RTM3MTUwRjA0M0E0NUI4ODRBRjc4OEQwMzZDQjk2RSJ9.Ol_0ldgOrskma5WeaCCIixfA0YK6nOQ4uKjQJT_ST3Q&leadSource=uverify%20wall",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Variational, which has built a protocol for decentralized derivatives trading aimed at gathering liquidity from traditional markets, raised a $50M Series A",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/05/20/variational-raises-50-million-series-a/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Berlin-based bunch, an AI-native platform for managers and institutional investors to manage the entire fund lifecycle, raised a €30.1M Series B led by Portage",
+        "excerpt": "",
+        "url": "https://www.eu-startups.com/2026/05/berlin-based-bunch-bags-e30-1-million-series-b-to-modernise-europes-private-markets-infrastructure/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Circle cofounder Sean Neville's Catena Labs, which lets users set financial guardrails for AI agents, raised a $30M Series A and applies for a US bank charter",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/05/20/catena-labs-series-a-sean-neville-ai-native-bank/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Boston-based CircuitHub, which manufactures circuit boards based on customers' requirements, raised a $28M Series A led by Plural",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/all-deals/2026/05/19/circuithub-series-a-electronics-manufacturing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Prelude, which helps companies with digital onboarding, raised a $20M Series A led by podcaster Harry Stebbings' 20VC, bringing its total funding to $27M",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/05/20/20vc-leads-20m-series-a-investment-in-onboarding-startup-prelude/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NanoClaw creator NanoCo raised a $12M seed led by Valley Capital and says it is booking enterprise customers; co-founders say they rejected a $20M buyout offer",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hark, founded by Figure AI CEO Brett Adcock to build AI-powered devices, raised a $700M+ Series A led by Parkway Venture at a $6B post-money valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/ai-hardware-startup-hark-valued-at-6-billion-in-new-funding-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/modal-labs-valued-465-billion-ai-coding-takes-off-2026-05-21/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Paris-based Pivot, which develops AI tools for procurement and financial workflows, raised a $40M Series B co-led by Forestay Capital and Notion Capital",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/05/21/pivot-raises-40m-to-expand-ai-powered-enterprise-procurement-platform/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Commure, which offers AI, revenue cycle management, and workflow automation tools for healthcare providers, raised $70M led by GC at a $7B post-money valuation",
+        "excerpt": "",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-company-commure-banks-70m-funding-round-hits-7b-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bengaluru-based Scapia, which offers travel-focused co-branded credit cards and an app, raised $63M led by GC, a source says at a $500M+ post-money valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "August Robotics, which makes autonomous robots for construction and industrial applications, raised $30M led by Big Pi Ventures",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/05/21/august-robotics-lands-30m-automate-precision-construction-robots/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Kickstarter retracts its stricter rules on mature content after creator backlash, and says it adopted the tougher rules because of its payment processor Stripe",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2177414/kickstarter-mature-content-policy-stripe/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ubisoft reports a record operating loss of $1.40B for the year to March and says sales in 2026-27 will fall by about 8% to 9%; UBI falls 6%+",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/ubisoft-flags-more-losses-after-record-hit-2026-05-20/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: an attack exploiting a previously unknown vulnerability in Huawei router software caused a three-hour nationwide telecoms outage in Luxembourg in 2025",
+        "excerpt": "",
+        "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "S. “Soma” Somasegar, who led Microsoft's Developer Division for 12 years as part of his 27-year tenure at the company before leaving in 2015, has died at age 59",
+        "excerpt": "",
+        "url": "https://www.geekwire.com/2026/s-soma-somasegar-1966-2026-microsoft-and-madrona-leader-was-a-champion-of-developers-and-startups/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cloud provider Railway says Google Cloud suspended its account without cause, resulting in an outage; in 2024, GCP deleted an Australian pension fund's account",
+        "excerpt": "",
+        "url": "https://www.theregister.com/off-prem/2026/05/20/google-cloud-suspended-major-customer-railwaycom-without-cause-causing-outage/5243111",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with Match Group CEO Spencer Rascoff about plans for Tinder, including a redesign, AI features, live events, and group dating to win over Gen Z",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-05-20/tinder-launches-live-events-ai-features-and-group-dating-to-attract-gen-z",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Nvidia's business development group, not its VC arm NVentures, has led much of its ~$90B dealmaking push across 145+ companies over the past 16 months",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/cc90e4b0-d971-47bb-b241-42896af775c4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing and sources: private equity firm Hg spun out €500M in assets from its €19B software group Visma, whose London IPO remains shelved amid the SaaSpocalypse",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/766353e4-709b-4621-bd26-125580d00400",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SkyeChip becomes the first Malaysian chip design company to IPO on the Bursa Malaysia exchange, surging 300%+; the company was valued at ~$397M at its IPO price",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/markets/ipo/skyechip-soars-in-ipo-at-open-as-malaysia-bets-on-chip-design",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Flipper unveils the Flipper One, a pocketable open Arm Linux computer with similar performance to a Raspberry Pi 5, and welcomes feedback to get it market-ready",
+        "excerpt": "",
+        "url": "https://www.tomshardware.com/networking/flipper-one-computing-multitool-bristles-with-network-gpio-and-m-2-connectivity-new-keychain-device-is-also-a-fully-open-arm-linux-computer",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Waymo suspends freeway rides and pauses its Atlanta operations, as it updates software to improve performance around construction zones and flooded roadways",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/autos-transportation/waymo-suspends-freeway-rides-pauses-atlanta-operations-amid-safety-fixes-2026-05-21/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bluesky and Clemson University researchers detail a novel Russian influence campaign that hijacked influential Bluesky accounts to spread pro-Kremlin propaganda",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html?unlocked_article_code=1.kFA.Mf5v.2XWGYgIy3PJN&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London Mayor Sadiq Khan blocks the Met police's £50M Palantir deal to automate intelligence analysis, citing a “clear and serious breach” of procurement rules",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AMD says its Mac Mini-sized Ryzen AI Halo PC starts at $3,999 with Ryzen AI Max 300 chips, for preorder in June, and unveils Ryzen AI Max 400 chips coming in Q3",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2177687/amd-prices-its-ryzen-ai-halo-pc-at-dollar3999-unveils-ryzen-ai-max-400-chips/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Arizona State University study: waste heat from Phoenix-area data centers raised downwind neighborhoods' air temperatures by up to 4°F above upwind temperatures",
+        "excerpt": "",
+        "url": "https://techxplore.com/news/2026-05-centers-nearby-temperatures-degrees-phoenix.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Zoom reports Q1 revenue up 5.5% YoY to $1.24B, vs. $1.22B est., AI Companion paid users up 184%, forecasts FY 2027 revenue above est.; ZM jumps 8%+ after hours",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/zoom-sales-forecast-tops-estimates-after-product-expansion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI's November 19 launch date; TTWO jumps 6%+ after hours",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/take-two-forecasts-annual-bookings-below-estimates-sticks-with-gta-vi-launch-2026-05-21/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "streaming": [
+      {
+        "title": "Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US",
+        "excerpt": "",
+        "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Spotify Labs launches Studio, a NotebookLM-like desktop app to generate private, AI-powered podcasts, in research preview across 20+ markets",
+            "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/"
+          },
+          {
+            "title": "Spotify says it has 1M+ subscriptions to Audiobook+, which is on track for $100M in ARR, and unveils an ElevenLabs-powered audiobook self-publishing tool",
+            "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/"
+          }
+        ]
+      },
+      {
+        "title": "Apple plans to broadcast an MLS game on Saturday shot entirely on 15 iPhone 17 Pros, the first major live sports event to be captured using only smartphones",
+        "excerpt": "",
+        "url": "https://variety.com/2026/digital/news/apple-mls-match-shot-entirely-on-iphone-first-time-1236755744/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Netflix and iHeartMedia say Charlamagne tha God's The Breakfast Club will stream live on Netflix on weekdays from June 1, the service's first daily live show",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/media/netflix-pushes-further-into-live-programming-with-the-breakfast-club-6cbcfccd?st=N1frxR&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Meta joins TikTok, Snap, and YouTube in settling with a Kentucky school district to avoid a trial over claims the platforms were designed to addict kids",
+        "excerpt": "",
+        "url": "https://www.wsj.com/us-news/education/social-media-companies-settle-youth-harm-case-ahead-of-wave-of-trials-eeb9d94d?st=b4oM7v",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Texas AG Ken Paxton sues Meta, accusing WhatsApp of marketing its services as secure but failing to “deliver on those promises” by accessing encrypted messages",
+        "excerpt": "",
+        "url": "https://news.bloomberglaw.com/privacy-and-data-security/meta-whatsapp-sued-over-privacy-protections-by-texas",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ofcom says Meta, Snap, and Roblox have agreed to adopt stronger anti-grooming measures, while TikTok and YouTube “failed to commit to any significant changes”",
+        "excerpt": "",
+        "url": "https://www.ofcom.org.uk/online-safety/protecting-children/tech-firms-commit-to-stronger-anti-grooming-measures-in-response-to-ofcom-demands",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "X resolved a three-year dispute with Australia's eSafety regulator after a court upheld a fine against the company for inadequate disclosures on combating CSAM",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/elon-musks-x-admits-noncompliance-with-australia-child-protection-request-2026-05-20/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Sources: the EU will propose temporarily lifting sanctions, imposed in April, on a major Chinese semiconductor supplier after automakers warned of shortages",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/eu-to-seek-carve-out-for-banned-china-chips-to-shield-auto-firms",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Taiwan is seeking to detain three people for forging documents to export Super Micro servers with Nvidia chips to China, Hong Kong, and Macau, breaking US rules",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/taiwan-seeks-to-detain-three-in-ai-chip-smuggling-crackdown",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Crypto exchange Blockchain.com confidentially files for a US IPO; the UK-based company founded in 2011 was once valued at $14B",
+        "excerpt": "",
+        "url": "https://decrypt.co/368608/crypto-exchange-blockchain-com-files-ipo-us",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: smart ring maker Oura filed confidentially for a US IPO, set for later in 2026; SF- and Finland-based Oura had an $11B valuation in September 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-21/oura-maker-of-popular-smart-rings-files-confidentially-for-ipo",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 14,
+    "news_count": 97
+  }
+}

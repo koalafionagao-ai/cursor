@@ -1,0 +1,60 @@
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal (2 minute read)
+Excerpt: Cursor's annualized revenue hit $3 billion in late April. The company now has more than 3,000 customers paying at least $100,000 each for its software on an annualized basis. The business has become one of the fastest-growing startups of all time. SpaceX has the right to buy Cursor for $60 billion during a 30-day window that starts soon after it begins trading publicly. SpaceX is expected to list its shares on June 12.
+---
+ID: TL-02
+Title: Manus Weighs Raising $1 Billion to Unwind Meta Takeover (4 minute read)
+Excerpt: Manus has been told to unwind its acquisition by Meta by China's regulators. Its founders now need to raise funds to buy back the operation. They are now in discussions for funding and may chip in with their own money to finance the transaction. A reversal of a deal this large months after completion is virtually unheard of.
+---
+ID: TL-03
+Title: Anthropic, Microsoft in talks for AI chip deal after $5 billion investment (3 minute read)
+Excerpt: Microsoft plans to supply its Maia AI chips to Anthropic, which currently faces compute challenges despite partnerships with Amazon and Google. Anthropic's increasing AI-assisted programming needs could benefit from Maia's 30% improved performance. A $5 billion investment by Microsoft in November strengthens this potential collaboration.
+---
+ID: TL-04
+Title: Lessons Learned from Building Cloud Agents (12 minute read)
+Excerpt: Cursor described lessons from building cloud agents, emphasizing durable execution, isolated development environments, self-healing infrastructure, and cleaner separation between agent state and conversation state.
+---
+ID: TL-05
+Title: AI's Plummeting Prices Are a Software Story, Not a Hardware One (14 minute read)
+Excerpt: Local, open-weight models running on older commodity hardware are becoming more and more competitive with models on the frontier. This has big implications for what frontier labs will be able to charge for their biggest models. Many applications don't need the best models, so it's not worth paying the premium.
+---
+ID: TL-06
+Title: Frontier labs don't use most AI compute (yet) (26 minute read)
+Excerpt: The current rate of scaling compute isn't sustainable unless AI starts to dramatically accelerate economic growth. There is no guarantee that this rate of AI capex spending can continue after 2026. However, flat compute capex is still growing the compute stock for years. AI chips will still improve, and companies can research and train models even with a fixed amount of compute.
+---
+ID: TL-07
+Title: Qwen3.7: The Agent Frontier (15 minute read)
+Excerpt: Alibaba's Qwen team released Qwen3.7-Max as a proprietary agent-foundation model that posts top scores on Terminal-Bench 2.0-Terminus, SWE-Pro, SciCode, MCP-Mark, GPQA Diamond, HMMT Feb 2026, and IMOAnswerBench, with consistent performance across Claude Code, OpenClaw, Qwen Code, and custom harnesses.
+---
+ID: TL-08
+Title: Can SAEs Capture Neural Geometry? (6 minute read)
+Excerpt: Sparse autoencoders (SAEs) can help explore neural geometry by representing curved manifolds using several distinct methods, including shattering, compact capture, and dilution. The study reveals that each SAE feature only represents part of the whole manifold, necessitating the clustering of features to understand the overall structure. An unsupervised pipeline leveraging these findings could enhance our understanding of neural networks by reconstructing the internal geometric structures on their terms.
+---
+ID: TL-09
+Title: How Google plans to win the AI war (4 minute read)
+Excerpt: Google is aggressively integrating AI into its products to remain competitive while protecting its lucrative core businesses. The company leverages its scale, distribution, and financial resources to deploy AI like Gemini 3.5 Flash and features such as YouTube's "Ask YouTube." Despite challenges, Google aims to maintain market leadership by adapting its offerings swiftly without undermining its existing revenue streams.
+---
+ID: TL-10
+Title: OpenAI's Q1 revenue was $5.7 billion, beating Anthropic (2 minute read)
+Excerpt: OpenAI reported $5.7 billion in Q1 revenue, surpassing Anthropic. The high demand for AI inference chips has companies like Amazon, Google, and potentially Microsoft vying to supply custom solutions. Anthropic's rapid adoption by enterprises has exposed compute constraints, leading it to strike deals with multiple providers to secure capacity.
+---
+ID: TL-11
+Title: Gen Z is not booing AI. It is booing its own job market (9 minute read)
+Excerpt: The unemployment-rate gap between entry-level workers and experienced workers has widened sharply post-pandemic, specifically in occupations exposed to AI substitution.
+---
+ID: TL-12
+Title: Microsoft cancels Claude Code licenses, shifting developers to GitHub Copilot CLI — a move likely driven by financial motives (2 minute read)
+Excerpt: Canceling Claude Code licenses could help Microsoft cut its operational costs.
+---
+ID: TL-13
+Title: Anthropic's New Consulting Venture Makes Its First Acquisition (3 minute read)
+Excerpt: The yet-unnamed venture has picked Fractional AI as its operational centerpiece.
+---
+ID: TL-14
+Title: State of AI 2026 (8 minute read)
+Excerpt: The 2026 edition of the State of Web Dev AI studies the impact of AI on developer work and the world at large.
+---

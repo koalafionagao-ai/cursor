@@ -1,0 +1,283 @@
+{
+  "date": "2026-05-18",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr",
+        "tweets": [
+          {
+            "author": "@tgod34748",
+            "text": "Apple Intelligence is already considered a “beta”, even nearly 2 years later. Honestly with how Apple Intelligence rolled out, it was barely an alpha.",
+            "url": "https://x.com/tgod34748/status/2056016444932927607"
+          },
+          {
+            "author": "@vyyyper",
+            "text": "At this point it might be time to think about a rebrand for Siri.",
+            "url": "https://x.com/vyyyper/status/2056016054665556229"
+          },
+          {
+            "author": "@jehangeer_hasan",
+            "text": "@markgurman Auto-deleting chats is cool but Siri first needs to survive a conversation longer than 3 prompts without acting confused.",
+            "url": "https://x.com/jehangeer_hasan/status/2056015591144579269"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay",
+        "excerpt": "",
+        "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+        "tweets": [
+          {
+            "author": "@grafana",
+            "text": "... we've determined the appropriate path forward is to not pay the ransom. As part of Grafana Labs' standard security practices, we will share additional information from our post-incident review when our investigations are complete. (6/6)",
+            "url": "https://x.com/grafana/status/2055827135047327953"
+          },
+          {
+            "author": "@quinnypig",
+            "text": "Reminder that “no customer impact” in a breach disclosure is the security equivalent of “we're continuing to invest in this product.” It means whatever the legal team needed it to mean at 11pm last night.",
+            "url": "https://x.com/quinnypig/status/2055853462664155196"
+          },
+          {
+            "author": "@troyhunt",
+            "text": "Grafana giving a big middle finger to extortion:",
+            "url": "https://x.com/troyhunt/status/2056092490193936561"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3?accessToken=zwAAAZ4xN0_fkdP7o17K3zpK1tO0LesI63ya0w.MEUCIQDcH8bilMlGVJqgZstG35mMI2AG3WUTMRgHMxwbjHntngIgT1ShKwhwRQyJ-IkFBNjACw4OxvSSidscpqYR9_r2h2U&sharetype=gift&token=a750465d-0fdc-469e-b2da-45dd825dadfb&syn-25a6b1a6=1",
+        "tweets": [
+          {
+            "author": "@yacinemtb",
+            "text": "YouTube shorts is hitting relatively uneducated societies like a nuclear bomb man",
+            "url": "https://x.com/yacinemtb/status/2055830014550053118"
+          },
+          {
+            "author": "@alecmacgillis",
+            "text": "“In country after country, the birth rate plunged after introduction of smartphones, no matter what the previous trend was. The younger the age group, the more pronounced the downturn—a mirror image of phone usage patterns.” @jburnmurdoch, so persuasive:",
+            "url": "https://x.com/alecmacgillis/status/2055845204033249485"
+          },
+          {
+            "author": "@paulg",
+            "text": "If Steve Jobs were still alive, he would have the moral authority to face and maybe even to solve this problem. But I doubt anyone in the phone business now does. [image]",
+            "url": "https://x.com/paulg/status/2055751487867752716"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Filings: in Q1, Trump traded $220M-$750M in NVDA, MSFT, AMZN, META, ORCL, and other stocks; millions of dollars of NVDA were bought shortly before major news",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In an experiment that let Claude, ChatGPT, Gemini, and Grok run radio stations, Claude tried to incite a revolution and Gemini cheerfully detailed tragic events",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Experts: Stuxnet-linked Fast16 malware, designed to subvert nuclear weapons testing simulations, was likely part of a campaign to slow Iran's nuclear ambitions",
+        "excerpt": "",
+        "url": "https://www.zetter-zeroday.com/experts-confirm-the-fast16-malware-was-sabotaging-nuclear-weapons-tests-likely-in-iran/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth",
+        "excerpt": "",
+        "url": "https://x.com/deedydas/status/2055491938464489888",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/a7db4a0f-cfc1-42a2-ad66-ad798a1f28a0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people's voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html?unlocked_article_code=1.i1A.zFXQ.2x-Qk7duemL3",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI partners with Malta's AI for All initiative to give citizens a free year of ChatGPT Plus if they complete a University of Malta AI literacy course",
+        "excerpt": "",
+        "url": "https://cointelegraph.com/news/openai-partners-with-malta-to-give-all-citizens-free-chatgpt-plus-access",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODg3NTE0NiwiZXhwIjoxNzc5NDc5OTQ2LCJhcnRpY2xlSWQiOiJURjM2RUVLSkg2VjQwMCIsImJjb25uZWN0SWQiOiI2ODY0RjREM0JBOUI0NzRBQjVERkJDNTUyQjA0M0YxQyJ9.1DCoa3SC3yZuNpnOA4pOYdlejBQdR7aQk7CTiPajkeo",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Power prices on the largest electric grid in the US, operated by PJM, jumped 76% YoY to an average of $136.53/MWh in Q1 due to rampant demand from data centers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/data-centers-drive-76-rise-in-power-bills-on-largest-us-grid",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hill County, which faced eight new data centers, passed what may be Texas' first county-wide ban on them, for one year; the state trails only VA in data centers",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/05/16/texas-county-data-center-construction-ban-00922493",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "ASML will partner with Tata Electronics to help it bring an $11B 300mm chip factory online in Gujarat, expanding India's ability to produce chips domestically",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-16/asml-partners-with-tata-electronics-to-advance-india-chip-plans",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources detail friction between Samsung's memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/world-at-work/samsung-global-ai-boom-spurred-looming-strike-deep-divisions-2026-05-15/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public offerings": [
+      {
+        "title": "Shenzhen-listed RoboTechnik, which claims to be the largest silicon photonics tool maker and whose stock is up 340% over the past year, files for a HK listing",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/zinnialee/2026/05/15/chinese-ai-optics-billionaire-eyes-dual-listing-in-hong-kong-after-340-stock-rally/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: DayOne, the spinoff of China's largest data center operator GDS Holdings, plans dual IPO in Singapore and NY, seeking to raise $5B at a ~$20B valuation",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/602baf9f-9e66-428e-baec-6c2850d5fad5",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash",
+        "excerpt": "",
+        "url": "https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and “radical transparency”, in a $100M deal",
+        "excerpt": "",
+        "url": "https://puck.news/everlane-is-selling-out-to-shein/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "South Korea's Hana Bank agrees to acquire a 6.55% stake in Dunamu, which runs South Korea's largest crypto exchange Upbit, for $672.5M from Kakao",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/hana-bank-to-buy-670-million-stake-in-crypto-exchange-operator-dunamu-08f99cb5?st=gfvffj&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Seoul-based WIRobotics, which develops wearable and humanoid robots and is collaborating with Nvidia and AWS, raised a ~$68M Series B led by JB Investment",
+        "excerpt": "",
+        "url": "https://www.thelec.net/news/articleView.html?idxno=10507",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "LA-based Fasset, which offers stablecoin-powered banking and cross-border payments services across Asia, Africa, and the Middle East, raised a $51M Series B",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion",
+        "excerpt": "",
+        "url": "https://www.eu-startups.com/2026/05/italian-ai-company-webidoo-secures-e21-million-to-scale-smb-focused-automation-platform/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/05/11/a16z-apple-alums-20m-ai-real-businesses/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Kalshi has probed and flagged 400+ suspicious trades YTD, more than 2x the number it investigated in all of 2025; Polymarket has seen a similar uptick",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/government/prediction-markets-see-surge-suspicious-trades-popularity-explodes-2026-05-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "King's Cross, where Google's new UK HQ is due to open later this year, has become London's new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d0a7927d-3072-4bd5-b816-662f726b3699",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Vietnam's government, which once saw video games as a social risk, named gaming as one of its key cultural industries in 2025 and now promotes them at expos",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/why-vietnam-is-betting-on-video-games-to-grow-its-economy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of SAS CEO Jim Goodnight, the 83-year-old who co-founded the 50-year-old analytics firm and holds a ~67% stake worth $13.3B, as AI tests SAS' strategy",
+        "excerpt": "",
+        "url": "http://www.forbes.com/sites/phoebeliu/2026/05/15/billionaire-sas-jim-goodnight-built-an-analytics-profit-machine-ai-forcing-reinvention/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 30
+  }
+}
