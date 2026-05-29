@@ -22,6 +22,9 @@ except ImportError:
 
 # ─── 核心修改：动态获取脚本所在的绝对路径，彻底消灭套娃 ─────────────────────
 SCRIPT_DIR = Path(__file__).resolve().parent
+import sys
+sys.path.insert(0, str(SCRIPT_DIR))
+from common.dates import default_brief_date, parse_date_list
 
 # ─── 配置 ───────────────────────────────────────────────────────────────
 RSS_URL = "https://bullrich.dev/tldr-rss/ai.rss"
@@ -74,10 +77,9 @@ def main():
     # 处理日期参数
     target_dates_str = []
     if args.date:
-        for d in args.date:
-            target_dates_str.extend(d.split())
+        target_dates_str = parse_date_list(args.date)
     else:
-        target_dates_str = [(datetime.now(timezone.utc)-timedelta(days=1)).strftime('%Y-%m-%d')]
+        target_dates_str = [default_brief_date()]
         
     print(f"📥 准备拉取 TLDR RSS 数据流...")
     try:

@@ -20,6 +20,9 @@ except ImportError:
     from bs4 import BeautifulSoup
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+import sys
+sys.path.insert(0, str(SCRIPT_DIR))
+from common.dates import default_brief_date, parse_date_list
 RSS_URL = "https://us14.campaign-archive.com/feed?u=94ccd3ae223561415b05892ab&id=976a1cbc1f"
 SKIP_SECTIONS = {"sponsor"}
 
@@ -167,10 +170,10 @@ def main():
 
     target_dates_str = []
     if args.date:
-        target_dates_str = args.date
+        target_dates_str = parse_date_list(args.date)
     else:
         # 如果没有指定日期，默认抓取昨天的数据
-        yesterday_str = (datetime.now(timezone.utc) - timedelta(days=1)).strftime('%Y-%m-%d')
+        yesterday_str = default_brief_date()
         target_dates_str = [yesterday_str]
 
     print(f"📥 准备拉取 Mailchimp 邮件汇总 RSS 数据流...")

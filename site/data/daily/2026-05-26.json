@@ -1,0 +1,624 @@
+{
+  "date": "2026-05-26",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 34,
+    "by_category": {}
+  },
+  "items": [
+    {
+      "id": "LEGACY-001",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
+      "title": {
+        "zh": "美国执法文件：国土安全部、FBI 等机构在 AI 热潮中引入“反科技暴力极端主义”这一新国内威胁类别",
+        "en": "US law enforcement documents: the DHS, FBI, and other agencies introduce a novel domestic threat category termed “anti-tech violent extremism” amid the AI boom"
+      },
+      "summary": {
+        "zh": "美国国土安全部、FBI 等机构在 AI 热潮背景下，首次提出“反科技暴力极端主义”这一新的国内威胁类别。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-002",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "title": {
+        "zh": "Charter 确认数据泄露，ShinyHunters 声称从其 Salesforce 实例中窃取了 4000 万条客户记录并威胁泄露数据",
+        "en": "Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter's Salesforce instance and threatened to leak the data"
+      },
+      "summary": {
+        "zh": "Charter 公司确认发生数据泄露事件，黑客组织 ShinyHunters 声称从其 Salesforce 实例中窃取了 4000 万条客户记录，并威胁将数据泄露。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-003",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack",
+      "title": {
+        "zh": "Kelp DAO 表示其重新质押的以太坊代币在经过五周的恢复工作后已恢复，此前曾遭朝鲜 Lazarus Group 2.93 亿美元的攻击",
+        "en": "Kelp DAO says its restaked Ether token has been restored after a five-week recovery effort following a $293M exploit by North Korea's Lazarus Group on April 18"
+      },
+      "summary": {
+        "zh": "Kelp DAO 宣布其重新质押的以太坊代币在经历了五周的恢复工作后已成功恢复，此前这些代币曾在 4 月 18 日被朝鲜 Lazarus Group 攻击，损失高达 2.93 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-004",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability",
+      "title": {
+        "zh": "Spotify 为高级用户推出包含 650 多篇长篇杂志文章的有声库；免费用户可单篇购买，每篇 $1.99",
+        "en": "Spotify launches a library of over 650 narrated long-form magazine articles in English for Premium users; free users can buy articles “individually for $1.99”"
+      },
+      "summary": {
+        "zh": "Spotify 推出一个包含 650 多篇英文长篇杂志文章的有声库，供高级用户使用。免费用户也可以以每篇 $1.99 的价格单独购买。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-005",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/dbdec57b-1e24-455b-b9e8-81fd3efe85da",
+      "title": {
+        "zh": "Spotify 联合 CEO Alex Norström 为公司扩展至 AI 生成音乐辩护，称“受控”产品优于不受监管的 AI“劣质品”",
+        "en": "Spotify co-CEO Alex Norström defends the company's expansion into AI-generated music, arguing that “controlled” products are superior to unregulated AI “slop”"
+      },
+      "summary": {
+        "zh": "Spotify 联合 CEO Alex Norström 表示，公司在 AI 生成音乐领域的扩展是为了提供更高质量的受控产品，而非不受监管的低质量 AI 内容。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-006",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html?unlocked_article_code=1.lFA.rNNN.dNaM89ZIW_e1&smid=nytcore-android-share",
+      "title": {
+        "zh": "AI 生成的“自行辩护”案件激增，正在民主化美国法律体系，但也消耗了更多的法院资源",
+        "en": "A surge in AI-generated “pro se” cases, or lawsuits filed by self-represented litigants, is democratizing the US legal system but consuming more court resources"
+      },
+      "summary": {
+        "zh": "AI 生成的自行辩护案件数量激增，这种趋势在一定程度上促进了美国法律体系的民主化，但也对法院资源造成了更大的压力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-007",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "title": {
+        "zh": "AI 初创公司如 Altur 如何利用聊天机器人帮助自动化债务催收；YC 在过去六年中孵化了六家债务催收和结算初创公司",
+        "en": "How AI startups like Altur are using chatbots to help automate debt collection; YC incubated six debt collection and settlement startups in the past six years"
+      },
+      "summary": {
+        "zh": "AI 初创公司如 Altur 正在利用聊天机器人技术实现债务催收的自动化。Y Combinator 在过去六年中孵化了六家专注于债务催收和结算的初创公司。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-008",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
+      "title": {
+        "zh": "Nvidia 正式退役使用 20 年的 GeForce 控制面板应用",
+        "en": "Nvidia officially retires its GeForce Control Panel app after 20 years, following the porting of all of its major features to the Nvidia app"
+      },
+      "summary": {
+        "zh": "Nvidia 宣布正式退役其使用了 20 年的 GeForce 控制面板应用，所有主要功能已迁移至 Nvidia 应用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-009",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theshortcut.com/p/fitbit-air-review",
+      "title": {
+        "zh": "Google Fitbit Air 评测：轻薄舒适时尚，功能强大，电池续航 7 天，比 Whoop 更便宜，但仅限于手腕佩戴",
+        "en": "Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist"
+      },
+      "summary": {
+        "zh": "Google Fitbit Air 被评为轻薄、舒适且时尚，具备强大的追踪功能和 7 天的电池续航时间，价格比 Whoop 更实惠，但仅支持手腕佩戴。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-010",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/24/us/waymo-robot-taxis-blind.html?unlocked_article_code=1.k1A.-Nzg.FVRMpFxe6cDv&smid=url-share",
+      "title": {
+        "zh": "加州视障用户表示乘坐 Waymo 提供了独立感并避免了人类司机的歧视",
+        "en": "Visually impaired Waymo users in California say riding in a Waymo gives them a feeling of independence and spares them from discrimination from human drivers"
+      },
+      "summary": {
+        "zh": "加州的视障用户表示，乘坐 Waymo 自动驾驶汽车让他们感到更加独立，同时也避免了来自人类司机的歧视性对待。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-011",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "title": {
+        "zh": "Dropbox 创始人 Drew Houston 在担任 CEO 19 年后卸任，转任执行董事长，由 Dropbox Core 的高级副总裁兼总经理 Ashraf Alkarmi 接任",
+        "en": "Dropbox founder Drew Houston is stepping down as CEO after 19 years to become executive chairman, replaced by Ashraf Alkarmi, who is SVP and GM of Dropbox Core"
+      },
+      "summary": {
+        "zh": "Dropbox 创始人 Drew Houston 宣布卸任 CEO 职位，转任执行董事长。Ashraf Alkarmi 将接任 CEO 一职，他此前担任 Dropbox Core 的高级副总裁兼总经理。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-012",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
+      "title": {
+        "zh": "美光科技市值首次突破 1 万亿美元，股价因 AI 竞赛中的内存芯片需求激增 19%",
+        "en": "Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race"
+      },
+      "summary": {
+        "zh": "由于 AI 竞赛中对内存芯片的需求激增，美光科技的市值首次突破 1 万亿美元，股价上涨 19%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-013",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTgwMDQwMCwiZXhwIjoxNzgwNDA1MjAwLCJhcnRpY2xlSWQiOiJURjBEMzhLSzNOWUEwMCIsImJjb25uZWN0SWQiOiJDODcyMDJCNUE5RkU0Q0NBOTBFMTgzMDUxNkYxNTlGRSJ9.HzM3tbnW8AlvQEje6EVlRrl7NLsqCcxkVWRx1-zpTqI",
+      "title": {
+        "zh": "消息称中国政府机构开始对从事先进 AI 工作的人员实施出境限制，包括阿里巴巴和 DeepSeek 的员工",
+        "en": "Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek"
+      },
+      "summary": {
+        "zh": "据消息人士透露，中国政府机构已开始对从事先进 AI 工作的人员实施出境限制，涉及阿里巴巴和 DeepSeek 等公司的员工。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-014",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html",
+      "title": {
+        "zh": "美国航空选择 SpaceX 的 Starlink 为 500 多架飞机提供机上 Wi-Fi；SpaceX 已与联合航空、西南航空等公司签订合同",
+        "en": "American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others"
+      },
+      "summary": {
+        "zh": "美国航空宣布将为其 500 多架飞机配备 SpaceX 的 Starlink 机上 Wi-Fi 服务。此前，SpaceX 已与联合航空、西南航空等公司达成合作协议。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-015",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-on-fast-growth",
+      "title": {
+        "zh": "小马智行报告第一季度收入同比增长 145% 至约 3430 万美元，高于预期的 2170 万美元，并将 2026 年的自动驾驶出租车车队目标增加 500 辆至 3500 辆",
+        "en": "Pony AI reports Q1 revenue up 145% YoY to ~$34.3M, above $21.7M est., and increases its 2026 robotaxi fleet target by 500 to 3,500 vehicles on fast growth"
+      },
+      "summary": {
+        "zh": "小马智行公布第一季度收入同比增长 145%，达到约 3430 万美元，超出预期，并将 2026 年的自动驾驶出租车车队目标从 3000 辆提高到 3500 辆。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-016",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/xiaomi-profit-drops-more-than-expected-in-global-memory-crunch",
+      "title": {
+        "zh": "小米报告第一季度收入同比下降 11% 至约 146 亿美元，为三年来首次季度下滑，净收入下降 57% 至 6.95 亿美元，因全球内存价格上涨",
+        "en": "Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump"
+      },
+      "summary": {
+        "zh": "小米公布第一季度收入同比下降 11%，为三年来首次季度下滑，净收入下降 57%，主要受到全球内存价格上涨的影响。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-017",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/zscaler-sees-downbeat-quarterly-revenue-competition-heats-up-cybersecurity-2026-05-26/",
+      "title": {
+        "zh": "美国网络安全公司 Zscaler 报告第三季度收入同比增长 25% 至 8.505 亿美元，高于预期的 8.354 亿美元，但预测第四季度收入低于预期；盘后股价下跌超 18%",
+        "en": "US cybersecurity company Zscaler reports Q3 revenue up 25% YoY to $850.5M, above $835.4M est., and forecasts Q4 revenue below est.; ZS drops 18%+ after hours"
+      },
+      "summary": {
+        "zh": "Zscaler 公布第三季度收入同比增长 25%，超出预期，但对第四季度收入的预测低于市场预期，导致盘后股价下跌超过 18%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-018",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance",
+      "title": {
+        "zh": "消息称高通与字节跳动达成协议，将为 AI 数据中心提供数百万 ASIC 芯片以支持 Doubao 聊天机器人；高通股价上涨 4.48%",
+        "en": "Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 4.48%"
+      },
+      "summary": {
+        "zh": "据消息人士透露，高通与字节跳动达成协议，将为其 AI 数据中心提供数百万 ASIC 芯片，以支持 Doubao 聊天机器人。受此消息影响，高通股价上涨 4.48%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-019",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.adweek.com/media/openai-hires-servicenow-cmo-colin-fleming-to-lead-business-marketing-push/",
+      "title": {
+        "zh": "OpenAI 聘请 ServiceNow 首席营销官 Colin Fleming 担任其商业部门的 CMO，接替因健康原因辞职的 Kate Rouch",
+        "en": "OpenAI hires ServiceNow CMO Colin Fleming as CMO for its business segment; he succeeds Kate Rouch, who stepped down earlier this year to focus on her health"
+      },
+      "summary": {
+        "zh": "OpenAI 宣布任命 Colin Fleming 为其商业部门的新任首席营销官（CMO），接替早前因健康原因辞职的 Kate Rouch。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-020",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "title": {
+        "zh": "荷兰政府以“可能对公共利益构成风险”为由，阻止美国公司 Kyndryl 收购认证 IT 供应商 Solvinity",
+        "en": "The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing “a possible risk to the public interest”"
+      },
+      "summary": {
+        "zh": "荷兰政府以可能对公共利益构成风险为由，阻止了美国公司 Kyndryl 对认证 IT 供应商 Solvinity 的收购交易。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-021",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/media/polymarket-kalshi-face-spanish-ban-43986e08?st=ZDStim&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "西班牙表示正在阻止 Polymarket 和 Kalshi 的运营，以调查可能违反赌博法的行为，预计调查将持续三到四个月",
+        "en": "Spain says it is blocking Polymarket and Kalshi as a precautionary measure while it probes possible gambling law violations over the next three to four months"
+      },
+      "summary": {
+        "zh": "西班牙政府宣布暂时阻止 Polymarket 和 Kalshi 的运营，作为预防措施，同时对其可能违反赌博法的行为进行为期三到四个月的调查。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-022",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/ai-inference-provider-baseten-talks-raise-1-billion-11-billion-valuation",
+      "title": {
+        "zh": "消息称 AI 推理提供商 Baseten 正在洽谈以 110 亿美元估值融资 10 亿美元，此前 1 月宣布完成 3 亿美元 E 轮融资，估值 50 亿美元",
+        "en": "Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January"
+      },
+      "summary": {
+        "zh": "据消息人士透露，AI 推理服务提供商 Baseten 正在洽谈新一轮融资，计划以 110 亿美元的投后估值筹集 10 亿美元，此前该公司在 1 月完成了 3 亿美元的 E 轮融资，当时估值为 50 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-023",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/all-deals/2026/05/26/suno-spotify-remix-bond-raise",
+      "title": {
+        "zh": "消息称：Bond Capital 领投 AI 初创公司 Suno 新一轮融资，估值约 50 亿美元，高于去年秋季的 24.5 亿美元；Suno 预计将筹集超过 2.5 亿美元",
+        "en": "Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+"
+      },
+      "summary": {
+        "zh": "消息人士透露，Bond Capital 正在领投 AI 初创公司 Suno 的新一轮融资，此轮融资将使 Suno 的估值达到约 50 亿美元，相较去年秋季的 24.5 亿美元大幅提升。Suno 预计将筹集超过 2.5 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-024",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+      "title": {
+        "zh": "总部位于亚特兰大的电商物流公司 Stord 完成 2.5 亿美元 F 轮融资，估值达 30 亿美元",
+        "en": "Atlanta-based e-commerce logistics company Stord raised a $250M Series F led by Strike at a $3B valuation, up from $1.5B after a $200M Series E in May 2025"
+      },
+      "summary": {
+        "zh": "亚特兰大电商物流公司 Stord 宣布完成由 Strike 领投的 2.5 亿美元 F 轮融资，公司估值从 2025 年 5 月 E 轮融资后的 15 亿美元翻倍至 30 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-025",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html",
+      "title": {
+        "zh": "OpenRouter 完成由 CapitalG 领投的 1.13 亿美元融资，估值达 13 亿美元",
+        "en": "OpenRouter raised $113M led by CapitalG, a source says at a $1.3B valuation, and now processes 25T tokens across 400+ models weekly, up from 5T six months ago"
+      },
+      "summary": {
+        "zh": "据消息人士透露，OpenRouter 完成了由 CapitalG 领投的 1.13 亿美元融资，公司估值达到 13 亿美元。目前，OpenRouter 每周处理超过 400 个模型的 25 万亿个 token，相较六个月前的 5 万亿大幅增长。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-026",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/05/26/exclusive-perceptic-a-startup-automating-drug-discovery-end-to-end-for-big-pharma-emerges-from-stealth-with-12-million-in-seed-funding/",
+      "title": {
+        "zh": "伦敦初创公司 Perceptic 完成由 Accel 领投的 1200 万美元种子轮融资",
+        "en": "London-based Perceptic, which says its end-to-end AI platform for drug development is being used by top pharmaceuticals, raised a $12M seed led by Accel"
+      },
+      "summary": {
+        "zh": "总部位于伦敦的初创公司 Perceptic 宣布完成由 Accel 领投的 1200 万美元种子轮融资。该公司表示，其端到端 AI 药物开发平台已被顶级制药公司采用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-027",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "title": {
+        "zh": "Human Archive 完成 820 万美元融资，利用印度家政服务人员佩戴的摄像头训练机器人",
+        "en": "Human Archive, which trains robots using first-person video from 1,000+ camera-equipped caps worn by Indian home services workers, raised $8.2M from YC and more"
+      },
+      "summary": {
+        "zh": "Human Archive 宣布完成 820 万美元融资，投资方包括 Y Combinator 等。该公司通过收集印度家政服务人员佩戴的 1000 多个摄像头拍摄的第一人称视频，用于训练机器人。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-028",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war-2026-05-26/",
+      "title": {
+        "zh": "消息称 SpaceX 成功游说五角大楼提高 LUCAS 自杀式无人机使用 Starlink 的费用",
+        "en": "Sources: SpaceX successfully lobbied the Pentagon to pay more for use of Starlink on LUCAS kamikaze drones amid increasing tensions over Starlink's pricing"
+      },
+      "summary": {
+        "zh": "消息人士透露，SpaceX 成功游说美国五角大楼，在 Starlink 定价争议加剧的背景下，提高了 LUCAS 自杀式无人机使用 Starlink 服务的费用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-029",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.hollywoodreporter.com/business/business-news/elon-musk-spacex-media-ambitions-x-advertising-starlink-1236602996/",
+      "title": {
+        "zh": "SpaceX 文件显示 X 的广告收入逐年下降，X 和 Grok 现有 630 万活跃付费用户",
+        "en": "SpaceX filing: X's ad revenue was $1.8B in 2025, $1.7B in 2024, and $2.3B in 2023, below Twitter's $4B in 2021; X and Grok now have 6.3M active paid subscribers"
+      },
+      "summary": {
+        "zh": "根据 SpaceX 的文件，X 的广告收入在 2023 年为 23 亿美元，2024 年为 17 亿美元，2025 年为 18 亿美元，低于 Twitter 在 2021 年的 40 亿美元。同时，X 和 Grok 目前拥有 630 万活跃付费用户。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-030",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-26/honeywell-backed-quantinuum-seeks-to-raise-1-05-billion-in-ipo",
+      "title": {
+        "zh": "SEC 文件：Quantinuum 在美国 IPO 中寻求筹资 10.5 亿美元，计划以每股 45 至 50 美元的价格发行约 2100 万股，最高估值达 127 亿美元",
+        "en": "SEC filing: Quantinuum is seeking to raise $1.05B in its US IPO, marketing ~21M shares for $45 to $50 each, giving it a $12.7B valuation at the top of the range"
+      },
+      "summary": {
+        "zh": "根据 SEC 文件，量子计算公司 Quantinuum 正在美国进行首次公开募股，计划筹资 10.5 亿美元，发行约 2100 万股，定价区间为每股 45 至 50 美元，最高估值达 127 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-031",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/23de626c-0359-462a-b06b-ce7fe7095a89",
+      "title": {
+        "zh": "文件显示：Monzo 的“推荐好友”奖励在截至 2026 年 3 月的 12 个月内同比增长 40%，达到 2950 万英镑，属于 1.43 亿英镑营销支出的一部分",
+        "en": "Filing: Monzo reports its “refer a friend” payouts grew 40% YoY to £29.5M for the 12 months ending March 2026, as part of a broader £143M marketing spend"
+      },
+      "summary": {
+        "zh": "根据文件显示，Monzo 的“推荐好友”奖励在截至 2026 年 3 月的 12 个月内增长了 40%，达到 2950 万英镑，这笔支出是其总计 1.43 亿英镑营销预算的一部分。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-032",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/world-at-work/samsungs-non-chip-union-files-injunction-bid-stop-vote-bonuses-media-reports-2026-05-26/",
+      "title": {
+        "zh": "三星消费电子部门工会请求韩国法院阻止主要惠及芯片工人的薪资协议投票",
+        "en": "A Samsung union representing its consumer electronics division says it asked a South Korean court to block a pay deal vote that mainly benefits chip workers"
+      },
+      "summary": {
+        "zh": "三星消费电子部门的工会表示，他们已向韩国法院提出请求，要求阻止一项薪资协议的投票，该协议主要对芯片工人有利。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-033",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "title": {
+        "zh": "与桑达尔·皮查伊的问答：通过搜索变革重塑信息生态系统，将 AI 应用到一切，以及 AI 何时会取代他成为 CEO 等",
+        "en": "Q&A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more"
+      },
+      "summary": {
+        "zh": "谷歌 CEO 桑达尔·皮查伊讨论了通过搜索变革重塑信息生态系统、将 AI 应用到各个领域，以及对 AI 未来发展的看法，包括 AI 是否会取代他担任 CEO。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    },
+    {
+      "id": "LEGACY-034",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bbc.com/news/articles/cg5ppg50gplo",
+      "title": {
+        "zh": "中国执行对徐耀的死刑，因其在 2020 年谋杀游族网络创始人林奇",
+        "en": "China executes a man called Xu Yao for killing Yoozoo Games founder Lin Qi in 2020; Lin reportedly sidelined Xu, who helped land the 3 Body Problem Netflix deal"
+      },
+      "summary": {
+        "zh": "中国对徐耀执行死刑，因其在 2020 年谋杀了游族网络创始人林奇。据报道，林奇曾边缘化徐耀，而徐耀曾协助促成《三体》Netflix 合作协议。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": []
+    }
+  ]
+}
