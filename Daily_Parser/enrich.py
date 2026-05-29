@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Agent4: 翻译 + 分类 + 固定标签；输出 processed_YYYY-MM-DD.json（不再生成 MD）。
+Agent4: 中文翻译 + 分类 + 标签；英文保留原文。
+输出 processed_YYYY-MM-DD.json（不再生成 MD）。
 """
 
 from __future__ import annotations
@@ -18,6 +19,7 @@ from common.dates import parse_date_list  # noqa: E402
 from common.llm import DEFAULT_MODEL, run_batches  # noqa: E402
 from common.schema import BlocksFile, ProcessedBrief, ProcessedItem, TweetItem  # noqa: E402
 from common.taxonomy import CATEGORY_ID_TO_TAG, normalize_tags, tags_for_prompt  # noqa: E402
+from common.text_utils import is_duplicate, pick_summary  # noqa: E402
 
 BATCH_SIZE = 10
 
@@ -39,12 +41,13 @@ def block_to_prompt_text(item) -> str:
 
 
 def build_system_prompt() -> str:
-    return f"""你是资深 AI 产品经理。将英文 AI 资讯翻译为中文，并打标签。
+    return f"""你是资深 AI 产品经理。仅需输出中文标题/摘要与标签；英文原文由系统保留，不要翻译英文。
 
 {tags_for_prompt()}
 
-【分类数字 category_id】1=新模型 2=新技术 3=新应用 4=新商业 5=其它
-翻译时 category_id 与 cat:* 标签必须一致。
+【分类 category_id】1=新模型 2=新技术 3=新应用 4=新商业 5=其它（须与 cat:* 一致）
+
+【摘要规则】若中文摘要与中文标题信息重复，zh_summary 必须留空字符串 ""，以节省篇幅。
 
 严格输出 JSON：
 {{
@@ -52,18 +55,15 @@ def build_system_prompt() -> str:
     {{
       "id": "TM-01",
       "category_id": 1,
-      "tags": ["cat:model", "anthropic", "claude", "opus"],
-      "en_title": "原英文标题，不可改",
+      "tags": ["cat:model", "anthropic", "claude"],
       "zh_title": "中文标题",
-      "zh_summary": "1-2句中文摘要",
-      "summary_en": "1-2句英文摘要（可基于原文精简）",
+      "zh_summary": "仅在与标题不重复时填写，否则 \"\"",
       "source": "Techmeme 或 TLDR",
-      "tweets": [{{"author":"@x","text_zh":"中文","text_en":"英文"}}]
+      "tweets": [{{"author":"@x","text_zh":"推文中文"}}]
     }}
   ]
 }}
-tags 必须从允许列表选择；category 对应 cat:* 必须出现在 tags 中。
-不要 Markdown，只返回 JSON。处理所有条目，不遗漏。"""
+tags 必须从允许列表选择。不要 Markdown，只返回 JSON。"""
 
 
 def write_log(date_str: str, status: str) -> None:
@@ -129,13 +129,23 @@ def process_date(date_str: str) -> bool:
         src = row.get("source") or ("Techmeme" if item_id.startswith("TM") else "TLDR")
         url = url_mapping.get(item_id, block.url or "")
 
+        en_title = block.title
+        zh_title = (row.get("zh_title") or "").strip()
+        zh_summary = (row.get("zh_summary") or "").strip()
+        if is_duplicate(zh_title, zh_summary):
+            zh_summary = ""
+
+        en_summary = pick_summary(en_title, "", block.excerpt or "")
+
         tweets = []
-        for tw in row.get("tweets") or []:
+        for tw_idx, tw in enumerate(row.get("tweets") or []):
+            orig = ""
+            # tweets from block not in RawBlock - skip orig lookup
             tweets.append(
                 TweetItem(
                     author=tw.get("author", ""),
-                    text=tw.get("text_zh") or tw.get("text", ""),
-                    text_en=tw.get("text_en", ""),
+                    text=(tw.get("text_zh") or tw.get("text", "")).strip(),
+                    text_en=tw.get("text_en", "").strip(),
                 )
             )
 
@@ -145,14 +155,8 @@ def process_date(date_str: str) -> bool:
                 category_id=cat_id,
                 source=src,
                 url=str(url),
-                title={
-                    "zh": row.get("zh_title", ""),
-                    "en": row.get("en_title", block.title),
-                },
-                summary={
-                    "zh": row.get("zh_summary", ""),
-                    "en": row.get("summary_en", block.excerpt or ""),
-                },
+                title={"zh": zh_title, "en": en_title},
+                summary={"zh": zh_summary, "en": en_summary},
                 tags=tags,
                 tweets=tweets,
             )
@@ -168,10 +172,7 @@ def process_date(date_str: str) -> bool:
     brief = ProcessedBrief(
         date=date_str,
         sources=sources,
-        stats={
-            "total": len(processed),
-            "by_category": dict(cat_counts),
-        },
+        stats={"total": len(processed), "by_category": dict(cat_counts)},
         items=processed,
     )
 

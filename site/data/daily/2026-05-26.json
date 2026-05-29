@@ -18,13 +18,15 @@
         "en": "US law enforcement documents: the DHS, FBI, and other agencies introduce a novel domestic threat category termed “anti-tech violent extremism” amid the AI boom"
       },
       "summary": {
-        "zh": "美国国土安全部、FBI 等机构在 AI 热潮背景下，首次提出“反科技暴力极端主义”这一新的国内威胁类别。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-002",
@@ -36,13 +38,15 @@
         "en": "Charter confirms a data breach after ShinyHunters claimed to steal 40M customer records from Charter's Salesforce instance and threatened to leak the data"
       },
       "summary": {
-        "zh": "Charter 公司确认发生数据泄露事件，黑客组织 ShinyHunters 声称从其 Salesforce 实例中窃取了 4000 万条客户记录，并威胁将数据泄露。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-003",
@@ -60,7 +64,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-004",
@@ -78,7 +84,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-005",
@@ -96,7 +104,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-006",
@@ -114,7 +124,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-007",
@@ -132,7 +144,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-008",
@@ -150,7 +164,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-009",
@@ -168,7 +184,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-010",
@@ -186,7 +204,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-011",
@@ -204,7 +224,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-012",
@@ -222,7 +244,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-013",
@@ -234,13 +258,15 @@
         "en": "Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek"
       },
       "summary": {
-        "zh": "据消息人士透露，中国政府机构已开始对从事先进 AI 工作的人员实施出境限制，涉及阿里巴巴和 DeepSeek 等公司的员工。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-014",
@@ -258,7 +284,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-015",
@@ -276,7 +304,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-016",
@@ -294,7 +324,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-017",
@@ -312,7 +344,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-018",
@@ -324,13 +358,15 @@
         "en": "Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 4.48%"
       },
       "summary": {
-        "zh": "据消息人士透露，高通与字节跳动达成协议，将为其 AI 数据中心提供数百万 ASIC 芯片，以支持 Doubao 聊天机器人。受此消息影响，高通股价上涨 4.48%。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-019",
@@ -348,7 +384,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-020",
@@ -360,13 +398,15 @@
         "en": "The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing “a possible risk to the public interest”"
       },
       "summary": {
-        "zh": "荷兰政府以可能对公共利益构成风险为由，阻止了美国公司 Kyndryl 对认证 IT 供应商 Solvinity 的收购交易。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-021",
@@ -384,7 +424,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-022",
@@ -402,7 +444,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-023",
@@ -420,7 +464,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-024",
@@ -438,7 +484,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-025",
@@ -456,7 +504,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-026",
@@ -474,7 +524,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-027",
@@ -492,7 +544,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-028",
@@ -510,7 +564,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-029",
@@ -528,7 +584,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-030",
@@ -546,7 +604,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-031",
@@ -558,13 +618,15 @@
         "en": "Filing: Monzo reports its “refer a friend” payouts grew 40% YoY to £29.5M for the 12 months ending March 2026, as part of a broader £143M marketing spend"
       },
       "summary": {
-        "zh": "根据文件显示，Monzo 的“推荐好友”奖励在截至 2026 年 3 月的 12 个月内增长了 40%，达到 2950 万英镑，这笔支出是其总计 1.43 亿英镑营销预算的一部分。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-032",
@@ -582,7 +644,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-033",
@@ -600,7 +664,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-034",
@@ -618,7 +684,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     }
   ]
 }
