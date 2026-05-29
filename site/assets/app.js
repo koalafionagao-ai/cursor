@@ -97,6 +97,34 @@
     }
   }
 
+  function resetMonthReadState() {
+    if (
+      !confirm(
+        t(
+          "确定重置本月阅读记录？将清除本月已读标记，并按追平规则重新计算未读。",
+          "Reset this month's read state? Clears read marks for this month and recalculates unread."
+        )
+      )
+    ) {
+      return;
+    }
+    const s = loadState();
+    if (s.read) {
+      for (const key of Object.keys(s.read)) {
+        const date = key.split(":")[0];
+        if (date.startsWith(route.month + "-")) delete s.read[key];
+      }
+    }
+    const lv = s.lastVisit || "";
+    if (!lv || lv >= route.month + "-01") {
+      const [y, m] = route.month.split("-").map(Number);
+      const prev = new Date(y, m - 1, 0);
+      s.lastVisit = prev.toISOString().slice(0, 10);
+    }
+    saveState(s);
+    render();
+  }
+
   /**
    * 未读 = 未单独标已读，且简报日期晚于「追平基准日」。
    * 历史无红点：通常因已「追平至最新日」或曾标已读，不等于服务器侧已读。
@@ -296,6 +324,14 @@
     return routeMonth || "";
   }
 
+  function monthDisplayLabel(monthId) {
+    if (!monthId) return "";
+    const n = parseInt(monthId.slice(5, 7), 10);
+    if (lang === "zh") return `${n}月`;
+    const en = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    return en[n - 1] || monthId.slice(5, 7);
+  }
+
   function renderFilterChips() {
     return `<div class="toolbar-filters">
       <button type="button" class="chip chip-filter${filterUnread ? " active" : ""}" id="btn-filter-unread">${t("未读", "Unread")}</button>
@@ -383,22 +419,31 @@
     const s = monthStats;
     const lv = getLastVisit();
   const ml = monthLabelFor(route.month);
-  return `<div class="dashboard-card dashboard-compact">
-      <p class="stat-latest">${t("最新简报", "Latest brief")}: <strong class="stat-latest-date">${manifest?.latest_date || "-"}</strong></p>
-      <div class="stat-headline">
-        <span class="stat-month-big">${escapeHtml(ml)}</span>
-        <span class="stat-primary">
-          <span class="stat-number">${s.unread}</span>
-          <span class="stat-unit">${t("条未读", "unread")}</span>
-        </span>
+  return `<div class="dashboard-card dashboard-hero">
+      <div class="dash-row dash-row-top">
+        <div class="dash-latest">
+          <span class="dash-kicker">${t("最新简报", "Latest brief")}</span>
+          <time class="dash-latest-date">${manifest?.latest_date || "-"}</time>
+        </div>
+        <p class="dash-baseline">${t("追平基准日", "Baseline")}: <strong>${lv || t("无", "none")}</strong></p>
       </div>
-      <p class="stat-equation">${t("本月", "This month")} <strong>${s.total}</strong> ${t("条", "items")}
-        = <span class="stat-unread">${s.unread}</span> ${t("未读", "unread")}
-        + <span class="stat-read">${s.read}</span> ${t("已读", "read")}
-        · ${t("未读分布在", "Unread across")} <strong>${s.daysWithUnread}</strong> ${t("天", "days")}
-        · <strong>${s.catsWithUnread}</strong> ${t("分类", "cat")}
-        · <strong>${s.tagsWithUnread}</strong> ${t("标签", "tags")}</p>
-      <p class="stat-meta">${t("追平基准日", "Baseline")}: <strong>${lv || t("无", "none")}</strong></p>
+      <div class="dash-row dash-row-main">
+        <div class="dash-period">
+          <span class="dash-month">${escapeHtml(ml)}</span>
+        </div>
+        <div class="dash-unread">
+          <span class="dash-unread-num">${s.unread}</span>
+          <span class="dash-unread-label">${t("未读", "unread")}</span>
+        </div>
+      </div>
+      <div class="dash-metrics">
+        <div class="dash-metric"><span class="dash-metric-val">${s.total}</span><span class="dash-metric-lbl">${t("本月", "Month")}</span></div>
+        <div class="dash-metric"><span class="dash-metric-val stat-unread">${s.unread}</span><span class="dash-metric-lbl">${t("未读", "Unread")}</span></div>
+        <div class="dash-metric"><span class="dash-metric-val stat-read">${s.read}</span><span class="dash-metric-lbl">${t("已读", "Read")}</span></div>
+        <div class="dash-metric"><span class="dash-metric-val">${s.daysWithUnread}</span><span class="dash-metric-lbl">${t("天", "Days")}</span></div>
+        <div class="dash-metric"><span class="dash-metric-val">${s.catsWithUnread}</span><span class="dash-metric-lbl">${t("分类", "Cats")}</span></div>
+        <div class="dash-metric"><span class="dash-metric-val">${s.tagsWithUnread}</span><span class="dash-metric-lbl">${t("标签", "Tags")}</span></div>
+      </div>
     </div>`;
   }
 
@@ -493,7 +538,7 @@
         const monthUnread = mst ? mst.unread : "—";
         html += `<div class="month-group">
           <div class="month-title${monthOpen ? " open" : ""}${isCurrent ? " current" : ""}">
-            <button type="button" class="month-label" data-month-nav="${m.id}">${escapeHtml(m.id)}</button>
+            <button type="button" class="month-label" data-month-nav="${m.id}">${escapeHtml(monthDisplayLabel(m.id))}</button>
             ${mst != null ? `<span class="nav-count ${monthUnread ? "" : "muted"}">${countLabel(monthUnread, mst.total)}</span>` : ""}
             <button type="button" class="fold-btn" data-month-toggle="${m.id}" aria-expanded="${monthOpen}" aria-label="${t("展开/折叠月份", "Toggle month")}"><span class="fold-icon">▶</span></button>
           </div>
@@ -519,7 +564,10 @@
       html += `</div></div>`;
     }
 
-    html += `</div>`;
+    html += `</div>
+      <div class="nav-actions">
+        <button type="button" class="nav-text-btn" id="btn-reset-month">${t("重置阅读", "Reset read")}</button>
+      </div>`;
     el.innerHTML = html;
   }
 
@@ -528,7 +576,9 @@
     const s = monthStats;
     const groups = window.AI_DAILY_TAG_GROUPS || [];
     const used = new Set(Object.keys(s.byTag));
-    let html = `<p class="panel-title">${t("分类（本月）", "Categories")}</p><div class="nav-stack compact-nav">`;
+    let html = `<section class="sidebar-block sidebar-cats">
+      <h2 class="sidebar-block-title">${t("分类", "Categories")}<span class="sidebar-block-sub">${t("本月", "This month")}</span></h2>
+      <div class="nav-stack compact-nav">`;
     for (const cat of manifest.categories || []) {
       const st = s.byCat[cat.id] || { total: 0, unread: 0 };
       if (st.total === 0) continue;
@@ -538,8 +588,9 @@
         <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
       </button>`;
     }
-    html += `</div><p class="panel-title">${t("标签（本月）", "Tags")}</p>
-      <p class="panel-hint">${t("未读/本月出现；全读显示置灰", "Unread/total; all-read grayed")}</p>
+    html += `</div></section>
+      <section class="sidebar-block sidebar-tags">
+      <h2 class="sidebar-block-title">${t("标签", "Tags")}<span class="sidebar-block-sub">${t("本月", "This month")}</span></h2>
       <div class="nav-scroll tags-scroll">`;
 
     const assigned = new Set();
@@ -581,7 +632,7 @@
       html += `</div></div>`;
     }
 
-    html += `</div>`;
+    html += `</div></section>`;
     el.innerHTML = html;
   }
 
@@ -615,6 +666,10 @@
       if (day) {
         const monthId = day.dataset.day.slice(0, 7);
         navigate(`#/${monthId}/day/${day.dataset.day}`);
+        return;
+      }
+      if (e.target.id === "btn-reset-month") {
+        resetMonthReadState();
         return;
       }
     });
