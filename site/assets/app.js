@@ -18,6 +18,10 @@
   let route = { month: "", view: "hub", date: "", tag: "", cat: "" };
   /** 主面板默认只看未读；关闭后显示全部（已读带 ✅） */
   let filterUnread = true;
+  const monthCache = {};
+  let expandedYears = new Set();
+  let expandedMonths = new Set();
+  const UI_STATE_KEY = "ai-daily-ui-v3";
 
   function asset(path) {
     return BASE + path.replace(/^\//, "");
@@ -203,10 +207,93 @@
   }
 
 
+
+  function persistUiState() {
+    sessionStorage.setItem(
+      UI_STATE_KEY,
+      JSON.stringify({
+        expandedYears: [...expandedYears],
+        expandedMonths: [...expandedMonths],
+      })
+    );
+  }
+
+  function initExpandState() {
+    const months = manifest?.months || [];
+    if (!months.length) return;
+    const latestMonth = months[0].id;
+    const latestYear = latestMonth.slice(0, 4);
+    try {
+      const saved = JSON.parse(sessionStorage.getItem(UI_STATE_KEY) || "{}");
+      const savedYears = saved.expandedYears || [];
+      const savedMonths = saved.expandedMonths || [];
+      if (savedYears.length && !savedYears.includes(latestYear)) {
+        expandedYears = new Set([latestYear]);
+        expandedMonths = new Set([latestMonth]);
+      } else if (savedMonths.length && !savedMonths.includes(latestMonth)) {
+        const newestSaved = savedMonths.reduce((a, b) => (a > b ? a : b), "");
+        if (latestMonth > newestSaved) {
+          expandedYears = new Set(savedYears.length ? savedYears : [latestYear]);
+          expandedMonths = new Set([latestMonth]);
+        } else {
+          expandedYears = new Set(savedYears.length ? savedYears : [latestYear]);
+          expandedMonths = new Set(savedMonths.length ? savedMonths : [latestMonth]);
+        }
+      } else {
+        expandedYears = new Set(savedYears.length ? savedYears : [latestYear]);
+        expandedMonths = new Set(savedMonths.length ? savedMonths : [latestMonth]);
+      }
+    } catch {
+      expandedYears = new Set([latestYear]);
+      expandedMonths = new Set([latestMonth]);
+    }
+    if (route.month) {
+      expandedYears.add(route.month.slice(0, 4));
+      expandedMonths.add(route.month);
+    }
+    persistUiState();
+  }
+
+  function toggleYear(year) {
+    if (expandedYears.has(year)) expandedYears.delete(year);
+    else expandedYears.add(year);
+    persistUiState();
+  }
+
+  function toggleMonth(monthId) {
+    if (expandedMonths.has(monthId)) expandedMonths.delete(monthId);
+    else expandedMonths.add(monthId);
+    persistUiState();
+  }
+
+  async function prefetchMonth(monthId) {
+    if (monthCache[monthId]) return monthCache[monthId];
+    try {
+      monthCache[monthId] = await fetchJSON(`data/monthly/${monthId}.json`);
+    } catch {
+      monthCache[monthId] = null;
+    }
+    return monthCache[monthId];
+  }
+
+  function dayStatsForMonth(monthId) {
+    const data = monthId === route.month && monthData ? monthData : monthCache[monthId];
+    if (!data?.items) return {};
+    const byDay = {};
+    for (const it of data.items) {
+      if (!byDay[it.date]) byDay[it.date] = { total: 0, unread: 0 };
+      byDay[it.date].total += 1;
+      if (isUnreadItem(it)) byDay[it.date].unread += 1;
+    }
+    return byDay;
+  }
+
+  function manifestDaysForMonth(monthId) {
+    return (manifest?.days || []).filter((d) => d.date.startsWith(monthId + "-"));
+  }
+
   function monthLabelFor(routeMonth) {
-    const m = (manifest?.months || []).find((x) => x.id === routeMonth);
-    if (!m) return routeMonth;
-    return lang === "zh" ? m.label_zh : m.label_en;
+    return routeMonth || "";
   }
 
   function renderFilterChips() {
@@ -297,6 +384,7 @@
     const lv = getLastVisit();
   const ml = monthLabelFor(route.month);
   return `<div class="dashboard-card dashboard-compact">
+      <p class="stat-latest">${t("最新简报", "Latest brief")}: <strong class="stat-latest-date">${manifest?.latest_date || "-"}</strong></p>
       <div class="stat-headline">
         <span class="stat-month-big">${escapeHtml(ml)}</span>
         <span class="stat-primary">
@@ -310,8 +398,7 @@
         · ${t("未读分布在", "Unread across")} <strong>${s.daysWithUnread}</strong> ${t("天", "days")}
         · <strong>${s.catsWithUnread}</strong> ${t("分类", "cat")}
         · <strong>${s.tagsWithUnread}</strong> ${t("标签", "tags")}</p>
-      <p class="stat-meta">${t("追平基准日", "Baseline")}: <strong>${lv || t("无", "none")}</strong>
-        · ${t("最新简报", "Latest")}: <strong>${manifest?.latest_date || "-"}</strong></p>
+      <p class="stat-meta">${t("追平基准日", "Baseline")}: <strong>${lv || t("无", "none")}</strong></p>
     </div>`;
   }
 
@@ -330,7 +417,7 @@
           if (!catItems.length) continue;
           const st = monthStats.byCat[cat.id] || { total: 0, unread: 0 };
           body += `<section class="category-block" id="sec-${cat.id}">
-            <h3>${cat.emoji} ${lang === "zh" ? cat.zh : cat.en}
+            <h3>${lang === "zh" ? cat.zh : cat.en}
               <span class="section-count">${countLabel(st.unread, st.total)}</span></h3>
             <div class="blog-list">${catItems.map(renderCard).join("")}</div></section>`;
         }
@@ -361,30 +448,73 @@
     el.innerHTML = `${backLink}<h2 class="view-title">${escapeHtml(title)}</h2>${subToolbar}<div class="blog-list">${list}</div>`;
   }
 
+  function monthsByYear() {
+    const map = new Map();
+    for (const m of manifest?.months || []) {
+      const year = m.id.slice(0, 4);
+      if (!map.has(year)) map.set(year, []);
+      map.get(year).push(m);
+    }
+    return map;
+  }
+
+  function monthNavStats(monthId) {
+    if (monthId === route.month && monthStats) {
+      return { unread: monthStats.unread, total: monthStats.total };
+    }
+    const data = monthCache[monthId];
+    if (!data?.items) return null;
+    let unread = 0;
+    let total = 0;
+    for (const it of data.items) {
+      total += 1;
+      if (isUnreadItem(it)) unread += 1;
+    }
+    return { unread, total };
+  }
+
   function renderLeftNav() {
     const el = document.getElementById("left-nav");
-    const s = monthStats;
     let html = `<p class="panel-title">${t("时间", "Timeline")}</p><div class="nav-scroll">`;
 
-    for (const m of manifest.months || []) {
-      const open = m.id === route.month;
-      const isCurrent = m.id === route.month;
-      const monthUnread = isCurrent ? s.unread : "—";
-      html += `<div class="month-group"><div class="month-title${open ? " open" : ""}" data-month-toggle="${m.id}">
-        <span>${lang === "zh" ? m.label_zh : m.label_en}</span>
-        ${isCurrent ? `<span class="nav-count">${monthUnread} ${t("未读", "unread")}</span>` : ""}
-        <span class="icon">▶</span></div><div class="month-days${open ? " open" : ""}">`;
+    for (const [year, months] of monthsByYear()) {
+      const yearOpen = expandedYears.has(year);
+      html += `<div class="year-group">
+        <div class="year-title${yearOpen ? " open" : ""}">
+          <button type="button" class="year-label" data-month-nav="${months[0].id}">${year}</button>
+          <button type="button" class="fold-btn" data-year-toggle="${year}" aria-expanded="${yearOpen}" aria-label="${t("展开/折叠年份", "Toggle year")}"><span class="fold-icon">▶</span></button>
+        </div>
+        <div class="year-months${yearOpen ? " open" : ""}">`;
 
-      if (isCurrent) {
-        const days = [...(monthData?.days || [])].sort((a, b) => b.date.localeCompare(a.date));
-        for (const d of days) {
-          const st = s.byDay[d.date] || { total: d.total, unread: 0 };
-          const active = route.view === "day" && route.date === d.date ? " active" : "";
-          html += `<button type="button" class="nav-item${active}" data-day="${d.date}">
-            <span>${d.date.slice(5)}</span>
-            <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
-          </button>`;
+      for (const m of months) {
+        const monthOpen = expandedMonths.has(m.id);
+        const isCurrent = m.id === route.month;
+        const mst = monthNavStats(m.id);
+        const monthUnread = mst ? mst.unread : "—";
+        html += `<div class="month-group">
+          <div class="month-title${monthOpen ? " open" : ""}${isCurrent ? " current" : ""}">
+            <button type="button" class="month-label" data-month-nav="${m.id}">${escapeHtml(m.id)}</button>
+            ${mst != null ? `<span class="nav-count ${monthUnread ? "" : "muted"}">${countLabel(monthUnread, mst.total)}</span>` : ""}
+            <button type="button" class="fold-btn" data-month-toggle="${m.id}" aria-expanded="${monthOpen}" aria-label="${t("展开/折叠月份", "Toggle month")}"><span class="fold-icon">▶</span></button>
+          </div>
+          <div class="month-days${monthOpen ? " open" : ""}">`;
+
+        if (monthOpen) {
+          const days =
+            m.id === route.month && monthData?.days
+              ? [...monthData.days].sort((a, b) => b.date.localeCompare(a.date))
+              : manifestDaysForMonth(m.id).sort((a, b) => b.date.localeCompare(a.date));
+          const dayStats = dayStatsForMonth(m.id);
+          for (const d of days) {
+            const st = dayStats[d.date] || { total: d.total || 0, unread: 0 };
+            const active = route.view === "day" && route.date === d.date ? " active" : "";
+            html += `<button type="button" class="nav-item${active}" data-day="${d.date}">
+              <span>${d.date.slice(8, 10) || d.date.slice(5)}</span>
+              <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
+            </button>`;
+          }
         }
+        html += `</div></div>`;
       }
       html += `</div></div>`;
     }
@@ -404,7 +534,7 @@
       if (st.total === 0) continue;
       const active = route.view === "cat" && route.cat === cat.id ? " active" : "";
       html += `<button type="button" class="nav-item${active}" data-cat="${cat.id}">
-        <span>${cat.emoji} ${lang === "zh" ? cat.zh : cat.en}</span>
+        <span>${lang === "zh" ? cat.zh : cat.en}</span>
         <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
       </button>`;
     }
@@ -443,9 +573,9 @@
       for (const tag of other) {
         const st = s.byTag[tag];
         const active = route.view === "tag" && route.tag === tag ? " active" : "";
-        html += `<button type="button" class="chip chip-tag${active}${unread === 0 ? " is-done" : ""}" data-tag-nav="${escapeHtml(tag)}">
+        html += `<button type="button" class="chip chip-tag${active}${st.unread === 0 ? " is-done" : ""}" data-tag-nav="${escapeHtml(tag)}">
           <span class="tag-name">${escapeHtml(tag)}</span>
-          <span class="nav-count ${st.unread ? "" : "muted"}">${st.unread}/${st.total}</span>
+          <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
         </button>`;
       }
       html += `</div></div>`;
@@ -459,19 +589,34 @@
     document.getElementById("btn-en")?.addEventListener("click", () => switchLang("en"));
     document.getElementById("btn-zh")?.addEventListener("click", () => switchLang("zh"));
 
-    document.getElementById("left-nav")?.addEventListener("click", (e) => {
+    document.getElementById("left-nav")?.addEventListener("click", async (e) => {
+      const yt = e.target.closest("[data-year-toggle]");
+      if (yt) {
+        e.preventDefault();
+        toggleYear(yt.dataset.yearToggle);
+        renderLeftNav();
+        return;
+      }
       const mt = e.target.closest("[data-month-toggle]");
       if (mt) {
-        navigate("#/" + mt.dataset.monthToggle);
+        e.preventDefault();
+        const monthId = mt.dataset.monthToggle;
+        toggleMonth(monthId);
+        if (expandedMonths.has(monthId) && monthId !== route.month) await prefetchMonth(monthId);
+        renderLeftNav();
+        return;
+      }
+      const mn = e.target.closest("[data-month-nav]");
+      if (mn) {
+        navigate("#/" + mn.dataset.monthNav);
         return;
       }
       const day = e.target.closest("[data-day]");
       if (day) {
-        navigate(`#/${route.month}/day/${day.dataset.day}`);
+        const monthId = day.dataset.day.slice(0, 7);
+        navigate(`#/${monthId}/day/${day.dataset.day}`);
         return;
       }
-      const cat = e.target.closest("[data-cat]");
-      if (cat) navigate(`#/${route.month}/cat/${encodeURIComponent(cat.dataset.cat)}`);
     });
 
     document.getElementById("tag-panel")?.addEventListener("click", (e) => {
@@ -549,10 +694,6 @@
     document.getElementById("btn-en")?.classList.toggle("active", lang === "en");
     document.getElementById("btn-zh")?.classList.toggle("active", lang === "zh");
     document.getElementById("page-title").textContent = lang === "zh" ? "AI 简报" : "AI Daily";
-    document.getElementById("page-desc").textContent =
-      lang === "zh"
-        ? "本月未读优先；数字均为未读/总数，可直接相加理解。"
-        : "Unread-first this month; counts are unread/total.";
     render();
   }
 
@@ -564,7 +705,11 @@
   async function render() {
     parseRoute();
     if (!route.month && manifest?.months?.length) route.month = manifest.months[0].id;
+    initExpandState();
     if (route.month) await loadMonth(route.month);
+    for (const monthId of expandedMonths) {
+      if (monthId !== route.month) await prefetchMonth(monthId);
+    }
     renderLeftNav();
     renderTagPanel();
     renderMain();
