@@ -24,7 +24,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-002",
@@ -42,7 +44,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-003",
@@ -60,7 +64,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-004",
@@ -78,7 +84,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-005",
@@ -96,7 +104,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-006",
@@ -114,7 +124,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-007",
@@ -132,7 +144,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-008",
@@ -150,7 +164,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-009",
@@ -168,7 +184,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-010",
@@ -186,7 +204,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-011",
@@ -204,7 +224,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-012",
@@ -222,7 +244,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-013",
@@ -240,7 +264,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-014",
@@ -252,13 +278,15 @@
         "en": "A growing number of execs are creating AI digital twins to manage tasks; Reid Hoffman says “Reid AI” has delivered 75+ addresses and presentations since 2024"
       },
       "summary": {
-        "zh": "越来越多的高管开始使用AI数字孪生体来处理任务。里德·霍夫曼透露，他的“Reid AI”自2024年以来已完成超过75次演讲和报告。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-015",
@@ -276,7 +304,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-016",
@@ -294,7 +324,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-017",
@@ -312,7 +344,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-018",
@@ -330,7 +364,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-019",
@@ -348,7 +384,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-020",
@@ -366,7 +404,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-021",
@@ -384,7 +424,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-022",
@@ -396,13 +438,15 @@
         "en": "SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company's stakes in OpenAI and SB Energy Corp if they go public"
       },
       "summary": {
-        "zh": "软银股价周一上涨4.6%创历史新高，主要受市场对其在OpenAI和SB能源公司股份上市后可能获得高额回报的预期推动。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-023",
@@ -420,7 +464,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-024",
@@ -438,7 +484,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-025",
@@ -450,13 +498,15 @@
         "en": "The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting"
       },
       "summary": {
-        "zh": "美国联邦贸易委员会（FTC）与Cox、MindSift和1010 Digital Works达成93万美元的和解协议，因这些公司虚假声称可以利用手机麦克风监视用户以进行广告定位。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-026",
@@ -474,7 +524,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-027",
@@ -492,7 +544,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-028",
@@ -504,13 +558,15 @@
         "en": "Massachusetts formally recognizes the App Drivers Union, which says it represents ~70,000 workers and is the first state-certified rideshare union in the US"
       },
       "summary": {
-        "zh": "马萨诸塞州正式承认应用司机工会，该工会声称代表约7万名工人，成为美国首个获得州认证的网约车工会。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-029",
@@ -528,7 +584,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-030",
@@ -546,7 +604,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-031",
@@ -564,7 +624,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-032",
@@ -582,7 +644,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-033",
@@ -594,13 +658,15 @@
         "en": "How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets"
       },
       "summary": {
-        "zh": "报道揭示了特朗普政府如何削弱商品期货交易委员会（CFTC），包括撤换执法人员并任命对行业友好的官员，同时特朗普家族开始涉足加密货币和预测市场。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-034",
@@ -612,13 +678,15 @@
         "en": "Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference"
       },
       "summary": {
-        "zh": "一项研究显示，自2023年以来，生物医学论文中伪造引用的比例显著增加，到2026年初，每277篇论文中就有一篇至少包含一个不存在的引用。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-035",
@@ -636,7 +704,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     }
   ]
 }

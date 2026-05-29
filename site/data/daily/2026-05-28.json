@@ -34,7 +34,13 @@
         "opus"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "opus"
+      ],
+      "category_tag": "cat:model"
     },
     {
       "id": "TM-02",
@@ -55,7 +61,12 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-04",
@@ -75,7 +86,11 @@
         "apple"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "apple"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TM-06",
@@ -87,7 +102,7 @@
         "en": "YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an “Auto speed” setting, and a new on-the-go listening mode"
       },
       "summary": {
-        "zh": "YouTube 推出了多项新的 Premium 播客功能，包括 AI 驱动的推荐工具、“自动速度”设置以及新的移动收听模式。",
+        "zh": "",
         "en": "YouTube introduces new Premium podcast features like AI recommendations, 'Auto speed,' and on-the-go listening mode."
       },
       "tags": [
@@ -95,7 +110,11 @@
         "google"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "google"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TM-08",
@@ -118,7 +137,14 @@
         "agent"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "openai",
+        "coding",
+        "agent"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TM-10",
@@ -139,7 +165,12 @@
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-12",
@@ -152,7 +183,7 @@
       },
       "summary": {
         "zh": "Mistral 表示正在加速超级智能开发，以确保欧洲的技术独立，并已与空客和宝马达成供应协议。",
-        "en": "Mistral accelerates superintelligence development to ensure Europe's independence from US tech giants, signing deals with Airbus and BMW."
+        "en": ""
       },
       "tags": [
         "cat:business",
@@ -160,7 +191,12 @@
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-13",
@@ -181,7 +217,12 @@
         "open-source"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "ibm",
+        "open-source"
+      ],
+      "category_tag": "cat:tech"
     },
     {
       "id": "TM-15",
@@ -202,7 +243,12 @@
         "startup"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "enterprise",
+        "startup"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-17",
@@ -222,7 +268,11 @@
         "chip"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "chip"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-18",
@@ -234,8 +284,8 @@
         "en": "Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease"
       },
       "summary": {
-        "zh": "消息人士透露，Apollo Global和Blackstone正在努力吸引更多投资者参与一项约360亿美元的债务融资交易，以购买Google的TPU供Anthropic租赁使用。",
-        "en": "Sources say Apollo Global and Blackstone are seeking additional investors for a ~$36B debt financing deal to acquire Google TPUs for Anthropic to lease."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:business",
@@ -245,7 +295,14 @@
         "gpu"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "google",
+        "chip",
+        "gpu"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-19",
@@ -258,7 +315,7 @@
       },
       "summary": {
         "zh": "全球对AI硬件的需求激增，推动中国AI硬件出口增长，同时芯片设备进口也有所增加，这缓解了人民币升值对出口的潜在影响。",
-        "en": "Rising global AI hardware demand is alleviating China's concerns about a stronger yuan impacting exports, as AI hardware exports and chip equipment imports surge."
+        "en": ""
       },
       "tags": [
         "cat:other",
@@ -266,7 +323,12 @@
         "gpu"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "gpu"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-20",
@@ -278,7 +340,7 @@
         "en": "Taiwanese tech companies have completed a record $14.5B of debt deals so far in 2026, as they race to secure financing to meet soaring demand for AI capacity"
       },
       "summary": {
-        "zh": "台湾科技公司在2026年迄今完成了创纪录的145亿美元债务交易，以确保资金满足不断增长的AI计算能力需求。",
+        "zh": "",
         "en": "Taiwanese tech firms have completed a record $14.5B in debt deals in 2026 to secure financing for rising AI capacity demands."
       },
       "tags": [
@@ -287,7 +349,12 @@
         "gpu"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "gpu"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-21",
@@ -299,15 +366,19 @@
         "en": "Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies"
       },
       "summary": {
-        "zh": "企业正在印度的全球能力中心利用AI技术，将更多创意工作内化，从而缩短交付时间并减少对外部广告公司的依赖。",
-        "en": "Companies are leveraging AI at their global capability centers in India to internalize creative work, reducing turnaround times and reliance on ad agencies."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:app",
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "enterprise"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TM-22",
@@ -319,7 +390,7 @@
         "en": "Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 8%+ after hours"
       },
       "summary": {
-        "zh": "Okta报告其第一季度收入同比增长11%，达到7.65亿美元，高于市场预期的7.52亿美元，并表示代理AI的建设显著增加了对其身份工具的需求，推动股价盘后上涨超过8%。",
+        "zh": "",
         "en": "Okta reports Q1 revenue of $765M, up 11% YoY and above estimates, citing agentic AI build-out driving demand for its identity tools; shares rise 8%+ after hours."
       },
       "tags": [
@@ -328,7 +399,12 @@
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-23",
@@ -340,15 +416,19 @@
         "en": "Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026"
       },
       "summary": {
-        "zh": "快手报告其第一季度收入同比增长3.4%，达到约50亿美元，同时Kling AI收入同比增长超过300%，达到约9600万美元，并在2026年3月实现了约5亿美元的年化收入运行率。",
-        "en": "Kuaishou reports Q1 revenue of ~$5B, up 3.4% YoY, and Kling AI revenue up 300%+ YoY to ~$96M, reaching a ~$500M annualized revenue run rate in March 2026."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:business",
         "bytedance"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "bytedance"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-26",
@@ -369,7 +449,12 @@
         "chip"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "bytedance",
+        "chip"
+      ],
+      "category_tag": "cat:tech"
     },
     {
       "id": "TM-27",
@@ -381,8 +466,8 @@
         "en": "Doc: the EU is preparing emergency powers to intervene in Europe's chip supply chains during shortages, including by forcing chipmakers to override contracts"
       },
       "summary": {
-        "zh": "一份文件显示，欧盟正在准备紧急权力，以便在芯片短缺期间干预欧洲的芯片供应链，包括强制芯片制造商修改现有合同。",
-        "en": "The EU is preparing emergency powers to intervene in chip supply chains during shortages, potentially forcing chipmakers to override contracts."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:other",
@@ -390,7 +475,12 @@
         "chip"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "chip"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-28",
@@ -403,7 +493,7 @@
       },
       "summary": {
         "zh": "分析指出，费城半导体指数今年迄今上涨约75%，追踪了30家美国顶级芯片制造商的表现，有望创下自1999年以来的最大年度涨幅。",
-        "en": "The Philadelphia Semiconductor Index, tracking 30 top US-listed chipmakers, is up ~75% YTD, heading for its largest annual gain since 1999."
+        "en": ""
       },
       "tags": [
         "cat:other",
@@ -411,7 +501,12 @@
         "gpu"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "gpu"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-31",
@@ -423,7 +518,7 @@
         "en": "As Google plans to build a $15B AI data center hub in Visakhapatnam, India, locals and rights groups are raising concerns over “extremely high” water stress"
       },
       "summary": {
-        "zh": "谷歌计划在印度维沙卡帕特南投资150亿美元建设AI数据中心，但当地居民和权益团体对可能带来的“极高”水资源压力表示担忧。",
+        "zh": "",
         "en": "Google's $15B AI data center plan in Visakhapatnam, India, raises concerns among locals and rights groups over 'extremely high' water stress."
       },
       "tags": [
@@ -433,7 +528,13 @@
         "energy"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "google",
+        "data-center",
+        "energy"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-32",
@@ -454,7 +555,12 @@
         "energy"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "data-center",
+        "energy"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-34",
@@ -466,8 +572,8 @@
         "en": "IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029"
       },
       "summary": {
-        "zh": "IBM宣布将在未来五年内投资超过100亿美元于量子计算，目标是在2029年前建成首台大规模、无误差的量子计算机。",
-        "en": "IBM plans to invest $10B in quantum computing over five years to build the first large-scale, error-free quantum computer by 2029."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:tech",
@@ -475,7 +581,12 @@
         "quantum"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "ibm",
+        "quantum"
+      ],
+      "category_tag": "cat:tech"
     },
     {
       "id": "TM-35",
@@ -487,8 +598,8 @@
         "en": "UK researchers gain access to Google's Willow quantum chip, which it says solves a problem in five minutes that would take supercomputers 10 septillion years"
       },
       "summary": {
-        "zh": "英国研究人员获得了谷歌Willow量子芯片的使用权。谷歌表示，该芯片能在5分钟内解决超级计算机需要10万亿亿年才能完成的问题。",
-        "en": "UK researchers access Google's Willow quantum chip, which reportedly solves a problem in 5 minutes that would take supercomputers 10 septillion years."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:tech",
@@ -496,7 +607,12 @@
         "quantum"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "google",
+        "quantum"
+      ],
+      "category_tag": "cat:tech"
     },
     {
       "id": "TM-38",
@@ -509,7 +625,7 @@
       },
       "summary": {
         "zh": "美国商品期货交易委员会（CFTC）决定撤销与Gemini的500万美元和解协议，推翻了拜登政府时期的一项执法行动。这一决定是在Winklevoss兄弟的游说活动后作出的。",
-        "en": "The CFTC vacates a $5M settlement with Gemini, reversing a Biden-era enforcement action after lobbying by the Winklevoss twins."
+        "en": ""
       },
       "tags": [
         "cat:other",
@@ -517,7 +633,12 @@
         "policy"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "gemini",
+        "policy"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-40",
@@ -529,15 +650,19 @@
         "en": "California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US"
       },
       "summary": {
-        "zh": "加州总检察长Rob Bonta对23andMe提起诉讼，指控其未能保护用户敏感数据。2023年的数据泄露事件影响了全美约700万人。",
-        "en": "California AG Rob Bonta sues 23andMe for failing to protect sensitive user data in a 2023 breach affecting ~7M people in the US."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:other",
         "policy"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-42",
@@ -549,8 +674,8 @@
         "en": "Filing: Amazon will acquire Apple's 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger"
       },
       "summary": {
-        "zh": "文件显示，亚马逊计划收购苹果在Globalstar的20%股份，作为其收购该卫星提供商的一部分，并将成立一家子公司来完成合并。",
-        "en": "Amazon will acquire Apple's 20% stake in Globalstar as part of its satellite provider acquisition and create a subsidiary for the merger."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:business",
@@ -559,7 +684,13 @@
         "acquisition"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "amazon",
+        "apple",
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-43",
@@ -571,7 +702,7 @@
         "en": "Autodesk agrees to buy MaintainX, a company focused on maintenance tools, in an all-cash deal that values MaintainX at $3.6B"
       },
       "summary": {
-        "zh": "Autodesk宣布将以全现金交易收购专注于维护工具的公司MaintainX，此次交易对MaintainX的估值为36亿美元。",
+        "zh": "",
         "en": "Autodesk agrees to acquire MaintainX, a maintenance tools company, in an all-cash deal valued at $3.6B."
       },
       "tags": [
@@ -579,7 +710,11 @@
         "acquisition"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-44",
@@ -591,7 +726,7 @@
         "en": "The European Commission opens a full review of JD.com's €2.2B acquisition of Germany-based electronics retailer Ceconomy under its Foreign Subsidies Regulation"
       },
       "summary": {
-        "zh": "欧盟委员会根据《外国补贴条例》对京东以22亿欧元收购德国电子零售商Ceconomy的交易展开全面审查。",
+        "zh": "",
         "en": "The European Commission launches a full review of JD.com's €2.2B acquisition of Ceconomy under the Foreign Subsidies Regulation."
       },
       "tags": [
@@ -600,7 +735,12 @@
         "acquisition"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "acquisition"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-45",
@@ -622,7 +762,13 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "gpu",
+        "nvidia",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-46",
@@ -634,7 +780,7 @@
         "en": "Fonoa, which helps enterprises manage indirect tax compliance, raised a $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform"
       },
       "summary": {
-        "zh": "Fonoa宣布完成由Headline领投的1.1亿美元C轮融资，并收购了普华永道的间接税务管理平台Indirect Tax Edge。",
+        "zh": "",
         "en": "Fonoa raised $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform to enhance its tax compliance solutions."
       },
       "tags": [
@@ -644,7 +790,13 @@
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "acquisition",
+        "startup",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-47",
@@ -665,7 +817,12 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-48",
@@ -686,7 +843,12 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-49",
@@ -707,7 +869,12 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-50",
@@ -720,7 +887,7 @@
       },
       "summary": {
         "zh": "Reactor声称其AI平台能够以接近零延迟的速度实时生成视频，公司近日从隐身模式中走出，并完成了由Lightspeed领投的5900万美元A轮融资。",
-        "en": "Reactor, claiming its AI platform generates real-time videos with near-zero latency, emerged from stealth with a $59M Series A led by Lightspeed."
+        "en": ""
       },
       "tags": [
         "cat:business",
@@ -729,7 +896,13 @@
         "video-gen"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "video-gen"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-51",
@@ -751,7 +924,13 @@
         "safety"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "safety"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-52",
@@ -764,7 +943,7 @@
       },
       "summary": {
         "zh": "Saris开发AI代理以自动化银行和信用社的后台工作，近日完成由8VC领投的2880万美元A轮融资。",
-        "en": "Saris, developing AI agents to automate back-office tasks for banks and credit unions, raised $28.8M in Series A led by 8VC."
+        "en": ""
       },
       "tags": [
         "cat:business",
@@ -773,7 +952,13 @@
         "agent"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-55",
@@ -793,7 +978,11 @@
         "autonomous-driving"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TM-57",
@@ -815,7 +1004,13 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "snowflake",
+        "amazon",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-58",
@@ -835,7 +1030,11 @@
         "policy"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TM-61",
@@ -856,7 +1055,12 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TM-64",
@@ -877,7 +1081,12 @@
         "funding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TL-01",
@@ -897,7 +1106,11 @@
         "startup"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TL-02",
@@ -916,7 +1129,9 @@
         "cat:model"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "TL-03",
@@ -935,7 +1150,9 @@
         "cat:model"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "TL-04",
@@ -958,7 +1175,14 @@
         "pricing"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "api",
+        "pricing"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TL-05",
@@ -980,7 +1204,13 @@
         "agent"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "codex",
+        "agent"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TL-06",
@@ -1001,7 +1231,12 @@
         "training"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "huggingface",
+        "training"
+      ],
+      "category_tag": "cat:tech"
     },
     {
       "id": "TL-07",
@@ -1022,7 +1257,12 @@
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "enterprise"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TL-08",
@@ -1042,7 +1282,11 @@
         "open-source"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "open-source"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TL-09",
@@ -1063,7 +1307,12 @@
         "multimodal"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "multimodal"
+      ],
+      "category_tag": "cat:tech"
     },
     {
       "id": "TL-10",
@@ -1083,7 +1332,11 @@
         "coding"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "coding"
+      ],
+      "category_tag": "cat:model"
     },
     {
       "id": "TL-11",
@@ -1104,7 +1357,12 @@
         "chip"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TL-12",
@@ -1124,7 +1382,11 @@
         "video-gen"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "video-gen"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TL-13",
@@ -1144,7 +1406,11 @@
         "startup"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:business"
     },
     {
       "id": "TL-15",
@@ -1166,7 +1432,13 @@
         "demis-hassabis"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "google",
+        "deepmind",
+        "demis-hassabis"
+      ],
+      "category_tag": "cat:other"
     },
     {
       "id": "TL-17",
@@ -1188,7 +1460,13 @@
         "enterprise"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "enterprise"
+      ],
+      "category_tag": "cat:app"
     },
     {
       "id": "TL-19",
@@ -1201,7 +1479,7 @@
       },
       "summary": {
         "zh": "Anthropic 计划将 Claude 的语音模式扩展到 18 种新语言。",
-        "en": "Anthropic plans to expand Claude's voice mode to 18 new languages."
+        "en": ""
       },
       "tags": [
         "cat:app",
@@ -1210,7 +1488,13 @@
         "voice"
       ],
       "tweets": [],
-      "score": null
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "voice"
+      ],
+      "category_tag": "cat:app"
     }
   ]
 }

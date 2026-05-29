@@ -24,7 +24,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-002",
@@ -42,7 +44,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-003",
@@ -60,7 +64,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-004",
@@ -78,7 +84,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-005",
@@ -96,7 +104,9 @@
       "tags": [
         "cat:model"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:model"
     },
     {
       "id": "LEGACY-006",
@@ -114,7 +124,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-007",
@@ -132,7 +144,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-008",
@@ -144,13 +158,15 @@
         "en": "Pwn2Own Berlin 2026: participants earned a total of $1,298,250 for 47 vulnerabilities, with successful exploits of AI products like Codex, Cursor, and LM Studio"
       },
       "summary": {
-        "zh": "在Pwn2Own柏林2026比赛中，参与者因发现47个漏洞获得了超过129万美元的奖励，其中包括成功利用了Codex、Cursor和LM Studio等AI产品的漏洞。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-009",
@@ -168,7 +184,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-010",
@@ -180,13 +198,15 @@
         "en": "Companies running bug bounty programs are adding more stringent background checks and building AI agents to triage a flood of low-quality, AI-generated reports"
       },
       "summary": {
-        "zh": "许多运行漏洞赏金计划的公司正在加强背景调查，并开发AI代理以应对大量低质量的AI生成报告。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-011",
@@ -204,7 +224,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-012",
@@ -222,7 +244,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-013",
@@ -240,7 +264,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-014",
@@ -258,7 +284,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-015",
@@ -276,7 +304,9 @@
       "tags": [
         "cat:tech"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:tech"
     },
     {
       "id": "LEGACY-016",
@@ -294,7 +324,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-017",
@@ -312,7 +344,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-018",
@@ -330,7 +364,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-019",
@@ -348,7 +384,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-020",
@@ -366,7 +404,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-021",
@@ -384,7 +424,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-022",
@@ -402,7 +444,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-023",
@@ -414,13 +458,15 @@
         "en": "After EV maker Fisker's collapse, ~4,000 car owners formed a nonprofit to keep their cars working by reverse-engineering software and building open-source tools"
       },
       "summary": {
-        "zh": "在电动车制造商 Fisker 倒闭后，约 4000 名车主联合成立了一个非营利组织，通过逆向工程软件和开发开源工具来确保他们的车辆能够继续运行。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-024",
@@ -438,7 +484,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-025",
@@ -456,7 +504,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-026",
@@ -474,7 +524,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-027",
@@ -492,7 +544,9 @@
       "tags": [
         "cat:app"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:app"
     },
     {
       "id": "LEGACY-028",
@@ -504,13 +558,15 @@
         "en": "Samsung's shares closed up 3.88% after the company resumed talks with its union and a court partially granted an injunction against illegal union actions"
       },
       "summary": {
-        "zh": "三星股价上涨3.88%，原因是公司恢复了与工会的谈判，同时法院部分批准了针对非法工会行动的禁令。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-029",
@@ -528,7 +584,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-030",
@@ -546,7 +604,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-031",
@@ -564,7 +624,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-032",
@@ -576,13 +638,15 @@
         "en": "Uber increases its stake in Delivery Hero to 19.5%, up from 7% in April, and says it “has no intent to acquire 30% or more” of Delivery Hero's voting rights"
       },
       "summary": {
-        "zh": "Uber将其在Delivery Hero的股份从4月的7%增至19.5%，但表示无意进一步收购30%或以上的投票权。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-033",
@@ -600,7 +664,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-034",
@@ -618,7 +684,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-035",
@@ -636,7 +704,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-036",
@@ -654,7 +724,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-037",
@@ -666,13 +738,15 @@
         "en": "Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release"
       },
       "summary": {
-        "zh": "史蒂夫·班农和 60 多名特朗普的盟友签署了一封由 Humans First 发起的公开信，呼吁特朗普政府在发布强大的 AI 模型之前进行严格的测试和批准。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-038",
@@ -690,7 +764,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-039",
@@ -708,7 +784,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-040",
@@ -726,7 +804,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-041",
@@ -744,7 +824,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-042",
@@ -756,13 +838,15 @@
         "en": "Arkham: Iran's largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February"
       },
       "summary": {
-        "zh": "根据Arkham的报告，伊朗最大的加密货币交易所Nobitex自2023年以来通过Tron和BNB链处理了超过23亿美元的交易，其中自伊朗战争开始以来处理了超过2300万美元。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-043",
@@ -774,13 +858,15 @@
         "en": "Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela"
       },
       "summary": {
-        "zh": "消息人士透露，美国当局最近几个月向预测市场平台Kalshi和Polymarket发出了多项信息请求，这些请求主要与伊朗和委内瑞拉的事件投注有关。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-044",
@@ -798,7 +884,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-045",
@@ -816,7 +904,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-046",
@@ -828,13 +918,15 @@
         "en": "Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal"
       },
       "summary": {
-        "zh": "消息人士称，AI芯片设计公司Tenstorrent吸引了Intel和Qualcomm的收购兴趣，潜在交易中Tenstorrent的估值可能超过50亿美元。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-047",
@@ -852,7 +944,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-048",
@@ -870,7 +964,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-049",
@@ -888,7 +984,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-050",
@@ -906,7 +1004,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-051",
@@ -924,7 +1024,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-052",
@@ -942,7 +1044,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-053",
@@ -960,7 +1064,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-054",
@@ -972,13 +1078,15 @@
         "en": "How gambling companies like FanDuel and DraftKings, as well as Meta and a16z's founders, are pouring millions into state-level election campaigns via super PACs"
       },
       "summary": {
-        "zh": "博彩公司 FanDuel 和 DraftKings，以及 Meta 和 a16z 的创始人，通过超级政治行动委员会向州级选举活动投入了数百万美元。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-055",
@@ -990,13 +1098,15 @@
         "en": "Procurement records: the FBI seeks a vendor that can provide access to automated license plate readers nationwide; Flock and Motorola are among the few options"
       },
       "summary": {
-        "zh": "根据采购记录，FBI 正在寻找能够提供全国范围内自动车牌识别器访问权限的供应商，目前 Flock 和 Motorola 是为数不多的选择之一。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-056",
@@ -1014,7 +1124,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-057",
@@ -1032,7 +1144,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-058",
@@ -1050,7 +1164,9 @@
       "tags": [
         "cat:business"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:business"
     },
     {
       "id": "LEGACY-059",
@@ -1068,7 +1184,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-060",
@@ -1080,13 +1198,15 @@
         "en": "Eric Schmidt faced loud boos during his University of Arizona commencement speech while discussing “rational” fears over the impact of AI and automation on jobs"
       },
       "summary": {
-        "zh": "埃里克·施密特在亚利桑那大学的毕业典礼演讲中，因提到对AI和自动化对就业影响的“理性”担忧而遭到观众的强烈嘘声。",
+        "zh": "",
         "en": ""
       },
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-061",
@@ -1104,7 +1224,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-062",
@@ -1122,7 +1244,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-063",
@@ -1140,7 +1264,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     },
     {
       "id": "LEGACY-064",
@@ -1158,7 +1284,9 @@
       "tags": [
         "cat:other"
       ],
-      "tweets": []
+      "tweets": [],
+      "entity_tags": [],
+      "category_tag": "cat:other"
     }
   ]
 }

@@ -23,4 +23,4 @@ LLM 输出经 `normalize_tags()` 归一化；未命中允许列表的候选会�
 
 ## 筛选分数
 
-`filter_*.json` 中 `score` 为 0–10（LLM + 规则）。默认 `keep = score >= 6`。请根据实际日报密度在 `filter_scorer.py --threshold` 或 workflow 中调整。
+`filter_*.json` 中 `score` 为 0–10（LLM + 规则）。默认 `keep = score >= 7`。请根据实际日报密度在 `filter_scorer.py --threshold` 或 workflow 中调整。

@@ -1,6 +1,8 @@
 {
   "site_name": "AI Daily",
+  "blog_url": "../",
   "base_path": "/ai-daily/",
+  "latest_date": "2026-05-28",
   "categories": [
     {
       "id": "cat:model",
@@ -42,7 +44,54 @@
       "sources": [
         "Techmeme"
       ],
-      "path": "data/daily/2026-05-28.json"
+      "path": "data/daily/2026-05-28.json",
+      "month": "2026-05"
+    },
+    {
+      "date": "2026-05-26",
+      "title_zh": "AI 简报 2026-05-26",
+      "title_en": "AI Daily 2026-05-26",
+      "total": 34,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-26.json",
+      "month": "2026-05"
+    },
+    {
+      "date": "2026-05-25",
+      "title_zh": "AI 简报 2026-05-25",
+      "title_en": "AI Daily 2026-05-25",
+      "total": 35,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-25.json",
+      "month": "2026-05"
+    },
+    {
+      "date": "2026-05-19",
+      "title_zh": "AI 简报 2026-05-19",
+      "title_en": "AI Daily 2026-05-19",
+      "total": 64,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-05-19.json",
+      "month": "2026-05"
+    }
+  ],
+  "months": [
+    {
+      "id": "2026-05",
+      "year": "2026",
+      "month": "05",
+      "label_zh": "2026年5月",
+      "label_en": "2026 / May",
+      "day_count": 4,
+      "item_count": 190,
+      "latest_date": "2026-05-19",
+      "path": "data/monthly/2026-05.json"
     }
   ],
   "category_labels": {

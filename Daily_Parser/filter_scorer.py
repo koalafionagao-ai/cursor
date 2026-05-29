@@ -18,9 +18,8 @@ from common.dates import parse_date_list  # noqa: E402
 from common.llm import MINI_MODEL, run_batches  # noqa: E402
 from common.schema import BlocksFile, FilterEntry, FilterReport  # noqa: E402
 
-DEFAULT_THRESHOLD = 6.0
+DEFAULT_THRESHOLD = 7.0
 BATCH_SIZE = 25
-
 
 FILTER_SYSTEM = """你是资深 AI 产品经理，负责从大量英文 AI 资讯中筛选「对从业者有价值」的条目。
 
@@ -43,7 +42,6 @@ def block_to_text(item) -> str:
 
 
 def rule_prefilter(items: list) -> dict[str, float]:
-    """规则：空标题、过短摘要降分。"""
     penalties: dict[str, float] = {}
     for it in items:
         t = (it.title or "").strip()
@@ -70,7 +68,6 @@ def process_date(date_str: str, threshold: float, dry_run: bool) -> None:
 
     penalties = rule_prefilter(blocks.items)
     text_blocks = [block_to_text(it) for it in blocks.items]
-
     entries: list[FilterEntry] = []
 
     if dry_run:
@@ -85,6 +82,7 @@ def process_date(date_str: str, threshold: float, dry_run: bool) -> None:
                 )
             )
     else:
+
         def build_user(batch: list[str]) -> str:
             return "请为以下每条新闻打分：\n\n---\n\n".join(batch)
 
@@ -136,7 +134,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", nargs="*", default=[])
     parser.add_argument("--threshold", type=float, default=DEFAULT_THRESHOLD)
-    parser.add_argument("--dry-run", action="store_true", help="不调 LLM，用于本地结构测试")
+    parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     for d in parse_date_list(args.date):
