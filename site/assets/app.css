@@ -186,3 +186,27 @@ body {
 .chip-tag { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; }
 .chip-tag .tag-name { max-width: 120px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .chip-ghost { background: transparent; border-style: dashed; }
+
+
+/* toolbar split: filter vs actions */
+.toolbar { justify-content: space-between; }
+.toolbar-left, .toolbar-right { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+.chip.action { background: transparent; border-style: dashed; }
+.chip.action:hover { border-style: solid; }
+.chip.danger { border-color: var(--unread-dot); color: var(--unread-dot); }
+.chip.danger:hover { background: var(--unread-dot); color:#fff; }
+.section-count { white-space: nowrap; }
+
+.view-title-row{display:flex;flex-wrap:wrap;align-items:baseline;gap:10px;margin:0 0 14px;}
+.view-title-row h2{margin:0;font-size:1.2rem;font-weight:600;}
+.view-title-row .subcount{font-size:0.9rem;color:var(--text-muted);}
+
+.tag-cloud{gap:6px;}
+.chip-tag{padding:4px 10px;}
+
+.stat-month{font-size:0.82rem;color:var(--text-muted);margin:0 0 10px;}
+
+.sidebar-left .toolbar{margin-bottom:14px;}
+.sidebar-left .chip{padding:5px 10px;font-size:0.75rem;}
+.sidebar-right .toolbar{margin:8px 0 14px;}
+.sidebar-right .chip{padding:5px 10px;font-size:0.75rem;}
