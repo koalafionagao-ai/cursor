@@ -38,41 +38,11 @@
       "date": "2026-05-28",
       "title_zh": "AI 简报 2026-05-28",
       "title_en": "AI Daily 2026-05-28",
-      "total": 41,
+      "total": 57,
       "sources": [
         "Techmeme"
       ],
       "path": "data/daily/2026-05-28.json"
-    },
-    {
-      "date": "2026-05-26",
-      "title_zh": "AI 简报 2026-05-26",
-      "title_en": "AI Daily 2026-05-26",
-      "total": 34,
-      "sources": [
-        "Techmeme"
-      ],
-      "path": "data/daily/2026-05-26.json"
-    },
-    {
-      "date": "2026-05-25",
-      "title_zh": "AI 简报 2026-05-25",
-      "title_en": "AI Daily 2026-05-25",
-      "total": 35,
-      "sources": [
-        "Techmeme"
-      ],
-      "path": "data/daily/2026-05-25.json"
-    },
-    {
-      "date": "2026-05-19",
-      "title_zh": "AI 简报 2026-05-19",
-      "title_en": "AI Daily 2026-05-19",
-      "total": 64,
-      "sources": [
-        "Techmeme"
-      ],
-      "path": "data/daily/2026-05-19.json"
     }
   ],
   "category_labels": {

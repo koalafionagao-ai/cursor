@@ -2,505 +2,505 @@
   "date": "2026-05-28",
   "threshold": 6.0,
   "total": 83,
-  "kept": 0,
+  "kept": 57,
   "items": [
     {
       "id": "TM-01",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.5,
+      "keep": true,
+      "reason": "Anthropic的新模型Opus 4.8在不支持的声明方面有所改进，值得关注。"
     },
     {
       "id": "TM-02",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.5,
+      "keep": true,
+      "reason": "Anthropic融资65亿美元，估值超越OpenAI，显示出行业竞争格局的重大变化。"
     },
     {
       "id": "TM-03",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Dell的财报表现良好，但信息较为常规，未涉及AI相关内容。"
     },
     {
       "id": "TM-04",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "苹果Siri的重大改版可能影响用户体验，但信息量有限。"
     },
     {
       "id": "TM-05",
-      "score": 5.0,
+      "score": 3.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "与AI关系不大，主要涉及安全威胁报告。"
     },
     {
       "id": "TM-06",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "YouTube推出AI推荐工具等新功能，显示出产品的创新和应用潜力。"
     },
     {
       "id": "TM-07",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "关于罚款的消息较为常规，未涉及AI核心内容。"
     },
     {
       "id": "TM-08",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic和OpenAI在编码代理方面找到市场契合点，表明AI工具的实际应用价值。"
     },
     {
       "id": "TM-09",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Visa对Replit的投资值得关注，但信息量有限。"
     },
     {
       "id": "TM-10",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta计划在企业客户中嵌入工程师，显示出其AI工具的市场应用策略。"
     },
     {
       "id": "TM-11",
-      "score": 5.0,
+      "score": 3.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "关于亚马逊内部管理的消息与AI关系不大。"
     },
     {
       "id": "TM-12",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Mistral加速超级智能开发，显示出对欧洲技术独立性的重视。"
     },
     {
       "id": "TM-13",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.0,
+      "keep": true,
+      "reason": "IBM和Red Hat投资50亿美元建立开源软件模型，具有重要行业影响。"
     },
     {
       "id": "TM-14",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "JD.com创始人的声明与AI关系不大，主要是公司内部管理。"
     },
     {
       "id": "TM-15",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Kirkland & Ellis投资5亿美元建立AI平台，显示出法律行业对AI的重视。"
     },
     {
       "id": "TM-16",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "上海期货交易所设计AI代币期货合约，信息量一般。"
     },
     {
       "id": "TM-17",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "AI需求激增导致光学供应链短缺，反映出行业趋势。"
     },
     {
       "id": "TM-18",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Apollo Global和Blackstone的融资交易显示出对AI硬件的强烈需求。"
     },
     {
       "id": "TM-19",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "全球AI硬件需求的变化对中国出口的影响，信息量一般。"
     },
     {
       "id": "TM-20",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "台湾科技公司为满足AI需求进行债务融资，显示出市场动态。"
     },
     {
       "id": "TM-21",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "公司在印度利用AI提升创意工作效率，反映出AI的实际应用。"
     },
     {
       "id": "TM-22",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "Okta的财报显示AI工具需求上升，但信息较为常规。"
     },
     {
       "id": "TM-23",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "Kuaishou的财报表现良好，但信息量有限。"
     },
     {
       "id": "TM-24",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Qualcomm推出新芯片，信息较为常规。"
     },
     {
       "id": "TM-25",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Intel发布新游戏芯片，信息量一般。"
     },
     {
       "id": "TM-26",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "字节跳动开发自有CPU以支持AI基础设施，反映出行业对芯片的需求和挑战。"
     },
     {
       "id": "TM-27",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "欧盟准备采取紧急措施干预芯片供应链，显示出政策层面对芯片行业的重视。"
     },
     {
       "id": "TM-28",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "半导体指数上涨反映市场趋势，但信息较为常规。"
     },
     {
       "id": "TM-29",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Synopsys与Elliott达成协议，信息量有限。"
     },
     {
       "id": "TM-30",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "关于Anthropic的租赁协议，信息较为常规。"
     },
     {
       "id": "TM-31",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌在印度建设AI数据中心引发当地关注，涉及环境和社会问题。"
     },
     {
       "id": "TM-32",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "澳大利亚数据中心投资增长，信息量一般。"
     },
     {
       "id": "TM-33",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "AWS使用新网络架构的报道，信息较为常规。"
     },
     {
       "id": "TM-34",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.0,
+      "keep": true,
+      "reason": "IBM计划在量子计算上投资超过100亿美元，目标明确且影响深远。"
     },
     {
       "id": "TM-35",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "英国研究人员获得谷歌量子芯片的访问，展示了量子计算的突破性进展。"
     },
     {
       "id": "TM-36",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Airwallex的员工迁移信息较为常规。"
     },
     {
       "id": "TM-37",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "三星收购Dunamu股份，信息量有限。"
     },
     {
       "id": "TM-38",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "CFTC撤销与Gemini的和解，信息较少且不具行业影响。"
     },
     {
       "id": "TM-39",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "CNN起诉Perplexity的报道，信息量较少。"
     },
     {
       "id": "TM-40",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "加州AG起诉23andMe涉及用户数据保护，反映出数据隐私问题。"
     },
     {
       "id": "TM-41",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "Last.fm重新独立的信息较为常规。"
     },
     {
       "id": "TM-42",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "亚马逊收购Globalstar的股份，涉及卫星通信领域的战略布局。"
     },
     {
       "id": "TM-43",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "Autodesk收购MaintainX，显示出对维护工具市场的关注。"
     },
     {
       "id": "TM-44",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "欧盟对JD.com收购Ceconomy的审查，反映出对外资收购的监管。"
     },
     {
       "id": "TM-45",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Groq筹集资金并与Nvidia达成协议，显示出AI芯片市场的动态。"
     },
     {
       "id": "TM-46",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "Fonoa融资并收购PwC平台，显示出税务合规领域的市场活跃。"
     },
     {
       "id": "TM-47",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Corgi融资并提升估值，反映出AI保险市场的增长潜力。"
     },
     {
       "id": "TM-48",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "Orbital Industries融资信息较为常规。"
     },
     {
       "id": "TM-49",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "Triomics融资并专注于癌症数据自动化，显示出AI在医疗领域的应用。"
     },
     {
       "id": "TM-50",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Reactor推出实时视频生成平台，展示了AI技术的创新应用。"
     },
     {
       "id": "TM-51",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.5,
+      "keep": true,
+      "reason": "融资金额和估值显示出AI安全治理领域的潜力"
     },
     {
       "id": "TM-52",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.5,
+      "keep": true,
+      "reason": "融资信息表明AI在金融行业的应用正在加速"
     },
     {
       "id": "TM-53",
-      "score": 5.0,
+      "score": 5.5,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "裁员信息反映出AI对传统行业的影响，但缺乏深度分析"
     },
     {
       "id": "TM-54",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "产品更新信息较为常规，缺乏创新亮点"
     },
     {
       "id": "TM-55",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Waymo的机器人出租车项目展示了自动驾驶技术的进展"
     },
     {
       "id": "TM-56",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "资金增加的消息对Meta的运营有影响，但不具备战略意义"
     },
     {
       "id": "TM-57",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "股价波动与AI计算交易相关，但信息量有限"
     },
     {
       "id": "TM-58",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "五角大楼与无人机公司的合作可能影响国防科技领域"
     },
     {
       "id": "TM-59",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "股市波动与AI关系不大，信息量不足"
     },
     {
       "id": "TM-60",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "股票表现与AI无直接关联，信息较少"
     },
     {
       "id": "TM-61",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "伦敦在科技领域的地位变化对行业有重要影响"
     },
     {
       "id": "TM-62",
-      "score": 5.0,
+      "score": 4.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "价格上涨信息与AI无关，缺乏行业洞察"
     },
     {
       "id": "TM-63",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "市场竞争信息常规，缺乏深度分析"
     },
     {
       "id": "TM-64",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "非洲创业公司转向本地资金反映出AI投资环境的变化"
     },
     {
       "id": "TL-01",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.0,
+      "keep": true,
+      "reason": "Cognition的融资和产品创新对软件开发行业具有重大影响"
     },
     {
       "id": "TL-02",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "音乐生成模型的发布展示了AI在创意领域的应用潜力"
     },
     {
       "id": "TL-03",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.0,
+      "keep": true,
+      "reason": "Biohub的蛋白质生物学模型发布对科学研究具有重要意义"
     },
     {
       "id": "TL-04",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic和OpenAI的API定价策略反映出市场需求的变化"
     },
     {
       "id": "TL-05",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "自我改进的税务代理展示了AI在实际应用中的潜力"
     },
     {
       "id": "TL-06",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.5,
+      "keep": true,
+      "reason": "新方法在强化学习中的应用可能提升模型效率"
     },
     {
       "id": "TL-07",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.5,
+      "keep": true,
+      "reason": "安全连接方案对企业应用有一定价值，但信息量有限"
     },
     {
       "id": "TL-08",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "PDF解析工具的更新对特定用户有用，但影响较小"
     },
     {
       "id": "TL-09",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "NVIDIA的新框架在视觉语言处理领域具有创新性"
     },
     {
       "id": "TL-10",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.5,
+      "keep": true,
+      "reason": "专门化模型的推出可能改变特定领域的开发效率"
     },
     {
       "id": "TL-11",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.0,
+      "keep": true,
+      "reason": "Nvidia的投资计划将深刻影响全球AI产业格局"
     },
     {
       "id": "TL-12",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "YouTube的自动视频标签功能更新，提升内容识别能力，但信息量有限。"
     },
     {
       "id": "TL-13",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 8.0,
+      "keep": true,
+      "reason": "新创公司Trajectory旨在增强AI反馈循环，具有潜在的产品洞察。"
     },
     {
       "id": "TL-14",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "关于安全问题的研究，信息量一般，缺乏新颖性。"
     },
     {
       "id": "TL-15",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 9.0,
+      "keep": true,
+      "reason": "DeepMind CEO对AGI的预测更新，具有重要行业影响。"
     },
     {
       "id": "TL-16",
       "score": 5.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "关于食材嵌入的技术更新，信息量较常规。"
     },
     {
       "id": "TL-17",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 7.0,
+      "keep": true,
+      "reason": "Google Gemini的功能扩展，提升团队协作能力，值得关注。"
     },
     {
       "id": "TL-18",
-      "score": 5.0,
+      "score": 2.0,
       "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "reason": "招聘信息，缺乏与AI直接相关的内容。"
     },
     {
       "id": "TL-19",
-      "score": 5.0,
-      "keep": false,
-      "reason": "dry-run（未调用 LLM）"
+      "score": 6.0,
+      "keep": true,
+      "reason": "Claude语音模式扩展到更多语言，具有一定的应用价值。"
     }
   ]
 }
