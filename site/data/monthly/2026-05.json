@@ -2831,12 +2831,12 @@
       "source": "Techmeme",
       "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
       "title": {
-        "zh": "Anthropic发布Opus 4.8，称其更倾向于标记工作中的不确定性，且更少做出无依据的声明，与4.7价格相同",
+        "zh": "Anthropic 发布 Opus 4.8，声称其“更可能标记工作中的不确定性，并且不太可能做出无依据的声明”，价格与 4.7 相同",
         "en": "Anthropic launches Opus 4.8, saying it's “more likely to flag uncertainties about its work and less likely to make unsupported claims”, at the same price as 4.7"
       },
       "summary": {
-        "zh": "Anthropic推出Opus 4.8，改进了模型的可靠性和透明性，同时保持与4.7相同的定价。",
-        "en": "Anthropic introduces Opus 4.8, enhancing reliability and transparency, priced the same as 4.7."
+        "zh": "Anthropic 推出了 Opus 4.8，改进了对不确定性的标记能力，并减少了无依据声明的可能性，售价与 Opus 4.7 保持一致。",
+        "en": "Anthropic introduces Opus 4.8 with improved uncertainty flagging and reduced unsupported claims, priced the same as Opus 4.7."
       },
       "tags": [
         "cat:model",
@@ -2844,13 +2844,7 @@
         "claude",
         "opus"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Anthropic发布了Opus 4.8，改进了模型的可靠性和透明性。",
-          "text_en": "Anthropic launches Opus 4.8, improving model reliability and transparency."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "anthropic",
@@ -2866,25 +2860,19 @@
       "source": "Techmeme",
       "url": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html?unlocked_article_code=1.l1A.Ljth.RDbPsUK0c4m2&smid=nytcore-ios-share",
       "title": {
-        "zh": "Anthropic完成65亿美元H轮融资，估值达9650亿美元，超越OpenAI，并称本月收入运行率突破470亿美元",
+        "zh": "Anthropic 完成 650 亿美元 H 轮融资，估值达 9650 亿美元，超越 OpenAI 的 8520 亿美元估值",
         "en": "Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month"
       },
       "summary": {
-        "zh": "Anthropic以9650亿美元估值完成65亿美元融资，超越OpenAI，并宣布其月收入运行率达到470亿美元。",
-        "en": "Anthropic raises $65B Series H at a $965B valuation, surpassing OpenAI, with a $47B revenue run rate this month."
+        "zh": "Anthropic 宣布完成 650 亿美元 H 轮融资，估值达到 9650 亿美元，并表示本月收入运行率已超过 470 亿美元。",
+        "en": "Anthropic raises $65B in Series H funding at a $965B valuation, surpassing OpenAI, with a $47B revenue run rate this month."
       },
       "tags": [
         "cat:business",
         "anthropic",
         "funding"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Anthropic以9650亿美元估值完成65亿美元融资，超越OpenAI。",
-          "text_en": "Anthropic raises $65B at a $965B valuation, surpassing OpenAI."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "anthropic",
@@ -2899,24 +2887,18 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTk3MDMzNywiZXhwIjoxNzgwNTc1MTM3LCJhcnRpY2xlSWQiOiJURlFYU1FLSVVQVVkwMCIsImJjb25uZWN0SWQiOiJBMENBREVFNzhEMEI0NzhEOTM0MkRGQTE1MUYxNEU0MiJ9._mQlenNKDj3eHEpbpKs55xUJl3p9ehGuj_dIc8sEj40",
       "title": {
-        "zh": "苹果Siri大改版细节曝光，包括新UI、聊天机器人风格应用及iOS 27重大变化",
+        "zh": "苹果 Siri 大改版细节曝光：新 UI、聊天机器人风格应用及 iOS 27 重大更新",
         "en": "Illustrations based on sources detail Apple's Siri overhaul, like a new UI and chatbot-style app, and major iOS 27 changes, ahead of the WWDC keynote on June 8"
       },
       "summary": {
-        "zh": "苹果计划对Siri进行大规模改版，包括引入新UI和聊天机器人风格的应用，同时对iOS 27进行重大更新。",
-        "en": "Apple plans a major Siri overhaul with a new UI, chatbot-style app, and significant iOS 27 updates."
+        "zh": "根据消息来源，苹果计划对 Siri 进行大幅改版，包括全新用户界面、聊天机器人风格的应用，以及 iOS 27 的重大更新。",
+        "en": "Apple plans a major Siri overhaul with a new UI, chatbot-style app, and significant iOS 27 updates ahead of WWDC."
       },
       "tags": [
         "cat:app",
         "apple"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "苹果Siri即将迎来重大改版，包含新UI和聊天机器人功能。",
-          "text_en": "Apple's Siri is getting a major overhaul with new UI and chatbot features."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "apple"
@@ -2930,24 +2912,18 @@
       "source": "Techmeme",
       "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
       "title": {
-        "zh": "YouTube推出新Premium播客功能，包括AI推荐工具、“自动速度”设置和移动收听模式",
+        "zh": "YouTube 推出新 Premium 播客功能，包括 AI 推荐工具、“自动速度”设置和移动收听模式",
         "en": "YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an “Auto speed” setting, and a new on-the-go listening mode"
       },
       "summary": {
         "zh": "",
-        "en": "YouTube introduces new Premium podcast features, including AI recommendations, Auto speed, and on-the-go listening."
+        "en": "YouTube introduces new Premium podcast features like AI recommendations, 'Auto speed,' and on-the-go listening mode."
       },
       "tags": [
         "cat:app",
         "google"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "YouTube推出了新的播客功能，包括AI推荐和移动收听模式。",
-          "text_en": "YouTube launches new podcast features like AI recommendations and on-the-go listening."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "google"
@@ -2961,12 +2937,12 @@
       "source": "Techmeme",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "title": {
-        "zh": "Anthropic和OpenAI的编程代理工具找到市场契合点，成为高薪专业人士的日常工具",
+        "zh": "Anthropic 和 OpenAI 的编程代理工具找到市场契合点，成为高薪专业人士的日常工具",
         "en": "Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for very well-paid professionals"
       },
       "summary": {
-        "zh": "Anthropic和OpenAI的编程代理工具逐渐成为高薪专业人士的日常使用工具，显示出市场契合度。",
-        "en": "Anthropic and OpenAI's coding agents are gaining traction among high-paid professionals as daily tools."
+        "zh": "Anthropic 和 OpenAI 的编程代理工具逐渐成为高薪专业人士的日常使用工具，显示出产品与市场的高度契合。",
+        "en": "Anthropic and OpenAI's coding agents are gaining traction as daily tools for high-paid professionals, showing strong product-market fit."
       },
       "tags": [
         "cat:app",
@@ -2975,13 +2951,7 @@
         "coding",
         "agent"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Anthropic和OpenAI的编程代理工具正在成为高薪专业人士的日常工具。",
-          "text_en": "Anthropic and OpenAI's coding agents are becoming daily tools for high-paid professionals."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "anthropic",
@@ -2998,25 +2968,19 @@
       "source": "Techmeme",
       "url": "https://www.theinformation.com/articles/meta-launches-new-enterprise-push-boost-business-adoption-ai-tools",
       "title": {
-        "zh": "Meta计划在大型企业客户内部嵌入工程师和产品经理，以推动其AI工具的部署",
+        "zh": "Meta 计划在大型企业客户中嵌入工程师和产品经理，助力 AI 工具部署",
         "en": "Memo: Meta plans to embed engineers and product managers inside large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools"
       },
       "summary": {
-        "zh": "Meta将成立新的企业解决方案部门，向大型企业客户派遣工程师和产品经理，协助部署AI工具。",
-        "en": "Meta forms a new Enterprise Solutions unit to embed engineers and product managers within large corporate customers for AI tool deployment."
+        "zh": "Meta 将成立新的企业解决方案部门，计划向大型企业客户派遣工程师和产品经理，以帮助部署其 AI 工具。",
+        "en": "Meta plans to embed engineers and product managers within large corporate clients to support AI tool deployment via a new Enterprise Solutions unit."
       },
       "tags": [
         "cat:business",
         "meta",
         "enterprise"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Meta计划向企业客户派遣团队以部署AI工具。",
-          "text_en": "Meta plans to embed teams within corporate customers for AI tool deployment."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "meta",
@@ -3031,31 +2995,23 @@
       "source": "Techmeme",
       "url": "https://www.wsj.com/tech/ai/mistral-chases-ai-superintelligence-to-counter-u-s-dominance-b2a44fa1?st=NnFC9i&reflink=desktopwebshare_permalink",
       "title": {
-        "zh": "Mistral加速超级智能开发以确保欧洲独立，并与空客和宝马签署供应协议",
+        "zh": "Mistral 加速超级智能开发，确保欧洲摆脱美国科技巨头依赖，并与空客和宝马签署供应协议",
         "en": "Mistral says it is accelerating superintelligence development to ensure Europe's independence from US tech giants, and signs deals to supply Airbus and BMW"
       },
       "summary": {
-        "zh": "Mistral致力于超级智能开发以减少对美国科技巨头的依赖，并与空客和宝马达成合作协议。",
-        "en": "Mistral accelerates superintelligence development to reduce Europe's reliance on US tech giants, partnering with Airbus and BMW."
+        "zh": "Mistral 表示正在加速超级智能开发，以确保欧洲的技术独立，并已与空客和宝马达成供应协议。",
+        "en": ""
       },
       "tags": [
         "cat:business",
         "mistral",
-        "funding",
-        "autonomous-driving"
+        "enterprise"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Mistral与空客和宝马合作，加速超级智能开发。",
-          "text_en": "Mistral partners with Airbus and BMW to accelerate superintelligence development."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "mistral",
-        "funding",
-        "autonomous-driving"
+        "enterprise"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
@@ -3066,11 +3022,11 @@
       "source": "Techmeme",
       "url": "https://www.wsj.com/tech/ai/ibm-red-hat-pledge-5-billion-for-ai-driven-open-source-security-initiative-4f1e03a4?st=8fwrTE&reflink=desktopwebshare_permalink",
       "title": {
-        "zh": "IBM和Red Hat承诺投资50亿美元建立新的开源软件模型“Project Lightwell”，并将在全球部署2万名工程师，借助AI支持",
+        "zh": "IBM 和 Red Hat 投资 50 亿美元建立新开源软件模型“Project Lightwell”，全球部署 2 万名工程师",
         "en": "IBM and Red Hat commit $5B to establish a new open-source software model, dubbed Project Lightwell, and will deploy 20,000 engineers globally, supported by AI"
       },
       "summary": {
-        "zh": "IBM和Red Hat宣布投资50亿美元启动“Project Lightwell”，旨在开发新的开源软件模型，并全球部署2万名工程师。",
+        "zh": "IBM 和 Red Hat 宣布投资 50 亿美元启动名为“Project Lightwell”的新开源软件模型，并将在全球范围内部署 2 万名工程师，借助 AI 提供支持。",
         "en": "IBM and Red Hat invest $5B in Project Lightwell, a new open-source software model, deploying 20,000 engineers globally with AI support."
       },
       "tags": [
@@ -3078,13 +3034,7 @@
         "ibm",
         "open-source"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "IBM和Red Hat启动了50亿美元的开源项目“Project Lightwell”。",
-          "text_en": "IBM and Red Hat launch $5B open-source project 'Project Lightwell'."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "ibm",
@@ -3099,97 +3049,50 @@
       "source": "Techmeme",
       "url": "https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3",
       "title": {
-        "zh": "全球收入最高的律师事务所Kirkland & Ellis计划投资5亿美元开发自有AI平台，而非依赖竞争对手的工具",
+        "zh": "全球收入最高的律师事务所 Kirkland & Ellis 拨款 5 亿美元开发自有 AI 平台",
         "en": "Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals"
       },
       "summary": {
-        "zh": "Kirkland & Ellis将投资5亿美元开发自己的AI平台，以减少对竞争对手工具的依赖。",
+        "zh": "Kirkland & Ellis 律师事务所计划投入 5 亿美元开发自己的 AI 平台，而不是依赖竞争对手提供的工具。",
         "en": "Kirkland & Ellis allocates $500M to develop its own AI platform, avoiding reliance on competitors' tools."
       },
       "tags": [
         "cat:business",
         "enterprise",
-        "funding"
+        "startup"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Kirkland & Ellis投资5亿美元开发自有AI平台。",
-          "text_en": "Kirkland & Ellis invests $500M to build its own AI platform."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "enterprise",
-        "funding"
-      ],
-      "category_tag": "cat:business",
-      "date": "2026-05-28"
-    },
-    {
-      "id": "TM-16",
-      "category_id": 4,
-      "source": "Techmeme",
-      "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/",
-      "title": {
-        "zh": "消息称上海期货交易所正设计AI代币期货合约，美国交易所计划推出GPU计算期货",
-        "en": "Source: the Shanghai Futures Exchange is in the early stages of designing futures contracts for AI tokens; US exchanges are set to launch GPU compute futures"
-      },
-      "summary": {
-        "zh": "",
-        "en": "Shanghai Futures Exchange is designing AI token futures, while US exchanges plan GPU compute futures."
-      },
-      "tags": [
-        "cat:business",
-        "data-center",
-        "gpu"
-      ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "上海期货交易所设计AI代币期货，美国交易所计划推出GPU计算期货。",
-          "text_en": "Shanghai Futures Exchange designs AI token futures; US exchanges plan GPU compute futures."
-        }
-      ],
-      "score": null,
-      "entity_tags": [
-        "data-center",
-        "gpu"
+        "startup"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
     },
     {
       "id": "TM-17",
-      "category_id": 4,
+      "category_id": 5,
       "source": "Techmeme",
       "url": "https://asia.nikkei.com/business/technology/tech-asia/ai-demand-strains-supplies-of-lasers-fiber-and-other-optical-tech",
       "title": {
-        "zh": "AI需求激增导致光学供应链全面短缺和价格上涨",
+        "zh": "AI 需求激增导致光学供应链全面短缺和价格上涨",
         "en": "Surging AI demand is causing shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors"
       },
       "summary": {
-        "zh": "由于AI需求的快速增长，从激光器和基板到光纤和连接器的整个光学供应链都出现了短缺和价格上涨。",
-        "en": ""
+        "zh": "由于 AI 需求的快速增长，从激光器、基板到光纤和连接器的整个光学供应链都出现了短缺和价格上涨的情况。",
+        "en": "Rising AI demand is driving shortages and price hikes across the optical supply chain, including lasers, substrates, fibers, and connectors."
       },
       "tags": [
-        "cat:business",
-        "chip",
-        "data-center"
+        "cat:other",
+        "chip"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "AI需求激增，光学供应链面临短缺和价格上涨。",
-          "text_en": "Surging AI demand is causing shortages and price increases in the optical supply chain."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
-        "chip",
-        "data-center"
+        "chip"
       ],
-      "category_tag": "cat:business",
+      "category_tag": "cat:other",
       "date": "2026-05-28"
     },
     {
@@ -3198,70 +3101,56 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/apollo-shops-36-billion-debt-deal-to-buy-google-chips-for-anthropic",
       "title": {
-        "zh": "消息称Apollo Global和Blackstone正寻求投资者参与360亿美元债务融资，用于购买Google TPU供Anthropic租赁",
+        "zh": "消息称Apollo Global和Blackstone正寻求额外投资者参与约360亿美元的债务融资，用于购买Google TPU供Anthropic租赁",
         "en": "Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease"
       },
       "summary": {
         "zh": "",
-        "en": "Apollo Global and Blackstone are seeking investors for a $36B debt financing deal to acquire Google TPUs for Anthropic's leasing needs."
+        "en": ""
       },
       "tags": [
         "cat:business",
         "anthropic",
         "google",
-        "funding",
-        "chip"
+        "chip",
+        "gpu"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Apollo和Blackstone计划融资360亿美元购买Google TPU供Anthropic租赁。",
-          "text_en": "Apollo and Blackstone plan $36B financing to buy Google TPUs for Anthropic leasing."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "anthropic",
         "google",
-        "funding",
-        "chip"
+        "chip",
+        "gpu"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
     },
     {
       "id": "TM-19",
-      "category_id": 4,
+      "category_id": 5,
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/world-s-appetite-for-ai-makes-china-less-afraid-of-stronger-yuan",
       "title": {
-        "zh": "全球AI硬件需求缓解中国对人民币升值影响出口的担忧",
+        "zh": "全球AI硬件需求缓解中国对人民币升值影响出口的担忧，AI硬件出口激增，芯片设备进口增加",
         "en": "Global AI hardware demand is easing China's concerns over a stronger yuan hurting exports, as AI hardware exports surge and chip equipment imports rise"
       },
       "summary": {
-        "zh": "随着AI硬件出口激增和芯片设备进口增加，全球AI硬件需求正在缓解中国对人民币升值影响出口的担忧。",
-        "en": "Surging global AI hardware demand is alleviating China's concerns about yuan appreciation impacting exports, as AI hardware exports rise."
+        "zh": "全球对AI硬件的需求激增，推动中国AI硬件出口增长，同时芯片设备进口也有所增加，这缓解了人民币升值对出口的潜在影响。",
+        "en": ""
       },
       "tags": [
-        "cat:business",
+        "cat:other",
         "chip",
-        "gpu",
-        "data-center"
+        "gpu"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "AI硬件需求激增缓解中国对出口的担忧。",
-          "text_en": "AI hardware demand eases China's export concerns."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "chip",
-        "gpu",
-        "data-center"
+        "gpu"
       ],
-      "category_tag": "cat:business",
+      "category_tag": "cat:other",
       "date": "2026-05-28"
     },
     {
@@ -3270,29 +3159,23 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/ai-boom-fuels-record-14-5-billion-in-taiwan-tech-firm-borrowing",
       "title": {
-        "zh": "台湾科技公司2026年已完成创纪录的145亿美元债务交易以满足AI需求",
+        "zh": "台湾科技公司在2026年迄今完成创纪录的145亿美元债务交易，以满足激增的AI需求",
         "en": "Taiwanese tech companies have completed a record $14.5B of debt deals so far in 2026, as they race to secure financing to meet soaring demand for AI capacity"
       },
       "summary": {
         "zh": "",
-        "en": "Taiwanese tech firms have closed $14.5B in debt deals in 2026 to meet rising AI capacity demands."
+        "en": "Taiwanese tech firms have completed a record $14.5B in debt deals in 2026 to secure financing for rising AI capacity demands."
       },
       "tags": [
         "cat:business",
         "chip",
-        "funding"
+        "gpu"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "台湾科技公司完成145亿美元债务交易以应对AI需求。",
-          "text_en": "Taiwan tech firms close $14.5B debt deals to meet AI demand."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "chip",
-        "funding"
+        "gpu"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
@@ -3303,29 +3186,21 @@
       "source": "Techmeme",
       "url": "https://www.reuters.com/business/media-telecom/global-firms-use-ai-indian-hubs-bring-more-ad-work-in-house-2026-05-27/",
       "title": {
-        "zh": "企业在印度全球能力中心使用AI以提升创意工作效率",
+        "zh": "企业在印度的全球能力中心使用AI，将更多创意工作内化，缩短交付时间并减少对广告公司的依赖",
         "en": "Companies are using AI at their global capability centers in India to bring more creative work in-house, cutting turnaround times and reliance on ad agencies"
       },
       "summary": {
-        "zh": "企业在印度的全球能力中心使用AI技术，将更多创意工作内化，从而缩短交付时间并减少对广告公司的依赖。",
-        "en": "Companies in India are leveraging AI at global centers to internalize creative work, reducing turnaround times and ad agency reliance."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:app",
-        "enterprise",
-        "agent"
+        "enterprise"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "印度企业通过AI提升创意工作效率，减少对外部依赖。",
-          "text_en": "Indian firms use AI to boost creative work efficiency and reduce external reliance."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
-        "enterprise",
-        "agent"
+        "enterprise"
       ],
       "category_tag": "cat:app",
       "date": "2026-05-28"
@@ -3336,25 +3211,19 @@
       "source": "Techmeme",
       "url": "https://www.cnbc.com/2026/05/28/okta-okta-earnings-q1-2027.html",
       "title": {
-        "zh": "Okta报告Q1收入同比增长11%至7.65亿美元，受AI需求推动股价盘后上涨8%以上",
+        "zh": "Okta报告第一季度收入同比增长11%至7.65亿美元，高于预期的7.52亿美元，称代理AI的建设推动了对其身份工具的需求；OKTA盘后上涨超8%",
         "en": "Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 8%+ after hours"
       },
       "summary": {
-        "zh": "Okta报告其第一季度收入同比增长11%，达到7.65亿美元，超出预期，并表示AI的应用推动了其身份工具的需求。",
-        "en": "Okta's Q1 revenue rose 11% YoY to $765M, exceeding estimates, driven by increased demand for identity tools due to AI adoption."
+        "zh": "",
+        "en": "Okta reports Q1 revenue of $765M, up 11% YoY and above estimates, citing agentic AI build-out driving demand for its identity tools; shares rise 8%+ after hours."
       },
       "tags": [
         "cat:business",
         "agent",
         "enterprise"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "Okta收入增长11%，AI需求推动身份工具市场。",
-          "text_en": "Okta revenue up 11%, AI drives identity tool demand."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "agent",
@@ -3369,29 +3238,21 @@
       "source": "Techmeme",
       "url": "https://www.scmp.com/tech/article/3355027/kuaishou-beats-estimates-kling-ai-video-generators-revenue-jumps-300",
       "title": {
-        "zh": "快手报告Q1收入同比增长3.4%至约50亿美元，Kling AI收入同比增长超300%",
+        "zh": "快手报告第一季度收入同比增长3.4%至约50亿美元，Kling AI收入同比增长超300%至约9600万美元；Kling在2026年3月达到了约5亿美元的年化收入运行率",
         "en": "Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026"
       },
       "summary": {
-        "zh": "快手报告其第一季度收入同比增长3.4%至约50亿美元，Kling AI收入同比增长超过300%，年化收入达约5亿美元。",
-        "en": "Kuaishou's Q1 revenue grew 3.4% YoY to ~$5B, while Kling AI revenue surged 300%+ YoY to ~$96M, reaching a $500M annualized run rate."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:business",
-        "bytedance",
-        "funding"
+        "bytedance"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "快手和Kling AI收入显著增长。",
-          "text_en": "Kuaishou and Kling AI report significant revenue growth."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
-        "bytedance",
-        "funding"
+        "bytedance"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
@@ -3402,31 +3263,23 @@
       "source": "Techmeme",
       "url": "https://www.reuters.com/world/china/bytedance-developing-custom-cpu-chips-support-ai-rollout-sources-say-2026-05-28/",
       "title": {
-        "zh": "消息称字节跳动正在开发自有CPU以支持其不断增长的AI基础设施需求",
+        "zh": "消息称字节跳动正在开发自己的CPU，以支持其不断增长的AI基础设施需求，同时芯片价格上涨和供应短缺限制了扩展计划",
         "en": "Sources: ByteDance is developing its own CPUs to support its growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans"
       },
       "summary": {
-        "zh": "字节跳动正在开发自有CPU，以应对芯片价格上涨和供应短缺对其AI基础设施扩展计划的限制。",
-        "en": "ByteDance is developing its own CPUs to address chip price hikes and shortages impacting its AI infrastructure expansion."
+        "zh": "消息人士透露，字节跳动正在开发自有CPU，以满足其AI基础设施的快速增长需求，同时应对芯片价格上涨和供应短缺带来的扩展挑战。",
+        "en": "Sources say ByteDance is developing its own CPUs to meet growing AI infrastructure needs amid rising chip prices and supply shortages."
       },
       "tags": [
         "cat:tech",
         "bytedance",
-        "chip",
-        "data-center"
+        "chip"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "字节跳动开发自有CPU以应对AI扩展需求。",
-          "text_en": "ByteDance develops CPUs to meet AI infrastructure needs."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "bytedance",
-        "chip",
-        "data-center"
+        "chip"
       ],
       "category_tag": "cat:tech",
       "date": "2026-05-28"
@@ -3437,25 +3290,19 @@
       "source": "Techmeme",
       "url": "https://www.ft.com/content/9d7d6204-4fc7-4f1d-af05-473c3649efcd",
       "title": {
-        "zh": "文件显示欧盟正准备紧急权力以应对芯片供应链短缺",
+        "zh": "文件显示欧盟正准备紧急权力以在芯片短缺期间干预欧洲芯片供应链，包括强制芯片制造商修改合同",
         "en": "Doc: the EU is preparing emergency powers to intervene in Europe's chip supply chains during shortages, including by forcing chipmakers to override contracts"
       },
       "summary": {
-        "zh": "欧盟正在准备紧急权力，以在芯片供应链短缺时进行干预，包括强制芯片制造商修改合同。",
-        "en": "The EU is drafting emergency powers to address chip shortages, including forcing chipmakers to override contracts."
+        "zh": "",
+        "en": ""
       },
       "tags": [
         "cat:other",
         "policy",
         "chip"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "欧盟准备紧急措施应对芯片短缺。",
-          "text_en": "EU prepares emergency measures for chip shortages."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
         "policy",
@@ -3470,46 +3317,42 @@
       "source": "Techmeme",
       "url": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
       "title": {
-        "zh": "分析：费城半导体指数年初至今上涨约75%，有望创1999年以来最大年度涨幅",
+        "zh": "分析：追踪30家美国上市顶级芯片制造商的费城半导体指数今年迄今上涨约75%，有望创下自1999年以来的最大年度涨幅",
         "en": "Analysis: the Philadelphia Semiconductor Index, which tracks the 30 top US-listed chipmakers, is up ~75% YTD and on track for its biggest annual gain since 1999"
       },
       "summary": {
-        "zh": "费城半导体指数追踪30家美国上市芯片公司，其年初至今上涨约75%，预计将创下自1999年以来的最大年度涨幅。",
-        "en": "The Philadelphia Semiconductor Index, tracking 30 top US chipmakers, is up ~75% YTD, poised for its largest annual gain since 1999."
+        "zh": "分析指出，费城半导体指数今年迄今上涨约75%，追踪了30家美国顶级芯片制造商的表现，有望创下自1999年以来的最大年度涨幅。",
+        "en": ""
       },
       "tags": [
         "cat:other",
-        "chip"
+        "chip",
+        "gpu"
       ],
-      "tweets": [
-        {
-          "author": "@x",
-          "text": "费城半导体指数创历史新高。",
-          "text_en": "Philadelphia Semiconductor Index hits record highs."
-        }
-      ],
+      "tweets": [],
       "score": null,
       "entity_tags": [
-        "chip"
+        "chip",
+        "gpu"
       ],
       "category_tag": "cat:other",
       "date": "2026-05-28"
     },
     {
       "id": "TM-31",
-      "category_id": 4,
+      "category_id": 5,
       "source": "Techmeme",
       "url": "https://www.wsj.com/tech/ai/big-subsidies-for-google-limited-water-for-locals-the-dilemma-of-ai-in-india-105a770e?st=CizQnF&reflink=desktopwebshare_permalink",
       "title": {
-        "zh": "谷歌计划在印度维沙卡帕特南建设150亿美元AI数据中心，当地居民和权益组织对“极高”的水资源压力表示担忧",
+        "zh": "随着谷歌计划在印度维沙卡帕特南建设150亿美元的AI数据中心，当地居民和权益团体对“极高”的水资源压力表示担忧",
         "en": "As Google plans to build a $15B AI data center hub in Visakhapatnam, India, locals and rights groups are raising concerns over “extremely high” water stress"
       },
       "summary": {
-        "zh": "谷歌计划投资150亿美元在印度维沙卡帕特南建设AI数据中心，但当地居民和权益组织对可能导致的水资源压力表示担忧。",
-        "en": ""
+        "zh": "",
+        "en": "Google's $15B AI data center plan in Visakhapatnam, India, raises concerns among locals and rights groups over 'extremely high' water stress."
       },
       "tags": [
-        "cat:business",
+        "cat:other",
         "google",
         "data-center",
         "energy"
@@ -3521,7 +3364,7 @@
         "data-center",
         "energy"
       ],
-      "category_tag": "cat:business",
+      "category_tag": "cat:other",
       "date": "2026-05-28"
     },
     {
@@ -3530,12 +3373,12 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/record-spend-on-data-centers-drives-australia-investment-growth",
       "title": {
-        "zh": "澳大利亚数据中心投资创纪录达62亿美元，环比增长近一倍，推动第一季度投资增长并缓解能源成本和高利率压力",
+        "zh": "澳大利亚数据中心投资创纪录达约62亿美元，环比几乎翻倍，推动第一季度投资增长并缓解能源成本和高利率对经济的压力",
         "en": "A record ~$6.2B spent on data centers in Australia, almost double QoQ, drove Q1 investment growth and helped an economy strained by energy costs and high rates"
       },
       "summary": {
-        "zh": "澳大利亚在数据中心上的投资创下62亿美元的纪录，环比增长近一倍，推动了第一季度的投资增长，同时缓解了能源成本和高利率对经济的压力。",
-        "en": "Australia spent a record ~$6.2B on data centers, nearly doubling QoQ, driving Q1 investment growth and easing economic strain from energy costs and high rates."
+        "zh": "澳大利亚在数据中心上的投资创下约62亿美元的纪录，环比增长近一倍。这一增长推动了第一季度的投资，并在一定程度上缓解了能源成本和高利率对经济的压力。",
+        "en": "Australia's record ~$6.2B investment in data centers, nearly double QoQ, boosted Q1 growth and eased economic strain from energy costs and high rates."
       },
       "tags": [
         "cat:business",
@@ -3553,11 +3396,11 @@
     },
     {
       "id": "TM-34",
-      "category_id": 4,
+      "category_id": 2,
       "source": "Techmeme",
       "url": "https://www.reuters.com/technology/ibm-plans-10-billion-investment-large-scale-quantum-computer-by-2029-2026-05-28/",
       "title": {
-        "zh": "IBM计划未来五年投资超过100亿美元开发量子计算，目标是到2029年建成首个大规模无误差量子计算机",
+        "zh": "IBM计划未来五年投资超100亿美元于量子计算，目标在2029年前建成首台大规模无误差量子计算机",
         "en": "IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029"
       },
       "summary": {
@@ -3565,7 +3408,7 @@
         "en": ""
       },
       "tags": [
-        "cat:business",
+        "cat:tech",
         "ibm",
         "quantum"
       ],
@@ -3575,7 +3418,7 @@
         "ibm",
         "quantum"
       ],
-      "category_tag": "cat:business",
+      "category_tag": "cat:tech",
       "date": "2026-05-28"
     },
     {
@@ -3584,7 +3427,7 @@
       "source": "Techmeme",
       "url": "https://www.bbc.com/news/articles/cd7pwezyze1o",
       "title": {
-        "zh": "英国研究人员获得谷歌Willow量子芯片的使用权限，据称该芯片能在五分钟内解决超级计算机需10万亿年才能完成的问题",
+        "zh": "英国研究人员获得谷歌Willow量子芯片的使用权，据称其能在5分钟内解决超级计算机需10万亿亿年才能完成的问题",
         "en": "UK researchers gain access to Google's Willow quantum chip, which it says solves a problem in five minutes that would take supercomputers 10 septillion years"
       },
       "summary": {
@@ -3606,16 +3449,43 @@
       "date": "2026-05-28"
     },
     {
+      "id": "TM-38",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/politics/policy/trump-regulator-moves-to-drop-case-that-drew-ire-of-winklevoss-twins-e8e26a2a",
+      "title": {
+        "zh": "CFTC撤销与Gemini的500万美元和解协议，推翻拜登时代的执法行动，此举是在Winklevoss兄弟游说活动后作出的",
+        "en": "The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins"
+      },
+      "summary": {
+        "zh": "美国商品期货交易委员会（CFTC）决定撤销与Gemini的500万美元和解协议，推翻了拜登政府时期的一项执法行动。这一决定是在Winklevoss兄弟的游说活动后作出的。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "gemini",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "gemini",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-28"
+    },
+    {
       "id": "TM-40",
       "category_id": 5,
       "source": "Techmeme",
       "url": "https://apnews.com/article/23andme-lawsuit-data-breach-genetic-testing-0fc216812a2a35b72068c228384f597b",
       "title": {
-        "zh": "加州总检察长Rob Bonta起诉23andMe，指控其未能保护用户敏感数据，2023年的数据泄露事件影响了约700万美国用户",
+        "zh": "加州总检察长Rob Bonta起诉23andMe，指控其未能保护用户敏感数据，2023年的数据泄露事件影响了全美约700万人",
         "en": "California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US"
       },
       "summary": {
-        "zh": "加州总检察长Rob Bonta起诉基因检测公司23andMe，指控其未能保护用户敏感数据，导致2023年约700万美国用户数据泄露。",
+        "zh": "",
         "en": ""
       },
       "tags": [
@@ -3636,11 +3506,11 @@
       "source": "Techmeme",
       "url": "https://www.pcmag.com/news/amazon-to-take-over-apples-20-stake-in-globalstar-as-part-of-acquisition",
       "title": {
-        "zh": "文件显示：亚马逊将收购苹果在Globalstar的20%股份，并作为收购卫星提供商的一部分成立子公司进行合并",
+        "zh": "文件显示：亚马逊将收购苹果在Globalstar的20%股份，作为其收购该卫星提供商的一部分，并将成立子公司进行合并",
         "en": "Filing: Amazon will acquire Apple's 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger"
       },
       "summary": {
-        "zh": "亚马逊计划收购苹果在卫星提供商Globalstar的20%股份，并成立子公司以完成合并。",
+        "zh": "",
         "en": ""
       },
       "tags": [
@@ -3665,7 +3535,7 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/autodesk-to-buy-maintainx-for-about-3-6-billion-in-cash-mppxfnfb",
       "title": {
-        "zh": "Autodesk同意以36亿美元全现金收购专注于维护工具的公司MaintainX",
+        "zh": "Autodesk同意以全现金交易收购专注于维护工具的公司MaintainX，交易估值36亿美元",
         "en": "Autodesk agrees to buy MaintainX, a company focused on maintenance tools, in an all-cash deal that values MaintainX at $3.6B"
       },
       "summary": {
@@ -3686,31 +3556,29 @@
     },
     {
       "id": "TM-44",
-      "category_id": 4,
+      "category_id": 5,
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/jd-com-s-2-2-billion-ceconomy-deal-hit-by-eu-subsidy-probe",
       "title": {
-        "zh": "欧盟委员会根据外国补贴法规对京东22亿欧元收购德国电子零售商Ceconomy展开全面审查",
+        "zh": "欧盟委员会根据《外国补贴条例》对京东22亿欧元收购德国电子零售商Ceconomy展开全面审查",
         "en": "The European Commission opens a full review of JD.com's €2.2B acquisition of Germany-based electronics retailer Ceconomy under its Foreign Subsidies Regulation"
       },
       "summary": {
         "zh": "",
-        "en": ""
+        "en": "The European Commission launches a full review of JD.com's €2.2B acquisition of Ceconomy under the Foreign Subsidies Regulation."
       },
       "tags": [
-        "cat:business",
-        "jd",
-        "acquisition",
-        "policy"
+        "cat:other",
+        "policy",
+        "acquisition"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
-        "jd",
-        "acquisition",
-        "policy"
+        "policy",
+        "acquisition"
       ],
-      "category_tag": "cat:business",
+      "category_tag": "cat:other",
       "date": "2026-05-28"
     },
     {
@@ -3719,24 +3587,24 @@
       "source": "Techmeme",
       "url": "https://www.axios.com/2026/05/28/groq-650-million-nvidia",
       "title": {
-        "zh": "消息称Groq正从现有投资者处筹集高达6.5亿美元，此前该AI芯片公司与Nvidia签署了价值200亿美元的许可协议，导致许多高管离职",
+        "zh": "消息称Groq正从现有投资者处筹集高达6.5亿美元，此前该AI芯片制造商与Nvidia签署了200亿美元的许可协议，导致许多高管离职",
         "en": "Source: Groq is raising up to $650M from existing investors; the AI chipmaker earlier signed a $20B Nvidia licensing deal that saw much of its senior team leave"
       },
       "summary": {
-        "zh": "",
-        "en": "Groq is raising up to $650M from existing investors; the AI chipmaker previously signed a $20B Nvidia licensing deal, leading to senior team departures."
+        "zh": "消息人士透露，AI芯片制造商Groq正在从现有投资者处筹集高达6.5亿美元的资金。此前，该公司与Nvidia签署了一项价值200亿美元的许可协议，导致许多高管离职。",
+        "en": "Groq is raising up to $650M from existing investors after signing a $20B Nvidia licensing deal that led to senior team departures."
       },
       "tags": [
         "cat:business",
+        "gpu",
         "nvidia",
-        "chip",
         "funding"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
+        "gpu",
         "nvidia",
-        "chip",
         "funding"
       ],
       "category_tag": "cat:business",
@@ -3748,23 +3616,25 @@
       "source": "Techmeme",
       "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/fonoa-110m-pwc-tax-platform-buy",
       "title": {
-        "zh": "Fonoa完成由Headline领投的1.1亿美元C轮融资，并收购了PwC的间接税合规平台Indirect Tax Edge",
+        "zh": "Fonoa完成由Headline领投的1.1亿美元C轮融资，并收购了普华永道的间接税务管理平台Indirect Tax Edge",
         "en": "Fonoa, which helps enterprises manage indirect tax compliance, raised a $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform"
       },
       "summary": {
         "zh": "",
-        "en": "Fonoa raised $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform to enhance indirect tax compliance solutions."
+        "en": "Fonoa raised $110M Series C led by Headline and acquired PwC's Indirect Tax Edge platform to enhance its tax compliance solutions."
       },
       "tags": [
         "cat:business",
         "acquisition",
-        "funding"
+        "startup",
+        "enterprise"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
         "acquisition",
-        "funding"
+        "startup",
+        "enterprise"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
@@ -3775,12 +3645,12 @@
       "source": "Techmeme",
       "url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
       "title": {
-        "zh": "Corgi利用AI为初创公司提供保险，完成1.06亿美元B1轮融资，估值达26亿美元",
+        "zh": "Corgi利用AI为初创公司提供保险，完成1.06亿美元B1轮融资，估值26亿美元",
         "en": "Corgi, which uses AI to provide insurance for startups, raised a $106M Series B1 at a $2.6B valuation, up from $1.3B on May 6, for a total funding of $378M"
       },
       "summary": {
-        "zh": "Corgi是一家利用AI为初创公司提供保险的公司，完成了1.06亿美元的B1轮融资，估值从5月6日的13亿美元增长至26亿美元，总融资额达到3.78亿美元。",
-        "en": "Corgi, an AI-powered insurance provider for startups, raised $106M in Series B1 funding at a $2.6B valuation, up from $1.3B in May, totaling $378M in funding."
+        "zh": "Corgi是一家利用AI为初创公司提供保险的公司，近日完成了1.06亿美元的B1轮融资，估值从5月6日的13亿美元增长至26亿美元，总融资额达到3.78亿美元。",
+        "en": "Corgi, an AI-driven insurance provider for startups, raised $106M in Series B1 funding at a $2.6B valuation, doubling its valuation since May."
       },
       "tags": [
         "cat:business",
@@ -3802,12 +3672,12 @@
       "source": "Techmeme",
       "url": "https://fortune.com/2026/05/28/exclusive-orbital-industries-raises-50-million-series-b-funding-round-ai-to-discover-exotic-new-materials/",
       "title": {
-        "zh": "Orbital Industries完成5000万美元B轮融资，专注先进材料设计与销售",
+        "zh": "总部位于伦敦和旧金山的Orbital Industries完成5000万美元B轮融资",
         "en": "London- and SF-based Orbital Industries, which uses its Orb model to design advanced materials and then sell them directly, raised a $50M Series B led by Plural"
       },
       "summary": {
-        "zh": "总部位于伦敦和旧金山的Orbital Industries利用其Orb模型设计先进材料并直接销售，完成了由Plural领投的5000万美元B轮融资。",
-        "en": "Orbital Industries, based in London and SF, raised $50M in Series B funding led by Plural to design and sell advanced materials using its Orb model."
+        "zh": "Orbital Industries利用其Orb模型设计先进材料并直接销售，近日完成由Plural领投的5000万美元B轮融资。",
+        "en": "Orbital Industries, which designs and sells advanced materials using its Orb model, raised $50M in a Series B led by Plural."
       },
       "tags": [
         "cat:business",
@@ -3829,12 +3699,12 @@
       "source": "Techmeme",
       "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
       "title": {
-        "zh": "Triomics完成2200万美元B轮融资，开发AI平台帮助肿瘤学家自动化数据任务",
+        "zh": "Triomics完成2200万美元B轮融资，致力于为肿瘤学家提供AI平台",
         "en": "Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024"
       },
       "summary": {
-        "zh": "Triomics正在开发一个AI驱动的平台，帮助肿瘤学家自动化处理数据密集型任务。公司在2024年完成了1500万美元的A轮融资后，又完成了2200万美元的B轮融资。",
-        "en": "Triomics, developing an AI platform for oncologists to automate data-heavy tasks, raised $22M in Series B funding after a $15M Series A in 2024."
+        "zh": "Triomics正在开发一个AI驱动的平台，帮助肿瘤学家自动化处理数据密集型任务。公司在2024年完成1500万美元A轮融资后，近日又完成了2200万美元B轮融资。",
+        "en": "Triomics, developing an AI platform for oncologists to automate data-heavy tasks, raised $22M in Series B after a $15M Series A in 2024."
       },
       "tags": [
         "cat:business",
@@ -3860,7 +3730,7 @@
         "en": "Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed"
       },
       "summary": {
-        "zh": "Reactor表示其AI平台能够以接近零延迟的方式实时生成视频，公司从隐身模式中走出，并完成了由Lightspeed领投的5900万美元A轮融资。",
+        "zh": "Reactor声称其AI平台能够以接近零延迟的速度实时生成视频，公司近日从隐身模式中走出，并完成了由Lightspeed领投的5900万美元A轮融资。",
         "en": ""
       },
       "tags": [
@@ -3885,12 +3755,12 @@
       "source": "Techmeme",
       "url": "https://fortune.com/2026/05/28/geordie-security-governance-ai-agents/",
       "title": {
-        "zh": "Geordie AI完成3000万美元A轮融资，专注AI代理的安全与治理平台",
+        "zh": "伦敦的Geordie AI完成3000万美元A轮融资，估值1.8亿美元",
         "en": "London-based Geordie AI, which builds a security and governance platform for AI agents, raised a $30M Series A led by Balderton at an estimated $180M valuation"
       },
       "summary": {
-        "zh": "总部位于伦敦的Geordie AI开发了一个针对AI代理的安全与治理平台，公司完成了由Balderton领投的3000万美元A轮融资，估值约为1.8亿美元。",
-        "en": "Geordie AI, focused on security and governance for AI agents, raised $30M in Series A funding led by Balderton at a $180M valuation."
+        "zh": "Geordie AI专注于为AI代理构建安全和治理平台，近日完成由Balderton领投的3000万美元A轮融资，公司估值约为1.8亿美元。",
+        "en": "Geordie AI, focused on building security and governance platforms for AI agents, raised $30M in Series A at a $180M valuation."
       },
       "tags": [
         "cat:business",
@@ -3914,11 +3784,11 @@
       "source": "Techmeme",
       "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/saris-series-a-bank-ai-agents",
       "title": {
-        "zh": "Saris完成2880万美元A轮融资，开发AI代理自动化银行后台工作",
+        "zh": "Saris完成2880万美元A轮融资，专注于银行和信用社后台自动化",
         "en": "Saris, which builds AI agents to automate back-office work for banks and credit unions, raised a $28.8M Series A led by 8VC"
       },
       "summary": {
-        "zh": "Saris开发了AI代理以自动化银行和信用社的后台工作，公司完成了由8VC领投的2880万美元A轮融资。",
+        "zh": "Saris开发AI代理以自动化银行和信用社的后台工作，近日完成由8VC领投的2880万美元A轮融资。",
         "en": ""
       },
       "tags": [
@@ -3943,12 +3813,12 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/waymo-to-deploy-robotaxi-built-with-zeekr-to-expand-public-rides",
       "title": {
-        "zh": "Waymo推出Ojai自动驾驶出租车，与Zeekr合作设计",
+        "zh": "Waymo推出Ojai自动驾驶出租车，初步服务于旧金山、洛杉矶和凤凰城",
         "en": "Waymo unveils Ojai, a vehicle designed in partnership with Zeekr for robotaxi use, initially for select riders in San Francisco, Los Angeles, and Phoenix"
       },
       "summary": {
-        "zh": "Waymo与Zeekr合作设计了一款名为Ojai的自动驾驶出租车，初期将在旧金山、洛杉矶和凤凰城为部分乘客提供服务。",
-        "en": "Waymo unveils Ojai, a robotaxi designed with Zeekr, initially available for select riders in SF, LA, and Phoenix."
+        "zh": "Waymo与Zeekr合作设计了一款名为Ojai的自动驾驶出租车，初期将在旧金山、洛杉矶和凤凰城为部分用户提供服务。",
+        "en": "Waymo unveils Ojai, a robotaxi developed with Zeekr, initially available in San Francisco, Los Angeles, and Phoenix."
       },
       "tags": [
         "cat:app",
@@ -3968,12 +3838,12 @@
       "source": "Techmeme",
       "url": "https://www.cnbc.com/2026/05/28/snowflake-snow-software-stock-rally.html",
       "title": {
-        "zh": "Snowflake股价上涨36%，创历史新高，与亚马逊达成AI计算协议",
+        "zh": "Snowflake股价周四上涨36%，创历史新高，与亚马逊达成AI计算协议",
         "en": "Snowflake stock closed up 36% on Thursday, its best day ever, after the company boosted guidance and announced an AI compute deal with Amazon"
       },
       "summary": {
-        "zh": "Snowflake股价周四上涨36%，创下历史新高，此前公司提高了业绩指引，并宣布与亚马逊达成AI计算协议。",
-        "en": ""
+        "zh": "Snowflake股价周四上涨36%，创下历史新高，此前公司上调了业绩指引，并宣布与亚马逊达成AI计算合作协议。",
+        "en": "Snowflake stock surged 36%, its best day ever, after raising guidance and announcing an AI compute deal with Amazon."
       },
       "tags": [
         "cat:business",
@@ -3997,23 +3867,21 @@
       "source": "Techmeme",
       "url": "https://www.wsj.com/politics/national-security/trump-us-drone-company-funding-cadef1f7?st=HRwRd8&reflink=desktopwebshare_permalink",
       "title": {
-        "zh": "消息称五角大楼寻求与美国无人机公司达成融资协议，可能涉及股权投资",
+        "zh": "消息称五角大楼寻求与美国无人机公司达成融资协议以增加国内生产",
         "en": "Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower weapon costs"
       },
       "summary": {
-        "zh": "消息人士透露，五角大楼正在寻求与美国无人机公司达成融资协议，可能涉及股权投资，以增加国内生产并降低武器成本。",
-        "en": ""
+        "zh": "消息人士透露，五角大楼正在与美国无人机公司洽谈融资协议，可能涉及股权投资，以增加国内生产并降低武器成本。",
+        "en": "The Pentagon is reportedly seeking funding deals with US drone companies, potentially involving equity stakes, to boost domestic production and reduce costs."
       },
       "tags": [
         "cat:other",
-        "policy",
-        "regulation"
+        "policy"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
-        "policy",
-        "regulation"
+        "policy"
       ],
       "category_tag": "cat:other",
       "date": "2026-05-28"
@@ -4024,25 +3892,23 @@
       "source": "Techmeme",
       "url": "https://www.reuters.com/world/uk/london-reclaims-top-european-tech-spot-paris-dealroom-says-2026-05-27/",
       "title": {
-        "zh": "伦敦超越巴黎，重回欧洲领先科技中心地位，2025年融资达177亿美元",
+        "zh": "伦敦超越巴黎重夺欧洲科技中心地位，2025年融资额达177亿美元",
         "en": "Dealroom: London overtakes Paris to reclaim its position as Europe's leading tech hub, and now ranks fourth globally; London startups raised $17.7B in 2025"
       },
       "summary": {
-        "zh": "根据Dealroom数据，伦敦超越巴黎，重新成为欧洲领先的科技中心，并在全球排名第四。伦敦初创公司在2025年共筹集了177亿美元资金。",
-        "en": "Dealroom reports London has overtaken Paris as Europe's leading tech hub, ranking fourth globally, with $17.7B raised by London startups in 2025."
+        "zh": "根据Dealroom数据，伦敦超越巴黎，重新成为欧洲领先的科技中心，并在全球排名第四。2025年，伦敦初创公司共筹集了177亿美元。",
+        "en": "Dealroom reports London has overtaken Paris as Europe's top tech hub, ranking fourth globally, with $17.7B raised by startups in 2025."
       },
       "tags": [
         "cat:business",
         "startup",
-        "funding",
-        "policy"
+        "funding"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
         "startup",
-        "funding",
-        "policy"
+        "funding"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
@@ -4053,12 +3919,12 @@
       "source": "Techmeme",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/africa-startups-turn-inward-as-us-ai-boom-drains-venture-capital",
       "title": {
-        "zh": "美国AI热潮吸走风险投资，非洲初创企业转向本地资金来源",
+        "zh": "美国AI热潮吸引风险投资，非洲初创企业转向本地资金来源",
         "en": "As the US AI boom drains venture capital from Africa, startups on the continent are pivoting to domestic funding sources, like pension funds and local VC firms"
       },
       "summary": {
-        "zh": "随着美国AI热潮吸引了大量风险投资，非洲的初创企业开始转向本地资金来源，如养老金和本地风投公司。",
-        "en": "As the US AI boom attracts venture capital, African startups are turning to local funding sources like pension funds and local VCs."
+        "zh": "由于美国的AI热潮吸引了大量风险投资，非洲的初创企业开始转向本地资金来源，例如养老金和本地风险投资公司。",
+        "en": "As US AI boom attracts venture capital, African startups are turning to local funding sources like pension funds and local VCs."
       },
       "tags": [
         "cat:business",
@@ -4084,19 +3950,17 @@
         "en": "More Devins in More Places (3 minute read)"
       },
       "summary": {
-        "zh": "Cognition以260亿美元估值融资超10亿美元，支持其AI软件工程师Devin的扩展。Devin显著缩短了项目时间并提升了客户的自动化能力。",
-        "en": "Cognition raised over $1B at a $26B valuation to expand Devin, an AI software engineer that improves automation and reduces project times."
+        "zh": "Cognition以260亿美元估值融资超10亿美元，支持其AI软件工程师Devin的扩展。Devin已显著缩短项目时间并提升客户自动化能力。",
+        "en": "Cognition raised over $1B at a $26B valuation to expand Devin, an AI software engineer improving automation and project timelines."
       },
       "tags": [
         "cat:business",
-        "startup",
-        "funding"
+        "startup"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
-        "startup",
-        "funding"
+        "startup"
       ],
       "category_tag": "cat:business",
       "date": "2026-05-28"
@@ -4129,22 +3993,19 @@
       "source": "Techmeme",
       "url": "https://biohub.org/news/world-model-of-protein-biology/?utm_source=tldrai",
       "title": {
-        "zh": "Biohub发布全球蛋白质生物学模型",
+        "zh": "Biohub发布蛋白质生物学世界模型",
         "en": "Biohub releases a world model of protein biology (9 minute read)"
       },
       "summary": {
         "zh": "Biohub发布了一个开放的蛋白质结构预测和生物学发现引擎，包括ESMC语言模型、ESMFold2设计引擎和ESM Atlas，供全球科学界免费使用。",
-        "en": "Biohub released an open discovery engine for protein biology, including ESMC, ESMFold2, and ESM Atlas, all freely available."
+        "en": "Biohub released an open discovery engine for protein biology, including ESMC, ESMFold2, and ESM Atlas, available for free to researchers."
       },
       "tags": [
-        "cat:model",
-        "open-source"
+        "cat:model"
       ],
       "tweets": [],
       "score": null,
-      "entity_tags": [
-        "open-source"
-      ],
+      "entity_tags": [],
       "category_tag": "cat:model",
       "date": "2026-05-28"
     },
@@ -4154,12 +4015,12 @@
       "source": "Techmeme",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything?utm_source=tldrai",
       "title": {
-        "zh": "Anthropic和OpenAI找到产品市场契合点",
+        "zh": "Anthropic和OpenAI可能已找到产品市场契合点",
         "en": "I think Anthropic and OpenAI have found product-market fit (11 minute read)"
       },
       "summary": {
-        "zh": "Anthropic和OpenAI开始积极定价其API，表明其编码和通用代理产品已找到市场契合点，企业每用户月支出超过200美元。",
-        "en": "Anthropic and OpenAI have likely found product-market fit with their coding/general-purpose agent products, leading to aggressive API pricing."
+        "zh": "Anthropic和OpenAI开始积极定价其API，表明其编码和通用代理产品可能已找到产品市场契合点。",
+        "en": "Anthropic and OpenAI's aggressive API pricing suggests they may have found product-market fit for their agent products."
       },
       "tags": [
         "cat:business",
@@ -4189,8 +4050,8 @@
         "en": "Building self-improving tax agents with Codex (17 minute read)"
       },
       "summary": {
-        "zh": "OpenAI使用Codex在Thrive Holdings构建了能够自我改进的税务代理，能够处理日益复杂的税务申报。",
-        "en": "OpenAI used Codex to build self-improving tax agents at Thrive Holdings, capable of handling increasingly complex tax returns."
+        "zh": "OpenAI利用Codex为Thrive Holdings构建了一个能够自我改进的税务代理，能够处理日益复杂的税务申报。",
+        "en": "OpenAI used Codex to build a self-improving tax agent for Thrive Holdings, handling increasingly complex tax returns."
       },
       "tags": [
         "cat:app",
@@ -4214,12 +4075,12 @@
       "source": "Techmeme",
       "url": "https://huggingface.co/blog/delta-weight-sync?utm_source=tldrai",
       "title": {
-        "zh": "通过Hub Bucket传输万亿参数：TRL中的Delta Weight Sync",
+        "zh": "通过Hub Bucket实现万亿参数同步：TRL中的Delta Weight Sync",
         "en": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL (4 minute read)"
       },
       "summary": {
-        "zh": "介绍了一种在异步强化学习中减少权重同步负载的方法“Delta Weight Sync”，通过仅传输更改的模型参数显著减少数据传输量。",
-        "en": "A method called 'Delta Weight Sync' reduces weight synchronization payload in async RL by transmitting only changed parameters."
+        "zh": "介绍了一种在异步强化学习中减少权重同步负载的方法“Delta Weight Sync”，通过仅传输更改的模型参数显著减少数据传输。",
+        "en": "Introduces 'Delta Weight Sync' to reduce weight sync payload in async RL by transmitting only changed parameters."
       },
       "tags": [
         "cat:tech",
@@ -4241,12 +4102,12 @@
       "source": "Techmeme",
       "url": "https://developers.openai.com/api/docs/guides/secure-mcp-tunnels?utm_source=tldrai",
       "title": {
-        "zh": "安全MCP隧道",
+        "zh": "安全MCP隧道：保护私有服务器与OpenAI产品的连接",
         "en": "Secure MCP Tunnel (6 minute read)"
       },
       "summary": {
-        "zh": "",
-        "en": "Secure MCP Tunnel connects private MCP servers to OpenAI products while maintaining server privacy and secure data flow."
+        "zh": "安全MCP隧道通过建立HTTPS路径连接私有MCP服务器与OpenAI产品，确保服务器隐私并支持企业网络需求。",
+        "en": "Secure MCP Tunnel connects private MCP servers to OpenAI products via HTTPS paths, ensuring privacy and enterprise compatibility."
       },
       "tags": [
         "cat:app",
@@ -4268,12 +4129,12 @@
       "source": "Techmeme",
       "url": "https://threadreaderapp.com/thread/2059675872408260816.html?utm_source=tldrai",
       "title": {
-        "zh": "LiteParse v2.0发布：本地运行的高效PDF解析工具",
+        "zh": "LiteParse v2.0：本地运行的高效PDF解析工具",
         "en": "LiteParse v2.0 (1 minute read)"
       },
       "summary": {
-        "zh": "LiteParse是一款独立的开源PDF解析工具，支持高质量的空间文本解析，支持多语言和多平台，完全在本地运行，无需依赖云服务。",
-        "en": "LiteParse is an OSS PDF parsing tool offering high-quality spatial text parsing locally without cloud dependencies."
+        "zh": "LiteParse是一款开源PDF解析工具，支持高质量的空间文本解析，完全本地运行，无需依赖云或专有LLM功能。",
+        "en": "LiteParse is an OSS PDF parsing tool offering high-quality local parsing without cloud dependencies or proprietary LLM features."
       },
       "tags": [
         "cat:app",
@@ -4297,8 +4158,8 @@
         "en": "NVIDIA's LocateAnything for Faster Grounding (8 minute read)"
       },
       "summary": {
-        "zh": "NVIDIA推出LocateAnything，这是一种视觉语言锚定框架，可并行解码边界框，从而加快处理速度。",
-        "en": "NVIDIA's LocateAnything is a vision-language grounding framework that decodes bounding boxes in parallel for faster processing."
+        "zh": "NVIDIA的LocateAnything是一种视觉语言锚定框架，通过并行解码边界框而非逐字解码，显著提升效率。",
+        "en": "NVIDIA's LocateAnything is a vision-language grounding framework decoding bounding boxes in parallel for faster processing."
       },
       "tags": [
         "cat:tech",
@@ -4324,8 +4185,8 @@
         "en": "Introducing Apex: A Fast, Specialized Model for React Native"
       },
       "summary": {
-        "zh": "Apex 是一个专为 React Native 开发的编码模型，能够分析架构决策、修复框架特定问题并推理约束条件。该模型目前处于开发阶段，并已向部分团队开放私测。",
-        "en": "Apex is a React Native coding model designed to analyze architecture decisions, fix framework-specific issues, and reason about constraints. It is currently in private beta with selected teams."
+        "zh": "Apex 是一个专为 React Native 开发的编码模型，能够分析架构决策、修复框架特定问题，并推理约束条件。目前仍在开发中，已向部分团队提供私测版本。",
+        "en": "Apex is a React Native coding model designed to optimize app development by analyzing architecture, fixing framework-specific issues, and reasoning about constraints. It is currently in private beta."
       },
       "tags": [
         "cat:model",
@@ -4345,12 +4206,12 @@
       "source": "Techmeme",
       "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/?utm_source=tldrai",
       "title": {
-        "zh": "Nvidia 投资 1500 亿美元支持台湾，反击美国 AI 中心计划",
+        "zh": "Nvidia 投资 1500 亿美元支持台湾，特朗普 AI 中心计划受挫",
         "en": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires"
       },
       "summary": {
-        "zh": "Nvidia 将每年投资 1500 亿美元，确保台湾在 AI 革命中的核心地位。该公司计划在台湾建立新总部，加强与 TSMC 的合作，并利用当地先进的封装技术。",
-        "en": "Nvidia will invest $150 billion annually to solidify Taiwan's position as a tech manufacturing hub, including a new headquarters and partnerships with TSMC."
+        "zh": "Nvidia 每年将投资 1500 亿美元，确保台湾在 AI 革命中的核心地位，并在台湾建立新总部以加强与 TSMC 的合作。",
+        "en": "Nvidia will invest $150 billion annually to solidify Taiwan's role in the AI revolution, including a new headquarters and partnerships with TSMC."
       },
       "tags": [
         "cat:business",
@@ -4376,7 +4237,7 @@
         "en": "YouTube Expands Automatic AI Video Labeling"
       },
       "summary": {
-        "zh": "YouTube 宣布将自动为包含显著写实 AI 内容的视频添加标签，以减少对创作者自我披露的依赖。",
+        "zh": "YouTube 宣布将自动为包含显著拟真 AI 内容的视频添加标签，以减少对创作者自我披露的依赖。",
         "en": "YouTube will automatically label videos with significant photorealistic AI content, reducing reliance on creator self-disclosure."
       },
       "tags": [
@@ -4397,12 +4258,12 @@
       "source": "Techmeme",
       "url": "https://cryptobriefing.com/trajectory-ai-startup-google-apple-researchers/?utm_source=tldrai",
       "title": {
-        "zh": "前 Google 和 Apple 研究员创立 Trajectory，提升 AI 反馈循环",
+        "zh": "前 Google 和 Apple 研究人员创立 Trajectory，提升 AI 反馈循环",
         "en": "Former Google and Apple researchers launch Trajectory to enhance AI feedback loops"
       },
       "summary": {
-        "zh": "一家位于帕洛阿尔托的新创公司 Trajectory 致力于开发能够观察和解释物理世界的 AI 系统。",
-        "en": "The Palo Alto-based startup Trajectory aims to develop AI systems capable of interpreting the physical world."
+        "zh": "一家位于帕洛阿尔托的新创公司 Trajectory 由前 Google 和 Apple 研究人员创立，旨在开发能够观察和解释物理世界的 AI 系统。",
+        "en": "Palo Alto-based startup Trajectory, founded by former Google and Apple researchers, aims to develop AI systems that can interpret the physical world."
       },
       "tags": [
         "cat:business",
@@ -4422,25 +4283,25 @@
       "source": "Techmeme",
       "url": "https://sherwood.news/tech/google-deepminds-hassabis-agi-is-3-to-4-years-away/?utm_source=tldrai",
       "title": {
-        "zh": "Google DeepMind 的 Hassabis：AGI 或将在 3 到 4 年内实现",
+        "zh": "Google DeepMind CEO Hassabis：AGI 或将在 3 到 4 年内实现",
         "en": "Google DeepMind's Hassabis: AGI is 3 to 4 years away"
       },
       "summary": {
-        "zh": "Google DeepMind CEO Demis Hassabis 预测 AGI 将在 2029-2030 年实现，比他之前预测的 2030-2035 年有所提前。",
+        "zh": "Google DeepMind CEO Demis Hassabis 预测 AGI 可能在 2029-2030 年实现，比他之前预测的 2030-2035 年有所提前。",
         "en": "Google DeepMind CEO Demis Hassabis predicts AGI could be achieved by 2029-30, earlier than his previous estimate of 2030-2035."
       },
       "tags": [
         "cat:other",
-        "demis-hassabis",
+        "google",
         "deepmind",
-        "google"
+        "demis-hassabis"
       ],
       "tweets": [],
       "score": null,
       "entity_tags": [
-        "demis-hassabis",
+        "google",
         "deepmind",
-        "google"
+        "demis-hassabis"
       ],
       "category_tag": "cat:other",
       "date": "2026-05-28"
@@ -4455,8 +4316,8 @@
         "en": "Google expands Gemini for Business with shareable Projects"
       },
       "summary": {
-        "zh": "Google 为 Gemini for Business 增加了可共享项目功能，允许团队成员在专用的多界面工作空间中协作。",
-        "en": "Google enhances Gemini for Business with shareable Projects, enabling team collaboration in dedicated multi-surface workspaces."
+        "zh": "Google 为 Gemini for Business 增加了可共享项目功能，支持团队成员在专用的多界面工作区中协作。",
+        "en": "Google enhances Gemini for Business with shareable Projects, enabling team collaboration in multi-surface workspaces."
       },
       "tags": [
         "cat:app",
@@ -4522,13 +4383,7 @@
     ],
     "funding": [
       "2026-05-28:TM-02",
-      "2026-05-28:TM-12",
-      "2026-05-28:TM-15",
-      "2026-05-28:TM-18",
-      "2026-05-28:TM-20",
-      "2026-05-28:TM-23",
       "2026-05-28:TM-45",
-      "2026-05-28:TM-46",
       "2026-05-28:TM-47",
       "2026-05-28:TM-48",
       "2026-05-28:TM-49",
@@ -4537,8 +4392,7 @@
       "2026-05-28:TM-52",
       "2026-05-28:TM-57",
       "2026-05-28:TM-61",
-      "2026-05-28:TM-64",
-      "2026-05-28:TL-01"
+      "2026-05-28:TM-64"
     ],
     "apple": [
       "2026-05-28:TM-04",
@@ -4564,7 +4418,6 @@
     ],
     "agent": [
       "2026-05-28:TM-08",
-      "2026-05-28:TM-21",
       "2026-05-28:TM-22",
       "2026-05-28:TM-52",
       "2026-05-28:TL-05"
@@ -4574,18 +4427,16 @@
     ],
     "enterprise": [
       "2026-05-28:TM-10",
+      "2026-05-28:TM-12",
       "2026-05-28:TM-15",
       "2026-05-28:TM-21",
       "2026-05-28:TM-22",
+      "2026-05-28:TM-46",
       "2026-05-28:TL-07",
       "2026-05-28:TL-17"
     ],
     "mistral": [
       "2026-05-28:TM-12"
-    ],
-    "autonomous-driving": [
-      "2026-05-28:TM-12",
-      "2026-05-28:TM-55"
     ],
     "ibm": [
       "2026-05-28:TM-13",
@@ -4593,70 +4444,11 @@
     ],
     "open-source": [
       "2026-05-28:TM-13",
-      "2026-05-28:TL-03",
       "2026-05-28:TL-08"
     ],
-    "data-center": [
-      "2026-05-28:TM-16",
-      "2026-05-28:TM-17",
-      "2026-05-28:TM-19",
-      "2026-05-28:TM-26",
-      "2026-05-28:TM-31",
-      "2026-05-28:TM-32"
-    ],
-    "gpu": [
-      "2026-05-28:TM-16",
-      "2026-05-28:TM-19"
-    ],
-    "chip": [
-      "2026-05-28:TM-17",
-      "2026-05-28:TM-18",
-      "2026-05-28:TM-19",
-      "2026-05-28:TM-20",
-      "2026-05-28:TM-26",
-      "2026-05-28:TM-27",
-      "2026-05-28:TM-28",
-      "2026-05-28:TM-45",
-      "2026-05-28:TL-11"
-    ],
-    "bytedance": [
-      "2026-05-28:TM-23",
-      "2026-05-28:TM-26"
-    ],
-    "policy": [
-      "2026-05-28:TM-27",
-      "2026-05-28:TM-40",
-      "2026-05-28:TM-44",
-      "2026-05-28:TM-58",
-      "2026-05-28:TM-61"
-    ],
-    "energy": [
-      "2026-05-28:TM-31",
-      "2026-05-28:TM-32"
-    ],
-    "quantum": [
-      "2026-05-28:TM-34",
-      "2026-05-28:TM-35"
-    ],
-    "amazon": [
-      "2026-05-28:TM-42",
-      "2026-05-28:TM-57"
-    ],
-    "acquisition": [
-      "2026-05-28:TM-42",
-      "2026-05-28:TM-43",
-      "2026-05-28:TM-44",
-      "2026-05-28:TM-46"
-    ],
-    "jd": [
-      "2026-05-28:TM-44"
-    ],
-    "nvidia": [
-      "2026-05-28:TM-45",
-      "2026-05-28:TL-09",
-      "2026-05-28:TL-11"
-    ],
     "startup": [
+      "2026-05-28:TM-15",
+      "2026-05-28:TM-46",
       "2026-05-28:TM-47",
       "2026-05-28:TM-48",
       "2026-05-28:TM-49",
@@ -4668,6 +4460,65 @@
       "2026-05-28:TL-01",
       "2026-05-28:TL-13"
     ],
+    "chip": [
+      "2026-05-28:TM-17",
+      "2026-05-28:TM-18",
+      "2026-05-28:TM-19",
+      "2026-05-28:TM-20",
+      "2026-05-28:TM-26",
+      "2026-05-28:TM-27",
+      "2026-05-28:TM-28",
+      "2026-05-28:TL-11"
+    ],
+    "gpu": [
+      "2026-05-28:TM-18",
+      "2026-05-28:TM-19",
+      "2026-05-28:TM-20",
+      "2026-05-28:TM-28",
+      "2026-05-28:TM-45"
+    ],
+    "bytedance": [
+      "2026-05-28:TM-23",
+      "2026-05-28:TM-26"
+    ],
+    "policy": [
+      "2026-05-28:TM-27",
+      "2026-05-28:TM-38",
+      "2026-05-28:TM-40",
+      "2026-05-28:TM-44",
+      "2026-05-28:TM-58"
+    ],
+    "data-center": [
+      "2026-05-28:TM-31",
+      "2026-05-28:TM-32"
+    ],
+    "energy": [
+      "2026-05-28:TM-31",
+      "2026-05-28:TM-32"
+    ],
+    "quantum": [
+      "2026-05-28:TM-34",
+      "2026-05-28:TM-35"
+    ],
+    "gemini": [
+      "2026-05-28:TM-38",
+      "2026-05-28:TL-17"
+    ],
+    "amazon": [
+      "2026-05-28:TM-42",
+      "2026-05-28:TM-57"
+    ],
+    "acquisition": [
+      "2026-05-28:TM-42",
+      "2026-05-28:TM-43",
+      "2026-05-28:TM-44",
+      "2026-05-28:TM-46"
+    ],
+    "nvidia": [
+      "2026-05-28:TM-45",
+      "2026-05-28:TL-09",
+      "2026-05-28:TL-11"
+    ],
     "video-gen": [
       "2026-05-28:TM-50",
       "2026-05-28:TL-12"
@@ -4675,11 +4526,11 @@
     "safety": [
       "2026-05-28:TM-51"
     ],
+    "autonomous-driving": [
+      "2026-05-28:TM-55"
+    ],
     "snowflake": [
       "2026-05-28:TM-57"
-    ],
-    "regulation": [
-      "2026-05-28:TM-58"
     ],
     "api": [
       "2026-05-28:TL-04"
@@ -4699,14 +4550,11 @@
     "multimodal": [
       "2026-05-28:TL-09"
     ],
-    "demis-hassabis": [
-      "2026-05-28:TL-15"
-    ],
     "deepmind": [
       "2026-05-28:TL-15"
     ],
-    "gemini": [
-      "2026-05-28:TL-17"
+    "demis-hassabis": [
+      "2026-05-28:TL-15"
     ],
     "voice": [
       "2026-05-28:TL-19"
@@ -4752,6 +4600,7 @@
       "2026-05-26:LEGACY-003",
       "2026-05-28:TM-13",
       "2026-05-28:TM-26",
+      "2026-05-28:TM-34",
       "2026-05-28:TM-35",
       "2026-05-28:TL-06",
       "2026-05-28:TL-09"
@@ -4866,19 +4715,13 @@
       "2026-05-28:TM-10",
       "2026-05-28:TM-12",
       "2026-05-28:TM-15",
-      "2026-05-28:TM-16",
-      "2026-05-28:TM-17",
       "2026-05-28:TM-18",
-      "2026-05-28:TM-19",
       "2026-05-28:TM-20",
       "2026-05-28:TM-22",
       "2026-05-28:TM-23",
-      "2026-05-28:TM-31",
       "2026-05-28:TM-32",
-      "2026-05-28:TM-34",
       "2026-05-28:TM-42",
       "2026-05-28:TM-43",
-      "2026-05-28:TM-44",
       "2026-05-28:TM-45",
       "2026-05-28:TM-46",
       "2026-05-28:TM-47",
@@ -4907,25 +4750,34 @@
       "2026-05-25:LEGACY-035",
       "2026-05-26:LEGACY-033",
       "2026-05-26:LEGACY-034",
+      "2026-05-28:TM-17",
+      "2026-05-28:TM-19",
       "2026-05-28:TM-27",
       "2026-05-28:TM-28",
+      "2026-05-28:TM-31",
+      "2026-05-28:TM-38",
       "2026-05-28:TM-40",
+      "2026-05-28:TM-44",
       "2026-05-28:TM-58",
       "2026-05-28:TL-15"
     ]
   },
   "tag_stats": [
     {
-      "tag": "funding",
-      "count": 18
+      "tag": "startup",
+      "count": 12
     },
     {
-      "tag": "startup",
-      "count": 10
+      "tag": "funding",
+      "count": 11
+    },
+    {
+      "tag": "enterprise",
+      "count": 8
     },
     {
       "tag": "chip",
-      "count": 9
+      "count": 8
     },
     {
       "tag": "anthropic",
@@ -4936,15 +4788,7 @@
       "count": 6
     },
     {
-      "tag": "enterprise",
-      "count": 6
-    },
-    {
-      "tag": "data-center",
-      "count": 6
-    },
-    {
-      "tag": "agent",
+      "tag": "gpu",
       "count": 5
     },
     {
@@ -4956,12 +4800,12 @@
       "count": 4
     },
     {
-      "tag": "acquisition",
+      "tag": "agent",
       "count": 4
     },
     {
-      "tag": "open-source",
-      "count": 3
+      "tag": "acquisition",
+      "count": 4
     },
     {
       "tag": "nvidia",
@@ -4980,19 +4824,19 @@
       "count": 2
     },
     {
-      "tag": "autonomous-driving",
-      "count": 2
-    },
-    {
       "tag": "ibm",
       "count": 2
     },
     {
-      "tag": "gpu",
+      "tag": "open-source",
       "count": 2
     },
     {
       "tag": "bytedance",
+      "count": 2
+    },
+    {
+      "tag": "data-center",
       "count": 2
     },
     {
@@ -5001,6 +4845,10 @@
     },
     {
       "tag": "quantum",
+      "count": 2
+    },
+    {
+      "tag": "gemini",
       "count": 2
     },
     {
@@ -5024,19 +4872,15 @@
       "count": 1
     },
     {
-      "tag": "jd",
-      "count": 1
-    },
-    {
       "tag": "safety",
       "count": 1
     },
     {
-      "tag": "snowflake",
+      "tag": "autonomous-driving",
       "count": 1
     },
     {
-      "tag": "regulation",
+      "tag": "snowflake",
       "count": 1
     },
     {
@@ -5064,15 +4908,11 @@
       "count": 1
     },
     {
-      "tag": "demis-hassabis",
-      "count": 1
-    },
-    {
       "tag": "deepmind",
       "count": 1
     },
     {
-      "tag": "gemini",
+      "tag": "demis-hassabis",
       "count": 1
     },
     {
@@ -5083,7 +4923,7 @@
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 100,
+      "count": 94,
       "label_zh": "新商业"
     },
     {
@@ -5093,12 +4933,12 @@
     },
     {
       "tag": "cat:tech",
-      "count": 27,
+      "count": 28,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:other",
-      "count": 16,
+      "count": 21,
       "label_zh": "其它"
     },
     {

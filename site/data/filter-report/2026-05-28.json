@@ -12,7 +12,7 @@
     },
     {
       "id": "TM-02",
-      "score": 9.5,
+      "score": 9.0,
       "keep": true,
       "reason": "Anthropic融资65亿美元，估值超越OpenAI，显示出行业竞争格局的重大变化。"
     },
@@ -20,13 +20,13 @@
       "id": "TM-03",
       "score": 4.0,
       "keep": false,
-      "reason": "Dell的财报表现良好，但信息较为常规，未涉及AI相关内容。"
+      "reason": "Dell的财报表现虽好，但信息较常规，未涉及AI相关内容。"
     },
     {
       "id": "TM-04",
       "score": 6.0,
       "keep": true,
-      "reason": "苹果Siri的重大改版可能影响用户体验，但信息量有限。"
+      "reason": "苹果Siri的重大改版和新功能值得关注，但信息量有限。"
     },
     {
       "id": "TM-05",
@@ -44,37 +44,37 @@
       "id": "TM-07",
       "score": 4.0,
       "keep": false,
-      "reason": "关于罚款的消息较为常规，未涉及AI核心内容。"
+      "reason": "关于罚款的报道信息量较少，未涉及AI核心内容。"
     },
     {
       "id": "TM-08",
       "score": 8.0,
       "keep": true,
-      "reason": "Anthropic和OpenAI在编码代理方面找到市场契合点，表明AI工具的实际应用价值。"
+      "reason": "Anthropic和OpenAI在编码代理方面找到市场契合点，反映出行业应用趋势。"
     },
     {
       "id": "TM-09",
       "score": 5.0,
       "keep": false,
-      "reason": "Visa对Replit的投资值得关注，但信息量有限。"
+      "reason": "Visa对Replit的投资虽有意义，但信息量较常规。"
     },
     {
       "id": "TM-10",
       "score": 8.0,
       "keep": true,
-      "reason": "Meta计划在企业客户中嵌入工程师，显示出其AI工具的市场应用策略。"
+      "reason": "Meta计划在企业客户中嵌入工程师，显示出其AI工具的战略部署。"
     },
     {
       "id": "TM-11",
       "score": 3.0,
       "keep": false,
-      "reason": "关于亚马逊内部管理的消息与AI关系不大。"
+      "reason": "关于亚马逊内部管理的报道与AI关系不大。"
     },
     {
       "id": "TM-12",
       "score": 8.0,
       "keep": true,
-      "reason": "Mistral加速超级智能开发，显示出对欧洲技术独立性的重视。"
+      "reason": "Mistral加速超智能开发，显示出对欧洲技术独立性的重视。"
     },
     {
       "id": "TM-13",
@@ -86,7 +86,7 @@
       "id": "TM-14",
       "score": 4.0,
       "keep": false,
-      "reason": "JD.com创始人的声明与AI关系不大，主要是公司内部管理。"
+      "reason": "JD.com创始人的声明虽有关注点，但与AI直接关联不强。"
     },
     {
       "id": "TM-15",
@@ -96,93 +96,93 @@
     },
     {
       "id": "TM-16",
-      "score": 6.0,
-      "keep": true,
-      "reason": "上海期货交易所设计AI代币期货合约，信息量一般。"
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于期货合约的设计信息量一般，未涉及具体AI应用。"
     },
     {
       "id": "TM-17",
-      "score": 7.0,
+      "score": 6.0,
       "keep": true,
-      "reason": "AI需求激增导致光学供应链短缺，反映出行业趋势。"
+      "reason": "AI需求导致光学供应链短缺，反映出行业影响，但信息较常规。"
     },
     {
       "id": "TM-18",
-      "score": 8.0,
+      "score": 7.0,
       "keep": true,
-      "reason": "Apollo Global和Blackstone的融资交易显示出对AI硬件的强烈需求。"
+      "reason": "Apollo Global和Blackstone的融资交易涉及AI硬件，值得关注。"
     },
     {
       "id": "TM-19",
       "score": 6.0,
       "keep": true,
-      "reason": "全球AI硬件需求的变化对中国出口的影响，信息量一般。"
+      "reason": "全球AI硬件需求变化对中国出口的影响，信息量一般。"
     },
     {
       "id": "TM-20",
       "score": 7.0,
       "keep": true,
-      "reason": "台湾科技公司为满足AI需求进行债务融资，显示出市场动态。"
+      "reason": "台湾科技公司为满足AI需求进行融资，显示出市场动态。"
     },
     {
       "id": "TM-21",
       "score": 7.0,
       "keep": true,
-      "reason": "公司在印度利用AI提升创意工作效率，反映出AI的实际应用。"
+      "reason": "公司在印度利用AI提升创意工作效率，反映出应用趋势。"
     },
     {
       "id": "TM-22",
       "score": 6.0,
       "keep": true,
-      "reason": "Okta的财报显示AI工具需求上升，但信息较为常规。"
+      "reason": "Okta的财报显示AI工具需求上升，但信息量较常规。"
     },
     {
       "id": "TM-23",
       "score": 6.0,
       "keep": true,
-      "reason": "Kuaishou的财报表现良好，但信息量有限。"
+      "reason": "Kuaishou的财报表现虽好，但信息量一般。"
     },
     {
       "id": "TM-24",
       "score": 5.0,
       "keep": false,
-      "reason": "Qualcomm推出新芯片，信息较为常规。"
+      "reason": "Qualcomm新芯片发布信息量一般，未涉及AI核心内容。"
     },
     {
       "id": "TM-25",
       "score": 5.0,
       "keep": false,
-      "reason": "Intel发布新游戏芯片，信息量一般。"
+      "reason": "Intel新游戏芯片发布信息量一般，未涉及AI核心内容。"
     },
     {
       "id": "TM-26",
       "score": 8.0,
       "keep": true,
-      "reason": "字节跳动开发自有CPU以支持AI基础设施，反映出行业对芯片的需求和挑战。"
+      "reason": "字节跳动开发自有CPU以支持AI基础设施，反映出对芯片供应链的重视和应对策略。"
     },
     {
       "id": "TM-27",
       "score": 8.0,
       "keep": true,
-      "reason": "欧盟准备采取紧急措施干预芯片供应链，显示出政策层面对芯片行业的重视。"
+      "reason": "欧盟准备采取紧急措施干预芯片供应链，显示出对半导体行业的高度关注。"
     },
     {
       "id": "TM-28",
       "score": 6.0,
       "keep": true,
-      "reason": "半导体指数上涨反映市场趋势，但信息较为常规。"
+      "reason": "费城半导体指数上涨反映市场趋势，但信息较为常规。"
     },
     {
       "id": "TM-29",
       "score": 5.0,
       "keep": false,
-      "reason": "Synopsys与Elliott达成协议，信息量有限。"
+      "reason": "Synopsys与Elliott达成协议，信息量有限且较为常规。"
     },
     {
       "id": "TM-30",
       "score": 5.0,
       "keep": false,
-      "reason": "关于Anthropic的租赁协议，信息较为常规。"
+      "reason": "关于Elon Musk与Anthropic的交易细节，信息量较少。"
     },
     {
       "id": "TM-31",
@@ -194,265 +194,265 @@
       "id": "TM-32",
       "score": 6.0,
       "keep": true,
-      "reason": "澳大利亚数据中心投资增长，信息量一般。"
+      "reason": "澳大利亚数据中心投资增长反映市场动态，但信息较为常规。"
     },
     {
       "id": "TM-33",
       "score": 5.0,
       "keep": false,
-      "reason": "AWS使用新网络架构的报道，信息较为常规。"
+      "reason": "AWS使用新网络架构的信息较为技术性，缺乏行业影响力。"
     },
     {
       "id": "TM-34",
       "score": 9.0,
       "keep": true,
-      "reason": "IBM计划在量子计算上投资超过100亿美元，目标明确且影响深远。"
+      "reason": "IBM计划在量子计算上投资超过100亿美元，目标明确且具有行业影响力。"
     },
     {
       "id": "TM-35",
       "score": 8.0,
       "keep": true,
-      "reason": "英国研究人员获得谷歌量子芯片的访问，展示了量子计算的突破性进展。"
+      "reason": "英国研究人员获得谷歌量子芯片的访问，显示出量子计算的重大进展。"
     },
     {
       "id": "TM-36",
       "score": 5.0,
       "keep": false,
-      "reason": "Airwallex的员工迁移信息较为常规。"
+      "reason": "Airwallex的人员迁移信息较为常规，缺乏行业影响力。"
     },
     {
       "id": "TM-37",
       "score": 5.0,
       "keep": false,
-      "reason": "三星收购Dunamu股份，信息量有限。"
+      "reason": "三星收购Dunamu股份的信息较为常规，缺乏深度分析。"
     },
     {
       "id": "TM-38",
-      "score": 4.0,
-      "keep": false,
-      "reason": "CFTC撤销与Gemini的和解，信息较少且不具行业影响。"
+      "score": 6.0,
+      "keep": true,
+      "reason": "CFTC撤销与Gemini的和解，反映政策变化但信息量有限。"
     },
     {
       "id": "TM-39",
-      "score": 4.0,
+      "score": 5.0,
       "keep": false,
-      "reason": "CNN起诉Perplexity的报道，信息量较少。"
+      "reason": "CNN起诉Perplexity的信息较为常规，缺乏行业影响力。"
     },
     {
       "id": "TM-40",
-      "score": 6.0,
+      "score": 7.0,
       "keep": true,
-      "reason": "加州AG起诉23andMe涉及用户数据保护，反映出数据隐私问题。"
+      "reason": "加州AG起诉23andMe涉及用户数据保护，反映出对隐私问题的关注。"
     },
     {
       "id": "TM-41",
       "score": 5.0,
       "keep": false,
-      "reason": "Last.fm重新独立的信息较为常规。"
+      "reason": "Last.fm重新独立的信息较为常规，缺乏行业影响力。"
     },
     {
       "id": "TM-42",
       "score": 7.0,
       "keep": true,
-      "reason": "亚马逊收购Globalstar的股份，涉及卫星通信领域的战略布局。"
+      "reason": "亚马逊收购Globalstar股份，涉及卫星通信领域的战略布局。"
     },
     {
       "id": "TM-43",
-      "score": 7.0,
+      "score": 8.0,
       "keep": true,
-      "reason": "Autodesk收购MaintainX，显示出对维护工具市场的关注。"
+      "reason": "Autodesk收购MaintainX，显示出在维护工具领域的战略扩展。"
     },
     {
       "id": "TM-44",
-      "score": 6.0,
+      "score": 7.0,
       "keep": true,
-      "reason": "欧盟对JD.com收购Ceconomy的审查，反映出对外资收购的监管。"
+      "reason": "欧盟对JD.com收购Ceconomy的审查，反映出对外资收购的监管关注。"
     },
     {
       "id": "TM-45",
       "score": 8.0,
       "keep": true,
-      "reason": "Groq筹集资金并与Nvidia达成协议，显示出AI芯片市场的动态。"
+      "reason": "Groq筹集资金并与Nvidia达成协议，显示出AI芯片市场的竞争态势。"
     },
     {
       "id": "TM-46",
       "score": 7.0,
       "keep": true,
-      "reason": "Fonoa融资并收购PwC平台，显示出税务合规领域的市场活跃。"
+      "reason": "Fonoa融资并收购PwC平台，显示出税务合规领域的市场活跃度。"
     },
     {
       "id": "TM-47",
       "score": 8.0,
       "keep": true,
-      "reason": "Corgi融资并提升估值，反映出AI保险市场的增长潜力。"
+      "reason": "Corgi融资并提升估值，反映出AI在保险领域的应用潜力。"
     },
     {
       "id": "TM-48",
       "score": 6.0,
       "keep": true,
-      "reason": "Orbital Industries融资信息较为常规。"
+      "reason": "Orbital Industries融资信息较为常规，缺乏行业深度分析。"
     },
     {
       "id": "TM-49",
       "score": 7.0,
       "keep": true,
-      "reason": "Triomics融资并专注于癌症数据自动化，显示出AI在医疗领域的应用。"
+      "reason": "Triomics融资并专注于肿瘤学AI平台，显示出医疗领域的创新潜力。"
     },
     {
       "id": "TM-50",
       "score": 8.0,
       "keep": true,
-      "reason": "Reactor推出实时视频生成平台，展示了AI技术的创新应用。"
+      "reason": "Reactor推出实时视频生成AI平台，显示出技术创新和市场需求。"
     },
     {
       "id": "TM-51",
       "score": 7.5,
       "keep": true,
-      "reason": "融资金额和估值显示出AI安全治理领域的潜力"
+      "reason": "融资金额较大，且涉及AI安全和治理平台，具有行业关注度"
     },
     {
       "id": "TM-52",
-      "score": 7.5,
+      "score": 7.0,
       "keep": true,
-      "reason": "融资信息表明AI在金融行业的应用正在加速"
+      "reason": "融资信息值得关注，涉及银行和信用社的AI自动化应用"
     },
     {
       "id": "TM-53",
-      "score": 5.5,
+      "score": 5.0,
       "keep": false,
-      "reason": "裁员信息反映出AI对传统行业的影响，但缺乏深度分析"
+      "reason": "裁员信息常规，未直接涉及AI技术或重大变革"
     },
     {
       "id": "TM-54",
       "score": 5.0,
       "keep": false,
-      "reason": "产品更新信息较为常规，缺乏创新亮点"
+      "reason": "产品更新常规，未涉及重大技术突破或市场变化"
     },
     {
       "id": "TM-55",
       "score": 8.0,
       "keep": true,
-      "reason": "Waymo的机器人出租车项目展示了自动驾驶技术的进展"
+      "reason": "Waymo推出新型机器人出租车，具有行业影响力和技术创新"
     },
     {
       "id": "TM-56",
       "score": 5.0,
       "keep": false,
-      "reason": "资金增加的消息对Meta的运营有影响，但不具备战略意义"
+      "reason": "资金增加信息常规，未涉及重大政策或战略变动"
     },
     {
       "id": "TM-57",
       "score": 6.0,
       "keep": true,
-      "reason": "股价波动与AI计算交易相关，但信息量有限"
+      "reason": "股价波动信息常规，虽有AI计算协议但影响有限"
     },
     {
       "id": "TM-58",
-      "score": 8.0,
+      "score": 7.0,
       "keep": true,
-      "reason": "五角大楼与无人机公司的合作可能影响国防科技领域"
+      "reason": "五角大楼与无人机公司合作，可能影响国防AI领域"
     },
     {
       "id": "TM-59",
       "score": 4.0,
       "keep": false,
-      "reason": "股市波动与AI关系不大，信息量不足"
+      "reason": "股价波动信息常规，未涉及AI技术或重大变革"
     },
     {
       "id": "TM-60",
       "score": 4.0,
       "keep": false,
-      "reason": "股票表现与AI无直接关联，信息较少"
+      "reason": "股价波动信息常规，未涉及AI技术或重大变革"
     },
     {
       "id": "TM-61",
-      "score": 7.0,
+      "score": 6.0,
       "keep": true,
-      "reason": "伦敦在科技领域的地位变化对行业有重要影响"
+      "reason": "伦敦科技中心地位变化，虽有行业影响但信息较常规"
     },
     {
       "id": "TM-62",
       "score": 4.0,
       "keep": false,
-      "reason": "价格上涨信息与AI无关，缺乏行业洞察"
+      "reason": "产品价格上涨信息常规，未涉及AI技术或重大变革"
     },
     {
       "id": "TM-63",
       "score": 5.0,
       "keep": false,
-      "reason": "市场竞争信息常规，缺乏深度分析"
+      "reason": "市场竞争信息常规，未涉及AI技术或重大变革"
     },
     {
       "id": "TM-64",
       "score": 7.0,
       "keep": true,
-      "reason": "非洲创业公司转向本地资金反映出AI投资环境的变化"
+      "reason": "非洲初创企业转向国内资金，反映AI投资趋势变化"
     },
     {
       "id": "TL-01",
       "score": 9.0,
       "keep": true,
-      "reason": "Cognition的融资和产品创新对软件开发行业具有重大影响"
+      "reason": "Cognition融资及AI工程师产品显著影响软件开发行业"
     },
     {
       "id": "TL-02",
       "score": 7.0,
       "keep": true,
-      "reason": "音乐生成模型的发布展示了AI在创意领域的应用潜力"
+      "reason": "音乐生成模型更新，具有技术创新和应用潜力"
     },
     {
       "id": "TL-03",
       "score": 9.0,
       "keep": true,
-      "reason": "Biohub的蛋白质生物学模型发布对科学研究具有重要意义"
+      "reason": "Biohub发布蛋白质生物学模型，具有重大科研价值"
     },
     {
       "id": "TL-04",
       "score": 8.0,
       "keep": true,
-      "reason": "Anthropic和OpenAI的API定价策略反映出市场需求的变化"
+      "reason": "Anthropic和OpenAI找到产品市场契合，影响行业定价策略"
     },
     {
       "id": "TL-05",
       "score": 8.0,
       "keep": true,
-      "reason": "自我改进的税务代理展示了AI在实际应用中的潜力"
+      "reason": "OpenAI构建自我改进的税务代理，展示AI应用潜力"
     },
     {
       "id": "TL-06",
-      "score": 7.5,
+      "score": 7.0,
       "keep": true,
-      "reason": "新方法在强化学习中的应用可能提升模型效率"
+      "reason": "新方法减少数据传输，提升RL效率，具有技术价值"
     },
     {
       "id": "TL-07",
-      "score": 6.5,
+      "score": 6.0,
       "keep": true,
-      "reason": "安全连接方案对企业应用有一定价值，但信息量有限"
+      "reason": "安全连接解决方案更新，适用于企业网络需求"
     },
     {
       "id": "TL-08",
       "score": 6.0,
       "keep": true,
-      "reason": "PDF解析工具的更新对特定用户有用，但影响较小"
+      "reason": "PDF解析工具更新，具有一定的技术应用价值"
     },
     {
       "id": "TL-09",
       "score": 7.0,
       "keep": true,
-      "reason": "NVIDIA的新框架在视觉语言处理领域具有创新性"
+      "reason": "NVIDIA推出新框架，提升视觉语言处理效率"
     },
     {
       "id": "TL-10",
       "score": 7.5,
       "keep": true,
-      "reason": "专门化模型的推出可能改变特定领域的开发效率"
+      "reason": "新模型针对React Native优化，具有行业应用潜力"
     },
     {
       "id": "TL-11",
       "score": 9.0,
       "keep": true,
-      "reason": "Nvidia的投资计划将深刻影响全球AI产业格局"
+      "reason": "Nvidia大规模投资台湾，影响全球AI产业格局"
     },
     {
       "id": "TL-12",
@@ -464,31 +464,31 @@
       "id": "TL-13",
       "score": 8.0,
       "keep": true,
-      "reason": "新创公司Trajectory旨在增强AI反馈循环，具有潜在的产品洞察。"
+      "reason": "新创公司致力于提升AI反馈循环，具有潜在的产品洞察价值。"
     },
     {
       "id": "TL-14",
       "score": 5.0,
       "keep": false,
-      "reason": "关于安全问题的研究，信息量一般，缺乏新颖性。"
+      "reason": "关于安全问题的研究，信息量一般，缺乏创新性。"
     },
     {
       "id": "TL-15",
       "score": 9.0,
       "keep": true,
-      "reason": "DeepMind CEO对AGI的预测更新，具有重要行业影响。"
+      "reason": "DeepMind CEO对AGI的时间预期更新，影响行业前景。"
     },
     {
       "id": "TL-16",
       "score": 5.0,
       "keep": false,
-      "reason": "关于食材嵌入的技术更新，信息量较常规。"
+      "reason": "新型食材嵌入模型的介绍，信息较为常规。"
     },
     {
       "id": "TL-17",
       "score": 7.0,
       "keep": true,
-      "reason": "Google Gemini的功能扩展，提升团队协作能力，值得关注。"
+      "reason": "Google Gemini的功能扩展，增强团队协作，值得关注。"
     },
     {
       "id": "TL-18",
