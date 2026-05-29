@@ -40,8 +40,9 @@
       "date": "2026-05-28",
       "title_zh": "AI 简报 2026-05-28",
       "title_en": "AI Daily 2026-05-28",
-      "total": 57,
+      "total": 41,
       "sources": [
+        "TLDR",
         "Techmeme"
       ],
       "path": "data/daily/2026-05-28.json",
@@ -89,7 +90,7 @@
       "label_zh": "2026年5月",
       "label_en": "2026 / May",
       "day_count": 4,
-      "item_count": 190,
+      "item_count": 174,
       "latest_date": "2026-05-19",
       "path": "data/monthly/2026-05.json"
     }
