@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Blogs | Fiona Gao</title>
+<style>
+:root {
+--bg-color: #FDFCF8;
+--text-main: #4A4643;
+--text-muted: #8E8A86;
+--accent-color: #A39B8B;
+--card-bg: #FFFFFF;
+--border-color: #EBE8E0;
+--toggle-bg: #F0EFE9;
+--nav-hover: #F5F4EE;
+--success-color: #10b981;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Helvetica Neue", sans-serif;
+background-color: var(--bg-color);
+color: var(--text-main);
+margin: 0;
+padding: 40px 20px;
+display: flex;
+flex-direction: column;
+align-items: center;
+min-height: 100vh;
+box-sizing: border-box;
+line-height: 1.6;
+}
+
+/* 页头样式优化 */
+.header { text-align: center; margin-bottom: 50px; width: 100%; max-width: 900px; }
+.header h1 { font-size: 2.4rem; font-weight: 600; margin: 0 0 12px 0; letter-spacing: 1px; }
+
+.contact-info {
+font-size: 0.95rem;
+color: var(--text-muted);
+margin-bottom: 15px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.email-copy {
+cursor: pointer;
+text-decoration: underline;
+text-underline-offset: 3px;
+transition: color 0.2s;
+position: relative;
+}
+.email-copy:hover { color: var(--text-main); }
+.copy-hint {
+position: absolute;
+bottom: 100%;
+left: 50%;
+transform: translateX(-50%);
+background: var(--text-main);
+color: #fff;
+padding: 4px 8px;
+border-radius: 4px;
+font-size: 10px;
+display: none;
+white-space: nowrap;
+}
+
+.header p { font-size: 1.05rem; color: var(--text-muted); font-weight: 300; margin-bottom: 25px; }
+
+.lang-toggle { display: inline-flex; background: var(--toggle-bg); border-radius: 30px; padding: 4px; }
+.lang-btn { background: transparent; border: none; padding: 8px 20px; font-size: 0.9rem; color: var(--text-muted); cursor: pointer; border-radius: 26px; transition: all 0.3s ease; font-weight: 500; }
+.lang-btn.active { background: var(--card-bg); color: var(--text-main); box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+
+/* 增量修改：稍微拓宽容器以容纳第三栏 */
+.layout-container { display: flex; width: 100%; max-width: 1200px; gap: 40px; align-items: flex-start; }
+
+/* 侧边栏 */
+.sidebar { width: 220px; position: sticky; top: 40px; flex-shrink: 0; }
+.nav-menu { display: none; flex-direction: column; gap: 8px; }
+.nav-menu.active { display: flex; }
+.nav-link { text-decoration: none; color: var(--text-muted); font-size: 0.95rem; padding: 10px 16px; border-radius: 8px; transition: all 0.2s ease; display: flex; align-items: center; gap: 8px; }
+.nav-link:hover { background-color: var(--nav-hover); color: var(--text-main); }
+
+/* 主内容区 */
+.main-content { flex-grow: 1; min-width: 0; max-width: 650px;}
+.content-lang-section { display: none; animation: fadeIn 0.4s ease forwards; }
+.content-lang-section.active { display: block; }
+
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+.anchor-section { scroll-margin-top: 40px; margin-bottom: 60px; }
+
+.category-title { font-size: 1.2rem; color: var(--text-main); margin: 0 0 20px 0; font-weight: 600; }
+
+.blog-list { display: flex; flex-direction: column; gap: 16px; }
+.blog-card { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 24px; text-decoration: none; display: flex; justify-content: space-between; align-items: center; transition: all 0.3s ease; }
+.blog-card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.04); border-color: var(--accent-color); }
+
+.blog-info h3 { margin: 0 0 8px 0; font-size: 1.1rem; font-weight: 600; color: var(--text-main); line-height: 1.4; }
+.blog-info p { margin: 0; font-size: 0.9rem; color: var(--text-muted); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+.arrow { font-size: 1.2rem; color: var(--accent-color); margin-left: 20px; transition: transform 0.3s ease; }
+.blog-card:hover .arrow { transform: translateX(4px); color: var(--text-main); }
+
+/* === 增量代码：右侧时间线板块 CSS === */
+.timeline-sidebar { width: 240px; position: sticky; top: 40px; flex-shrink: 0; }
+.timeline-header { font-size: 1.1rem; color: var(--text-main); margin: 0 0 16px 0; font-weight: 600; display: flex; align-items: center; gap: 6px; }
+.month-group { margin-bottom: 10px; }
+.month-title { font-size: 0.95rem; font-weight: 600; color: var(--text-main); background: var(--card-bg); border: 1px solid var(--border-color); padding: 10px 14px; border-radius: 8px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: all 0.2s ease; user-select: none; }
+.month-title:hover { border-color: var(--accent-color); }
+.month-title .icon { font-size: 0.75rem; color: var(--text-muted); transition: transform 0.3s ease; }
+.month-title.open .icon { transform: rotate(90deg); }
+.month-content { display: none; padding-left: 12px; margin-top: 12px; margin-left: 12px; border-left: 2px solid var(--border-color); }
+.month-content.open { display: block; animation: fadeIn 0.3s ease; }
+.timeline-item { position: relative; margin-bottom: 18px; padding-left: 14px; }
+.timeline-item::before { content: ''; position: absolute; left: -17px; top: 6px; width: 6px; height: 6px; background: var(--bg-color); border: 2px solid var(--accent-color); border-radius: 50%; }
+.item-date { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 2px; font-family: monospace; }
+.item-link { font-size: 0.9rem; color: var(--text-main); text-decoration: none; line-height: 1.4; display: block; transition: color 0.2s ease; }
+.item-link:hover { color: var(--accent-color); text-decoration: underline; text-underline-offset: 3px; }
+
+/* 页尾样式优化 */
+.footer {
+margin-top: 80px;
+padding: 40px 0;
+text-align: center;
+font-size: 0.85rem;
+color: var(--text-muted);
+border-top: 1px solid var(--border-color);
+width: 100%;
+max-width: 1000px;
+}
+.footer-disclaimer {
+margin-top: 12px;
+font-size: 0.75rem;
+opacity: 0.8;
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+line-height: 1.4;
+}
+
+@media (max-width: 900px) {
+.layout-container { flex-direction: column; gap: 20px; }
+.sidebar { width: 100%; position: sticky; top: 0; background-color: var(--bg-color); z-index: 100; padding: 10px 0; border-bottom: 1px solid var(--border-color); }
+.nav-menu.active { flex-direction: row; overflow-x: auto; white-space: nowrap; }
+.nav-link { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 20px; padding: 6px 16px; font-size: 0.85rem; }
+.anchor-section { scroll-margin-top: 80px; }
+/* 手机端适配时间线 */
+.main-content { max-width: 100%; }
+.timeline-sidebar { width: 100%; position: static; margin-top: 20px; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1 id="page-title">My Blogs & Thoughts</h1>
+<div class="contact-info">
+<span style="font-weight: 500;">Fiona Gao</span>
+<span>|</span>
+<span class="email-copy" onclick="copyEmail(this)">
+koala.fiona.gao@gmail.com
+<span class="copy-hint" id="copy-hint">Copied!</span>
+</span>
+</div>
+<p id="page-desc">Documenting my journey and insights in AI, Fintech, and Product Management.</p>
+
+<div class="lang-toggle">
+<button class="lang-btn active" onclick="switchLang('en')" id="btn-en">English</button>
+<button class="lang-btn" onclick="switchLang('zh')" id="btn-zh">中文</button>
+</div>
+</div>
+
+<div class="layout-container">
+
+<aside class="sidebar">
+<nav id="nav-en" class="nav-menu active">
+<a href="#en-ai-in-action" class="nav-link">🤖 AI in Action</a>
+<a href="#en-ai-insights" class="nav-link">💡 AI Insights</a>
+<a href="#en-case-studies" class="nav-link">📂 Case Studies</a>
+</nav>
+<nav id="nav-zh" class="nav-menu">
+<a href="#zh-ai-in-action" class="nav-link">🤖 AI 实战</a>
+<a href="#zh-ai-insights" class="nav-link">💡 AI 观察</a>
+<a href="#zh-case-studies" class="nav-link">📂 案例分析</a>
+</nav>
+</aside>
+
+<main class="main-content">
+
+<div id="content-en" class="content-lang-section active">
+<section id="en-ai-in-action" class="anchor-section">
+<h2 class="category-title">💡 AI in Action</h2>
+<div class="blog-list">
+<a href="./en/video-shopping-agent/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>Video Shopping: Embracing Agentic Commerce and Zero-Click UX</h3>
+<p>Restructuring the transaction chain via AI Agents: leveraging Shadow Carts and Session-end Checkout to turn "content immersion" into a zero-click, "intent is transaction" business loop.</p>
+</div>
+<div class="arrow">→</div>
+</a>
+</div>
+</section>
+
+<section id="en-ai-insights" class="anchor-section">
+<h2 class="category-title">💡 AI Insights</h2>
+<div class="blog-list">
+<a href="./en/openclaw-theory/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>OpenClaw-AI Agent Theories & Product Reflections (Deep Dive into First-hand Ref)</h3>
+<p>Deconstructing OpenClaw principles, attempting to map out a viable GTM roadmap for a highly capable—yet currently uncontrollable—AI Agent, with the vision of being next-gen OS-level infra.</p>
+</div>
+<div class="arrow">→</div>
+</a>
+<a href="./en/openclaw-on-github/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>OpenClaw-Raising a "Lobster" in GitHub Codespaces</h3>
+<p>A PM’s cloud-native guide to deploying OpenClaw on Codespaces—zero local setup, 100% cloud-based execution.</p>
+</div>
+<div class="arrow">→</div>
+</a>
+</div>
+</section>
+
+<section id="en-case-studies" class="anchor-section">
+<h2 class="category-title">📂 Case Studies</h2>
+<div class="blog-list">
+<a href="./en/payment-uber/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>Payment_Uber: Fintech From Platform Infra to a New Traffic Gateway</h3>
+<p>An in-depth analysis of how Uber evolved its payment infrastructure into a strategic growth lever and ecosystem gateway.</p>
+</div>
+<div class="arrow">→</div>
+</a>
+<a href="./en/payment-airbnb/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>Payment_Airbnb: Evolution of Global Payment Platform</h3>
+<p>Exploring Airbnb’s cross-border engine across 190+ countries: transforming payments into global trust infrastructure.</p>
+</div>
+<div class="arrow">→</div>
+</a>
+</div>
+</section>
+</div>
+
+<div id="content-zh" class="content-lang-section">
+<section id="zh-ai-in-action" class="anchor-section">
+<h2 class="category-title">💡 AI 实战</h2>
+<div class="blog-list">
+    <a href="./zh/agent-skill-newsletter/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>Agent Skill - Coze Newsletter Parser</h3>
+<p>一款Coze Agent可以用的Newsletter解析器，从邮件HTML转为干净Markdown，集成Skill可以实现Agent工作流。</p>
+</div>
+<div class="arrow">→</div>
+</a>
+    
+<a href="./zh/video-shopping-agent/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>Video Shopping→Agentic Commerce视频电商AI新范式</h3>
+<p>通过 Agent 架构重组交易链路，利用隔离购物车与离场结算机制，实现从“内容沉浸”到“意图即交易”的零点击商业闭环。</p>
+</div>
+<div class="arrow">→</div>
+</a>
+</div>
+   
+
+
+    
+</section>
+
+<section id="zh-ai-insights" class="anchor-section">
+<h2 class="category-title">💡 AI 观察</h2>
+<div class="blog-list">
+<a href="./zh/openclaw-theory/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>OpenClaw-AI Agent原理&产品思考（深挖一手资料）</h3>
+<p>解构OpenClaw原理，尝试为一个能力强但不可控的AI Agent，规划GTM可行性路线图，愿景是下一代OS级Infra。</p>
+</div>
+<div class="arrow">→</div>
+</a>
+<a href="./zh/openclaw-on-github/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>OpenClaw-GitHub虚拟机养一只龙虾</h3>
+<p>拒绝本地配置折磨，PM 也能上手的云端部署实录。涵盖 Codespaces 避坑指南与 Gemini 模型集成全过程。</p>
+</div>
+<div class="arrow">→</div>
+</a>
+</div>
+</section>
+
+<section id="zh-case-studies" class="anchor-section">
+<h2 class="category-title">📂 案例分析</h2>
+<div class="blog-list">
+<a href="./zh/payment-uber/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>支付_Uber的Fintech生态-从平台化赋能到新流量入口</h3>
+<p>全面拆解 Uber 如何将底层支付基础设施，转化为驱动业务增长与构建生态闭环的全新流量网关。</p>
+</div>
+<div class="arrow">→</div>
+</a>
+<a href="./zh/payment-airbnb/" class="blog-card" target="_blank" rel="noopener noreferrer">
+<div class="blog-info">
+<h3>支付_Airbnb全球支付平台的使命-构建信任感</h3>
+<p>拆解 190+ 国家跨境结算架构，看支付如何从“后台工具”进化为共享经济的“信任基石”。</p>
+</div>
+<div class="arrow">→</div>
+</a>
+</div>
+</section>
+</div>
+
+</main>
+
+<aside class="timeline-sidebar">
+    <div class="timeline-header" id="timeline-title">📡 AI Radar</div>
+    
+    <div id="timeline-en" class="content-lang-section active">
+        <div class="month-group">
+            <div class="month-title" onclick="toggleTimeline(this)">
+                <span>2026 / May</span>
+                <span class="icon">▶</span>
+            </div>
+            <div class="month-content">
+            </div>
+        </div>
+
+        <div class="month-group">
+            <div class="month-title open" onclick="toggleTimeline(this)">
+                <span>2026 / Apr</span>
+                <span class="icon">▶</span>
+            </div>
+            <div class="month-content open">
+                <div class="timeline-item">
+                    <div class="item-date">04-30</div>
+                    <a href="./post.html?file=ai-daily-0430-en" class="item-link" target="_blank" rel="noopener noreferrer">Key Updates</a>
+                </div>
+                <div class="timeline-item">
+                    <div class="item-date">04-19</div>
+                    <a href="./post.html?file=ai-daily-0419-en" class="item-link" target="_blank" rel="noopener noreferrer">Google Updates</a>
+                </div>
+                <div class="timeline-item">
+                    <div class="item-date">04-18</div>
+                    <a href="./post.html?file=ai-daily-0418-en" class="item-link" target="_blank" rel="noopener noreferrer">Claude Updates</a>
+                </div>
+                <div class="timeline-item">
+                    <div class="item-date">04-13</div>
+                    <a href="./post.html?file=ai-daily-0413-en" class="item-link" target="_blank" rel="noopener noreferrer">Techmeme Summary</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="timeline-zh" class="content-lang-section">
+        <div class="month-group">
+            <div class="month-title" onclick="toggleTimeline(this)">
+                <span>2026 / 5月</span>
+                <span class="icon">▶</span>
+            </div>
+            <div class="month-content">
+            </div>
+        </div>
+
+        <div class="month-group">
+            <div class="month-title open" onclick="toggleTimeline(this)">
+                <span>2026 / 4月</span>
+                <span class="icon">▶</span>
+            </div>
+            <div class="month-content open">
+                <div class="timeline-item">
+                    <div class="item-date">04-30</div>
+                    <a href="./post.html?file=ai-daily-0430-zh" class="item-link" target="_blank" rel="noopener noreferrer">4月看点</a>
+                </div>
+                <div class="timeline-item">
+                    <div class="item-date">04-19</div>
+                    <a href="./post.html?file=ai-daily-0419-zh" class="item-link" target="_blank" rel="noopener noreferrer">Google 动态汇总</a>
+                </div>
+                <div class="timeline-item">
+                    <div class="item-date">04-18</div>
+                    <a href="./post.html?file=ai-daily-0418-zh" class="item-link" target="_blank" rel="noopener noreferrer">Claude 动态汇总</a>
+                </div>
+                <div class="timeline-item">
+                    <div class="item-date">04-13</div>
+                    <a href="./post.html?file=ai-daily-0413-zh" class="item-link" target="_blank" rel="noopener noreferrer">Techmeme 摘要</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</aside>
+
+</div>
+
+<div class="footer">
+<div id="footer-text">
+© 2026 Fiona Gao. All Rights Reserved.
+<div class="footer-disclaimer">
+LEGAL DISCLAIMER: All content is original. Unauthorized reproduction or commercial use is strictly prohibited.
+</div>
+</div>
+</div>
+
+<script>
+// 增量代码：时间线手风琴折叠交互逻辑
+function toggleTimeline(element) {
+    const content = element.nextElementSibling;
+    element.classList.toggle('open');
+    content.classList.toggle('open');
+}
+
+// 邮箱复制功能
+function copyEmail(element) {
+const email = "koala.fiona.gao@gmail.com";
+const hint = document.getElementById('copy-hint');
+navigator.clipboard.writeText(email).then(() => {
+hint.style.display = 'block';
+element.style.color = 'var(--success-color)';
+
+setTimeout(() => {
+hint.style.display = 'none';
+element.style.color = '';
+}, 2000);
+});
+}
+
+// 语言切换功能
+function switchLang(lang) {
+const contentEn = document.getElementById('content-en');
+const contentZh = document.getElementById('content-zh');
+const navEn = document.getElementById('nav-en');
+const navZh = document.getElementById('nav-zh');
+const btnEn = document.getElementById('btn-en');
+const btnZh = document.getElementById('btn-zh');
+const pageTitle = document.getElementById('page-title');
+const pageDesc = document.getElementById('page-desc');
+const footerText = document.getElementById('footer-text');
+const copyHint = document.getElementById('copy-hint');
+const timelineTitle = document.getElementById('timeline-title'); // 增量代码：同步翻译时间线标题
+const timelineEn = document.getElementById('timeline-en'); // 新增：英文时间线容器
+const timelineZh = document.getElementById('timeline-zh'); // 新增：中文时间线容器
+
+if (lang === 'zh') {
+contentEn.classList.remove('active');
+contentZh.classList.add('active');
+navEn.classList.remove('active');
+navZh.classList.add('active');
+btnEn.classList.remove('active');
+btnZh.classList.add('active');
+timelineEn.classList.remove('active'); // 新增：隐藏英文时间线
+timelineZh.classList.add('active');    // 新增：显示中文时间线
+
+pageTitle.textContent = "博客与思考";
+pageDesc.textContent = "记录我在 AI、金融科技与产品管理领域的探索与复盘。";
+copyHint.textContent = "已复制！";
+timelineTitle.textContent = "📡 AI 简报"; // 增量代码
+
+footerText.innerHTML = `
+© 2026 Fiona Gao. 原创文章，保留所有权利。
+<div class="footer-disclaimer">
+法律声明: 本站皆为原创内容。未经书面许可，严禁任何形式的未经授权转载或商业使用。
+</div>
+`;
+} else {
+contentZh.classList.remove('active');
+contentEn.classList.add('active');
+navZh.classList.remove('active');
+navEn.classList.add('active');
+btnZh.classList.remove('active');
+btnEn.classList.add('active');
+timelineZh.classList.remove('active'); // 新增：隐藏中文时间线
+timelineEn.classList.add('active');    // 新增：显示英文时间线
+
+pageTitle.textContent = "My Blogs & Thoughts";
+pageDesc.textContent = "Documenting my journey and insights in AI, Fintech, and Product Management.";
+copyHint.textContent = "Copied!";
+timelineTitle.textContent = "📡 AI Radar"; // 增量代码
+
+footerText.innerHTML = `
+© 2026 Fiona Gao. All Rights Reserved.
+<div class="footer-disclaimer">
+LEGAL DISCLAIMER: All content is original. Unauthorized reproduction or commercial use is strictly prohibited.
+</div>
+`;
+}
+}
+</script>
+</body>
+</html>
