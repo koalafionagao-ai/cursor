@@ -1,0 +1,326 @@
+{
+  "date": "2026-05-29",
+  "sections": {
+    "top news": [
+      {
+        "title": "Microsoft faces backlash after a blog post implied criminal referral and legal action against security researcher Nightmare Eclipse over public bug disclosures",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+        "tweets": [
+          {
+            "author": "@vxunderground",
+            "text": "Chat, I don't want to be that guy, but I think Microsoft has really pissed off security researchers and we're approaching the tipping point. This Eclipse guy has really rocked the boat for Microsoft. [image]",
+            "url": "https://x.com/vxunderground/status/2060036224245432506"
+          },
+          {
+            "author": "@zodttd",
+            "text": "...This is because the unappreciated researcher released more zero-day vulnerabilities on his own and had those GitHub/Lab accounts banned.  They were serious enough that Microsoft is scrambling to fix them but wasn't serious enough to be paid or recognized, instead was ridiculed.  News of the Nightmare Eclipse exploits are everywhere but read the personal blog of the researcher, Nightmare Eclipse:",
+            "url": "https://x.com/zodttd/status/2059946105933008922"
+          },
+          {
+            "author": "@arekfurt",
+            "text": "Working at MSRC handling vuln reports has to be one of the most utterly thankless jobs in tech. You have to find incredibly important reports in a crush of crap while retroactively justifying the decisions of product teams on what to fix when using flawed servicing guidelines.",
+            "url": "https://x.com/arekfurt/status/2060438180831113600"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/government/coinbase-kalshi-bring-regulated-perpetual-crypto-futures-us-investors-2026-05-29/",
+        "tweets": [
+          {
+            "author": "@chairmanselig",
+            "text": "...This morning, the @CFTC took historic action to permit the listing of a true bitcoin perpetual contract by a CFTC-registered exchange, charting a path for one of the most liquid segments of the crypto asset markets to exist within the US regulatory framework.",
+            "url": "https://x.com/chairmanselig/status/2060362368622735507"
+          },
+          {
+            "author": "@brian_armstrong",
+            "text": "Big day for our US-based traders, and for Coinbase.  Until now, US users have been locked out of ~80% of global crypto markets (perpetual futures and options).  But not anymore!  Coinbase is the first and only regulated platform able to connect US users to global crypto options and perpetual futures (including Deribit options with >$31B in OI).  Thanks to Chairman Selig and @CFTC for making this possible.",
+            "url": "https://x.com/brian_armstrong/status/2060363686200361229"
+          },
+          {
+            "author": "@luanalopeslara",
+            "text": "I started working on perps in December 2024 with some of my favorite people at Kalshi.  A year and a half later, and with some more amazing people joining the company and helping make this a reality, we're finally launching the first perpetual futures product in the US... This is our first step outside of binary yes/no prediction markets.",
+            "url": "https://x.com/luanalopeslara/status/2060363515248918607"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Dell reports Q1 AI server revenue up 757% YoY to $16.1B and raises its FY 2027 AI server revenue forecast to $60B, up from its prior projection of $50B",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/05/28/ai-server-demand-drives-rampant-revenue-growth-dell-stock-soars/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Dell stock closed up 32.81%, its best day ever, after reporting its fastest pace of revenue growth for any period since returning to the public market in 2018",
+            "url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html"
+          }
+        ]
+      },
+      {
+        "title": "After hitting their annual AI budget in months or seeing their AI bills double or triple due to “tokenmaxxing”, some companies are rationing or tracking AI use",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a?st=oJgxgi&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Blue Origin's New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal memo: Meta plans to start testing an AI pendant in 2027, release new AI glasses next month, start a “Wearables for Work” unit for enterprises, and more",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/meta-memo-outlines-ambitious-hardware-plans-including-new-ai-pendant",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: SpaceX is currently targeting an IPO valuation of at least $1.8T, down from a previous $2T+ target, after consultations with advisers and investors",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-lowers-ipo-valuation-target-to-at-least-1-8-trillion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "What to expect at Computex 2026: AI chips, budget PCs competing with the MacBook Neo, Nvidia entering laptop SoC market with the rumored N1X chip, and more",
+        "excerpt": "",
+        "url": "https://www.pcmag.com/news/computex-2026-preview-9-big-reveals-we-expect-at-asias-largest-tech-show",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung says it has started shipping its first 12-layer HBM4E samples to major clients; SK Hynix said in April that it aimed to ship HBM4E samples in H2 2026",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/samsung-claims-lead-in-shipping-top-end-ai-memory-chip-samples",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US Space Force says SpaceX won a $4.16B contract to build a space-based tracking network as part of President Trump's Golden Dome defensive shield",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-wins-4-billion-contract-for-us-golden-dome-satellites",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Microsoft overhauled Copilot's design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: Microsoft is working on an app that will include GitHub Copilot, Copilot chat, Copilot Cowork, and a new agentic workflow tool called Autopilot",
+            "url": "https://fortune.com/2026/05/29/microsoft-working-on-super-app/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI says it has briefed the White House on its new biodefense program, which uses GPT-Rosalind to help develop biodefense and pandemic preparedness tools",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/05/29/openai-biodefense-program",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI startup Shift launches a free home cleaning service in NYC to record first-person video with a camera-equipped cap and use it to train robots",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3OTk3NzA5NCwiZXhwIjoxNzgwNTgxODk0LCJhcnRpY2xlSWQiOiJURlFQMDRLR0NUSkcwMCIsImJjb25uZWN0SWQiOiJFM0ZFMjQyRTc3ODQ0NjI1QkVEMEU2N0M4OTE5REEwQiJ9.1Y3hNCJ1L01aSN3WS2OEsd2q4Qi7TPqlEOo-GY_Mwp0&utm_medium=social&utm_source=linkedin&utm_campaign=promo&utm_content=jc",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ElevenLabs launches Dubbing v2, which it says preserves the original speaker's emotion, tone, and pacing across 90+ languages while staying synced to content",
+        "excerpt": "",
+        "url": "https://elevenlabs.io/blog/introducing-dubbing-v2",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hands-on with Gemini Spark beta rolling out to AI Ultra subs: planned a birthday party from emails and calendar, but called a live-in boyfriend a “close friend”",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded no crimes, while Gemini 3 Flash had the most at 683",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK Chief Secretary to the Treasury Lucy Rigby warns that rejecting AI in public services means choosing “decline”, vowing to prioritize its Whitehall rollout",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/9f6d371d-8d70-4179-9429-7391e970a2b6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A BBC Question Time episode featured a panel with AI-generated historical figures like Churchill, intended to show AI images' “hyper-real and persuasive” nature",
+        "excerpt": "",
+        "url": "https://www.independent.co.uk/bulletin/culture/ai-bbc-question-time-panel-b2985890.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tencent bets on smaller AI models in the race with Chinese rivals, as EVP Dowson Tong says AI now contributes 20%+ of its revenue and 95%+ of new internal code",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-bets-on-ai-agents-smaller-models-in-race-with-alibaba-bytedance",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Picogrid, which is building a hardware and software integration layer for military systems, raised a $45M Series A led by Bessemer",
+        "excerpt": "",
+        "url": "https://www.tectonicdefense.com/exclusive-picogrid-raises-45m-series-a/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Inherent, which aims to combine human scientific research with AI to produce innovations, emerges from stealth with $50M led by Index Ventures",
+        "excerpt": "",
+        "url": "https://sifted.eu/articles/inherent-ai-funding-round-index-matt-clifford/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana's broader AI pivot; PitchBook: StackAI raised ~$20M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sports Illustrated rights holder Minute Media lays off 12% of staff and reverses its ~$200M deal to buy VideoVerse, an AI platform to extract sports highlights",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/kk215pdq7",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/chinas-bytedance-developing-new-ai-chips-like-nvidia-partner-groq",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "BYD announces the Xuanji A3 chip, which it calls China's most powerful chip for ADAS and the centerpiece of its new laptop-sized central computing platform",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/byd-debuts-china-s-most-advanced-ev-chip-in-smart-driving-push",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "MediaTek says it has started to use Intel Foundry's advanced chip packaging in addition to TSMC's, as the mobile chip designer bets on AI demand for growth",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-mediatek-partners-with-intel-and-tsmc-for-advanced-chip-packaging",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Paxos says the US SEC has approved its registration as a clearing agency, allowing it to provide clearing and settlement services for eligible transactions",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/402994/paxos-sec-registration",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "France's market regulator warns crypto companies they could face blacklisting and lawsuits if they don't have MiCA licenses by the EU's June 30 deadline",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/crypto-companies-without-eu-licences-face-prosecution-french-regulator-warns-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "personnel changes": [
+      {
+        "title": "Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-28/tiktok-changed-music-now-labels-worry-it-s-leaving-them-behind",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SentinelOne's stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/05/29/sentinelone-s-stock-earnings-ai-layoffs.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Lenovo's stock is up 105% in May, marking its biggest monthly gain since 1999, after earnings showed AI-related revenue helped offset rising memory costs",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-29/lenovo-doubles-in-best-month-since-1999-on-ai-fueled-rally",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Allegations that China is behind US data center protests draw criticism from allies of the AI industry, who say the industry and politicians are in denial",
+        "excerpt": "",
+        "url": "https://www.washingtonpost.com/technology/2026/05/29/shark-tank-kevin-oleary-claims-china-stirred-data-center-protests/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzgwMDI3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzgxNDA5NTk5LCJpYXQiOjE3ODAwMjcyMDAsImp0aSI6IjFmMzVmZDM3LTdmMWUtNDcyNS1iODFkLThlMjRkYTZiODI2YiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDUvMjkvc2hhcmstdGFuay1rZXZpbi1vbGVhcnktY2xhaW1zLWNoaW5hLXN0aXJyZWQtZGF0YS1jZW50ZXItcHJvdGVzdHMvIn0.hzcsr0rPrUo34oZ584iwbXlyByyool96ig0YuBFo1_Q&itid=gfta",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Former Tesla data labelers say FSD relies on laborious mapping for hazards; crash data analysis shows Tesla exaggerates FSD's safety via flawed methodology",
+        "excerpt": "",
+        "url": "https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at strains in the UK's fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/afaa5465-c337-45d5-aa99-ae5fb5bdbec5",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY",
+        "excerpt": "",
+        "url": "https://www.dealstreetasia.com/stories/singapore-venture-funding-2025-483749/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 37
+  }
+}

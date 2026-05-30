@@ -29,9 +29,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-05-29",
+      "total": 27,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 174,
+  "item_count": 201,
   "items": [
     {
       "id": "LEGACY-001",
@@ -3931,6 +3939,741 @@
       ],
       "category_tag": "cat:app",
       "date": "2026-05-28"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/05/28/ai-server-demand-drives-rampant-revenue-growth-dell-stock-soars/",
+      "title": {
+        "zh": "戴尔Q1 AI服务器收入同比增长757%，达161亿美元，并上调2027财年AI服务器收入预测至600亿美元",
+        "en": "Dell reports Q1 AI server revenue up 757% YoY to $16.1B and raises its FY 2027 AI server revenue forecast to $60B, up from its prior projection of $50B"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/meta-memo-outlines-ambitious-hardware-plans-including-new-ai-pendant",
+      "title": {
+        "zh": "Meta计划2027年测试AI挂件，下月发布新款AI眼镜，并启动企业“工作可穿戴设备”部门",
+        "en": "Internal memo: Meta plans to start testing an AI pendant in 2027, release new AI glasses next month, start a “Wearables for Work” unit for enterprises, and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "enterprise"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2183246/microsoft-debuts-a-more-buttoned-up-look-for-copilot/",
+      "title": {
+        "zh": "微软在Microsoft 365中重新设计Copilot，采用极简黑白文字界面以提升一致性体验",
+        "en": "Microsoft overhauled Copilot's design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "microsoft",
+        "copilot",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "copilot",
+        "enterprise"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/05/29/openai-biodefense-program",
+      "title": {
+        "zh": "OpenAI向白宫简报其新生物防御计划，利用GPT-Rosalind开发生物防御和疫情准备工具",
+        "en": "OpenAI says it has briefed the White House on its new biodefense program, which uses GPT-Rosalind to help develop biodefense and pandemic preparedness tools"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://elevenlabs.io/blog/introducing-dubbing-v2",
+      "title": {
+        "zh": "ElevenLabs推出Dubbing v2，支持90多种语言并保留原始说话者的情感、语调和节奏",
+        "en": "ElevenLabs launches Dubbing v2, which it says preserves the original speaker's emotion, tone, and pacing across 90+ languages while staying synced to content"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "voice"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
+      "title": {
+        "zh": "AI研究人员进行15天模拟：Claude Sonnet 4.6无犯罪记录，Gemini 3 Flash记录了683起犯罪",
+        "en": "AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded no crimes, while Gemini 3 Flash had the most at 683"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/9f6d371d-8d70-4179-9429-7391e970a2b6",
+      "title": {
+        "zh": "英国财政部首席秘书警告拒绝在公共服务中使用AI将导致“衰退”，承诺优先推广AI在政府部门的应用",
+        "en": "UK Chief Secretary to the Treasury Lucy Rigby warns that rejecting AI in public services means choosing “decline”, vowing to prioritize its Whitehall rollout"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-bets-on-ai-agents-smaller-models-in-race-with-alibaba-bytedance",
+      "title": {
+        "zh": "腾讯押注小型AI模型，与中国竞争对手竞赛，AI收入占比超20%，新内部代码超95%",
+        "en": "Tencent bets on smaller AI models in the race with Chinese rivals, as EVP Dowson Tong says AI now contributes 20%+ of its revenue and 95%+ of new internal code"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "tencent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "title": {
+        "zh": "Xcena完成1.35亿美元B轮融资，估值达5.7亿美元，其MX1芯片支持内存模块内数据编排和KV缓存管理",
+        "en": "Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://sifted.eu/articles/inherent-ai-funding-round-index-matt-clifford/",
+      "title": {
+        "zh": "伦敦初创公司Inherent从隐身模式中走出，获Index Ventures领投的5000万美元融资，致力于结合人类科学研究与AI推动创新",
+        "en": "London-based Inherent, which aims to combine human scientific research with AI to produce innovations, emerges from stealth with $50M led by Index Ventures"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "title": {
+        "zh": "Asana以7500万美元收购无代码AI代理平台StackAI",
+        "en": "Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana's broader AI pivot; PitchBook: StackAI raised ~$20M"
+      },
+      "summary": {
+        "zh": "此举是Asana向AI转型的重要一步。据PitchBook数据，StackAI此前已筹集约2000万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "acquisition",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "acquisition",
+        "agent"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/chinas-bytedance-developing-new-ai-chips-like-nvidia-partner-groq",
+      "title": {
+        "zh": "字节跳动与InnoStar合作开发低成本AI推理芯片",
+        "en": "Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost"
+      },
+      "summary": {
+        "zh": "该芯片以Groq的LPU为模型，旨在以低成本运行AI模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "bytedance",
+        "chip",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "bytedance",
+        "chip",
+        "inference"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/byd-debuts-china-s-most-advanced-ev-chip-in-smart-driving-push",
+      "title": {
+        "zh": "比亚迪发布玄机A3芯片，号称中国最强ADAS芯片",
+        "en": "BYD announces the Xuanji A3 chip, which it calls China's most powerful chip for ADAS and the centerpiece of its new laptop-sized central computing platform"
+      },
+      "summary": {
+        "zh": "该芯片是比亚迪新型笔记本大小中央计算平台的核心。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "chip",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TM-37",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.dealstreetasia.com/stories/singapore-venture-funding-2025-483749/",
+      "title": {
+        "zh": "新加坡初创公司风投融资同比下降34%，AI领域逆势增长",
+        "en": "EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY"
+      },
+      "summary": {
+        "zh": "EY-Parthenon报告显示，2025年新加坡初创公司融资总额为46亿美元，其中AI初创公司占比42.8%，融资额同比增长28%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic发布Claude Opus 4.8，提升基准性能",
+        "en": "Opus 4.8 (4 minute read)"
+      },
+      "summary": {
+        "zh": "新版本引入了可调节的工作量控制、动态工作流以及更快且更便宜的模式。",
+        "en": "Anthropic released Claude Opus 4.8 with benchmark improvements, adjustable effort controls, dynamic workflows in Claude Code, and a faster mode that became significantly cheaper."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude",
+        "claude-code"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "claude-code"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://sherwood.news/tech/report-microsoft-tries-to-get-back-in-the-ai-coding-game-with-new-model/?utm_source=tldrai",
+      "title": {
+        "zh": "微软开发新AI模型以加强AI编程领域竞争力",
+        "en": "Microsoft tries to get back in the AI coding game with new model (1 minute read)"
+      },
+      "summary": {
+        "zh": "此举旨在提升编程能力，推动AI技术进步，回应行业需求。",
+        "en": "Microsoft is developing a new AI model to strengthen its position in the AI coding arena. This effort highlights Microsoft's ongoing competition in AI development and its response to evolving industry demands. The initiative aims to enhance coding capabilities and support advancements in AI technology."
+      },
+      "tags": [
+        "cat:model",
+        "microsoft",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "coding"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/series-h?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic完成650亿美元H轮融资，估值9650亿美元",
+        "en": "Anthropic Raised $65B in Series H Funding (2 minute read)"
+      },
+      "summary": {
+        "zh": "公司计划扩展计算能力、研究和产品开发，企业采用率显著提升。",
+        "en": "Anthropic announced a $65 billion Series H round at a $965 billion post-money valuation, citing strong enterprise adoption, $47 billion in run-rate revenue, and plans to expand compute capacity, research, and product development."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.judgmentlabs.ai/blogs/agent-judge-solving-long-context-evaluations?utm_source=tldrai",
+      "title": {
+        "zh": "Agent Judge优化长上下文生产代理的评估",
+        "en": "Agent Judge: Solving Long-Context Evals for Production Agents (10 minute read)"
+      },
+      "summary": {
+        "zh": "通过搜索、验证和适应改进评估，测试结果显示其在准确性和一致性上优于传统LLM评估。",
+        "en": "Agent Judge improves evaluations for long-context, production agents by focusing on Search, Verification, and Adaptation. It tackles LLM judges' shortcomings by navigating long trajectories, verifying stateful actions against systems, and updating rubrics based on real feedback. Test results show Agent Judge, especially with refined rubrics, surpasses traditional LLM judges in accuracy and consistency, particularly in challenging scenarios."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://research.nvidia.com/labs/sil/projects/gamma-world/?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA推出支持多代理的生成式世界模型γ-World",
+        "en": "Multi-Agent World Models (3 minute read)"
+      },
+      "summary": {
+        "zh": "该模型支持独立可控的对称代理，并实现从双人到四人设置的零样本泛化。",
+        "en": "NVIDIA γ-World is a generative world model that supports independently controllable, permutation-symmetric agents and delivers real-time rollouts with zero-shot generalization from two-player to four-player settings."
+      },
+      "tags": [
+        "cat:model",
+        "nvidia",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "agent"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/hardmaru/status/2059648995132367277?s=12&utm_source=tldrai",
+      "title": {
+        "zh": "Sakana Labs提出新方法减少深度网络训练内存需求",
+        "en": "For over a decade, we've accepted that end-to-end backprop is the only way to train deep networks (1 minute read)"
+      },
+      "summary": {
+        "zh": "通过将网络前向传播视为扩散模型去噪信号，显著降低训练所需内存。",
+        "en": "Holding the entire network in memory at once is why AI training is hitting a resource wall. Sakana Labs has found a new way to break the network into blocks and train them independently. The trick was to treat the network's forward pass like a diffusion model denoising a signal. This slashes the memory needed to train deep models."
+      },
+      "tags": [
+        "cat:tech",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "training"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code?utm_source=tldrai",
+      "title": {
+        "zh": "动态工作流的引入",
+        "en": "Introducing dynamic workflows (3 minute read)"
+      },
+      "summary": {
+        "zh": "Jarred Sumner 使用动态工作流将 Bun 从 Zig 重写为 Rust，在 11 天内完成了 75 万行代码，测试套件成功率达 99.8%。动态工作流通过将任务分解为子任务并行运行，直到结果收敛。",
+        "en": "Jarred Sumner used dynamic workflows to rewrite Bun from Zig to Rust, achieving 99.8% test suite success with 750,000 lines of Rust in 11 days. Dynamic workflows involve Claude breaking tasks into subtasks, with agents running in parallel until results converge."
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "agent"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/elonmusk/status/2059884150187053488?s=12&utm_source=tldrai",
+      "title": {
+        "zh": "SpaceX 几乎完成用 C 编写的内部 AI 训练栈 V1.0",
+        "en": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C (2 minute read)"
+      },
+      "summary": {
+        "zh": "SpaceX 的 AI 训练栈利用管道并行技术，精确映射到 220k GB300s，接近裸机性能，速度提升超过一个数量级。下一步目标是用 C 编写推理栈。",
+        "en": "SpaceX's in-house AI training stack makes heavy use of pipeline parallelism by exact-mapping to 220k GB300s with 800G NICs, getting as close to bare metal as possible. The potential speed improvement is over an order of magnitude. SpaceX's next goal is to write the inference stack in C for simultaneous high-speed RL across a large block of GB300s."
+      },
+      "tags": [
+        "cat:tech",
+        "training",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "training",
+        "inference"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost?utm_source=tldrai",
+      "title": {
+        "zh": "MiniMax 预告 M3 模型，采用稀疏注意力机制提升长上下文响应速度",
+        "en": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost (12 minute read)"
+      },
+      "summary": {
+        "zh": "MiniMax 发布技术报告，介绍 M2 系列语言模型的创新，并预告 M3 模型将采用稀疏注意力机制，使长上下文解码速度提升 15.6 倍。",
+        "en": "MiniMax has released a new in-depth technical report on the making of its popular M2 series of language models. The report sheds light on numerous engineering innovations and clever approaches. It teases a new sparse attention approach used in MiniMax's upcoming series of models that yields up to 15.6 times faster decode speed at long contexts. MiniMax's upcoming M3 models will make ultra-long-context AI agent deployment economically viable."
+      },
+      "tags": [
+        "cat:model",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-14",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://lwn.net/Articles/1075065/?utm_source=tldrai",
+      "title": {
+        "zh": "IBM 推出“Project Lightwell”",
+        "en": "IBM's \"Project Lightwell\" (1 minute read)"
+      },
+      "summary": {
+        "zh": "该项目将建立一个可信的企业清算所，作为安全协调层，帮助企业将安全补丁直接集成到现有的软件供应链中。",
+        "en": "Project Lightwell will establish a trusted enterprise clearinghouse to serve as a security coordination layer to help enterprises integrate secure patches directly into their existing software supply chains with enterprise-grade validation and lifecycle management."
+      },
+      "tags": [
+        "cat:tech",
+        "ibm",
+        "enterprise",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ibm",
+        "enterprise",
+        "safety"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-17",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.pcgamer.com/hardware/processors/bytedance-has-had-enough-of-waiting-months-for-processors-so-its-going-to-make-them-itself/?utm_source=tldrai",
+      "title": {
+        "zh": "字节跳动计划自研芯片以支持 AI 基础设施",
+        "en": "ByteDance has had enough of waiting months for processors, so it's going to make them itself (2 minute read)"
+      },
+      "summary": {
+        "zh": "字节跳动已与多家外部合作伙伴接洽，计划设计新芯片以更好地支持其 AI 基础设施。",
+        "en": "ByteDance has approached several external partners to work with to design a new chip to better support its AI infrastructure."
+      },
+      "tags": [
+        "cat:business",
+        "bytedance",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "bytedance",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-18",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://openai.com/index/openai-frontier-governance-framework/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI 发布前沿治理框架",
+        "en": "OpenAI Published a Frontier Governance Framework (4 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI 发布治理框架，描述其安全和安保实践如何与新兴法规对齐，涵盖风险管理、模型报告、事件响应和高级 AI 系统的监督。",
+        "en": "OpenAI released a governance framework describing how its safety and security practices align with emerging regulations, covering risk management, model reporting, incident response, and oversight for advanced AI systems."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "safety",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy",
+        "safety",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "TL-19",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html?utm_source=tldrai",
+      "title": {
+        "zh": "Mistral 计划设计自研芯片以降低部署成本",
+        "en": "Mistral to explore designing own chips, CEO says, as it ramps up infrastructure build (4 minute read)"
+      },
+      "summary": {
+        "zh": "Mistral AI 计划设计定制芯片以控制基础设施并降低部署成本，同时扩大其在欧洲的数据中心布局。",
+        "en": "Mistral AI plans to design custom chips to control infrastructure and lower deployment costs as it expands its data center presence in Europe."
+      },
+      "tags": [
+        "cat:business",
+        "mistral",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-29"
     }
   ],
   "tag_index": {
@@ -3940,18 +4683,26 @@
       "2026-05-28:TM-08",
       "2026-05-28:TM-18",
       "2026-05-28:TL-04",
-      "2026-05-28:TL-19"
+      "2026-05-28:TL-19",
+      "2026-05-29:TL-01",
+      "2026-05-29:TL-04",
+      "2026-05-29:TL-10"
     ],
     "claude": [
       "2026-05-28:TM-01",
-      "2026-05-28:TL-19"
+      "2026-05-28:TL-19",
+      "2026-05-29:TM-17",
+      "2026-05-29:TL-01",
+      "2026-05-29:TL-10"
     ],
     "funding": [
       "2026-05-28:TM-02",
       "2026-05-28:TM-18",
       "2026-05-28:TM-45",
       "2026-05-28:TM-46",
-      "2026-05-28:TM-64"
+      "2026-05-28:TM-64",
+      "2026-05-29:TM-37",
+      "2026-05-29:TL-04"
     ],
     "google": [
       "2026-05-28:TM-06",
@@ -3965,30 +4716,45 @@
       "2026-05-28:TM-08",
       "2026-05-28:TM-21",
       "2026-05-28:TL-04",
-      "2026-05-28:TL-05"
+      "2026-05-28:TL-05",
+      "2026-05-29:TM-12",
+      "2026-05-29:TL-18"
     ],
     "coding": [
       "2026-05-28:TM-08",
       "2026-05-28:TL-01",
       "2026-05-28:TL-05",
-      "2026-05-28:TL-10"
+      "2026-05-28:TL-10",
+      "2026-05-29:TL-03"
     ],
     "agent": [
       "2026-05-28:TM-08",
       "2026-05-28:TM-51",
       "2026-05-28:TM-52",
-      "2026-05-28:TL-05"
+      "2026-05-28:TL-05",
+      "2026-05-29:TM-17",
+      "2026-05-29:TM-24",
+      "2026-05-29:TL-05",
+      "2026-05-29:TL-08",
+      "2026-05-29:TL-10",
+      "2026-05-29:TL-12"
     ],
     "meta": [
-      "2026-05-28:TM-10"
+      "2026-05-28:TM-10",
+      "2026-05-29:TM-06"
     ],
     "enterprise": [
       "2026-05-28:TM-10",
       "2026-05-28:TM-21",
-      "2026-05-28:TL-17"
+      "2026-05-28:TL-17",
+      "2026-05-29:TM-03",
+      "2026-05-29:TM-06",
+      "2026-05-29:TM-11",
+      "2026-05-29:TL-14"
     ],
     "mistral": [
-      "2026-05-28:TM-12"
+      "2026-05-28:TM-12",
+      "2026-05-29:TL-19"
     ],
     "startup": [
       "2026-05-28:TM-12",
@@ -4002,11 +4768,16 @@
       "2026-05-28:TM-58",
       "2026-05-28:TM-64",
       "2026-05-28:TL-01",
-      "2026-05-28:TL-13"
+      "2026-05-28:TL-13",
+      "2026-05-29:TM-21",
+      "2026-05-29:TM-23",
+      "2026-05-29:TM-24",
+      "2026-05-29:TM-37"
     ],
     "ibm": [
       "2026-05-28:TM-13",
-      "2026-05-28:TM-34"
+      "2026-05-28:TM-34",
+      "2026-05-29:TL-14"
     ],
     "open-source": [
       "2026-05-28:TM-13",
@@ -4018,18 +4789,28 @@
       "2026-05-28:TM-26",
       "2026-05-28:TM-27",
       "2026-05-28:TM-45",
-      "2026-05-28:TL-11"
+      "2026-05-28:TL-11",
+      "2026-05-29:TM-21",
+      "2026-05-29:TM-26",
+      "2026-05-29:TM-27",
+      "2026-05-29:TL-17",
+      "2026-05-29:TL-19"
     ],
     "bytedance": [
-      "2026-05-28:TM-26"
+      "2026-05-28:TM-26",
+      "2026-05-29:TM-26",
+      "2026-05-29:TL-17"
     ],
     "policy": [
       "2026-05-28:TM-27",
       "2026-05-28:TM-44",
-      "2026-05-28:TM-58"
+      "2026-05-28:TM-58",
+      "2026-05-29:TM-18",
+      "2026-05-29:TL-18"
     ],
     "data-center": [
-      "2026-05-28:TM-31"
+      "2026-05-28:TM-31",
+      "2026-05-29:TL-19"
     ],
     "quantum": [
       "2026-05-28:TM-34",
@@ -4037,21 +4818,26 @@
     ],
     "acquisition": [
       "2026-05-28:TM-43",
-      "2026-05-28:TM-44"
+      "2026-05-28:TM-44",
+      "2026-05-29:TM-24"
     ],
     "nvidia": [
       "2026-05-28:TM-45",
       "2026-05-28:TL-09",
-      "2026-05-28:TL-11"
+      "2026-05-28:TL-11",
+      "2026-05-29:TL-08"
     ],
     "video-gen": [
       "2026-05-28:TM-50"
     ],
     "safety": [
-      "2026-05-28:TM-51"
+      "2026-05-28:TM-51",
+      "2026-05-29:TL-14",
+      "2026-05-29:TL-18"
     ],
     "autonomous-driving": [
-      "2026-05-28:TM-55"
+      "2026-05-28:TM-55",
+      "2026-05-29:TM-27"
     ],
     "api": [
       "2026-05-28:TL-04"
@@ -4066,7 +4852,9 @@
       "2026-05-28:TL-06"
     ],
     "training": [
-      "2026-05-28:TL-06"
+      "2026-05-28:TL-06",
+      "2026-05-29:TL-09",
+      "2026-05-29:TL-11"
     ],
     "multimodal": [
       "2026-05-28:TL-09"
@@ -4075,10 +4863,38 @@
       "2026-05-28:TL-15"
     ],
     "gemini": [
-      "2026-05-28:TL-17"
+      "2026-05-28:TL-17",
+      "2026-05-29:TM-17"
     ],
     "voice": [
-      "2026-05-28:TL-19"
+      "2026-05-28:TL-19",
+      "2026-05-29:TM-15"
+    ],
+    "microsoft": [
+      "2026-05-29:TM-11",
+      "2026-05-29:TL-03"
+    ],
+    "copilot": [
+      "2026-05-29:TM-11"
+    ],
+    "gpt": [
+      "2026-05-29:TM-12"
+    ],
+    "tencent": [
+      "2026-05-29:TM-20"
+    ],
+    "inference": [
+      "2026-05-29:TM-26",
+      "2026-05-29:TL-11"
+    ],
+    "claude-code": [
+      "2026-05-29:TL-01"
+    ],
+    "reasoning": [
+      "2026-05-29:TL-05"
+    ],
+    "regulation": [
+      "2026-05-29:TL-18"
     ]
   },
   "category_index": {
@@ -4094,7 +4910,11 @@
       "2026-05-28:TM-01",
       "2026-05-28:TL-02",
       "2026-05-28:TL-03",
-      "2026-05-28:TL-10"
+      "2026-05-28:TL-10",
+      "2026-05-29:TL-01",
+      "2026-05-29:TL-03",
+      "2026-05-29:TL-08",
+      "2026-05-29:TL-12"
     ],
     "cat:tech": [
       "2026-05-19:LEGACY-006",
@@ -4124,7 +4944,15 @@
       "2026-05-28:TM-34",
       "2026-05-28:TM-35",
       "2026-05-28:TL-06",
-      "2026-05-28:TL-09"
+      "2026-05-28:TL-09",
+      "2026-05-29:TM-15",
+      "2026-05-29:TM-26",
+      "2026-05-29:TM-27",
+      "2026-05-29:TL-05",
+      "2026-05-29:TL-09",
+      "2026-05-29:TL-10",
+      "2026-05-29:TL-11",
+      "2026-05-29:TL-14"
     ],
     "cat:app": [
       "2026-05-19:LEGACY-016",
@@ -4156,7 +4984,10 @@
       "2026-05-28:TM-55",
       "2026-05-28:TL-05",
       "2026-05-28:TL-17",
-      "2026-05-28:TL-19"
+      "2026-05-28:TL-19",
+      "2026-05-29:TM-06",
+      "2026-05-29:TM-11",
+      "2026-05-29:TM-12"
     ],
     "cat:business": [
       "2026-05-19:LEGACY-028",
@@ -4248,7 +5079,16 @@
       "2026-05-28:TL-01",
       "2026-05-28:TL-04",
       "2026-05-28:TL-11",
-      "2026-05-28:TL-13"
+      "2026-05-28:TL-13",
+      "2026-05-29:TM-03",
+      "2026-05-29:TM-20",
+      "2026-05-29:TM-21",
+      "2026-05-29:TM-23",
+      "2026-05-29:TM-24",
+      "2026-05-29:TM-37",
+      "2026-05-29:TL-04",
+      "2026-05-29:TL-17",
+      "2026-05-29:TL-19"
     ],
     "cat:other": [
       "2026-05-19:LEGACY-059",
@@ -4264,44 +5104,63 @@
       "2026-05-26:LEGACY-034",
       "2026-05-28:TM-27",
       "2026-05-28:TM-44",
-      "2026-05-28:TL-15"
+      "2026-05-28:TL-15",
+      "2026-05-29:TM-17",
+      "2026-05-29:TM-18",
+      "2026-05-29:TL-18"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 12
+      "count": 16
+    },
+    {
+      "tag": "agent",
+      "count": 10
+    },
+    {
+      "tag": "chip",
+      "count": 10
     },
     {
       "tag": "anthropic",
-      "count": 6
+      "count": 9
+    },
+    {
+      "tag": "funding",
+      "count": 7
+    },
+    {
+      "tag": "enterprise",
+      "count": 7
     },
     {
       "tag": "google",
       "count": 6
     },
     {
-      "tag": "funding",
-      "count": 5
-    },
-    {
-      "tag": "chip",
-      "count": 5
-    },
-    {
       "tag": "openai",
-      "count": 4
+      "count": 6
+    },
+    {
+      "tag": "claude",
+      "count": 5
     },
     {
       "tag": "coding",
+      "count": 5
+    },
+    {
+      "tag": "policy",
+      "count": 5
+    },
+    {
+      "tag": "nvidia",
       "count": 4
     },
     {
-      "tag": "agent",
-      "count": 4
-    },
-    {
-      "tag": "enterprise",
+      "tag": "ibm",
       "count": 3
     },
     {
@@ -4309,19 +5168,31 @@
       "count": 3
     },
     {
-      "tag": "policy",
+      "tag": "bytedance",
       "count": 3
     },
     {
-      "tag": "nvidia",
+      "tag": "acquisition",
       "count": 3
     },
     {
-      "tag": "claude",
+      "tag": "safety",
+      "count": 3
+    },
+    {
+      "tag": "training",
+      "count": 3
+    },
+    {
+      "tag": "meta",
       "count": 2
     },
     {
-      "tag": "ibm",
+      "tag": "mistral",
+      "count": 2
+    },
+    {
+      "tag": "data-center",
       "count": 2
     },
     {
@@ -4329,35 +5200,27 @@
       "count": 2
     },
     {
-      "tag": "acquisition",
+      "tag": "autonomous-driving",
       "count": 2
     },
     {
-      "tag": "meta",
-      "count": 1
+      "tag": "gemini",
+      "count": 2
     },
     {
-      "tag": "mistral",
-      "count": 1
+      "tag": "voice",
+      "count": 2
     },
     {
-      "tag": "bytedance",
-      "count": 1
+      "tag": "microsoft",
+      "count": 2
     },
     {
-      "tag": "data-center",
-      "count": 1
+      "tag": "inference",
+      "count": 2
     },
     {
       "tag": "video-gen",
-      "count": 1
-    },
-    {
-      "tag": "safety",
-      "count": 1
-    },
-    {
-      "tag": "autonomous-driving",
       "count": 1
     },
     {
@@ -4377,10 +5240,6 @@
       "count": 1
     },
     {
-      "tag": "training",
-      "count": 1
-    },
-    {
       "tag": "multimodal",
       "count": 1
     },
@@ -4389,38 +5248,54 @@
       "count": 1
     },
     {
-      "tag": "gemini",
+      "tag": "copilot",
       "count": 1
     },
     {
-      "tag": "voice",
+      "tag": "gpt",
+      "count": 1
+    },
+    {
+      "tag": "tencent",
+      "count": 1
+    },
+    {
+      "tag": "claude-code",
+      "count": 1
+    },
+    {
+      "tag": "reasoning",
+      "count": 1
+    },
+    {
+      "tag": "regulation",
       "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 90,
+      "count": 99,
       "label_zh": "新商业"
     },
     {
-      "tag": "cat:app",
-      "count": 30,
-      "label_zh": "新应用"
-    },
-    {
       "tag": "cat:tech",
-      "count": 28,
+      "count": 36,
       "label_zh": "新技术"
     },
     {
+      "tag": "cat:app",
+      "count": 33,
+      "label_zh": "新应用"
+    },
+    {
       "tag": "cat:other",
-      "count": 14,
+      "count": 17,
       "label_zh": "其它"
     },
     {
       "tag": "cat:model",
-      "count": 12,
+      "count": 16,
       "label_zh": "新模型"
     }
   ]

@@ -1,0 +1,234 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Microsoft faces backlash after a blog post implied criminal referral and legal action against security researcher Nightmare Eclipse over public bug disclosures
+Tweets:
+  - Author: @vxunderground
+    Text: Chat, I don't want to be that guy, but I think Microsoft has really pissed off security researchers and we're approaching the tipping point. This Eclipse guy has really rocked the boat for Microsoft. [image]
+    Link ID: TM-01-TW-01
+  - Author: @zodttd
+    Text: ...This is because the unappreciated researcher released more zero-day vulnerabilities on his own and had those GitHub/Lab accounts banned.  They were serious enough that Microsoft is scrambling to fix them but wasn't serious enough to be paid or recognized, instead was ridiculed.  News of the Nightmare Eclipse exploits are everywhere but read the personal blog of the researcher, Nightmare Eclipse:
+    Link ID: TM-01-TW-02
+  - Author: @arekfurt
+    Text: Working at MSRC handling vuln reports has to be one of the most utterly thankless jobs in tech. You have to find incredibly important reports in a crush of crap while retroactively justifying the decisions of product teams on what to fix when using flawed servicing guidelines.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges
+Tweets:
+  - Author: @chairmanselig
+    Text: ...This morning, the @CFTC took historic action to permit the listing of a true bitcoin perpetual contract by a CFTC-registered exchange, charting a path for one of the most liquid segments of the crypto asset markets to exist within the US regulatory framework.
+    Link ID: TM-02-TW-01
+  - Author: @brian_armstrong
+    Text: Big day for our US-based traders, and for Coinbase.  Until now, US users have been locked out of ~80% of global crypto markets (perpetual futures and options).  But not anymore!  Coinbase is the first and only regulated platform able to connect US users to global crypto options and perpetual futures (including Deribit options with >$31B in OI).  Thanks to Chairman Selig and @CFTC for making this possible.
+    Link ID: TM-02-TW-02
+  - Author: @luanalopeslara
+    Text: I started working on perps in December 2024 with some of my favorite people at Kalshi.  A year and a half later, and with some more amazing people joining the company and helping make this a reality, we're finally launching the first perpetual futures product in the US... This is our first step outside of binary yes/no prediction markets.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Dell reports Q1 AI server revenue up 757% YoY to $16.1B and raises its FY 2027 AI server revenue forecast to $60B, up from its prior projection of $50B
+Sub Items:
+  - Title: Dell stock closed up 32.81%, its best day ever, after reporting its fastest pace of revenue growth for any period since returning to the public market in 2018
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: After hitting their annual AI budget in months or seeing their AI bills double or triple due to “tokenmaxxing”, some companies are rationing or tracking AI use
+---
+ID: TM-05
+Title: Blue Origin's New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B
+---
+ID: TM-06
+Title: Internal memo: Meta plans to start testing an AI pendant in 2027, release new AI glasses next month, start a “Wearables for Work” unit for enterprises, and more
+---
+ID: TM-07
+Title: Sources: SpaceX is currently targeting an IPO valuation of at least $1.8T, down from a previous $2T+ target, after consultations with advisers and investors
+---
+ID: TM-08
+Title: What to expect at Computex 2026: AI chips, budget PCs competing with the MacBook Neo, Nvidia entering laptop SoC market with the rumored N1X chip, and more
+---
+ID: TM-09
+Title: Samsung says it has started shipping its first 12-layer HBM4E samples to major clients; SK Hynix said in April that it aimed to ship HBM4E samples in H2 2026
+---
+ID: TM-10
+Title: US Space Force says SpaceX won a $4.16B contract to build a space-based tracking network as part of President Trump's Golden Dome defensive shield
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Microsoft overhauled Copilot's design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience
+Sub Items:
+  - Title: Sources: Microsoft is working on an app that will include GitHub Copilot, Copilot chat, Copilot Cowork, and a new agentic workflow tool called Autopilot
+    Link ID: TM-11-SUB-01
+---
+ID: TM-12
+Title: OpenAI says it has briefed the White House on its new biodefense program, which uses GPT-Rosalind to help develop biodefense and pandemic preparedness tools
+---
+ID: TM-13
+Title: AI startup Shift launches a free home cleaning service in NYC to record first-person video with a camera-equipped cap and use it to train robots
+---
+ID: TM-14
+Title: A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense
+---
+ID: TM-15
+Title: ElevenLabs launches Dubbing v2, which it says preserves the original speaker's emotion, tone, and pacing across 90+ languages while staying synced to content
+---
+ID: TM-16
+Title: Hands-on with Gemini Spark beta rolling out to AI Ultra subs: planned a birthday party from emails and calendar, but called a live-in boyfriend a “close friend”
+---
+ID: TM-17
+Title: AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded no crimes, while Gemini 3 Flash had the most at 683
+---
+ID: TM-18
+Title: UK Chief Secretary to the Treasury Lucy Rigby warns that rejecting AI in public services means choosing “decline”, vowing to prioritize its Whitehall rollout
+---
+ID: TM-19
+Title: A BBC Question Time episode featured a panel with AI-generated historical figures like Churchill, intended to show AI images' “hyper-real and persuasive” nature
+---
+ID: TM-20
+Title: Tencent bets on smaller AI models in the race with Chinese rivals, as EVP Dowson Tong says AI now contributes 20%+ of its revenue and 95%+ of new internal code
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-21
+Title: Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation
+---
+ID: TM-22
+Title: Picogrid, which is building a hardware and software integration layer for military systems, raised a $45M Series A led by Bessemer
+---
+ID: TM-23
+Title: London-based Inherent, which aims to combine human scientific research with AI to produce innovations, emerges from stealth with $50M led by Index Ventures
+---
+
+[CATEGORY: M&A]
+ID: TM-24
+Title: Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana's broader AI pivot; PitchBook: StackAI raised ~$20M
+---
+ID: TM-25
+Title: Sports Illustrated rights holder Minute Media lays off 12% of staff and reverses its ~$200M deal to buy VideoVerse, an AI platform to extract sports highlights
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-26
+Title: Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost
+---
+ID: TM-27
+Title: BYD announces the Xuanji A3 chip, which it calls China's most powerful chip for ADAS and the centerpiece of its new laptop-sized central computing platform
+---
+ID: TM-28
+Title: MediaTek says it has started to use Intel Foundry's advanced chip packaging in addition to TSMC's, as the mobile chip designer bets on AI demand for growth
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-29
+Title: Paxos says the US SEC has approved its registration as a clearing agency, allowing it to provide clearing and settlement services for eligible transactions
+---
+ID: TM-30
+Title: France's market regulator warns crypto companies they could face blacklisting and lawsuits if they don't have MiCA licenses by the EU's June 30 deadline
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-31
+Title: Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists
+---
+ID: TM-32
+Title: SentinelOne's stock closes down 8% after the company announced plans to lay off 8% of its workforce and forecasted Q2 and FY revenue guidance below estimates
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-33
+Title: Lenovo's stock is up 105% in May, marking its biggest monthly gain since 1999, after earnings showed AI-related revenue helped offset rising memory costs
+---
+ID: TM-34
+Title: Allegations that China is behind US data center protests draw criticism from allies of the AI industry, who say the industry and politicians are in denial
+---
+ID: TM-35
+Title: Former Tesla data labelers say FSD relies on laborious mapping for hazards; crash data analysis shows Tesla exaggerates FSD's safety via flawed methodology
+---
+ID: TM-36
+Title: A look at strains in the UK's fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability
+---
+ID: TM-37
+Title: EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Opus 4.8 (4 minute read)
+Excerpt: Anthropic released Claude Opus 4.8 with benchmark improvements, adjustable effort controls, dynamic workflows in Claude Code, and a faster mode that became significantly cheaper.
+---
+ID: TL-02
+Title: How long is Anthropic's lease with SpaceX? Opinions vary (3 minute read)
+Excerpt: SpaceX earlier this month signed a major compute deal with Anthropic worth billions of dollars a month. However, Elon Musk recently downplayed the deal, saying that SpaceX had not committed to leasing its compute for years, even though it is possible that might happen. The agreement is actually a 180-day lease with a 90-day mutual cancellation thereafter. The short-term agreement was SpaceX's request as it may want the compute back at some point. Musk's statement directly contradicts SpaceX's S-1 filing, which presents the deal as a three-year agreement.
+---
+ID: TL-03
+Title: Microsoft tries to get back in the AI coding game with new model (1 minute read)
+Excerpt: Microsoft is developing a new AI model to strengthen its position in the AI coding arena. This effort highlights Microsoft's ongoing competition in AI development and its response to evolving industry demands. The initiative aims to enhance coding capabilities and support advancements in AI technology.
+---
+ID: TL-04
+Title: Anthropic Raised $65B in Series H Funding (2 minute read)
+Excerpt: Anthropic announced a $65 billion Series H round at a $965 billion post-money valuation, citing strong enterprise adoption, $47 billion in run-rate revenue, and plans to expand compute capacity, research, and product development.
+---
+ID: TL-05
+Title: Agent Judge: Solving Long-Context Evals for Production Agents (10 minute read)
+Excerpt: Agent Judge improves evaluations for long-context, production agents by focusing on Search, Verification, and Adaptation. It tackles LLM judges' shortcomings by navigating long trajectories, verifying stateful actions against systems, and updating rubrics based on real feedback. Test results show Agent Judge, especially with refined rubrics, surpasses traditional LLM judges in accuracy and consistency, particularly in challenging scenarios.
+---
+ID: TL-06
+Title: How far behind are open models? (17 minute read)
+Excerpt: Open models are generally not as capable as the best closed models. However, they aren't too far behind, with tests showing that they are only four to six months behind on public benchmarks. The gap was the smallest around the time of DeepSeek R1. It has since been growing.
+---
+ID: TL-07
+Title: The Cursor Developer Habits Report (1 minute read)
+Excerpt: Models now utilize more context to understand codebases, which reduces costs as input and cache-read tokens are cheaper than output tokens. This context-driven approach improves code calibration, increasing developer productivity and diff survival rates.
+---
+ID: TL-08
+Title: Multi-Agent World Models (3 minute read)
+Excerpt: NVIDIA γ-World is a generative world model that supports independently controllable, permutation-symmetric agents and delivers real-time rollouts with zero-shot generalization from two-player to four-player settings.
+---
+ID: TL-09
+Title: For over a decade, we've accepted that end-to-end backprop is the only way to train deep networks (1 minute read)
+Excerpt: Holding the entire network in memory at once is why AI training is hitting a resource wall. Sakana Labs has found a new way to break the network into blocks and train them independently. The trick was to treat the network's forward pass like a diffusion model denoising a signal. This slashes the memory needed to train deep models.
+---
+ID: TL-10
+Title: Introducing dynamic workflows (3 minute read)
+Excerpt: Jarred Sumner used dynamic workflows to rewrite Bun from Zig to Rust, achieving 99.8% test suite success with 750,000 lines of Rust in 11 days. Dynamic workflows involve Claude breaking tasks into subtasks, with agents running in parallel until results converge.
+---
+ID: TL-11
+Title: SpaceX has almost finished writing V1.0 of an in-house AI training stack in C (2 minute read)
+Excerpt: SpaceX's in-house AI training stack makes heavy use of pipeline parallelism by exact-mapping to 220k GB300s with 800G NICs, getting as close to bare metal as possible. The potential speed improvement is over an order of magnitude. SpaceX's next goal is to write the inference stack in C for simultaneous high-speed RL across a large block of GB300s.
+---
+ID: TL-12
+Title: MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost (12 minute read)
+Excerpt: MiniMax has released a new in-depth technical report on the making of its popular M2 series of language models. The report sheds light on numerous engineering innovations and clever approaches. It teases a new sparse attention approach used in MiniMax's upcoming series of models that yields up to 15.6 times faster decode speed at long contexts. MiniMax's upcoming M3 models will make ultra-long-context AI agent deployment economically viable.
+---
+ID: TL-13
+Title: Data Isn't Scarce. Your Imagination Is (8 minute read)
+Excerpt: Asuka Zheng argues the "we're running out of training data" panic misses the actual shape of the data market, recounting her own SRE-replacement project that trained two world models until it stalled because end-to-end long-horizon incident trajectories from first anomaly to full resolution did not exist as a dataset.
+---
+ID: TL-14
+Title: IBM's "Project Lightwell" (1 minute read)
+Excerpt: Project Lightwell will establish a trusted enterprise clearinghouse to serve as a security coordination layer to help enterprises integrate secure patches directly into their existing software supply chains with enterprise-grade validation and lifecycle management.
+---
+ID: TL-15
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---
+ID: TL-16
+Title: AI Is Changing How Consultants Get Paid—and Much More (5 minute read)
+Excerpt: Boston Consulting Group's revenue has grown 7% in the last year, and its headcount is expanding due to an infinite need from companies needing help to roll out AI.
+---
+ID: TL-17
+Title: ByteDance has had enough of waiting months for processors, so it's going to make them itself (2 minute read)
+Excerpt: ByteDance has approached several external partners to work with to design a new chip to better support its AI infrastructure.
+---
+ID: TL-18
+Title: OpenAI Published a Frontier Governance Framework (4 minute read)
+Excerpt: OpenAI released a governance framework describing how its safety and security practices align with emerging regulations, covering risk management, model reporting, incident response, and oversight for advanced AI systems.
+---
+ID: TL-19
+Title: Mistral to explore designing own chips, CEO says, as it ramps up infrastructure build (4 minute read)
+Excerpt: Mistral AI plans to design custom chips to control infrastructure and lower deployment costs as it expands its data center presence in Europe.
+---

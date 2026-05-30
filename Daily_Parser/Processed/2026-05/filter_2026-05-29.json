@@ -1,0 +1,344 @@
+{
+  "date": "2026-05-29",
+  "threshold": 7.0,
+  "total": 56,
+  "kept": 27,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及法律问题"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规的加密货币产品更新，信息量有限"
+    },
+    {
+      "id": "TM-03",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Dell AI 服务器收入大幅增长，影响行业预期"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "反映企业对 AI 成本的关注，但信息较常规"
+    },
+    {
+      "id": "TM-05",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及航天公司事件"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta 的 AI 硬件计划值得关注，可能影响市场"
+    },
+    {
+      "id": "TM-07",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及 IPO 估值问题"
+    },
+    {
+      "id": "TM-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于未来展会的常规信息，缺乏新意"
+    },
+    {
+      "id": "TM-09",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规的产品发布信息，信息量有限"
+    },
+    {
+      "id": "TM-10",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及国防合同"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Microsoft Copilot 设计更新，影响用户体验"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI 的生物防御计划与政策相关，值得关注"
+    },
+    {
+      "id": "TM-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI 初创公司推出新服务，信息量一般"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于招聘流程的常规信息，缺乏新意"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "ElevenLabs 的新产品在多语言处理上有重要进展"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Gemini Spark 的测试，信息量一般"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "AI 模型模拟实验结果，提供有趣的研究数据"
+    },
+    {
+      "id": "TM-18",
+      "score": 9.0,
+      "keep": true,
+      "reason": "UK 政府对 AI 的重视可能影响公共政策方向"
+    },
+    {
+      "id": "TM-19",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及娱乐节目内容"
+    },
+    {
+      "id": "TM-20",
+      "score": 8.0,
+      "keep": true,
+      "reason": "腾讯在 AI 领域的战略调整，影响行业竞争"
+    },
+    {
+      "id": "TM-21",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Xcena 的融资与技术创新相关，值得关注"
+    },
+    {
+      "id": "TM-22",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Picogrid 的融资信息，信息量一般"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Inherent 的融资与 AI 研究结合，具有潜力"
+    },
+    {
+      "id": "TM-24",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Asana 收购 StackAI，反映 AI 领域的整合趋势"
+    },
+    {
+      "id": "TM-25",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于裁员和交易反转的常规信息，信息量有限"
+    },
+    {
+      "id": "TM-26",
+      "score": 7.5,
+      "keep": true,
+      "reason": "字节跳动与芯片制造商合作开发AI推理芯片，显示出AI硬件领域的竞争加剧。"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.0,
+      "keep": true,
+      "reason": "比亚迪推出新芯片，强调其在ADAS领域的技术进步，值得关注。"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.5,
+      "keep": false,
+      "reason": "MediaTek开始使用Intel的先进芯片封装，显示出对AI需求的重视。"
+    },
+    {
+      "id": "TM-29",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及金融监管。"
+    },
+    {
+      "id": "TM-30",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及金融监管。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "TikTok调整音乐部门，反映出其战略重心的变化。"
+    },
+    {
+      "id": "TM-32",
+      "score": 3.0,
+      "keep": false,
+      "reason": "主要涉及股价波动和裁员，信息量较少。"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "联想股价上涨与AI相关收入有关，但信息较常规。"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于中国与AI行业的争议，信息量一般。"
+    },
+    {
+      "id": "TM-35",
+      "score": 6.0,
+      "keep": false,
+      "reason": "特斯拉FSD的安全性问题引发关注，涉及AI应用的实际效果。"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "英国金融科技行业的压力反映出市场变化，但信息较常规。"
+    },
+    {
+      "id": "TM-37",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新加坡AI初创企业融资情况值得关注，显示出行业动态。"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Anthropic发布新版本Claude，技术进步显著，影响行业。"
+    },
+    {
+      "id": "TL-02",
+      "score": 6.0,
+      "keep": false,
+      "reason": "SpaceX与Anthropic的计算协议引发关注，但信息较常规。"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.5,
+      "keep": true,
+      "reason": "微软开发新AI模型以增强其在编码领域的竞争力，值得关注。"
+    },
+    {
+      "id": "TL-04",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Anthropic获得巨额融资，显示出市场对AI的强烈需求。"
+    },
+    {
+      "id": "TL-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Agent Judge改进了生产代理的评估方法，具有技术洞察。"
+    },
+    {
+      "id": "TL-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "开放模型与封闭模型的能力差距分析，信息量一般。"
+    },
+    {
+      "id": "TL-07",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于开发者习惯的报告，信息较常规。"
+    },
+    {
+      "id": "TL-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "NVIDIA的生成世界模型展示了技术创新，值得关注。"
+    },
+    {
+      "id": "TL-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新训练方法的提出可能会影响深度学习的资源使用，具有创新性。"
+    },
+    {
+      "id": "TL-10",
+      "score": 7.5,
+      "keep": true,
+      "reason": "动态工作流的介绍展示了新技术在实际应用中的潜力。"
+    },
+    {
+      "id": "TL-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "SpaceX的AI训练栈开发显示出其在AI领域的技术进步。"
+    },
+    {
+      "id": "TL-12",
+      "score": 9.0,
+      "keep": true,
+      "reason": "MiniMax即将发布的新模型展示了显著的技术进步，影响行业。"
+    },
+    {
+      "id": "TL-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于数据市场的讨论提供了一定的见解，但信息量一般。"
+    },
+    {
+      "id": "TL-14",
+      "score": 7.5,
+      "keep": true,
+      "reason": "IBM推出的Project Lightwell将增强企业软件供应链的安全性，具有重要的行业应用价值。"
+    },
+    {
+      "id": "TL-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "招聘信息与AI行业发展关系不大，信息量较少。"
+    },
+    {
+      "id": "TL-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "咨询行业因AI需求增长而扩张，提供了一定的行业动态信息。"
+    },
+    {
+      "id": "TL-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "字节跳动计划自制处理器以支持AI基础设施，显示出行业内的战略调整。"
+    },
+    {
+      "id": "TL-18",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI发布的治理框架与AI安全和监管相关，具有重要的政策和行业影响。"
+    },
+    {
+      "id": "TL-19",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Mistral计划设计自有芯片以降低成本，反映出AI基础设施的战略发展。"
+    }
+  ]
+}
