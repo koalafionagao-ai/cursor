@@ -1,0 +1,117 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: Apple delays iPhone-connected smart glasses to late 2027, aiming to disrupt the mid-tier $200-$500 eyewear market the way it disrupted the watch market
+Tweets:
+  - Author: @markgurman
+    Text: Also in Power On: The new Apple TV and HomePod mini hardware is ready to go and just waiting on the new Siri. Don't expect major hardware changes other than processor bumps to support AI features, while the Apple TV may get an updated remote.
+    Link ID: TM-01-TW-01
+  - Author: @markgurman
+    Text: Also in Power On: Early work on iOS 28 and macOS 28 has kicked off. iOS 28 is codenamed Bell, while macOS 28 is Poppy. The duo is referred to inside Apple as “Boppy.” For comparison, iOS 27 is Rave, macOS 27 is Fizz (Rizz).
+    Link ID: TM-01-TW-02
+---
+ID: TM-02
+Title: Sources: Microsoft and Nvidia will unveil the first Windows PCs powered by Nvidia SoCs, including devices from Surface and Dell, at Computex and Build 2026
+Tweets:
+  - Author: @nvidia
+    Text: A new era of PC. 25.0528, 121.5990
+    Link ID: TM-02-TW-01
+  - Author: @windows
+    Text: A new era of PC. 25.0528, 121.5990
+    Link ID: TM-02-TW-02
+  - Author: @mingchikuo
+    Text: ▌The N1X devices could give AI power users another solid option: ➡ Thanks to the N1X, device makers can strike a better new balance across AI compute, memory, design, and portability.  ➡ For power users running LLMs on-device, an N1X device is a solid alternative to the Mac when it comes to capable on-device AI compute and large memory.  ➡ But if the goal is a real upgrade cycle, then beyond price, OS support (Windows) is still what matters.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: With Microsoft's GitHub Copilot shifting to token-usage billing on June 1, many developers bemoan massive cost increases and the end of flat-rate subscriptions
+---
+ID: TM-04
+Title: The DOD's $9.7B contract with Dell has raised eyebrows as a potential payback for Michael and Susan Dell's $6.25B donation to 25M US children's Trump Accounts
+---
+ID: TM-05
+Title: Bill Gates' carefully crafted public image has been eroded by revelations about his ties to Epstein; Gates was recently snubbed from Microsoft's CEO Summit
+---
+ID: TM-06
+Title: SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France
+---
+ID: TM-07
+Title: China's tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories, and AI and robotics companies
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains
+Sub Items:
+  - Title: Why “Dark Output”, the AI-generated economic value that is currently invisible to national statistics, may be one of the hardest measurement problems in history
+    Link ID: TM-08-SUB-01
+---
+ID: TM-09
+Title: A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries
+---
+ID: TM-10
+Title: Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors
+---
+ID: TM-11
+Title: A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration
+---
+ID: TM-12
+Title: Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M
+---
+ID: TM-13
+Title: Sources detail AI companies' engagement with US FERC as the energy regulator readies a June proposal to speed up data center connections to regional power grids
+---
+ID: TM-14
+Title: Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations, helping it develop malware and launch phishing attacks
+---
+ID: TM-15
+Title: How Schneider Electric is using AI in call centers and manufacturing to complement employees' work and boost productivity, rather than to replace them
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-16
+Title: A look at contrasting China playbooks of AMD CEO Lisa Su and Nvidia CEO Jensen Huang, with Su keeping a lower profile; China accounts for ~20% of AMD's revenue
+---
+ID: TM-17
+Title: Massive bonuses for Samsung's memory division employees have sparked a debate in Korea over how companies and governments should share profits from the AI boom
+---
+ID: TM-18
+Title: Memory chip makers are leveraging their newfound power to secure long-term agreements, a move set to reshape the industry's business model and stabilize prices
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-19
+Title: Google's keyword ad practices face renewed criticism after the Delhi High Court ruled against Google in a trademark dispute involving Indian company Hindware
+---
+ID: TM-20
+Title: A US court ordered Circle to blacklist Zama's cUSDC contract, freezing ~$12.6M in funds, likely catching many in the “crossfire” of a civil suit against a DAO
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-21
+Title: NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures
+---
+ID: TM-22
+Title: Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-23
+Title: BlackBerry's stock is up more than 160% over the past three months, as the company's QNX division positions its automotive software as an OS for robots
+---
+ID: TM-24
+Title: China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses
+---
+ID: TM-25
+Title: Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024
+---
+ID: TM-26
+Title: PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year
+---
+ID: TM-27
+Title: As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments
+---
+ID: TM-28
+Title: A profile of Ariane Gorin, who became Expedia CEO in 2024 and has overseen back-to-back years of revenue growth, with record gross bookings of $119B in 2025
+---

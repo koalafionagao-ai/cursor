@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-31",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Sources: Apple delays iPhone-connected smart glasses to late 2027, aiming to disrupt the mid-tier $200-$500 eyewear market the way it disrupted the watch market",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDIzNjA1NywiZXhwIjoxNzgwODQwODU3LCJhcnRpY2xlSWQiOiJURldNVzFLSVVQVDAwMCIsImJjb25uZWN0SWQiOiIwRDY3MzVDNzE2NkE0OUEzQTQxNEZDMEE4NTA0RUM5MiJ9.ocvhwAv-7j3pp1_gLSN9VLcCrotSIG-RV9XLRVvFZ1Q&leadSource=uverify%20wall",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Sources: Microsoft and Nvidia will unveil the first Windows PCs powered by Nvidia SoCs, including devices from Surface and Dell, at Computex and Build 2026",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "With Microsoft's GitHub Copilot shifting to token-usage billing on June 1, many developers bemoan massive cost increases and the end of flat-rate subscriptions",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "The DOD's $9.7B contract with Dell has raised eyebrows as a potential payback for Michael and Susan Dell's $6.25B donation to 25M US children's Trump Accounts",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/05/28/michael-dell-trump-accounts-dod.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Bill Gates' carefully crafted public image has been eroded by revelations about his ties to Epstein; Gates was recently snubbed from Microsoft's CEO Summit",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/bill-gates-image-epstein-e0b83243?st=TEtUpm&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "China's tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories, and AI and robotics companies",
+      "excerpt": "",
+      "url": "https://restofworld.org/2026/china-ai-tourism/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains",
+      "excerpt": "",
+      "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html?unlocked_article_code=1.mVA.tV8n.fkWBYEgzc5Lq&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Anthropic cuts its list of unauthorized secondary market sellers from eight to four after the initial notice caused panic and pushback from investors",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/openai-who-is-greg-brockman-e699816c?st=2GfSwd&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Sources detail AI companies' engagement with US FERC as the energy regulator readies a June proposal to speed up data center connections to regional power grids",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/05/29/how-big-tech-learned-to-speak-ferc-00939329",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations, helping it develop malware and launch phishing attacks",
+      "excerpt": "",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/aaceab90-a78c-4acf-bdb8-272e4eedd531",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "How Schneider Electric is using AI in call centers and manufacturing to complement employees' work and boost productivity, rather than to replace them",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html?unlocked_article_code=1.mFA.I0yg.Kj0ziRl3nH0l",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "A look at contrasting China playbooks of AMD CEO Lisa Su and Nvidia CEO Jensen Huang, with Su keeping a lower profile; China accounts for ~20% of AMD's revenue",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/china/china-amd-ceo-lisa-su-is-understated-while-nvidias-huang-is-more-razzmatazz-2026-05-29/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Massive bonuses for Samsung's memory division employees have sparked a debate in Korea over how companies and governments should share profits from the AI boom",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-05-29/samsung-ai-bonuses-prompt-korea-debate-on-sharing-tech-wealth",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Memory chip makers are leveraging their newfound power to secure long-term agreements, a move set to reshape the industry's business model and stabilize prices",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai-has-made-memory-chips-more-valuable-than-oil-3b6976d8?st=8TUYVu&reflink=desktopwebshare_permalink",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Google's keyword ad practices face renewed criticism after the Delhi High Court ruled against Google in a trademark dispute involving Indian company Hindware",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "A US court ordered Circle to blacklist Zama's cUSDC contract, freezing ~$12.6M in funds, likely catching many in the “crossfire” of a civil suit against a DAO",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures",
+      "excerpt": "",
+      "url": "https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/05/28/canals-venture-wholesale-distribution-enterprise",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "BlackBerry's stock is up more than 160% over the past three months, as the company's QNX division positions its automotive software as an OS for robots",
+      "excerpt": "",
+      "url": "https://sherwood.news/markets/blackberry-is-on-one-of-its-hottest-rallies-of-all-time/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/technology/china-to-crack-down-on-food-delivery-ghost-kitchens",
+      "section": "more news"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Antenna: bundles make up 33% of new major streaming service subscriptions in the US, and 28% of all subscriptions, up from just 10% of new subscriptions in 2024",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/05/28/business/media/streaming-tv-hulu-disney-hbo.html?unlocked_article_code=1.mVA.eaY9.pJIPo5Jm9njv&smid=url-share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/venture-capital-turns-to-hardware-bets-as-ai-threatens-software-companies-29b8b5f3?st=Ah4HHm&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/autos/robotaxis-are-spreading-across-the-u-s-and-so-is-the-backlash-a4272883?st=qxqjBp",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "A profile of Ariane Gorin, who became Expedia CEO in 2024 and has overseen back-to-back years of revenue growth, with record gross bookings of $119B in 2025",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-05-29/expedia-expe-stock-price-doubles-under-ceo-ariane-gorin?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDE5ODA5OSwiZXhwIjoxNzgwODAyODk5LCJhcnRpY2xlSWQiOiJURlNQODhLR1pBT1IwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.wxEJfH4dYMyfQHXMhEtwK1ocP-GdtBgFqAjzgezg17Q",
+      "section": "more news"
+    }
+  ]
+}

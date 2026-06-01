@@ -37,9 +37,16 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-05-31",
+      "total": 13,
+      "sources": [
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 201,
+  "item_count": 214,
   "items": [
     {
       "id": "LEGACY-001",
@@ -4674,6 +4681,361 @@
       ],
       "category_tag": "cat:business",
       "date": "2026-05-29"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
+      "title": {
+        "zh": "微软与英伟达将在2026年发布首批搭载英伟达SoC的Windows PC",
+        "en": "Sources: Microsoft and Nvidia will unveil the first Windows PCs powered by Nvidia SoCs, including devices from Surface and Dell, at Computex and Build 2026"
+      },
+      "summary": {
+        "zh": "包括Surface和戴尔设备将在Computex和Build 2026上亮相。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "title": {
+        "zh": "微软GitHub Copilot将于6月1日转为基于令牌使用的计费模式",
+        "en": "With Microsoft's GitHub Copilot shifting to token-usage billing on June 1, many developers bemoan massive cost increases and the end of flat-rate subscriptions"
+      },
+      "summary": {
+        "zh": "开发者对成本大幅增加和固定费率订阅的终结表示不满。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "github-copilot",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "github-copilot",
+        "pricing"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+      "title": {
+        "zh": "软银承诺在法国投资高达750亿欧元建设AI计算集群",
+        "en": "SoftBank pledges to invest up to €75B in AI computing clusters in France, first leading a €45B investment to build 3.1GW of capacity by 2031 in Hauts-de-France"
+      },
+      "summary": {
+        "zh": "首期将主导450亿欧元投资，于2031年前在法国北部建成3.1GW容量。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "softbank",
+        "energy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "softbank",
+        "energy"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+      "title": {
+        "zh": "AI采用遵循通用技术的J曲线路径",
+        "en": "AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains"
+      },
+      "summary": {
+        "zh": "类似于美国早期工厂电气化，需要多年投资后才能显现显著的投资回报。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek",
+      "title": {
+        "zh": "上海MiniMax公司准备在中国IPO",
+        "en": "Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M"
+      },
+      "summary": {
+        "zh": "该AI公司1月已在香港上市，年经常性收入达3亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ipo",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/05/29/how-big-tech-learned-to-speak-ferc-00939329",
+      "title": {
+        "zh": "AI公司与美国FERC合作加速数据中心接入区域电网",
+        "en": "Sources detail AI companies' engagement with US FERC as the energy regulator readies a June proposal to speed up data center connections to regional power grids"
+      },
+      "summary": {
+        "zh": "能源监管机构计划在6月提出相关提案。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "data-center",
+        "energy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "data-center",
+        "energy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/aaceab90-a78c-4acf-bdb8-272e4eedd531",
+      "title": {
+        "zh": "专家称ChatGPT和Gemini等AI模型助推伊朗网络攻击",
+        "en": "Experts say ChatGPT, Gemini, and other Western AI models are turbocharging Iran's cyber operations, helping it develop malware and launch phishing attacks"
+      },
+      "summary": {
+        "zh": "帮助其开发恶意软件并发起网络钓鱼攻击。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "chatgpt",
+        "gemini",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chatgpt",
+        "gemini",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html?unlocked_article_code=1.mFA.I0yg.Kj0ziRl3nH0l",
+      "title": {
+        "zh": "施耐德电气如何利用AI提升呼叫中心和制造业的生产力",
+        "en": "How Schneider Electric is using AI in call centers and manufacturing to complement employees' work and boost productivity, rather than to replace them"
+      },
+      "summary": {
+        "zh": "通过补充员工工作而非取代他们来提高效率。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai-has-made-memory-chips-more-valuable-than-oil-3b6976d8?st=8TUYVu&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "存储芯片制造商通过长期协议重塑行业商业模式",
+        "en": "Memory chip makers are leveraging their newfound power to secure long-term agreements, a move set to reshape the industry's business model and stabilize prices"
+      },
+      "summary": {
+        "zh": "此举旨在稳定价格并改变行业格局。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation",
+      "title": {
+        "zh": "Garner Health完成1亿美元E轮融资，估值达27.4亿美元",
+        "en": "NYC-based Garner Health, which uses data analytics to help 2.5M+ workers find physicians, raised a $100M Series E at a $2.74B valuation led by Index Ventures"
+      },
+      "summary": {
+        "zh": "该公司利用数据分析帮助250万以上员工找到医生。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/05/28/canals-venture-wholesale-distribution-enterprise",
+      "title": {
+        "zh": "总部位于迈阿密的 Canals 获得 3500 万美元 A 轮融资，用 AI 自动化分销商工作流程",
+        "en": "Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/venture-capital-turns-to-hardware-bets-as-ai-threatens-software-companies-29b8b5f3?st=Ah4HHm&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "PitchBook：全球机器人和物理 AI 的风投投资从 2019 年的 42 亿美元跃升至 2025 年的 260 亿美元",
+        "en": "PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year"
+      },
+      "summary": {
+        "zh": "截至今年 5 月 20 日，投资额已超过 230 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "robotics",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics",
+        "funding"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/autos/robotaxis-are-spreading-across-the-u-s-and-so-is-the-backlash-a4272883?st=qxqjBp",
+      "title": {
+        "zh": "美国机器人出租车公司在扩展过程中面临监管和公众批评",
+        "en": "As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "robotics",
+        "autonomous-driving",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics",
+        "autonomous-driving",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-05-31"
     }
   ],
   "tag_index": {
@@ -4702,7 +5064,10 @@
       "2026-05-28:TM-46",
       "2026-05-28:TM-64",
       "2026-05-29:TM-37",
-      "2026-05-29:TL-04"
+      "2026-05-29:TL-04",
+      "2026-05-31:TM-21",
+      "2026-05-31:TM-22",
+      "2026-05-31:TM-26"
     ],
     "google": [
       "2026-05-28:TM-06",
@@ -4750,7 +5115,9 @@
       "2026-05-29:TM-03",
       "2026-05-29:TM-06",
       "2026-05-29:TM-11",
-      "2026-05-29:TL-14"
+      "2026-05-29:TL-14",
+      "2026-05-31:TM-08",
+      "2026-05-31:TM-15"
     ],
     "mistral": [
       "2026-05-28:TM-12",
@@ -4772,7 +5139,10 @@
       "2026-05-29:TM-21",
       "2026-05-29:TM-23",
       "2026-05-29:TM-24",
-      "2026-05-29:TM-37"
+      "2026-05-29:TM-37",
+      "2026-05-31:TM-12",
+      "2026-05-31:TM-21",
+      "2026-05-31:TM-22"
     ],
     "ibm": [
       "2026-05-28:TM-13",
@@ -4794,7 +5164,9 @@
       "2026-05-29:TM-26",
       "2026-05-29:TM-27",
       "2026-05-29:TL-17",
-      "2026-05-29:TL-19"
+      "2026-05-29:TL-19",
+      "2026-05-31:TM-02",
+      "2026-05-31:TM-18"
     ],
     "bytedance": [
       "2026-05-28:TM-26",
@@ -4806,11 +5178,14 @@
       "2026-05-28:TM-44",
       "2026-05-28:TM-58",
       "2026-05-29:TM-18",
-      "2026-05-29:TL-18"
+      "2026-05-29:TL-18",
+      "2026-05-31:TM-13",
+      "2026-05-31:TM-27"
     ],
     "data-center": [
       "2026-05-28:TM-31",
-      "2026-05-29:TL-19"
+      "2026-05-29:TL-19",
+      "2026-05-31:TM-13"
     ],
     "quantum": [
       "2026-05-28:TM-34",
@@ -4825,7 +5200,8 @@
       "2026-05-28:TM-45",
       "2026-05-28:TL-09",
       "2026-05-28:TL-11",
-      "2026-05-29:TL-08"
+      "2026-05-29:TL-08",
+      "2026-05-31:TM-02"
     ],
     "video-gen": [
       "2026-05-28:TM-50"
@@ -4833,17 +5209,20 @@
     "safety": [
       "2026-05-28:TM-51",
       "2026-05-29:TL-14",
-      "2026-05-29:TL-18"
+      "2026-05-29:TL-18",
+      "2026-05-31:TM-14"
     ],
     "autonomous-driving": [
       "2026-05-28:TM-55",
-      "2026-05-29:TM-27"
+      "2026-05-29:TM-27",
+      "2026-05-31:TM-27"
     ],
     "api": [
       "2026-05-28:TL-04"
     ],
     "pricing": [
-      "2026-05-28:TL-04"
+      "2026-05-28:TL-04",
+      "2026-05-31:TM-03"
     ],
     "codex": [
       "2026-05-28:TL-05"
@@ -4864,7 +5243,8 @@
     ],
     "gemini": [
       "2026-05-28:TL-17",
-      "2026-05-29:TM-17"
+      "2026-05-29:TM-17",
+      "2026-05-31:TM-14"
     ],
     "voice": [
       "2026-05-28:TL-19",
@@ -4872,7 +5252,9 @@
     ],
     "microsoft": [
       "2026-05-29:TM-11",
-      "2026-05-29:TL-03"
+      "2026-05-29:TL-03",
+      "2026-05-31:TM-02",
+      "2026-05-31:TM-03"
     ],
     "copilot": [
       "2026-05-29:TM-11"
@@ -4895,6 +5277,26 @@
     ],
     "regulation": [
       "2026-05-29:TL-18"
+    ],
+    "github-copilot": [
+      "2026-05-31:TM-03"
+    ],
+    "softbank": [
+      "2026-05-31:TM-06"
+    ],
+    "energy": [
+      "2026-05-31:TM-06",
+      "2026-05-31:TM-13"
+    ],
+    "ipo": [
+      "2026-05-31:TM-12"
+    ],
+    "chatgpt": [
+      "2026-05-31:TM-14"
+    ],
+    "robotics": [
+      "2026-05-31:TM-26",
+      "2026-05-31:TM-27"
     ]
   },
   "category_index": {
@@ -4987,7 +5389,8 @@
       "2026-05-28:TL-19",
       "2026-05-29:TM-06",
       "2026-05-29:TM-11",
-      "2026-05-29:TM-12"
+      "2026-05-29:TM-12",
+      "2026-05-31:TM-15"
     ],
     "cat:business": [
       "2026-05-19:LEGACY-028",
@@ -5088,7 +5491,14 @@
       "2026-05-29:TM-37",
       "2026-05-29:TL-04",
       "2026-05-29:TL-17",
-      "2026-05-29:TL-19"
+      "2026-05-29:TL-19",
+      "2026-05-31:TM-02",
+      "2026-05-31:TM-03",
+      "2026-05-31:TM-06",
+      "2026-05-31:TM-12",
+      "2026-05-31:TM-18",
+      "2026-05-31:TM-21",
+      "2026-05-31:TM-22"
     ],
     "cat:other": [
       "2026-05-19:LEGACY-059",
@@ -5107,20 +5517,29 @@
       "2026-05-28:TL-15",
       "2026-05-29:TM-17",
       "2026-05-29:TM-18",
-      "2026-05-29:TL-18"
+      "2026-05-29:TL-18",
+      "2026-05-31:TM-08",
+      "2026-05-31:TM-13",
+      "2026-05-31:TM-14",
+      "2026-05-31:TM-26",
+      "2026-05-31:TM-27"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 16
-    },
-    {
-      "tag": "agent",
-      "count": 10
+      "count": 19
     },
     {
       "tag": "chip",
+      "count": 12
+    },
+    {
+      "tag": "funding",
+      "count": 10
+    },
+    {
+      "tag": "agent",
       "count": 10
     },
     {
@@ -5128,11 +5547,11 @@
       "count": 9
     },
     {
-      "tag": "funding",
-      "count": 7
+      "tag": "enterprise",
+      "count": 9
     },
     {
-      "tag": "enterprise",
+      "tag": "policy",
       "count": 7
     },
     {
@@ -5152,11 +5571,15 @@
       "count": 5
     },
     {
-      "tag": "policy",
+      "tag": "nvidia",
       "count": 5
     },
     {
-      "tag": "nvidia",
+      "tag": "safety",
+      "count": 4
+    },
+    {
+      "tag": "microsoft",
       "count": 4
     },
     {
@@ -5172,15 +5595,23 @@
       "count": 3
     },
     {
+      "tag": "data-center",
+      "count": 3
+    },
+    {
       "tag": "acquisition",
       "count": 3
     },
     {
-      "tag": "safety",
+      "tag": "autonomous-driving",
       "count": 3
     },
     {
       "tag": "training",
+      "count": 3
+    },
+    {
+      "tag": "gemini",
       "count": 3
     },
     {
@@ -5192,19 +5623,11 @@
       "count": 2
     },
     {
-      "tag": "data-center",
-      "count": 2
-    },
-    {
       "tag": "quantum",
       "count": 2
     },
     {
-      "tag": "autonomous-driving",
-      "count": 2
-    },
-    {
-      "tag": "gemini",
+      "tag": "pricing",
       "count": 2
     },
     {
@@ -5212,11 +5635,15 @@
       "count": 2
     },
     {
-      "tag": "microsoft",
+      "tag": "inference",
       "count": 2
     },
     {
-      "tag": "inference",
+      "tag": "energy",
+      "count": 2
+    },
+    {
+      "tag": "robotics",
       "count": 2
     },
     {
@@ -5225,10 +5652,6 @@
     },
     {
       "tag": "api",
-      "count": 1
-    },
-    {
-      "tag": "pricing",
       "count": 1
     },
     {
@@ -5270,12 +5693,28 @@
     {
       "tag": "regulation",
       "count": 1
+    },
+    {
+      "tag": "github-copilot",
+      "count": 1
+    },
+    {
+      "tag": "softbank",
+      "count": 1
+    },
+    {
+      "tag": "ipo",
+      "count": 1
+    },
+    {
+      "tag": "chatgpt",
+      "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 99,
+      "count": 106,
       "label_zh": "新商业"
     },
     {
@@ -5285,12 +5724,12 @@
     },
     {
       "tag": "cat:app",
-      "count": 33,
+      "count": 34,
       "label_zh": "新应用"
     },
     {
       "tag": "cat:other",
-      "count": 17,
+      "count": 22,
       "label_zh": "其它"
     },
     {
