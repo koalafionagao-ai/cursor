@@ -1,0 +1,428 @@
+{
+  "date": "2026-06-01",
+  "threshold": 7.0,
+  "total": 70,
+  "kept": 31,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia发布新型高效PC芯片，具有重要技术意义"
+    },
+    {
+      "id": "TM-02",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Anthropic计划IPO，表明AI行业融资动态变化"
+    },
+    {
+      "id": "TM-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta的AI聊天机器人被黑客利用，信息量一般"
+    },
+    {
+      "id": "TM-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "佛罗里达州起诉OpenAI，涉及法律责任和行业监管"
+    },
+    {
+      "id": "TM-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Alphabet筹集80亿美元用于AI支出，显示行业投资趋势"
+    },
+    {
+      "id": "TM-06",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及股市动态"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "发现npm包中存在恶意软件，涉及安全问题"
+    },
+    {
+      "id": "TM-08",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，纯股价波动信息"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国发布新投资规则，影响海外投资和数据监管"
+    },
+    {
+      "id": "TM-10",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Nvidia新CPU显著提升AI工作负载性能，影响行业格局"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia推出开放人形机器人设计，推动机器人技术发展"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia推出DGX Station，支持大规模AI模型，具有重要应用价值"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Intel发布新数据中心GPU，针对AI应用进行优化"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Dell新款笔记本电脑发布，信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AMD新CPU发布，信息量一般但有一定市场影响"
+    },
+    {
+      "id": "TM-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "MiniMax推出新编码模型，价格竞争力强，影响市场格局"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Anthropic与EU合作计划，信息量一般"
+    },
+    {
+      "id": "TM-18",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Salesforce在Anthropic的投资情况，信息量一般"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "桑德斯呼吁AI财富惠及人类，信息量一般"
+    },
+    {
+      "id": "TM-20",
+      "score": 8.0,
+      "keep": true,
+      "reason": "微软计划推出Copilot超级应用，具有重要产品洞察"
+    },
+    {
+      "id": "TM-21",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于AI写作检测工具的讨论，信息量一般"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Runway计划在英国投资AI生态系统，显示行业发展趋势"
+    },
+    {
+      "id": "TM-23",
+      "score": 8.0,
+      "keep": true,
+      "reason": "法国私募股权公司与数据中心合作建设AI工厂，具有重要投资意义"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "中国公司开发AI工具预测政治风险，信息量一般"
+    },
+    {
+      "id": "TM-25",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Box创建AI相关职位，信息量较少"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要讨论教育机构情况"
+    },
+    {
+      "id": "TM-27",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及 AI 领域的思想和信念，但信息量有限"
+    },
+    {
+      "id": "TM-28",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财务报告信息常规，缺乏对 AI 行业的直接影响"
+    },
+    {
+      "id": "TM-29",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是财务表现"
+    },
+    {
+      "id": "TM-30",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是金融产品更新"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是金融服务更新"
+    },
+    {
+      "id": "TM-32",
+      "score": 8.0,
+      "keep": true,
+      "reason": "气候科技 VC 关注 AI 领域的早期创业公司，具有投资价值"
+    },
+    {
+      "id": "TM-33",
+      "score": 7.0,
+      "keep": true,
+      "reason": "讨论 AI 领域初创企业的市场现状，具有行业洞察"
+    },
+    {
+      "id": "TM-34",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资信息涉及 AI 相关领域，值得关注"
+    },
+    {
+      "id": "TM-35",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及电动交通工具，AI 相关性较低"
+    },
+    {
+      "id": "TM-36",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 模型生成 3D 资产的应用，具有创新性和市场潜力"
+    },
+    {
+      "id": "TM-37",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及金融数据处理，AI 相关性较低"
+    },
+    {
+      "id": "TM-38",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及 AI 训练机器人，具有技术应用价值"
+    },
+    {
+      "id": "TM-39",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及医疗广告审批，AI 相关性较低"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及应用开发，AI 相关性较低"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及建筑设计，AI 相关性较低"
+    },
+    {
+      "id": "TM-42",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及芯片制造，AI 相关性较低"
+    },
+    {
+      "id": "TM-43",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是市场价值变化"
+    },
+    {
+      "id": "TM-44",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是股价波动"
+    },
+    {
+      "id": "TM-45",
+      "score": 8.0,
+      "keep": true,
+      "reason": "量子计算初创企业 IPO 计划，涉及 AI 领域的潜在影响"
+    },
+    {
+      "id": "TM-46",
+      "score": 7.0,
+      "keep": true,
+      "reason": "针对 AI 抓取的商业策略调整，具有行业洞察"
+    },
+    {
+      "id": "TM-47",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是股价波动和业务扩展"
+    },
+    {
+      "id": "TM-48",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是股价波动"
+    },
+    {
+      "id": "TM-49",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是零售业务扩展"
+    },
+    {
+      "id": "TM-50",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及中国军事采购与 AI 芯片的关系，具有行业洞察"
+    },
+    {
+      "id": "TM-51",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Grab与中国公司的合作引发的数据安全担忧，信息量有限。"
+    },
+    {
+      "id": "TM-52",
+      "score": 8.0,
+      "keep": true,
+      "reason": "美国军方主导的黑客马拉松，利用AI整合武器系统，具有重要的应用洞察。"
+    },
+    {
+      "id": "TM-53",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Brian Chesky关于Airbnb的访谈，信息较常规，缺乏重大新意。"
+    },
+    {
+      "id": "TL-01",
+      "score": 7.0,
+      "keep": true,
+      "reason": "微软即将发布的Copilot超级应用整合多个工具，值得关注。"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "MiniMax M3模型的发布，具有前沿性能和新架构，影响深远。"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "NVIDIA将在Computex 2026发布新芯片和AI平台，具有行业影响力。"
+    },
+    {
+      "id": "TL-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于强化学习的技术细节，信息量一般，适合专业人士。"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Claude Opus 4.8的系统卡更新，虽为增量更新但仍有讨论价值。"
+    },
+    {
+      "id": "TL-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Bonsai Image 4B模型的发布，适用于本地设备的图像生成，具有实用性。"
+    },
+    {
+      "id": "TL-07",
+      "score": 5.0,
+      "keep": false,
+      "reason": "pi-dynamic-workflows工具的介绍，信息量较常规。"
+    },
+    {
+      "id": "TL-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "ECC系统的介绍，信息量有限，缺乏具体应用案例。"
+    },
+    {
+      "id": "TL-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "xAI的grok-build-0.1公开测试，针对编码任务的应用值得关注。"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "企业AI代理面临的权限问题，影响深远，值得关注。"
+    },
+    {
+      "id": "TL-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于Cognition的开发经验分享，信息量一般。"
+    },
+    {
+      "id": "TL-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "NotebookLM即将推出的功能，信息量较小。"
+    },
+    {
+      "id": "TL-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Ex-DeepMind研究者筹集资金开发AI平台，具有潜在的行业影响。"
+    },
+    {
+      "id": "TL-14",
+      "score": 4.0,
+      "keep": false,
+      "reason": "OpenAI Robotics招聘信息，信息量较少。"
+    },
+    {
+      "id": "TL-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "NVIDIA MCG工具包的介绍，信息量一般。"
+    },
+    {
+      "id": "TL-16",
+      "score": 4.0,
+      "keep": false,
+      "reason": "TLDR招聘信息，信息量有限。"
+    },
+    {
+      "id": "TL-17",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI发布的关于AI模型评估的指南，具有重要的行业指导意义。"
+    }
+  ]
+}

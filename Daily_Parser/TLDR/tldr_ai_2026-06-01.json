@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-01",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "New screenshots of upcoming Copilot Super App (2 minute read)",
+        "url": "https://www.testingcatalog.com/exclusive-new-screenshots-of-upcoming-copilot-super-app/?utm_source=tldrai",
+        "excerpt": "Microsoft looks likely to debut its unified Copilot app at Build 2026. Leaked screenshots show a GitHub Copilot tab, a Cowork tab, and a tab for Scout, an always-on AI agent. The company is trying to boost weak adoption by folding scattered tools into a single home. The integration of Teams hints that Scout may be able to run remotely."
+      },
+      {
+        "title": "MiniMax M3 (2 minute read)",
+        "url": "https://threadreaderapp.com/thread/2061266317815296322.html?utm_source=tldrai",
+        "excerpt": "MiniMax M3 is an open weights model that achieves frontier-level performance on coding and agentic work. The model supports image and video input and can operate a desktop computer. It uses a new attention architecture that enables context scaling and can support ultra-long context windows of up to 1 million tokens. The model is available through MiniMax Code, the Token Plan, and MiniMax's API services."
+      },
+      {
+        "title": "Computex 2026 Will Be NVIDIA's Biggest Event Of The Year. Here's What To Expect (5 minute read)",
+        "url": "https://wccftech.com/nvidia-computex-2026-what-to-expect/?utm_source=tldrai",
+        "excerpt": "Nvidia plans to unveil its N1X laptop chip at Computex 2026, featuring 20 ARM cores and an RTX 5070 equivalent GPU, promising improved VRAM allocation for AI applications. The company will also present its \"Vera Rubin\" AI platform for datacenters, aiming to strengthen its position in the AI market. Nvidia's focus on Physical and Agentic AI will highlight advancements in autonomous machines and robotics, while gaming announcements seem minimal."
+      },
+      {
+        "title": "Agentic RL: Token-In, Token-Out Done Right (16 minute read)",
+        "url": "https://qgallouedec-tito.hf.space/?utm_source=tldrai",
+        "excerpt": "In reinforcement learning with LLMs, ensuring the model operates on the exact tokens sampled is crucial. Re-tokenizing can lead to drift and unreliable gradients. The solution involves never re-encoding decoded tokens and maintaining a buffer for sampled tokens to avoid drift and maintain accurate loss computation. This approach depends on a prefix-preserving chat template property, which most modern templates satisfy, ensuring reliable reinforcement learning loops without redundant re-rendering."
+      },
+      {
+        "title": "Claude Opus 4.8: The System Card (40 minute read)",
+        "url": "https://thezvi.wordpress.com/2026/05/29/claude-opus-4-8-the-system-card/?utm_source=tldrai",
+        "excerpt": "Claude Opus 4.8, released only six weeks after Opus 4.7, comes with a 244-page system card. While the updates are incremental, there is still a lot to talk about. Its capabilities are still well behind Mythos. This post looks at the system card, what's different between the two versions, and what this reveals about Mythos."
+      },
+      {
+        "title": "Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices (9 minute read)",
+        "url": "https://prismml.com/news/bonsai-image-4b?utm_source=tldrai",
+        "excerpt": "Bonsai Image 4B is a family of compact image-generation models that can run high-quality diffusion inference on local hardware. The 1-bit variant is for applications where memory pressure, bandwidth, and deployment footprint are the primary restraints. The ternary variant has more representational flexibility, giving it improved visual quality and prompt fidelity while remaining extremely compact. The models can run directly on an iPhone."
+      },
+      {
+        "title": "pi-dynamic-workflows (GitHub Repo)",
+        "url": "https://github.com/Michaelliv/pi-dynamic-workflows?utm_source=tldrai",
+        "excerpt": "pi-dynamic-workflows is a Pi extension that adds a workflow tool. It allows assistants to write an economical JavaScript script that fans out work across many isolated subagents, then synthesizes the results. Subagents can read files, run shell commands, and call structured output compactly like a normal Pi turn. The tool is great for codebase audits, multi-perspective review, large refactors, and fan-out research."
+      },
+      {
+        "title": "ECC (GitHub Repo)",
+        "url": "https://github.com/affaan-m/ECC?utm_source=tldrai",
+        "excerpt": "ECC is a comprehensive system for multi-harness agent workflows, featuring skills, instincts, memory optimization, and security scanning."
+      },
+      {
+        "title": "Grok Build 0.1 on API (1 minute read)",
+        "url": "https://x.ai/news/grok-build-0-1?utm_source=tldrai",
+        "excerpt": "xAI's grok-build-0.1 is now in public beta via the API, designed for agentic coding tasks like web development and debugging. The model processes over 100 tokens/second, costing $1 per million tokens in and $2 per million out. It integrates well with platforms like Grok Build, Cursor, and OpenClaw."
+      },
+      {
+        "title": "The AI agent bottleneck isn't model performance — it's permissions (3 minute read)",
+        "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions?utm_source=tldrai",
+        "excerpt": "Enterprise AI agents are struggling due to permissioning issues rather than model performance. Workday addresses this by using its system of record as the governance layer, integrating with Google's Gemini, and emphasizing agent accuracy. This setup ensures agents operate within defined user permissions, crucial for regulated sectors like HR and finance."
+      },
+      {
+        "title": "Verifying Agentic Development at Scale (8 minute read)",
+        "url": "https://x.com/ido_pesok/status/2060416230641881336?utm_source=tldrai",
+        "excerpt": "Cognition's Ido Pesok shares lessons from building autonomous end-to-end testing into Devin, noting that for the first time, more Devin sessions are now triggered asynchronously than interactively, making verified-before-merge results a hard requirement rather than a nicety. Devin's harness gained computer-use tools roughly six months ago, and the breakthrough came when engineers started running 10-20 Devins in parallel, each with its own dev server, something impossible on a single laptop."
+      },
+      {
+        "title": "3 upcoming NotebookLM features we all should be waiting for (2 minute read)",
+        "url": "https://www.testingcatalog.com/3-upcoming-notebooklm-features-we-all-should-be-waiting-for/?utm_source=tldrai",
+        "excerpt": "NotebookLM's upcoming features include Personal Preferences, Connectors, and Canvas."
+      },
+      {
+        "title": "Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking (4 minute read)",
+        "url": "https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science?utm_source=tldrai",
+        "excerpt": "Inherent, a London-based AI lab, is building a platform called Faraday aimed at figuring out which questions are worth asking."
+      },
+      {
+        "title": "OpenAI Robotics is hiring (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2061117302528188712.html?utm_source=tldrai",
+        "excerpt": "OpenAI Robotics is looking for full-stack hardware, ops, systems, and ML engineers to help it program and manufacture robots."
+      },
+      {
+        "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit (8 minute read)",
+        "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/?utm_source=tldrai",
+        "excerpt": "NVIDIA's MCG Toolkit automates AI model documentation, creating comprehensive model cards in Model Card++ format rapidly."
+      },
+      {
+        "title": "TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)",
+        "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e?utm_source=tldrai",
+        "excerpt": "TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more."
+      },
+      {
+        "title": "OpenAI Outlines Playbook for Trustworthy Third-Party AI Model Evaluations (4 minute read)",
+        "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/?utm_source=tldrai",
+        "excerpt": "OpenAI published a comprehensive guide on May 28 for conducting trustworthy third-party evaluations of frontier AI models like GPT-5.5."
+      }
+    ]
+  }
+}

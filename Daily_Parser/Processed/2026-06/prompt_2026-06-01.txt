@@ -1,0 +1,302 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls “the most efficient PC chip ever built”, made on TSMC 3 in partnership with MediaTek
+Tweets:
+  - Author: @satyanadella
+    Text: Our goal is to deliver unmetered intelligence to every home and every desk with Windows. NVIDIA RTX Spark marks a real breakthrough toward that vision. Looking forward to sharing more with Jensen, who will be joining us live from Taiwan, at Build this week!
+    Link ID: TM-01-TW-01
+  - Author: @zacbowden
+    Text: NVIDIA says its RTX Spark Windows on Arm chips will run every Windows app ever made, squashing concerns that some x86 apps or games won't be compatible. It seems the company is confident that buyers won't need to be worried about some apps not being compatible.
+    Link ID: TM-01-TW-02
+  - Author: @mweinbach
+    Text: I was talking to someone about it yesterday Apple silicon was so well architected from the start to just offer the best perf per watt and unified memory, chiplets, Arm, large cache, etc Then as AI made you push your hardware more, the benefits of these choices started to show
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Microsoft unveils the Surface Laptop Ultra, featuring an Nvidia RTX Spark SoC, a 15" mini-LED touchscreen, and up to 128GB of unified memory, coming this fall
+    Link ID: TM-01-SUB-01
+  - Title: Jensen Huang says Microsoft and Nvidia will “reinvent the PC”, starting with 30+ laptops and 10 desktops coming in the fall from Dell, HP, ASUS, Lenovo, and MSI
+    Link ID: TM-01-SUB-02
+  - Title: Nvidia says RTX Spark offers up to 20 CPU cores and a Blackwell GPU with 6,144 CUDA cores, capable of “100 FPS 1440p gaming” or running 120B-parameter AI models
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026
+Tweets:
+  - Author: @danprimack
+    Text: Anthropic filing confidentially now seems to put it on a path to go public well before Labor Day... Or at least gives it the optionality. Big companies rarely price into summer vacations, but this already is an outlier for so many reasons.
+    Link ID: TM-02-TW-01
+  - Author: @dee_bosa
+    Text: worth noting: filing first ≠ pricing first a confidential draft S-1 starts the SEC clock but sets no date
+    Link ID: TM-02-TW-02
+  - Author: @quinnypig
+    Text: “Confidentially submitted a draft registration statement.” Translation: Altimeter, Dragoneer, Greenoaks, and Sequoia would like their money back now please, and the private rounds have officially run out of road.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts, amid a wave of high-profile account takeovers; Meta fixed the issue
+Tweets:
+  - Author: @wongmjane
+    Text: Even my Instagram account got hacked The password got changed without my knowledge and I was getting different password reset attempts throughout yesterday. And I got repeatedly logged out from the IG iOS app Quite concerning
+    Link ID: TM-03-TW-01
+  - Author: @heaney555
+    Text: This is arguably the biggest security fuckup in the history of mainstream social media. Meta should be ashamed for letting this happen, and it should be triggering a serious rethink across the tech industry of how AI is used for customer support.
+    Link ID: TM-03-TW-02
+  - Author: @gergelyorosz
+    Text: What I'm hearing: Instagram's Trust and Safery org absolutely gutted the last few weeks. ~60% of the org gone - between layoffs and forced reassignments to data labelling. All while “AI maxxing” pushed a bunch of bugs to prod. And hence why today's massive Insta account takeover
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Florida AG James Uthmeier sues OpenAI and Sam Altman, seeking to hold Altman personally liable for deceptive trade practices, negligence, and public nuisance
+---
+ID: TM-05
+Title: Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans
+---
+ID: TM-06
+Title: Nasdaq, FTSE, and other index providers are shortening their entry timelines to accommodate SpaceX's record $75B IPO, as Elon Musk targets retail investors
+Sub Items:
+  - Title: SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives' friends and family; 60%+ of shares have an extended lock-up
+    Link ID: TM-06-SUB-01
+---
+ID: TM-07
+Title: Researchers find packages in the @redhat-cloud-services npm namespace shipped malware that harvests credentials for GitHub Actions, AWS, GCP, Azure, and others
+---
+ID: TM-08
+Title: SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M, at an average net price of $77,135 per coin, its first disclosed bitcoin disposal
+---
+ID: TM-09
+Title: China issues new investment rules, expanding regulatory powers to scrutinize overseas deals involving Chinese investors, tech, and data, effective from July 1
+---
+
+[CATEGORY: COMPUTEX 2026]
+ID: TM-10
+Title: Jensen Huang says Anthropic, OpenAI, and SpaceX are among the first big users of Nvidia's new Vera CPUs, which are 1.8x faster at AI workloads than x86 chips
+Sub Items:
+  - Title: Nvidia says its Vera Rubin computing platform is “ramping into full production”, with the first systems expected to ship in the fall, after a March announcement
+    Link ID: TM-10-SUB-01
+---
+ID: TM-11
+Title: Nvidia unveils an open humanoid reference design built on Isaac GR00T and its Jetson Thor chip, combining a Unitree H2 Plus robot and Sharpa five-fingered hands
+Sub Items:
+  - Title: Nvidia unveils Cosmos 3, an open physical AI foundation model that helps robots and autonomous cars better understand the real world with limited training data
+    Link ID: TM-11-SUB-01
+---
+ID: TM-12
+Title: Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748GB of memory, capable of running 1T-parameter models
+---
+ID: TM-13
+Title: Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them “built for agentic AI”
+Sub Items:
+  - Title: Intel debuts six Xeon 6+ data center CPU SKUs, saying the 6990E+ has 30% better performance per thread and up to 30% more energy efficiency than AMD's Epyc 9965
+    Link ID: TM-13-SUB-01
+  - Title: Intel teases its Xeon 7 Diamond Rapids CPUs, built on its 18A-P node, with PCIe 6.0 and 50% more cores and 2x the memory bandwidth vs. Xeon 6, coming in 2027
+    Link ID: TM-13-SUB-02
+---
+ID: TM-14
+Title: Dell introduces the $699+ Dell XPS 13, starting with 8GB of RAM, a six-core Intel Core 5 320 chip, and a 13.4-inch touchscreen, meant to rival the MacBook Neo
+---
+ID: TM-15
+Title: AMD unveils the $330 Ryzen 7 7700X3D CPU, relaunches the 5800X3D as a $349 10th-anniversary edition, and plans to support the AM5 motherboard socket until 2030
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-16
+Title: Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7
+---
+ID: TM-17
+Title: Sources: Anthropic plans to let the EU's cyber agency ENISA join Project Glasswing and access Mythos; EU officials went to the US last week to ask for access
+Sub Items:
+  - Title: Palo Alto Networks says Mythos found 24+ critical bugs using $1M+ in tokens; Anthropic subsidizes Mythos but some companies plan to boost their Mythos budgets
+    Link ID: TM-17-SUB-01
+---
+ID: TM-18
+Title: Source: Salesforce has a stake in Anthropic worth ~$5B; Salesforce first invested about $50M in an early 2023 round and has continually invested in rounds since
+---
+ID: TM-19
+Title: Bernie Sanders says the wealth AI creates “must benefit humanity”, calling for a sovereign wealth fund that would hold ownership stakes in top US AI companies
+---
+ID: TM-20
+Title: Sources: at Build, Microsoft plans to unveil a Copilot “super app”, a new reasoning model developed by Microsoft AI, and Windows improvements for developers
+---
+ID: TM-21
+Title: A look at Pangram, considered the gold standard for detecting AI writing, and the dangers of its claimed one in 10,000 false-positive rate when used at scale
+---
+ID: TM-22
+Title: AI startup Runway, most recently valued at $5.3B, plans to make London its European headquarters and invest $200M+ into the UK's AI ecosystem by the end of 2028
+---
+ID: TM-23
+Title: French private equity firm Ardian partners with data center group Verne to build an up to €5B AI “gigafactory” outside Paris, targeting up to 500MW in capacity
+---
+ID: TM-24
+Title: Internal documents: Chinese company Geedge is working to build AI tools to predict those who could pose a political risk, but US chip controls hampered its work
+---
+ID: TM-25
+Title: Box has created 13 AI-focused roles, like AI architect and AI solutions manager, and plans to grow from 2,900 staff at the start of 2026 to 3,000+ by early 2027
+---
+ID: TM-26
+Title: A look at the Seckinger school cluster in Georgia, including the US' “first AI-themed educational institution”, where parents say AI integration is often sparse
+---
+ID: TM-27
+Title: Q&A with Bill Gurley on Anthropic employees believing “they can create God, and that by creating God, they are like this Prometheus kind of species”, and more
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-28
+Title: HPE reports Q2 revenue up 40% YoY to $10.7B, vs. $9.74B est., Server revenue up 33%, forecasts revenue for FY26 and FY27 above est.; HPE jumps 30%+ after hours
+---
+ID: TM-29
+Title: Meituan reports Q1 revenue up 5.6% YoY to ~$13.5B, above ~$13.4B est., and a ~$1B net loss, its third straight quarter of losses amid a food delivery price war
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-30
+Title: Binance launches trading for 7,000+ US stocks and ETFs for non-US users, with zero commissions and fractional share purchases, as part of its “super app” push
+---
+ID: TM-31
+Title: Coinbase launches direct Indian rupee deposit and withdrawal rails via the Immediate Payment Service, aiming to remove its reliance on P2P and intermediaries
+---
+
+[CATEGORY: VENTURE CAPITAL]
+ID: TM-32
+Title: Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom
+---
+ID: TM-33
+Title: Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven't raised in three years, 220+ are “fallen unicorns”
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-34
+Title: Israeli networking company DriveNets raised a $410M Series D led by Bessemer and Atreides at an $8.5B valuation, taking its total funding to ~$1B
+---
+ID: TM-35
+Title: African e-mobility startup Spiro, which owns 100K+ electric motorcycles, raised $215M at a near-$1B valuation, after raising $100M in 2025 and $50M debt in 2026
+---
+ID: TM-36
+Title: Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users
+---
+ID: TM-37
+Title: Daloopa, which structures financial data from filings, transcripts, investor decks, and other public sources for investment firms, raised a $47M Series C
+---
+ID: TM-38
+Title: New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A
+---
+ID: TM-39
+Title: Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A
+---
+ID: TM-40
+Title: Sekai, which lets users create mini apps through text prompts, raised a $20M Series A co-led by Khosla Ventures and Connect Ventures, after a $6M seed in 2025
+---
+ID: TM-41
+Title: Stockholm-based Endra, which automates the design of plumbing and electrical wiring in new buildings, raised $50M led by a16z
+---
+ID: TM-42
+Title: Netherlands-based Invisix, which is developing advanced chipmaking measurement tools, raised a €20M seed, with the participation of a “tier-one” chipmaker
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-43
+Title: SoftBank becomes Japan's biggest company by market value after hitting an all-time high, overtaking Toyota, which has been the country's largest for 20+ years
+---
+ID: TM-44
+Title: IBM shares jump 7.6% after a nearly six-month old video of President Trump praising CEO Arvind Krishna recirculated on X; IBM was already up ~40% over two weeks
+---
+ID: TM-45
+Title: SEC filing: quantum computing startup Quantinuum boosts its IPO, aiming to sell 26.5M shares for $53-$55 each, raising up to $1.46B at an up to $14.3B valuation
+---
+ID: TM-46
+Title: Strava is adding an $11.99 monthly fee for developer API access and moving public profiles and fitness club listings behind authentication to combat AI scraping
+---
+ID: TM-47
+Title: LG's shares are up 300%+ in 2026, after largely sitting out of South Korea's chip rally in 2025, as LG seeks to expand into physical AI businesses, like robots
+---
+ID: TM-48
+Title: TSMC's stock rally in Taiwan has outpaced its US-listed shares in 2026, narrowing its ADR premium to 13.7%, a two-year low, driven by local investor optimism
+---
+ID: TM-49
+Title: Google plans to open its first physical Google Store outside of the US “this summer”, in Tokyo's Omotesando district, marking Google's 11th physical store
+---
+ID: TM-50
+Title: Wirescreen analysis of 3,800 Chinese military procurement records finds 500+ instances since 2019 where the PLA sought Nvidia chips, including the A100 and A800
+---
+ID: TM-51
+Title: Grab says it commits to “Taiwan's data security and public trust”, after reports of Grab's collaborations with China-based Huawei and Alibaba sparked concerns
+---
+ID: TM-52
+Title: A look at Operation Jailbreak, a US Army-led hackathon where nine defense firms use AI to integrate weapons systems, drawing on Ukraine interoperability lessons
+---
+ID: TM-53
+Title: Q&A with Brian Chesky on running Airbnb in “founder mode”, how “founder mode and hustle culture” are different, AI customer service, adding hotels, and more
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: New screenshots of upcoming Copilot Super App (2 minute read)
+Excerpt: Microsoft looks likely to debut its unified Copilot app at Build 2026. Leaked screenshots show a GitHub Copilot tab, a Cowork tab, and a tab for Scout, an always-on AI agent. The company is trying to boost weak adoption by folding scattered tools into a single home. The integration of Teams hints that Scout may be able to run remotely.
+---
+ID: TL-02
+Title: MiniMax M3 (2 minute read)
+Excerpt: MiniMax M3 is an open weights model that achieves frontier-level performance on coding and agentic work. The model supports image and video input and can operate a desktop computer. It uses a new attention architecture that enables context scaling and can support ultra-long context windows of up to 1 million tokens. The model is available through MiniMax Code, the Token Plan, and MiniMax's API services.
+---
+ID: TL-03
+Title: Computex 2026 Will Be NVIDIA's Biggest Event Of The Year. Here's What To Expect (5 minute read)
+Excerpt: Nvidia plans to unveil its N1X laptop chip at Computex 2026, featuring 20 ARM cores and an RTX 5070 equivalent GPU, promising improved VRAM allocation for AI applications. The company will also present its "Vera Rubin" AI platform for datacenters, aiming to strengthen its position in the AI market. Nvidia's focus on Physical and Agentic AI will highlight advancements in autonomous machines and robotics, while gaming announcements seem minimal.
+---
+ID: TL-04
+Title: Agentic RL: Token-In, Token-Out Done Right (16 minute read)
+Excerpt: In reinforcement learning with LLMs, ensuring the model operates on the exact tokens sampled is crucial. Re-tokenizing can lead to drift and unreliable gradients. The solution involves never re-encoding decoded tokens and maintaining a buffer for sampled tokens to avoid drift and maintain accurate loss computation. This approach depends on a prefix-preserving chat template property, which most modern templates satisfy, ensuring reliable reinforcement learning loops without redundant re-rendering.
+---
+ID: TL-05
+Title: Claude Opus 4.8: The System Card (40 minute read)
+Excerpt: Claude Opus 4.8, released only six weeks after Opus 4.7, comes with a 244-page system card. While the updates are incremental, there is still a lot to talk about. Its capabilities are still well behind Mythos. This post looks at the system card, what's different between the two versions, and what this reveals about Mythos.
+---
+ID: TL-06
+Title: Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices (9 minute read)
+Excerpt: Bonsai Image 4B is a family of compact image-generation models that can run high-quality diffusion inference on local hardware. The 1-bit variant is for applications where memory pressure, bandwidth, and deployment footprint are the primary restraints. The ternary variant has more representational flexibility, giving it improved visual quality and prompt fidelity while remaining extremely compact. The models can run directly on an iPhone.
+---
+ID: TL-07
+Title: pi-dynamic-workflows (GitHub Repo)
+Excerpt: pi-dynamic-workflows is a Pi extension that adds a workflow tool. It allows assistants to write an economical JavaScript script that fans out work across many isolated subagents, then synthesizes the results. Subagents can read files, run shell commands, and call structured output compactly like a normal Pi turn. The tool is great for codebase audits, multi-perspective review, large refactors, and fan-out research.
+---
+ID: TL-08
+Title: ECC (GitHub Repo)
+Excerpt: ECC is a comprehensive system for multi-harness agent workflows, featuring skills, instincts, memory optimization, and security scanning.
+---
+ID: TL-09
+Title: Grok Build 0.1 on API (1 minute read)
+Excerpt: xAI's grok-build-0.1 is now in public beta via the API, designed for agentic coding tasks like web development and debugging. The model processes over 100 tokens/second, costing $1 per million tokens in and $2 per million out. It integrates well with platforms like Grok Build, Cursor, and OpenClaw.
+---
+ID: TL-10
+Title: The AI agent bottleneck isn't model performance — it's permissions (3 minute read)
+Excerpt: Enterprise AI agents are struggling due to permissioning issues rather than model performance. Workday addresses this by using its system of record as the governance layer, integrating with Google's Gemini, and emphasizing agent accuracy. This setup ensures agents operate within defined user permissions, crucial for regulated sectors like HR and finance.
+---
+ID: TL-11
+Title: Verifying Agentic Development at Scale (8 minute read)
+Excerpt: Cognition's Ido Pesok shares lessons from building autonomous end-to-end testing into Devin, noting that for the first time, more Devin sessions are now triggered asynchronously than interactively, making verified-before-merge results a hard requirement rather than a nicety. Devin's harness gained computer-use tools roughly six months ago, and the breakthrough came when engineers started running 10-20 Devins in parallel, each with its own dev server, something impossible on a single laptop.
+---
+ID: TL-12
+Title: 3 upcoming NotebookLM features we all should be waiting for (2 minute read)
+Excerpt: NotebookLM's upcoming features include Personal Preferences, Connectors, and Canvas.
+---
+ID: TL-13
+Title: Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking (4 minute read)
+Excerpt: Inherent, a London-based AI lab, is building a platform called Faraday aimed at figuring out which questions are worth asking.
+---
+ID: TL-14
+Title: OpenAI Robotics is hiring (1 minute read)
+Excerpt: OpenAI Robotics is looking for full-stack hardware, ops, systems, and ML engineers to help it program and manufacture robots.
+---
+ID: TL-15
+Title: How to Automate AI Model Documentation with the NVIDIA MCG Toolkit (8 minute read)
+Excerpt: NVIDIA's MCG Toolkit automates AI model documentation, creating comprehensive model cards in Model Card++ format rapidly.
+---
+ID: TL-16
+Title: TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)
+Excerpt: TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.
+---
+ID: TL-17
+Title: OpenAI Outlines Playbook for Trustworthy Third-Party AI Model Evaluations (4 minute read)
+Excerpt: OpenAI published a comprehensive guide on May 28 for conducting trustworthy third-party evaluations of frontier AI models like GPT-5.5.
+---

@@ -1,0 +1,565 @@
+{
+  "date": "2026-06-01",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls “the most efficient PC chip ever built”, made on TSMC 3 in partnership with MediaTek",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html?unlocked_article_code=1.m1A.beSj.THTTsb2khzph&smid=url-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts, amid a wave of high-profile account takeovers; Meta fixed the issue",
+      "excerpt": "",
+      "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Florida AG James Uthmeier sues OpenAI and Sam Altman, seeking to hold Altman personally liable for deceptive trade practices, negligence, and public nuisance",
+      "excerpt": "",
+      "url": "https://www.nbcnews.com/tech/tech-news/florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Nasdaq, FTSE, and other index providers are shortening their entry timelines to accommodate SpaceX's record $75B IPO, as Elon Musk targets retail investors",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-05-31/spacex-s-ipo-led-by-elon-musk-forces-index-funds-and-retail-to-change-the-rules?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDI2MTYyNywiZXhwIjoxNzgwODY2NDI3LCJhcnRpY2xlSWQiOiJURlg2QzlLSVVRNzMwMCIsImJjb25uZWN0SWQiOiJEQ0FENEZEODYzRTA0MUI5OEMzNDJBOERFNzVGQUVCNSJ9.ymlcbQGmIh03lmv9F2vNhilrLgEsPpXB8iycFbr1K_c",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Researchers find packages in the @redhat-cloud-services npm namespace shipped malware that harvests credentials for GitHub Actions, AWS, GCP, Azure, and others",
+      "excerpt": "",
+      "url": "https://www.stepsecurity.io/blog/multiple-redhat-cloud-services-npm-packages-compromised",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M, at an average net price of $77,135 per coin, its first disclosed bitcoin disposal",
+      "excerpt": "",
+      "url": "https://www.coindesk.com/markets/2026/06/01/strategy-sold-32-btc-for-usd2-5-million-in-late-may-filing-shows",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "China issues new investment rules, expanding regulatory powers to scrutinize overseas deals involving Chinese investors, tech, and data, effective from July 1",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/china-toughens-rules-outbound-investment-after-meta-manus-contention-2026-06-01/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Jensen Huang says Anthropic, OpenAI, and SpaceX are among the first big users of Nvidia's new Vera CPUs, which are 1.8x faster at AI workloads than x86 chips",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
+      "section": "computex 2026"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Nvidia unveils an open humanoid reference design built on Isaac GR00T and its Jetson Thor chip, combining a Unitree H2 Plus robot and Sharpa five-fingered hands",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-work-with-us-european-humanoid-robot-makers-addition-chinas-unitree-2026-06-01/",
+      "section": "computex 2026"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748GB of memory, capable of running 1T-parameter models",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/",
+      "section": "computex 2026"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them “built for agentic AI”",
+      "excerpt": "",
+      "url": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
+      "section": "computex 2026"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Dell introduces the $699+ Dell XPS 13, starting with 8GB of RAM, a six-core Intel Core 5 320 chip, and a 13.4-inch touchscreen, meant to rival the MacBook Neo",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRGV1JybENnRk8iLCJwIjoiL3RlY2gvOTQwNDk4L2RlbGwteHBzLTEzLXN0dWRlbnQtbGFwdG9wLWludGVsLXdpbGRjYXQtcGFudGhlci1sYWtlLWNvbXB1dGV4LXByaWNlIiwiZXhwIjoxNzgwNzA1MDQxLCJpYXQiOjE3ODAyNzMwNDF9.6rRDAeL0CybnDroyImXCYNVEt0SVXhNRlARvLvVSluc&utm_medium=gift-link",
+      "section": "computex 2026"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "AMD unveils the $330 Ryzen 7 7700X3D CPU, relaunches the 5800X3D as a $349 10th-anniversary edition, and plans to support the AM5 motherboard socket until 2030",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlBZY3BtTjVSWnAiLCJwIjoiL3RlY2gvOTQwNTI0L2FtZC1jb21wdXRleC1hbTUtcHJvbWlzZS0yMDI5LXJ4OTA3MGdyZS03NzAweDNkLTU4MDB4M2QiLCJleHAiOjE3ODA3MDU1NzcsImlhdCI6MTc4MDI3MzU3OH0.unOg-AdZDCy3ixnNg_1tZ7wQDHbvE33JEQS_LL0TghA&utm_medium=gift-link",
+      "section": "computex 2026"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Sources: Anthropic plans to let the EU's cyber agency ENISA join Project Glasswing and access Mythos; EU officials went to the US last week to ask for access",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Source: Salesforce has a stake in Anthropic worth ~$5B; Salesforce first invested about $50M in an early 2023 round and has continually invested in rounds since",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/salesforce-investment-in-anthropic-is-valued-at-about-5-billion",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Bernie Sanders says the wealth AI creates “must benefit humanity”, calling for a sovereign wealth fund that would hold ownership stakes in top US AI companies",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html?unlocked_article_code=1.m1A.20uD.iX08KzC_HkXx&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Sources: at Build, Microsoft plans to unveil a Copilot “super app”, a new reasoning model developed by Microsoft AI, and Windows improvements for developers",
+      "excerpt": "",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "A look at Pangram, considered the gold standard for detecting AI writing, and the dangers of its claimed one in 10,000 false-positive rate when used at scale",
+      "excerpt": "",
+      "url": "https://www.theatlantic.com/technology/2026/05/pangram-ai-detection-accuracy/687381/?gift=NBdGSmKfDQzLc1B6N1F-gasbcqKrczuquHjg4eErYvw&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "AI startup Runway, most recently valued at $5.3B, plans to make London its European headquarters and invest $200M+ into the UK's AI ecosystem by the end of 2028",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "French private equity firm Ardian partners with data center group Verne to build an up to €5B AI “gigafactory” outside Paris, targeting up to 500MW in capacity",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/6756ca48-212a-40f6-bf8f-c07d21bd856c",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Internal documents: Chinese company Geedge is working to build AI tools to predict those who could pose a political risk, but US chip controls hampered its work",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html?unlocked_article_code=1.m1A.q4PM.1bRQR9DWC1f-&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Box has created 13 AI-focused roles, like AI architect and AI solutions manager, and plans to grow from 2,900 staff at the start of 2026 to 3,000+ by early 2027",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "A look at the Seckinger school cluster in Georgia, including the US' “first AI-themed educational institution”, where parents say AI integration is often sparse",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/05/30/opinion/ai-high-school.html?unlocked_article_code=1.mVA.O73q.61A71U8KJ0h3&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Q&A with Bill Gurley on Anthropic employees believing “they can create God, and that by creating God, they are like this Prometheus kind of species”, and more",
+      "excerpt": "",
+      "url": "https://x.com/theallinpod/status/2060742848836735334",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "HPE reports Q2 revenue up 40% YoY to $10.7B, vs. $9.74B est., Server revenue up 33%, forecasts revenue for FY26 and FY27 above est.; HPE jumps 30%+ after hours",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/hpe-sees-strong-growth-over-next-18-months-on-server-demand",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Meituan reports Q1 revenue up 5.6% YoY to ~$13.5B, above ~$13.4B est., and a ~$1B net loss, its third straight quarter of losses amid a food delivery price war",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/earnings/meituan-logs-another-loss-amid-food-delivery-price-war-fef4c703?st=gLEmYm&reflink=desktopwebshare_permalink",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Binance launches trading for 7,000+ US stocks and ETFs for non-US users, with zero commissions and fractional share purchases, as part of its “super app” push",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/01/binance-adds-u-s-stocks-in-super-app-push-plans-to-launch-tokenized-shares/",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Coinbase launches direct Indian rupee deposit and withdrawal rails via the Immediate Payment Service, aiming to remove its reliance on P2P and intermediaries",
+      "excerpt": "",
+      "url": "https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/former-meta-cto-raises-clean-tech-fund-as-ai-reshapes-sector",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven't raised in three years, 220+ are “fallen unicorns”",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Israeli networking company DriveNets raised a $410M Series D led by Bessemer and Atreides at an $8.5B valuation, taking its total funding to ~$1B",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/zzhjwk3b8",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "African e-mobility startup Spiro, which owns 100K+ electric motorcycles, raised $215M at a near-$1B valuation, after raising $100M in 2025 and $50M debt in 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/african-startup-spiro-raises-215-million-nearing-unicorn-value",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/gen-z-gamer-s-3d-model-startup-becomes-china-s-latest-ai-unicorn",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Daloopa, which structures financial data from filings, transcripts, investor decks, and other public sources for investment firms, raised a $47M Series C",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/fintech-deals/2026/05/28/daloopa-47m-series-c-ai-finance-data",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/05/27/transformation-capital-solstice-21m-pharma-marketing",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Sekai, which lets users create mini apps through text prompts, raised a $20M Series A co-led by Khosla Ventures and Connect Ventures, after a $6M seed in 2025",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/01/sekai-mini-app-startup-funding",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Stockholm-based Endra, which automates the design of plumbing and electrical wiring in new buildings, raised $50M led by a16z",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/06/01/endras-engineer-buildings-ai",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Netherlands-based Invisix, which is developing advanced chipmaking measurement tools, raised a €20M seed, with the participation of a “tier-one” chipmaker",
+      "excerpt": "",
+      "url": "https://tech.eu/2026/06/01/invisix-closes-eur20m-seed-round-to-transform-chip-metrology/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "SoftBank becomes Japan's biggest company by market value after hitting an all-time high, overtaking Toyota, which has been the country's largest for 20+ years",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/eef96fb0-5a56-4ce2-9a69-5f8eca754995",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "IBM shares jump 7.6% after a nearly six-month old video of President Trump praising CEO Arvind Krishna recirculated on X; IBM was already up ~40% over two weeks",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/ibm-shares-surge-as-old-clip-of-trump-praise-recirculates-online",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "SEC filing: quantum computing startup Quantinuum boosts its IPO, aiming to sell 26.5M shares for $53-$55 each, raising up to $1.46B at an up to $14.3B valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/honeywell-backed-quantinuum-boosts-ipo-target-to-1-46-billion",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "Strava is adding an $11.99 monthly fee for developer API access and moving public profiles and fitness club listings behind authentication to combat AI scraping",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "LG's shares are up 300%+ in 2026, after largely sitting out of South Korea's chip rally in 2025, as LG seeks to expand into physical AI businesses, like robots",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/lg-electronics-shares-surge-more-than-300-on-physical-ai-push",
+      "section": "more news"
+    },
+    {
+      "id": "TM-48",
+      "source": "techmeme",
+      "title": "TSMC's stock rally in Taiwan has outpaced its US-listed shares in 2026, narrowing its ADR premium to 13.7%, a two-year low, driven by local investor optimism",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/tsmc-s-local-investors-narrow-valuation-gap-with-wall-street",
+      "section": "more news"
+    },
+    {
+      "id": "TM-49",
+      "source": "techmeme",
+      "title": "Google plans to open its first physical Google Store outside of the US “this summer”, in Tokyo's Omotesando district, marking Google's 11th physical store",
+      "excerpt": "",
+      "url": "https://9to5google.com/2026/06/01/google-store-tokyo-to-be-first-physical-store-outside-us-opens-this-summer/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-50",
+      "source": "techmeme",
+      "title": "Wirescreen analysis of 3,800 Chinese military procurement records finds 500+ instances since 2019 where the PLA sought Nvidia chips, including the A100 and A800",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-51",
+      "source": "techmeme",
+      "title": "Grab says it commits to “Taiwan's data security and public trust”, after reports of Grab's collaborations with China-based Huawei and Alibaba sparked concerns",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/technology/grab-seeks-to-ease-data-security-concerns-as-it-pushes-into-taiwan",
+      "section": "more news"
+    },
+    {
+      "id": "TM-52",
+      "source": "techmeme",
+      "title": "A look at Operation Jailbreak, a US Army-led hackathon where nine defense firms use AI to integrate weapons systems, drawing on Ukraine interoperability lessons",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/1699e348-02d5-491a-9924-1d5914d540f7",
+      "section": "more news"
+    },
+    {
+      "id": "TM-53",
+      "source": "techmeme",
+      "title": "Q&A with Brian Chesky on running Airbnb in “founder mode”, how “founder mode and hustle culture” are different, AI customer service, adding hotels, and more",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "New screenshots of upcoming Copilot Super App (2 minute read)",
+      "excerpt": "Microsoft looks likely to debut its unified Copilot app at Build 2026. Leaked screenshots show a GitHub Copilot tab, a Cowork tab, and a tab for Scout, an always-on AI agent. The company is trying to boost weak adoption by folding scattered tools into a single home. The integration of Teams hints that Scout may be able to run remotely.",
+      "url": "https://www.testingcatalog.com/exclusive-new-screenshots-of-upcoming-copilot-super-app/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "MiniMax M3 (2 minute read)",
+      "excerpt": "MiniMax M3 is an open weights model that achieves frontier-level performance on coding and agentic work. The model supports image and video input and can operate a desktop computer. It uses a new attention architecture that enables context scaling and can support ultra-long context windows of up to 1 million tokens. The model is available through MiniMax Code, the Token Plan, and MiniMax's API services.",
+      "url": "https://threadreaderapp.com/thread/2061266317815296322.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Computex 2026 Will Be NVIDIA's Biggest Event Of The Year. Here's What To Expect (5 minute read)",
+      "excerpt": "Nvidia plans to unveil its N1X laptop chip at Computex 2026, featuring 20 ARM cores and an RTX 5070 equivalent GPU, promising improved VRAM allocation for AI applications. The company will also present its \"Vera Rubin\" AI platform for datacenters, aiming to strengthen its position in the AI market. Nvidia's focus on Physical and Agentic AI will highlight advancements in autonomous machines and robotics, while gaming announcements seem minimal.",
+      "url": "https://wccftech.com/nvidia-computex-2026-what-to-expect/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Agentic RL: Token-In, Token-Out Done Right (16 minute read)",
+      "excerpt": "In reinforcement learning with LLMs, ensuring the model operates on the exact tokens sampled is crucial. Re-tokenizing can lead to drift and unreliable gradients. The solution involves never re-encoding decoded tokens and maintaining a buffer for sampled tokens to avoid drift and maintain accurate loss computation. This approach depends on a prefix-preserving chat template property, which most modern templates satisfy, ensuring reliable reinforcement learning loops without redundant re-rendering.",
+      "url": "https://qgallouedec-tito.hf.space/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Claude Opus 4.8: The System Card (40 minute read)",
+      "excerpt": "Claude Opus 4.8, released only six weeks after Opus 4.7, comes with a 244-page system card. While the updates are incremental, there is still a lot to talk about. Its capabilities are still well behind Mythos. This post looks at the system card, what's different between the two versions, and what this reveals about Mythos.",
+      "url": "https://thezvi.wordpress.com/2026/05/29/claude-opus-4-8-the-system-card/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices (9 minute read)",
+      "excerpt": "Bonsai Image 4B is a family of compact image-generation models that can run high-quality diffusion inference on local hardware. The 1-bit variant is for applications where memory pressure, bandwidth, and deployment footprint are the primary restraints. The ternary variant has more representational flexibility, giving it improved visual quality and prompt fidelity while remaining extremely compact. The models can run directly on an iPhone.",
+      "url": "https://prismml.com/news/bonsai-image-4b?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "pi-dynamic-workflows (GitHub Repo)",
+      "excerpt": "pi-dynamic-workflows is a Pi extension that adds a workflow tool. It allows assistants to write an economical JavaScript script that fans out work across many isolated subagents, then synthesizes the results. Subagents can read files, run shell commands, and call structured output compactly like a normal Pi turn. The tool is great for codebase audits, multi-perspective review, large refactors, and fan-out research.",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "ECC (GitHub Repo)",
+      "excerpt": "ECC is a comprehensive system for multi-harness agent workflows, featuring skills, instincts, memory optimization, and security scanning.",
+      "url": "https://github.com/affaan-m/ECC?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Grok Build 0.1 on API (1 minute read)",
+      "excerpt": "xAI's grok-build-0.1 is now in public beta via the API, designed for agentic coding tasks like web development and debugging. The model processes over 100 tokens/second, costing $1 per million tokens in and $2 per million out. It integrates well with platforms like Grok Build, Cursor, and OpenClaw.",
+      "url": "https://x.ai/news/grok-build-0-1?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "The AI agent bottleneck isn't model performance — it's permissions (3 minute read)",
+      "excerpt": "Enterprise AI agents are struggling due to permissioning issues rather than model performance. Workday addresses this by using its system of record as the governance layer, integrating with Google's Gemini, and emphasizing agent accuracy. This setup ensures agents operate within defined user permissions, crucial for regulated sectors like HR and finance.",
+      "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Verifying Agentic Development at Scale (8 minute read)",
+      "excerpt": "Cognition's Ido Pesok shares lessons from building autonomous end-to-end testing into Devin, noting that for the first time, more Devin sessions are now triggered asynchronously than interactively, making verified-before-merge results a hard requirement rather than a nicety. Devin's harness gained computer-use tools roughly six months ago, and the breakthrough came when engineers started running 10-20 Devins in parallel, each with its own dev server, something impossible on a single laptop.",
+      "url": "https://x.com/ido_pesok/status/2060416230641881336?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "3 upcoming NotebookLM features we all should be waiting for (2 minute read)",
+      "excerpt": "NotebookLM's upcoming features include Personal Preferences, Connectors, and Canvas.",
+      "url": "https://www.testingcatalog.com/3-upcoming-notebooklm-features-we-all-should-be-waiting-for/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking (4 minute read)",
+      "excerpt": "Inherent, a London-based AI lab, is building a platform called Faraday aimed at figuring out which questions are worth asking.",
+      "url": "https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "OpenAI Robotics is hiring (1 minute read)",
+      "excerpt": "OpenAI Robotics is looking for full-stack hardware, ops, systems, and ML engineers to help it program and manufacture robots.",
+      "url": "https://threadreaderapp.com/thread/2061117302528188712.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit (8 minute read)",
+      "excerpt": "NVIDIA's MCG Toolkit automates AI model documentation, creating comprehensive model cards in Model Card++ format rapidly.",
+      "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)",
+      "excerpt": "TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-17",
+      "source": "tldr",
+      "title": "OpenAI Outlines Playbook for Trustworthy Third-Party AI Model Evaluations (4 minute read)",
+      "excerpt": "OpenAI published a comprehensive guide on May 28 for conducting trustworthy third-party evaluations of frontier AI models like GPT-5.5.",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

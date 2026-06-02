@@ -1,0 +1,1259 @@
+{
+  "month": "2026-06",
+  "days": [
+    {
+      "date": "2026-06-01",
+      "total": 31,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
+    }
+  ],
+  "item_count": 31,
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "title": {
+        "zh": "Nvidia发布RTX Spark：基于Arm的高效PC芯片",
+        "en": "Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls “the most efficient PC chip ever built”, made on TSMC 3 in partnership with MediaTek"
+      },
+      "summary": {
+        "zh": "Nvidia与MediaTek合作推出基于TSMC 3工艺的RTX Spark芯片，号称“史上最高效的PC芯片”。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html?unlocked_article_code=1.m1A.beSj.THTTsb2khzph&smid=url-share",
+      "title": {
+        "zh": "Anthropic计划IPO，或于今年秋季进行",
+        "en": "Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026"
+      },
+      "summary": {
+        "zh": "Anthropic已秘密提交IPO申请，计划2026年与OpenAI和SpaceX一同上市。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-04",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nbcnews.com/tech/tech-news/florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602",
+      "title": {
+        "zh": "佛罗里达州总检察长起诉OpenAI及Sam Altman",
+        "en": "Florida AG James Uthmeier sues OpenAI and Sam Altman, seeking to hold Altman personally liable for deceptive trade practices, negligence, and public nuisance"
+      },
+      "summary": {
+        "zh": "指控Altman涉及欺骗性商业行为、过失和公共妨害，寻求个人责任追究。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "sam-altman",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "sam-altman",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
+      "title": {
+        "zh": "Alphabet通过股权融资筹集80亿美元",
+        "en": "Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans"
+      },
+      "summary": {
+        "zh": "包括与伯克希尔哈撒韦达成的100亿美元投资协议，用于支持AI支出计划。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "google",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/asia-pacific/china-toughens-rules-outbound-investment-after-meta-manus-contention-2026-06-01/",
+      "title": {
+        "zh": "中国发布新投资规则，加强对海外交易的监管",
+        "en": "China issues new investment rules, expanding regulatory powers to scrutinize overseas deals involving Chinese investors, tech, and data, effective from July 1"
+      },
+      "summary": {
+        "zh": "新规自7月1日起生效，扩大对涉及中国投资者、技术和数据的海外交易的审查权力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
+      "title": {
+        "zh": "Jensen Huang：Nvidia新款Vera CPU被多家大公司采用",
+        "en": "Jensen Huang says Anthropic, OpenAI, and SpaceX are among the first big users of Nvidia's new Vera CPUs, which are 1.8x faster at AI workloads than x86 chips"
+      },
+      "summary": {
+        "zh": "Anthropic、OpenAI和SpaceX成为Nvidia新款Vera CPU的首批用户，性能比x86芯片快1.8倍。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "anthropic",
+        "openai",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "anthropic",
+        "openai",
+        "chip"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-work-with-us-european-humanoid-robot-makers-addition-chinas-unitree-2026-06-01/",
+      "title": {
+        "zh": "Nvidia发布基于Isaac GR00T的开放人形机器人参考设计",
+        "en": "Nvidia unveils an open humanoid reference design built on Isaac GR00T and its Jetson Thor chip, combining a Unitree H2 Plus robot and Sharpa five-fingered hands"
+      },
+      "summary": {
+        "zh": "结合Unitree H2 Plus机器人和Sharpa五指机械手，搭载Jetson Thor芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "robotics"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/",
+      "title": {
+        "zh": "Nvidia推出DGX Station for Windows桌面PC",
+        "en": "Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748GB of memory, capable of running 1T-parameter models"
+      },
+      "summary": {
+        "zh": "搭载GB300 Grace Blackwell芯片，内存高达748GB，可运行1万亿参数模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "gpu",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "gpu",
+        "training"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
+      "title": {
+        "zh": "Intel发布Crescent Island数据中心GPU",
+        "en": "Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them “built for agentic AI”"
+      },
+      "summary": {
+        "zh": "基于Xe3P架构，采用LPDDR5X内存，专为“智能AI”设计。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "intel",
+        "gpu",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "intel",
+        "gpu",
+        "data-center"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats",
+      "title": {
+        "zh": "MiniMax发布M3新编码模型",
+        "en": "Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7"
+      },
+      "summary": {
+        "zh": "MiniMax推出M3编码模型，声称性能可媲美Claude Opus 4.7，成本仅为Opus 4.7的1/40。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "coding"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "title": {
+        "zh": "微软将在Build大会上发布Copilot“超级应用”和新推理模型",
+        "en": "Sources: at Build, Microsoft plans to unveil a Copilot “super app”, a new reasoning model developed by Microsoft AI, and Windows improvements for developers"
+      },
+      "summary": {
+        "zh": "微软计划在Build大会上推出一款Copilot“超级应用”，展示其AI团队开发的新推理模型，并为开发者提供Windows改进。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "microsoft",
+        "copilot",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "copilot",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html",
+      "title": {
+        "zh": "Runway计划将伦敦设为欧洲总部并投资2亿英镑",
+        "en": "AI startup Runway, most recently valued at $5.3B, plans to make London its European headquarters and invest $200M+ into the UK's AI ecosystem by the end of 2028"
+      },
+      "summary": {
+        "zh": "AI初创公司Runway计划到2028年底在英国AI生态系统中投资超过2亿美元，并将伦敦设为其欧洲总部。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "runway",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "runway",
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/6756ca48-212a-40f6-bf8f-c07d21bd856c",
+      "title": {
+        "zh": "法国私募股权公司Ardian与Verne合作建设AI“超级工厂”",
+        "en": "French private equity firm Ardian partners with data center group Verne to build an up to €5B AI “gigafactory” outside Paris, targeting up to 500MW in capacity"
+      },
+      "summary": {
+        "zh": "Ardian与数据中心集团Verne合作，在巴黎郊外建设一座耗资50亿欧元的AI“超级工厂”，目标容量达500MW。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "data-center",
+        "energy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "data-center",
+        "energy"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-32",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/former-meta-cto-raises-clean-tech-fund-as-ai-reshapes-sector",
+      "title": {
+        "zh": "Gigascale Capital完成2.5亿美元基金，支持AI初创公司",
+        "en": "Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom"
+      },
+      "summary": {
+        "zh": "由前Meta CTO Mike Schroepfer联合创立的气候科技风投公司Gigascale Capital完成2.5亿美元基金，支持早期阶段的AI相关初创公司。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html",
+      "title": {
+        "zh": "ChatGPT前时代的初创公司面临私募市场的清算",
+        "en": "Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven't raised in three years, 220+ are “fallen unicorns”"
+      },
+      "summary": {
+        "zh": "根据PitchBook数据，美国一半的独角兽公司三年未融资，220多家公司已成为“堕落独角兽”。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-34",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.calcalistech.com/ctechnews/article/zzhjwk3b8",
+      "title": {
+        "zh": "以色列网络公司DriveNets完成4.1亿美元D轮融资",
+        "en": "Israeli networking company DriveNets raised a $410M Series D led by Bessemer and Atreides at an $8.5B valuation, taking its total funding to ~$1B"
+      },
+      "summary": {
+        "zh": "DriveNets在Bessemer和Atreides领投下完成4.1亿美元D轮融资，公司估值达85亿美元，总融资额接近10亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/gen-z-gamer-s-3d-model-startup-becomes-china-s-latest-ai-unicorn",
+      "title": {
+        "zh": "北京Vast公司完成2亿美元融资，估值超10亿美元",
+        "en": "Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users"
+      },
+      "summary": {
+        "zh": "Vast利用AI模型从文本和图像生成3D资产，已拥有2000万全球用户，最新融资2亿美元，估值超过10亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "image-gen"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/01/mecka-ai-series-a-60-million-robotics-data-training/",
+      "title": {
+        "zh": "Mecka AI完成6000万美元融资，用于机器人训练",
+        "en": "New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A"
+      },
+      "summary": {
+        "zh": "总部位于纽约的Mecka AI通过人体传感器和iPhone数据训练机器人，完成6000万美元融资，其中包括2500万美元A轮融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "robotics"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-45",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/honeywell-backed-quantinuum-boosts-ipo-target-to-1-46-billion",
+      "title": {
+        "zh": "量子计算初创公司Quantinuum计划IPO，目标融资14.6亿美元",
+        "en": "SEC filing: quantum computing startup Quantinuum boosts its IPO, aiming to sell 26.5M shares for $53-$55 each, raising up to $1.46B at an up to $14.3B valuation"
+      },
+      "summary": {
+        "zh": "根据SEC文件，Quantinuum计划通过IPO发行2650万股，价格区间为53至55美元，估值最高达143亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "quantum",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "quantum",
+        "ipo"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-46",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+      "title": {
+        "zh": "Strava新增API访问月费并限制公开资料访问",
+        "en": "Strava is adding an $11.99 monthly fee for developer API access and moving public profiles and fitness club listings behind authentication to combat AI scraping"
+      },
+      "summary": {
+        "zh": "Strava将对开发者API访问收取每月11.99美元费用，并将公共资料和健身俱乐部列表移至身份验证后，以应对AI数据抓取问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "api",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "api",
+        "pricing"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-50",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
+      "title": {
+        "zh": "分析发现中国军方自2019年以来500多次采购Nvidia芯片",
+        "en": "Wirescreen analysis of 3,800 Chinese military procurement records finds 500+ instances since 2019 where the PLA sought Nvidia chips, including the A100 and A800"
+      },
+      "summary": {
+        "zh": "研究显示，中国军方采购记录中多次涉及Nvidia A100和A800芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "nvidia",
+        "policy",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "policy",
+        "chip"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TM-52",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/1699e348-02d5-491a-9924-1d5914d540f7",
+      "title": {
+        "zh": "美军主导的黑客马拉松“监狱突破行动”探讨AI与武器系统整合",
+        "en": "A look at Operation Jailbreak, a US Army-led hackathon where nine defense firms use AI to integrate weapons systems, drawing on Ukraine interoperability lessons"
+      },
+      "summary": {
+        "zh": "活动吸取乌克兰战场经验，九家国防公司参与，探索AI在武器系统中的应用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "agent",
+        "autonomous-driving",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "autonomous-driving",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/exclusive-new-screenshots-of-upcoming-copilot-super-app/?utm_source=tldrai",
+      "title": {
+        "zh": "微软即将推出统一的Copilot超级应用",
+        "en": "New screenshots of upcoming Copilot Super App (2 minute read)"
+      },
+      "summary": {
+        "zh": "新应用整合了GitHub Copilot、Cowork和Scout等功能，提升用户采用率。",
+        "en": "Microsoft looks likely to debut its unified Copilot app at Build 2026. Leaked screenshots show a GitHub Copilot tab, a Cowork tab, and a tab for Scout, an always-on AI agent. The company is trying to boost weak adoption by folding scattered tools into a single home. The integration of Teams hints that Scout may be able to run remotely."
+      },
+      "tags": [
+        "cat:app",
+        "microsoft",
+        "copilot",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "copilot",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://threadreaderapp.com/thread/2061266317815296322.html?utm_source=tldrai",
+      "title": {
+        "zh": "MiniMax M3模型：支持超长上下文窗口的开源模型",
+        "en": "MiniMax M3 (2 minute read)"
+      },
+      "summary": {
+        "zh": "该模型支持图像和视频输入，可执行桌面操作，适用于代码和代理任务。",
+        "en": "MiniMax M3 is an open weights model that achieves frontier-level performance on coding and agentic work. The model supports image and video input and can operate a desktop computer. It uses a new attention architecture that enables context scaling and can support ultra-long context windows of up to 1 million tokens. The model is available through MiniMax Code, the Token Plan, and MiniMax's API services."
+      },
+      "tags": [
+        "cat:model",
+        "open-weights",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-weights",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://wccftech.com/nvidia-computex-2026-what-to-expect/?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA将在2026年Computex发布N1X笔记本芯片",
+        "en": "Computex 2026 Will Be NVIDIA's Biggest Event Of The Year. Here's What To Expect (5 minute read)"
+      },
+      "summary": {
+        "zh": "新芯片拥有20个ARM核心和RTX 5070级别GPU，并推出“Vera Rubin”AI平台。",
+        "en": "Nvidia plans to unveil its N1X laptop chip at Computex 2026, featuring 20 ARM cores and an RTX 5070 equivalent GPU, promising improved VRAM allocation for AI applications. The company will also present its \"Vera Rubin\" AI platform for datacenters, aiming to strengthen its position in the AI market. Nvidia's focus on Physical and Agentic AI will highlight advancements in autonomous machines and robotics, while gaming announcements seem minimal."
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "gpu",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "gpu",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://thezvi.wordpress.com/2026/05/29/claude-opus-4-8-the-system-card/?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Opus 4.8系统卡发布",
+        "en": "Claude Opus 4.8: The System Card (40 minute read)"
+      },
+      "summary": {
+        "zh": "新版本系统卡长达244页，更新内容较小，但揭示了与Mythos的差异。",
+        "en": "Claude Opus 4.8, released only six weeks after Opus 4.7, comes with a 244-page system card. While the updates are incremental, there is still a lot to talk about. Its capabilities are still well behind Mythos. This post looks at the system card, what's different between the two versions, and what this reveals about Mythos."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://prismml.com/news/bonsai-image-4b?utm_source=tldrai",
+      "title": {
+        "zh": "Bonsai Image 4B：适用于本地设备的图像生成模型",
+        "en": "Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices (9 minute read)"
+      },
+      "summary": {
+        "zh": "1-bit和三值变体分别针对内存受限和高质量图像生成需求，支持iPhone运行。",
+        "en": "Bonsai Image 4B is a family of compact image-generation models that can run high-quality diffusion inference on local hardware. The 1-bit variant is for applications where memory pressure, bandwidth, and deployment footprint are the primary restraints. The ternary variant has more representational flexibility, giving it improved visual quality and prompt fidelity while remaining extremely compact. The models can run directly on an iPhone."
+      },
+      "tags": [
+        "cat:model",
+        "image-gen",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "image-gen",
+        "open-weights"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://x.ai/news/grok-build-0-1?utm_source=tldrai",
+      "title": {
+        "zh": "Grok Build 0.1 API公测上线",
+        "en": "Grok Build 0.1 on API (1 minute read)"
+      },
+      "summary": {
+        "zh": "xAI推出的模型专注于代理编程任务，支持多平台集成，提供高效的处理速度。",
+        "en": "xAI's grok-build-0.1 is now in public beta via the API, designed for agentic coding tasks like web development and debugging. The model processes over 100 tokens/second, costing $1 per million tokens in and $2 per million out. It integrates well with platforms like Grok Build, Cursor, and OpenClaw."
+      },
+      "tags": [
+        "cat:app",
+        "xai",
+        "grok",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "xai",
+        "grok",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions?utm_source=tldrai",
+      "title": {
+        "zh": "企业AI代理的瓶颈在于权限管理而非模型性能",
+        "en": "The AI agent bottleneck isn't model performance — it's permissions (3 minute read)"
+      },
+      "summary": {
+        "zh": "Workday通过权限管理和与Gemini集成解决企业AI代理的合规性问题。",
+        "en": "Enterprise AI agents are struggling due to permissioning issues rather than model performance. Workday addresses this by using its system of record as the governance layer, integrating with Google's Gemini, and emphasizing agent accuracy. This setup ensures agents operate within defined user permissions, crucial for regulated sectors like HR and finance."
+      },
+      "tags": [
+        "cat:other",
+        "gemini",
+        "enterprise",
+        "policy",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "gemini",
+        "enterprise",
+        "policy",
+        "agent"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science?utm_source=tldrai",
+      "title": {
+        "zh": "前DeepMind研究员筹集5000万美元开发科学问题AI",
+        "en": "Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking (4 minute read)"
+      },
+      "summary": {
+        "zh": "伦敦AI实验室Inherent开发Faraday平台，专注于识别值得研究的科学问题。",
+        "en": "Inherent, a London-based AI lab, is building a platform called Faraday aimed at figuring out which questions are worth asking."
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "TL-17",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI发布可信第三方AI模型评估指南",
+        "en": "OpenAI Outlines Playbook for Trustworthy Third-Party AI Model Evaluations (4 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI于5月28日发布了一份全面指南，介绍如何对前沿AI模型（如GPT-5.5）进行可信的第三方评估。",
+        "en": "OpenAI published a comprehensive guide on May 28 for conducting trustworthy third-party evaluations of frontier AI models like GPT-5.5."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "gpt",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-01"
+    }
+  ],
+  "tag_index": {
+    "nvidia": [
+      "2026-06-01:TM-01",
+      "2026-06-01:TM-10",
+      "2026-06-01:TM-11",
+      "2026-06-01:TM-12",
+      "2026-06-01:TM-50",
+      "2026-06-01:TL-03"
+    ],
+    "chip": [
+      "2026-06-01:TM-01",
+      "2026-06-01:TM-10",
+      "2026-06-01:TM-50"
+    ],
+    "anthropic": [
+      "2026-06-01:TM-02",
+      "2026-06-01:TM-10",
+      "2026-06-01:TL-05"
+    ],
+    "ipo": [
+      "2026-06-01:TM-02",
+      "2026-06-01:TM-45"
+    ],
+    "openai": [
+      "2026-06-01:TM-04",
+      "2026-06-01:TM-10",
+      "2026-06-01:TL-17"
+    ],
+    "sam-altman": [
+      "2026-06-01:TM-04"
+    ],
+    "regulation": [
+      "2026-06-01:TM-04",
+      "2026-06-01:TM-09"
+    ],
+    "google": [
+      "2026-06-01:TM-05"
+    ],
+    "funding": [
+      "2026-06-01:TM-05",
+      "2026-06-01:TM-22",
+      "2026-06-01:TM-32",
+      "2026-06-01:TM-33",
+      "2026-06-01:TM-34",
+      "2026-06-01:TM-36",
+      "2026-06-01:TM-38",
+      "2026-06-01:TL-13"
+    ],
+    "policy": [
+      "2026-06-01:TM-09",
+      "2026-06-01:TM-50",
+      "2026-06-01:TM-52",
+      "2026-06-01:TL-10"
+    ],
+    "robotics": [
+      "2026-06-01:TM-11",
+      "2026-06-01:TM-38"
+    ],
+    "gpu": [
+      "2026-06-01:TM-12",
+      "2026-06-01:TM-13",
+      "2026-06-01:TL-03"
+    ],
+    "training": [
+      "2026-06-01:TM-12"
+    ],
+    "intel": [
+      "2026-06-01:TM-13"
+    ],
+    "data-center": [
+      "2026-06-01:TM-13",
+      "2026-06-01:TM-23"
+    ],
+    "coding": [
+      "2026-06-01:TM-16",
+      "2026-06-01:TL-02",
+      "2026-06-01:TL-09"
+    ],
+    "microsoft": [
+      "2026-06-01:TM-20",
+      "2026-06-01:TL-01"
+    ],
+    "copilot": [
+      "2026-06-01:TM-20",
+      "2026-06-01:TL-01"
+    ],
+    "reasoning": [
+      "2026-06-01:TM-20"
+    ],
+    "runway": [
+      "2026-06-01:TM-22"
+    ],
+    "startup": [
+      "2026-06-01:TM-22",
+      "2026-06-01:TM-32",
+      "2026-06-01:TM-33",
+      "2026-06-01:TM-34",
+      "2026-06-01:TM-36",
+      "2026-06-01:TM-38",
+      "2026-06-01:TL-13"
+    ],
+    "energy": [
+      "2026-06-01:TM-23"
+    ],
+    "image-gen": [
+      "2026-06-01:TM-36",
+      "2026-06-01:TL-06"
+    ],
+    "quantum": [
+      "2026-06-01:TM-45"
+    ],
+    "api": [
+      "2026-06-01:TM-46"
+    ],
+    "pricing": [
+      "2026-06-01:TM-46"
+    ],
+    "agent": [
+      "2026-06-01:TM-52",
+      "2026-06-01:TL-01",
+      "2026-06-01:TL-02",
+      "2026-06-01:TL-09",
+      "2026-06-01:TL-10"
+    ],
+    "autonomous-driving": [
+      "2026-06-01:TM-52",
+      "2026-06-01:TL-03"
+    ],
+    "open-weights": [
+      "2026-06-01:TL-02",
+      "2026-06-01:TL-06"
+    ],
+    "claude": [
+      "2026-06-01:TL-05"
+    ],
+    "xai": [
+      "2026-06-01:TL-09"
+    ],
+    "grok": [
+      "2026-06-01:TL-09"
+    ],
+    "gemini": [
+      "2026-06-01:TL-10"
+    ],
+    "enterprise": [
+      "2026-06-01:TL-10"
+    ],
+    "gpt": [
+      "2026-06-01:TL-17"
+    ],
+    "safety": [
+      "2026-06-01:TL-17"
+    ]
+  },
+  "category_index": {
+    "cat:tech": [
+      "2026-06-01:TM-01",
+      "2026-06-01:TM-10",
+      "2026-06-01:TM-11",
+      "2026-06-01:TM-12",
+      "2026-06-01:TM-13",
+      "2026-06-01:TM-20",
+      "2026-06-01:TL-03"
+    ],
+    "cat:business": [
+      "2026-06-01:TM-02",
+      "2026-06-01:TM-05",
+      "2026-06-01:TM-22",
+      "2026-06-01:TM-23",
+      "2026-06-01:TM-32",
+      "2026-06-01:TM-33",
+      "2026-06-01:TM-34",
+      "2026-06-01:TM-36",
+      "2026-06-01:TM-38",
+      "2026-06-01:TM-45",
+      "2026-06-01:TL-13"
+    ],
+    "cat:other": [
+      "2026-06-01:TM-04",
+      "2026-06-01:TM-09",
+      "2026-06-01:TM-50",
+      "2026-06-01:TM-52",
+      "2026-06-01:TL-10",
+      "2026-06-01:TL-17"
+    ],
+    "cat:model": [
+      "2026-06-01:TM-16",
+      "2026-06-01:TL-02",
+      "2026-06-01:TL-05",
+      "2026-06-01:TL-06"
+    ],
+    "cat:app": [
+      "2026-06-01:TM-46",
+      "2026-06-01:TL-01",
+      "2026-06-01:TL-09"
+    ]
+  },
+  "tag_stats": [
+    {
+      "tag": "funding",
+      "count": 8
+    },
+    {
+      "tag": "startup",
+      "count": 7
+    },
+    {
+      "tag": "nvidia",
+      "count": 6
+    },
+    {
+      "tag": "agent",
+      "count": 5
+    },
+    {
+      "tag": "policy",
+      "count": 4
+    },
+    {
+      "tag": "chip",
+      "count": 3
+    },
+    {
+      "tag": "anthropic",
+      "count": 3
+    },
+    {
+      "tag": "openai",
+      "count": 3
+    },
+    {
+      "tag": "gpu",
+      "count": 3
+    },
+    {
+      "tag": "coding",
+      "count": 3
+    },
+    {
+      "tag": "ipo",
+      "count": 2
+    },
+    {
+      "tag": "regulation",
+      "count": 2
+    },
+    {
+      "tag": "robotics",
+      "count": 2
+    },
+    {
+      "tag": "data-center",
+      "count": 2
+    },
+    {
+      "tag": "microsoft",
+      "count": 2
+    },
+    {
+      "tag": "copilot",
+      "count": 2
+    },
+    {
+      "tag": "image-gen",
+      "count": 2
+    },
+    {
+      "tag": "autonomous-driving",
+      "count": 2
+    },
+    {
+      "tag": "open-weights",
+      "count": 2
+    },
+    {
+      "tag": "sam-altman",
+      "count": 1
+    },
+    {
+      "tag": "google",
+      "count": 1
+    },
+    {
+      "tag": "training",
+      "count": 1
+    },
+    {
+      "tag": "intel",
+      "count": 1
+    },
+    {
+      "tag": "reasoning",
+      "count": 1
+    },
+    {
+      "tag": "runway",
+      "count": 1
+    },
+    {
+      "tag": "energy",
+      "count": 1
+    },
+    {
+      "tag": "quantum",
+      "count": 1
+    },
+    {
+      "tag": "api",
+      "count": 1
+    },
+    {
+      "tag": "pricing",
+      "count": 1
+    },
+    {
+      "tag": "claude",
+      "count": 1
+    },
+    {
+      "tag": "xai",
+      "count": 1
+    },
+    {
+      "tag": "grok",
+      "count": 1
+    },
+    {
+      "tag": "gemini",
+      "count": 1
+    },
+    {
+      "tag": "enterprise",
+      "count": 1
+    },
+    {
+      "tag": "gpt",
+      "count": 1
+    },
+    {
+      "tag": "safety",
+      "count": 1
+    }
+  ],
+  "category_stats": [
+    {
+      "tag": "cat:business",
+      "count": 11,
+      "label_zh": "新商业"
+    },
+    {
+      "tag": "cat:tech",
+      "count": 7,
+      "label_zh": "新技术"
+    },
+    {
+      "tag": "cat:other",
+      "count": 6,
+      "label_zh": "其它"
+    },
+    {
+      "tag": "cat:model",
+      "count": 4,
+      "label_zh": "新模型"
+    },
+    {
+      "tag": "cat:app",
+      "count": 3,
+      "label_zh": "新应用"
+    }
+  ]
+}
