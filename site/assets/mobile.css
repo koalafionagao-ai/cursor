@@ -122,8 +122,15 @@
 
   .mobile-date-bar {
     display: flex;
-    align-items: center;
-    gap: 8px;
+    align-items: stretch;
+  }
+
+  .mobile-date-trigger > span:first-child {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    min-width: 0;
   }
 
   .mobile-date-trigger {
@@ -160,21 +167,6 @@
     color: var(--text-muted);
   }
 
-  .mobile-catch-up-btn {
-    flex-shrink: 0;
-    min-height: 40px;
-    padding: 8px 12px;
-    border: 1px solid var(--text-main);
-    border-radius: 10px;
-    background: var(--card-bg);
-    font: inherit;
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: var(--text-main);
-    cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
-  }
-
   .main-content {
     flex: 1;
     min-height: 0;
@@ -205,26 +197,65 @@
     border-bottom: 1px solid var(--border-color);
   }
 
-  .main-toolbar-wrap .toolbar {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 8px;
+  .main-toolbar-wrap .toolbar--mobile {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
     margin-bottom: 0;
   }
 
-  .toolbar-filters,
-  .toolbar-actions {
+  .toolbar--mobile .toolbar-filters {
     display: flex;
     flex-wrap: nowrap;
     gap: 8px;
+    flex: 1;
+    min-width: 0;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
   }
 
-  .toolbar-filters::-webkit-scrollbar,
-  .toolbar-actions::-webkit-scrollbar {
+  .toolbar--mobile .toolbar-filters::-webkit-scrollbar {
     display: none;
+  }
+
+  .toolbar-operate-wrap {
+    position: relative;
+    flex-shrink: 0;
+  }
+
+  .toolbar-operate-wrap .chip-operate {
+    min-height: 38px;
+    padding: 7px 14px;
+    font-weight: 600;
+  }
+
+  .toolbar-operate-menu {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    z-index: 50;
+    min-width: 168px;
+    padding: 6px;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .toolbar-operate-menu[hidden] {
+    display: none !important;
+  }
+
+  .toolbar-operate-menu .chip {
+    width: 100%;
+    justify-content: center;
+    min-height: 38px;
   }
 
   .chip,
