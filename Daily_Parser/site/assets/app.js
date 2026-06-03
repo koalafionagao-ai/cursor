@@ -5,10 +5,11 @@
   const STORAGE_KEY = "ai-daily-state-v2";
 
   const BASE = (() => {
-    if (location.pathname.includes("/cursor/")) return "/cursor/";
     const meta = document.querySelector('meta[name="base-path"]')?.content;
     if (meta) return meta.endsWith("/") ? meta : meta + "/";
-    return "/ai-daily/";
+    const path = location.pathname || "";
+    if (path.includes("/ai_daily")) return "/cursor/ai_daily/";
+    return "/cursor/ai_daily/";
   })();
 
   let manifest = null;
