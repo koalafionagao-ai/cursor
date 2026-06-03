@@ -7,3 +7,6 @@ venv/
 .env
 Daily_Parser/data/cache/*.sqlite
 *.log
+Daily_Parser/status_log.txt
+Daily_Parser/merge_status_log.txt
+_pages/

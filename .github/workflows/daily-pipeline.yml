@@ -83,6 +83,6 @@ jobs:
         run: |
           git config user.name "ai-daily-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Daily_Parser/Techmeme Daily_Parser/TLDR Daily_Parser/Processed site/data
+          git add Daily_Parser/Techmeme Daily_Parser/TLDR Daily_Parser/Processed Daily_Parser/site/data
           git diff --cached --quiet || git commit -m "chore(daily): ${{ steps.date.outputs.target }}"
           git push

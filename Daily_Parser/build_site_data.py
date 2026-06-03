@@ -11,8 +11,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parent
-SITE_DATA = REPO_ROOT / "site" / "data"
+SITE_DATA = SCRIPT_DIR / "site" / "data"
+SITE_BASE_PATH = "/cursor/ai_daily/"
 DAILY_DIR = SITE_DATA / "daily"
 MONTHLY_DIR = SITE_DATA / "monthly"
 FILTER_DIR = SITE_DATA / "filter-report"
@@ -131,7 +131,7 @@ def build_manifest(daily_files: dict[str, Path], months_data: dict[str, dict]) -
     return {
         "site_name": "AI Daily",
         "blog_url": "../",
-        "base_path": "/ai-daily/",
+        "base_path": SITE_BASE_PATH,
         "latest_date": latest,
         "categories": [
             {"id": "cat:model", "zh": "新模型", "en": "Models", "emoji": "🧠"},
