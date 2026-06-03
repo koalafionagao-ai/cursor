@@ -422,8 +422,10 @@
       ${summary ? `<p class="summary">${escapeHtml(summary)}</p>` : ""}
       <div class="card-footer">
         <div class="card-footer-row">
-          <span class="meta-line">${escapeHtml(it.source)} · ${it.date}</span>
-          <span class="tag-row${tags ? "" : " tag-row-empty"}">${tags || `<span class="tag-none" title="${escapeHtml(t("无实体标签（仅有分类）；多来自 LLM 未命中词表或历史 LEGACY 数据", "No entity tags (category only); often LLM miss or legacy rows"))}">—</span>`}</span>
+          <div class="card-meta-tags">
+            <span class="meta-line">${escapeHtml(it.source)} · ${it.date}</span>
+            <span class="tag-row${tags ? "" : " tag-row-empty"}">${tags || `<span class="tag-none">—</span>`}</span>
+          </div>
           <button type="button" class="mark-read-btn" data-mark="${it.date}:${it.id}">${read ? t("标为未读", "Mark unread") : t("标为已读", "Mark read")}</button>
         </div>
       </div>
@@ -534,10 +536,9 @@
     return { unread, total };
   }
 
-  function renderLeftNav() {
-    const el = document.getElementById("left-nav");
-    let html = `<p class="panel-title">${t("时间", "Timeline")}</p><div class="nav-scroll">`;
-
+  function buildTimelineHtml(opts = {}) {
+    const fullDates = !!opts.fullDates;
+    let html = "";
     for (const [year, months] of monthsByYear()) {
       const yearOpen = expandedYears.has(year);
       html += `<div class="year-group">
@@ -569,9 +570,15 @@
           for (const d of days) {
             const st = dayStats[d.date] || { total: d.total || 0, unread: 0 };
             const active = route.view === "day" && route.date === d.date ? " active" : "";
+            const dayLabel = fullDates ? d.date : d.date.slice(8, 10) || d.date.slice(5);
             html += `<button type="button" class="nav-item${active}" data-day="${d.date}">
-              <span>${d.date.slice(8, 10) || d.date.slice(5)}</span>
+              <span>${dayLabel}</span>
               <span class="nav-count ${st.unread ? "" : "muted"}">${countLabel(st.unread, st.total)}</span>
+            </button>`;
+          }
+          if (fullDates) {
+            html += `<button type="button" class="nav-item${route.view === "hub" && route.month === m.id ? " active" : ""}" data-month-hub="${m.id}">
+              <span>${t("本月全部", "All in month")}</span>
             </button>`;
           }
         }
@@ -579,9 +586,12 @@
       }
       html += `</div></div>`;
     }
+    return html || `<p class="empty">${t("暂无日期", "No dates")}</p>`;
+  }
 
-    html += `</div>`;
-    el.innerHTML = html;
+  function renderLeftNav() {
+    const el = document.getElementById("left-nav");
+    el.innerHTML = `<p class="panel-title">${t("时间", "Timeline")}</p><div class="nav-scroll">${buildTimelineHtml()}</div>`;
   }
 
   function renderTagPanel() {
@@ -647,51 +657,221 @@
 
     html += `</div></section>`;
     el.innerHTML = html;
+    syncMobileFilterPanel();
+  }
+
+  const MOBILE_MQ = "(max-width: 768px)";
+
+  function isMobileViewport() {
+    return window.matchMedia(MOBILE_MQ).matches;
+  }
+
+  function mobileDateBarPrimary() {
+    if (route.view === "day" && route.date) return route.date;
+    if (route.view === "tag") return route.tag;
+    if (route.view === "cat") {
+      const cat = manifest?.categories?.find((c) => c.id === route.cat);
+      return cat ? (lang === "zh" ? cat.zh : cat.en) : route.cat;
+    }
+    return manifest?.latest_date || route.month || "";
+  }
+
+  function mobileDateBarSecondary() {
+    if (route.view === "day") return t("日报", "Daily");
+    if (route.view === "tag") return t("标签", "Tag");
+    if (route.view === "cat") return t("分类", "Category");
+    return `${route.month || ""} · ${t("本月", "Month")}`;
+  }
+
+  function closeMobileSheets() {
+    document.getElementById("mobile-overlay")?.classList.remove("is-open");
+    document.getElementById("mobile-date-sheet")?.classList.remove("is-open");
+    document.getElementById("mobile-filter-drawer")?.classList.remove("is-open");
+    document.body.classList.remove("mobile-sheet-open", "mobile-drawer-open");
+    document.getElementById("mobile-date-sheet")?.setAttribute("aria-hidden", "true");
+    document.getElementById("mobile-filter-drawer")?.setAttribute("aria-hidden", "true");
+    const ov = document.getElementById("mobile-overlay");
+    if (ov) ov.hidden = true;
+  }
+
+  function openMobileDateSheet() {
+    const sheet = document.getElementById("mobile-date-sheet");
+    const ov = document.getElementById("mobile-overlay");
+    if (!sheet || !ov) return;
+    const titleEl = document.getElementById("mobile-date-sheet-title");
+    if (titleEl) titleEl.textContent = t("选择日期", "Pick a date");
+    document.getElementById("mobile-date-sheet-body").innerHTML = buildTimelineHtml({ fullDates: true });
+    ov.hidden = false;
+    requestAnimationFrame(() => {
+      ov.classList.add("is-open");
+      sheet.classList.add("is-open");
+      sheet.setAttribute("aria-hidden", "false");
+      document.body.classList.add("mobile-sheet-open");
+    });
+  }
+
+  function openMobileFilterDrawer() {
+    const drawer = document.getElementById("mobile-filter-drawer");
+    const ov = document.getElementById("mobile-overlay");
+    if (!drawer || !ov) return;
+    syncMobileFilterPanel();
+    ov.hidden = false;
+    requestAnimationFrame(() => {
+      ov.classList.add("is-open");
+      drawer.classList.add("is-open");
+      drawer.setAttribute("aria-hidden", "false");
+      document.body.classList.add("mobile-drawer-open");
+    });
+  }
+
+  function syncMobileFilterPanel() {
+    const src = document.getElementById("tag-panel");
+    const dst = document.getElementById("mobile-filter-panel");
+    if (src && dst) dst.innerHTML = src.innerHTML;
+  }
+
+  function renderMobileDateBar() {
+    const bar = document.getElementById("mobile-date-bar");
+    const fab = document.getElementById("btn-mobile-filter");
+    if (!bar) return;
+    if (!isMobileViewport()) {
+      bar.innerHTML = "";
+      if (fab) fab.hidden = true;
+      return;
+    }
+    if (fab) fab.hidden = false;
+    bar.innerHTML = `<button type="button" class="mobile-date-trigger" id="btn-mobile-date-open">
+        <span>
+          <span class="mobile-date-label">${escapeHtml(mobileDateBarPrimary())}</span>
+          <span class="mobile-date-sub"> ${escapeHtml(mobileDateBarSecondary())}</span>
+        </span>
+        <span class="mobile-date-caret" aria-hidden="true">▼</span>
+      </button>
+      <button type="button" class="mobile-catch-up-btn" id="btn-mobile-catch-up">${t("追平", "Catch up")}</button>`;
+  }
+
+  function updateMobileLayout() {
+    const mobile = isMobileViewport();
+    document.body.classList.toggle("is-mobile", mobile);
+    if (!mobile) {
+      closeMobileSheets();
+      document.querySelector(".header-bar")?.classList.remove("header-hidden");
+    }
+    renderMobileDateBar();
+    syncMobileFilterPanel();
+  }
+
+  async function handleTimelineClick(e) {
+    const yt = e.target.closest("[data-year-toggle]");
+    if (yt) {
+      e.preventDefault();
+      toggleYear(yt.dataset.yearToggle);
+      renderLeftNav();
+      if (isMobileViewport()) {
+        document.getElementById("mobile-date-sheet-body").innerHTML = buildTimelineHtml({ fullDates: true });
+      }
+      return true;
+    }
+    const mt = e.target.closest("[data-month-toggle]");
+    if (mt) {
+      e.preventDefault();
+      const monthId = mt.dataset.monthToggle;
+      toggleMonth(monthId);
+      if (expandedMonths.has(monthId) && monthId !== route.month) await prefetchMonth(monthId);
+      renderLeftNav();
+      if (isMobileViewport()) {
+        document.getElementById("mobile-date-sheet-body").innerHTML = buildTimelineHtml({ fullDates: true });
+      }
+      return true;
+    }
+    const mn = e.target.closest("[data-month-nav]");
+    if (mn) {
+      navigate("#/" + mn.dataset.monthNav);
+      closeMobileSheets();
+      return true;
+    }
+    const hub = e.target.closest("[data-month-hub]");
+    if (hub) {
+      navigate("#/" + hub.dataset.monthHub);
+      closeMobileSheets();
+      return true;
+    }
+    const day = e.target.closest("[data-day]");
+    if (day) {
+      const monthId = day.dataset.day.slice(0, 7);
+      navigate(`#/${monthId}/day/${day.dataset.day}`);
+      closeMobileSheets();
+      return true;
+    }
+    return false;
+  }
+
+  function handleFilterPanelClick(e) {
+    const tag = e.target.closest("[data-tag-nav]");
+    if (tag) {
+      navigate(`#/${route.month}/tag/${encodeURIComponent(tag.dataset.tagNav)}`);
+      closeMobileSheets();
+      return true;
+    }
+    const cat = e.target.closest("[data-cat]");
+    if (cat) {
+      navigate(`#/${route.month}/cat/${encodeURIComponent(cat.dataset.cat)}`);
+      closeMobileSheets();
+      return true;
+    }
+    return false;
   }
 
   function bindEvents() {
     document.getElementById("btn-en")?.addEventListener("click", () => switchLang("en"));
     document.getElementById("btn-zh")?.addEventListener("click", () => switchLang("zh"));
 
-    document.getElementById("left-nav")?.addEventListener("click", async (e) => {
-      const yt = e.target.closest("[data-year-toggle]");
-      if (yt) {
-        e.preventDefault();
-        toggleYear(yt.dataset.yearToggle);
-        renderLeftNav();
-        return;
-      }
-      const mt = e.target.closest("[data-month-toggle]");
-      if (mt) {
-        e.preventDefault();
-        const monthId = mt.dataset.monthToggle;
-        toggleMonth(monthId);
-        if (expandedMonths.has(monthId) && monthId !== route.month) await prefetchMonth(monthId);
-        renderLeftNav();
-        return;
-      }
-      const mn = e.target.closest("[data-month-nav]");
-      if (mn) {
-        navigate("#/" + mn.dataset.monthNav);
-        return;
-      }
-      const day = e.target.closest("[data-day]");
-      if (day) {
-        const monthId = day.dataset.day.slice(0, 7);
-        navigate(`#/${monthId}/day/${day.dataset.day}`);
-        return;
-      }
+    document.getElementById("left-nav")?.addEventListener("click", (e) => {
+      handleTimelineClick(e);
+    });
+
+    document.getElementById("mobile-date-sheet-body")?.addEventListener("click", (e) => {
+      handleTimelineClick(e);
     });
 
     document.getElementById("tag-panel")?.addEventListener("click", (e) => {
-      const tag = e.target.closest("[data-tag-nav]");
-      if (tag) {
-        navigate(`#/${route.month}/tag/${encodeURIComponent(tag.dataset.tagNav)}`);
-        return;
-      }
-      const cat = e.target.closest("[data-cat]");
-      if (cat) navigate(`#/${route.month}/cat/${encodeURIComponent(cat.dataset.cat)}`);
+      handleFilterPanelClick(e);
     });
+
+    document.getElementById("mobile-filter-panel")?.addEventListener("click", (e) => {
+      handleFilterPanelClick(e);
+    });
+
+    if (!document.body.dataset.mobileUiBound) {
+      document.body.dataset.mobileUiBound = "1";
+      document.body.addEventListener("click", (e) => {
+        if (e.target.id === "btn-mobile-date-open") {
+          e.preventDefault();
+          openMobileDateSheet();
+          return;
+        }
+        if (e.target.id === "btn-mobile-catch-up") {
+          e.preventDefault();
+          setLastVisit();
+          render();
+          return;
+        }
+        if (e.target.id === "btn-date-sheet-close" || e.target.id === "btn-filter-drawer-close") {
+          e.preventDefault();
+          closeMobileSheets();
+          return;
+        }
+        if (e.target.id === "btn-mobile-filter") {
+          e.preventDefault();
+          openMobileFilterDrawer();
+          return;
+        }
+        if (e.target.id === "mobile-overlay") {
+          closeMobileSheets();
+        }
+      });
+      window.addEventListener("resize", () => updateMobileLayout());
+    }
 
     document.getElementById("main-panel")?.addEventListener("click", (e) => {
       if (e.target.id === "btn-filter-unread") {
@@ -781,56 +961,35 @@
     renderLeftNav();
     renderTagPanel();
     renderMain();
+    updateMobileLayout();
     bindMobileChrome();
   }
-
-  let mobileWinScrollBound = false;
 
   function bindMobileChrome() {
     const feed = document.querySelector(".main-feed-scroll");
     const header = document.querySelector(".header-bar");
-    if (!feed || !header) return;
-
-    if (!feed.dataset.scrollBound) {
-      feed.dataset.scrollBound = "1";
-      let lastY = feed.scrollTop;
-      let ticking = false;
-      feed.addEventListener(
-        "scroll",
-        () => {
-          if (!ticking) {
-            ticking = true;
-            requestAnimationFrame(() => {
-              const y = feed.scrollTop;
-              if (y > lastY + 8 && y > 72) header.classList.add("header-hidden");
-              else if (y < lastY - 8 || y <= 8) header.classList.remove("header-hidden");
-              lastY = y;
-              ticking = false;
-            });
-          }
-        },
-        { passive: true }
-      );
+    if (!feed || !header || !isMobileViewport()) {
+      header?.classList.remove("header-hidden");
+      return;
     }
 
-    if (!mobileWinScrollBound) {
-      mobileWinScrollBound = true;
-      let winLast = 0;
-      window.addEventListener(
-        "scroll",
-        () => {
-          if (window.innerWidth > 768) {
-            header.classList.remove("header-hidden");
-            return;
-          }
-          const y = window.scrollY;
-          if (y > winLast + 8 && y > 48) header.classList.add("header-hidden");
-          else if (y < winLast - 8) header.classList.remove("header-hidden");
-          winLast = y;
-        },
-        { passive: true }
-      );
-    }
+    if (feed.dataset.mobileScrollBound) return;
+    feed.dataset.mobileScrollBound = "1";
+    let lastY = feed.scrollTop;
+    feed.addEventListener(
+      "scroll",
+      () => {
+        if (!isMobileViewport()) {
+          header.classList.remove("header-hidden");
+          return;
+        }
+        const y = feed.scrollTop;
+        if (y > lastY + 8 && y > 48) header.classList.add("header-hidden");
+        else if (y < lastY - 8 || y <= 8) header.classList.remove("header-hidden");
+        lastY = y;
+      },
+      { passive: true }
+    );
   }
 
   async function init() {
