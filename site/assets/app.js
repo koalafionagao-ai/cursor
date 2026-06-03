@@ -69,25 +69,9 @@
     saveState(s);
   }
 
-  function markDayRead(date) {
-    monthData?.items?.filter((it) => it.date === date).forEach((it) => markRead(it.date, it.id));
-    render();
-  }
-
   function markAllVisibleRead() {
     getVisibleItems(false).forEach((it) => markRead(it.date, it.id));
     render();
-  }
-
-  function getLastVisit() {
-    return loadState().lastVisit || "";
-  }
-
-  function setLastVisit() {
-    const s = loadState();
-    s.lastVisit = manifest?.latest_date || new Date().toISOString().slice(0, 10);
-    s.lastVisitAt = Date.now();
-    saveState(s);
   }
 
   function resetReadState() {
@@ -97,43 +81,48 @@
     }
   }
 
-  function resetMonthReadState() {
+  function getCurrentScopeItems() {
+    if (!monthData) return [];
+    let list = [...monthData.items];
+    if (route.view === "day") list = list.filter((it) => it.date === route.date);
+    else if (route.view === "tag") {
+      const keys = new Set(monthData.tag_index?.[route.tag] || []);
+      list = list.filter((it) => keys.has(itemKey(it.date, it.id)));
+    } else if (route.view === "cat") {
+      const keys = new Set(monthData.category_index?.[route.cat] || []);
+      list = list.filter((it) => keys.has(itemKey(it.date, it.id)));
+    }
+    return list;
+  }
+
+  function resetCurrentToUnread() {
     if (
       !confirm(
         t(
-          "确定重置本月阅读记录？将清除本月已读标记，并按追平规则重新计算未读。",
-          "Reset this month's read state? Clears read marks for this month and recalculates unread."
+          "确定将当前范围全部重置为未读？",
+          "Reset everything in the current view to unread?"
         )
       )
     ) {
       return;
     }
     const s = loadState();
-    if (s.read) {
-      for (const key of Object.keys(s.read)) {
-        const date = key.split(":")[0];
-        if (date.startsWith(route.month + "-")) delete s.read[key];
-      }
-    }
-    const lv = s.lastVisit || "";
-    if (!lv || lv >= route.month + "-01") {
-      const [y, m] = route.month.split("-").map(Number);
-      const prev = new Date(y, m - 1, 0);
-      s.lastVisit = prev.toISOString().slice(0, 10);
+    s.read = s.read || {};
+    for (const it of getCurrentScopeItems()) {
+      delete s.read[itemKey(it.date, it.id)];
     }
     saveState(s);
     render();
   }
 
-  /**
-   * 未读 = 未单独标已读，且简报日期晚于「追平基准日」。
-   * 历史无红点：通常因已「追平至最新日」或曾标已读，不等于服务器侧已读。
-   */
+  function closeOperateMenu() {
+    const menu = document.getElementById("toolbar-operate-menu");
+    if (menu) menu.hidden = true;
+  }
+
+  /** 未读 = 未在本机标为已读 */
   function isUnreadItem(it) {
-    if (isExplicitlyRead(it.date, it.id)) return false;
-    const lv = getLastVisit();
-    if (!lv) return true;
-    return it.date > lv;
+    return !isExplicitlyRead(it.date, it.id);
   }
 
   function computeMonthStats() {
@@ -339,27 +328,31 @@
     </div>`;
   }
 
-  function renderActionChips(opts = {}) {
-    const { catchUp = false, markDay = false, resetMonth = false } = opts;
-    let html = `<div class="toolbar-actions">`;
-    if (markDay) {
-      html += `<button type="button" class="chip chip-act" id="btn-mark-day">${t("全部已读", "Mark all read")}</button>`;
-    } else {
-      html += `<button type="button" class="chip chip-act" id="btn-mark-all">${t("全部已读", "Mark all read")}</button>`;
-    }
-    if (catchUp) {
-      html += `<button type="button" class="chip chip-act" id="btn-catch-up">${t("追平到最新", "Catch up to latest")}</button>`;
-    }
-    if (resetMonth) {
-      html += `<button type="button" class="chip chip-act chip-ghost" id="btn-reset-month">${t("重置阅读", "Reset read")}</button>`;
-    }
-    html += `</div>`;
-    return html;
+  function renderActionChips() {
+    return `<div class="toolbar-actions">
+      <button type="button" class="chip chip-act" id="btn-mark-all">${t("当前全部已读", "Mark all read")}</button>
+      <button type="button" class="chip chip-act chip-ghost" id="btn-reset-unread">${t("当前重置为未读", "Reset to unread")}</button>
+    </div>`;
+  }
+
+  function renderMobileOperateMenu() {
+    return `<div class="toolbar-operate-wrap">
+      <button type="button" class="chip chip-act chip-operate" id="btn-operate-toggle" aria-expanded="false">${t("操作", "Actions")}</button>
+      <div class="toolbar-operate-menu" id="toolbar-operate-menu" hidden>
+        <button type="button" class="chip chip-act" id="btn-mark-all">${t("当前全部已读", "Mark all read")}</button>
+        <button type="button" class="chip chip-act chip-ghost" id="btn-reset-unread">${t("当前重置为未读", "Reset to unread")}</button>
+      </div>
+    </div>`;
   }
 
   function renderToolbar(opts = {}) {
-    const { catchUp = false, markDay = false, resetMonth = false } = opts;
-    return `<div class="toolbar">${renderFilterChips()}${renderActionChips({ catchUp, markDay, resetMonth })}</div>`;
+    const { showActions = true } = opts;
+    const filters = renderFilterChips();
+    if (!showActions) return `<div class="toolbar">${filters}</div>`;
+    if (isMobileViewport()) {
+      return `<div class="toolbar toolbar--mobile">${filters}${renderMobileOperateMenu()}</div>`;
+    }
+    return `<div class="toolbar">${filters}${renderActionChips()}</div>`;
   }
 
   function wrapMainScrollable(headHtml, toolbarHtml, bodyHtml) {
@@ -434,7 +427,6 @@
 
   function renderDashboard() {
     const s = monthStats;
-    const lv = getLastVisit();
   const ml = monthLabelFor(route.month);
   return `<div class="dashboard-card dashboard-hero">
       <div class="dash-row dash-row-top">
@@ -442,7 +434,6 @@
           <span class="dash-kicker">${t("最新简报", "Latest brief")}</span>
           <time class="dash-latest-date">${manifest?.latest_date || "-"}</time>
         </div>
-        <p class="dash-baseline">${t("追平基准日", "Baseline")}: <strong>${lv || t("无", "none")}</strong></p>
       </div>
       <div class="dash-row dash-row-main">
         <div class="dash-period">
@@ -467,7 +458,7 @@
   function renderMain() {
     const el = document.getElementById("main-panel");
     const items = getVisibleItems();
-    const toolbar = renderToolbar({ catchUp: true, resetMonth: true });
+    const toolbar = renderToolbar({ showActions: true });
 
     if (route.view === "hub") {
       let body = "";
@@ -506,7 +497,7 @@
       ? items.map(renderCard).join("")
       : `<div class="empty">${filterUnread ? t("此处无未读", "No unread here") : t("无内容", "Empty")}</div>`;
     const backLink = `<p class="view-back"><a href="#" id="link-back-hub">${t("← 返回本月面板", "← Back to month")}</a></p>`;
-    const subToolbar = renderToolbar({ markDay: route.view === "day", catchUp: false });
+    const subToolbar = renderToolbar({ showActions: true });
     const head = `${backLink}<h2 class="view-title">${escapeHtml(title)}</h2>`;
     el.innerHTML = wrapMainScrollable(head, subToolbar, `<div class="blog-list">${list}</div>`);
   }
@@ -746,8 +737,7 @@
           <span class="mobile-date-sub"> ${escapeHtml(mobileDateBarSecondary())}</span>
         </span>
         <span class="mobile-date-caret" aria-hidden="true">▼</span>
-      </button>
-      <button type="button" class="mobile-catch-up-btn" id="btn-mobile-catch-up">${t("追平", "Catch up")}</button>`;
+      </button>`;
   }
 
   function updateMobileLayout() {
@@ -850,12 +840,6 @@
           openMobileDateSheet();
           return;
         }
-        if (e.target.id === "btn-mobile-catch-up") {
-          e.preventDefault();
-          setLastVisit();
-          render();
-          return;
-        }
         if (e.target.id === "btn-date-sheet-close" || e.target.id === "btn-filter-drawer-close") {
           e.preventDefault();
           closeMobileSheets();
@@ -868,6 +852,9 @@
         }
         if (e.target.id === "mobile-overlay") {
           closeMobileSheets();
+        }
+        if (!e.target.closest(".toolbar-operate-wrap")) {
+          closeOperateMenu();
         }
       });
       window.addEventListener("resize", () => updateMobileLayout());
@@ -884,22 +871,24 @@
         render();
         return;
       }
+      if (e.target.id === "btn-operate-toggle") {
+        e.preventDefault();
+        const menu = document.getElementById("toolbar-operate-menu");
+        const btn = document.getElementById("btn-operate-toggle");
+        if (menu) {
+          menu.hidden = !menu.hidden;
+          if (btn) btn.setAttribute("aria-expanded", menu.hidden ? "false" : "true");
+        }
+        return;
+      }
       if (e.target.id === "btn-mark-all") {
+        closeOperateMenu();
         markAllVisibleRead();
         return;
       }
-      if (e.target.id === "btn-catch-up") {
-        setLastVisit();
-        render();
-        return;
-      }
-      if (e.target.id === "btn-reset-month") {
-        resetMonthReadState();
-        return;
-      }
-
-      if (e.target.id === "btn-mark-day") {
-        markDayRead(route.date);
+      if (e.target.id === "btn-reset-unread") {
+        closeOperateMenu();
+        resetCurrentToUnread();
         return;
       }
       if (e.target.id === "btn-back-hub" || e.target.id === "link-back-hub") {
