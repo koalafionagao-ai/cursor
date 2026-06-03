@@ -24,10 +24,6 @@
     </div>
   </header>
 
-  <div class="mobile-top-chrome mobile-only" id="mobile-top-chrome">
-    <div class="mobile-date-bar" id="mobile-date-bar"></div>
-  </div>
-
   <div class="layout-container">
     <aside class="sidebar-left" id="left-nav"></aside>
     <main class="main-content" id="main-panel">
@@ -36,7 +32,20 @@
     <aside class="sidebar-right" id="tag-panel"></aside>
   </div>
 
-  <button type="button" class="mobile-filter-fab mobile-only" id="btn-mobile-filter" aria-label="筛选" hidden>筛选</button>
+  <nav class="mobile-bottom-nav mobile-only" id="mobile-bottom-nav" aria-label="主导航" hidden>
+    <button type="button" class="mobile-nav-btn" data-nav-panel="date" id="btn-mobile-nav-date">
+      <span class="mobile-nav-label">时间</span>
+      <span class="mobile-nav-sub" id="mobile-nav-date-sub">—</span>
+    </button>
+    <button type="button" class="mobile-nav-btn" data-nav-panel="hub" id="btn-mobile-nav-hub">
+      <span class="mobile-nav-label">看板</span>
+      <span class="mobile-nav-sub" id="mobile-nav-hub-sub">—</span>
+    </button>
+    <button type="button" class="mobile-nav-btn" data-nav-panel="filter" id="btn-mobile-nav-filter">
+      <span class="mobile-nav-label">筛选</span>
+      <span class="mobile-nav-sub" id="mobile-nav-filter-sub">分类·标签</span>
+    </button>
+  </nav>
 
   <div class="mobile-overlay mobile-only" id="mobile-overlay" hidden></div>
 
@@ -46,6 +55,14 @@
       <button type="button" class="mobile-sheet-close" id="btn-date-sheet-close" aria-label="关闭">×</button>
     </div>
     <div class="mobile-date-sheet-body nav-scroll" id="mobile-date-sheet-body"></div>
+  </div>
+
+  <div class="mobile-hub-sheet mobile-only" id="mobile-hub-sheet" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="mobile-sheet-head">
+      <h2 id="mobile-hub-sheet-title">本月看板</h2>
+      <button type="button" class="mobile-sheet-close" id="btn-hub-sheet-close" aria-label="关闭">×</button>
+    </div>
+    <div class="mobile-hub-sheet-body" id="mobile-hub-panel"></div>
   </div>
 
   <aside class="mobile-filter-drawer mobile-only" id="mobile-filter-drawer" role="dialog" aria-modal="true" aria-hidden="true">

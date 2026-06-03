@@ -356,6 +356,13 @@
   }
 
   function wrapMainScrollable(headHtml, toolbarHtml, bodyHtml) {
+    if (isMobileViewport()) {
+      if (headHtml) syncMobileHubPanel(headHtml);
+      return `<div class="main-column">
+      <div class="main-toolbar-wrap">${toolbarHtml}</div>
+      <div class="main-feed-scroll">${bodyHtml}</div>
+    </div>`;
+    }
     return `<div class="main-column">
       <div class="main-toolbar-wrap">${toolbarHtml}</div>
       <div class="main-feed-scroll">
@@ -499,7 +506,9 @@
     const backLink = `<p class="view-back"><a href="#" id="link-back-hub">${t("← 返回本月面板", "← Back to month")}</a></p>`;
     const subToolbar = renderToolbar({ showActions: true });
     const head = `${backLink}<h2 class="view-title">${escapeHtml(title)}</h2>`;
-    el.innerHTML = wrapMainScrollable(head, subToolbar, `<div class="blog-list">${list}</div>`);
+    const dash = monthStats ? renderDashboard() : "";
+    if (isMobileViewport() && dash) syncMobileHubPanel(dash);
+    el.innerHTML = wrapMainScrollable(isMobileViewport() ? "" : dash, subToolbar, `<div class="blog-list">${list}</div>`);
   }
 
   function monthsByYear() {
@@ -674,44 +683,63 @@
     return `${route.month || ""} · ${t("本月", "Month")}`;
   }
 
+  let activeMobileNavPanel = null;
+
   function closeMobileSheets() {
+    activeMobileNavPanel = null;
     document.getElementById("mobile-overlay")?.classList.remove("is-open");
     document.getElementById("mobile-date-sheet")?.classList.remove("is-open");
+    document.getElementById("mobile-hub-sheet")?.classList.remove("is-open");
     document.getElementById("mobile-filter-drawer")?.classList.remove("is-open");
     document.body.classList.remove("mobile-sheet-open", "mobile-drawer-open");
     document.getElementById("mobile-date-sheet")?.setAttribute("aria-hidden", "true");
+    document.getElementById("mobile-hub-sheet")?.setAttribute("aria-hidden", "true");
     document.getElementById("mobile-filter-drawer")?.setAttribute("aria-hidden", "true");
+    document.querySelectorAll(".mobile-nav-btn").forEach((b) => {
+      b.classList.remove("is-active");
+      b.setAttribute("aria-expanded", "false");
+    });
     const ov = document.getElementById("mobile-overlay");
     if (ov) ov.hidden = true;
   }
 
-  function openMobileDateSheet() {
-    const sheet = document.getElementById("mobile-date-sheet");
+  function openMobileNavPanel(panel) {
+    if (activeMobileNavPanel === panel) {
+      closeMobileSheets();
+      return;
+    }
+    const sheetMap = {
+      date: document.getElementById("mobile-date-sheet"),
+      hub: document.getElementById("mobile-hub-sheet"),
+      filter: document.getElementById("mobile-filter-drawer"),
+    };
     const ov = document.getElementById("mobile-overlay");
-    if (!sheet || !ov) return;
-    const titleEl = document.getElementById("mobile-date-sheet-title");
-    if (titleEl) titleEl.textContent = t("选择日期", "Pick a date");
-    document.getElementById("mobile-date-sheet-body").innerHTML = buildTimelineHtml({ fullDates: true });
-    ov.hidden = false;
-    requestAnimationFrame(() => {
-      ov.classList.add("is-open");
-      sheet.classList.add("is-open");
-      sheet.setAttribute("aria-hidden", "false");
-      document.body.classList.add("mobile-sheet-open");
-    });
-  }
+    const target = sheetMap[panel];
+    if (!target || !ov) return;
 
-  function openMobileFilterDrawer() {
-    const drawer = document.getElementById("mobile-filter-drawer");
-    const ov = document.getElementById("mobile-overlay");
-    if (!drawer || !ov) return;
-    syncMobileFilterPanel();
+    closeMobileSheets();
+    activeMobileNavPanel = panel;
+
+    if (panel === "date") {
+      const titleEl = document.getElementById("mobile-date-sheet-title");
+      if (titleEl) titleEl.textContent = t("选择日期", "Pick a date");
+      document.getElementById("mobile-date-sheet-body").innerHTML = buildTimelineHtml({ fullDates: true });
+    } else if (panel === "hub") {
+      if (monthStats) syncMobileHubPanel(renderDashboard());
+    } else if (panel === "filter") {
+      syncMobileFilterPanel();
+    }
+
+    const btn = document.querySelector(`.mobile-nav-btn[data-nav-panel="${panel}"]`);
+    btn?.classList.add("is-active");
+    btn?.setAttribute("aria-expanded", "true");
+
     ov.hidden = false;
     requestAnimationFrame(() => {
       ov.classList.add("is-open");
-      drawer.classList.add("is-open");
-      drawer.setAttribute("aria-hidden", "false");
-      document.body.classList.add("mobile-drawer-open");
+      target.classList.add("is-open");
+      target.setAttribute("aria-hidden", "false");
+      document.body.classList.add(panel === "filter" ? "mobile-drawer-open" : "mobile-sheet-open");
     });
   }
 
@@ -721,23 +749,27 @@
     if (src && dst) dst.innerHTML = src.innerHTML;
   }
 
-  function renderMobileDateBar() {
-    const bar = document.getElementById("mobile-date-bar");
-    const fab = document.getElementById("btn-mobile-filter");
-    if (!bar) return;
+  function syncMobileHubPanel(html) {
+    const dst = document.getElementById("mobile-hub-panel");
+    if (dst && html) dst.innerHTML = html;
+  }
+
+  function updateMobileBottomNav() {
+    const nav = document.getElementById("mobile-bottom-nav");
+    if (!nav) return;
     if (!isMobileViewport()) {
-      bar.innerHTML = "";
-      if (fab) fab.hidden = true;
+      nav.hidden = true;
       return;
     }
-    if (fab) fab.hidden = false;
-    bar.innerHTML = `<button type="button" class="mobile-date-trigger" id="btn-mobile-date-open">
-        <span>
-          <span class="mobile-date-label">${escapeHtml(mobileDateBarPrimary())}</span>
-          <span class="mobile-date-sub"> ${escapeHtml(mobileDateBarSecondary())}</span>
-        </span>
-        <span class="mobile-date-caret" aria-hidden="true">▼</span>
-      </button>`;
+    nav.hidden = false;
+    const dateSub = document.getElementById("mobile-nav-date-sub");
+    const hubSub = document.getElementById("mobile-nav-hub-sub");
+    if (dateSub) dateSub.textContent = mobileDateBarPrimary();
+    if (hubSub && monthStats) {
+      hubSub.textContent = `${monthStats.unread} ${t("未读", "unread")}`;
+    }
+    const hubTitle = document.getElementById("mobile-hub-sheet-title");
+    if (hubTitle) hubTitle.textContent = t("本月看板", "Month dashboard");
   }
 
   function updateMobileLayout() {
@@ -747,8 +779,9 @@
       closeMobileSheets();
       document.querySelector(".header-bar")?.classList.remove("header-hidden");
     }
-    renderMobileDateBar();
+    updateMobileBottomNav();
     syncMobileFilterPanel();
+    if (monthStats) syncMobileHubPanel(renderDashboard());
   }
 
   async function handleTimelineClick(e) {
@@ -832,22 +865,23 @@
       handleFilterPanelClick(e);
     });
 
+    document.getElementById("mobile-bottom-nav")?.addEventListener("click", (e) => {
+      const btn = e.target.closest(".mobile-nav-btn");
+      if (!btn?.dataset.navPanel) return;
+      e.preventDefault();
+      openMobileNavPanel(btn.dataset.navPanel);
+    });
+
     if (!document.body.dataset.mobileUiBound) {
       document.body.dataset.mobileUiBound = "1";
       document.body.addEventListener("click", (e) => {
-        if (e.target.id === "btn-mobile-date-open") {
-          e.preventDefault();
-          openMobileDateSheet();
-          return;
-        }
-        if (e.target.id === "btn-date-sheet-close" || e.target.id === "btn-filter-drawer-close") {
+        if (
+          e.target.id === "btn-date-sheet-close" ||
+          e.target.id === "btn-hub-sheet-close" ||
+          e.target.id === "btn-filter-drawer-close"
+        ) {
           e.preventDefault();
           closeMobileSheets();
-          return;
-        }
-        if (e.target.id === "btn-mobile-filter") {
-          e.preventDefault();
-          openMobileFilterDrawer();
           return;
         }
         if (e.target.id === "mobile-overlay") {
