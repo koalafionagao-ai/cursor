@@ -2,23 +2,31 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#FDFCF8">
   <meta name="base-path" content="/ai-daily/">
   <title>AI Daily | Fiona Gao</title>
   <link rel="stylesheet" href="assets/app.css">
   <link rel="stylesheet" href="assets/layout-patch.css">
+  <link rel="stylesheet" href="assets/mobile.css">
 </head>
 <body>
 
   <header class="header header-bar">
-    <a href="https://koalafionagao-ai.github.io/my_blogs/" id="blog-link" rel="noopener noreferrer" class="header-back">← Blog</a>
+    <a href="https://koalafionagao-ai.github.io/my_blogs/" id="blog-link" rel="noopener noreferrer" class="header-back" aria-label="Blog">
+      <span class="header-back-short" aria-hidden="true">←</span>
+      <span class="header-back-long">← Blog</span>
+    </a>
     <h1 id="page-title" class="header-title">AI 简报</h1>
     <div class="lang-toggle header-lang">
-      <button type="button" class="lang-btn" id="btn-en">English</button>
-      <button type="button" class="lang-btn active" id="btn-zh">中文</button>
+      <button type="button" class="lang-btn" id="btn-en"><span class="lang-long">English</span><span class="lang-short">En</span></button>
+      <button type="button" class="lang-btn active" id="btn-zh"><span class="lang-long">中文</span><span class="lang-short">中</span></button>
     </div>
   </header>
+
+  <div class="mobile-top-chrome mobile-only" id="mobile-top-chrome">
+    <div class="mobile-date-bar" id="mobile-date-bar"></div>
+  </div>
 
   <div class="layout-container">
     <aside class="sidebar-left" id="left-nav"></aside>
@@ -27,6 +35,26 @@
     </main>
     <aside class="sidebar-right" id="tag-panel"></aside>
   </div>
+
+  <button type="button" class="mobile-filter-fab mobile-only" id="btn-mobile-filter" aria-label="筛选" hidden>筛选</button>
+
+  <div class="mobile-overlay mobile-only" id="mobile-overlay" hidden></div>
+
+  <div class="mobile-date-sheet mobile-only" id="mobile-date-sheet" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="mobile-sheet-head">
+      <h2 id="mobile-date-sheet-title">选择日期</h2>
+      <button type="button" class="mobile-sheet-close" id="btn-date-sheet-close" aria-label="关闭">×</button>
+    </div>
+    <div class="mobile-date-sheet-body nav-scroll" id="mobile-date-sheet-body"></div>
+  </div>
+
+  <aside class="mobile-filter-drawer mobile-only" id="mobile-filter-drawer" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="mobile-drawer-head">
+      <h2>筛选</h2>
+      <button type="button" class="mobile-drawer-close" id="btn-filter-drawer-close" aria-label="关闭">×</button>
+    </div>
+    <div class="mobile-drawer-body" id="mobile-filter-panel"></div>
+  </aside>
 
   <footer class="footer">
     <div id="footer-text">© 2026 Fiona Gao · AI Daily · <a href="https://github.com/koalafionagao-ai" target="_blank" rel="noopener noreferrer">GitHub</a></div>
