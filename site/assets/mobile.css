@@ -4,6 +4,8 @@
 @media (min-width: 769px) {
   .mobile-only,
   .mobile-top-nav,
+  .mobile-header-toolbar,
+  .mobile-feed-footer,
   .mobile-overlay,
   .mobile-date-sheet,
   .mobile-hub-sheet,
@@ -14,11 +16,15 @@
 
 @media (max-width: 768px) {
   :root {
-    --m-header-row-h: 44px;
-    --m-top-nav-h: 42px;
+    --m-header-row-h: 42px;
+    --m-top-nav-h: 50px;
+    --m-toolbar-h: 40px;
     --m-header-h: calc(
-      var(--m-header-row-h) + var(--m-top-nav-h) + max(8px, env(safe-area-inset-top, 0px))
+      var(--m-header-row-h) + var(--m-top-nav-h) + var(--m-toolbar-h) +
+        max(6px, env(safe-area-inset-top, 0px))
     );
+    /* Safari 底栏 + 手势区，避免最后一条被挡住 */
+    --m-scroll-bottom: max(96px, calc(env(safe-area-inset-bottom, 0px) + 80px));
   }
 
   html,
@@ -31,8 +37,12 @@
   body.is-mobile {
     padding: 0;
     padding-top: var(--m-header-h);
-    padding-bottom: env(safe-area-inset-bottom, 0px);
     box-sizing: border-box;
+    transition: padding-top 0.22s ease;
+  }
+
+  body.is-mobile.mobile-chrome-hidden {
+    padding-top: 0;
   }
 
   .header-bar {
@@ -44,12 +54,12 @@
     display: flex;
     flex-direction: column;
     margin: 0;
-    padding: 0;
+    padding: 0 10px 8px;
     max-width: none;
-    background: color-mix(in srgb, var(--bg-color) 96%, transparent);
+    background: color-mix(in srgb, var(--bg-color) 98%, transparent);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 1px 0 color-mix(in srgb, var(--border-color) 55%, transparent);
     transition: transform 0.22s ease, opacity 0.22s ease;
   }
 
@@ -65,8 +75,7 @@
     justify-content: space-between;
     gap: 10px;
     min-height: var(--m-header-row-h);
-    padding: 6px 12px 4px;
-    padding-top: max(6px, env(safe-area-inset-top, 0px));
+    padding-top: max(4px, env(safe-area-inset-top, 0px));
   }
 
   .header-back .header-back-short {
@@ -101,13 +110,14 @@
     display: inline;
   }
 
-  /* 时间 / 看板 / 筛选 — 随顶栏上滑出现 */
+  /* 时间 / 看板 / 筛选 — 胶囊按钮 */
   .mobile-top-nav {
     display: flex;
-    align-items: stretch;
+    align-items: center;
+    gap: 6px;
     width: 100%;
     min-height: var(--m-top-nav-h);
-    border-top: 1px solid color-mix(in srgb, var(--border-color) 70%, transparent);
+    padding: 4px 0 2px;
   }
 
   .mobile-nav-btn {
@@ -116,40 +126,123 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 1px;
-    min-height: var(--m-top-nav-h);
-    padding: 4px 6px;
-    border: none;
-    border-radius: 0;
-    background: transparent;
+    gap: 2px;
+    min-height: 44px;
+    padding: 6px 4px;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    background: var(--card-bg);
     font: inherit;
     color: var(--text-muted);
     cursor: pointer;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
     -webkit-tap-highlight-color: transparent;
     touch-action: manipulation;
   }
 
-  .mobile-nav-btn.is-active {
+  .mobile-nav-btn.is-route-current {
+    border-color: color-mix(in srgb, var(--accent, #c45c3e) 45%, var(--border-color));
     color: var(--text-main);
-    background: color-mix(in srgb, var(--accent, #c45c3e) 10%, transparent);
-    box-shadow: inset 0 -2px 0 var(--accent, #c45c3e);
+    background: color-mix(in srgb, var(--card-bg) 90%, var(--accent, #c45c3e) 8%);
+  }
+
+  .mobile-nav-btn.is-active {
+    border-color: var(--accent, #c45c3e);
+    color: var(--text-main);
+    background: color-mix(in srgb, var(--accent, #c45c3e) 14%, var(--card-bg));
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent, #c45c3e) 25%, transparent);
   }
 
   .mobile-nav-label {
-    font-size: 0.78rem;
-    font-weight: 600;
+    font-size: 0.76rem;
+    font-weight: 700;
     line-height: 1.2;
+    letter-spacing: 0.02em;
   }
 
   .mobile-nav-sub {
-    font-size: 0.64rem;
-    font-weight: 400;
+    font-size: 0.62rem;
+    font-weight: 500;
     line-height: 1.15;
     max-width: 100%;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
+    opacity: 0.85;
+  }
+
+  /* 未读 / 全部 / 操作 — 与顶栏一体，随上滑隐藏 */
+  .mobile-header-toolbar {
+    display: flex;
+    align-items: center;
+    min-height: var(--m-toolbar-h);
+    padding: 2px 0 0;
+  }
+
+  .mobile-header-toolbar .toolbar--mobile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    width: 100%;
+    margin: 0;
+  }
+
+  .mobile-header-toolbar .toolbar-filters {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 6px;
+    flex: 1;
+    min-width: 0;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .mobile-header-toolbar .toolbar-filters::-webkit-scrollbar {
+    display: none;
+  }
+
+  .mobile-header-toolbar .chip,
+  .mobile-header-toolbar .chip-filter,
+  .mobile-header-toolbar .chip-act {
+    flex-shrink: 0;
+    min-height: 32px;
+    padding: 5px 10px;
+    font-size: 0.76rem;
+  }
+
+  .mobile-header-toolbar .toolbar-operate-wrap {
+    position: relative;
+    flex-shrink: 0;
+  }
+
+  .mobile-header-toolbar .chip-operate {
+    min-height: 32px;
+    padding: 5px 12px;
+    font-weight: 600;
+  }
+
+  .mobile-header-toolbar .toolbar-operate-menu {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    z-index: 220;
+    min-width: 168px;
+    padding: 6px;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .mobile-header-toolbar .toolbar-operate-menu[hidden] {
+    display: none !important;
   }
 
   .layout-container {
@@ -192,86 +285,12 @@
   }
 
   .main-toolbar-wrap {
-    flex-shrink: 0;
-    position: sticky;
-    top: 0;
-    z-index: 40;
-    background: color-mix(in srgb, var(--bg-color) 92%, transparent);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    padding: 4px 0 6px;
-    margin: 0;
-    border-bottom: 1px solid var(--border-color);
-  }
-
-  .main-toolbar-wrap .toolbar--mobile {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 8px;
-    margin-bottom: 0;
-  }
-
-  .toolbar--mobile .toolbar-filters {
-    display: flex;
-    flex-wrap: nowrap;
-    gap: 6px;
-    flex: 1;
-    min-width: 0;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-
-  .toolbar--mobile .toolbar-filters::-webkit-scrollbar {
     display: none;
   }
 
-  .toolbar-operate-wrap {
-    position: relative;
-    flex-shrink: 0;
-  }
-
-  .toolbar-operate-wrap .chip-operate {
-    min-height: 34px;
-    padding: 6px 12px;
-    font-weight: 600;
-  }
-
-  .toolbar-operate-menu {
-    position: absolute;
-    top: calc(100% + 6px);
-    right: 0;
-    z-index: 50;
-    min-width: 168px;
-    padding: 6px;
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 10px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-  }
-
-  .toolbar-operate-menu[hidden] {
-    display: none !important;
-  }
-
-  .toolbar-operate-menu .chip {
-    width: 100%;
-    justify-content: center;
-    min-height: 38px;
-  }
-
-  .chip,
-  .chip-filter,
-  .chip-act {
-    flex-shrink: 0;
-    min-height: 34px;
-    padding: 6px 10px;
-    font-size: 0.78rem;
+  .view-back,
+  .view-title {
+    display: none;
   }
 
   .main-feed-scroll {
@@ -280,8 +299,27 @@
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior: contain;
-    padding-top: 6px;
-    padding-bottom: max(12px, env(safe-area-inset-bottom, 0px));
+    padding-top: 4px;
+    padding-bottom: var(--m-scroll-bottom);
+  }
+
+  .mobile-feed-footer {
+    margin-top: 28px;
+    padding: 16px 4px 8px;
+    text-align: center;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  .mobile-feed-footer p {
+    margin: 0;
+  }
+
+  .mobile-feed-footer a {
+    color: var(--text-muted);
+    text-decoration: underline;
+    text-underline-offset: 2px;
   }
 
   .mobile-hub-sheet-body .dashboard-hero {
@@ -407,7 +445,7 @@
     transition:
       transform 0.28s cubic-bezier(0.32, 0.72, 0, 1),
       visibility 0.28s;
-    padding-bottom: env(safe-area-inset-bottom, 0px);
+    padding-bottom: max(12px, env(safe-area-inset-bottom, 0px));
   }
 
   .mobile-date-sheet.is-open,
@@ -424,7 +462,6 @@
     align-items: center;
     justify-content: space-between;
     padding: 12px 16px 10px;
-    border-bottom: 1px solid var(--border-color);
     flex-shrink: 0;
   }
 
