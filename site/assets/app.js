@@ -782,6 +782,21 @@
     if (dst && html) dst.innerHTML = html;
   }
 
+  function refreshOpenMobilePanelContent() {
+    if (!activeMobileNavPanel || !isMobileViewport()) return;
+    const panel = activeMobileNavPanel;
+    if (panel === "date") {
+      const titleEl = document.getElementById("mobile-date-sheet-title");
+      if (titleEl) titleEl.textContent = t("选择日期", "Pick a date");
+      const body = document.getElementById("mobile-date-sheet-body");
+      if (body) body.innerHTML = buildTimelineHtml({ fullDates: true });
+    } else if (panel === "hub" && monthStats) {
+      syncMobileHubPanel(renderDashboard());
+    } else if (panel === "filter") {
+      syncMobileFilterPanel();
+    }
+  }
+
   function updateMobileTopNav() {
     const nav = document.getElementById("mobile-top-nav");
     if (!nav) return;
@@ -790,6 +805,22 @@
       return;
     }
     nav.hidden = false;
+
+    const labelMap = {
+      date: t("时间", "Time"),
+      hub: t("看板", "Hub"),
+      filter: t("筛选", "Filter"),
+    };
+    document.querySelectorAll(".mobile-nav-btn").forEach((btn) => {
+      const key = btn.dataset.navPanel;
+      const labelEl = btn.querySelector(".mobile-nav-label");
+      if (labelEl && labelMap[key]) labelEl.textContent = labelMap[key];
+      if (labelMap[key]) btn.setAttribute("aria-label", labelMap[key]);
+    });
+
+    const filterDrawerTitle = document.querySelector("#mobile-filter-drawer .mobile-drawer-head h2");
+    if (filterDrawerTitle) filterDrawerTitle.textContent = t("筛选", "Filter");
+
     const dateSub = document.getElementById("mobile-nav-date-sub");
     const hubSub = document.getElementById("mobile-nav-hub-sub");
     const filterSub = document.getElementById("mobile-nav-filter-sub");
@@ -797,6 +828,8 @@
     if (filterSub) filterSub.textContent = mobileNavFilterSub();
     if (hubSub && monthStats) {
       hubSub.textContent = `${monthStats.unread} ${t("未读", "unread")}`;
+    } else if (hubSub) {
+      hubSub.textContent = "—";
     }
     const routePanel = mobileRouteNavPanel();
     document.querySelectorAll(".mobile-nav-btn").forEach((btn) => {
@@ -806,6 +839,11 @@
     });
     const hubTitle = document.getElementById("mobile-hub-sheet-title");
     if (hubTitle) hubTitle.textContent = t("本月看板", "Month dashboard");
+    const dateTitle = document.getElementById("mobile-date-sheet-title");
+    if (dateTitle && !activeMobileNavPanel) {
+      dateTitle.textContent = t("选择日期", "Pick a date");
+    }
+    refreshOpenMobilePanelContent();
   }
 
   function updateMobileLayout() {
