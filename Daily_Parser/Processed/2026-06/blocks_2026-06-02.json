@@ -1,0 +1,549 @@
+{
+  "date": "2026-06-02",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "President Trump signs a scaled-back AI EO that seeks to address AI's cybersecurity threats; sources say it imposes less scrutiny on AI than the scrapped version",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Microsoft unveils Project Solara, an Android-based platform for agent-first devices, with concept hardware and pilots planned at Best Buy, Target, and others",
+      "excerpt": "",
+      "url": "https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "OpenAI releases a new knowledge work report: Codex now has 5M+ weekly active users, up 6x+ since February, and knowledge workers represent ~20% of Codex users",
+      "excerpt": "",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Amazon schedules Prime Day for June 23 to June 26, shifting the four-day sales event from July to avoid the end of the FIFA World Cup and US Independence Day",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-moves-prime-day-back-june-keeps-it-four-day-event-2026-06-02/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "GitHub Copilot's new pricing model takes effect; many users report sticker shock, with some saying a few hours of AI usage eats big chunks of their monthly caps",
+      "excerpt": "",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "SpaceX's, Anthropic's, and OpenAI's IPOs could add up to $4T in US stock market value within months, fueling concerns they could herald more capital raising",
+      "excerpt": "",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "An analysis of 600+ Elon Musk claims over 15 years finds he met deadlines 19% of the time; he achieved 75% of his 2015 goals on time, but under 50% of 2020 ones",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/interactive/2026/06/02/technology/elon-musk-promises-spacex-ipo.html?unlocked_article_code=1.nFA.5JbI.oCJGHUfbQ87h",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained “from the ground up on clean data, without distillation from third-party models”",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "section": "microsoft build 2026"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw, appearing as a Microsoft Teams contact to automate tasks like scheduling and more",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+      "section": "microsoft build 2026"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Microsoft unveils Majorana 2, a quantum chip that it developed using AI tools for materials science, and says it will have commercial quantum machines by 2029",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2026-06-02/",
+      "section": "microsoft build 2026"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "A live blog of Microsoft Build 2026, where the company launched seven AI models, developer tools for Windows, a GitHub Copilot app, Project Solara, and more",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/",
+      "section": "microsoft build 2026"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/meta-rolls-back-parts-employee-tracking-tool-staff-backlash",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Uber limits all employees to $1,500 in monthly token spending per AI coding tool “to responsibly encourage agentic AI adoption and experimentation at scale”",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html?unlocked_article_code=1.nFA.v6n1.vQ52ZDoCvFBV&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis says it is the smartest open US model, but trails Chinese model Kimi K2.6",
+      "excerpt": "",
+      "url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Perplexity unveils a Computer feature that splits tasks across local models and cloud-based models, to keep private data on-device and maximize token efficiency",
+      "excerpt": "",
+      "url": "https://9to5mac.com/2026/06/02/perplexity-computer-adding-ability-to-split-tasks-between-local-and-cloud-models/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "AI will significantly disrupt IT consultancies as AI labs build advisory arms and executives expect more projects priced based on outcome instead of by the hour",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Google, Anthropic, and Meta have hired experts in psychology, ethics, and philosophy in recent months as they expand machine consciousness research",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Sources: Tencent, which has fallen behind domestic rivals in AI models, plans to test an AI agent for WeChat with a small group of users before a phased rollout",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Zhipu AI says it plans to apply for a listing in Shanghai; Zhipu's Hong Kong-listed shares are up 10x+ since its January IPO, giving it an ~$83B market cap",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-zhipu-ai-plans-apply-shanghais-sci-tech-board-issue-shares-2026-06-02/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Sources: a Broadcom-backed portion of Apollo and Blackstone's $36B debt deal to buy TPUs for Anthropic to lease may yield ~5.75% vs. 8%-9% for a riskier portion",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/broadcom-backing-lowers-debt-costs-on-36-billion-anthropic-deal",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Sources: the EU's €20B investment plan from 2025 to build five AI data centers is floundering, with delays and funding issues alienating some potential partners",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: Intel faces a supply shortage of its Panther Lake and Wildcat Lake laptop chips built on its 18A process node; Intel says there are “some” shortages",
+      "excerpt": "",
+      "url": "https://www.culpium.com/p/intel-is-struggling-to-supply-laptop",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Chinese procurement records: at least seven Chinese universities that support China's military and defense industry are seeking access to Nvidia's H200 chips",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "SK Hynix Chair Chey Tae-won says the company plans to double its memory chip capacity over five years, responding to a global shortage that could last till 2030",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Computex 2026: ARM CEO Rene Haas says Oracle and ByteDance are among the customers of Arm's new AGI CPUs for data centers",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/china/arm-says-bytedance-oracle-use-its-data-centre-cpu-chips-2026-06-02/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "The US sanctions Nobitex, Iran's largest crypto exchange, accusing it of helping Iran's government and blacklisted state institutions evade Western sanctions",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/middle-east/us-sanctions-irans-largest-crypto-exchange-over-irgc-links-2026-06-02/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "CFTC chair Michael Selig says Gemini was the victim of Biden-era political targeting, a week after the CFTC motioned to vacate a 2025 order against the exchange",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/02/cftc-chair-alleges-gemini-crypto-exchange-was-politically-targeted.html",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "China adds data and algorithms to its trade secret rules, as part of Beijing's efforts to prevent tech leaks amid intensifying strategic competition with the US",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-adds-data-and-ai-to-trade-secret-rules-to-block-leaks",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Wise confirms it is under investigation by Belgian prosecutors over suspicions criminals used its accounts for money laundering involving ~€500M in transactions",
+      "excerpt": "",
+      "url": "https://www.thebureauinvestigates.com/stories/2026-06-01/money-transfer-giant-wise-investigated-for-half-a-billion-in-suspicious-transactions",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Meta expands Teen Accounts safety features to limit harmful content on Instagram, Facebook, and Messenger, including about nutrition, weightlifting, and anxiety",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html?unlocked_article_code=1.nFA.fzar.rM_W0wjLWnhf",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "X launches a “React with Video” feature on iOS, pitching it as a Repost and Quote Post alternative that encourages creators to record a video rather than typing",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Salesforce is acquiring CMS provider Contentful; a source says Salesforce paid between $1B and $1.5B, a steep discount from Contentful's $3B valuation in 2021",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/salesforce-acquires-contentful-latest-move-boost-ai",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Thrive Capital spinoff Thrive Holdings commits $1B to acquire local accounting firms through its subsidiary, Current, and use AI to automate their workflows",
+      "excerpt": "",
+      "url": "https://www.forbes.com/sites/annatong/2026/06/02/thrive-holdings-to-bet-1-billion-on-ai-powered-accounting-roll-up/",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Palo Alto Networks reports Q3 revenue up 31% YoY to $3B, including $388M from CyberArk and Chronosphere, vs. $2.94B est., and forecasts Q4 revenue above est.",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Didi reports Q1 revenue up 10% YoY to ~$8.7B and a ~$177M net loss, several times larger than its Q4 loss, as it expands globally in markets like Latin America",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-didi-deepens-losses-after-stepping-up-global-investment",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Israeli data security startup Cyera raised $300M at a $12B valuation, after raising $400M at a $9B valuation in January",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/w1j2xejw4",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Board, which makes a 24\" touchscreen device that blends board games with video games' interactivity, raised a $20M Series A, and says it sold tens of thousands",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual Android smartphone",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Email: the EU Parliament plans to replace Google with the French search engine Qwant as the default search tool on its computers, seeking digital sovereignty",
+      "excerpt": "",
+      "url": "https://www.politico.eu/article/european-parliament-ditches-google-for-french-search-engine/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "A profile of Valve, which PrivCo estimates generated $5.2B in revenue and $1.5B in net income in 2025, as lawsuits allege its Steam store abuses market power",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDMyMDg2NSwiZXhwIjoxNzgwOTI1NjY1LCJhcnRpY2xlSWQiOiJURlkzTzRLR0lGVDEwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.qGzJ0OHg-_6LEvk_zkX49N1iu_1V8IqklNDu6VfxF4o",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "Guy Rosen, Meta's chief information security officer who previously oversaw Meta's election integrity work, is departing in the coming months; he joined in 2013",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/meta-s-rosen-former-head-of-election-integrity-to-depart",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Q&A with Sam Altman on OpenAI's Stargate data center project in Saline, Michigan, coding models as the biggest AI demand driver, falling token prices, and more",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/01/cnbc-exclusive-transcript-openai-ceo-sam-altman-speaks-with-cnbcs-david-faber-on-power-lunch-today.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "Analysis: Palo Alto Networks' shareholders have voted to reject pay packages for its top executives seven times since 2015, more than any other S&P 500 company",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-02/palo-alto-networks-panw-shareholders-balk-at-ceo-pay-despite-share-surge",
+      "section": "more news"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "Sources: the UK has begun using SpaceX's militarized satellite network Starshield, making the UK among the first countries outside the US to adopt the tech",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/media-telecom/uk-adopts-spacexs-starshield-military-operations-sources-say-2026-06-02/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-48",
+      "source": "techmeme",
+      "title": "Marvell shares closed up 32.52% on Tuesday after Jensen Huang hailed the chipmaker as the “next trillion-dollar company” at Computex",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-49",
+      "source": "techmeme",
+      "title": "Analysis: 22 of 24 US executive agencies saw a YoY increase in their average X account engagement during the first year of Trump's second term; @DOGE dominated",
+      "excerpt": "",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/01/federal-agency-x-accounts-are-getting-far-more-engagement-in-the-second-trump-term-than-under-biden/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-50",
+      "source": "techmeme",
+      "title": "Russia's Federal Security Service claims it uncovered a large-scale spyware operation by “foreign intelligence operatives” on senior officials' mobile phones",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/russia-says-it-found-foreign-spyware-on-top-officials-phones",
+      "section": "more news"
+    },
+    {
+      "id": "TM-51",
+      "source": "techmeme",
+      "title": "OpenAI says it has not donated to any super PACs and does not have an employee-funded PAC, and that Greg Brockman's support for Leading the Future is “personal”",
+      "excerpt": "",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-52",
+      "source": "techmeme",
+      "title": "Crunchbase: San Francisco startups hit a record 1,404 seed deals in 2025; the number of NYC seed deals has declined over the past three years, to 666 in 2025",
+      "excerpt": "",
+      "url": "https://www.wsj.com/pro/venture-capital/the-big-apple-is-no-longer-big-enough-for-new-york-venture-firms-49c1bf22?st=HyoqSG&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Qwen3.7-Plus: Multimodal Agent Intelligence (36 minute read)",
+      "excerpt": "Qwen3.7-Plus is a multimodal agent model that unifies vision and language into a single, versatile agent foundation. It can operate as a multimodal interactive hybrid agent, seamlessly blending GUI and CLI interactions within a single agent loop. The model performs consistently across scaffolds and frameworks. Qwen3.7-Plus is now available via Alibaba Cloud Model Studio.",
+      "url": "https://qwen.ai/blog?id=qwen3.7-plus&amp;utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "OpenAI and Codex Reach AWS (3 minute read)",
+      "excerpt": "OpenAI announced the general availability of its frontier models and Codex on AWS. The integration allows enterprises to access OpenAI capabilities through existing AWS security, governance, procurement, and billing workflows.",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "NVIDIA just announced the release of Nemotron 3 Ultra (2 minute read)",
+      "excerpt": "Nemotron 3 Ultra features 550B parameters (55B active). It is the most intelligent open weights model from the US. The model will be made available in NVFP4 quantization for higher inference performance. It scores 48 on the Artificial Analysis Intelligence Index, well ahead of the next strongest model, Gemma 4 31B, which scored 39. Nemotron 3 Ultra serves over 300 tokens per second on a pre-release Deep Infra endpoint.",
+      "url": "https://threadreaderapp.com/thread/2061304911565144230.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Anthropic Filed a Confidential Draft IPO Registration (2 minute read)",
+      "excerpt": "Anthropic confidentially submitted a draft S-1 registration statement to the US Securities and Exchange Commission for a proposed initial public offering. The filing does not set pricing or share counts and remains subject to regulatory review and market conditions.",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Opus 4.8 Part 2: Model Welfare (42 minute read)",
+      "excerpt": "Anthropic cares about model welfare, and it attempts to address it through studies. The study of model welfare is difficult, and Anthropic mainly relies on self-reporting by the model. It can be difficult to evaluate whether model responses are really representative of the truth. This article takes a look at Anthropic's findings regarding model welfare with Opus 4.8.",
+      "url": "https://thezvi.wordpress.com/2026/06/01/opus-4-8-part-2-model-welfare/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine (98 minute read)",
+      "excerpt": "Ethan He was the lead on Nvidia's Cosmos World Model. He then joined xAI and built Grok Image in three months. He has been in the center of some of the most important work in video generation, multimodal models, and real-time world models. This post contains an interview with He where he unpacks what it actually takes to build frontier image and video systems.",
+      "url": "https://www.latent.space/p/video-agents?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Rethinking Search as Code Generation (25 minute read)",
+      "excerpt": "Perplexity introduces Search as Code (SaC) to modernize search architectures by allowing models direct control over the search process via an SDK. This approach lets AI models configure search pipelines tailored to specific tasks, improving performance and efficiency over traditional monolithic systems. SaC outperformed competitors in benchmarks, especially in complex tasks like WANDR, demonstrating its robust, cost-effective agentic search capabilities.",
+      "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI (5 minute read)",
+      "excerpt": "Nvidia Cosmos 3 is a new leaderboard-topping open physical AI foundation model. It is a fully open omnimodel with native vision reasoning and multimodal generation across text, image, video, ambient sound, and action. The model is built on a mixture-of-transformer architecture, which pairs a reasoning transformer with an expert generation transformer. It gives developers a powerful pretrained foundation for building physical AI systems with less data and lower training costs.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "JetBrains's Mellum 2 (49 minute read)",
+      "excerpt": "JetBrains introduced Mellum 2, a 12B-parameter MoE language model optimized for coding, reasoning, tool use, and agentic workflows.",
+      "url": "https://arxiv.org/abs/2605.31268?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Running OpenAI Models on Amazon Bedrock (58 minute read)",
+      "excerpt": "OpenAI cookbook walks through building production workflows with OpenAI models hosted on Amazon Bedrock using the Responses API. It covers structured outputs, tool calling, file inputs, state management, prompt caching, and operational best practices.",
+      "url": "https://developers.openai.com/cookbook/examples/partners/aws/openai_models_with_amazon_bedrock?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Alphabet plans to raise $80 billion from stock sales to fund AI buildout (4 minute read)",
+      "excerpt": "Alphabet plans to sell $80 billion in stock to fund investments into AI compute infrastructure due to unprecedented customer demand. The raise includes $10 billion from Berkshire Hathaway, $30 billion in an underwritten offering, and $40 billion from an at-the-market offering program for Class A and Class C shares expected to begin in the third quarter. Goldman Sachs, JPMorgan Chase, and Morgan Stanley are acting as joint book-running managers for the underwritten offering.",
+      "url": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "US moves to close the loophole letting Nvidia's top chips reach Chinese firms abroad (3 minute read)",
+      "excerpt": "The US Commerce Department has issued guidance extending export license requirements to advance chips sold to any entity headquartered in China, regardless of where that entity is physically located. This closes a loophole that allowed Chinese companies to buy Nvidia chips using a subsidiary in another country. The action is aimed at future sales and not at clawing back hardware already shipped. It doesn't affect the servicing of advanced computing equipment such as servers.",
+      "url": "https://thenextweb.com/news/us-nvidia-amd-china-subsidiary-chip-curbs?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Mistral Search Toolkit for Production AI Pipelines (4 minute read)",
+      "excerpt": "Mistral released Search Toolkit in public preview, an open-source framework that unifies data ingestion, retrieval, and evaluation within a shared interface.",
+      "url": "https://mistral.ai/news/search-toolkit/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "TLDR is hiring a Senior Software Engineer, Applied AI ($250k-$350k, Fully Remote)",
+      "excerpt": "TLDR's Applied AI team is tasked with making every process at TLDR legible to code, runnable by anyone, and composable into larger workflows. Join a small, fast moving team using the latest AI tools with an unlimited token budget. Learn more.",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Opus 4.8 just broke ARC-AGI-3 (1 minute read)",
+      "excerpt": "It tripled GPT-5.5's score.",
+      "url": "https://threadreaderapp.com/thread/2061513383287882111.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "Cursor Expands Teams Usage Limits (2 minute read)",
+      "excerpt": "Cursor announced higher Teams plan limits, a new Premium seat for heavy agent users, and additional spending controls for administrators.",
+      "url": "https://cursor.com/blog/teams-pricing-june-2026?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

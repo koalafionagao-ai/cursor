@@ -1,0 +1,510 @@
+{
+  "date": "2026-06-02",
+  "sections": {
+    "top news": [
+      {
+        "title": "President Trump signs a scaled-back AI EO that seeks to address AI's cybersecurity threats; sources say it imposes less scrutiny on AI than the scrapped version",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+        "tweets": [
+          {
+            "author": "@davidsacks",
+            "text": "Many have reached out to me regarding the new Cyber EO.  A few thoughts: First, President Trump is the most pro-innovation president we've ever had...The change in the EO from a 90 day to 30 day period is a game changer because it allows our AI labs to comply with the voluntary framework without delaying new model releases...I understand the concerns of many that this could morph into an “FDA for AI”.  Of course bureaucratic mission creep is always a danger and this should be closely monitored.  But the EO expressly forbids the creation of a new licensing, preclearance, or permitting regime.  Most importantly, I do not believe that President Trump would allow this to happen.",
+            "url": "https://x.com/davidsacks/status/2061882659266261274"
+          },
+          {
+            "author": "@bradsmi",
+            "text": "This executive order is an important step toward advancing innovation while protecting the security of the American public. We welcome this effort by the Administration.",
+            "url": "https://x.com/bradsmi/status/2061847790721065412"
+          },
+          {
+            "author": "@deanwball",
+            "text": "This EO sets up a bad outcome in frontier AI governance: the government regulating AI models you aren't allowed to use in a way you aren't allowed to know about.  That outcome is not here yet, but the direction of travel is apparent.  If Biden had done this, every libertarian would be panicking.  This is considerably more intrusive than the much-maligned Biden EO.  To be clear, I think regulation above the Biden EO is now necessary, given the capability of today's frontier AI systems.  But anyone who pretends like the Biden EO was massively intrusive but this EO is somehow less intrusive is wrong, IMO.",
+            "url": "https://x.com/deanwball/status/2061874260096983402"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: after Trump nixed an AI EO on May 21, US officials navigated internal strife and chaotic talks; early AI model access was the most contentious issue",
+            "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/"
+          }
+        ]
+      },
+      {
+        "title": "Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8",
+        "tweets": [
+          {
+            "author": "@logangraham",
+            "text": "- Cyber safeguards are a hard + urgent techno-philosophical problem. - ...but powerful models w/o safeguards may come soon (~3, 6, 18 months max?). We need to scale access to defensive tools urgently. - Industry, government, maintainers, and researchers are taking this moment",
+            "url": "https://x.com/logangraham/status/2061832481721249849"
+          },
+          {
+            "author": "@mickeydjuric",
+            "text": "NEW: Canada now has access to Mythos hacking tech and are officially part of Project Glasswing. “It's a very important step for Canadians and for our government to make sure we have access and we can protect our institutions and our country,” AI Minister @EvanLSolomon says",
+            "url": "https://x.com/mickeydjuric/status/2061846641431175449"
+          },
+          {
+            "author": "@suhailkakar",
+            "text": "not a single crypto company has access to claude mythos imagine what happens when the wrong people get access and start hunting defi protocols and bridges. if you're building in crypto: get audits. multiple. now",
+            "url": "https://x.com/suhailkakar/status/2061806107820273804"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft unveils Project Solara, an Android-based platform for agent-first devices, with concept hardware and pilots planned at Best Buy, Target, and others",
+        "excerpt": "",
+        "url": "https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/",
+        "tweets": [
+          {
+            "author": "@film_girl",
+            "text": "Project Solara is about 3 things: * Being enterprise ready * JIT UI that adapts to the form factor * Extstensible so you can bring your own agent But enough of that, onto the devices!",
+            "url": "https://x.com/film_girl/status/2061859355499389288"
+          },
+          {
+            "author": "@cristianoamon",
+            "text": "We're shifting from apps and operating systems to agents, and that changes the device experience end to end. Great conversation with @satyanadella on what comes next. Watch our discussion from #MSBuild. Read the OnQ blog post for more.  [video]",
+            "url": "https://x.com/cristianoamon/status/2061860614755213809"
+          },
+          {
+            "author": "@tomwarren",
+            "text": "will be interesting to see where Microsoft goes with Project Solara.  It has tried and failed to build platforms for many devices in the past - Band, Cortana devices, Windows Phone, the list goes on.  This time it's using a version of Android, anticipating future AI agent hardware",
+            "url": "https://x.com/tomwarren/status/2061865594224574617"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI releases a new knowledge work report: Codex now has 5M+ weekly active users, up 6x+ since February, and knowledge workers represent ~20% of Codex users",
+        "excerpt": "",
+        "url": "https://openai.com/index/codex-for-knowledge-work",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "OpenAI unveils new Codex plugins for tasks related to public equity investment, banking and sales, and other roles, and plans to integrate Codex into ChatGPT",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic"
+          }
+        ]
+      },
+      {
+        "title": "Amazon schedules Prime Day for June 23 to June 26, shifting the four-day sales event from July to avoid the end of the FIFA World Cup and US Independence Day",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/amazon-moves-prime-day-back-june-keeps-it-four-day-event-2026-06-02/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "GitHub Copilot's new pricing model takes effect; many users report sticker shock, with some saying a few hours of AI usage eats big chunks of their monthly caps",
+        "excerpt": "",
+        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SpaceX's, Anthropic's, and OpenAI's IPOs could add up to $4T in US stock market value within months, fueling concerns they could herald more capital raising",
+        "excerpt": "",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An analysis of 600+ Elon Musk claims over 15 years finds he met deadlines 19% of the time; he achieved 75% of his 2015 goals on time, but under 50% of 2020 ones",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/interactive/2026/06/02/technology/elon-musk-promises-spacex-ipo.html?unlocked_article_code=1.nFA.5JbI.oCJGHUfbQ87h",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "microsoft build 2026": [
+      {
+        "title": "Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained “from the ground up on clean data, without distillation from third-party models”",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "An interview with Microsoft AI CEO Mustafa Suleyman about its models catching up to the state of the art from months ago, refusing to distill models, and more",
+            "url": "https://www.semafor.com/article/06/02/2026/microsofts-ai-chief-on-the-greatest-game-of-catchup-ever-played"
+          },
+          {
+            "title": "Microsoft announces seven AI models, including a reasoning one and an “ultra efficient” coding one fine-tuned for GitHub, for businesses and to lower its costs",
+            "url": "https://www.ft.com/content/e8b86648-61b3-4b48-8bd4-a50f03de92d8"
+          },
+          {
+            "title": "Microsoft and Mayo Clinic partner for an AI model trained on Mayo's medical data, with plans to build an AI healthcare assistant and AI tools for clinicians",
+            "url": "https://www.cnn.com/2026/06/02/tech/ai-for-healthcare-microsoft-mayo-clinic"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw, appearing as a Microsoft Teams contact to automate tasks like scheduling and more",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Microsoft announces developer tools for Windows: a set of Linux-like command line utilities called Coreutils, WSL containers, an Intelligent Terminal, and more",
+            "url": "https://www.theverge.com/news/941314/microsoft-windows-11-developer-optimized-experience-linux"
+          },
+          {
+            "title": "Microsoft unveils Microsoft Execution Containers, a Windows-level sandbox for AI agents, and says partners OpenAI, Nvidia, Manus, and Nous Research are using it",
+            "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board"
+          },
+          {
+            "title": "Microsoft releases Web IQ, a search service for AI agents that is powered by Bing, currently used by Copilot, ChatGPT, and other platforms",
+            "url": "https://searchengineland.com/microsoft-releases-web-iq-powered-by-bing-but-designed-for-how-ai-agents-search-479194"
+          },
+          {
+            "title": "Microsoft announces the Agent Control Specification, an open-source standard that gives developers a granular, consistent way to control what AI agents can do",
+            "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
+          },
+          {
+            "title": "GitHub unveils a GitHub Copilot desktop app in technical preview, which introduces a new feature called canvases for bidirectional work between users and agents",
+            "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/"
+          },
+          {
+            "title": "Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions",
+            "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
+          },
+          {
+            "title": "Microsoft unveils on-device AI updates for Edge: an SLM developer preview, Language Detector and Translator APIs, and speech recognition with the Web Speech API",
+            "url": "https://www.thurrott.com/a-i/336953/build-2026-microsoft-brings-more-on-device-ai-to-edge"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft unveils Majorana 2, a quantum chip that it developed using AI tools for materials science, and says it will have commercial quantum machines by 2029",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2026-06-02/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Microsoft unveils a Surface RTX Spark Dev Box, featuring Nvidia's Arm-based RTX Spark, 128GB of unified memory, and a 100W thermal envelope, for local AI tasks",
+            "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability"
+          }
+        ]
+      },
+      {
+        "title": "A live blog of Microsoft Build 2026, where the company launched seven AI models, developer tools for Windows, a GitHub Copilot app, Project Solara, and more",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2185601/microsoft-build-2026-live-blog-copilot-windows-news/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "A recording of the Microsoft Build 2026 keynote",
+            "url": "https://www.youtube.com/watch?v=FFMm454fxNA"
+          }
+        ]
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/meta-rolls-back-parts-employee-tracking-tool-staff-backlash",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Uber limits all employees to $1,500 in monthly token spending per AI coding tool “to responsibly encourage agentic AI adoption and experimentation at scale”",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html?unlocked_article_code=1.nFA.v6n1.vQ52ZDoCvFBV&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis says it is the smartest open US model, but trails Chinese model Kimi K2.6",
+        "excerpt": "",
+        "url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Perplexity unveils a Computer feature that splits tasks across local models and cloud-based models, to keep private data on-device and maximize token efficiency",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/06/02/perplexity-computer-adding-ability-to-split-tasks-between-local-and-cloud-models/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI will significantly disrupt IT consultancies as AI labs build advisory arms and executives expect more projects priced based on outcome instead of by the hour",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Google, Anthropic, and Meta have hired experts in psychology, ethics, and philosophy in recent months as they expand machine consciousness research",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/53e14bcc-788c-4959-b260-7aee363594bc",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Tencent, which has fallen behind domestic rivals in AI models, plans to test an AI agent for WeChat with a small group of users before a phased rollout",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Zhipu AI says it plans to apply for a listing in Shanghai; Zhipu's Hong Kong-listed shares are up 10x+ since its January IPO, giving it an ~$83B market cap",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-zhipu-ai-plans-apply-shanghais-sci-tech-board-issue-shares-2026-06-02/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Sources: a Broadcom-backed portion of Apollo and Blackstone's $36B debt deal to buy TPUs for Anthropic to lease may yield ~5.75% vs. 8%-9% for a riskier portion",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/broadcom-backing-lowers-debt-costs-on-36-billion-anthropic-deal",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Source: a CoreWeave-tied data center raised $900M via five-year junk bonds, priced at par to yield 7.5%, as the sector increasingly turns to high-yield bonds",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-02/coreweave-tied-data-center-raises-900-million-in-junk-bond-sale"
+          }
+        ]
+      },
+      {
+        "title": "Sources: the EU's €20B investment plan from 2025 to build five AI data centers is floundering, with delays and funding issues alienating some potential partners",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Sources: Intel faces a supply shortage of its Panther Lake and Wildcat Lake laptop chips built on its 18A process node; Intel says there are “some” shortages",
+        "excerpt": "",
+        "url": "https://www.culpium.com/p/intel-is-struggling-to-supply-laptop",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chinese procurement records: at least seven Chinese universities that support China's military and defense industry are seeking access to Nvidia's H200 chips",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SK Hynix Chair Chey Tae-won says the company plans to double its memory chip capacity over five years, responding to a global shortage that could last till 2030",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/sk-hynix-to-double-wafer-capacity-to-ease-memory-chip-crunch",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Computex 2026: ARM CEO Rene Haas says Oracle and ByteDance are among the customers of Arm's new AGI CPUs for data centers",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/arm-says-bytedance-oracle-use-its-data-centre-cpu-chips-2026-06-02/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "The US sanctions Nobitex, Iran's largest crypto exchange, accusing it of helping Iran's government and blacklisted state institutions evade Western sanctions",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/middle-east/us-sanctions-irans-largest-crypto-exchange-over-irgc-links-2026-06-02/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CFTC chair Michael Selig says Gemini was the victim of Biden-era political targeting, a week after the CFTC motioned to vacate a 2025 order against the exchange",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/02/cftc-chair-alleges-gemini-crypto-exchange-was-politically-targeted.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "China adds data and algorithms to its trade secret rules, as part of Beijing's efforts to prevent tech leaks amid intensifying strategic competition with the US",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-adds-data-and-ai-to-trade-secret-rules-to-block-leaks",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Wise confirms it is under investigation by Belgian prosecutors over suspicions criminals used its accounts for money laundering involving ~€500M in transactions",
+        "excerpt": "",
+        "url": "https://www.thebureauinvestigates.com/stories/2026-06-01/money-transfer-giant-wise-investigated-for-half-a-billion-in-suspicious-transactions",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Meta expands Teen Accounts safety features to limit harmful content on Instagram, Facebook, and Messenger, including about nutrition, weightlifting, and anxiety",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html?unlocked_article_code=1.nFA.fzar.rM_W0wjLWnhf",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "X launches a “React with Video” feature on iOS, pitching it as a Repost and Quote Post alternative that encourages creators to record a video rather than typing",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Salesforce is acquiring CMS provider Contentful; a source says Salesforce paid between $1B and $1.5B, a steep discount from Contentful's $3B valuation in 2021",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/salesforce-acquires-contentful-latest-move-boost-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Thrive Capital spinoff Thrive Holdings commits $1B to acquire local accounting firms through its subsidiary, Current, and use AI to automate their workflows",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/annatong/2026/06/02/thrive-holdings-to-bet-1-billion-on-ai-powered-accounting-roll-up/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Palo Alto Networks reports Q3 revenue up 31% YoY to $3B, including $388M from CyberArk and Chronosphere, vs. $2.94B est., and forecasts Q4 revenue above est.",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Didi reports Q1 revenue up 10% YoY to ~$8.7B and a ~$177M net loss, several times larger than its Q4 loss, as it expands globally in markets like Latin America",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-didi-deepens-losses-after-stepping-up-global-investment",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Israeli data security startup Cyera raised $300M at a $12B valuation, after raising $400M at a $9B valuation in January",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/w1j2xejw4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Board, which makes a 24\" touchscreen device that blends board games with video games' interactivity, raised a $20M Series A, and says it sold tens of thousands",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual Android smartphone",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Email: the EU Parliament plans to replace Google with the French search engine Qwant as the default search tool on its computers, seeking digital sovereignty",
+        "excerpt": "",
+        "url": "https://www.politico.eu/article/european-parliament-ditches-google-for-french-search-engine/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Valve, which PrivCo estimates generated $5.2B in revenue and $1.5B in net income in 2025, as lawsuits allege its Steam store abuses market power",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-01/valve-s-antitrust-reckoning-over-steam-has-echoes-of-apple-google-app-store-sui?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDMyMDg2NSwiZXhwIjoxNzgwOTI1NjY1LCJhcnRpY2xlSWQiOiJURlkzTzRLR0lGVDEwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.qGzJ0OHg-_6LEvk_zkX49N1iu_1V8IqklNDu6VfxF4o",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Guy Rosen, Meta's chief information security officer who previously oversaw Meta's election integrity work, is departing in the coming months; he joined in 2013",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/meta-s-rosen-former-head-of-election-integrity-to-depart",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with Sam Altman on OpenAI's Stargate data center project in Saline, Michigan, coding models as the biggest AI demand driver, falling token prices, and more",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/01/cnbc-exclusive-transcript-openai-ceo-sam-altman-speaks-with-cnbcs-david-faber-on-power-lunch-today.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Palo Alto Networks' shareholders have voted to reject pay packages for its top executives seven times since 2015, more than any other S&P 500 company",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-02/palo-alto-networks-panw-shareholders-balk-at-ceo-pay-despite-share-surge",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the UK has begun using SpaceX's militarized satellite network Starshield, making the UK among the first countries outside the US to adopt the tech",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/uk-adopts-spacexs-starshield-military-operations-sources-say-2026-06-02/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Marvell shares closed up 32.52% on Tuesday after Jensen Huang hailed the chipmaker as the “next trillion-dollar company” at Computex",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/02/jensen-huang-nvidia-marvell-technology-trillion-dollar-ai.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: 22 of 24 US executive agencies saw a YoY increase in their average X account engagement during the first year of Trump's second term; @DOGE dominated",
+        "excerpt": "",
+        "url": "https://www.pewresearch.org/short-reads/2026/06/01/federal-agency-x-accounts-are-getting-far-more-engagement-in-the-second-trump-term-than-under-biden/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Russia's Federal Security Service claims it uncovered a large-scale spyware operation by “foreign intelligence operatives” on senior officials' mobile phones",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/russia-says-it-found-foreign-spyware-on-top-officials-phones",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI says it has not donated to any super PACs and does not have an employee-funded PAC, and that Greg Brockman's support for Leading the Future is “personal”",
+        "excerpt": "",
+        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Crunchbase: San Francisco startups hit a record 1,404 seed deals in 2025; the number of NYC seed deals has declined over the past three years, to 666 in 2025",
+        "excerpt": "",
+        "url": "https://www.wsj.com/pro/venture-capital/the-big-apple-is-no-longer-big-enough-for-new-york-venture-firms-49c1bf22?st=HyoqSG&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 11,
+    "news_count": 52
+  }
+}
