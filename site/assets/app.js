@@ -754,8 +754,8 @@
     if (dst && html) dst.innerHTML = html;
   }
 
-  function updateMobileBottomNav() {
-    const nav = document.getElementById("mobile-bottom-nav");
+  function updateMobileTopNav() {
+    const nav = document.getElementById("mobile-top-nav");
     if (!nav) return;
     if (!isMobileViewport()) {
       nav.hidden = true;
@@ -779,7 +779,7 @@
       closeMobileSheets();
       document.querySelector(".header-bar")?.classList.remove("header-hidden");
     }
-    updateMobileBottomNav();
+    updateMobileTopNav();
     syncMobileFilterPanel();
     if (monthStats) syncMobileHubPanel(renderDashboard());
   }
@@ -865,10 +865,11 @@
       handleFilterPanelClick(e);
     });
 
-    document.getElementById("mobile-bottom-nav")?.addEventListener("click", (e) => {
+    document.getElementById("mobile-top-nav")?.addEventListener("click", (e) => {
       const btn = e.target.closest(".mobile-nav-btn");
       if (!btn?.dataset.navPanel) return;
       e.preventDefault();
+      e.stopPropagation();
       openMobileNavPanel(btn.dataset.navPanel);
     });
 
@@ -876,15 +877,16 @@
       document.body.dataset.mobileUiBound = "1";
       document.body.addEventListener("click", (e) => {
         if (
-          e.target.id === "btn-date-sheet-close" ||
-          e.target.id === "btn-hub-sheet-close" ||
-          e.target.id === "btn-filter-drawer-close"
+          e.target.closest("#btn-date-sheet-close") ||
+          e.target.closest("#btn-hub-sheet-close") ||
+          e.target.closest("#btn-filter-drawer-close")
         ) {
           e.preventDefault();
+          e.stopPropagation();
           closeMobileSheets();
           return;
         }
-        if (e.target.id === "mobile-overlay") {
+        if (e.target.id === "mobile-overlay" || e.target.closest("#mobile-overlay")) {
           closeMobileSheets();
         }
         if (!e.target.closest(".toolbar-operate-wrap")) {
