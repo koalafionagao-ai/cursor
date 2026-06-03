@@ -355,12 +355,30 @@
     return `<div class="toolbar">${filters}${renderActionChips()}</div>`;
   }
 
+  function renderMobileFeedFooter() {
+    return `<footer class="mobile-feed-footer" aria-label="Site footer">
+      <p>© 2026 Fiona Gao · AI Daily · <a href="https://github.com/koalafionagao-ai" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+    </footer>`;
+  }
+
+  function syncMobileHeaderToolbar(html) {
+    const slot = document.getElementById("mobile-header-toolbar");
+    if (!slot) return;
+    if (!isMobileViewport()) {
+      slot.hidden = true;
+      slot.innerHTML = "";
+      return;
+    }
+    slot.hidden = false;
+    slot.innerHTML = html || "";
+  }
+
   function wrapMainScrollable(headHtml, toolbarHtml, bodyHtml) {
     if (isMobileViewport()) {
       if (headHtml) syncMobileHubPanel(headHtml);
+      syncMobileHeaderToolbar(toolbarHtml);
       return `<div class="main-column">
-      <div class="main-toolbar-wrap">${toolbarHtml}</div>
-      <div class="main-feed-scroll">${bodyHtml}</div>
+      <div class="main-feed-scroll">${bodyHtml}${renderMobileFeedFooter()}</div>
     </div>`;
     }
     return `<div class="main-column">
@@ -666,21 +684,30 @@
     return window.matchMedia(MOBILE_MQ).matches;
   }
 
-  function mobileDateBarPrimary() {
+  function mobileRouteNavPanel() {
+    if (route.view === "tag" || route.view === "cat") return "filter";
+    if (route.view === "day") return "date";
+    return "hub";
+  }
+
+  /** 时间 tab：只显示日期/月份，不显示标签名 */
+  function mobileNavTimeSub() {
     if (route.view === "day" && route.date) return route.date;
-    if (route.view === "tag") return route.tag;
-    if (route.view === "cat") {
+    if (route.month) {
+      if (lang === "zh") return `${route.month.slice(0, 4)}年${monthDisplayLabel(route.month)}`;
+      return route.month;
+    }
+    return manifest?.latest_date || "—";
+  }
+
+  /** 筛选 tab：标签/分类选中态 */
+  function mobileNavFilterSub() {
+    if (route.view === "tag" && route.tag) return route.tag;
+    if (route.view === "cat" && route.cat) {
       const cat = manifest?.categories?.find((c) => c.id === route.cat);
       return cat ? (lang === "zh" ? cat.zh : cat.en) : route.cat;
     }
-    return manifest?.latest_date || route.month || "";
-  }
-
-  function mobileDateBarSecondary() {
-    if (route.view === "day") return t("日报", "Daily");
-    if (route.view === "tag") return t("标签", "Tag");
-    if (route.view === "cat") return t("分类", "Category");
-    return `${route.month || ""} · ${t("本月", "Month")}`;
+    return t("分类·标签", "Cats · tags");
   }
 
   let activeMobileNavPanel = null;
@@ -699,6 +726,7 @@
       b.classList.remove("is-active");
       b.setAttribute("aria-expanded", "false");
     });
+    updateMobileTopNav();
     const ov = document.getElementById("mobile-overlay");
     if (ov) ov.hidden = true;
   }
@@ -764,10 +792,18 @@
     nav.hidden = false;
     const dateSub = document.getElementById("mobile-nav-date-sub");
     const hubSub = document.getElementById("mobile-nav-hub-sub");
-    if (dateSub) dateSub.textContent = mobileDateBarPrimary();
+    const filterSub = document.getElementById("mobile-nav-filter-sub");
+    if (dateSub) dateSub.textContent = mobileNavTimeSub();
+    if (filterSub) filterSub.textContent = mobileNavFilterSub();
     if (hubSub && monthStats) {
       hubSub.textContent = `${monthStats.unread} ${t("未读", "unread")}`;
     }
+    const routePanel = mobileRouteNavPanel();
+    document.querySelectorAll(".mobile-nav-btn").forEach((btn) => {
+      const isRoute = btn.dataset.navPanel === routePanel;
+      btn.classList.toggle("is-route-current", isRoute);
+      btn.setAttribute("aria-current", isRoute ? "page" : "false");
+    });
     const hubTitle = document.getElementById("mobile-hub-sheet-title");
     if (hubTitle) hubTitle.textContent = t("本月看板", "Month dashboard");
   }
@@ -778,10 +814,16 @@
     if (!mobile) {
       closeMobileSheets();
       document.querySelector(".header-bar")?.classList.remove("header-hidden");
+      document.body.classList.remove("mobile-chrome-hidden");
+      syncMobileHeaderToolbar("");
     }
     updateMobileTopNav();
     syncMobileFilterPanel();
     if (monthStats) syncMobileHubPanel(renderDashboard());
+    if (mobile) {
+      document.body.classList.remove("mobile-chrome-hidden");
+      document.querySelector(".header-bar")?.classList.remove("header-hidden");
+    }
   }
 
   async function handleTimelineClick(e) {
@@ -896,16 +938,16 @@
       window.addEventListener("resize", () => updateMobileLayout());
     }
 
-    document.getElementById("main-panel")?.addEventListener("click", (e) => {
+    const handleToolbarAction = (e) => {
       if (e.target.id === "btn-filter-unread") {
         filterUnread = true;
         render();
-        return;
+        return true;
       }
       if (e.target.id === "btn-filter-all") {
         filterUnread = false;
         render();
-        return;
+        return true;
       }
       if (e.target.id === "btn-operate-toggle") {
         e.preventDefault();
@@ -915,18 +957,27 @@
           menu.hidden = !menu.hidden;
           if (btn) btn.setAttribute("aria-expanded", menu.hidden ? "false" : "true");
         }
-        return;
+        return true;
       }
       if (e.target.id === "btn-mark-all") {
         closeOperateMenu();
         markAllVisibleRead();
-        return;
+        return true;
       }
       if (e.target.id === "btn-reset-unread") {
         closeOperateMenu();
         resetCurrentToUnread();
-        return;
+        return true;
       }
+      return false;
+    };
+
+    document.getElementById("mobile-header-toolbar")?.addEventListener("click", (e) => {
+      handleToolbarAction(e);
+    });
+
+    document.getElementById("main-panel")?.addEventListener("click", (e) => {
+      if (handleToolbarAction(e)) return;
       if (e.target.id === "btn-back-hub" || e.target.id === "link-back-hub") {
         e.preventDefault();
         navigate("#/" + route.month);
@@ -995,6 +1046,7 @@
     const header = document.querySelector(".header-bar");
     if (!feed || !header || !isMobileViewport()) {
       header?.classList.remove("header-hidden");
+      document.body.classList.remove("mobile-chrome-hidden");
       return;
     }
 
@@ -1009,8 +1061,13 @@
           return;
         }
         const y = feed.scrollTop;
-        if (y > lastY + 8 && y > 48) header.classList.add("header-hidden");
-        else if (y < lastY - 8 || y <= 8) header.classList.remove("header-hidden");
+        if (y > lastY + 8 && y > 48) {
+          header.classList.add("header-hidden");
+          document.body.classList.add("mobile-chrome-hidden");
+        } else if (y < lastY - 8 || y <= 8) {
+          header.classList.remove("header-hidden");
+          document.body.classList.remove("mobile-chrome-hidden");
+        }
         lastY = y;
       },
       { passive: true }
