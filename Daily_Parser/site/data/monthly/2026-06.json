@@ -16,9 +16,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-03",
+      "total": 38,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 60,
+  "item_count": 98,
   "items": [
     {
       "id": "TM-01",
@@ -1691,6 +1699,1046 @@
       ],
       "category_tag": "cat:other",
       "date": "2026-06-02"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/06/03/openai-white-house-ai-safety-rules-00948478",
+      "title": {
+        "zh": "OpenAI发布新政策建议，主张高级AI系统的网络风险评估应由CAISI主导",
+        "en": "OpenAI diverges from Trump's AI EO in a new policy paper, proposing cyber risk evaluations for advanced AI systems be mandatory and led by CAISI, not the NSA"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2186257/google-will-allow-websites-to-exclude-themselves-from-ai-search-results/",
+      "title": {
+        "zh": "Google测试新功能：允许英国网站决定是否出现在AI搜索结果中",
+        "en": "Google says it is testing a new toggle inside its Search Console with some UK domain owners, letting them decide whether their sites appear in AI search results"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "search"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "search"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlNmQ3BmWjN1TTIiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MDkyOTI2NiwiaWF0IjoxNzgwNDk3MjY2fQ.RbhnyovChKE1Zsd7UgJFmQ4-p1RWMX_-xJzzl1gj1mc&utm_medium=gift-link",
+      "title": {
+        "zh": "Mustafa Suleyman称微软目标成为全球前四AI实验室之一",
+        "en": "Mustafa Suleyman says Microsoft aims to become “one of the top four labs in the world”, and “the pivotal moment was renegotiating our contract with OpenAI”"
+      },
+      "summary": {
+        "zh": "微软与OpenAI重新谈判合同被认为是关键转折点。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "cat:business",
+        "microsoft",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "openai"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
+      "title": {
+        "zh": "阿里巴巴发布Qwen3.7-Plus多模态模型，支持100万Token上下文窗口",
+        "en": "Alibaba releases Qwen3.7-Plus, a multimodal proprietary model with a 1M-token context window, costing $2 per 1M tokens, 60% less than the text-only Qwen3.7-Max"
+      },
+      "summary": {
+        "zh": "该模型每百万Token成本为2美元，比Qwen3.7-Max低60%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "alibaba",
+        "qwen",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "alibaba",
+        "qwen",
+        "multimodal"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "title": {
+        "zh": "Meta推出Meta Business Agent，助力企业在社交平台上与客户互动",
+        "en": "Meta introduces Meta Business Agent, an AI agent that lets businesses on WhatsApp, Instagram, and Messenger answer customer questions, close sales, and more"
+      },
+      "summary": {
+        "zh": "该AI代理可回答客户问题、完成销售等功能。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+      "title": {
+        "zh": "Google邀请开发者参与机密内容试点计划以训练AI编码工具",
+        "en": "Email: Google asked Google Play app developers to “join a confidential content offer pilot”, offering to pay for codebase access to train its AI coding tools"
+      },
+      "summary": {
+        "zh": "Google计划为获取代码库访问权限提供报酬。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "cat:business",
+        "google",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "coding"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
+      "title": {
+        "zh": "Google推出Gemma 4 12B：可在16GB VRAM设备上运行的多模态模型",
+        "en": "Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory"
+      },
+      "summary": {
+        "zh": "该模型无需编码器，支持本地运行。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "multimodal"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/chatgpt-app-hits-1-billion-monthly-active-users-record-time-data-shows-2026-06-02/",
+      "title": {
+        "zh": "Sensor Tower：ChatGPT成为最快达到10亿月活用户的应用",
+        "en": "Sensor Tower: ChatGPT becomes the fastest app by far to hit 1B global MAUs; ChatGPT's MAUs are up 62% YoY in Q2 to date and Claude's MAUs are up 640% YoY to 56M"
+      },
+      "summary": {
+        "zh": "ChatGPT月活同比增长62%，Claude月活同比增长640%至5600万。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "cat:business",
+        "openai",
+        "chatgpt",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt",
+        "claude"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/d7076234-0618-4e9a-b37c-5f128329a650",
+      "title": {
+        "zh": "AI初创公司探索递归自我改进技术，致力于开发自我优化AI",
+        "en": "How OpenAI, Anthropic, and other AI startups are pursuing recursive self-improvement, in a bid to build AI that can improve itself with little to no human input"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "anthropic",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "agent"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/cio-journal/anthropic-bulks-up-its-enterprise-partner-program-amid-ipo-plans-560a9b82?st=uuhSzk&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Anthropic推出Claude合作伙伴网络服务轨道及门户网站",
+        "en": "Anthropic unveils a Services Track for its Claude Partner Network, a ranking based on what companies built with Claude, and releases a Claude Partner Hub portal"
+      },
+      "summary": {
+        "zh": "该服务轨道基于企业使用Claude构建的成果进行排名。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "cat:business",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-02/modi-wants-india-to-join-japan-uk-in-ai-superpower-race-to-rival-us-china?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDQ1NTkyNiwiZXhwIjoxNzgxMDYwNzI2LCJhcnRpY2xlSWQiOiJURzExSlNOM04wOVYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.s4Yl8VkZzxiaUizTX_AGeldlE9RmQrGt_XUF2N8gntU",
+      "title": {
+        "zh": "印度构建和出口主权AI模板的雄心与结构性限制的碰撞",
+        "en": "How India's ambitions to build and export a sovereign AI template are colliding with structural constraints, including a dependence on foreign AI infrastructure"
+      },
+      "summary": {
+        "zh": "印度在构建和出口主权AI模板的过程中，面临包括对外国AI基础设施依赖在内的结构性限制。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/retail-consumer/deepseek-slated-draw-7-billion-maiden-fundraising-sources-say-2026-06-03/",
+      "title": {
+        "zh": "DeepSeek计划在首轮融资中筹集约74亿美元",
+        "en": "Sources: DeepSeek is set to raise ~$7.4B in its first funding round from investors, including Tencent and CATL, at a valuation of between ~$52B and ~$59B"
+      },
+      "summary": {
+        "zh": "消息称，DeepSeek计划在首轮融资中从包括腾讯和CATL在内的投资者处筹集约74亿美元，估值在520亿至590亿美元之间。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "tencent",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/lila-sciences-said-in-talks-for-funds-at-8-5-billion-valuation",
+      "title": {
+        "zh": "Lila Sciences计划以85亿美元估值筹集20亿美元B轮融资",
+        "en": "Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation",
+      "title": {
+        "zh": "AI音乐初创公司Suno以54亿美元估值完成4亿美元融资",
+        "en": "AI music startup Suno raised $400M led by Bond at a $5.4B valuation, up from $2.45B after raising $250M in November 2025, and passed 2M subscribers in February"
+      },
+      "summary": {
+        "zh": "Suno由Bond领投，估值从2025年11月的24.5亿美元增长至54亿美元，并在2026年2月用户突破200万。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://pathfounders.com/p/apoha-emerges-from-stealth-with-36m-to-teach-ai",
+      "title": {
+        "zh": "Apoha以3600万美元融资推出“液态智能”数据层",
+        "en": "Apoha, which is developing a “Liquid State Intelligence” data layer to measure molecules in the real world, emerges from stealth with $36M led by Singular"
+      },
+      "summary": {
+        "zh": "Apoha从隐身模式中走出，开发用于测量真实世界分子的“液态智能”数据层，由Singular领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/entrepreneurship/market-research-firm-alphasense-clinches-7-5-billion-valuation-in-new-funding-round-bda34de4?st=ytruSy&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "AlphaSense以75亿美元估值完成3.5亿美元融资",
+        "en": "AI market research platform AlphaSense raised $350M from Vitruvian, Accenture, and others at a $7.5B valuation, up from $4B in 2024, ahead of a possible IPO"
+      },
+      "summary": {
+        "zh": "AI市场研究平台AlphaSense从Vitruvian、Accenture等投资者处筹集3.5亿美元，估值从2024年的40亿美元增长至75亿美元，可能计划IPO。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "ipo"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "title": {
+        "zh": "Coralogix完成2亿美元F轮融资，估值16亿美元",
+        "en": "Boston-based software monitoring startup Coralogix raised a $200M Series F at a $1.6B post-money valuation, up from $1B+ after a $115M Series E in June 2025"
+      },
+      "summary": {
+        "zh": "总部位于波士顿的软件监控初创公司Coralogix完成2亿美元F轮融资，估值从2025年6月的10亿美元增长至16亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/innovationrx/2026/06/03/ai-startup-collate-raises-95-million-to-automate-life-sciences-paperwork/",
+      "title": {
+        "zh": "Collate以10亿美元估值完成9500万美元融资",
+        "en": "Collate, whose AI tools automate paperwork for life sciences companies, raised $95M led by Redpoint at a ~$1B valuation, bringing its total funding to $125M"
+      },
+      "summary": {
+        "zh": "Collate开发的AI工具可为生命科学公司自动化处理文书工作，此轮融资由Redpoint领投，总融资额达1.25亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/spains-ai-business-software-group-factorial-hits-2-5-billion-valuation-10cd5396?st=cLJvwY&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Factorial完成1.5亿美元D轮融资，估值25亿美元",
+        "en": "Barcelona-based HR software startup Factorial raised a $150M Series D led by General Catalyst at a $2.5B valuation to expand AI agents and grow in Germany"
+      },
+      "summary": {
+        "zh": "总部位于巴塞罗那的HR软件初创公司Factorial计划利用融资扩展AI代理功能并拓展德国市场。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup",
+        "agent"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/nvidia-buys-enterprise-model-maker-kumo-ai-least-400-million",
+      "title": {
+        "zh": "Nvidia以4亿美元收购预测AI软件公司Kumo",
+        "en": "Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022"
+      },
+      "summary": {
+        "zh": "消息称，Nvidia以超过4亿美元收购了为企业提供预测AI软件的Kumo。PitchBook数据显示，Kumo在2022年曾以2.5亿美元估值筹集3700万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "acquisition"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-41",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "title": {
+        "zh": "安全公司利用OpenAI的Codex发现HTTP/2炸弹漏洞",
+        "en": "Security firm Calif says it used OpenAI's Codex to discover HTTP/2 Bomb, a remote DoS exploit affecting web servers like Nginx, Apache HTTPD, and Microsoft IIS"
+      },
+      "summary": {
+        "zh": "该漏洞是一种远程拒绝服务攻击，影响Nginx、Apache HTTPD和Microsoft IIS等网络服务器。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "codex",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "codex",
+        "safety"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-42",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html?unlocked_article_code=1.nVA.0wTZ.RA9uX3etLVHk&smid=nytcore-ios-share",
+      "title": {
+        "zh": "多伦多大学研究人员开发基于开源AI的“蠕虫”",
+        "en": "University of Toronto researchers claim to have developed a “worm” powered by open-source AI that exploits known flaws and tailors its attacks for each computer"
+      },
+      "summary": {
+        "zh": "该蠕虫利用已知漏洞并为每台计算机定制攻击。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "open-source",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "safety"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-43",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/palantir-s-330-million-nhs-deal-under-fire-from-uk-lawmakers",
+      "title": {
+        "zh": "英国议员呼吁终止与Palantir的NHS合同并披露军事合同细节",
+        "en": "In a report, UK lawmakers call on the government to end a £330M NHS deal with Palantir and disclose more details of a military contract with the company"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "palantir",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "palantir",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-44",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.eu/article/eu-plots-long-game-against-us-digital-supremacy/",
+      "title": {
+        "zh": "欧盟委员会推出技术主权计划，包括云和AI发展法案",
+        "en": "The EU Commission unveils its tech sovereignty package, including the EU's Cloud and AI Development Act, in a bid to reduce its reliance on US tech companies"
+      },
+      "summary": {
+        "zh": "该计划旨在减少对美国科技公司的依赖。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-49",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "title": {
+        "zh": "谷歌公布五项AI数据中心用水承诺",
+        "en": "Google unveils five AI data center water commitments, including becoming water positive by 2030, local infrastructure investments, and transparency about usage"
+      },
+      "summary": {
+        "zh": "包括到2030年实现水资源正收益、投资本地基础设施以及用水透明化。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "policy",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "policy",
+        "data-center"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-57",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/baidu-sees-healthy-ai-driven-revenue-growth-in-next-few-quarters-217fe57a?st=CyQKxG&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "百度计划2026年分拆并上市芯片部门昆仑芯",
+        "en": "Baidu CFO Henry He says the company plans to spin off and list its chip unit Kunlunxin in Hong Kong and Shanghai in 2026, making it more like a “neutral player”"
+      },
+      "summary": {
+        "zh": "百度CFO表示此举将使昆仑芯更像一个“中立玩家”。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "baidu",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "baidu",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-59",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/it-firms-binge-shop-on-ma-street-for-client-access/articleshow/131466922.cms",
+      "title": {
+        "zh": "印度IT公司自2025年以来在收购上花费创纪录的71亿美元",
+        "en": "UnearthInsight: Indian IT companies have spent a record $7.1B on acquisitions since 2025 to gain clients and market share, as AI pricing pressure weakens growth"
+      },
+      "summary": {
+        "zh": "此举旨在获取客户和市场份额，同时应对AI定价压力导致的增长放缓。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "enterprise",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise",
+        "pricing"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TM-60",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/finance/investing/silicon-valley-stalwart-benchmark-breaks-from-past-embraces-mature-startups-d69e2493",
+      "title": {
+        "zh": "Benchmark筹集20亿美元新基金，包括首个增长基金",
+        "en": "Sources: Benchmark raised $2B across two new funds, including a $1.25B fund for late-stage bets, its first growth fund after decades focusing on new startups"
+      },
+      "summary": {
+        "zh": "其中包括12.5亿美元的后期投资基金，标志着其从专注初创企业到增长阶段的转变。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/?utm_source=tldrai",
+      "title": {
+        "zh": "微软推出七款新MAI模型并与梅奥诊所合作开发AI医疗模型",
+        "en": "Building a hill-climbing machine: Launching seven new MAI models (5 minute read)"
+      },
+      "summary": {
+        "zh": "新模型支持开发者调整权重并集成到日常产品中，医疗模型将首先在梅奥诊所内部部署。",
+        "en": "Microsoft released seven new MAI models, enabling developers to tune model weights themselves and integrate these into everyday products. The models leverage Frontier Tuning, an approach where AI adapts to specific workflows through reinforcement learning environments. Microsoft also announced a collaboration with Mayo Clinic to develop an advanced AI healthcare model, combining clinical expertise with AI capabilities, initially deploying within Mayo before wider distribution through Azure Foundry."
+      },
+      "tags": [
+        "cat:model",
+        "microsoft",
+        "azure-openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "azure-openai"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.implicator.ai/minimax-promises-m3-weights-after-1m-context-model-launch/?utm_source=tldrai",
+      "title": {
+        "zh": "MiniMax承诺在推出1M上下文模型后发布M3权重",
+        "en": "MiniMax promises M3 weights after 1M-context model launch (2 minute read)"
+      },
+      "summary": {
+        "zh": "M3模型支持1M-token上下文窗口，是首个结合前沿编码和原生多模态的开源权重模型。",
+        "en": "MiniMax will release the model weights and a technical report for its M3 model within the next 10 days. The new model is currently available through MiniMax Code, token plans, and an API. It has a 1M-token context window and a guaranteed 512,000-token minimum for API use. The model is the first open-weight model to combine frontier coding, native multimodality, and a 1M-token context window. MiniMax lists standard API pricing up to 512,000 input tokens at $0.60 per million input and $2.40 per million output."
+      },
+      "tags": [
+        "cat:model",
+        "open-weights",
+        "multimodal",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-weights",
+        "multimodal",
+        "coding"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/?utm_source=tldrai",
+      "title": {
+        "zh": "Codex 新增六大角色插件功能",
+        "en": "Codex new Capabilities (6 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI 发布了 Codex 的新功能，包括六个针对数据分析、创意制作、销售、产品设计、股权投资和投行的角色插件。",
+        "en": "OpenAI released new Codex capabilities and six role-specific plug-ins for data analytics, creative production, sales, product design, equity investing, and investment banking."
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "codex"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "codex"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://a16z.com/the-next-frontier-of-visual-ai-is-code/?utm_source=tldrai",
+      "title": {
+        "zh": "视觉 AI 的下一个前沿：代码生成",
+        "en": "The Next Frontier of Visual AI Is Code (11 minute read)"
+      },
+      "summary": {
+        "zh": "视觉 AI 正从生成最终像素输出转向生成可编辑的代码，推动设计和 3D 建模工作流的变革，支持连续迭代和反馈。",
+        "en": "Visual AI is shifting from generating final pixel outputs to creating source code for editable artifacts, transforming workflows in design and 3D modeling by enabling continuous iteration and feedback. Code-native generation produces structured representations such as HTML/CSS or Blender scripts, facilitating precise edits and enhancements post-generation. This approach holds promise for industries requiring consistent 3D structures and interactive assets, with visual AI moving towards creating adaptive, editable digital artifacts rather than just static images."
+      },
+      "tags": [
+        "cat:tech",
+        "image-gen",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "image-gen",
+        "coding"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different?utm_source=tldrai",
+      "title": {
+        "zh": "开放与封闭模型的不同发展轨迹",
+        "en": "Open and closed models are on different exponentials (8 minute read)"
+      },
+      "summary": {
+        "zh": "尽管许多企业希望转向开放模型，但目前这些模型在分布外任务上的表现尚不够好。然而，开放模型生态系统未来将更为多样化，市场价值可能超过封闭模型。",
+        "en": "A lot of businesses want to switch to open models, but these models aren't yet good enough in out-of-distribution tasks. However, they will eventually catch up. The open model ecosystem will be far more diverse and numerous than the closed lab oligopoly. The total market value of the open model economy will dramatically exceed the cumulative value of OpenAI and Anthropic."
+      },
+      "tags": [
+        "cat:other",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://vercel.com/blog/protecting-against-token-theft?utm_source=tldrai",
+      "title": {
+        "zh": "防止大规模 AI 推理盗窃的新方法",
+        "en": "Preventing AI Inference Theft at Scale (5 minute read)"
+      },
+      "summary": {
+        "zh": "Vercel 介绍了如何通过 BotID 分析验证每个 AI 请求，减少滥用行为，解决传统速率限制不足的问题。",
+        "en": "Vercel outlined how attackers resell stolen AI inference by exploiting exposed endpoints and highlighted why traditional rate limits are often insufficient. The post describes an approach that verifies every AI request using BotID analysis to reduce abuse."
+      },
+      "tags": [
+        "cat:tech",
+        "safety",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "safety",
+        "inference"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.perplexity.ai/hub/blog/the-data-center-moves-to-your-machine?utm_source=tldrai",
+      "title": {
+        "zh": "数据中心迁移至本地设备：Perplexity 推出混合推理系统",
+        "en": "The Data Center Moves to Your Machine (4 minute read)"
+      },
+      "summary": {
+        "zh": "Perplexity 在 Computex 2026 发布了混合本地-云推理系统，可智能分配任务至本地或云端模型。",
+        "en": "Perplexity unveiled a hybrid local-cloud inference system at Computex 2026 that intelligently routes queries between on-device models for lightweight tasks and cloud-based models for complex reasoning, building on the company's earlier Personal Computer agent."
+      },
+      "tags": [
+        "cat:tech",
+        "perplexity",
+        "inference",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "perplexity",
+        "inference",
+        "data-center"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 面临 AI 成本争议，IPO 前景受影响",
+        "en": "Anthropic faces AI spending backlash before IPO (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 在 IPO 前面临企业对高昂 AI 成本的质疑，尽管其业务表现强劲，但客户可能转向更便宜的模型或开源替代方案。",
+        "en": "Anthropic filed for an IPO amid growing corporate scrutiny over high AI costs, which threatens its revenue as companies reevaluate their AI investments. Businesses, Anthropic's key clients, express concerns over spending, with a survey revealing 40% experiencing cost savings below 10%. Despite Anthropic's strong performance, including surpassing OpenAI in business clients, a shift towards cheaper models or open-source alternatives poses a risk."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "ipo",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "ipo",
+        "pricing"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/02/anthropic-mythos-ai-project-glasswing.html?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 将 Mythos 扩展至 15 个国家的 150 个组织",
+        "en": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 将 Project Glasswing 扩展至 150 个合作伙伴，需满足安全要求后方可访问模型，已发现超过 10,000 个高危安全漏洞。",
+        "en": "Anthropic has expanded Project Glasswing to an additional 150 partners in more than 15 countries. The new partners will need to meet security requirements before gaining access to the model. Since launch, Project Glasswing partners have discovered more than 10,000 high or critical-level security flaws. Major Project Glasswing partners include Apple, Nvidia, Microsoft, CrowdStrike, and Palo Alto Networks."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "safety"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.latent.space/p/github?utm_source=tldrai",
+      "title": {
+        "zh": "GitHub 的 AI 代理计划",
+        "en": "GitHub's plan for Agents (90 minute read)"
+      },
+      "summary": {
+        "zh": "GitHub COO Kyle Daigle 讨论了 AI 如何改变公司运作、他在 GitHub 使用 AI 的方式，以及 AI 时代对 GitHub 基础设施的影响。",
+        "en": "GitHub has been the home for software for almost two decades. Coding agents have seen massive quantities of code being shipped on the platform, which has grown 1,400% this year. This has put pressure on GitHub's infrastructure, which was designed around human developers moving at human speed. This article features an interview with GitHub COO Kyle Daigle where he discusses how AI has changed things in the company, how he uses AI to work at GitHub, why the AI era is breaking GitHub in new ways, and more."
+      },
+      "tags": [
+        "cat:other",
+        "github",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "github",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-03"
     }
   ],
   "tag_index": {
@@ -1704,14 +2752,16 @@
       "2026-06-02:TM-16",
       "2026-06-02:TL-03",
       "2026-06-02:TL-08",
-      "2026-06-02:TL-12"
+      "2026-06-02:TL-12",
+      "2026-06-03:TM-36"
     ],
     "chip": [
       "2026-06-01:TM-01",
       "2026-06-01:TM-10",
       "2026-06-01:TM-50",
       "2026-06-02:TM-11",
-      "2026-06-02:TL-12"
+      "2026-06-02:TL-12",
+      "2026-06-03:TM-57"
     ],
     "anthropic": [
       "2026-06-01:TM-02",
@@ -1720,14 +2770,20 @@
       "2026-06-02:TM-02",
       "2026-06-02:TM-07",
       "2026-06-02:TM-19",
-      "2026-06-02:TL-04"
+      "2026-06-02:TL-04",
+      "2026-06-03:TM-16",
+      "2026-06-03:TM-17",
+      "2026-06-03:TL-10",
+      "2026-06-03:TL-11"
     ],
     "ipo": [
       "2026-06-01:TM-02",
       "2026-06-01:TM-45",
       "2026-06-02:TM-07",
       "2026-06-02:TM-21",
-      "2026-06-02:TL-04"
+      "2026-06-02:TL-04",
+      "2026-06-03:TM-26",
+      "2026-06-03:TL-10"
     ],
     "openai": [
       "2026-06-01:TM-04",
@@ -1735,7 +2791,13 @@
       "2026-06-01:TL-17",
       "2026-06-02:TM-07",
       "2026-06-02:TM-45",
-      "2026-06-02:TL-02"
+      "2026-06-02:TL-02",
+      "2026-06-03:TM-03",
+      "2026-06-03:TM-07",
+      "2026-06-03:TM-14",
+      "2026-06-03:TM-16",
+      "2026-06-03:TM-41",
+      "2026-06-03:TL-03"
     ],
     "sam-altman": [
       "2026-06-01:TM-04",
@@ -1749,7 +2811,11 @@
       "2026-06-01:TM-05",
       "2026-06-02:TM-19",
       "2026-06-02:TM-41",
-      "2026-06-02:TL-11"
+      "2026-06-02:TL-11",
+      "2026-06-03:TM-05",
+      "2026-06-03:TM-11",
+      "2026-06-03:TM-12",
+      "2026-06-03:TM-49"
     ],
     "funding": [
       "2026-06-01:TM-05",
@@ -1761,7 +2827,16 @@
       "2026-06-01:TM-38",
       "2026-06-01:TL-13",
       "2026-06-02:TM-39",
-      "2026-06-02:TL-11"
+      "2026-06-02:TL-11",
+      "2026-06-03:TM-22",
+      "2026-06-03:TM-23",
+      "2026-06-03:TM-24",
+      "2026-06-03:TM-25",
+      "2026-06-03:TM-26",
+      "2026-06-03:TM-27",
+      "2026-06-03:TM-28",
+      "2026-06-03:TM-30",
+      "2026-06-03:TM-60"
     ],
     "policy": [
       "2026-06-01:TM-09",
@@ -1769,7 +2844,11 @@
       "2026-06-01:TM-52",
       "2026-06-01:TL-10",
       "2026-06-02:TM-30",
-      "2026-06-02:TL-12"
+      "2026-06-02:TL-12",
+      "2026-06-03:TM-19",
+      "2026-06-03:TM-43",
+      "2026-06-03:TM-44",
+      "2026-06-03:TM-49"
     ],
     "robotics": [
       "2026-06-01:TM-11",
@@ -1790,14 +2869,20 @@
       "2026-06-01:TM-13",
       "2026-06-01:TM-23",
       "2026-06-02:TM-27",
-      "2026-06-02:TM-45"
+      "2026-06-02:TM-45",
+      "2026-06-03:TM-49",
+      "2026-06-03:TL-08"
     ],
     "coding": [
       "2026-06-01:TM-16",
       "2026-06-01:TL-02",
       "2026-06-01:TL-09",
       "2026-06-02:TM-45",
-      "2026-06-02:TL-09"
+      "2026-06-02:TL-09",
+      "2026-06-03:TM-11",
+      "2026-06-03:TL-02",
+      "2026-06-03:TL-04",
+      "2026-06-03:TL-12"
     ],
     "microsoft": [
       "2026-06-01:TM-20",
@@ -1805,7 +2890,9 @@
       "2026-06-02:TM-03",
       "2026-06-02:TM-09",
       "2026-06-02:TM-10",
-      "2026-06-02:TM-11"
+      "2026-06-02:TM-11",
+      "2026-06-03:TM-07",
+      "2026-06-03:TL-01"
     ],
     "copilot": [
       "2026-06-01:TM-20",
@@ -1829,14 +2916,21 @@
       "2026-06-01:TM-38",
       "2026-06-01:TL-13",
       "2026-06-02:TM-36",
-      "2026-06-02:TM-39"
+      "2026-06-02:TM-39",
+      "2026-06-03:TM-24",
+      "2026-06-03:TM-25",
+      "2026-06-03:TM-27",
+      "2026-06-03:TM-28",
+      "2026-06-03:TM-30",
+      "2026-06-03:TM-60"
     ],
     "energy": [
       "2026-06-01:TM-23"
     ],
     "image-gen": [
       "2026-06-01:TM-36",
-      "2026-06-01:TL-06"
+      "2026-06-01:TL-06",
+      "2026-06-03:TL-04"
     ],
     "quantum": [
       "2026-06-01:TM-45",
@@ -1846,7 +2940,9 @@
       "2026-06-01:TM-46"
     ],
     "pricing": [
-      "2026-06-01:TM-46"
+      "2026-06-01:TM-46",
+      "2026-06-03:TM-59",
+      "2026-06-03:TL-10"
     ],
     "agent": [
       "2026-06-01:TM-52",
@@ -1859,7 +2955,11 @@
       "2026-06-02:TM-17",
       "2026-06-02:TL-01",
       "2026-06-02:TL-07",
-      "2026-06-02:TL-09"
+      "2026-06-02:TL-09",
+      "2026-06-03:TM-09",
+      "2026-06-03:TM-16",
+      "2026-06-03:TM-30",
+      "2026-06-03:TL-12"
     ],
     "autonomous-driving": [
       "2026-06-01:TM-52",
@@ -1868,10 +2968,13 @@
     "open-weights": [
       "2026-06-01:TL-02",
       "2026-06-01:TL-06",
-      "2026-06-02:TM-16"
+      "2026-06-02:TM-16",
+      "2026-06-03:TL-02"
     ],
     "claude": [
-      "2026-06-01:TL-05"
+      "2026-06-01:TL-05",
+      "2026-06-03:TM-14",
+      "2026-06-03:TM-17"
     ],
     "xai": [
       "2026-06-01:TL-09",
@@ -1887,7 +2990,8 @@
     "enterprise": [
       "2026-06-01:TL-10",
       "2026-06-02:TM-10",
-      "2026-06-02:TM-18"
+      "2026-06-02:TM-18",
+      "2026-06-03:TM-59"
     ],
     "gpt": [
       "2026-06-01:TL-17"
@@ -1895,14 +2999,20 @@
     "safety": [
       "2026-06-01:TL-17",
       "2026-06-02:TM-19",
-      "2026-06-02:TM-41"
+      "2026-06-02:TM-41",
+      "2026-06-03:TM-41",
+      "2026-06-03:TM-42",
+      "2026-06-03:TL-07",
+      "2026-06-03:TL-11"
     ],
     "perplexity": [
       "2026-06-02:TM-17",
-      "2026-06-02:TL-07"
+      "2026-06-02:TL-07",
+      "2026-06-03:TL-08"
     ],
     "meta": [
-      "2026-06-02:TM-19"
+      "2026-06-02:TM-19",
+      "2026-06-03:TM-09"
     ],
     "oracle": [
       "2026-06-02:TM-27"
@@ -1917,24 +3027,61 @@
       "2026-06-02:TM-47"
     ],
     "alibaba": [
-      "2026-06-02:TL-01"
+      "2026-06-02:TL-01",
+      "2026-06-03:TM-08"
     ],
     "qwen": [
-      "2026-06-02:TL-01"
+      "2026-06-02:TL-01",
+      "2026-06-03:TM-08"
     ],
     "multimodal": [
       "2026-06-02:TL-01",
       "2026-06-02:TL-06",
-      "2026-06-02:TL-08"
+      "2026-06-02:TL-08",
+      "2026-06-03:TM-08",
+      "2026-06-03:TM-12",
+      "2026-06-03:TL-02"
     ],
     "codex": [
-      "2026-06-02:TL-02"
+      "2026-06-02:TL-02",
+      "2026-06-03:TM-41",
+      "2026-06-03:TL-03"
     ],
     "video-gen": [
       "2026-06-02:TL-06"
     ],
     "search": [
-      "2026-06-02:TL-07"
+      "2026-06-02:TL-07",
+      "2026-06-03:TM-05"
+    ],
+    "chatgpt": [
+      "2026-06-03:TM-14"
+    ],
+    "tencent": [
+      "2026-06-03:TM-22"
+    ],
+    "acquisition": [
+      "2026-06-03:TM-36"
+    ],
+    "open-source": [
+      "2026-06-03:TM-42",
+      "2026-06-03:TL-05"
+    ],
+    "palantir": [
+      "2026-06-03:TM-43"
+    ],
+    "baidu": [
+      "2026-06-03:TM-57"
+    ],
+    "azure-openai": [
+      "2026-06-03:TL-01"
+    ],
+    "inference": [
+      "2026-06-03:TL-07",
+      "2026-06-03:TL-08"
+    ],
+    "github": [
+      "2026-06-03:TL-12"
     ]
   },
   "category_index": {
@@ -1950,7 +3097,13 @@
       "2026-06-02:TM-27",
       "2026-06-02:TM-47",
       "2026-06-02:TL-06",
-      "2026-06-02:TL-07"
+      "2026-06-02:TL-07",
+      "2026-06-03:TM-16",
+      "2026-06-03:TM-41",
+      "2026-06-03:TM-42",
+      "2026-06-03:TL-04",
+      "2026-06-03:TL-07",
+      "2026-06-03:TL-08"
     ],
     "cat:business": [
       "2026-06-01:TM-02",
@@ -1972,7 +3125,20 @@
       "2026-06-02:TM-36",
       "2026-06-02:TM-39",
       "2026-06-02:TL-04",
-      "2026-06-02:TL-11"
+      "2026-06-02:TL-11",
+      "2026-06-03:TM-22",
+      "2026-06-03:TM-23",
+      "2026-06-03:TM-24",
+      "2026-06-03:TM-25",
+      "2026-06-03:TM-26",
+      "2026-06-03:TM-27",
+      "2026-06-03:TM-28",
+      "2026-06-03:TM-30",
+      "2026-06-03:TM-36",
+      "2026-06-03:TM-57",
+      "2026-06-03:TM-59",
+      "2026-06-03:TM-60",
+      "2026-06-03:TL-10"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -1984,7 +3150,18 @@
       "2026-06-02:TM-19",
       "2026-06-02:TM-30",
       "2026-06-02:TM-45",
-      "2026-06-02:TL-12"
+      "2026-06-02:TL-12",
+      "2026-06-03:TM-03",
+      "2026-06-03:TM-07",
+      "2026-06-03:TM-11",
+      "2026-06-03:TM-14",
+      "2026-06-03:TM-17",
+      "2026-06-03:TM-19",
+      "2026-06-03:TM-43",
+      "2026-06-03:TM-44",
+      "2026-06-03:TM-49",
+      "2026-06-03:TL-05",
+      "2026-06-03:TL-12"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -1996,7 +3173,11 @@
       "2026-06-02:TL-01",
       "2026-06-02:TL-03",
       "2026-06-02:TL-08",
-      "2026-06-02:TL-09"
+      "2026-06-02:TL-09",
+      "2026-06-03:TM-08",
+      "2026-06-03:TM-12",
+      "2026-06-03:TL-01",
+      "2026-06-03:TL-02"
     ],
     "cat:app": [
       "2026-06-01:TM-46",
@@ -2006,64 +3187,84 @@
       "2026-06-02:TM-10",
       "2026-06-02:TM-17",
       "2026-06-02:TM-41",
-      "2026-06-02:TL-02"
+      "2026-06-02:TL-02",
+      "2026-06-03:TM-05",
+      "2026-06-03:TM-09",
+      "2026-06-03:TL-03",
+      "2026-06-03:TL-11"
     ]
   },
   "tag_stats": [
     {
-      "tag": "agent",
-      "count": 11
-    },
-    {
-      "tag": "nvidia",
-      "count": 10
-    },
-    {
       "tag": "funding",
-      "count": 10
+      "count": 19
     },
     {
       "tag": "startup",
-      "count": 9
+      "count": 15
     },
     {
-      "tag": "anthropic",
-      "count": 7
+      "tag": "agent",
+      "count": 15
     },
     {
       "tag": "openai",
-      "count": 6
+      "count": 12
+    },
+    {
+      "tag": "nvidia",
+      "count": 11
+    },
+    {
+      "tag": "anthropic",
+      "count": 11
     },
     {
       "tag": "policy",
-      "count": 6
-    },
-    {
-      "tag": "microsoft",
-      "count": 6
-    },
-    {
-      "tag": "chip",
-      "count": 5
-    },
-    {
-      "tag": "ipo",
-      "count": 5
+      "count": 10
     },
     {
       "tag": "coding",
-      "count": 5
+      "count": 9
     },
     {
       "tag": "google",
-      "count": 4
+      "count": 8
+    },
+    {
+      "tag": "microsoft",
+      "count": 8
+    },
+    {
+      "tag": "ipo",
+      "count": 7
+    },
+    {
+      "tag": "safety",
+      "count": 7
+    },
+    {
+      "tag": "chip",
+      "count": 6
     },
     {
       "tag": "data-center",
-      "count": 4
+      "count": 6
+    },
+    {
+      "tag": "multimodal",
+      "count": 6
     },
     {
       "tag": "reasoning",
+      "count": 4
+    },
+    {
+      "tag": "open-weights",
+      "count": 4
+    },
+    {
+      "tag": "enterprise",
       "count": 4
     },
     {
@@ -2071,19 +3272,23 @@
       "count": 3
     },
     {
-      "tag": "open-weights",
+      "tag": "image-gen",
       "count": 3
     },
     {
-      "tag": "enterprise",
+      "tag": "pricing",
       "count": 3
     },
     {
-      "tag": "safety",
+      "tag": "claude",
       "count": 3
     },
     {
-      "tag": "multimodal",
+      "tag": "perplexity",
+      "count": 3
+    },
+    {
+      "tag": "codex",
       "count": 3
     },
     {
@@ -2103,10 +3308,6 @@
       "count": 2
     },
     {
-      "tag": "image-gen",
-      "count": 2
-    },
-    {
       "tag": "quantum",
       "count": 2
     },
@@ -2123,7 +3324,27 @@
       "count": 2
     },
     {
-      "tag": "perplexity",
+      "tag": "meta",
+      "count": 2
+    },
+    {
+      "tag": "alibaba",
+      "count": 2
+    },
+    {
+      "tag": "qwen",
+      "count": 2
+    },
+    {
+      "tag": "search",
+      "count": 2
+    },
+    {
+      "tag": "open-source",
+      "count": 2
+    },
+    {
+      "tag": "inference",
       "count": 2
     },
     {
@@ -2147,23 +3368,11 @@
       "count": 1
     },
     {
-      "tag": "pricing",
-      "count": 1
-    },
-    {
-      "tag": "claude",
-      "count": 1
-    },
-    {
       "tag": "gemini",
       "count": 1
     },
     {
       "tag": "gpt",
-      "count": 1
-    },
-    {
-      "tag": "meta",
       "count": 1
     },
     {
@@ -2183,50 +3392,62 @@
       "count": 1
     },
     {
-      "tag": "alibaba",
-      "count": 1
-    },
-    {
-      "tag": "qwen",
-      "count": 1
-    },
-    {
-      "tag": "codex",
-      "count": 1
-    },
-    {
       "tag": "video-gen",
       "count": 1
     },
     {
-      "tag": "search",
+      "tag": "chatgpt",
+      "count": 1
+    },
+    {
+      "tag": "tencent",
+      "count": 1
+    },
+    {
+      "tag": "acquisition",
+      "count": 1
+    },
+    {
+      "tag": "palantir",
+      "count": 1
+    },
+    {
+      "tag": "baidu",
+      "count": 1
+    },
+    {
+      "tag": "azure-openai",
+      "count": 1
+    },
+    {
+      "tag": "github",
       "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 20,
+      "count": 33,
       "label_zh": "新商业"
     },
     {
-      "tag": "cat:tech",
-      "count": 12,
-      "label_zh": "新技术"
-    },
-    {
       "tag": "cat:other",
-      "count": 10,
+      "count": 21,
       "label_zh": "其它"
     },
     {
+      "tag": "cat:tech",
+      "count": 18,
+      "label_zh": "新技术"
+    },
+    {
       "tag": "cat:model",
-      "count": 10,
+      "count": 14,
       "label_zh": "新模型"
     },
     {
       "tag": "cat:app",
-      "count": 8,
+      "count": 12,
       "label_zh": "新应用"
     }
   ]

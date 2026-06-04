@@ -1,0 +1,458 @@
+{
+  "date": "2026-06-03",
+  "threshold": 7.0,
+  "total": 75,
+  "kept": 38,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及 SpaceX 的 IPO 计划。"
+    },
+    {
+      "id": "TM-02",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要是关于 Alphabet 的融资计划，未涉及 AI 相关内容。"
+    },
+    {
+      "id": "TM-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI 提出的新政策与 AI 监管相关，具有行业影响力。"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta 的定价策略更新，虽有产品洞察但信息量有限。"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Google 在搜索结果中引入新功能，涉及 AI 应用的用户选择。"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "数据中心建设进度滞后，信息量一般，未直接涉及 AI。"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Microsoft 的战略目标与 OpenAI 合作相关，值得关注。"
+    },
+    {
+      "id": "TM-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Alibaba 发布新模型，具有技术创新和成本优势。"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta 推出的 AI 代理工具对商业应用有重要影响。"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Meta 内部努力的报道，信息量一般。"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Google 的开发者计划涉及 AI 工具训练，具有行业意义。"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Google 发布新型多模态模型，技术上具有创新性。"
+    },
+    {
+      "id": "TM-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "亚马逊的新视觉搜索功能，信息量一般。"
+    },
+    {
+      "id": "TM-14",
+      "score": 9.0,
+      "keep": true,
+      "reason": "ChatGPT 用户增长显著，反映出 AI 应用的市场趋势。"
+    },
+    {
+      "id": "TM-15",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 政治活动相关，但信息量有限。"
+    },
+    {
+      "id": "TM-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "关于 AI 自我改进的探索，具有前沿技术洞察。"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic 的合作网络更新，具有行业影响力。"
+    },
+    {
+      "id": "TM-18",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 AI 工作影响的讨论，信息量一般。"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "印度在 AI 领域的战略与挑战，具有行业相关性。"
+    },
+    {
+      "id": "TM-20",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要是财报信息，与 AI 关系不大。"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "财报信息，未涉及 AI 相关内容。"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "DeepSeek 的融资计划，涉及 AI 领域的投资动态。"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Lila Sciences 的融资计划，涉及 AI 工具的应用。"
+    },
+    {
+      "id": "TM-24",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 音乐初创公司融资情况，显示出市场活跃度。"
+    },
+    {
+      "id": "TM-25",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Apoha 的新数据层开发，涉及 AI 相关技术。"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AlphaSense的融资和估值大幅提升，显示出AI市场的强劲增长潜力，值得关注。"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Coralogix的融资显示出软件监控领域的持续投资热潮，具有一定的市场洞察。"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Collate的融资表明AI在生命科学领域的应用正在获得重视，值得关注。"
+    },
+    {
+      "id": "TM-29",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Lassie的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-30",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Factorial的融资和扩展计划显示出AI在HR领域的应用潜力，值得关注。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Quobly的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "ZutaCore的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-33",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Wordsmith的融资显示出法律领域对AI工具的需求，但信息量有限。"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Town的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Layup Parts的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-36",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Nvidia收购Kumo的交易显示出AI领域的整合趋势，具有重要战略意义。"
+    },
+    {
+      "id": "TM-37",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Forage的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-38",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Gigaton的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-39",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Terra AI的融资信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-40",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta的用户警告涉及AI安全问题，具有一定的行业关注度。"
+    },
+    {
+      "id": "TM-41",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Calif利用OpenAI的Codex发现安全漏洞，显示AI在网络安全领域的应用潜力。"
+    },
+    {
+      "id": "TM-42",
+      "score": 8.0,
+      "keep": true,
+      "reason": "多伦多大学的研究涉及AI安全攻击，具有重要的行业警示意义。"
+    },
+    {
+      "id": "TM-43",
+      "score": 8.0,
+      "keep": true,
+      "reason": "英国立法者对Palantir的呼吁涉及重要的政策和透明度问题，值得关注。"
+    },
+    {
+      "id": "TM-44",
+      "score": 9.0,
+      "keep": true,
+      "reason": "欧盟发布技术主权计划，显示出对AI和云技术的政策重视，具有重要行业影响。"
+    },
+    {
+      "id": "TM-45",
+      "score": 5.0,
+      "keep": false,
+      "reason": "EU的数字公平法案对游戏行业的影响较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-46",
+      "score": 6.0,
+      "keep": false,
+      "reason": "欧盟法院对Meta的裁决涉及重要的反垄断政策，具有一定的行业关注度。"
+    },
+    {
+      "id": "TM-47",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Europol的行动信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-48",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Apple的反垄断调查信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-49",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Google的水资源承诺显示出企业在可持续发展方面的努力，值得关注。"
+    },
+    {
+      "id": "TM-50",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Apple开发者中心的开设信息较为常规，未能突出行业变革。"
+    },
+    {
+      "id": "TM-51",
+      "score": 6.0,
+      "keep": false,
+      "reason": "公司裁员并转型为AI时代的企业平台，具有一定行业影响力"
+    },
+    {
+      "id": "TM-52",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于稳定币的计划，信息量较常规"
+    },
+    {
+      "id": "TM-53",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta的业务调整，信息量一般"
+    },
+    {
+      "id": "TM-54",
+      "score": 6.0,
+      "keep": false,
+      "reason": "五眼国家警告中国网络安全问题，具有一定重要性"
+    },
+    {
+      "id": "TM-55",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关联不大，主要关注个人财富"
+    },
+    {
+      "id": "TM-56",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于游戏玩家统计的常规信息，信息量有限"
+    },
+    {
+      "id": "TM-57",
+      "score": 7.0,
+      "keep": true,
+      "reason": "百度计划分拆芯片业务，具有战略意义"
+    },
+    {
+      "id": "TM-58",
+      "score": 6.0,
+      "keep": false,
+      "reason": "初创公司融资情况，信息量一般"
+    },
+    {
+      "id": "TM-59",
+      "score": 7.0,
+      "keep": true,
+      "reason": "印度IT公司收购活动增加，反映市场变化"
+    },
+    {
+      "id": "TM-60",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Benchmark融资情况，值得关注的投资动态"
+    },
+    {
+      "id": "TM-61",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关联不大，主要是政策变化"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "微软发布新AI模型并与医疗机构合作，具有重大影响"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "MiniMax发布新模型权重，具有技术更新的价值"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI发布Codex新功能，具有产品洞察价值"
+    },
+    {
+      "id": "TL-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "视觉AI的新趋势，具有行业洞察价值"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "开放模型与封闭模型的市场分析，值得关注"
+    },
+    {
+      "id": "TL-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于记忆在智能中的作用的讨论，信息量一般"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于防止AI推理盗窃的技术探讨，具有实用价值"
+    },
+    {
+      "id": "TL-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新型混合推理系统的发布，具有技术创新价值"
+    },
+    {
+      "id": "TL-09",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于注意力机制的技术细节，信息量较小"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic面临AI支出压力，具有行业影响"
+    },
+    {
+      "id": "TL-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic扩展项目合作伙伴，具有战略意义"
+    },
+    {
+      "id": "TL-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "GitHub讨论AI对开发的影响，具有行业洞察"
+    },
+    {
+      "id": "TL-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于记忆实现的调查，信息量一般"
+    },
+    {
+      "id": "TL-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "TinyFish发布新系统，具有一定技术价值"
+    }
+  ]
+}

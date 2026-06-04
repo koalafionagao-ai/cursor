@@ -1,0 +1,303 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at almost $1.77T
+Tweets:
+  - Author: @munster_gene
+    Text: When discussing how @SpaceX will trade in the month after its IPO, the $1.77T valuation is less important.  The bigger number is the $75B primary raise (potentially $86B with overallotment), which should fuel an IPO pop given the very limited float.  Longer term, there should be little debate.  SpaceX should be a core tech holding.  Like him or not, Elon is a generational founder, and the company's position as the leader in sovereign AI stands alone when it comes to durable long term growth potential.
+    Link ID: TM-01-TW-01
+  - Author: @stocksavvyshay
+    Text: SpaceX is targeting an IPO at $135 per share. Elon Musk's shares would remain locked up for 366 days following the IPO limiting insider selling pressure during the first year [image]
+    Link ID: TM-01-TW-02
+  - Author: @edludlow
+    Text: We also reported that SpaceX is looking at $135 a share and 556.5 million shares seeking to raise $75 billion. Highly unusual in terms of chronology of roadshow, a price range and marketing of the IPO. But @elonmusk doesnt do things the way public company execs do.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Analysis: 10 Trump officials, including special envoy Steve Witkoff, reported holding stakes in SpaceX or xAI collectively worth $9.9M+, ahead of SpaceX's IPO
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: Alphabet upsized its equity raise to $84.75B, including $35B in underwritten public offerings, up from a planned $30B; a source says it contacted ~75 investors
+Tweets:
+  - Author: @sundarpichai
+    Text: On Monday we announced an equity offering for Alphabet - part of our multi-year investment strategy to meet the AI opportunity ahead and support the demand we're seeing from enterprises and consumers.  Pleased to share the offering was well over-subscribed.  We raised a total of ~$45B, with an additional $40B to come as part of an “at the market” program starting in Q3 (for a total of ~ $85B).  A huge thank you to our investors, including Berkshire Hathaway who invested $10B.
+    Link ID: TM-02-TW-01
+  - Author: @dgt10011
+    Text: Wow, what a moment to see that Alphabet is hitting the primary market to raise a whopping 80Bn dollars (consider GOOG raised less than 2Bn at IPO 20+years ago)!  While the main focus has been on the unusual scale of the ATM offering alongside Berkshire Hathaway's “signal”, I actually think the most interesting feature is what crypto investors already have some unique insights to underwrite: the 15Bn dollars to be raised in the form of a MANDATORY CONVERTIBLE PREFERRED offering
+    Link ID: TM-02-TW-02
+  - Author: @thetranscript_
+    Text: Alphabet CEO @sundarpichai : “In 2022, we spent ~$31B in CapEx.  This year, we expect that number to be 6X larger than 2022 & 2X last year's at $180-190B.  And next year, we expect it to significantly increase compared to 2026.  The overwhelming majority of this spend will be in technical infrastructure.”
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Nearly 40% of Alphabet's planned ~$85B in equity offerings for AI will go toward covering tax obligations tied to employee equity awards, amid the AI talent war
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: OpenAI diverges from Trump's AI EO in a new policy paper, proposing cyber risk evaluations for advanced AI systems be mandatory and led by CAISI, not the NSA
+Tweets:
+  - Author: @_nathancalvin
+    Text: Overall my reaction to this doc is pleasant surprise, and I think this proposal takes AI progress and risks seriously, including more “far out” risks from recursive self improvement and loss of control.  Incomplete list of things I like: -The section on building up CAISI is strong and sensible...-Discussion of the importance of international collaboration on AI safety.  Some of the language here is very direct and clear-eyed about the potential for extreme risks...-The proposal mentions risks from recursive self-improvement fifteen times!  This risk vector is something that is taken extremely seriously among the labs...OpenAI explicitly rejects liability safe harbors
+    Link ID: TM-03-TW-01
+  - Author: @w01fe
+    Text: Very excited about this to be out, and to hear feedback! I think there is a lot of good stuff in here, from expanded role of CAISI, to RSI safety, to more nuanced stance on preemption, and much more.
+    Link ID: TM-03-TW-02
+  - Author: @deanwball
+    Text: This seems reasonable!  Having CAISI—a civilian agency—conduct this testing in primarily non-classified ways is the way to ensure it does not become a licensing regime.  The Trump EO's classification of the process raises the risk that testing morphs into a de facto mandatory permitting/licensing system.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Internal documents: Meta is considering tiered pricing for “Hatch”, its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription
+---
+ID: TM-05
+Title: Google says it is testing a new toggle inside its Search Console with some UK domain owners, letting them decide whether their sites appear in AI search results
+Sub Items:
+  - Title: The UK CMA says publishers in the country will be allowed to opt out of Google's AI Overviews search results, giving Google nine months to implement the changes
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: The US data center build-out is falling behind schedule; JP Morgan says 60%+ of data center capacity planned for completion in 2027 isn't yet under construction
+Sub Items:
+  - Title: Google selling $10B of equity to Berkshire is fascinating and functions as a signal that AI demand is high, in a world where the most cash buys the most compute
+    Link ID: TM-06-SUB-01
+---
+ID: TM-07
+Title: Mustafa Suleyman says Microsoft aims to become “one of the top four labs in the world”, and “the pivotal moment was renegotiating our contract with OpenAI”
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Alibaba releases Qwen3.7-Plus, a multimodal proprietary model with a 1M-token context window, costing $2 per 1M tokens, 60% less than the text-only Qwen3.7-Max
+---
+ID: TM-09
+Title: Meta introduces Meta Business Agent, an AI agent that lets businesses on WhatsApp, Instagram, and Messenger answer customer questions, close sales, and more
+---
+ID: TM-10
+Title: Current and former Meta employees detail Alexandr Wang's efforts to revive Meta's AI edge; Muse Spark has good visual understanding but trails rivals in coding
+---
+ID: TM-11
+Title: Email: Google asked Google Play app developers to “join a confidential content offer pilot”, offering to pay for codebase access to train its AI coding tools
+---
+ID: TM-12
+Title: Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory
+---
+ID: TM-13
+Title: Amazon announces new visual search features, including displaying AI-generated images of products within its app based on users' search queries
+---
+ID: TM-14
+Title: Sensor Tower: ChatGPT becomes the fastest app by far to hit 1B global MAUs; ChatGPT's MAUs are up 62% YoY in Q2 to date and Claude's MAUs are up 640% YoY to 56M
+---
+ID: TM-15
+Title: Leading the Future, the pro-AI super PAC backed by Greg Brockman, appears to be linked to multiple sockpuppet accounts, including a purported anti-AI activist
+---
+ID: TM-16
+Title: How OpenAI, Anthropic, and other AI startups are pursuing recursive self-improvement, in a bid to build AI that can improve itself with little to no human input
+---
+ID: TM-17
+Title: Anthropic unveils a Services Track for its Claude Partner Network, a ranking based on what companies built with Claude, and releases a Claude Partner Hub portal
+---
+ID: TM-18
+Title: Q&A with labor economist Kathryn Anne Edwards on why much of the AI jobs panic is overblown, why the US should start to plan for AI job loss scenarios, and more
+---
+ID: TM-19
+Title: How India's ambitions to build and export a sovereign AI template are colliding with structural constraints, including a dependence on foreign AI infrastructure
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-20
+Title: Broadcom reports Q2 revenue up 48% YoY to $22.19B, vs. $22.27B est., and forecasts Q3 semiconductor revenue from AI below estimates; AVGO drops 12%+ after hours
+---
+ID: TM-21
+Title: CrowdStrike reports Q1 revenue up 26% YoY to $1.39B, vs. $1.36B est., and forecasts Q2 revenue of about $1.44B, vs. $1.43B est.; CRWD drops 9%+ after hours
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-22
+Title: Sources: DeepSeek is set to raise ~$7.4B in its first funding round from investors, including Tencent and CATL, at a valuation of between ~$52B and ~$59B
+---
+ID: TM-23
+Title: Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B
+---
+ID: TM-24
+Title: AI music startup Suno raised $400M led by Bond at a $5.4B valuation, up from $2.45B after raising $250M in November 2025, and passed 2M subscribers in February
+---
+ID: TM-25
+Title: Apoha, which is developing a “Liquid State Intelligence” data layer to measure molecules in the real world, emerges from stealth with $36M led by Singular
+---
+ID: TM-26
+Title: AI market research platform AlphaSense raised $350M from Vitruvian, Accenture, and others at a $7.5B valuation, up from $4B in 2024, ahead of a possible IPO
+---
+ID: TM-27
+Title: Boston-based software monitoring startup Coralogix raised a $200M Series F at a $1.6B post-money valuation, up from $1B+ after a $115M Series E in June 2025
+---
+ID: TM-28
+Title: Collate, whose AI tools automate paperwork for life sciences companies, raised $95M led by Redpoint at a ~$1B valuation, bringing its total funding to $125M
+---
+ID: TM-29
+Title: Lassie, whose AI agent helps dental practices automate admin work, raised a $35M Series A led by a16z, a source says, at a ~$250M valuation
+---
+ID: TM-30
+Title: Barcelona-based HR software startup Factorial raised a $150M Series D led by General Catalyst at a $2.5B valuation to expand AI agents and grow in Germany
+---
+ID: TM-31
+Title: French quantum computing startup Quobly, which is developing silicon-based quantum computers, raised a €115M Series A led by Bpifrance, SEALSQ, and STMicro
+---
+ID: TM-32
+Title: Israeli startup ZutaCore, which builds direct-to-chip liquid data center cooling systems, raised a $100M Series C from Mitsubishi and more at a $600M valuation
+---
+ID: TM-33
+Title: Wordsmith, whose AI tools help in-house lawyers draft contracts, handle legal questions, and more, raised a $70M Series B, bringing its total funding to $100M
+---
+ID: TM-34
+Title: Town, which is developing personalized AI assistants that connect to users' email and calendar, raised a $55M Series A led by a16z
+---
+ID: TM-35
+Title: Layup Parts, which aims to digitize the composite manufacturing supply chain for aerospace, defense, and motorsports, raised a $42M Series A led by Marlinspike
+---
+ID: TM-36
+Title: Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022
+---
+ID: TM-37
+Title: Forage, a payments processor that helps retailers and food-delivery companies accept EBT cards, raised a $40M Series B led by Mouro Capital at a $225M valuation
+---
+ID: TM-38
+Title: London-based Gigaton, which is developing AI to automate industrial control systems for cement, steel, glass, and chemicals plants, raised a $26M Series A
+---
+ID: TM-39
+Title: Terra AI, which develops AI models for mining companies to better map underground resources, raised a $20M Series A led by Khosla Ventures
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-40
+Title: Meta is alerting Instagram users whose accounts were taken over using Meta AI chatbot; some hackers claim to still be able to exploit Meta AI chatbot
+---
+ID: TM-41
+Title: Security firm Calif says it used OpenAI's Codex to discover HTTP/2 Bomb, a remote DoS exploit affecting web servers like Nginx, Apache HTTPD, and Microsoft IIS
+---
+ID: TM-42
+Title: University of Toronto researchers claim to have developed a “worm” powered by open-source AI that exploits known flaws and tailors its attacks for each computer
+---
+
+[CATEGORY: REGULATION]
+ID: TM-43
+Title: In a report, UK lawmakers call on the government to end a £330M NHS deal with Palantir and disclose more details of a military contract with the company
+---
+ID: TM-44
+Title: The EU Commission unveils its tech sovereignty package, including the EU's Cloud and AI Development Act, in a bid to reduce its reliance on US tech companies
+Sub Items:
+  - Title: The EU's Cloud and AI Development Act aims to triple data center capacity in five to seven years; the Chips Act 2.0 recommends allowing direct EU investments
+    Link ID: TM-44-SUB-01
+---
+ID: TM-45
+Title: Supercell, King, and Sybo say the EU's Digital Fairness Act, which requires pop-ups showing virtual currencies' real-world values, could make games “unplayable”
+---
+ID: TM-46
+Title: The EU General Court annuls the EU's designation of Meta's Marketplace as a DMA gatekeeper, citing partial evidence, but upholds the designation for Messenger
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-47
+Title: Europol and international law enforcement agencies dismantle nine organized crime groups and arrest 29 in an illegal streaming crackdown, removing 27,000+ URLs
+---
+ID: TM-48
+Title: Doc: Apple agreed in May to submit the financials of its India business to the country's antitrust body as part of an investigation over alleged market abuses
+---
+ID: TM-49
+Title: Google unveils five AI data center water commitments, including becoming water positive by 2030, local infrastructure investments, and transparency about usage
+---
+ID: TM-50
+Title: Apple plans to open an Apple Developer Center in Berlin in 2026, its first center in Europe and fifth globally, offering in-person developer access and sessions
+---
+ID: TM-51
+Title: GitLab cuts 350 staff, or ~14% of its workforce, pivoting “to be the trusted enterprise platform for software creation in the AI era”, and exits 22 countries
+---
+ID: TM-52
+Title: Mastercard says it plans to offer on-chain settlement using several regulated USD stablecoins, initially supporting USDC, PYUSD, USDG, USDP, RLUSD, and SoFiUSD
+---
+ID: TM-53
+Title: Meta is spinning off Supernatural into an independent company, Supernatural Health, after earlier saying the VR fitness game would stop getting new content
+---
+ID: TM-54
+Title: The US and other Five Eyes nations warn that China is flooding online job platforms with fake profiles and offers targeting government and military personnel
+---
+ID: TM-55
+Title: How Revolut founder Nikolay Storonsky's Elon Musk-style pay packages pushed his fortune to ~$20.4B, making him the UK's richest person, ahead of a planned IPO
+---
+ID: TM-56
+Title: ESA and YouGov: 212.3M people in the US between the ages of 5 and 90 play video games every week, up 3% from 2025; the average age of players has risen to 37
+---
+ID: TM-57
+Title: Baidu CFO Henry He says the company plans to spin off and list its chip unit Kunlunxin in Hong Kong and Shanghai in 2026, making it more like a “neutral player”
+---
+ID: TM-58
+Title: How startups Westmag, which raised an $11M, a16z-led seed in August 2025, and Atlas are seeking to make actuators, the foundation of hardware, outside of China
+---
+ID: TM-59
+Title: UnearthInsight: Indian IT companies have spent a record $7.1B on acquisitions since 2025 to gain clients and market share, as AI pricing pressure weakens growth
+---
+ID: TM-60
+Title: Sources: Benchmark raised $2B across two new funds, including a $1.25B fund for late-stage bets, its first growth fund after decades focusing on new startups
+---
+ID: TM-61
+Title: Apple says users in Texas must confirm they are 18 years or older or obtain parental consent to create an Apple Account starting June 4, after a court ruling
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Building a hill-climbing machine: Launching seven new MAI models (5 minute read)
+Excerpt: Microsoft released seven new MAI models, enabling developers to tune model weights themselves and integrate these into everyday products. The models leverage Frontier Tuning, an approach where AI adapts to specific workflows through reinforcement learning environments. Microsoft also announced a collaboration with Mayo Clinic to develop an advanced AI healthcare model, combining clinical expertise with AI capabilities, initially deploying within Mayo before wider distribution through Azure Foundry.
+---
+ID: TL-02
+Title: MiniMax promises M3 weights after 1M-context model launch (2 minute read)
+Excerpt: MiniMax will release the model weights and a technical report for its M3 model within the next 10 days. The new model is currently available through MiniMax Code, token plans, and an API. It has a 1M-token context window and a guaranteed 512,000-token minimum for API use. The model is the first open-weight model to combine frontier coding, native multimodality, and a 1M-token context window. MiniMax lists standard API pricing up to 512,000 input tokens at $0.60 per million input and $2.40 per million output.
+---
+ID: TL-03
+Title: Codex new Capabilities (6 minute read)
+Excerpt: OpenAI released new Codex capabilities and six role-specific plug-ins for data analytics, creative production, sales, product design, equity investing, and investment banking.
+---
+ID: TL-04
+Title: The Next Frontier of Visual AI Is Code (11 minute read)
+Excerpt: Visual AI is shifting from generating final pixel outputs to creating source code for editable artifacts, transforming workflows in design and 3D modeling by enabling continuous iteration and feedback. Code-native generation produces structured representations such as HTML/CSS or Blender scripts, facilitating precise edits and enhancements post-generation. This approach holds promise for industries requiring consistent 3D structures and interactive assets, with visual AI moving towards creating adaptive, editable digital artifacts rather than just static images.
+---
+ID: TL-05
+Title: Open and closed models are on different exponentials (8 minute read)
+Excerpt: A lot of businesses want to switch to open models, but these models aren't yet good enough in out-of-distribution tasks. However, they will eventually catch up. The open model ecosystem will be far more diverse and numerous than the closed lab oligopoly. The total market value of the open model economy will dramatically exceed the cumulative value of OpenAI and Anthropic.
+---
+ID: TL-06
+Title: Memory Is Purpose (15 minute read)
+Excerpt: Sentra CEO Ashwin Gopinath argues memory is not a sidecar to intelligence but the layer that decides what reality the reasoning operates on, with knowledge being what was present and memory being the subset of the past that should survive because it changes future behavior. The boulder problem illustrates that the same artifact becomes different memory for sales, product, legal, engineering, and CEO views, so freezing ontology at ingestion traps the system inside a frame that is prematurely right.
+---
+ID: TL-07
+Title: Preventing AI Inference Theft at Scale (5 minute read)
+Excerpt: Vercel outlined how attackers resell stolen AI inference by exploiting exposed endpoints and highlighted why traditional rate limits are often insufficient. The post describes an approach that verifies every AI request using BotID analysis to reduce abuse.
+---
+ID: TL-08
+Title: The Data Center Moves to Your Machine (4 minute read)
+Excerpt: Perplexity unveiled a hybrid local-cloud inference system at Computex 2026 that intelligently routes queries between on-device models for lightweight tasks and cloud-based models for complex reasoning, building on the company's earlier Personal Computer agent.
+---
+ID: TL-09
+Title: Wall Attention (GitHub Repo)
+Excerpt: An attention mechanism that improves long-context reasoning by organizing information around persistent “wall” memory tokens.
+---
+ID: TL-10
+Title: Anthropic faces AI spending backlash before IPO (3 minute read)
+Excerpt: Anthropic filed for an IPO amid growing corporate scrutiny over high AI costs, which threatens its revenue as companies reevaluate their AI investments. Businesses, Anthropic's key clients, express concerns over spending, with a survey revealing 40% experiencing cost savings below 10%. Despite Anthropic's strong performance, including surpassing OpenAI in business clients, a shift towards cheaper models or open-source alternatives poses a risk.
+---
+ID: TL-11
+Title: Anthropic expands Mythos to 150 additional organizations in more than 15 countries (3 minute read)
+Excerpt: Anthropic has expanded Project Glasswing to an additional 150 partners in more than 15 countries. The new partners will need to meet security requirements before gaining access to the model. Since launch, Project Glasswing partners have discovered more than 10,000 high or critical-level security flaws. Major Project Glasswing partners include Apple, Nvidia, Microsoft, CrowdStrike, and Palo Alto Networks.
+---
+ID: TL-12
+Title: GitHub's plan for Agents (90 minute read)
+Excerpt: GitHub has been the home for software for almost two decades. Coding agents have seen massive quantities of code being shipped on the platform, which has grown 1,400% this year. This has put pressure on GitHub's infrastructure, which was designed around human developers moving at human speed. This article features an interview with GitHub COO Kyle Daigle where he discusses how AI has changed things in the company, how he uses AI to work at GitHub, why the AI era is breaking GitHub in new ways, and more.
+---
+ID: TL-13
+Title: State of Memory in Agent Harness (12 minute read)
+Excerpt: Mem0 surveyed memory implementations across Claude Code, Codex, Copilot, OpenClaw, Hermes, Bedrock AgentCore, Windsurf, and Devin, and found the same boundary failures everywhere: bounded local storage, mostly keyword retrieval, harness scoping, weak staleness handling, and 57-71% cross-user contamination rates.
+---
+ID: TL-14
+Title: TinyFish Bigset turns text prompts into live datasets (3 minute read)
+Excerpt: TinyFish released Bigset, an open-source system that converts text prompts into structured datasets from the live web.
+---
