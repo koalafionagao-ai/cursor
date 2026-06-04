@@ -1,63 +1,65 @@
-# AI Daily — 产品与技术说明
+# AI Daily — Product & technical specification
 
-> 重要术语保留中英对照，便于与代码、Workflow 名称对照。
+**Language / 语言**: [English](PROJECT.md) · [中文](PROJECT.zh.md)
 
----
-
-## 1. 产品定位（Product）
-
-**AI Daily** 是一份面向 AI 产品/研发从业者的**每日聚合简报（Daily Brief）**，目标：
-
-1. **省时间**：从 TLDR AI、Techmeme 等高频源自动汇总，避免多站刷新闻。
-2. **可扫读**：中文标题/摘要 + 英文原文标题；按**分类（Category）**、**标签（Tag）**、**日期（Timeline）**浏览。
-3. **可追进度**：浏览器本地记录**已读（Read state）**，支持「未读 / 全部」筛选与批量已读/重置。
-4. **可审计**：保留筛选报告（`filter-report`），每条有 LLM **分数（Score）** 与保留理由。
-
-**线上入口**：https://koalafionagao-ai.github.io/cursor/ai_daily/
-
-**与主博客关系**：顶栏「← Blog」链到作者主站；本仓库 `cursor` 下可同时存在多个子项目，AI Daily 独占 `Daily_Parser/` 目录与 Pages 子路径 `ai_daily`。
+> Terminology matches the live UI (`app.js` `t(zh, en)` pairs) and workflow names.
 
 ---
 
-## 2. 用户功能说明（Features）
+## 1. Product positioning
 
-### 2.1 桌面端（Desktop, ≥769px）
+**AI Daily** is a **Daily Brief** for AI product and engineering readers. Goals:
 
-| 区域 | 功能 |
-|------|------|
-| 左栏 **时间轴（Timeline）** | 年/月折叠；进入某月「面板（Hub）」、某日「日报（Daily）」 |
-| 右栏 **筛选（Filter）** | 本月分类、标签列表（带未读/总数） |
-| 主栏 **看板（Dashboard）** | 当月未读数、已读数、涉及天/分类/标签统计 |
-| 工具栏 | 未读/全部；**当前全部已读** / **当前重置为未读**（作用范围为当前视图） |
-| 卡片 | 外链原文；标为已读/未读；标签跳转 |
+1. **Save time**: aggregate high-signal sources (TLDR AI, Techmeme, etc.) so you do not hop across sites.
+2. **Scannable**: Chinese titles/summaries plus English source titles; browse by **Category**, **Tag**, and **Timeline**.
+3. **Track progress**: browser **Read state** via `localStorage`; **Unread** / **All** filters; **Mark all read** / **Reset to unread** for the current view.
+4. **Auditable**: **filter-report** JSON with per-item LLM **Score** and keep reasons.
 
-### 2.2 移动端（Mobile, ≤768px）
+**Live site**: https://koalafionagao-ai.github.io/cursor/ai_daily/
 
-| 能力 | 说明 |
-|------|------|
-| 顶栏 **时间 / 看板 / 筛选** | 胶囊按钮打开底部抽屉（Sheet/Drawer）；路由上下文显示在对应 tab 副标题 |
-| 工具栏 | 与顶栏一体，随内容上滑隐藏，避免留白 |
-| 看板 | 不在信息流内嵌，仅在「看板」抽屉 |
-| 语言 | 中/En 切换（含顶栏 tab 文案） |
-
-### 2.3 阅读状态（Read state）
-
-- 存储：`localStorage` 键 `ai-daily-state-v2`，按 `date:id` 记录显式已读。
-- **未读** = 未显式标记已读（无「追平/Catch-up」逻辑）。
-- 批量操作仅影响**当前视图范围**内条目（Hub=整月，日报/标签/分类=过滤后列表）。
-
-### 2.4 路由（Hash routing）
-
-| URL 示例 | 视图 |
-|----------|------|
-| `#/2026-06` | 月面板 Hub |
-| `#/2026-06/day/2026-06-02` | 某日列表 |
-| `#/2026-06/tag/openai` | 标签筛选 |
-| `#/2026-06/cat/cat:model` | 分类筛选 |
+**Blog link**: header **← Blog** points to the author’s main site. The `cursor` repo can host multiple projects; AI Daily lives under `Daily_Parser/` and Pages path `ai_daily`.
 
 ---
 
-## 3. 技术架构（Architecture）
+## 2. Features
+
+### 2.1 Desktop (≥769px)
+
+| Area | Function |
+|------|----------|
+| Left **Timeline** | Fold years/months; open month **Hub** or day **Daily** view |
+| Right **Filter** | This month’s **Categories** and **Tags** (unread/total counts) |
+| Main **Dashboard** | Month unread/read counts; days/categories/tags with unread |
+| Toolbar | **Unread** / **All**; **Mark all read** / **Reset to unread** (current view scope) |
+| Cards | Open source link; **Mark read** / **Mark unread**; tag navigation |
+
+### 2.2 Mobile (≤768px)
+
+| Capability | Description |
+|------------|-------------|
+| Top **Time / Hub / Filter** | Pill buttons open bottom **Sheet** / **Drawer**; route context on tab subtitles |
+| Toolbar | Embedded in top chrome; hides on scroll down with header (no empty gap) |
+| Dashboard | Not inline in feed; only in **Hub** drawer (**Month dashboard**) |
+| Language | **中文** / **En** toggle (including tab labels: Time, Hub, Filter) |
+
+### 2.3 Read state
+
+- Storage: `localStorage` key `ai-daily-state-v2`, explicit read per `date:id`.
+- **Unread** = not explicitly marked read (no catch-up / last-visit logic).
+- Bulk actions apply only to the **current view** (Hub = full month; Daily / Tag / Category = filtered list).
+
+### 2.4 Hash routing
+
+| URL example | View |
+|-------------|------|
+| `#/2026-06` | Month Hub |
+| `#/2026-06/day/2026-06-02` | Daily list |
+| `#/2026-06/tag/openai` | Tag filter |
+| `#/2026-06/cat/cat:model` | Category filter |
+
+---
+
+## 3. Architecture
 
 ```mermaid
 flowchart TB
@@ -102,161 +104,159 @@ flowchart TB
   Pages --> SPA
 ```
 
-### 3.1 技术栈（Stack）
+### 3.1 Stack
 
-| 层级 | 技术 |
+| Layer | Technology |
+|-------|------------|
+| Data pipeline | Python 3.11, `httpx` / `feedparser`, GitHub Models (LLM) |
+| Site data | JSON (`manifest`, `daily/*`, `monthly/*`) |
+| Frontend | Vanilla HTML / CSS / JS (no build step) |
+| Deploy | GitHub Actions → GitHub Pages (`ai_daily` subpath) |
+| State | Browser `localStorage` |
+
+### 3.2 Directories
+
+| Path | Role |
 |------|------|
-| 数据流水线 | Python 3.11、`httpx`/`feedparser`、GitHub Models（LLM） |
-| 站点数据 | JSON（`manifest`、`daily/*`、`monthly/*`） |
-| 前端 | 原生 HTML/CSS/JS（无构建步骤） |
-| 部署 | GitHub Actions → GitHub Pages（子路径 `ai_daily`） |
-| 状态 | 浏览器 `localStorage` |
-
-### 3.2 目录与职责
-
-| 路径 | 职责 |
-|------|------|
-| `common/` | 日期解析、LLM 批处理、Schema、标签词表 `taxonomy.py` |
-| `Processed/YYYY-MM/` | 当日流水线产物（见下节） |
-| `site/data/` | **发布契约**，前端只读此目录 |
-| `site/assets/app.js` | 路由、渲染、已读、移动端抽屉 |
+| `common/` | Dates, LLM batches, schema, `taxonomy.py` |
+| `Processed/YYYY-MM/` | Per-day pipeline artifacts (below) |
+| `site/data/` | **Publish contract** — frontend reads only this |
+| `site/assets/app.js` | Routing, render, read state, mobile drawers |
 
 ---
 
-## 4. 数据处理流程（Data pipeline）
+## 4. Data pipeline
 
-以简报日 `YYYY-MM-DD`（默认：北京时间**昨日**）为例。
+Brief date `YYYY-MM-DD` (default: **yesterday** in Asia/Shanghai).
 
-### Agent1 — 抓取（Fetch）
+### Agent1 — Fetch
 
-| 脚本 | 输出 |
-|------|------|
+| Script | Output |
+|--------|--------|
 | `techmeme_fetcher.py` | `Techmeme/techmeme_YYYY-MM-DD.json` |
 | `tldr_fetcher.py` | `TLDR/tldr_ai_YYYY-MM-DD.json` |
 
-结构化章节 + 条目（标题、链接、摘要等）。
+Structured sections and items (title, link, excerpt, etc.).
 
-### Agent2 — 合并清洗（Merge & clean）
+### Agent2 — Merge & clean
 
-**脚本**：`merge_cleaner.py`
+**Script**: `merge_cleaner.py`
 
-| 输出文件 | 含义 |
-|----------|------|
-| `blocks_*.json` | 统一块结构，带源 ID |
-| `mapping_*.json` | 合并映射 |
-| `prompt_*.txt` | 调试 Prompt（可选阅读） |
+| Output | Meaning |
+|--------|---------|
+| `blocks_*.json` | Unified blocks with source IDs |
+| `mapping_*.json` | Merge mapping |
+| `prompt_*.txt` | Debug prompt (optional) |
 
-去重、规范化字段，供下游打分。
+Dedupe and normalize for scoring.
 
-### Agent3 — 筛选打分（Filter & score）
+### Agent3 — Filter & score
 
-**脚本**：`filter_scorer.py`  
-**模型**：偏小模型（`MINI_MODEL`）批量打分。
+**Script**: `filter_scorer.py`  
+**Model**: smaller `MINI_MODEL` batches.
 
-| 输出 | 含义 |
-|------|------|
-| `filter_*.json` | 每条 `score` 0–10、`keep`、`reason`；默认 `keep = score >= 7` |
-| 同步副本 | `site/data/filter-report/*.json`（便于对照） |
+| Output | Meaning |
+|--------|---------|
+| `filter_*.json` | Per item: `score` 0–10, `keep`, `reason`; default `keep = score >= 7` |
+| Copy | `site/data/filter-report/*.json` for review |
 
-仅 `keep=true` 的 ID 进入翻译。
+Only `keep=true` IDs go to enrichment.
 
-### Agent4 —  enrich（Translate & tag）
+### Agent4 — Enrich (translate & tag)
 
-**脚本**：`enrich.py`
+**Script**: `enrich.py`
 
-| 输出 | 含义 |
-|------|------|
-| `processed_*.json` | 发布条目：`title`/`summary` 中英、`tags`、`category_tag`、`url`、`source` |
+| Output | Meaning |
+|--------|---------|
+| `processed_*.json` | Publish items: `title` / `summary` (zh/en), `tags`, `category_tag`, `url`, `source` |
 
-规则：
+Rules:
 
-- 英文标题/摘要保留原文；
-- 中文由 LLM 生成；摘要与标题重复则中文摘要置空；
-- 标签仅从 `taxonomy.py` 允许列表归一化。
+- English title/summary stay source-faithful;
+- Chinese from LLM; empty Chinese summary if it duplicates the Chinese title;
+- Tags normalized only via `taxonomy.py` allowlist.
 
-### Agent5 — 站点构建（Site build）
+### Agent5 — Site build
 
-**脚本**：`build_site_data.py`
+**Script**: `build_site_data.py`
 
-1. 每条 `processed` → `site/data/daily/YYYY-MM-DD.json`
-2. 按月聚合 → `site/data/monthly/YYYY-MM.json`（含 `tag_index`、`category_index`）
-3. 生成 `site/data/manifest.json`（月份列表、分类元数据、`base_path`）
+1. Each `processed` → `site/data/daily/YYYY-MM-DD.json`
+2. Monthly rollup → `site/data/monthly/YYYY-MM.json` (`tag_index`, `category_index`)
+3. `site/data/manifest.json` (months, categories, `base_path`)
 
-**Base path**：`/cursor/ai_daily/`
+**Base path**: `/cursor/ai_daily/`
 
 ---
 
-## 5. 前端数据契约（Frontend contract）
+## 5. Frontend data contract
 
 ### manifest.json
 
-- `months[]`、`days[]`、`categories[]`、`latest_date`
-- `base_path`：静态资源与 JSON 前缀
+- `months[]`, `days[]`, `categories[]`, `latest_date`
+- `base_path`: prefix for static assets and JSON
 
 ### monthly JSON
 
-- `items[]`：当月全部条目（含 date、id）
-- `tag_index` / `category_index`：倒排索引
+- `items[]`: all month items (with `date`, `id`)
+- `tag_index` / `category_index`: inverted indexes
 - `tag_stats` / `category_stats`
 
-### 条目字段（Item）
+### Item fields
 
-| 字段 | 说明 |
-|------|------|
-| `id` | 源内稳定 ID（如 TM-01） |
-| `title.zh` / `title.en` | 标题 |
-| `summary.zh` / `summary.en` | 摘要（可空） |
-| `url` | 原文链接 |
-| `source` | TLDR / Techmeme |
-| `tags` / `entity_tags` / `category_tag` | 标签与分类 |
-
----
-
-## 6. 部署路径（Deployment）
-
-仓库名 `cursor` → Pages 根 URL：`https://<user>.github.io/cursor/`
-
-Workflow `deploy-pages.yml`：
-
-1. 运行 `build_site_data.py`
-2. 将 `Daily_Parser/site/` 复制到 artifact 的 **`ai_daily/`** 子目录
-3. 根目录 `index.html` 重定向到 `ai_daily/`
-
-最终站点：**`/cursor/ai_daily/`**（用户无法改仓库名时，通过子路径隔离多项目）。
+| Field | Description |
+|-------|-------------|
+| `id` | Stable source id (e.g. `TM-01`) |
+| `title.zh` / `title.en` | Title |
+| `summary.zh` / `summary.en` | Summary (may be empty) |
+| `url` | Source URL |
+| `source` | `TLDR` / `Techmeme` |
+| `tags` / `entity_tags` / `category_tag` | Tags and category |
 
 ---
 
-## 7. 仓库清理记录（Cleanup）
+## 6. Deployment
 
-以下已在收尾中处理，避免与当前产品混淆：
+Repo name `cursor` → Pages root: `https://<user>.github.io/cursor/`
 
-| 项 | 处理 |
-|----|------|
-| 根目录 `site/` | 已迁入 `Daily_Parser/site/` |
-| 根目录 `reference.html` | 已移至 `docs/reference-design.html`（旧版静态稿，**不部署**） |
-| `ai_translator.py` | **已删除**（旧入口，请用 `enrich.py`） |
-| `docs/TAGS.md` | 已迁入 `Daily_Parser/docs/` |
-| `status_log.txt` / `merge_status_log.txt` | 加入 `.gitignore`（运行日志，非发布物） |
-| 历史 URL `…/cursor/#/…` | 请改用 `…/cursor/ai_daily/#/…` |
+Workflow `deploy-pages.yml`:
 
-**保留但非运行时依赖**：`Processed/**/prompt_*.txt`（排错）、`filter-report`（调阈值）、原始 `Techmeme/`/`TLDR/`（可追溯）。
+1. Run `build_site_data.py`
+2. Copy `Daily_Parser/site/` into artifact subdirectory **`ai_daily/`**
+3. Root `index.html` redirects to `ai_daily/`
+
+Public URL: **`/cursor/ai_daily/`** (subpath for multi-project repos).
 
 ---
 
-## 8. 扩展与运维（Operations）
+## 7. Cleanup record
 
-| 任务 | 做法 |
-|------|------|
-| 手动跑某日 | Actions → AI Daily Pipeline → `date` 输入 `YYYY-MM-DD` |
-| 调筛选阈值 | 修改 `filter_scorer.py` 的 `DEFAULT_THRESHOLD` 或 workflow 参数 |
-| 补历史 | `backfill_processed.py` + `build_site_data.py` |
-| 新增标签 | 编辑 `common/taxonomy.py`，必要时改 enrich Prompt |
-| 仅刷新站点数据 | 本地或 CI 运行 `build_site_data.py` |
+| Item | Action |
+|------|--------|
+| Root `site/` | Moved to `Daily_Parser/site/` |
+| Root `reference.html` | `docs/reference-design.html` (not deployed) |
+| `ai_translator.py` | **Removed** (use `enrich.py`) |
+| `docs/TAGS.md` | Under `Daily_Parser/docs/` (now `TAGS.md` / `TAGS.zh.md`) |
+| `status_log.txt` / `merge_status_log.txt` | `.gitignore` (runtime logs) |
+| Legacy URL `…/cursor/#/…` | Use `…/cursor/ai_daily/#/…` |
+
+**Kept for traceability**: `Processed/**/prompt_*.txt`, `filter-report`, raw `Techmeme/` / `TLDR/`.
 
 ---
 
-## 9. 相关链接
+## 8. Operations
 
-- 标签说明：[TAGS.md](TAGS.md)
-- 使用说明：[../README.md](../README.md)
-- 作者博客：https://koalafionagao-ai.github.io/my_blogs/
+| Task | How |
+|------|-----|
+| Run one day manually | Actions → **AI Daily Pipeline** → `date` = `YYYY-MM-DD` |
+| Tune filter threshold | `filter_scorer.py` `DEFAULT_THRESHOLD` or workflow input |
+| Backfill history | `backfill_processed.py` + `build_site_data.py` |
+| Add tags | Edit `common/taxonomy.py`; adjust enrich prompt if needed |
+| Refresh site data only | Run `build_site_data.py` locally or in CI |
+
+---
+
+## 9. Related links
+
+- Tags: [TAGS.md](TAGS.md) · [中文](TAGS.zh.md)
+- Usage: [../README.md](../README.md) · [中文](../README.zh.md)
+- Author blog: https://koalafionagao-ai.github.io/my_blogs/
