@@ -1,25 +1,28 @@
-# AI Daily 简报引擎
+# AI Daily Brief Engine
 
-面向 AI 从业者的**每日简报（Daily Brief）**产品：自动抓取 TLDR AI、Techmeme 等源站，经清洗、筛选、翻译与打标后，发布为可浏览的静态站点。
+**Language / 语言**: [English](README.md) · [中文](README.zh.md)
 
-**线上地址（Production URL）**：https://koalafionagao-ai.github.io/cursor/ai_daily/
+A **Daily Brief** product for AI practitioners: automatically fetches TLDR AI, Techmeme, and similar sources, then cleans, filters, translates, and tags items for a static reading site.
+
+**Production URL**: https://koalafionagao-ai.github.io/cursor/ai_daily/
 
 ---
 
-## 目录结构（Repository layout）
+## Repository layout
 
 ```
 Daily_Parser/
-├── README.md                 # 本文件：使用说明
+├── README.md                 # This file (English)
+├── README.zh.md              # 使用说明（中文）
 ├── docs/
-│   ├── PROJECT.md            # 产品逻辑、架构、数据流（完整说明）
-│   ├── TAGS.md               # 标签体系
-│   └── reference-design.html # 早期 UI 参考（不部署）
-├── common/                   # 共享模块（taxonomy、LLM、schema）
-├── Techmeme/                 # Agent1 原始抓取 JSON
-├── TLDR/                     # Agent1 原始抓取 JSON
-├── Processed/                # Agent2–4 中间产物与发布稿
-├── site/                     # 静态前端 + 构建后的 data/
+│   ├── PROJECT.md / PROJECT.zh.md   # Product & technical spec
+│   ├── TAGS.md / TAGS.zh.md         # Tag taxonomy
+│   └── reference-design.html        # Early UI mock (not deployed)
+├── common/                   # Shared modules (taxonomy, LLM, schema)
+├── Techmeme/                 # Agent1 raw fetch JSON
+├── TLDR/                     # Agent1 raw fetch JSON
+├── Processed/                # Agent2–4 artifacts & publish JSON
+├── site/                     # Static frontend + built data/
 │   ├── index.html
 │   ├── assets/
 │   └── data/
@@ -27,19 +30,19 @@ Daily_Parser/
 │       ├── daily/
 │       ├── monthly/
 │       └── filter-report/
-├── techmeme_fetcher.py       # 抓取 Techmeme
-├── tldr_fetcher.py           # 抓取 TLDR AI
-├── merge_cleaner.py          # Agent2：合并去重
-├── filter_scorer.py          # Agent3：LLM 打分筛选
-├── enrich.py                 # Agent4：翻译 + 分类 + 标签
-├── build_site_data.py        # Agent5：同步 site/data
-├── backfill_processed.py     # 批量补跑工具
+├── techmeme_fetcher.py       # Fetch Techmeme
+├── tldr_fetcher.py           # Fetch TLDR AI
+├── merge_cleaner.py          # Agent2: merge & dedupe
+├── filter_scorer.py          # Agent3: LLM filter scoring
+├── enrich.py                 # Agent4: translate + category + tags
+├── build_site_data.py        # Agent5: sync site/data
+├── backfill_processed.py     # Batch backfill utility
 └── requirements.txt
 ```
 
 ---
 
-## 本地开发（Local development）
+## Local development
 
 ```bash
 cd Daily_Parser
@@ -56,46 +59,46 @@ python3 enrich.py --date $DATE
 python3 build_site_data.py --date $DATE
 ```
 
-本地预览站点（需 HTTP 服务，且 base 与线上一致时可改 `site/index.html` 的 `base-path`）：
+Preview the site locally (needs an HTTP server; adjust `base-path` in `site/index.html` if needed):
 
 ```bash
 cd site && python3 -m http.server 8765
-# 浏览器访问路径需包含 /cursor/ai_daily/ 前缀时，可用 nginx 或：
-# npx serve -l 8765 --cors  （仅开发；资产路径以 meta base-path 为准）
+# For production-like paths, serve under /cursor/ai_daily/ (nginx, etc.)
+# Asset paths follow meta base-path
 ```
 
 ---
 
 ## GitHub Actions
 
-| Workflow | 说明 |
-|----------|------|
-| `AI Daily Pipeline` | 每日定时（北京时间约 09:00）或手动：抓取 → 处理 → 提交 `Daily_Parser/site/data` |
-| `Deploy AI Daily to GitHub Pages` | 将 `Daily_Parser/site` 发布到 **`/cursor/ai_daily/`** 子路径 |
+| Workflow | Description |
+|----------|-------------|
+| `AI Daily Pipeline` | Daily schedule (~09:00 Beijing) or manual: fetch → process → commit `Daily_Parser/site/data` |
+| `Deploy AI Daily to GitHub Pages` | Publishes `Daily_Parser/site` under **`/cursor/ai_daily/`** |
 
-仓库 Settings → Pages → Source：**GitHub Actions**。
-
----
-
-## 配置要点
-
-- **站点根路径（Base path）**：`/cursor/ai_daily/`（由 `build_site_data.py` 写入 `manifest.json`，前端 `meta base-path` 一致）
-- **筛选阈值（Filter threshold）**：默认 `score >= 7`，见 `filter_scorer.py` 与 `docs/TAGS.md`
-- **标签（Tags）**：固定词表，见 `common/taxonomy.py`
+Repo **Settings → Pages → Source**: **GitHub Actions**.
 
 ---
 
-## 文档索引
+## Configuration
 
-| 文档 | 内容 |
-|------|------|
-| [docs/PROJECT.md](docs/PROJECT.md) | 产品逻辑、技术架构、数据处理全流程、前端功能 |
-| [docs/TAGS.md](docs/TAGS.md) | 分类与实体标签说明 |
+- **Base path**: `/cursor/ai_daily/` (written by `build_site_data.py` to `manifest.json`; matches frontend `meta base-path`)
+- **Filter threshold**: default `score >= 7`; see `filter_scorer.py` and [docs/TAGS.md](docs/TAGS.md)
+- **Tags**: fixed vocabulary in `common/taxonomy.py`
 
 ---
 
-## 历史 URL 说明
+## Documentation
 
-若曾使用 `https://koalafionagao-ai.github.io/cursor/#/…`（站点在仓库根路径），请改用：
+| Doc | Contents |
+|-----|----------|
+| [docs/PROJECT.md](docs/PROJECT.md) | Product logic, architecture, data pipeline, frontend features |
+| [docs/TAGS.md](docs/TAGS.md) | Category and entity tags |
+
+---
+
+## Legacy URL
+
+If you used `https://koalafionagao-ai.github.io/cursor/#/…` (site at repo root), switch to:
 
 **https://koalafionagao-ai.github.io/cursor/ai_daily/#/2026-06**
