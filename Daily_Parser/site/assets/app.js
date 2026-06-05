@@ -137,7 +137,22 @@
     if (!isMobileViewport()) return;
     const header = document.querySelector(".header-bar");
     if (!header) return;
-    document.documentElement.style.setProperty("--m-header-h", `${header.offsetHeight}px`);
+    document.documentElement.style.setProperty(
+      "--m-header-h",
+      `${header.offsetHeight + MOBILE_HEADER_GAP}px`
+    );
+  }
+
+  function bindMobileHeaderResize() {
+    if (!isMobileViewport()) return;
+    const header = document.querySelector(".header-bar");
+    if (!header) return;
+    if (mobileHeaderResizeObserver) {
+      mobileHeaderResizeObserver.disconnect();
+    }
+    mobileHeaderResizeObserver = new ResizeObserver(() => syncMobileHeaderHeight());
+    mobileHeaderResizeObserver.observe(header);
+    syncMobileHeaderHeight();
   }
 
   function markAllVisibleRead() {
@@ -750,6 +765,8 @@
   }
 
   const MOBILE_MQ = "(max-width: 768px)";
+  const MOBILE_HEADER_GAP = 16;
+  let mobileHeaderResizeObserver = null;
 
   function isMobileViewport() {
     return window.matchMedia(MOBILE_MQ).matches;
@@ -927,6 +944,8 @@
       document.body.classList.remove("mobile-chrome-hidden");
       syncMobileHeaderToolbar("");
       document.documentElement.style.removeProperty("--m-header-h");
+      mobileHeaderResizeObserver?.disconnect();
+      mobileHeaderResizeObserver = null;
     }
     updateMobileTopNav();
     syncMobileFilterPanel();
@@ -936,7 +955,11 @@
         document.body.classList.remove("mobile-chrome-hidden");
         document.querySelector(".header-bar")?.classList.remove("header-hidden");
       }
-      requestAnimationFrame(() => syncMobileHeaderHeight());
+      requestAnimationFrame(() => {
+        syncMobileHeaderHeight();
+        requestAnimationFrame(syncMobileHeaderHeight);
+      });
+      bindMobileHeaderResize();
     }
   }
 
@@ -1051,6 +1074,7 @@
       });
       window.addEventListener("resize", () => {
         syncMobileHeaderHeight();
+        bindMobileHeaderResize();
         updateMobileLayout();
       });
     }
@@ -1168,25 +1192,50 @@
       return;
     }
 
+    bindMobileHeaderResize();
+
     if (feed.dataset.mobileScrollBound) return;
     feed.dataset.mobileScrollBound = "1";
+
     let lastY = feed.scrollTop;
+    let chromeHidden = document.body.classList.contains("mobile-chrome-hidden");
+    let scrollRaf = 0;
+    let lastToggleAt = 0;
+
+    const setChromeHidden = (hidden) => {
+      if (chromeHidden === hidden) return;
+      chromeHidden = hidden;
+      lastToggleAt = Date.now();
+      header.classList.toggle("header-hidden", hidden);
+      document.body.classList.toggle("mobile-chrome-hidden", hidden);
+    };
+
     feed.addEventListener(
       "scroll",
       () => {
-        if (!isMobileViewport()) {
-          header.classList.remove("header-hidden");
-          return;
-        }
-        const y = feed.scrollTop;
-        if (y > lastY + 8 && y > 48) {
-          header.classList.add("header-hidden");
-          document.body.classList.add("mobile-chrome-hidden");
-        } else if (y < lastY - 8 || y <= 8) {
-          header.classList.remove("header-hidden");
-          document.body.classList.remove("mobile-chrome-hidden");
-        }
-        lastY = y;
+        if (scrollRaf) return;
+        scrollRaf = requestAnimationFrame(() => {
+          scrollRaf = 0;
+          if (!isMobileViewport()) {
+            header.classList.remove("header-hidden");
+            document.body.classList.remove("mobile-chrome-hidden");
+            chromeHidden = false;
+            return;
+          }
+
+          const y = feed.scrollTop;
+          const delta = y - lastY;
+          const now = Date.now();
+          const cooled = now - lastToggleAt > 280;
+
+          if (delta > 4 && y > 72 && cooled) {
+            setChromeHidden(true);
+          } else if ((delta < -6 || y <= 6) && cooled) {
+            setChromeHidden(false);
+          }
+
+          lastY = y;
+        });
       },
       { passive: true }
     );
