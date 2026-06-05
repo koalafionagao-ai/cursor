@@ -1,0 +1,278 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude
+Tweets:
+  - Author: @anthropicai
+    Text: Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It's happening faster than we thought, and the implications deserve greater attention.
+    Link ID: TM-01-TW-01
+  - Author: @alexalbert__
+    Text: We just published internal data on how much of Claude's development is already being done by Claude: - Over 80% of all code merged into our codebase is now written by Claude - It's been months since many researchers at Anthropic hand-wrote code - The typical Anthropic engineer ships 8x as much code as they did in 2024 - On the most open-ended engineering tasks, Claude's success rate jumped from ~26% to 76% in 6 months - When research sessions went off-track, Claude proposed a better next step than the human took 64% of the time We're not at recursive self-improvement yet, but it could come sooner than most expect.
+    Link ID: TM-01-TW-02
+  - Author: @emollick
+    Text: “As of May 2026, more than 80% of the code we merge into Anthropic's codebase was authored by Claude.” Matches independent measures. There really is no sign this is slowing down (which doesn't mean there aren't organizational challenges to absorbing this much productivity gain) [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Anthropic calls for top AI labs to weigh slowing or temporarily pausing development, suggesting that self-improving AI systems may soon pose societal risks
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: TSMC CEO C.C. Wei says the company won't be able to fulfill the demand led by US customers even as more capacity comes online in the US over the next few years
+Tweets:
+  - Author: @gavinsbaker
+    Text: I believe I said “tough, flinty, disciplined” rather than stubborn. I deeply admire TSM management and believe their capacity discipline, whether organic or self-imposed, is good for everyone. We want a smoother for longer cycle. An overbuild and/or a bubble would be terrible.
+    Link ID: TM-02-TW-01
+  - Author: @thetranscript_
+    Text: $TSM TSMC CEO doesn't seem worried of @elonmusk's potential chip fab “I wish him the best....We have never lacked competitors over the past nearly 40 years. We have always been a winner, and that will continue in the future.”
+    Link ID: TM-02-TW-02
+  - Author: @zephyr_z9
+    Text: “TSMC is doing its best not to become a bottleneck in the supply chain” 🧢🧢🧢 Google wouldn't use EMIB or Apple, and others would be diversifying to Intel/Samsung if enough CoWoS and 2nm/3nm capacity existed
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Corporate spending management platform Ramp raised $750M at a $44B valuation led by Iconiq, Singapore's GIC, and the OTPP, taking its total funding to $3B
+Tweets:
+  - Author: @eglyman
+    Text: Today, Ramp raised $750M at a $44B valuation. Last time we grew this fast, we were 1/20th the size. For 2000 years, business was built on two pillars. Today, a third: intelligence. It's your least governed cost. It's also your single greatest opportunity. [image]
+    Link ID: TM-03-TW-01
+  - Author: @alexrkonrad
+    Text: Ramp is now worth 1/22 an Anthropic
+    Link ID: TM-03-TW-02
+  - Author: @rabois
+    Text: Tokens are now the fastest-growing cost in business — and invisible to the systems built to manage spend. @tryramp raised $750M at $44B to help finance teams see and govern them.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Sam Altman and Dario Amodei are among the signatories on a public letter urging improved tracking of synthetic DNA that could be used in AI-developed bioweapons
+---
+ID: TM-05
+Title: Canada unveils its AI strategy that it says will help create 250,000 jobs by 2031, with a CA$500M tech fund to invest in homegrown AI startups
+---
+ID: TM-06
+Title: Cloudflare acquires VoidZero, the company behind Vite, Vitest, Rolldown, Oxc, and Vite+ frameworks, and says the projects will stay open source
+---
+ID: TM-07
+Title: A look at AI consciousness debates; LLM conversations are cleverly disguised examples of sentence continuation, but that doesn't deny how impressive LLMs can be
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Sources: Meta has repeatedly delayed Muse Spark API's release from April due to bugs and infrastructure needs; Meta now says it plans to release the API in June
+---
+ID: TM-09
+Title: Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations
+---
+ID: TM-10
+Title: A profile of Anthropic as it prepares to go public and broaden access to Mythos, amid criticism that commercial pressures forced it to cut corners on AI safety
+---
+ID: TM-11
+Title: Google releases macOS versions of AI Edge Gallery, which lets users run open models on their devices, and AI Edge Eloquent, an on-device voice dictation app
+---
+ID: TM-12
+Title: Sources: Brian Chesky is starting a new AI lab and considering a focus on user interaction and design; he will remain Airbnb CEO and will not be the lab's CEO
+---
+ID: TM-13
+Title: OpenAI updates ChatGPT memory with a “more capable and compute-efficient” architecture and a summary page that lets users review and steer what it remembers
+---
+ID: TM-14
+Title: Sources: US officials have held talks with AI companies about the government acquiring shares; Sam Altman first pitched the concept directly to Trump in 2025
+---
+ID: TM-15
+Title: Alibaba says it is opening Qwen to third-party AI agents, starting with KFC, Mixue, and others, and Qwen's app serves 100M+ daily lifestyle services engagements
+---
+ID: TM-16
+Title: Poke, which lets users access AI agents via text message, becomes the first AI agent approved for Apple's Messages for Business platform
+---
+ID: TM-17
+Title: Kirkland & Ellis, the world's highest-grossing law firm, agrees to a multiyear deal with Palantir to develop an AI tool to help advise PE firms on raising funds
+---
+ID: TM-18
+Title: How AI tools from Harvey, Legora, and Anthropic are challenging legal tech incumbents like Thomson Reuters and LexisNexis, which are upgrading their products
+---
+ID: TM-19
+Title: Two House lawmakers unveil bipartisan AI legislation that would override some state AI laws and require top AI developers to implement risk-management plans
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-20
+Title: Public First: 26% of Americans support increased data center construction, the lowest share among 15 large countries, such as Brazil, Japan, the UK, and Canada
+---
+ID: TM-21
+Title: In a letter to Utah Senate President, Kevin O'Leary says he will cut a 40,000-acre AI data center project in Utah by roughly half, after backlash from lawmakers
+---
+ID: TM-22
+Title: France secured €110B+ of proposed AI and data center investments this week, amounting to ~10 GW of new computing capacity, equivalent to ~10 nuclear reactors
+---
+ID: TM-23
+Title: Arizona Public Service, the state's largest utility, proposes a 45% electricity-rate increase for data centers to ensure “that they are paying their fair share”
+---
+ID: TM-24
+Title: A deep dive into the case for data centers in space, as SpaceX prepares to go public: Elon Musk's claims, the wider debate, power supply issues, costs, and more
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-25
+Title: Moderators of the r/biohackers subreddit claim that peptide companies are spamming their forum to get AI chatbots to scrape their posts and change their answers
+---
+ID: TM-26
+Title: Centralized control over online platforms not only leads to enshittification, but to “despotification”; decentralized protocols bring back democratic ideals
+---
+ID: TM-27
+Title: Meta's Oversight Board says Meta's account deactivations lack due process, violations are flagged without clarity, and there's little support for appeals
+---
+ID: TM-28
+Title: Internal docs from lawsuits by 1,400 school districts show how social media companies targeted kids: Meta paid “teen ambassadors”, Snap sent school-hour alerts
+---
+ID: TM-29
+Title: Meta says Australia's proposed 2.25% tax on domestic revenue for tech giants that don't sign news licensing deals violates the US-Australia Free Trade Agreement
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-30
+Title: Foxconn says it will work with Intel to jointly develop and deploy next-gen AI infrastructure, including server racks with Intel Xeon processors and AI chips
+---
+ID: TM-31
+Title: SpaceX wins a property tax exemption for its planned $55B Terafab chip facility in Texas, despite Texans threatening legal action, amid local opposition to AI
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-32
+Title: Coinbase and Better fund the first Fannie Mae-backed mortgage that uses bitcoin as collateral, with a nationwide rollout planned in the coming months
+---
+ID: TM-33
+Title: CoinGecko: Hyperliquid-linked HYPE token is up ~180% YTD, lifting its market value above $16B and pushing it into the top 10 digital assets by market cap
+---
+
+[CATEGORY: PAYMENTS]
+ID: TM-34
+Title: Revolut co-founder and CTO Vlad Yatsenko plans to step down in July, to be replaced by Head of Technology Donato Lucia; Yatsenko was Revolut's first employee
+---
+ID: TM-35
+Title: Sources: OnePay, a fintech app backed by Walmart and valued at $4B+, now has 6M MAUs and $50B in annualized payments, both double its figures from 2025
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-36
+Title: Challenger: US tech companies announced cuts of 38,242 jobs in May, the most since August 2024, taking 2026's total so far to 123,653 cuts, up 65%+ YoY
+---
+ID: TM-37
+Title: Applied Materials plans to expand its Southeast Asia workforce by 25% in 2026, hiring ~1,000 workers mainly in Singapore at its key chip packaging equipment hub
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-38
+Title: Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, priced above its marketed range of $53 to $55, valuing the company at $15.6B
+Sub Items:
+  - Title: Quantinuum closed up 0.63% in its Nasdaq debut on Thursday, with a market value of $15.7B, after raising $1.68B in an upsized IPO
+    Link ID: TM-38-SUB-01
+---
+ID: TM-39
+Title: Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-40
+Title: Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025
+---
+ID: TM-41
+Title: Flourish, which is building Cortex AI, a brain-like synthetic intelligence system that uses less power than LLMs, raised $500M, including $100M from Jeff Bezos
+---
+ID: TM-42
+Title: Robotics startup Generalist, which released its GEN-1 model to complete short physical tasks in April, raised $400M led by Radical Ventures at a $2B valuation
+---
+ID: TM-43
+Title: Bengaluru-based grocery delivery startup FirstClub raised a $55M Series B co-led by Peak XV and Sofina at a $255M valuation, up from $120M in September 2025
+---
+ID: TM-44
+Title: London- and NY-based Airspeed, which aims to use AI agents to replace sales software like traditional CRM dashboards, raised a $20M Series A led by DN Capital
+---
+ID: TM-45
+Title: Honeycomb, which offers an AI-powered insurance platform for multi-unit residential properties, raised $40M led by Zeev, bringing its total funding to $95M
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-46
+Title: Google now lets big creators and publishers in the US claim and customize dedicated Search profiles to aggregate their content from multiple platforms
+---
+ID: TM-47
+Title: SCOTUS sides with the FCC in its clash with wireless carriers, upholding the agency's in-house system for levying fines for regulatory violations
+---
+ID: TM-48
+Title: Unsealed 2020 lawsuit: ex-IBM VP of threat intelligence alleges that IBM and AT&T concealed foreign cyber breaches to maintain eligibility for federal contracts
+---
+ID: TM-49
+Title: Founders Fund launches a TV-style game show featuring A-list founders and investors, including Sam Altman and Palmer Luckey, playing a game of Mafia
+---
+ID: TM-50
+Title: Amazon unveils its next-gen Proteus warehouse robot, adding AI-powered language capabilities that let workers assign it tasks, rolling out in Europe in H1 2027
+---
+ID: TM-51
+Title: Sam Altman says he has no plans to put money into the 2026 US midterms; OpenAI has tried to distance itself from the Greg Brockman-backed Leading the Future PAC
+---
+ID: TM-52
+Title: Taiwan's and South Korea's stock market capitalizations overtake India's, as investors favor markets with companies positioned to benefit from the AI boom
+---
+ID: TM-53
+Title: A study of Waymo robotaxi data for 13.8M trips from August 2023 to December 2025: the share of miles driven with a passenger on board climbed from 36% to 56%
+---
+ID: TM-54
+Title: Robinhood plans to route some 2026 soccer World Cup bets to Rothera, shifting away from Kalshi as it seeks to diversify its prediction markets providers
+---
+ID: TM-55
+Title: US SEC filing: Vanguard marks down Ola Consumer's valuation to ~$70.3M; Ola, which faces intense competition from Uber and Rapido, was valued at $7.3B in 2021
+---
+ID: TM-56
+Title: Current and former employees detail Amazon's e-commerce struggles in India, where local rivals have challenged the company more than anywhere outside of China
+---
+ID: TM-57
+Title: Q&A with Satya Nadella on Microsoft's competitive position, MAI models, OpenAI, the software business, GitHub Copilot, Project Solara, data centers, and more
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Meta Keeps Delaying the Release of Its New AI Model to Developers (7 minute read)
+Excerpt: Meta doesn't have a planned date to release its newest AI models to developers. The company is testing its API with partners and had plans to release it this month. The Muse Spark model is reportedly competitive with OpenAI and Anthropic's offerings, but it has yet to be evaluated by outside firms. The delay raises questions about how quickly Meta can monetize its massive investments in building frontier AI models.
+---
+ID: TL-02
+Title: Meet Dreambeans, an app that connects you with what matters (3 minute read)
+Excerpt: Google Labs introduces Dreambeans, an app using AI to curate personalized stories based on Google apps data like Gmail and Calendar. It aims to inspire by cutting through digital clutter with content tailored to user interests, such as recommending dog-friendly restaurants based on calendar events.
+---
+ID: TL-03
+Title: OpenAI makes its next hardware move with Opal Electronics (2 minute read)
+Excerpt: OpenAI leads a funding round for Opal Electronics, focusing on a new product line extending beyond webcams into AI-native devices for creative work. This aligns with OpenAI's push into hardware, despite delays in its own ambient computing project.
+---
+ID: TL-04
+Title: I built a vulnerable app and spent $1,500 seeing if LLMs could hack it (9 minute read)
+Excerpt: This developer created a vulnerable book review app to see if LLMs could find a flag in users' private reviews by reproducing a common class of exploits. GPT-5.5 performed the best, solving the task in seven out of 10 runs. DeepSeek-V4-Pro was the runner-up with only three successful runs. Claude Sonnet 4.6 was the most expensive model to run, and it only solved the task on two runs, but five of the runs stopped because of the max budget. Many models could not complete the task due to security guardrails.
+---
+ID: TL-05
+Title: Ideogram 4 (GitHub Repo)
+Excerpt: Ideogram 4 is an open-weight text-to-image model. It was trained from scratch and not a fine-tune of any existing model. The model introduces a new structured JSON prompting interface. It features best-in-class multilingual text rendering, deep language understanding, explicit bounding-box layout and color-palette controls, and native 2k resolution images.
+---
+ID: TL-06
+Title: Sleep for Continual Learning (24 minute read)
+Excerpt: Google researchers propose a new “Sleep” paradigm that helps models consolidate short-term in-context knowledge into longer-term parameters through distillation and replay. The approach also uses a “Dreaming” stage with reinforcement learning to generate synthetic curricula for self-improvement.
+---
+ID: TL-07
+Title: Intelligence Per Dollar (2 minute read)
+Excerpt: Microsoft introduces "average token usage" on model release cards, emphasizing intelligence per dollar. Models are now benchmarked on performance and the cost of achieving that intelligence. This new metric forces companies to compete on efficiency, aligning pricing with tangible outcomes like completed support cases.
+---
+ID: TL-08
+Title: Anthropic Bulks Up Its Enterprise Partner Program Amid IPO Plans (4 minute read)
+Excerpt: Anthropic's Claude Partner Network is a program for third-party sellers of its AI products that helps them move more product. Firms participating in the program must meet a slate of requirements, but joining it gives companies a great deal of credibility when selling Claude to businesses. The move helps Anthropic demonstrate to the market that it is thinking about scale during a time when investors are looking for signs of business maturity. Anthropic recently filed confidentially for an IPO, putting it on a path to go public this fall.
+---
+ID: TL-09
+Title: Inside Meta's attempts to play catch-up with AI (9 minute read)
+Excerpt: Alexandr Wang had a rough start at Meta, but he seems to have found his groove.
+---
+ID: TL-10
+Title: Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents (4 minute read)
+Excerpt: Morgan Stanley will allow AI agents from thousands of corporations to access its wealth management platforms like ShareWorks and Equity Edge.
+---
+ID: TL-11
+Title: Be There for Every Customer With Meta Business Agent (3 minute read)
+Excerpt: Meta Business Agent, a new AI tool, allows businesses to efficiently manage customer interactions on WhatsApp, Messenger, and Instagram.
+---

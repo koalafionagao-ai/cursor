@@ -1,0 +1,488 @@
+{
+  "date": "2026-06-04",
+  "sections": {
+    "top news": [
+      {
+        "title": "Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude",
+        "excerpt": "",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+        "tweets": [
+          {
+            "author": "@anthropicai",
+            "text": "Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor. It's happening faster than we thought, and the implications deserve greater attention.",
+            "url": "https://x.com/anthropicai/status/2062568862479208923"
+          },
+          {
+            "author": "@alexalbert__",
+            "text": "We just published internal data on how much of Claude's development is already being done by Claude: - Over 80% of all code merged into our codebase is now written by Claude - It's been months since many researchers at Anthropic hand-wrote code - The typical Anthropic engineer ships 8x as much code as they did in 2024 - On the most open-ended engineering tasks, Claude's success rate jumped from ~26% to 76% in 6 months - When research sessions went off-track, Claude proposed a better next step than the human took 64% of the time We're not at recursive self-improvement yet, but it could come sooner than most expect.",
+            "url": "https://x.com/alexalbert__/status/2062580571214389510"
+          },
+          {
+            "author": "@emollick",
+            "text": "“As of May 2026, more than 80% of the code we merge into Anthropic's codebase was authored by Claude.” Matches independent measures. There really is no sign this is slowing down (which doesn't mean there aren't organizational challenges to absorbing this much productivity gain) [image]",
+            "url": "https://x.com/emollick/status/2062580212768936344"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Anthropic calls for top AI labs to weigh slowing or temporarily pausing development, suggesting that self-improving AI systems may soon pose societal risks",
+            "url": "https://www.wsj.com/tech/ai/anthropic-urges-global-pause-in-ai-development-flags-self-improvement-risk-99cefb73?st=yfsJia&reflink=desktopwebshare_permalink"
+          }
+        ]
+      },
+      {
+        "title": "TSMC CEO C.C. Wei says the company won't be able to fulfill the demand led by US customers even as more capacity comes online in the US over the next few years",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/tsmc-ceo-warns-chip-supply-won-t-meet-ai-fueled-demand-for-years",
+        "tweets": [
+          {
+            "author": "@gavinsbaker",
+            "text": "I believe I said “tough, flinty, disciplined” rather than stubborn. I deeply admire TSM management and believe their capacity discipline, whether organic or self-imposed, is good for everyone. We want a smoother for longer cycle. An overbuild and/or a bubble would be terrible.",
+            "url": "https://x.com/gavinsbaker/status/2062567550676828371"
+          },
+          {
+            "author": "@thetranscript_",
+            "text": "$TSM TSMC CEO doesn't seem worried of @elonmusk's potential chip fab “I wish him the best....We have never lacked competitors over the past nearly 40 years. We have always been a winner, and that will continue in the future.”",
+            "url": "https://x.com/thetranscript_/status/2062470555362546043"
+          },
+          {
+            "author": "@zephyr_z9",
+            "text": "“TSMC is doing its best not to become a bottleneck in the supply chain” 🧢🧢🧢 Google wouldn't use EMIB or Apple, and others would be diversifying to Intel/Samsung if enough CoWoS and 2nm/3nm capacity existed",
+            "url": "https://x.com/zephyr_z9/status/2062428688529146306"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Corporate spending management platform Ramp raised $750M at a $44B valuation led by Iconiq, Singapore's GIC, and the OTPP, taking its total funding to $3B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round",
+        "tweets": [
+          {
+            "author": "@eglyman",
+            "text": "Today, Ramp raised $750M at a $44B valuation. Last time we grew this fast, we were 1/20th the size. For 2000 years, business was built on two pillars. Today, a third: intelligence. It's your least governed cost. It's also your single greatest opportunity. [image]",
+            "url": "https://x.com/eglyman/status/2062526944265048285"
+          },
+          {
+            "author": "@alexrkonrad",
+            "text": "Ramp is now worth 1/22 an Anthropic",
+            "url": "https://x.com/alexrkonrad/status/2062543963370758533"
+          },
+          {
+            "author": "@rabois",
+            "text": "Tokens are now the fastest-growing cost in business — and invisible to the systems built to manage spend. @tryramp raised $750M at $44B to help finance teams see and govern them.",
+            "url": "https://x.com/rabois/status/2062541933990355448"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sam Altman and Dario Amodei are among the signatories on a public letter urging improved tracking of synthetic DNA that could be used in AI-developed bioweapons",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Canada unveils its AI strategy that it says will help create 250,000 jobs by 2031, with a CA$500M tech fund to invest in homegrown AI startups",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cloudflare acquires VoidZero, the company behind Vite, Vitest, Rolldown, Oxc, and Vite+ frameworks, and says the projects will stay open source",
+        "excerpt": "",
+        "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at AI consciousness debates; LLM conversations are cleverly disguised examples of sentence continuation, but that doesn't deny how impressive LLMs can be",
+        "excerpt": "",
+        "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=1ga2TvL-DbuHDQIcYF7oR7CsNA92bD_yo6VqlH7-uco&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Sources: Meta has repeatedly delayed Muse Spark API's release from April due to bugs and infrastructure needs; Meta now says it plans to release the API in June",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c?st=YAquJj&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Anthropic as it prepares to go public and broaden access to Mythos, amid criticism that commercial pressures forced it to cut corners on AI safety",
+        "excerpt": "",
+        "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/48127489-4157-4be1-b084-496ee920cd07",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google releases macOS versions of AI Edge Gallery, which lets users run open models on their devices, and AI Edge Eloquent, an on-device voice dictation app",
+        "excerpt": "",
+        "url": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Brian Chesky is starting a new AI lab and considering a focus on user interaction and design; he will remain Airbnb CEO and will not be the lab's CEO",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/airbnb-ceo-brian-chesky-plans-to-start-a-new-ai-company",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI updates ChatGPT memory with a “more capable and compute-efficient” architecture and a summary page that lets users review and steer what it remembers",
+        "excerpt": "",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: US officials have held talks with AI companies about the government acquiring shares; Sam Altman first pitched the concept directly to Trump in 2025",
+        "excerpt": "",
+        "url": "https://www.notus.org/technology/trump-ai-stake-openai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alibaba says it is opening Qwen to third-party AI agents, starting with KFC, Mixue, and others, and Qwen's app serves 100M+ daily lifestyle services engagements",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/article/3355850/fried-chicken-flight-plans-alibaba-wants-qwen-become-chinas-digital-fixer",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Poke, which lets users access AI agents via text message, becomes the first AI agent approved for Apple's Messages for Business platform",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kirkland & Ellis, the world's highest-grossing law firm, agrees to a multiyear deal with Palantir to develop an AI tool to help advise PE firms on raising funds",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/4243f9c0-63eb-48d8-b395-bd1ca5cc37a2",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How AI tools from Harvey, Legora, and Anthropic are challenging legal tech incumbents like Thomson Reuters and LexisNexis, which are upgrading their products",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/8514e586-96a9-4e74-b8c6-893a629ce5e4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Two House lawmakers unveil bipartisan AI legislation that would override some state AI laws and require top AI developers to implement risk-management plans",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Public First: 26% of Americans support increased data center construction, the lowest share among 15 large countries, such as Brazil, Japan, the UK, and Canada",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In a letter to Utah Senate President, Kevin O'Leary says he will cut a 40,000-acre AI data center project in Utah by roughly half, after backlash from lawmakers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/shark-tank-star-shrinks-data-center-footprint-after-backlash",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "France secured €110B+ of proposed AI and data center investments this week, amounting to ~10 GW of new computing capacity, equivalent to ~10 nuclear reactors",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/8be3cb2e-c65e-4bef-a085-744e99a9dbd1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Arizona Public Service, the state's largest utility, proposes a 45% electricity-rate increase for data centers to ensure “that they are paying their fair share”",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/energy-oil/phoenix-is-a-data-center-meccaand-test-case-for-how-to-pay-for-ais-power-needs-c671056f?st=DmgzBM&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A deep dive into the case for data centers in space, as SpaceX prepares to go public: Elon Musk's claims, the wider debate, power supply issues, costs, and more",
+        "excerpt": "",
+        "url": "https://newsletter.semianalysis.com/p/to-boldly-go-the-case-for-space-datacenters",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Moderators of the r/biohackers subreddit claim that peptide companies are spamming their forum to get AI chatbots to scrape their posts and change their answers",
+        "excerpt": "",
+        "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Centralized control over online platforms not only leads to enshittification, but to “despotification”; decentralized protocols bring back democratic ideals",
+        "excerpt": "",
+        "url": "https://www.liberalism.org/p/enshittification-despotification-and-the-open-internet",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta's Oversight Board says Meta's account deactivations lack due process, violations are flagged without clarity, and there's little support for appeals",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal docs from lawsuits by 1,400 school districts show how social media companies targeted kids: Meta paid “teen ambassadors”, Snap sent school-hour alerts",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/04/us/social-media-schools.html?unlocked_article_code=1.nlA.2Gxd.JIYdoPgMkwWZ&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta says Australia's proposed 2.25% tax on domestic revenue for tech giants that don't sign news licensing deals violates the US-Australia Free Trade Agreement",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/meta-accuses-australia-breaching-fta-invokes-us-trade-action-2026-06-04/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Foxconn says it will work with Intel to jointly develop and deploy next-gen AI infrastructure, including server racks with Intel Xeon processors and AI chips",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/foxconn-announces-strategic-collaboration-with-intel-next-gen-ai-infrastructure-2026-06-04/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SpaceX wins a property tax exemption for its planned $55B Terafab chip facility in Texas, despite Texans threatening legal action, amid local opposition to AI",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/86b2440a-60ce-4a5b-94ba-a6a4456ae574",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Coinbase and Better fund the first Fannie Mae-backed mortgage that uses bitcoin as collateral, with a nationwide rollout planned in the coming months",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/403640/coinbase-better-first-bitcoin-backed-mortgage-nationwide-rollout-soon",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CoinGecko: Hyperliquid-linked HYPE token is up ~180% YTD, lifting its market value above $16B and pushing it into the top 10 digital assets by market cap",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-03/a-180-crypto-rally-shows-new-investing-era-as-bitcoin-stumbles",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "payments": [
+      {
+        "title": "Revolut co-founder and CTO Vlad Yatsenko plans to step down in July, to be replaced by Head of Technology Donato Lucia; Yatsenko was Revolut's first employee",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/revolut-co-founder-cto-vlad-yatsenko-to-step-down-from-role",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OnePay, a fintech app backed by Walmart and valued at $4B+, now has 6M MAUs and $50B in annualized payments, both double its figures from 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-02/how-walmart-backed-onepay-is-taking-on-banks?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDQzOTkyMiwiZXhwIjoxNzgxMDQ0NzIyLCJhcnRpY2xlSWQiOiJURzA1QTROM04wQkgwMCIsImJjb25uZWN0SWQiOiIxOEQ5MDA4RjlBNzk0NjEyQUMxNzMyMzRGMjYzNTFENCJ9.yQ5dpS1bUCuP4kcJ1_4pCnecvy83UdkLqEIad4rGZqs",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "personnel changes": [
+      {
+        "title": "Challenger: US tech companies announced cuts of 38,242 jobs in May, the most since August 2024, taking 2026's total so far to 123,653 cuts, up 65%+ YoY",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Applied Materials plans to expand its Southeast Asia workforce by 25% in 2026, hiring ~1,000 workers mainly in Singapore at its key chip packaging equipment hub",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/applied-materials-looks-to-hire-25-more-chip-talent-in-southeast-asia",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, priced above its marketed range of $53 to $55, valuing the company at $15.6B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/honeywell-backed-quantinuum-raises-1-68-billion-in-upsized-ipo",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Quantinuum closed up 0.63% in its Nasdaq debut on Thursday, with a market value of $15.7B, after raising $1.68B in an upsized IPO",
+            "url": "https://www.cnbc.com/2026/06/04/quantinuum-qnt-stock-first-trade-ipo.html"
+          }
+        ]
+      },
+      {
+        "title": "Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/blackstone-backed-liftoff-raises-437-million-in-revived-us-ipo",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Flourish, which is building Cortex AI, a brain-like synthetic intelligence system that uses less power than LLMs, raised $500M, including $100M from Jeff Bezos",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Robotics startup Generalist, which released its GEN-1 model to complete short physical tasks in April, raised $400M led by Radical Ventures at a $2B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bengaluru-based grocery delivery startup FirstClub raised a $55M Series B co-led by Peak XV and Sofina at a $255M valuation, up from $120M in September 2025",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London- and NY-based Airspeed, which aims to use AI agents to replace sales software like traditional CRM dashboards, raised a $20M Series A led by DN Capital",
+        "excerpt": "",
+        "url": "https://pathfounders.com/p/ex-deepmind-duo-raise-20m-to-build-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Honeycomb, which offers an AI-powered insurance platform for multi-unit residential properties, raised $40M led by Zeev, bringing its total funding to $95M",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/04/honeycomb-insurance-ai-apartments-40-million/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Google now lets big creators and publishers in the US claim and customize dedicated Search profiles to aggregate their content from multiple platforms",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SCOTUS sides with the FCC in its clash with wireless carriers, upholding the agency's in-house system for levying fines for regulatory violations",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/us-supreme-court-sides-with-fcc-clash-with-wireless-carriers-over-fines-2026-06-04/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Unsealed 2020 lawsuit: ex-IBM VP of threat intelligence alleges that IBM and AT&T concealed foreign cyber breaches to maintain eligibility for federal contracts",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/ibm-at-t-accused-by-whistleblower-of-covering-up-foreign-hacks?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDYwMzc4NSwiZXhwIjoxNzgxMjA4NTg1LCJhcnRpY2xlSWQiOiJURzMySE9LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJBNkJBMTU4RTEwN0Y0NDk3OUQwRjRFOTgyN0ZERkVDQiJ9.PI0mdDQgV_KjOobDdhQQ-vzzj-4aojnm1eHKqBdJqb4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Founders Fund launches a TV-style game show featuring A-list founders and investors, including Sam Altman and Palmer Luckey, playing a game of Mafia",
+        "excerpt": "",
+        "url": "https://www.newcomer.co/p/founders-funds-new-media-play-tech",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon unveils its next-gen Proteus warehouse robot, adding AI-powered language capabilities that let workers assign it tasks, rolling out in Europe in H1 2027",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sam Altman says he has no plans to put money into the 2026 US midterms; OpenAI has tried to distance itself from the Greg Brockman-backed Leading the Future PAC",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-03/sam-altman-says-he-doesn-t-plan-to-put-money-into-2026-elections",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Taiwan's and South Korea's stock market capitalizations overtake India's, as investors favor markets with companies positioned to benefit from the AI boom",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/e0a198af-725a-4fa0-a9fe-72725163b4e6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A study of Waymo robotaxi data for 13.8M trips from August 2023 to December 2025: the share of miles driven with a passenger on board climbed from 36% to 56%",
+        "excerpt": "",
+        "url": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Robinhood plans to route some 2026 soccer World Cup bets to Rothera, shifting away from Kalshi as it seeks to diversify its prediction markets providers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/robinhood-shifts-some-world-cup-bets-away-from-kalshi",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US SEC filing: Vanguard marks down Ola Consumer's valuation to ~$70.3M; Ola, which faces intense competition from Uber and Rapido, was valued at $7.3B in 2021",
+        "excerpt": "",
+        "url": "https://entrackr.com/news/vanguard-marks-down-olas-valuation-to-70-mn-11903535",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Current and former employees detail Amazon's e-commerce struggles in India, where local rivals have challenged the company more than anywhere outside of China",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-04/amazon-has-struggled-to-crack-the-world-s-most-populous-nation?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDUzODU2MywiZXhwIjoxNzgxMTQzMzYzLCJhcnRpY2xlSWQiOiJURzMxR0VOM04wQjkwMCIsImJjb25uZWN0SWQiOiIxRkVFRTMxMzc0QjQ0MEQ3OUEzM0QyQUY1MDFFMUM0MCJ9.zL6HcBcKO6IDDhjtAdRJKt6plNu3m4zJQtqtqj2W8x4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with Satya Nadella on Microsoft's competitive position, MAI models, OpenAI, the software business, GitHub Copilot, Project Solara, data centers, and more",
+        "excerpt": "",
+        "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 11,
+    "news_count": 57
+  }
+}

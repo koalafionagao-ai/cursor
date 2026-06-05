@@ -1,0 +1,637 @@
+{
+  "date": "2026-06-04",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 29,
+    "by_category": {
+      "cat:model": 2,
+      "cat:other": 6,
+      "cat:business": 12,
+      "cat:app": 5,
+      "cat:tech": 4
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "title": {
+        "zh": "Anthropic详述递归自我改进的进展及其影响",
+        "en": "Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude"
+      },
+      "summary": {
+        "zh": "Anthropic表示，其代码库中超过80%的代码由Claude生成。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-04",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "title": {
+        "zh": "Sam Altman和Dario Amodei签署公开信，呼吁加强对合成DNA的追踪",
+        "en": "Sam Altman and Dario Amodei are among the signatories on a public letter urging improved tracking of synthetic DNA that could be used in AI-developed bioweapons"
+      },
+      "summary": {
+        "zh": "公开信警告合成DNA可能被用于AI开发的生物武器。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "sam-altman",
+        "dario-amodei",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-05",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/world-at-work/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3-2026-06-04/",
+      "title": {
+        "zh": "加拿大公布AI战略，计划到2031年创造25万个就业岗位",
+        "en": "Canada unveils its AI strategy that it says will help create 250,000 jobs by 2031, with a CA$500M tech fund to invest in homegrown AI startups"
+      },
+      "summary": {
+        "zh": "战略包括设立5亿加元科技基金，投资本土AI初创企业。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "policy",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+      "title": {
+        "zh": "消息称Anthropic向NSA派遣工程师协助部署Mythos用于网络攻防",
+        "en": "Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/48127489-4157-4be1-b084-496ee920cd07",
+      "title": {
+        "zh": "Anthropic准备上市并扩大Mythos的使用范围",
+        "en": "A profile of Anthropic as it prepares to go public and broaden access to Mythos, amid criticism that commercial pressures forced it to cut corners on AI safety"
+      },
+      "summary": {
+        "zh": "公司因商业压力被批评在AI安全上妥协。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "safety",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "title": {
+        "zh": "Google发布AI Edge Gallery和AI Edge Eloquent的macOS版本",
+        "en": "Google releases macOS versions of AI Edge Gallery, which lets users run open models on their devices, and AI Edge Eloquent, an on-device voice dictation app"
+      },
+      "summary": {
+        "zh": "AI Edge Gallery支持在设备上运行开源模型，AI Edge Eloquent为设备端语音输入应用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "multimodal",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "title": {
+        "zh": "OpenAI更新ChatGPT记忆功能，采用更高效架构",
+        "en": "OpenAI updates ChatGPT memory with a “more capable and compute-efficient” architecture and a summary page that lets users review and steer what it remembers"
+      },
+      "summary": {
+        "zh": "新增摘要页面，用户可查看和引导记忆内容。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chatgpt",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/article/3355850/fried-chicken-flight-plans-alibaba-wants-qwen-become-chinas-digital-fixer",
+      "title": {
+        "zh": "阿里巴巴开放Qwen给第三方AI代理，首批合作包括肯德基和蜜雪冰城",
+        "en": "Alibaba says it is opening Qwen to third-party AI agents, starting with KFC, Mixue, and others, and Qwen's app serves 100M+ daily lifestyle services engagements"
+      },
+      "summary": {
+        "zh": "Qwen应用每天服务超过1亿次生活服务交互。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "alibaba",
+        "qwen",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/4243f9c0-63eb-48d8-b395-bd1ca5cc37a2",
+      "title": {
+        "zh": "Kirkland & Ellis与Palantir达成多年合作开发AI工具",
+        "en": "Kirkland & Ellis, the world's highest-grossing law firm, agrees to a multiyear deal with Palantir to develop an AI tool to help advise PE firms on raising funds"
+      },
+      "summary": {
+        "zh": "该工具将帮助私募股权公司筹集资金。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "palantir",
+        "enterprise",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/8514e586-96a9-4e74-b8c6-893a629ce5e4",
+      "title": {
+        "zh": "Harvey、Legora和Anthropic的AI工具挑战法律科技巨头",
+        "en": "How AI tools from Harvey, Legora, and Anthropic are challenging legal tech incumbents like Thomson Reuters and LexisNexis, which are upgrading their products"
+      },
+      "summary": {
+        "zh": "Thomson Reuters和LexisNexis正在升级其产品以应对竞争。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "enterprise",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920",
+      "title": {
+        "zh": "两位美国国会议员推出跨党派AI立法，拟覆盖部分州级AI法律并要求顶级AI开发者实施风险管理计划",
+        "en": "Two House lawmakers unveil bipartisan AI legislation that would override some state AI laws and require top AI developers to implement risk-management plans"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "ide"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/8be3cb2e-c65e-4bef-a085-744e99a9dbd1",
+      "title": {
+        "zh": "法国本周获得超过1100亿欧元的AI和数据中心投资，新增约10GW计算能力，相当于约10座核反应堆",
+        "en": "France secured €110B+ of proposed AI and data center investments this week, amounting to ~10 GW of new computing capacity, equivalent to ~10 nuclear reactors"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "title": {
+        "zh": "Meta监督委员会批评账户停用缺乏正当程序，违规标记不明确，申诉支持不足",
+        "en": "Meta's Oversight Board says Meta's account deactivations lack due process, violations are flagged without clarity, and there's little support for appeals"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-30",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/foxconn-announces-strategic-collaboration-with-intel-next-gen-ai-infrastructure-2026-06-04/",
+      "title": {
+        "zh": "富士康与英特尔合作开发和部署下一代AI基础设施，包括搭载英特尔至强处理器和AI芯片的服务器机架",
+        "en": "Foxconn says it will work with Intel to jointly develop and deploy next-gen AI infrastructure, including server racks with Intel Xeon processors and AI chips"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "intel"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/honeywell-backed-quantinuum-raises-1-68-billion-in-upsized-ipo",
+      "title": {
+        "zh": "Quantinuum在美国IPO中筹集16.8亿美元，发行2800万股，每股60美元，估值达156亿美元",
+        "en": "Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, priced above its marketed range of $53 to $55, valuing the company at $15.6B"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html",
+      "title": {
+        "zh": "Supabase完成由GIC领投的5亿美元F轮融资，投前估值达100亿美元",
+        "en": "Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-41",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "title": {
+        "zh": "Flourish公司开发低功耗类脑AI系统Cortex AI，获5亿美元融资，其中1亿美元来自Jeff Bezos",
+        "en": "Flourish, which is building Cortex AI, a brain-like synthetic intelligence system that uses less power than LLMs, raised $500M, including $100M from Jeff Bezos"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-42",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion",
+      "title": {
+        "zh": "机器人初创公司Generalist完成由Radical Ventures领投的4亿美元融资，估值达20亿美元",
+        "en": "Robotics startup Generalist, which released its GEN-1 model to complete short physical tasks in April, raised $400M led by Radical Ventures at a $2B valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-44",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://pathfounders.com/p/ex-deepmind-duo-raise-20m-to-build-ai-agents",
+      "title": {
+        "zh": "Airspeed完成由DN Capital领投的2000万美元A轮融资，计划用AI代理替代传统CRM仪表盘",
+        "en": "London- and NY-based Airspeed, which aims to use AI agents to replace sales software like traditional CRM dashboards, raised a $20M Series A led by DN Capital"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-46",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+      "title": {
+        "zh": "Google允许美国的大型创作者和出版商申请并自定义专属搜索档案，聚合多平台内容",
+        "en": "Google now lets big creators and publishers in the US claim and customize dedicated Search profiles to aggregate their content from multiple platforms"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "search"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-50",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "title": {
+        "zh": "亚马逊推出新一代Proteus仓库机器人，支持AI语言功能",
+        "en": "Amazon unveils its next-gen Proteus warehouse robot, adding AI-powered language capabilities that let workers assign it tasks, rolling out in Europe in H1 2027"
+      },
+      "summary": {
+        "zh": "该机器人允许工人通过语言指令分配任务，计划于2027年上半年在欧洲推出。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "amazon",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-57",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+      "title": {
+        "zh": "萨提亚·纳德拉谈微软竞争地位、MAI模型、OpenAI等",
+        "en": "Q&A with Satya Nadella on Microsoft's competitive position, MAI models, OpenAI, the software business, GitHub Copilot, Project Solara, data centers, and more"
+      },
+      "summary": {
+        "zh": "纳德拉讨论了微软在软件业务、GitHub Copilot、数据中心等领域的战略和竞争力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "microsoft",
+        "satya-nadella",
+        "github-copilot",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c?st=q9zW6D&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "Meta推迟向开发者发布新AI模型",
+        "en": "Meta Keeps Delaying the Release of Its New AI Model to Developers (7 minute read)"
+      },
+      "summary": {
+        "zh": "Meta的Muse Spark模型被认为具有竞争力，但尚未被外部机构评估，发布延迟引发了对其商业化能力的质疑。",
+        "en": "Meta doesn't have a planned date to release its newest AI models to developers. The company is testing its API with partners and had plans to release it this month. The Muse Spark model is reportedly competitive with OpenAI and Anthropic's offerings, but it has yet to be evaluated by outside firms. The delay raises questions about how quickly Meta can monetize its massive investments in building frontier AI models."
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "openai",
+        "anthropic",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/openai-makes-its-next-hardware-move-with-opal-electronics/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI与Opal Electronics合作进军AI硬件",
+        "en": "OpenAI makes its next hardware move with Opal Electronics (2 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI投资Opal Electronics，计划推出面向创意工作的AI原生设备，标志着其硬件领域的新尝试。",
+        "en": "OpenAI leads a funding round for Opal Electronics, focusing on a new product line extending beyond webcams into AI-native devices for creative work. This aligns with OpenAI's push into hardware, despite delays in its own ambient computing project."
+      },
+      "tags": [
+        "cat:business",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-05",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://github.com/ideogram-oss/ideogram4?utm_source=tldrai",
+      "title": {
+        "zh": "Ideogram 4：开源文本生成图像模型",
+        "en": "Ideogram 4 (GitHub Repo)"
+      },
+      "summary": {
+        "zh": "该模型从零开始训练，支持多语言文本渲染、显式布局控制和2k分辨率图像生成。",
+        "en": "Ideogram 4 is an open-weight text-to-image model. It was trained from scratch and not a fine-tune of any existing model. The model introduces a new structured JSON prompting interface. It features best-in-class multilingual text rendering, deep language understanding, explicit bounding-box layout and color-palette controls, and native 2k resolution images."
+      },
+      "tags": [
+        "cat:model",
+        "open-weights",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2606.03979?utm_source=tldrai",
+      "title": {
+        "zh": "谷歌提出“睡眠”范式以支持持续学习",
+        "en": "Sleep for Continual Learning (24 minute read)"
+      },
+      "summary": {
+        "zh": "该方法通过蒸馏和重放将短期知识整合为长期参数，并利用强化学习生成自我改进的合成课程。",
+        "en": "Google researchers propose a new “Sleep” paradigm that helps models consolidate short-term in-context knowledge into longer-term parameters through distillation and replay. The approach also uses a “Dreaming” stage with reinforcement learning to generate synthetic curricula for self-improvement."
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "training"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://tomtunguz.com/tokens-per-result/?utm_source=tldrai",
+      "title": {
+        "zh": "微软推出“每美元智能”指标",
+        "en": "Intelligence Per Dollar (2 minute read)"
+      },
+      "summary": {
+        "zh": "通过在模型发布卡中引入平均Token使用量，微软推动企业在效率和成本效益上竞争。",
+        "en": "Microsoft introduces \"average token usage\" on model release cards, emphasizing intelligence per dollar. Models are now benchmarked on performance and the cost of achieving that intelligence. This new metric forces companies to compete on efficiency, aligning pricing with tangible outcomes like completed support cases."
+      },
+      "tags": [
+        "cat:tech",
+        "microsoft",
+        "pricing",
+        "benchmark"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.wsj.com/cio-journal/anthropic-bulks-up-its-enterprise-partner-program-amid-ipo-plans-560a9b82?st=SkNT6W&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic扩展企业合作伙伴计划并筹备IPO",
+        "en": "Anthropic Bulks Up Its Enterprise Partner Program Amid IPO Plans (4 minute read)"
+      },
+      "summary": {
+        "zh": "该计划帮助第三方销售Claude产品，展示公司在扩展和商业成熟度方面的努力。",
+        "en": "Anthropic's Claude Partner Network is a program for third-party sellers of its AI products that helps them move more product. Firms participating in the program must meet a slate of requirements, but joining it gives companies a great deal of credibility when selling Claude to businesses. The move helps Anthropic demonstrate to the market that it is thinking about scale during a time when investors are looking for signs of business maturity. Anthropic recently filed confidentially for an IPO, putting it on a path to go public this fall."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "claude",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-10",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html?utm_source=tldrai",
+      "title": {
+        "zh": "摩根士丹利将开放财富管理平台给AI代理",
+        "en": "Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents (4 minute read)"
+      },
+      "summary": {
+        "zh": "摩根士丹利允许来自数千家公司的AI代理访问其财富管理平台，如ShareWorks和Equity Edge。",
+        "en": "Morgan Stanley will allow AI agents from thousands of corporations to access its wealth management platforms like ShareWorks and Equity Edge."
+      },
+      "tags": [
+        "cat:app",
+        "enterprise",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
