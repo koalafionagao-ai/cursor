@@ -299,8 +299,14 @@
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior: contain;
-    padding-top: 4px;
+    padding-top: 12px;
+    scroll-padding-top: 12px;
     padding-bottom: var(--m-scroll-bottom);
+  }
+
+  .blog-list > .blog-card:first-child,
+  .category-block:first-child .blog-card:first-child {
+    scroll-margin-top: 4px;
   }
 
   .mobile-feed-footer {
@@ -369,18 +375,20 @@
 
   .card-footer-row {
     display: flex;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    width: 100%;
   }
 
   .card-meta-tags {
-    flex: 1;
-    min-width: 0;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
     gap: 8px;
-    overflow: hidden;
+    width: 100%;
+    min-width: 0;
+    overflow: visible;
   }
 
   .card-meta-tags .meta-line {
@@ -390,13 +398,12 @@
   }
 
   .card-meta-tags .tag-row {
-    flex: 1;
-    min-width: 0;
     display: flex;
-    flex-wrap: nowrap;
-    gap: 4px;
-    overflow-x: auto;
-    scrollbar-width: none;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+    min-width: 0;
+    overflow: visible;
   }
 
   .card-meta-tags .tag-row::-webkit-scrollbar {
@@ -405,9 +412,10 @@
 
   .card-footer-row .mark-read-btn {
     flex-shrink: 0;
-    min-height: 32px;
-    padding: 5px 10px;
-    font-size: 0.72rem;
+    align-self: flex-end;
+    min-height: 36px;
+    padding: 6px 12px;
+    font-size: 0.76rem;
   }
 
   .mobile-overlay {

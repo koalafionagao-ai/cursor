@@ -70,6 +70,76 @@
     saveState(s);
   }
 
+  function findCardByMark(date, id) {
+    const key = `${date}:${id}`;
+    for (const btn of document.querySelectorAll("[data-mark]")) {
+      if (btn.dataset.mark === key) return btn.closest(".blog-card");
+    }
+    return null;
+  }
+
+  function toggleItemReadState(date, id) {
+    if (isExplicitlyRead(date, id)) {
+      const s = loadState();
+      delete s.read?.[itemKey(date, id)];
+      saveState(s);
+    } else {
+      markRead(date, id);
+    }
+
+    monthStats = computeMonthStats();
+    updateMobileTopNav();
+    renderLeftNav();
+    renderTagPanel();
+    syncMobileFilterPanel();
+
+    const card = findCardByMark(date, id);
+    const feed = document.querySelector(".main-feed-scroll");
+    const scrollY = feed ? feed.scrollTop : 0;
+    const nowRead = isExplicitlyRead(date, id);
+
+    if (filterUnread && nowRead && card && feed) {
+      const cardHeight = card.offsetHeight;
+      const cardTop = card.getBoundingClientRect().top - feed.getBoundingClientRect().top + feed.scrollTop;
+      card.remove();
+      document.querySelectorAll(".category-block").forEach((sec) => {
+        if (!sec.querySelector(".blog-card")) sec.remove();
+      });
+      if (feed && scrollY > cardTop) {
+        feed.scrollTop = Math.max(0, scrollY - cardHeight - 18);
+      }
+      return;
+    }
+
+    if (!card) return;
+
+    card.classList.toggle("unread", !nowRead);
+    card.classList.toggle("is-read", nowRead);
+    const btn = card.querySelector(".mark-read-btn");
+    if (btn) {
+      btn.textContent = nowRead ? t("标为未读", "Mark unread") : t("标为已读", "Mark read");
+    }
+    let badge = card.querySelector(".read-badge");
+    if (nowRead && !badge) {
+      badge = document.createElement("span");
+      badge.className = "read-badge";
+      badge.setAttribute("aria-label", "read");
+      badge.textContent = "✓";
+      card.insertBefore(badge, card.firstChild);
+    } else if (!nowRead && badge) {
+      badge.remove();
+    }
+
+    if (feed) feed.scrollTop = scrollY;
+  }
+
+  function syncMobileHeaderHeight() {
+    if (!isMobileViewport()) return;
+    const header = document.querySelector(".header-bar");
+    if (!header) return;
+    document.documentElement.style.setProperty("--m-header-h", `${header.offsetHeight}px`);
+  }
+
   function markAllVisibleRead() {
     getVisibleItems(false).forEach((it) => markRead(it.date, it.id));
     render();
@@ -847,21 +917,26 @@
     refreshOpenMobilePanelContent();
   }
 
-  function updateMobileLayout() {
+  function updateMobileLayout(opts = {}) {
     const mobile = isMobileViewport();
+    const preserveChrome = !!opts.preserveChrome;
     document.body.classList.toggle("is-mobile", mobile);
     if (!mobile) {
       closeMobileSheets();
       document.querySelector(".header-bar")?.classList.remove("header-hidden");
       document.body.classList.remove("mobile-chrome-hidden");
       syncMobileHeaderToolbar("");
+      document.documentElement.style.removeProperty("--m-header-h");
     }
     updateMobileTopNav();
     syncMobileFilterPanel();
     if (monthStats) syncMobileHubPanel(renderDashboard());
     if (mobile) {
-      document.body.classList.remove("mobile-chrome-hidden");
-      document.querySelector(".header-bar")?.classList.remove("header-hidden");
+      if (!preserveChrome) {
+        document.body.classList.remove("mobile-chrome-hidden");
+        document.querySelector(".header-bar")?.classList.remove("header-hidden");
+      }
+      requestAnimationFrame(() => syncMobileHeaderHeight());
     }
   }
 
@@ -974,7 +1049,10 @@
           closeOperateMenu();
         }
       });
-      window.addEventListener("resize", () => updateMobileLayout());
+      window.addEventListener("resize", () => {
+        syncMobileHeaderHeight();
+        updateMobileLayout();
+      });
     }
 
     const handleToolbarAction = (e) => {
@@ -1027,14 +1105,7 @@
         e.preventDefault();
         e.stopPropagation();
         const [d, id] = mark.dataset.mark.split(":");
-        if (isExplicitlyRead(d, id)) {
-          const s = loadState();
-          delete s.read?.[itemKey(d, id)];
-          saveState(s);
-        } else {
-          markRead(d, id);
-        }
-        render();
+        toggleItemReadState(d, id);
         return;
       }
       const tagChip = e.target.closest(".tag-chip");
@@ -1065,7 +1136,11 @@
     monthStats = computeMonthStats();
   }
 
-  async function render() {
+  async function render(opts = {}) {
+    const feed = document.querySelector(".main-feed-scroll");
+    const scrollY = opts.preserveScroll && feed ? feed.scrollTop : null;
+    const preserveChrome =
+      opts.preserveScroll && document.body.classList.contains("mobile-chrome-hidden");
     parseRoute();
     if (!route.month && manifest?.months?.length) route.month = manifest.months[0].id;
     initExpandState();
@@ -1076,8 +1151,12 @@
     renderLeftNav();
     renderTagPanel();
     renderMain();
-    updateMobileLayout();
+    updateMobileLayout({ preserveChrome });
     bindMobileChrome();
+    if (scrollY != null) {
+      const newFeed = document.querySelector(".main-feed-scroll");
+      if (newFeed) newFeed.scrollTop = scrollY;
+    }
   }
 
   function bindMobileChrome() {
