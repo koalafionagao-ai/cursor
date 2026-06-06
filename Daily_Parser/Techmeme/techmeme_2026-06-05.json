@@ -1,0 +1,339 @@
+{
+  "date": "2026-06-05",
+  "sections": {
+    "top news": [
+      {
+        "title": "President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says",
+        "tweets": [
+          {
+            "author": "@davidsacks",
+            "text": "While I'm no fan of socialism or arbitrary confiscations of wealth, I can see why Bernie Sanders' proposal (for the government to take a 50% stake in AI companies) resonates, including with many on the right",
+            "url": "https://x.com/davidsacks/status/2062945826935284011"
+          },
+          {
+            "author": "@garymarcus",
+            "text": "Absofuckinglutely called it. Nationalized stakes are just a bailout by a different name. Here we are seventeen months later, and the fleece the taxpayer game is on.",
+            "url": "https://x.com/garymarcus/status/2062993204916756795"
+          },
+          {
+            "author": "@atrupar",
+            "text": "Trump says he's interested in the government taking equity stakes in the giant AI companies like OpenAI or Anthropic: “There's something very interesting about it, where it almost becomes a partnership with the American public.  The American people can benefit from the success of AI, and by doing that, they're gonna like it better.”  [video]",
+            "url": "https://x.com/atrupar/status/2062971806315585555"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Source: OpenAI and White House are discussing a government stake in the company, to seed something like the “Public Wealth Fund” that OpenAI outlined earlier",
+            "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html"
+          },
+          {
+            "title": "Sources: US officials discussed the US taking stakes in major AI companies after Sam Altman pitched the idea in 2025; Altman met Bernie Sanders on Wednesday",
+            "url": "https://www.wsj.com/tech/ai/u-s-officials-discuss-taking-financial-stakes-in-ai-industry-b654d41a?st=eWK7zU&reflink=desktopwebshare_permalink"
+          }
+        ]
+      },
+      {
+        "title": "Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDY4NjQ4NiwiZXhwIjoxNzgxMjkxMjg2LCJhcnRpY2xlSWQiOiJURzY5SjlLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjgzMTRBODVBRDE0RjM3OTQ2MzdBRjhGQ0ZBRTk5NSJ9.pytPWYxisNQczqZukBO6ST5XrntfAYOOi15DezFG3Dg",
+        "tweets": [
+          {
+            "author": "@edzitron",
+            "text": "Also this is the firmest proof that data center capacity is just not getting built. If it were, given all its capex, I imagine Google would just use its own data centers",
+            "url": "https://x.com/edzitron/status/2063020176291860712"
+          },
+          {
+            "author": "@mikeisaac",
+            "text": "good faith question: the glass half full on SpaceX signing the google deal to rent servers is that it's real ARR the glass half empty — and i dont know the answer to this — is has xai given up on model development and just selling capacity as a neocloud now?",
+            "url": "https://x.com/mikeisaac/status/2063019186008522988"
+          },
+          {
+            "author": "@signulll",
+            "text": "you're telling me anthropic & google are paying spacex ~$26b a year for compute?!!  this is more than half the run rate of openai & anthropic just from compute deals & that doesn't even factor in the rocket launches at all.  elon accidentally ended up owning a significant portion of three of the scarcest assets in ai.. power, chips, & physical deployment capability.",
+            "url": "https://x.com/signulll/status/2063002432804671802"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Meta explores a stock offering to raise tens of billions to fund AI capital expenditures, following Google's record $85B share deal; META drops 5%+",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd",
+        "tweets": [
+          {
+            "author": "@negligible_cap",
+            "text": "$AMZN dropped $5 on news of $META looking into raising equity [image]",
+            "url": "https://x.com/negligible_cap/status/2062963652982923542"
+          },
+          {
+            "author": "@zephyr_z9",
+            "text": "So Meta, Google, Anthropic, SpaceX, and OpenAI will raise around $350B-$400B from the public markets in the next 9-12 months At this rate, Amazon & Microsoft will join the party too We might even see $550B-$600B raised from the public markets",
+            "url": "https://x.com/zephyr_z9/status/2062973474617041073"
+          },
+          {
+            "author": "@rihardjarc",
+            "text": "Don't do it Zuck... $META's MSL must first show us more before you get a pass on that... [image]",
+            "url": "https://x.com/rihardjarc/status/2062963984110588374"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92%",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/chip-selloff-erases-over-1-trillion-stock-market-value-2026-06-05/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bitcoin falls below $60K, its lowest level since October 2024, amid a record streak of bitcoin ETF outflows following Strategy's bitcoin sale",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDYyMzQ1OCwiZXhwIjoxNzgxMjI4MjU4LCJhcnRpY2xlSWQiOiJURzRNMURUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJGQUY5N0U4NjUwQUM0RUNBOTA5QkYwM0YwNDg3NzM1NCJ9.HSaLgAO19yZU2088joZZqpBFkNSl3GdnMIzWLDCUEiM",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Reid Hoffman, who has served on Microsoft's board since 2017, will not stand for re-election at the company's 2026 annual meeting",
+        "excerpt": "",
+        "url": "https://www.geekwire.com/2026/linkedin-co-founder-reid-hoffman-to-leave-microsoft-board-after-nearly-a-decade/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "What to expect at WWDC 2026: an overhauled Siri, a Siri app, a slew of new AI capabilities, OS updates focused on reliability and responsiveness, and more",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDY2Njc4NSwiZXhwIjoxNzgxMjcxNTg1LCJhcnRpY2xlSWQiOiJURzVKUVdSMjRVQTQwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.OvUQKWv8xFTRoBseiidJH5sg89kOl1x7zo5bzzyIseM",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Meta discreetly added code for an unreleased “NameTag” face-recognition system for its AI smart glasses over multiple Meta AI app updates in 2026",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans",
+        "excerpt": "",
+        "url": "https://www.bbc.com/news/articles/crrpggegwe0o",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple-funded study: the App Store had $1.4T in billings and sales globally in 2025; apps with consumer AI features saw 4x more billings growth than other apps",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/06/04/app-store-ecosystem-generated-1-4-trillion-in-2025-90-commission-free/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Trump signs a national security memorandum seeking to “accelerate the use of AI across intelligence and warfighting domains in line with American values”",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI confirms it will comply with President Trump's EO that asks AI companies to allow the US government to assess their models' capabilities before release",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources say a months-long dispute between the White House and Anthropic is showing signs of easing across the US government as the startup prepares for its IPO",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/aerospace-defense/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-ipo-sources-say-2026-06-05/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to “make people addicted” to its new AI agent product called Scout",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/exclusive-nadella-rebukes-microsoft-executives-plan-make-users-addicted-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A research team that includes Huawei says it successfully used Huawei's Ascend 910C chips for DeepSeek V4 Pro model's post-training, amid increased US sanctions",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/article/3356117/huawei-chips-refine-deepseek-model-major-leap-chinas-ai-self-reliance",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/xai-went-chasing-anthropic-powering",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Sources: data center developer Switch is in talks to raise billions of dollars from private equity firms, including Brookfield and KKR, at a $50B+ valuation",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/data-center-developer-switch-talks-raise-billions-50-billion-plus-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law",
+        "excerpt": "",
+        "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Blackstone-backed data center operator AirTrunk commits to investing $30B in India by 2030, with plans to develop 5GW of new data center capacity in the country",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Illinois Governor JB Pritzker plans to temporarily halt tax breaks for data centers from July 1, calling on state lawmakers to create a development framework",
+        "excerpt": "",
+        "url": "https://www.nbcnews.com/politics/2028-election/illinois-gov-jb-pritzker-suspend-tax-breaks-offered-data-centers-rcna348537",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Elon Musk petitioned the FTC in May to end its 2022 order restricting Twitter's data use, claiming Twitter no longer exists as X merged with xAI and then SpaceX",
+        "excerpt": "",
+        "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chinese regulator CSRC tightens oversight of the country's ~$3.4T private fund industry; the CSRC says it will encourage tech-focused VC investments and more",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/government/china-tighten-oversight-private-investment-funds-2026-06-05/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids' screen time concerns",
+        "excerpt": "",
+        "url": "https://thehill.com/homenews/education/5911207-fcc-reviews-school-internet-subsidies/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "payments": [
+      {
+        "title": "Sources: Revolut is looking to run a secondary share sale that would value it at $115B, after receiving a UK bank license and applying for a charter in the US",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/revolut-weighs-secondary-share-sale-at-115-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The largest US banks plan to launch a tokenized deposit network in 2027 to connect traditional payment rails with the infrastructure that digital assets run on",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/banking/jpmorgan-citi-and-big-banks-plan-new-tokenized-deposit-system-to-answer-crypto-6b2d696b",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/rashishrivastava/2026/06/05/ai-coding-startup-lovable-in-talks-to-raise-funding-at-a-12-billion-valuation/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/05/smash-allen-control-systems-disney",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "India-based Innefu Labs, which builds AI-powered software for national defense and enterprise security infrastructure, raised a $30M Series B led by Panthera",
+        "excerpt": "",
+        "url": "https://economictimes.indiatimes.com/tech/funding/ai-startup-innefu-labs-bags-30-million-in-funding-from-panthera-growth-partners/articleshow/131525751.cms",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024",
+        "excerpt": "",
+        "url": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Apollo and Blackstone finalized a $35B package for Anthropic to lease TPUs; Broadcom is backstopping payments on the debt's largest senior portions",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: SpaceX prepares the largest retail allocation ever attempted in a megacap IPO, seeking to reserve as much as 25% of its $75B float for retail investors",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/3cf5aed7-1a57-44ad-b9bc-11c779a5d2de",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Over 20 EU news publishers file a claim seeking €640M+ from Google following an EU decision that lets anyone harmed by Google's ad market abuse seek damages",
+        "excerpt": "",
+        "url": "https://pressgazette.co.uk/marketing/european-publishers-seek-552m-from-google-claiming-ad-market-abuse/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Marvell and Flex, a contract manufacturer for electronics, will join the S&P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SpaceX says Starlink now has 12M+ “active customers with high-speed internet” across 160+ countries, territories, and other markets, up from 9M in December 2025",
+        "excerpt": "",
+        "url": "https://x.com/starlink/status/2062649204359708741",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources and docs detail defense tech startup Shield AI's struggles to overcome years of technical hitches and safety concerns with its V-BAT autonomous drone",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/drone-crashes-severed-fingers-13-billion-silicon-valley-military-startup-2026-06-05/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with Naomi Gleit, Meta's head of product who joined the company in 2005, on Mark Zuckerberg's “unfair” reputation, AI agents for business, and more",
+        "excerpt": "",
+        "url": "https://www.bbc.com/news/articles/c5y71106g07o",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 37
+  }
+}

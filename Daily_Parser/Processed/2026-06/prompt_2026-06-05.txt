@@ -1,0 +1,213 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives
+Tweets:
+  - Author: @davidsacks
+    Text: While I'm no fan of socialism or arbitrary confiscations of wealth, I can see why Bernie Sanders' proposal (for the government to take a 50% stake in AI companies) resonates, including with many on the right
+    Link ID: TM-01-TW-01
+  - Author: @garymarcus
+    Text: Absofuckinglutely called it. Nationalized stakes are just a bailout by a different name. Here we are seventeen months later, and the fleece the taxpayer game is on.
+    Link ID: TM-01-TW-02
+  - Author: @atrupar
+    Text: Trump says he's interested in the government taking equity stakes in the giant AI companies like OpenAI or Anthropic: “There's something very interesting about it, where it almost becomes a partnership with the American public.  The American people can benefit from the success of AI, and by doing that, they're gonna like it better.”  [video]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Source: OpenAI and White House are discussing a government stake in the company, to seed something like the “Public Wealth Fund” that OpenAI outlined earlier
+    Link ID: TM-01-SUB-01
+  - Title: Sources: US officials discussed the US taking stakes in major AI companies after Sam Altman pitched the idea in 2025; Altman met Bernie Sanders on Wednesday
+    Link ID: TM-01-SUB-02
+---
+ID: TM-02
+Title: Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029
+Tweets:
+  - Author: @edzitron
+    Text: Also this is the firmest proof that data center capacity is just not getting built. If it were, given all its capex, I imagine Google would just use its own data centers
+    Link ID: TM-02-TW-01
+  - Author: @mikeisaac
+    Text: good faith question: the glass half full on SpaceX signing the google deal to rent servers is that it's real ARR the glass half empty — and i dont know the answer to this — is has xai given up on model development and just selling capacity as a neocloud now?
+    Link ID: TM-02-TW-02
+  - Author: @signulll
+    Text: you're telling me anthropic & google are paying spacex ~$26b a year for compute?!!  this is more than half the run rate of openai & anthropic just from compute deals & that doesn't even factor in the rocket launches at all.  elon accidentally ended up owning a significant portion of three of the scarcest assets in ai.. power, chips, & physical deployment capability.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Sources: Meta explores a stock offering to raise tens of billions to fund AI capital expenditures, following Google's record $85B share deal; META drops 5%+
+Tweets:
+  - Author: @negligible_cap
+    Text: $AMZN dropped $5 on news of $META looking into raising equity [image]
+    Link ID: TM-03-TW-01
+  - Author: @zephyr_z9
+    Text: So Meta, Google, Anthropic, SpaceX, and OpenAI will raise around $350B-$400B from the public markets in the next 9-12 months At this rate, Amazon & Microsoft will join the party too We might even see $550B-$600B raised from the public markets
+    Link ID: TM-03-TW-02
+  - Author: @rihardjarc
+    Text: Don't do it Zuck... $META's MSL must first show us more before you get a pass on that... [image]
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92%
+---
+ID: TM-05
+Title: Bitcoin falls below $60K, its lowest level since October 2024, amid a record streak of bitcoin ETF outflows following Strategy's bitcoin sale
+---
+ID: TM-06
+Title: S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs
+---
+ID: TM-07
+Title: Filing: Reid Hoffman, who has served on Microsoft's board since 2017, will not stand for re-election at the company's 2026 annual meeting
+---
+ID: TM-08
+Title: What to expect at WWDC 2026: an overhauled Siri, a Siri app, a slew of new AI capabilities, OS updates focused on reliability and responsiveness, and more
+---
+ID: TM-09
+Title: Analysis: Meta discreetly added code for an unreleased “NameTag” face-recognition system for its AI smart glasses over multiple Meta AI app updates in 2026
+---
+ID: TM-10
+Title: University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans
+---
+ID: TM-11
+Title: Apple-funded study: the App Store had $1.4T in billings and sales globally in 2025; apps with consumer AI features saw 4x more billings growth than other apps
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-12
+Title: Trump signs a national security memorandum seeking to “accelerate the use of AI across intelligence and warfighting domains in line with American values”
+---
+ID: TM-13
+Title: OpenAI confirms it will comply with President Trump's EO that asks AI companies to allow the US government to assess their models' capabilities before release
+---
+ID: TM-14
+Title: Sources say a months-long dispute between the White House and Anthropic is showing signs of easing across the US government as the startup prepares for its IPO
+---
+ID: TM-15
+Title: In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to “make people addicted” to its new AI agent product called Scout
+---
+ID: TM-16
+Title: A research team that includes Huawei says it successfully used Huawei's Ascend 910C chips for DeepSeek V4 Pro model's post-training, amid increased US sanctions
+---
+ID: TM-17
+Title: Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-18
+Title: Sources: data center developer Switch is in talks to raise billions of dollars from private equity firms, including Brookfield and KKR, at a $50B+ valuation
+---
+ID: TM-19
+Title: The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law
+---
+ID: TM-20
+Title: Blackstone-backed data center operator AirTrunk commits to investing $30B in India by 2030, with plans to develop 5GW of new data center capacity in the country
+---
+ID: TM-21
+Title: Illinois Governor JB Pritzker plans to temporarily halt tax breaks for data centers from July 1, calling on state lawmakers to create a development framework
+---
+
+[CATEGORY: REGULATION]
+ID: TM-22
+Title: Elon Musk petitioned the FTC in May to end its 2022 order restricting Twitter's data use, claiming Twitter no longer exists as X merged with xAI and then SpaceX
+---
+ID: TM-23
+Title: Chinese regulator CSRC tightens oversight of the country's ~$3.4T private fund industry; the CSRC says it will encourage tech-focused VC investments and more
+---
+ID: TM-24
+Title: FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids' screen time concerns
+---
+
+[CATEGORY: PAYMENTS]
+ID: TM-25
+Title: Sources: Revolut is looking to run a secondary share sale that would value it at $115B, after receiving a UK bank license and applying for a charter in the US
+---
+ID: TM-26
+Title: The largest US banks plan to launch a tokenized deposit network in 2027 to connect traditional payment rails with the infrastructure that digital assets run on
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-27
+Title: Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025
+---
+ID: TM-28
+Title: Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation
+---
+ID: TM-29
+Title: India-based Innefu Labs, which builds AI-powered software for national defense and enterprise security infrastructure, raised a $30M Series B led by Panthera
+---
+ID: TM-30
+Title: Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-31
+Title: Sources: Apollo and Blackstone finalized a $35B package for Anthropic to lease TPUs; Broadcom is backstopping payments on the debt's largest senior portions
+---
+ID: TM-32
+Title: Sources: SpaceX prepares the largest retail allocation ever attempted in a megacap IPO, seeking to reserve as much as 25% of its $75B float for retail investors
+---
+ID: TM-33
+Title: Over 20 EU news publishers file a claim seeking €640M+ from Google following an EU decision that lets anyone harmed by Google's ad market abuse seek damages
+---
+ID: TM-34
+Title: Marvell and Flex, a contract manufacturer for electronics, will join the S&P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off
+---
+ID: TM-35
+Title: SpaceX says Starlink now has 12M+ “active customers with high-speed internet” across 160+ countries, territories, and other markets, up from 9M in December 2025
+---
+ID: TM-36
+Title: Sources and docs detail defense tech startup Shield AI's struggles to overcome years of technical hitches and safety concerns with its V-BAT autonomous drone
+---
+ID: TM-37
+Title: An interview with Naomi Gleit, Meta's head of product who joined the company in 2005, on Mark Zuckerberg's “unfair” reputation, AI agents for business, and more
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: A new "claude-oceanus-v1-p" has been made available to Red Teams (1 minute read)
+Excerpt: Anthropic appears to be gearing up for the public launch of a new version of Mythos that is better than Mythos Preview. A checkpoint of the model, codenamed Oceanus, was recently made available to red teamers. These programs typically begin a week before a wider launch. The program was apparently paused due to an individual in the program reselling the model via a Chinese API proxy. It is unknown whether this will impact the launch date.
+---
+ID: TL-02
+Title: ChatGPT Dreaming V3 (7 minute read)
+Excerpt: OpenAI introduced a new memory synthesis system for ChatGPT designed to improve freshness, continuity, and relevance over longer time horizons. The update began rolling out to Plus and Pro users in the US, with broader availability planned later.
+---
+ID: TL-03
+Title: When AI builds itself (25 minute read)
+Excerpt: Anthropic is expediting AI development by enabling AI systems to autonomously design and develop successors, a concept known as recursive self-improvement. Internal benchmarks show AI-driven processes allow typical engineers to ship eight times more code than in previous years.
+---
+ID: TL-04
+Title: How we made continuous trace intelligence possible at scale (8 minute read)
+Excerpt: Braintrust founder Ankur Goyal lays out Topics, the intelligence layer for analyzing production agent traces at scale where million-token traces with hundreds of spans break every standard NLP tool that expects uniform document shapes. Inspired by Anthropic's Clio paper, the pipeline runs preprocess to facet to embed to cluster to name to classify, with the LLM summary doing the one job that makes the rest tractable since the raw trace never has to fit in an embedding model's context window.
+---
+ID: TL-05
+Title: Qwen-Image-Flash (26 minute read)
+Excerpt: A study of few-step distillation for Qwen-Image-2.0 found that data composition, teacher guidance, and task mixture strongly affected student model performance.
+---
+ID: TL-06
+Title: Nemotron 3.5 Content Safety (9 minute read)
+Excerpt: NVIDIA released Nemotron 3.5 Content Safety, a unified model for multimodal, multilingual, and customizable enterprise safety enforcement. It supported auditable reasoning and was designed to fit into production moderation pipelines.
+---
+ID: TL-07
+Title: Ollama Model Tester (GitHub Repo)
+Excerpt: Ollama Model Tester is a CLI tool for comparing local Ollama models by running the same prompt multiple times and saving responses for easy comparison.
+---
+ID: TL-08
+Title: Defending Code Reference Harness (GitHub Repo)
+Excerpt: This repository contains a reference implementation for autonomous vulnerability discovery and remediation with Claude. It can be used to build custom vulnerability pipelines based on general best practices. Anthropic offers a managed option that can find and fix vulnerabilities across multiple projects.
+---
+ID: TL-09
+Title: Apple's Messages app on iPhone now has a third-party AI agent (2 minute read)
+Excerpt: Apple approved the third-party AI service Poke for use in its iPhone Messages app. This integration allows users to chat with Poke directly in iMessage to perform various tasks. Some users report issues with response times, likely due to high demand.
+---
+ID: TL-10
+Title: Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can catch up (7 minute read)
+Excerpt: Anthropic reported that 80% of its production code now comes from its AI model, Claude, leading to an 8x increase in code volume per engineer.
+---
+ID: TL-11
+Title: Accelerating the next phase of physical AI (3 minute read)
+Excerpt: Generalist AI secured $400 million to advance physical AGI, supported by investors like Radical Ventures and NVIDIA.
+---
+ID: TL-12
+Title: EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios (9 minute read)
+Excerpt: EVA-Bench Data 2.0 expands its evaluation to three domains: Airline CSM, Enterprise ITSM, and Healthcare HRSD.
+---

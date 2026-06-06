@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-05",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "A new \"claude-oceanus-v1-p\" has been made available to Red Teams (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2062548860308730061.html?utm_source=tldrai",
+        "excerpt": "Anthropic appears to be gearing up for the public launch of a new version of Mythos that is better than Mythos Preview. A checkpoint of the model, codenamed Oceanus, was recently made available to red teamers. These programs typically begin a week before a wider launch. The program was apparently paused due to an individual in the program reselling the model via a Chinese API proxy. It is unknown whether this will impact the launch date."
+      },
+      {
+        "title": "ChatGPT Dreaming V3 (7 minute read)",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming/?utm_source=tldrai",
+        "excerpt": "OpenAI introduced a new memory synthesis system for ChatGPT designed to improve freshness, continuity, and relevance over longer time horizons. The update began rolling out to Plus and Pro users in the US, with broader availability planned later."
+      },
+      {
+        "title": "When AI builds itself (25 minute read)",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement?utm_source=tldrai",
+        "excerpt": "Anthropic is expediting AI development by enabling AI systems to autonomously design and develop successors, a concept known as recursive self-improvement. Internal benchmarks show AI-driven processes allow typical engineers to ship eight times more code than in previous years."
+      },
+      {
+        "title": "How we made continuous trace intelligence possible at scale (8 minute read)",
+        "url": "https://x.com/ankrgyl/status/2062635408182427859?utm_source=tldrai",
+        "excerpt": "Braintrust founder Ankur Goyal lays out Topics, the intelligence layer for analyzing production agent traces at scale where million-token traces with hundreds of spans break every standard NLP tool that expects uniform document shapes. Inspired by Anthropic's Clio paper, the pipeline runs preprocess to facet to embed to cluster to name to classify, with the LLM summary doing the one job that makes the rest tractable since the raw trace never has to fit in an embedding model's context window."
+      },
+      {
+        "title": "Qwen-Image-Flash (26 minute read)",
+        "url": "https://arxiv.org/abs/2606.03746?utm_source=tldrai",
+        "excerpt": "A study of few-step distillation for Qwen-Image-2.0 found that data composition, teacher guidance, and task mixture strongly affected student model performance."
+      },
+      {
+        "title": "Nemotron 3.5 Content Safety (9 minute read)",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety?utm_source=tldrai",
+        "excerpt": "NVIDIA released Nemotron 3.5 Content Safety, a unified model for multimodal, multilingual, and customizable enterprise safety enforcement. It supported auditable reasoning and was designed to fit into production moderation pipelines."
+      },
+      {
+        "title": "Ollama Model Tester (GitHub Repo)",
+        "url": "https://github.com/ulyssestenn/omt?utm_source=tldrai",
+        "excerpt": "Ollama Model Tester is a CLI tool for comparing local Ollama models by running the same prompt multiple times and saving responses for easy comparison."
+      },
+      {
+        "title": "Defending Code Reference Harness (GitHub Repo)",
+        "url": "https://github.com/anthropics/defending-code-reference-harness?utm_source=tldrai",
+        "excerpt": "This repository contains a reference implementation for autonomous vulnerability discovery and remediation with Claude. It can be used to build custom vulnerability pipelines based on general best practices. Anthropic offers a managed option that can find and fix vulnerabilities across multiple projects."
+      },
+      {
+        "title": "Apple's Messages app on iPhone now has a third-party AI agent (2 minute read)",
+        "url": "https://9to5mac.com/2026/06/04/apples-messages-app-on-iphone-now-has-a-third-party-ai-agent/?utm_source=tldrai",
+        "excerpt": "Apple approved the third-party AI service Poke for use in its iPhone Messages app. This integration allows users to chat with Poke directly in iMessage to perform various tasks. Some users report issues with response times, likely due to high demand."
+      },
+      {
+        "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can catch up (7 minute read)",
+        "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up?utm_source=tldrai",
+        "excerpt": "Anthropic reported that 80% of its production code now comes from its AI model, Claude, leading to an 8x increase in code volume per engineer."
+      },
+      {
+        "title": "Accelerating the next phase of physical AI (3 minute read)",
+        "url": "https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai?utm_source=tldrai",
+        "excerpt": "Generalist AI secured $400 million to advance physical AGI, supported by investors like Radical Ventures and NVIDIA."
+      },
+      {
+        "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios (9 minute read)",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data?utm_source=tldrai",
+        "excerpt": "EVA-Bench Data 2.0 expands its evaluation to three domains: Airline CSM, Enterprise ITSM, and Healthcare HRSD."
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "date": "2026-06-05",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 20,
+    "by_category": {
+      "cat:other": 4,
+      "cat:business": 9,
+      "cat:tech": 4,
+      "cat:model": 2,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says",
+      "title": {
+        "zh": "特朗普考虑让美国政府持有领先AI实验室的股权",
+        "en": "President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDY4NjQ4NiwiZXhwIjoxNzgxMjkxMjg2LCJhcnRpY2xlSWQiOiJURzY5SjlLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjgzMTRBODVBRDE0RjM3OTQ2MzdBRjhGQ0ZBRTk5NSJ9.pytPWYxisNQczqZukBO6ST5XrntfAYOOi15DezFG3Dg",
+      "title": {
+        "zh": "谷歌与SpaceX达成协议，每月支付9.2亿美元获取Nvidia芯片",
+        "en": "Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029"
+      },
+      "summary": {
+        "zh": "协议将持续到2029年中，涉及云服务合作。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "google",
+        "nvidia"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd",
+      "title": {
+        "zh": "Meta计划通过股票发行筹集数百亿美元用于AI资本支出",
+        "en": "Sources: Meta explores a stock offering to raise tens of billions to fund AI capital expenditures, following Google's record $85B share deal; META drops 5%+"
+      },
+      "summary": {
+        "zh": "消息称此举是继谷歌创纪录的850亿美元股票交易之后的行动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bbc.com/news/articles/crrpggegwe0o",
+      "title": {
+        "zh": "剑桥大学开发首个由AI设计关键成分的疫苗并进行人体试验",
+        "en": "University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "search"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/us-says-it-will-speed-development-use-ai-national-security-2026-06-05/",
+      "title": {
+        "zh": "特朗普签署国家安全备忘录，加速AI在情报和作战领域的应用",
+        "en": "Trump signs a national security memorandum seeking to “accelerate the use of AI across intelligence and warfighting domains in line with American values”"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/05/openai-trump-ai-model-review-order.html",
+      "title": {
+        "zh": "OpenAI确认将遵守特朗普行政命令，允许政府评估模型能力",
+        "en": "OpenAI confirms it will comply with President Trump's EO that asks AI companies to allow the US government to assess their models' capabilities before release"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "title": {
+        "zh": "纽约州立法机构通过一年期大型数据中心新建禁令",
+        "en": "The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law"
+      },
+      "summary": {
+        "zh": "如果州长签署，这将成为全美首个此类州级禁令。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "title": {
+        "zh": "AirTrunk承诺到2030年在印度投资300亿美元建设数据中心",
+        "en": "Blackstone-backed data center operator AirTrunk commits to investing $30B in India by 2030, with plans to develop 5GW of new data center capacity in the country"
+      },
+      "summary": {
+        "zh": "计划在印度开发5GW的新数据中心容量。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/rashishrivastava/2026/06/05/ai-coding-startup-lovable-in-talks-to-raise-funding-at-a-12-billion-valuation/",
+      "title": {
+        "zh": "AI编程初创公司Lovable计划以120亿美元估值融资",
+        "en": "Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025"
+      },
+      "summary": {
+        "zh": "估值较2025年12月的66亿美元翻倍。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/05/smash-allen-control-systems-disney",
+      "title": {
+        "zh": "Allen Control Systems完成2.2亿美元B轮融资，估值22亿美元",
+        "en": "Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation"
+      },
+      "summary": {
+        "zh": "公司专注于制造用于击落无人机的AI驱动炮塔。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-29",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://economictimes.indiatimes.com/tech/funding/ai-startup-innefu-labs-bags-30-million-in-funding-from-panthera-growth-partners/articleshow/131525751.cms",
+      "title": {
+        "zh": "印度 Innefu Labs 完成 3000 万美元 B 轮融资",
+        "en": "India-based Innefu Labs, which builds AI-powered software for national defense and enterprise security infrastructure, raised a $30M Series B led by Panthera"
+      },
+      "summary": {
+        "zh": "Innefu Labs 专注于为国家防御和企业安全基础设施提供 AI 驱动的软件，此轮融资由 Panthera 领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-31",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
+      "title": {
+        "zh": "消息称 Apollo 和 Blackstone 为 Anthropic 提供 350 亿美元 TPU 租赁融资",
+        "en": "Sources: Apollo and Blackstone finalized a $35B package for Anthropic to lease TPUs; Broadcom is backstopping payments on the debt's largest senior portions"
+      },
+      "summary": {
+        "zh": "Broadcom 将为该债务中最大的一部分高级支付提供支持。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://threadreaderapp.com/thread/2062548860308730061.html?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 向红队开放新模型 Claude-Oceanus-V1-P",
+        "en": "A new \"claude-oceanus-v1-p\" has been made available to Red Teams (1 minute read)"
+      },
+      "summary": {
+        "zh": "该模型代号 Oceanus，预计将在公开发布前进行测试，但因模型被转售事件可能影响发布时间。",
+        "en": "Anthropic appears to be gearing up for the public launch of a new version of Mythos that is better than Mythos Preview. A checkpoint of the model, codenamed Oceanus, was recently made available to red teamers. These programs typically begin a week before a wider launch. The program was apparently paused due to an individual in the program reselling the model via a Chinese API proxy. It is unknown whether this will impact the launch date."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/?utm_source=tldrai",
+      "title": {
+        "zh": "ChatGPT 推出新记忆合成系统",
+        "en": "ChatGPT Dreaming V3 (7 minute read)"
+      },
+      "summary": {
+        "zh": "该系统旨在提升长时间对话的连贯性和相关性，目前已向美国 Plus 和 Pro 用户推出。",
+        "en": "OpenAI introduced a new memory synthesis system for ChatGPT designed to improve freshness, continuity, and relevance over longer time horizons. The update began rolling out to Plus and Pro users in the US, with broader availability planned later."
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 推进 AI 自主开发能力",
+        "en": "When AI builds itself (25 minute read)"
+      },
+      "summary": {
+        "zh": "通过递归自我改进，AI 系统可自主设计和开发后续版本，显著提高工程师的代码产出效率。",
+        "en": "Anthropic is expediting AI development by enabling AI systems to autonomously design and develop successors, a concept known as recursive self-improvement. Internal benchmarks show AI-driven processes allow typical engineers to ship eight times more code than in previous years."
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/ankrgyl/status/2062635408182427859?utm_source=tldrai",
+      "title": {
+        "zh": "实现大规模连续追踪智能的技术突破",
+        "en": "How we made continuous trace intelligence possible at scale (8 minute read)"
+      },
+      "summary": {
+        "zh": "Braintrust 创始人分享了用于分析生产代理追踪的智能层 Topics，受 Anthropic Clio 论文启发。",
+        "en": "Braintrust founder Ankur Goyal lays out Topics, the intelligence layer for analyzing production agent traces at scale where million-token traces with hundreds of spans break every standard NLP tool that expects uniform document shapes. Inspired by Anthropic's Clio paper, the pipeline runs preprocess to facet to embed to cluster to name to classify, with the LLM summary doing the one job that makes the rest tractable since the raw trace never has to fit in an embedding model's context window."
+      },
+      "tags": [
+        "cat:tech",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-06",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA 发布 Nemotron 3.5 内容安全模型",
+        "en": "Nemotron 3.5 Content Safety (9 minute read)"
+      },
+      "summary": {
+        "zh": "该模型支持多模态、多语言和可定制的企业安全执行，适用于生产审核管道。",
+        "en": "NVIDIA released Nemotron 3.5 Content Safety, a unified model for multimodal, multilingual, and customizable enterprise safety enforcement. It supported auditable reasoning and was designed to fit into production moderation pipelines."
+      },
+      "tags": [
+        "cat:model",
+        "nvidia",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://github.com/anthropics/defending-code-reference-harness?utm_source=tldrai",
+      "title": {
+        "zh": "Defending Code Reference Harness：自动漏洞发现与修复",
+        "en": "Defending Code Reference Harness (GitHub Repo)"
+      },
+      "summary": {
+        "zh": "该 GitHub 仓库提供基于 Claude 的漏洞发现与修复参考实现，支持多项目的漏洞管理。",
+        "en": "This repository contains a reference implementation for autonomous vulnerability discovery and remediation with Claude. It can be used to build custom vulnerability pipelines based on general best practices. Anthropic offers a managed option that can find and fix vulnerabilities across multiple projects."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-10",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 称 80% 的生产代码由 Claude 生成",
+        "en": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can catch up (7 minute read)"
+      },
+      "summary": {
+        "zh": "通过 Claude 的支持，工程师的代码产出量提升了 8 倍。",
+        "en": "Anthropic reported that 80% of its production code now comes from its AI model, Claude, leading to an 8x increase in code volume per engineer."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "claude",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-11",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://generalistai.com/blog/accelerating-the-next-phase-of-physical-ai?utm_source=tldrai",
+      "title": {
+        "zh": "Generalist AI 获得 4 亿美元融资以推进物理 AGI",
+        "en": "Accelerating the next phase of physical AI (3 minute read)"
+      },
+      "summary": {
+        "zh": "投资方包括 Radical Ventures 和 NVIDIA。",
+        "en": "Generalist AI secured $400 million to advance physical AGI, supported by investors like Radical Ventures and NVIDIA."
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "nvidia"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
