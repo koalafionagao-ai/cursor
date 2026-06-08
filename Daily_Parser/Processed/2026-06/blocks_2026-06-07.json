@@ -1,0 +1,197 @@
+{
+  "date": "2026-06-07",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "White House AI advisor Sriram Krishnan says he will leave his role at the end of June; sources: Krishnan plans to start a pro-Trump AI policy institution",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/white-house-ai-policy-advisor-krishnan-leave-position",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Kalshi and Polymarket sponsored X posts promoting viral LA mayoral election fraud conspiracy theories; Kalshi says it asked its paid influencers to remove posts",
+      "excerpt": "",
+      "url": "https://www.semafor.com/article/06/05/2026/kalshi-asks-paid-influencers-to-delete-posts-on-la-mayoral-election",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Inside the early 2025 senior exec meeting where Apple admitted its AI failures; Tim Cook became intimately involved in Apple's AI roadmap around the same time",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDg0Mzg1OSwiZXhwIjoxNzgxNDQ4NjU5LCJhcnRpY2xlSWQiOiJURzlMSzFSMjRVOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pkuIyevgCcNgp2oEfaVHxkQzVBFFckiWRHAq_fx6XjY",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "ASML CEO Christophe Fouquet applauds the EU's tech sovereignty plans but says substantial EU involvement in steering “strategic projects” is a cause for concern",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/asml-ceo-says-eu-commission-should-not-try-direct-strategic-projects-2026-06-05/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Google Cloud says its SpaceX compute deal is a “short-term” agreement “to ensure we have bridge capacity to meet surging customer demand” for Gemini Enterprise",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html?unlocked_article_code=1.oFA.pwqq.wQrMgdMrNXmI&smid=url-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Raspberry Pi closed up 27%+ on June 5 after saying it expects adjusted EBITDA of at least $38M in H1, putting it on track to beat $42M est. for the full year",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/22c5c127-fbab-44eb-a982-a26b9a40eb5c",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting",
+      "excerpt": "",
+      "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Inside the Trump admin's push to integrate AI into the healthcare system, including an FDA regulatory fast track for digital health tech like AI chatbots",
+      "excerpt": "",
+      "url": "https://wapo.st/4vwr1xb",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Several UK police forces have been told to stop using AI to prepare court statements, citing concerns that inaccurate outputs could contaminate legal procedures",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Report: in May, supply of unsecured bonds from hyperscalers hit $155B YTD, 45%+ more than 2025's total issuance; some AI-infra bond sales are 4x oversubscribed",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing",
+      "excerpt": "",
+      "url": "https://www.wsj.com/cfo-journal/the-metric-cfos-struggle-to-track-ai-usage-3b30c10c?st=gU2ZbB&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Paris-listed Teleperformance, the world's largest customer service company, has become one of Europe's most shorted stocks, as hedge funds bet on AI disruption",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/0662341f-f14a-44dc-bc96-0c0008478ea9",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDcyNjY2MywiZXhwIjoxNzgxMzMxNDYzLCJhcnRpY2xlSWQiOiJURzVMVFdOM04wTDkwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.OKvahChq9V_QV5StPtT33NRwUsoZcmSqbFYUiMb6H8Y",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more",
+      "excerpt": "",
+      "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "SoftBank's PayPay, Japan's dominant payments app, says it will take a 70.2% stake in T&D Financial Life Insurance for $840M, expected to close in October 2027",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/softbank-s-paypay-to-buy-t-d-s-life-insurer-for-840-million",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "French carriers Bouygues Telecom, Orange, and Free-iliad sign an MOU with Altice France to acquire SFR for €20.35B, including debt, expected to close in H2 2027",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/media-telecom/bouygues-led-consortium-signs-2344-billion-deal-buy-sfr-altice-france-2026-06-06/",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "FOIA docs reveal Amazon's extensive control over delivery drivers it insists are not employees, in a case the NLRB sought to settle on terms favorable to Amazon",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-02/amazon-trump-settlement-win-showed-just-how-tough-delivery-drivers-have-it?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDM5NzYwNCwiZXhwIjoxNzgxMDAyNDA0LCJhcnRpY2xlSWQiOiJURzAxNDdLR1pBSkcwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.Nsck2fZijofhPwaWJblBkI_9Kyt9lKg81iM3ebUKGB8",
+      "section": "more news"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/autos-transportation/ubers-commitment-self-driving-startup-nuro-is-close-500-mln-sources-say-2026-06-03/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Memory chip vendors say CXMT's DDR5 prices match Samsung, SK Hynix, and Micron, and it has a supply advantage in client markets as it is not prioritizing HBM",
+      "excerpt": "",
+      "url": "https://wccftech.com/cxmt-cheap-ddr5-is-a-myth-memory-vendors-tell-us-prices-match-samsung-sk-hynix-micron/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "How LinkedIn is transforming into a “post-cringe” social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/04/business/linkedin-social-media-influencers.html?unlocked_article_code=1.n1A.CB-z.d-b0OiKg5BM7&smid=url-share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Industry data: India's six largest IT companies grew combined revenue from $95.9B in FY23 to $103.1B in FY26, while headcount remained broadly steady at ~1.9M",
+      "excerpt": "",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/jobless-growth-in-it-revenue-grows-headcount-stagnates/articleshow/131512337.cms",
+      "section": "more news"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Kepple: seed-stage startup funding in Japan fell 42% YoY in 2025 to a 10-year low of $124M, as the Tokyo Stock Exchange moves to reduce small listings",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/startups/seed-stage-startup-funding-in-japan-sinks-40-as-investors-grow-selective",
+      "section": "more news"
+    }
+  ]
+}

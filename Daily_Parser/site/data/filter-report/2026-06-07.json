@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-07",
+  "threshold": 7.0,
+  "total": 24,
+  "kept": 7,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI计划将ChatGPT转变为超级应用，具有编码工具和AI代理，具有重要的行业影响力。"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "白宫AI顾问离职及其未来计划的信息量有限，属于常规报道。"
+    },
+    {
+      "id": "TM-03",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI相关性较弱，主要涉及选举阴谋论的赞助问题。"
+    },
+    {
+      "id": "TM-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "苹果高管会议讨论AI失败，可能影响其未来战略。"
+    },
+    {
+      "id": "TM-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "ASML CEO对欧盟技术主权计划的看法，信息量一般。"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Google Cloud与SpaceX的短期协议，信息量较常规。"
+    },
+    {
+      "id": "TM-07",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及股价波动。"
+    },
+    {
+      "id": "TM-08",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI弱相关，主要是关于Zcash的安全漏洞。"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "特朗普政府推动AI在医疗系统中的整合，具有政策影响力。"
+    },
+    {
+      "id": "TM-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI推出Lockdown模式，增强安全性，具有产品洞察价值。"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "英国警方停止使用AI准备法庭陈述，反映出对AI准确性的担忧。"
+    },
+    {
+      "id": "TM-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于无担保债券供应的报告，信息量一般。"
+    },
+    {
+      "id": "TM-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "KPMG调查显示企业对AI成本的认知情况，具有一定的信息价值。"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Teleperformance的短期股票情况，信息量较常规。"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "财富管理者利用AI减轻工作负担，提升客户服务效率，具有应用洞察。"
+    },
+    {
+      "id": "TM-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "关于AGI经济学的访谈，探讨AI财富再分配，具有深度分析价值。"
+    },
+    {
+      "id": "TM-17",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及股权收购信息。"
+    },
+    {
+      "id": "TM-18",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及收购协议。"
+    },
+    {
+      "id": "TM-19",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI弱相关，主要涉及亚马逊的员工控制问题。"
+    },
+    {
+      "id": "TM-20",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Uber对自驾初创公司的投资，可能影响未来的自动驾驶技术发展。"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于内存芯片价格的报道，信息量一般。"
+    },
+    {
+      "id": "TM-22",
+      "score": 5.0,
+      "keep": false,
+      "reason": "LinkedIn转型的报道，信息量较常规。"
+    },
+    {
+      "id": "TM-23",
+      "score": 6.0,
+      "keep": false,
+      "reason": "印度IT公司收入增长的行业数据，具有一定的信息价值。"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于日本初创企业融资下降的报道，信息量一般。"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-07",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 7,
+    "by_category": {
+      "cat:business": 2,
+      "cat:other": 3,
+      "cat:tech": 1,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+      "title": {
+        "zh": "OpenAI计划将ChatGPT升级为超级应用，新增编程工具和AI代理",
+        "en": "OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products"
+      },
+      "summary": {
+        "zh": "OpenAI计划在未来几周内对ChatGPT进行重大改造，使其成为一个超级应用，并作为高利润产品的入口。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "chatgpt",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-04",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDg0Mzg1OSwiZXhwIjoxNzgxNDQ4NjU5LCJhcnRpY2xlSWQiOiJURzlMSzFSMjRVOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pkuIyevgCcNgp2oEfaVHxkQzVBFFckiWRHAq_fx6XjY",
+      "title": {
+        "zh": "2025年初苹果高管会议：承认AI失败，库克亲自参与AI路线图",
+        "en": "Inside the early 2025 senior exec meeting where Apple admitted its AI failures; Tim Cook became intimately involved in Apple's AI roadmap around the same time"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "apple",
+        "tim-cook"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://wapo.st/4vwr1xb",
+      "title": {
+        "zh": "特朗普政府推动AI融入医疗系统，包括FDA快速审批AI聊天机器人",
+        "en": "Inside the Trump admin's push to integrate AI into the healthcare system, including an FDA regulatory fast track for digital health tech like AI chatbots"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
+      "title": {
+        "zh": "OpenAI推出“锁定模式”以防止提示注入攻击",
+        "en": "OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features"
+      },
+      "summary": {
+        "zh": "该可选安全设置通过限制某些功能，为用户提供高级保护。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chatgpt",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDcyNjY2MywiZXhwIjoxNzgxMzMxNDYzLCJhcnRpY2xlSWQiOiJURzVMVFdOM04wTDkwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.OKvahChq9V_QV5StPtT33NRwUsoZcmSqbFYUiMb6H8Y",
+      "title": {
+        "zh": "AI技术帮助财富管理者减轻工作负担，专注客户咨询",
+        "en": "As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-16",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell",
+      "title": {
+        "zh": "专访DeepMind AGI经济学总监Alex Imas和Epoch AI的Phil Trammell",
+        "en": "Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more"
+      },
+      "summary": {
+        "zh": "讨论AGI后稀缺资源、AI财富再分配等话题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "deepmind"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/autos-transportation/ubers-commitment-self-driving-startup-nuro-is-close-500-mln-sources-say-2026-06-03/",
+      "title": {
+        "zh": "消息称Uber向自动驾驶初创公司Nuro投资近5亿美元",
+        "en": "Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale"
+      },
+      "summary": {
+        "zh": "这笔投资为Nuro提供了关键资金支持，以证明其技术的商业化能力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "uber",
+        "autonomous-driving",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

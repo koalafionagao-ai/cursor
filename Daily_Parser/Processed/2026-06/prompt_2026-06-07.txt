@@ -1,0 +1,111 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products
+Tweets:
+  - Author: @kimmonismus
+    Text: The first wave likely won't be one big launch, but a phased redesign pushing users toward Codex, agents, image generation, and partner apps.  As one OpenAI employee told the FT: “Chat is dead”, the new goal is a single AI assistant that can act across your work and personal life.
+    Link ID: TM-01-TW-01
+  - Author: @andrewcurran_
+    Text: Big changes ahead for chatty, OpenAI are planning the most significant revamp since launch. The FT reported this last night. This is all presumably happening next week with the GPT-5.6 announcement. Should be quite a livestream. [image]
+    Link ID: TM-01-TW-02
+  - Author: @edzitron
+    Text: Super app super app ChatGPT super app it's happening. It's real. OpenAI is releasing a super app that's ChatGPT. The everything app is here or it will be here one day but it'll be a super app [image]
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: White House AI advisor Sriram Krishnan says he will leave his role at the end of June; sources: Krishnan plans to start a pro-Trump AI policy institution
+Tweets:
+  - Author: @sriramk
+    Text: 🇺🇸🚀 SOME NEWS: I'll be leaving my role at the White House at the end of this month.  After a break I'll be working on helping tackle some of the large challenges facing America on AI (more on that later).  It is hard to express how big a privilege it has been to serve the American people and how grateful I am to have had the opportunity to do so
+    Link ID: TM-02-TW-01
+  - Author: @davidsacks
+    Text: Thank you @sriramk for this generous post.  It has been one of the great privileges of my time in the Administration to work so closely with you over the past 18 months.  Your skills are genuinely unique: a rare combination of deep technical fluency in AI, sharp policy instincts, exceptional strategic thinking, and true diplomatic talent.  It will be a huge loss for the administration, but I'm glad we'll continue working together with you as an outside adviser.
+    Link ID: TM-02-TW-02
+  - Author: @danprimack
+    Text: Source says he told Trump and Susie Wyles last week. Expect him to launch some sort of AI consulting shop — more substantial than a little lobbying thing (dunno how big or who's funding, if anyone yet)
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Kalshi and Polymarket sponsored X posts promoting viral LA mayoral election fraud conspiracy theories; Kalshi says it asked its paid influencers to remove posts
+Tweets:
+  - Author: @marshallcohen
+    Text: Wow. Paid influencers for Kalshi and Polymarket promoted the prediction sites with posts pushing lies about California's elections: False claims of “stealing” and “openly cheating,” “literally impossible” vote tallies, shady “late” ballots, and attempts to “rig” the outcome.
+    Link ID: TM-03-TW-01
+  - Author: @maxwelltani
+    Text: Polymarket didn't respond when I asked about the paid viral election fraud posts. I also reached out to some influencers asking if they think Polymarket should refund Pratt voters who traded on the LA election, since the results are fraudulent. Sadly, no one has responded... [image]
+    Link ID: TM-03-TW-02
+  - Author: @maxwelltani
+    Text: In a statement shared with me, Gavin Newsom's office criticized prediction markets for sponsoring posts with election fraud conspiracy theories [image]
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Inside the early 2025 senior exec meeting where Apple admitted its AI failures; Tim Cook became intimately involved in Apple's AI roadmap around the same time
+---
+ID: TM-05
+Title: ASML CEO Christophe Fouquet applauds the EU's tech sovereignty plans but says substantial EU involvement in steering “strategic projects” is a cause for concern
+---
+ID: TM-06
+Title: Google Cloud says its SpaceX compute deal is a “short-term” agreement “to ensure we have bridge capacity to meet surging customer demand” for Gemini Enterprise
+---
+ID: TM-07
+Title: Raspberry Pi closed up 27%+ on June 5 after saying it expects adjusted EBITDA of at least $38M in H1, putting it on track to beat $42M est. for the full year
+---
+ID: TM-08
+Title: Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: Inside the Trump admin's push to integrate AI into the healthcare system, including an FDA regulatory fast track for digital health tech like AI chatbots
+---
+ID: TM-10
+Title: OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features
+---
+ID: TM-11
+Title: Several UK police forces have been told to stop using AI to prepare court statements, citing concerns that inaccurate outputs could contaminate legal procedures
+---
+ID: TM-12
+Title: Report: in May, supply of unsecured bonds from hyperscalers hit $155B YTD, 45%+ more than 2025's total issuance; some AI-infra bond sales are 4x oversubscribed
+---
+ID: TM-13
+Title: KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing
+---
+ID: TM-14
+Title: Paris-listed Teleperformance, the world's largest customer service company, has become one of Europe's most shorted stocks, as hedge funds bet on AI disruption
+---
+ID: TM-15
+Title: As wealth managers confront an AI reckoning, the tech is, for now, easing their workloads by picking up routine tasks, freeing up more time to advise clients
+---
+ID: TM-16
+Title: Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more
+---
+
+[CATEGORY: M&A]
+ID: TM-17
+Title: SoftBank's PayPay, Japan's dominant payments app, says it will take a 70.2% stake in T&D Financial Life Insurance for $840M, expected to close in October 2027
+---
+ID: TM-18
+Title: French carriers Bouygues Telecom, Orange, and Free-iliad sign an MOU with Altice France to acquire SFR for €20.35B, including debt, expected to close in H2 2027
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-19
+Title: FOIA docs reveal Amazon's extensive control over delivery drivers it insists are not employees, in a case the NLRB sought to settle on terms favorable to Amazon
+---
+ID: TM-20
+Title: Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale
+---
+ID: TM-21
+Title: Memory chip vendors say CXMT's DDR5 prices match Samsung, SK Hynix, and Micron, and it has a supply advantage in client markets as it is not prioritizing HBM
+---
+ID: TM-22
+Title: How LinkedIn is transforming into a “post-cringe” social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics
+---
+ID: TM-23
+Title: Industry data: India's six largest IT companies grew combined revenue from $95.9B in FY23 to $103.1B in FY26, while headcount remained broadly steady at ~1.9M
+---
+ID: TM-24
+Title: Kepple: seed-stage startup funding in Japan fell 42% YoY in 2025 to a 10-year low of $124M, as the Tokyo Stock Exchange moves to reduce small listings
+---
