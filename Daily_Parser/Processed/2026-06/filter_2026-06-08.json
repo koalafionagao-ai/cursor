@@ -1,0 +1,386 @@
+{
+  "date": "2026-06-08",
+  "threshold": 7.0,
+  "total": 63,
+  "kept": 28,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "苹果重构AI架构，涉及与谷歌的合作，具有重要技术更新价值。"
+    },
+    {
+      "id": "TM-02",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenAI申请IPO，表明其未来战略和市场动向值得关注。"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及移民政策。"
+    },
+    {
+      "id": "TM-04",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及个人法律事务。"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta对NSO的法律行动，信息量有限且常规。"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于儿童保护的政策讨论，信息量一般。"
+    },
+    {
+      "id": "TM-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "谷歌与英特尔的合作涉及未来AI硬件生产，具有行业影响力。"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Moonshot融资消息显示AI市场活跃，值得关注。"
+    },
+    {
+      "id": "TM-09",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关，主要是创业者的经验分享。"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "苹果高管对AI发展的看法，提供了行业洞察。"
+    },
+    {
+      "id": "TM-11",
+      "score": 5.0,
+      "keep": false,
+      "reason": "苹果系统更新信息，较为常规。"
+    },
+    {
+      "id": "TM-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "macOS更新信息，信息量一般。"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "tvOS更新信息，较为常规。"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "新家长控制功能涉及AI应用，具有一定价值。"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "WWDC的直播报道涉及多个AI相关更新，值得关注。"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "微软关闭GitHub仓库与AI安全相关，具有一定行业影响。"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta的安全问题信息量一般，偏常规。"
+    },
+    {
+      "id": "TM-18",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic的研究成果在AI安全领域具有重要意义。"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "俄罗斯监控系统的暂停与AI技术应用相关，值得关注。"
+    },
+    {
+      "id": "TM-20",
+      "score": 6.0,
+      "keep": false,
+      "reason": "微软加强人权控制与AI合作的政策更新，具有一定行业影响。"
+    },
+    {
+      "id": "TM-21",
+      "score": 8.0,
+      "keep": true,
+      "reason": "苹果推出的新AI功能涉及安全性，具有重要应用价值。"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌NotebookLM的升级涉及AI推理能力，值得关注。"
+    },
+    {
+      "id": "TM-23",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia与LG的合作在AI和机器人领域具有重要战略意义。"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "谷歌AI Plus计划的价格调整信息量一般。"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Cursor的收入增长与潜在收购信息，具有一定市场价值。"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要涉及竞争调查的结束"
+    },
+    {
+      "id": "TM-27",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及美国政府对 AI 法律的干预，具有政策层面的重要性"
+    },
+    {
+      "id": "TM-28",
+      "score": 5.0,
+      "keep": false,
+      "reason": "虽然是大额交易，但与 AI 直接相关性不强，主要涉及光纤生产"
+    },
+    {
+      "id": "TM-29",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta 投资于培训项目，可能影响 AI 领域的人才培养"
+    },
+    {
+      "id": "TM-30",
+      "score": 5.0,
+      "keep": false,
+      "reason": "政策分析，但与 AI 直接相关性不强，主要涉及数据中心的能源政策"
+    },
+    {
+      "id": "TM-31",
+      "score": 6.0,
+      "keep": false,
+      "reason": "亚马逊扩展 AI 生成设计的功能，具有一定的产品洞察"
+    },
+    {
+      "id": "TM-32",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要涉及电商出口的经济分析"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "IPO 相关信息，虽有一定信息量但较为常规"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "IPO 相关信息，虽有一定信息量但较为常规"
+    },
+    {
+      "id": "TM-35",
+      "score": 8.0,
+      "keep": true,
+      "reason": "融资信息涉及新兴能源领域，可能影响 AI 相关技术的发展"
+    },
+    {
+      "id": "TM-36",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AI 在工业设计中的应用，且融资规模较大，具有行业影响力"
+    },
+    {
+      "id": "TM-37",
+      "score": 7.0,
+      "keep": true,
+      "reason": "帮助企业降低云和 AI 支出，具有一定的市场需求洞察"
+    },
+    {
+      "id": "TM-38",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息，较为常规，缺乏深度分析"
+    },
+    {
+      "id": "TM-39",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 在网络安全领域的应用，且获得融资，具有行业关注度"
+    },
+    {
+      "id": "TM-40",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta 移除面部识别代码，涉及隐私和技术方向的调整"
+    },
+    {
+      "id": "TM-41",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要涉及社会经济研究"
+    },
+    {
+      "id": "TM-42",
+      "score": 5.0,
+      "keep": false,
+      "reason": "微软的游戏策略调整，虽有一定信息量但与 AI 直接相关性不强"
+    },
+    {
+      "id": "TM-43",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及国家安全与技术企业的关系，具有政策层面的重要性"
+    },
+    {
+      "id": "TM-44",
+      "score": 6.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要涉及国防支出策略"
+    },
+    {
+      "id": "TM-45",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 相关的对冲基金信息，具有行业关注度"
+    },
+    {
+      "id": "TM-46",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要涉及音乐产业的商业策略"
+    },
+    {
+      "id": "TM-47",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息，较为常规，缺乏深度分析"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Google 与 SpaceX 的大额合作，涉及 AI 计算能力，具有行业影响力"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "美国政府考虑对 OpenAI 的投资，具有政策层面的重要性"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "微软推出新的 AI 代理，增强了其在市场中的竞争力"
+    },
+    {
+      "id": "TL-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "探讨AI经济学及其对财富分配的影响，具有重要的行业洞察。"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Claude在化学领域的应用展示了AI模型在专业领域的潜力，值得关注。"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "讨论了LLM编码的经济可行性，对开发者有实用价值。"
+    },
+    {
+      "id": "TL-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "介绍了模型压缩技术的更新，信息量一般。"
+    },
+    {
+      "id": "TL-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "新功能的介绍较为常规，信息量有限。"
+    },
+    {
+      "id": "TL-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "LangSmith的沙箱技术为AI代理提供安全环境，具有重要应用价值。"
+    },
+    {
+      "id": "TL-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "亚马逊Bedrock的新控制台优化了API的使用，提升了用户体验。"
+    },
+    {
+      "id": "TL-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "对前沿AI实验室的见解有一定价值，但信息较为常规。"
+    },
+    {
+      "id": "TL-12",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Anthropic与NSA的合作涉及国家安全，具有重大影响。"
+    },
+    {
+      "id": "TL-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于小模型的黑客马拉松活动，信息量较少。"
+    },
+    {
+      "id": "TL-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "对LLM工作原理的基础介绍，信息较为常规。"
+    },
+    {
+      "id": "TL-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Cursor的设计模式更新信息量不足。"
+    },
+    {
+      "id": "TL-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI的ChatGPT重大改版将影响企业用户，值得关注。"
+    }
+  ]
+}

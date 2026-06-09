@@ -1,0 +1,509 @@
+{
+  "date": "2026-06-08",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Apple overhauls Apple Intelligence, with a new architecture built on Apple Foundation Models developed with Google and adapted to run on device and on servers",
+      "excerpt": "",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "OpenAI confidentially files for an IPO, says it has “not decided on timing yet”, as “there are things we want to do that are likely easier as a private company”",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "A federal judge blocks President Trump's policy imposing a $100,000 fee for employer H-1B visa applications",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "FTX co-founder Sam Bankman-Fried formally applies for a presidential pardon; he was sentenced to 25 years in prison in 2024, following the FTX collapse",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/ftx-co-founder-bankman-fried-formally-applies-for-trump-pardon",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Meta says it's filing a federal court contempt order against NSO for violating a permanent injunction that barred NSO from ever targeting WhatsApp and its users",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/meta-takes-legal-action-against-israeli-spyware-firm-nso-group-2026-06-08/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "UK PM Keir Starmer says tech companies must introduce “device controls” that stop kids from sending and receiving nude images or face laws forcing them to do so",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/media-telecom/big-tech-firms-must-stop-young-people-circulating-nude-images-says-uk-pm-starmer-2026-06-08/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Google placed an order with Intel to manufacture 3M+ TPUs in 2028; Nvidia is testing Intel tech for a processor and running 18A trials; INTC jumps 11%",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/google-nvidia-consider-intel-backup-chip-manufacturer",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: Beijing-based Moonshot, which makes the Kimi chatbot, is in talks to raise up to $2B at a $30B valuation, up from a $20B+ valuation in a May round",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Travis Kalanick, Mark Pincus, and other founders share their horror stories of pitching to VCs; Cloudflare CEO Matthew Prince publicly calls out Vinod Khosla",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Apple's Craig Federighi says some companies “appear to be racing forward” to develop “AI for the sake of AI” without regard for the humans using the technology",
+      "excerpt": "",
+      "url": "https://variety.com/2026/digital/news/apple-siri-ai-wwdc26-announcements-1236769265/",
+      "section": "wwdc 2026"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Apple unveils iOS 27, iPadOS 27, watchOS 27, and visionOS 27, highlighting performance and design improvements, including smoother system animations",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/941202/apple-ios-27-wwdc-2026",
+      "section": "wwdc 2026"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Apple announces macOS 27 Golden Gate, featuring Liquid Glass and search improvements, a fixed corner radius across apps and system windows, and more",
+      "excerpt": "",
+      "url": "https://9to5mac.com/2026/06/08/apple-announces-macos-golden-gate-27/",
+      "section": "wwdc 2026"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Apple announces tvOS 27, with performance enhancements, smart downloads, an updated Podcasts app, and more",
+      "excerpt": "",
+      "url": "https://9to5mac.com/2026/06/08/apple-announces-tvos-27-with-smart-downloads-new-podcasts-app-more/",
+      "section": "wwdc 2026"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Apple announces new parental controls, letting kids ask to browse specific websites or contact specific people, adding automatic image filtering, and more",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/",
+      "section": "wwdc 2026"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "A live blog of WWDC 2026, where Apple announced an overhauled Siri, a Siri app, new AI capabilities, OS updates focused on performance, and more",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2189169/apple-wwdc-2026-live-blog-siri-ai-ios-27/",
+      "section": "wwdc 2026"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Microsoft has shut down 70+ of its own repositories on GitHub after hackers pushed malware that would steal credentials from users of AI coding agents",
+      "excerpt": "",
+      "url": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "In a notice to Maine's AG, Meta says 20,225+ Instagram accounts may have been hacked during the months-long abuse of its Meta AI chatbot, starting on April 17",
+      "excerpt": "",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Anthropic researchers say Mythos Preview can now turn publicly disclosed software vulnerabilities, or N-days, into working exploits in hours instead of weeks",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/08/exclusive-anthropics-mythos-can-exploit-new-flaws-in-hours",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Russia paused parts of a surveillance system protecting Putin after Israel used AI on footage from Iran's traffic cameras to locate Ayatollah Khamenei",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f?accessToken=zwAAAZ6oJe2vkc9vTYBs6yJMMtODUrgmktMOnw.MEYCIQDhN5jpcjC101HxsAg6cGFa4SRTT3yO0kEs1Bebkl9qXAIhAMpqifO1aDEDi-OCqLo2qYos6vuKj25H-dZ4pHLCo0Hr&sharetype=gift&token=036f6da3-f7de-4a68-a0c4-319327f77144&syn-25a6b1a6=1",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel's Unit 8200 violated its ToS",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Apple unveils an Apple Intelligence feature to automatically change compromised passwords, using agentic AI, and save them to the Passwords app",
+      "excerpt": "",
+      "url": "https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Google upgrades NotebookLM, which now runs on Gemini 3.5 and Antigravity, to deliver new agentic capabilities and more advanced reasoning for AI Ultra users",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI factory and co-designing future data center architectures",
+      "excerpt": "",
+      "url": "https://www.chosun.com/english/industry-en/2026/06/08/L677RKI32FDFJPVN44SZ37CMYI/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Google lowers the price of its Google AI Plus plan to $4.99 per month, down from $7.99, and doubles the included storage to 400GB",
+      "excerpt": "",
+      "url": "https://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb.",
+      "excerpt": "",
+      "url": "https://www.forbes.com/sites/richardnieva/2026/06/08/cursor-4-billion-annualized-revenue/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Italy's competition authority says it has dropped its 2025 probe into Meta over allegations Meta abused its dominant position by installing Meta AI on WhatsApp",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/italy-regulator-drops-investigation-into-metas-whatsapp-ai-bot-2026-06-08/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Amazon announces a multiyear, multibillion-dollar deal with Corning to produce optical fiber for its US data centers; Corning shares jump 8%+",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Meta puts $115M toward a “workforce academy”, a free 5-week program to train Americans to build data centers, offering job guarantees at Meta construction sites",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/meta-launches-workforce-academy-to-train-workers-to-build-data-centers-35470a80",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "A look at Ireland's Bring Your Own Power policy, which requires new data centers to have their own power plants on site or contracts for energy produced nearby",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/bring-your-own-power-ireland-tells-tech-titans-hungry-for-data-centers-ea750af8?st=iKsY6b",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Amazon expands its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies",
+      "excerpt": "",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "section": "e-commerce"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Analysis: China's low-cost e-commerce exports fell 10.9% YoY in April to $9.8B, the fifth straight monthly decline, amid surging fuel costs and weakening demand",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/autos-transportation/chinas-global-e-commerce-push-stalls-iran-war-lifts-costs-dampens-demand-2026-06-08/",
+      "section": "e-commerce"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Bending Spoons files for a US IPO, reporting a net income of $27.5M on revenue of $601M in Q1, vs. a net loss of $112.2M on revenue of $259M a year earlier",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Indian quick grocery delivery startup Zepto files for an India IPO, planning to raise ~$836M by selling new shares; Zepto was valued at $7B in its last round",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/zepto-publicly-files-for-planned-1-billion-india-ipo",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling its $5.245B Series F valuation in January 2025",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/startup-physicsx-hits-2-4-billion-valuation-to-provide-ai-for-manufacturing",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "PointFive, which helps companies reduce unnecessary cloud and AI spending, raised a $60M Series B led by Accel, bringing its total funding to $100M",
+      "excerpt": "",
+      "url": "https://www.wsj.com/pro/private-equity/accel-backs-startup-pointfives-ambition-to-help-rein-in-runaway-ai-costs-77d63439?st=7K5Wgf&reflink=desktopwebshare_permalink",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/all-deals/2026/06/08/infinity-constellation-24-million-multiple-ai-companies",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "NY-based A Security, which uses AI to automate offensive cybersecurity, emerges from stealth with $37M in funding from Lightspeed, Wiz's Assaf Rapaport, others",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/08/lightspeed-wiz-assaf-rappaport-37-million-ai-powered-cyberattacker-a/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Analysis: Meta removed code for an unreleased face-recognition system in the Meta AI app for its smart glasses, following a report on the code's existence",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "A study estimates the iPhone's diffusion explains 33%-52% of the decline in US births from 2007 to 2011, with the most pronounced effects among women aged 15-24",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/08/us/iphone-birthrate-decline-studies.html?unlocked_article_code=1.olA.b7iV.NINJIvJR617P",
+      "section": "more news"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Xbox EVP Matt Booty clarifies Microsoft's new exclusivity strategy, saying new games will be reviewed case-by-case and multiplayer games will stay multiplatform",
+      "excerpt": "",
+      "url": "https://www.gamespot.com/articles/xbox-clarifies-its-exclusivity-strategy-moving-forward-wants-you-to-buy-an-xbox/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "The US DOD designates some of China's biggest companies, including Alibaba, BYD, and Baidu, as entities that support the Chinese military",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/pentagon-accuses-alibaba-baidu-byd-of-aiding-china-s-military",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "Sources: the US urged NATO allies to channel defense spending toward efforts to replace components from Huawei in their networks and critical infrastructure",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/us-urges-nato-allies-to-use-defense-funds-to-replace-huawei-gear",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Sources: former OpenAI researcher Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, has $20B+ AUM, after launching less than two years ago",
+      "excerpt": "",
+      "url": "https://www.wsj.com/finance/stocks/the-24-year-old-ai-wiz-who-counts-jane-street-as-an-investor-1c30d751?st=B4Grft&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "Sources: Spotify has approached concert promoters about licensing music festival livestreams, aiming to add more video to become a one-stop shop for music fans",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-08/spotify-plans-to-add-live-concert-video-tickets",
+      "section": "more news"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they're pulled into academia, Big Tech, or US labs",
+      "excerpt": "",
+      "url": "https://pathfounders.com/p/creator-fund-closes-56m-to-woo-europe-s-phds-out-of-the-lab-and-into-startups",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Google Pays SpaceX $920M/Month for AI Compute (4 minute read)",
+      "excerpt": "Google signed a cloud service agreement with SpaceX for access to AI compute capacity tied to roughly 110,000 NVIDIA GPUs. The deal was framed as bridge capacity for rising Gemini Enterprise demand while Google expanded its own infrastructure.",
+      "url": "https://winbuzzer.com/2026/06/06/google-taps-spacex-for-920m-monthly-ai-compute-deal-xcxwbn/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "US Government Considers Taking OpenAI Stake (2 minute read)",
+      "excerpt": "OpenAI and the Trump administration discussed a possible government stake in the company through donated equity. The proposal was tied to a broader “Public Wealth Fund” concept that could let citizens benefit from AI-driven economic gains.",
+      "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Microsoft rolls out Scout AI agent to Frontier users (2 minute read)",
+      "excerpt": "Microsoft Scout is an always-on agent for Frontier program users that enhances automation in the Microsoft 365 stack. Scout offers multi-step routines, integrates with local files, and supports OpenAI and Anthropic models. While currently gated, it positions Microsoft strategically in the persistent agents space against competitors.",
+      "url": "https://www.testingcatalog.com/early-look-microsoft-rolls-out-scout-ai-agent-to-frontier-users/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "What remains scarce after AGI? (67 minute read)",
+      "excerpt": "This post contains a transcript of an interview with Alex Imas, Director of AGI Economics at Google DeepMind, and Philip Trammell, an economics postdoc at Stanford University's Digital Economy Lab, where they answer important questions about how AI is dealt with that only economics can answer. They discuss the optimal way to tax and distribute the wealth that AI will generate, how countries not in the AI supply chain will gain, and whether there's a chance of a future where inequality doesn't explode. Links to the podcast and video of the interview are available.",
+      "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Making Claude a chemist (12 minute read)",
+      "excerpt": "Anthropic's AI model Claude performs well in predicting NMR spectra, matching and sometimes surpassing traditional tools like ChemDraw and MestReNova. Opus 4.7, a Claude variant, accurately predicted hydrogen and carbon shifts on average and demonstrated consistency in replicating results. The AI also proposes chemical structures from spectral data, showing promise in reverse engineering molecular structures, a task typically requiring more complex tools.",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Anthropic/OpenAI may be spending more than $1,000 for every $100 you pay them (39 minute read)",
+      "excerpt": "LLM-assisted coding isn't likely to be affordable anytime soon. While it can enable developers to create things they never would have otherwise been able to before, it isn't economically viable for most use cases. It is only viable now because subscriptions are heavily subsidized. Serious use cases that require loops and 'thinking' using APIs have become very expensive. Developers need to prepare for costs to continue rising and build more resilient systems.",
+      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency (4 minute read)",
+      "excerpt": "Google released Gemma 4 checkpoints optimized with Quantization-Aware Training (QAT) to enhance efficiency on mobile and laptops. QAT minimizes performance loss during model compression, enabling models to run on everyday edge devices. The update includes a specialized mobile quantization format, significantly reducing memory requirements while maintaining model quality.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "OpenAI Adds Lockdown Mode (3 minute read)",
+      "excerpt": "OpenAI introduced Lockdown Mode to reduce exposure to prompt injection attacks from webpages and external content. The feature disables live browsing, web image retrieval, deep research, and agent mode while keeping some cached content and image-generation functionality available.",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Give your agent its own computer (7 minute read)",
+      "excerpt": "LangSmith introduces Sandboxes, hardware-virtualized microVMs that provide AI agents with their own secure computing environment, directly addressing the risks of running untrusted code. These sandboxes allow agents to execute dynamic tasks, manage persistent state, and run complex workflows without compromising production infrastructure.",
+      "url": "https://www.langchain.com/blog/give-your-ai-agent-its-own-computer?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs (4 minute read)",
+      "excerpt": "Amazon Bedrock has introduced a new console optimized for Anthropic and OpenAI-compatible APIs, facilitating easier model selection and deployment. It features a comprehensive model catalog, project-based workflows, and live documentation with automatic code snippets. Available in multiple AWS Regions, the console simplifies the transition from AI model evaluation to production.",
+      "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Some notes on getting into frontier AI labs (5 minute read)",
+      "excerpt": "Proven research and trench engineering are not separate skills at frontier labs, but two expressions of the same ability: operating without a map. Research output is not the paper but a refined ability to make progress when certainty is unavailable, and trench engineering at modern AI infrastructure scale is less about accumulating every detail and more about compressing complexity into useful abstractions that predict reality.",
+      "url": "https://x.com/itsreallyvivek/status/2062924410588406118?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "Anthropic Embeds Engineers in the NSA to Deploy Mythos for Offensive Cyber (3 minute read)",
+      "excerpt": "Anthropic has placed about six engineers inside the US National Security Agency (NSA) to help deploy Mythos for offensive operations. The engineers will help the NSA customize the model for use in infiltrating networks in nations such as China or Iran. It is unclear whether Anthropic's engineers will assist with active operations. Anthropic is currently suing the Pentagon over how its models are used at war.",
+      "url": "https://www.implicator.ai/anthropic-embeds-engineers-in-the-nsa-to-deploy-mythos-for-offensive-cyber/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models (6 minute read)",
+      "excerpt": "The hackathon's Thousand Token Wood v2 game uses small models from OpenAI, NVIDIA, OpenBMB, and Qwen, creating diverse agent behaviors.",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "How LLMs Actually Work (26 minute read)",
+      "excerpt": "Modern large language models are mostly built by stacking transformer blocks over and over - the differences come from what each one was trained on, the scale and configuration choices, and the post-training done on top.",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Cursor's Updated Design Mode (3 minute read)",
+      "excerpt": "Cursor updated Design Mode so users can point, draw, click elements, or narrate changes directly on a running product.",
+      "url": "https://cursor.com/blog/design-mode?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "OpenAI reportedly has a major ChatGPT overhaul in store (2 minute read)",
+      "excerpt": "OpenAI wants to attract more enterprise users with its upcoming overhaul, which features agents that can perform multiple tasks rather than just answer questions.",
+      "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

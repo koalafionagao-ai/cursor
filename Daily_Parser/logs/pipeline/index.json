@@ -1,0 +1,15 @@
+{
+  "2026-06-08": {
+    "brief_date": "2026-06-08",
+    "run_id": "gh-27185094930-1",
+    "overall_status": "success",
+    "pipeline_started_at": "2026-06-09T05:05:53Z",
+    "pipeline_finished_at": "2026-06-09T05:06:58Z",
+    "step_count": 6,
+    "last_component": "build_site_data",
+    "published_items": 28,
+    "anomalies": [],
+    "log_path": "logs/pipeline/2026-06/2026-06-08.json"
+  },
+  "_latest": "2026-06-08"
+}

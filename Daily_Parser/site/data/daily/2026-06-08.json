@@ -1,0 +1,763 @@
+{
+  "date": "2026-06-08",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 28,
+    "by_category": {
+      "cat:tech": 4,
+      "cat:business": 12,
+      "cat:other": 7,
+      "cat:app": 3,
+      "cat:model": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "title": {
+        "zh": "Apple重构Apple Intelligence，基于Apple Foundation Models的新架构",
+        "en": "Apple overhauls Apple Intelligence, with a new architecture built on Apple Foundation Models developed with Google and adapted to run on device and on servers"
+      },
+      "summary": {
+        "zh": "新架构由Apple与Google合作开发，可在设备和服务器上运行。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "apple",
+        "google"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "google"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+      "title": {
+        "zh": "OpenAI秘密提交IPO申请，尚未决定时间",
+        "en": "OpenAI confidentially files for an IPO, says it has “not decided on timing yet”, as “there are things we want to do that are likely easier as a private company”"
+      },
+      "summary": {
+        "zh": "OpenAI表示仍有一些事情需要在私有公司状态下完成。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "ipo"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/google-nvidia-consider-intel-backup-chip-manufacturer",
+      "title": {
+        "zh": "消息称Google向Intel下单制造300万+TPU，Nvidia测试Intel技术",
+        "en": "Sources: Google placed an order with Intel to manufacture 3M+ TPUs in 2028; Nvidia is testing Intel tech for a processor and running 18A trials; INTC jumps 11%"
+      },
+      "summary": {
+        "zh": "Intel股价因此上涨11%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "intel",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "intel",
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+      "title": {
+        "zh": "北京初创公司Moonshot计划融资20亿美元，估值达300亿美元",
+        "en": "Sources: Beijing-based Moonshot, which makes the Kimi chatbot, is in talks to raise up to $2B at a $30B valuation, up from a $20B+ valuation in a May round"
+      },
+      "summary": {
+        "zh": "该公司开发了Kimi聊天机器人，估值较5月的200亿美元有所提升。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2189169/apple-wwdc-2026-live-blog-siri-ai-ios-27/",
+      "title": {
+        "zh": "WWDC 2026实时博客：Apple发布全新Siri及AI功能",
+        "en": "A live blog of WWDC 2026, where Apple announced an overhauled Siri, a Siri app, new AI capabilities, OS updates focused on performance, and more"
+      },
+      "summary": {
+        "zh": "包括Siri应用、性能优化的OS更新等。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "apple"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/08/exclusive-anthropics-mythos-can-exploit-new-flaws-in-hours",
+      "title": {
+        "zh": "Anthropic研究人员称Mythos Preview可快速生成漏洞利用",
+        "en": "Anthropic researchers say Mythos Preview can now turn publicly disclosed software vulnerabilities, or N-days, into working exploits in hours instead of weeks"
+      },
+      "summary": {
+        "zh": "该工具可将公开披露的软件漏洞转化为工作利用，时间从数周缩短至数小时。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "safety"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f?accessToken=zwAAAZ6oJe2vkc9vTYBs6yJMMtODUrgmktMOnw.MEYCIQDhN5jpcjC101HxsAg6cGFa4SRTT3yO0kEs1Bebkl9qXAIhAMpqifO1aDEDi-OCqLo2qYos6vuKj25H-dZ4pHLCo0Hr&sharetype=gift&token=036f6da3-f7de-4a68-a0c4-319327f77144&syn-25a6b1a6=1",
+      "title": {
+        "zh": "消息称俄罗斯暂停部分保护普京的监控系统",
+        "en": "Sources: Russia paused parts of a surveillance system protecting Putin after Israel used AI on footage from Iran's traffic cameras to locate Ayatollah Khamenei"
+      },
+      "summary": {
+        "zh": "因以色列利用AI分析伊朗交通摄像头影像定位哈梅内伊。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041",
+      "title": {
+        "zh": "Apple推出Apple Intelligence功能自动更改被泄露密码",
+        "en": "Apple unveils an Apple Intelligence feature to automatically change compromised passwords, using agentic AI, and save them to the Passwords app"
+      },
+      "summary": {
+        "zh": "该功能使用代理AI，并将密码保存到密码应用中。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "apple",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "title": {
+        "zh": "Google升级NotebookLM，支持Gemini 3.5和Antigravity",
+        "en": "Google upgrades NotebookLM, which now runs on Gemini 3.5 and Antigravity, to deliver new agentic capabilities and more advanced reasoning for AI Ultra users"
+      },
+      "summary": {
+        "zh": "为AI Ultra用户提供新的代理能力和更高级的推理功能。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.chosun.com/english/industry-en/2026/06/08/L677RKI32FDFJPVN44SZ37CMYI/",
+      "title": {
+        "zh": "Nvidia与LG扩大AI、机器人和移动技术合作",
+        "en": "Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI factory and co-designing future data center architectures"
+      },
+      "summary": {
+        "zh": "包括建设AI工厂和共同设计未来数据中心架构。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "robotics",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "robotics",
+        "data-center"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws",
+      "title": {
+        "zh": "特朗普政府重启阻止州级AI法律的努力",
+        "en": "The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package"
+      },
+      "summary": {
+        "zh": "参议员布莱克本正在领导谈判，并推动将KOSA纳入AI优先权方案。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-29",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/meta-launches-workforce-academy-to-train-workers-to-build-data-centers-35470a80",
+      "title": {
+        "zh": "Meta投资1.15亿美元启动“劳动力学院”项目",
+        "en": "Meta puts $115M toward a “workforce academy”, a free 5-week program to train Americans to build data centers, offering job guarantees at Meta construction sites"
+      },
+      "summary": {
+        "zh": "该免费5周项目旨在培训美国人建设数据中心，并提供Meta建筑工地的工作保障。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-35",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "title": {
+        "zh": "核聚变能源初创公司Helion完成4.65亿美元G轮融资",
+        "en": "Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling its $5.245B Series F valuation in January 2025"
+      },
+      "summary": {
+        "zh": "由Thrive Capital领投，估值达155亿美元，几乎是2025年1月F轮估值的三倍。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/startup-physicsx-hits-2-4-billion-valuation-to-provide-ai-for-manufacturing",
+      "title": {
+        "zh": "PhysicsX完成3亿美元C轮融资，估值24亿美元",
+        "en": "London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation"
+      },
+      "summary": {
+        "zh": "这家总部位于伦敦的公司利用AI设计工业零件，如喷气发动机和半导体。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-37",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/pro/private-equity/accel-backs-startup-pointfives-ambition-to-help-rein-in-runaway-ai-costs-77d63439?st=7K5Wgf&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "PointFive完成6000万美元B轮融资，总融资额达1亿美元",
+        "en": "PointFive, which helps companies reduce unnecessary cloud and AI spending, raised a $60M Series B led by Accel, bringing its total funding to $100M"
+      },
+      "summary": {
+        "zh": "该公司帮助企业减少不必要的云和AI支出，由Accel领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-39",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/08/lightspeed-wiz-assaf-rappaport-37-million-ai-powered-cyberattacker-a/",
+      "title": {
+        "zh": "A Security从隐身模式中亮相，获3700万美元融资",
+        "en": "NY-based A Security, which uses AI to automate offensive cybersecurity, emerges from stealth with $37M in funding from Lightspeed, Wiz's Assaf Rapaport, others"
+      },
+      "summary": {
+        "zh": "这家纽约公司利用AI自动化进攻性网络安全，投资方包括Lightspeed和Wiz的Assaf Rapaport等。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-43",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/pentagon-accuses-alibaba-baidu-byd-of-aiding-china-s-military",
+      "title": {
+        "zh": "美国国防部将阿里巴巴、比亚迪和百度列为支持中国军方的实体",
+        "en": "The US DOD designates some of China's biggest companies, including Alibaba, BYD, and Baidu, as entities that support the Chinese military"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "alibaba",
+        "baidu"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "alibaba",
+        "baidu"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-45",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/finance/stocks/the-24-year-old-ai-wiz-who-counts-jane-street-as-an-investor-1c30d751?st=B4Grft&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "前OpenAI研究员创立的AI对冲基金管理资产超200亿美元",
+        "en": "Sources: former OpenAI researcher Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, has $20B+ AUM, after launching less than two years ago"
+      },
+      "summary": {
+        "zh": "Leopold Aschenbrenner的对冲基金Situational Awareness成立不到两年。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "openai"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://winbuzzer.com/2026/06/06/google-taps-spacex-for-920m-monthly-ai-compute-deal-xcxwbn/?utm_source=tldrai",
+      "title": {
+        "zh": "谷歌每月支付SpaceX 9.2亿美元用于AI计算",
+        "en": "Google Pays SpaceX $920M/Month for AI Compute (4 minute read)"
+      },
+      "summary": {
+        "zh": "协议涉及约11万块NVIDIA GPU，旨在满足Gemini Enterprise需求并扩展谷歌基础设施。",
+        "en": "Google signed a cloud service agreement with SpaceX for access to AI compute capacity tied to roughly 110,000 NVIDIA GPUs. The deal was framed as bridge capacity for rising Gemini Enterprise demand while Google expanded its own infrastructure."
+      },
+      "tags": [
+        "cat:business",
+        "google",
+        "gemini",
+        "gpu"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "gpu"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html?utm_source=tldrai",
+      "title": {
+        "zh": "美国政府考虑持有OpenAI股份",
+        "en": "US Government Considers Taking OpenAI Stake (2 minute read)"
+      },
+      "summary": {
+        "zh": "特朗普政府与OpenAI讨论通过捐赠股权持有股份的可能性，作为“公共财富基金”概念的一部分。",
+        "en": "OpenAI and the Trump administration discussed a possible government stake in the company through donated equity. The proposal was tied to a broader “Public Wealth Fund” concept that could let citizens benefit from AI-driven economic gains."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/early-look-microsoft-rolls-out-scout-ai-agent-to-frontier-users/?utm_source=tldrai",
+      "title": {
+        "zh": "微软推出适用于Frontier用户的Scout AI代理",
+        "en": "Microsoft rolls out Scout AI agent to Frontier users (2 minute read)"
+      },
+      "summary": {
+        "zh": "Scout是微软为Frontier计划用户推出的常驻AI代理，增强了Microsoft 365生态系统的自动化功能，支持多步操作、与本地文件集成，并兼容OpenAI和Anthropic模型。",
+        "en": "Microsoft Scout is an always-on agent for Frontier program users that enhances automation in the Microsoft 365 stack. Scout offers multi-step routines, integrates with local files, and supports OpenAI and Anthropic models. While currently gated, it positions Microsoft strategically in the persistent agents space against competitors."
+      },
+      "tags": [
+        "cat:app",
+        "microsoft",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell?utm_source=tldrai",
+      "title": {
+        "zh": "AGI时代的稀缺资源是什么？",
+        "en": "What remains scarce after AGI? (67 minute read)"
+      },
+      "summary": {
+        "zh": "Google DeepMind的AGI经济学主管Alex Imas与斯坦福大学数字经济实验室的Philip Trammell讨论了AI财富分配、税收优化及全球不平等等经济学问题。",
+        "en": "This post contains a transcript of an interview with Alex Imas, Director of AGI Economics at Google DeepMind, and Philip Trammell, an economics postdoc at Stanford University's Digital Economy Lab, where they answer important questions about how AI is dealt with that only economics can answer. They discuss the optimal way to tax and distribute the wealth that AI will generate, how countries not in the AI supply chain will gain, and whether there's a chance of a future where inequality doesn't explode. Links to the podcast and video of the interview are available."
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "deepmind"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "deepmind"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist?utm_source=tldrai",
+      "title": {
+        "zh": "让Claude成为化学家",
+        "en": "Making Claude a chemist (12 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic的Claude模型在预测NMR光谱方面表现出色，甚至超越了传统工具，并展示了从光谱数据反向推导分子结构的潜力。",
+        "en": "Anthropic's AI model Claude performs well in predicting NMR spectra, matching and sometimes surpassing traditional tools like ChemDraw and MestReNova. Opus 4.7, a Claude variant, accurately predicted hydrogen and carbon shifts on average and demonstrated consistency in replicating results. The AI also proposes chemical structures from spectral data, showing promise in reverse engineering molecular structures, a task typically requiring more complex tools."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude",
+        "opus"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "opus"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic/OpenAI的成本远高于用户支付的费用",
+        "en": "Anthropic/OpenAI may be spending more than $1,000 for every $100 you pay them (39 minute read)"
+      },
+      "summary": {
+        "zh": "LLM辅助编程目前对大多数用例来说经济上不可行，订阅服务的高补贴使其暂时可用，但开发者需为成本持续上升做好准备。",
+        "en": "LLM-assisted coding isn't likely to be affordable anytime soon. While it can enable developers to create things they never would have otherwise been able to before, it isn't economically viable for most use cases. It is only viable now because subscriptions are heavily subsidized. Serious use cases that require loops and 'thinking' using APIs have become very expensive. Developers need to prepare for costs to continue rising and build more resilient systems."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "anthropic",
+        "pricing",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "pricing",
+        "coding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.langchain.com/blog/give-your-ai-agent-its-own-computer?utm_source=tldrai",
+      "title": {
+        "zh": "为你的AI代理提供专属计算环境",
+        "en": "Give your agent its own computer (7 minute read)"
+      },
+      "summary": {
+        "zh": "LangSmith推出Sandboxes，这是一种硬件虚拟化的微型虚拟机，为AI代理提供安全的计算环境，支持动态任务执行和复杂工作流管理。",
+        "en": "LangSmith introduces Sandboxes, hardware-virtualized microVMs that provide AI agents with their own secure computing environment, directly addressing the risks of running untrusted code. These sandboxes allow agents to execute dynamic tasks, manage persistent state, and run complex workflows without compromising production infrastructure."
+      },
+      "tags": [
+        "cat:tech",
+        "langchain",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "langchain",
+        "agent"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/?utm_source=tldrai",
+      "title": {
+        "zh": "Amazon Bedrock推出优化控制台，支持Anthropic和OpenAI API",
+        "en": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs (4 minute read)"
+      },
+      "summary": {
+        "zh": "新控制台简化了模型选择和部署，提供全面的模型目录、基于项目的工作流和自动代码片段的实时文档。",
+        "en": "Amazon Bedrock has introduced a new console optimized for Anthropic and OpenAI-compatible APIs, facilitating easier model selection and deployment. It features a comprehensive model catalog, project-based workflows, and live documentation with automatic code snippets. Available in multiple AWS Regions, the console simplifies the transition from AI model evaluation to production."
+      },
+      "tags": [
+        "cat:app",
+        "amazon",
+        "bedrock",
+        "api"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon",
+        "bedrock",
+        "api"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.implicator.ai/anthropic-embeds-engineers-in-the-nsa-to-deploy-mythos-for-offensive-cyber/?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic工程师协助NSA部署Mythos进行网络攻防",
+        "en": "Anthropic Embeds Engineers in the NSA to Deploy Mythos for Offensive Cyber (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic向NSA派遣工程师协助部署Mythos模型，用于网络渗透操作，同时Anthropic正在起诉五角大楼关于其模型的战争用途。",
+        "en": "Anthropic has placed about six engineers inside the US National Security Agency (NSA) to help deploy Mythos for offensive operations. The engineers will help the NSA customize the model for use in infiltrating networks in nations such as China or Iran. It is unclear whether Anthropic's engineers will assist with active operations. Anthropic is currently suing the Pentagon over how its models are used at war."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "policy"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-16",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI计划推出ChatGPT重大升级",
+        "en": "OpenAI reportedly has a major ChatGPT overhaul in store (2 minute read)"
+      },
+      "summary": {
+        "zh": "新版本将吸引更多企业用户，支持执行多任务的智能代理，而不仅仅是回答问题。",
+        "en": "OpenAI wants to attract more enterprise users with its upcoming overhaul, which features agents that can perform multiple tasks rather than just answer questions."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "chatgpt",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt",
+        "agent"
+      ],
+      "category_tag": "cat:model"
+    }
+  ]
+}

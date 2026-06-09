@@ -1,0 +1,473 @@
+{
+  "date": "2026-06-08",
+  "sections": {
+    "top news": [
+      {
+        "title": "Apple overhauls Apple Intelligence, with a new architecture built on Apple Foundation Models developed with Google and adapted to run on device and on servers",
+        "excerpt": "",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "tweets": [
+          {
+            "author": "@firstadopter",
+            "text": "WOW.  Apple is now using... NVIDIA GPUs!?!  Let's go.  $AAPL $NVDA $INTC “Now, we are collaborating with Google and NVIDIA to run new Apple Intelligence workloads on Google Cloud, extending our industry-leading PCC privacy commitments to third-party data centers for the first time.”",
+            "url": "https://x.com/firstadopter/status/2064097613779980593"
+          },
+          {
+            "author": "@film_girl",
+            "text": "As I expected, Apple is going to punt the “on-device” story for Apple Intelligence and push towards the “private cloud compute” story for the models that you'll actually want to use. I'm glad on-device isn't going away, but it's clear a hybrid approach is absolutely necessary",
+            "url": "https://x.com/film_girl/status/2064037752266740197"
+          },
+          {
+            "author": "@mweinbach",
+            "text": "The new Apple Foundation Models used Gemini technology, but these are still Apple models [video]",
+            "url": "https://x.com/mweinbach/status/2064037416944722422"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app",
+            "url": "https://9to5mac.com/2026/06/08/new-siri-whats-new/"
+          },
+          {
+            "title": "Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs",
+            "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html"
+          },
+          {
+            "title": "Apple says Siri AI will be delayed in the EU for iOS 27 and iPadOS 27 due to the DMA; Siri AI will also not be available in China at launch",
+            "url": "https://www.macrumors.com/2026/06/08/siri-ai-not-available-eu-china/"
+          },
+          {
+            "title": "Apple says its most powerful on-device AI model requires an iPhone 17 Pro, iPhone Air, iPad with M4 and later, or Mac with M3 and later, all with 12GB+ of RAM",
+            "url": "https://9to5mac.com/2026/06/08/ios-27s-most-powerful-on-device-ai-requires-iphone-17-pro-iphone-air/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI confidentially files for an IPO, says it has “not decided on timing yet”, as “there are things we want to do that are likely easier as a private company”",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+        "tweets": [
+          {
+            "author": "@openainewsroom",
+            "text": "We recently submitted a confidential S-1.  We expect it to leak so we're just announcing it.  We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company.  But it's a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.",
+            "url": "https://x.com/openainewsroom/status/2064094175541461220"
+          },
+          {
+            "author": "@garymarcus",
+            "text": "a lot of fools and a lot of money shall soon be parted. [image]",
+            "url": "https://x.com/garymarcus/status/2064124076835078642"
+          },
+          {
+            "author": "@markgurman",
+            "text": "OpenAI files for IPO a few hours after WWDC. Coincidence? No chance.",
+            "url": "https://x.com/markgurman/status/2064098127892582504"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "A federal judge blocks President Trump's policy imposing a $100,000 fee for employer H-1B visa applications",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/08/trump-h1b-visa-fee-blocks.html",
+        "tweets": [
+          {
+            "author": "@cameron_arcand",
+            "text": "WH tells @townhallcom on federal court ruling shooting down $100k H1-B visa fee that “the Administration is confident this order will be reversed on appeal.” Read more:",
+            "url": "https://x.com/cameron_arcand/status/2064055763618734491"
+          },
+          {
+            "author": "@danieldimartino",
+            "text": "Summary of the H-1B court ruling: The 100K is a “tax” since businesses must pay it and therefore unconstitutional without congress. So why not have the immigrant pay? Because the Immigration and Nationality Act prohibits immigrants from paying fees when sponsored by employers.",
+            "url": "https://x.com/danieldimartino/status/2064082665641279552"
+          },
+          {
+            "author": "@newyorkstateag",
+            "text": "We won our case against the Trump administration for trying to destroy the H-1B visa program. Thousands with these visas serve New Yorkers as doctors, teachers, and other skilled workers. I'll keep fighting to protect them and our immigrant communities.",
+            "url": "https://x.com/newyorkstateag/status/2064085168931979676"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "FTX co-founder Sam Bankman-Fried formally applies for a presidential pardon; he was sentenced to 25 years in prison in 2024, following the FTX collapse",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/ftx-co-founder-bankman-fried-formally-applies-for-trump-pardon",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta says it's filing a federal court contempt order against NSO for violating a permanent injunction that barred NSO from ever targeting WhatsApp and its users",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/meta-takes-legal-action-against-israeli-spyware-firm-nso-group-2026-06-08/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK PM Keir Starmer says tech companies must introduce “device controls” that stop kids from sending and receiving nude images or face laws forcing them to do so",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/big-tech-firms-must-stop-young-people-circulating-nude-images-says-uk-pm-starmer-2026-06-08/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Report: UK PM Keir Starmer is set to announce a ban on “harmful” online platforms for children under 16 while maintaining access to some “safer” social media",
+            "url": "https://www.reuters.com/legal/litigation/uk-pm-starmer-set-ban-harmful-social-media-under-16s-2026-06-08/"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Google placed an order with Intel to manufacture 3M+ TPUs in 2028; Nvidia is testing Intel tech for a processor and running 18A trials; INTC jumps 11%",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/google-nvidia-consider-intel-backup-chip-manufacturer",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Beijing-based Moonshot, which makes the Kimi chatbot, is in talks to raise up to $2B at a $30B valuation, up from a $20B+ valuation in a May round",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/china-s-moonshot-ai-seeks-30-billion-value-in-new-funding-talks",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Travis Kalanick, Mark Pincus, and other founders share their horror stories of pitching to VCs; Cloudflare CEO Matthew Prince publicly calls out Vinod Khosla",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "wwdc 2026": [
+      {
+        "title": "Apple's Craig Federighi says some companies “appear to be racing forward” to develop “AI for the sake of AI” without regard for the humans using the technology",
+        "excerpt": "",
+        "url": "https://variety.com/2026/digital/news/apple-siri-ai-wwdc26-announcements-1236769265/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Apple announces new Apple Intelligence features for its apps, including a Notify Me feature in Safari and a Call Context feature in the Phone app",
+            "url": "https://www.iphoneincanada.ca/2026/06/08/safari-gains-ai-features-that-organize-tabs-and-track-website-changes/"
+          },
+          {
+            "title": "Apple announces new features for the Home app, including AI-generated descriptions of HomeKit Secure Video camera clips and smarter grouping of notifications",
+            "url": "https://www.macrumors.com/2026/06/08/apple-adds-ai-descriptions-and-smarter-notifications-to-home/"
+          },
+          {
+            "title": "Apple announces that the iOS 27 Shortcuts app will feature AI-powered workflow creation, allowing users to build automations via natural language prompts",
+            "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/"
+          },
+          {
+            "title": "Apple announces Visual Intelligence updates, including a new Siri mode in the Camera app for analyzing real-world objects and support for visionOS",
+            "url": "https://www.macrumors.com/2026/06/08/apple-expands-visual-intelligence/"
+          },
+          {
+            "title": "Apple unveils new editing tools for the Photos app as part of Apple Intelligence, including an upgraded Cleanup tool, and new Extend and Spatial Reframing tools",
+            "url": "https://www.macrumors.com/2026/06/08/apple-ai-reframing-and-editing-tools-in-photos/"
+          },
+          {
+            "title": "Apple announces a new Foundation Models framework for developers, a new Core AI framework, and a set of Xcode enhancements aimed at agentic coding workflows",
+            "url": "https://www.macrumors.com/2026/06/08/apple-unveils-xcode-and-models-improvements/"
+          }
+        ]
+      },
+      {
+        "title": "Apple unveils iOS 27, iPadOS 27, watchOS 27, and visionOS 27, highlighting performance and design improvements, including smoother system animations",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/941202/apple-ios-27-wwdc-2026",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Apple announces major performance improvements across its platforms, including up to 30% faster app launches and up to 80% faster AirDrop transfers",
+            "url": "https://9to5mac.com/2026/06/08/apple-announces-huge-ios-27-speed-improvements-for-iphone/"
+          },
+          {
+            "title": "Apple announces improvements to Liquid Glass, including a new slider that lets users control transparency, ranging from fully opaque to completely clear",
+            "url": "https://www.macrumors.com/2026/06/08/apple-announces-liquid-glass-improvements/"
+          },
+          {
+            "title": "Apple says iOS 27 will support iPhone 11, in contrast with 2019 Android flagships like Pixel 4 and Galaxy S10, which got only three years of platform updates",
+            "url": "https://www.androidauthority.com/apple-ios-27-iphone-11-support-3675625/"
+          },
+          {
+            "title": "Apple announces that AirPods will gain a custom EQ feature as part of iOS 27",
+            "url": "https://www.techradar.com/audio/earbuds-airpods/airpods-are-finally-getting-a-custom-eq-in-ios-27-this-is-not-a-drill"
+          }
+        ]
+      },
+      {
+        "title": "Apple announces macOS 27 Golden Gate, featuring Liquid Glass and search improvements, a fixed corner radius across apps and system windows, and more",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/06/08/apple-announces-macos-golden-gate-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple announces tvOS 27, with performance enhancements, smart downloads, an updated Podcasts app, and more",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/06/08/apple-announces-tvos-27-with-smart-downloads-new-podcasts-app-more/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple announces new parental controls, letting kids ask to browse specific websites or contact specific people, adding automatic image filtering, and more",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A live blog of WWDC 2026, where Apple announced an overhauled Siri, a Siri app, new AI capabilities, OS updates focused on performance, and more",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2189169/apple-wwdc-2026-live-blog-siri-ai-ios-27/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "A recording of Apple's WWDC 2026 keynote",
+            "url": "https://www.youtube.com/watch?v=hF8swzNR1-o"
+          }
+        ]
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Microsoft has shut down 70+ of its own repositories on GitHub after hackers pushed malware that would steal credentials from users of AI coding agents",
+        "excerpt": "",
+        "url": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In a notice to Maine's AG, Meta says 20,225+ Instagram accounts may have been hacked during the months-long abuse of its Meta AI chatbot, starting on April 17",
+        "excerpt": "",
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic researchers say Mythos Preview can now turn publicly disclosed software vulnerabilities, or N-days, into working exploits in hours instead of weeks",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/08/exclusive-anthropics-mythos-can-exploit-new-flaws-in-hours",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Russia paused parts of a surveillance system protecting Putin after Israel used AI on footage from Iran's traffic cameras to locate Ayatollah Khamenei",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/6f4d806c-eb22-4c32-8352-b82692d30e9f?accessToken=zwAAAZ6oJe2vkc9vTYBs6yJMMtODUrgmktMOnw.MEYCIQDhN5jpcjC101HxsAg6cGFa4SRTT3yO0kEs1Bebkl9qXAIhAMpqifO1aDEDi-OCqLo2qYos6vuKj25H-dZ4pHLCo0Hr&sharetype=gift&token=036f6da3-f7de-4a68-a0c4-319327f77144&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel's Unit 8200 violated its ToS",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple unveils an Apple Intelligence feature to automatically change compromised passwords, using agentic AI, and save them to the Passwords app",
+        "excerpt": "",
+        "url": "https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Google upgrades NotebookLM, which now runs on Gemini 3.5 and Antigravity, to deliver new agentic capabilities and more advanced reasoning for AI Ultra users",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI factory and co-designing future data center architectures",
+        "excerpt": "",
+        "url": "https://www.chosun.com/english/industry-en/2026/06/08/L677RKI32FDFJPVN44SZ37CMYI/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google lowers the price of its Google AI Plus plan to $4.99 per month, down from $7.99, and doubles the included storage to 400GB",
+        "excerpt": "",
+        "url": "https://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb.",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/richardnieva/2026/06/08/cursor-4-billion-annualized-revenue/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Italy's competition authority says it has dropped its 2025 probe into Meta over allegations Meta abused its dominant position by installing Meta AI on WhatsApp",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/italy-regulator-drops-investigation-into-metas-whatsapp-ai-bot-2026-06-08/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Amazon announces a multiyear, multibillion-dollar deal with Corning to produce optical fiber for its US data centers; Corning shares jump 8%+",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta puts $115M toward a “workforce academy”, a free 5-week program to train Americans to build data centers, offering job guarantees at Meta construction sites",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/meta-launches-workforce-academy-to-train-workers-to-build-data-centers-35470a80",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Ireland's Bring Your Own Power policy, which requires new data centers to have their own power plants on site or contracts for energy produced nearby",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/bring-your-own-power-ireland-tells-tech-titans-hungry-for-data-centers-ea750af8?st=iKsY6b",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "e-commerce": [
+      {
+        "title": "Amazon expands its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies",
+        "excerpt": "",
+        "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: China's low-cost e-commerce exports fell 10.9% YoY in April to $9.8B, the fifth straight monthly decline, amid surging fuel costs and weakening demand",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/autos-transportation/chinas-global-e-commerce-push-stalls-iran-war-lifts-costs-dampens-demand-2026-06-08/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Bending Spoons files for a US IPO, reporting a net income of $27.5M on revenue of $601M in Q1, vs. a net loss of $112.2M on revenue of $259M a year earlier",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Indian quick grocery delivery startup Zepto files for an India IPO, planning to raise ~$836M by selling new shares; Zepto was valued at $7B in its last round",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/zepto-publicly-files-for-planned-1-billion-india-ipo",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling its $5.245B Series F valuation in January 2025",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/startup-physicsx-hits-2-4-billion-valuation-to-provide-ai-for-manufacturing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "PointFive, which helps companies reduce unnecessary cloud and AI spending, raised a $60M Series B led by Accel, bringing its total funding to $100M",
+        "excerpt": "",
+        "url": "https://www.wsj.com/pro/private-equity/accel-backs-startup-pointfives-ambition-to-help-rein-in-runaway-ai-costs-77d63439?st=7K5Wgf&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/all-deals/2026/06/08/infinity-constellation-24-million-multiple-ai-companies",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NY-based A Security, which uses AI to automate offensive cybersecurity, emerges from stealth with $37M in funding from Lightspeed, Wiz's Assaf Rapaport, others",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/08/lightspeed-wiz-assaf-rappaport-37-million-ai-powered-cyberattacker-a/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Analysis: Meta removed code for an unreleased face-recognition system in the Meta AI app for its smart glasses, following a report on the code's existence",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A study estimates the iPhone's diffusion explains 33%-52% of the decline in US births from 2007 to 2011, with the most pronounced effects among women aged 15-24",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/08/us/iphone-birthrate-decline-studies.html?unlocked_article_code=1.olA.b7iV.NINJIvJR617P",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Xbox EVP Matt Booty clarifies Microsoft's new exclusivity strategy, saying new games will be reviewed case-by-case and multiplayer games will stay multiplatform",
+        "excerpt": "",
+        "url": "https://www.gamespot.com/articles/xbox-clarifies-its-exclusivity-strategy-moving-forward-wants-you-to-buy-an-xbox/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US DOD designates some of China's biggest companies, including Alibaba, BYD, and Baidu, as entities that support the Chinese military",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/pentagon-accuses-alibaba-baidu-byd-of-aiding-china-s-military",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the US urged NATO allies to channel defense spending toward efforts to replace components from Huawei in their networks and critical infrastructure",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-08/us-urges-nato-allies-to-use-defense-funds-to-replace-huawei-gear",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: former OpenAI researcher Leopold Aschenbrenner's AI-focused hedge fund, Situational Awareness, has $20B+ AUM, after launching less than two years ago",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/stocks/the-24-year-old-ai-wiz-who-counts-jane-street-as-an-investor-1c30d751?st=B4Grft&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Spotify has approached concert promoters about licensing music festival livestreams, aiming to add more video to become a one-stop shop for music fans",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-08/spotify-plans-to-add-live-concert-video-tickets",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they're pulled into academia, Big Tech, or US labs",
+        "excerpt": "",
+        "url": "https://pathfounders.com/p/creator-fund-closes-56m-to-woo-europe-s-phds-out-of-the-lab-and-into-startups",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 47
+  }
+}
