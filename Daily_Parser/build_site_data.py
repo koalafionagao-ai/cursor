@@ -20,6 +20,7 @@ FILTER_DIR = SITE_DATA / "filter-report"
 sys.path.insert(0, str(SCRIPT_DIR))
 
 from common.dates import parse_date_list  # noqa: E402
+from common.pipeline_log import EXPECTED_MIN_PUBLISHED_ITEMS, PipelineLogger  # noqa: E402
 from common.taxonomy import CATEGORY_TAGS  # noqa: E402
 from common.text_utils import is_duplicate, pick_summary  # noqa: E402
 
@@ -172,6 +173,41 @@ def sync_date(date_str: str) -> None:
         shutil.copy2(filter_src, FILTER_DIR / f"{date_str}.json")
 
 
+def sync_date_with_log(date_str: str) -> int | None:
+    """Sync one date to site/data. Returns published item count, or None if skipped."""
+    logger = PipelineLogger(date_str)
+    with logger.step(
+        "agent5",
+        "Sync processed brief to site/data and rebuild monthly aggregates + manifest",
+        "build_site_data",
+    ) as step:
+        month = date_str[:7]
+        src = SCRIPT_DIR / "Processed" / month / f"processed_{date_str}.json"
+        if not src.exists():
+            print(f"⚠️ 无 processed_{date_str}.json")
+            step.skip(f"Missing processed_{date_str}.json")
+            return None
+
+        with open(src, encoding="utf-8") as f:
+            brief = json.load(f)
+        item_count = len(brief.get("items") or [])
+
+        sync_date(date_str)
+
+        daily_path = DAILY_DIR / f"{date_str}.json"
+        step.set_metrics(
+            published_items=item_count,
+            daily_file=daily_path.name,
+        )
+        if item_count < EXPECTED_MIN_PUBLISHED_ITEMS:
+            step.warn(
+                f"Synced {item_count} items to site (expected >= {EXPECTED_MIN_PUBLISHED_ITEMS})"
+            )
+        else:
+            step.success(f"Synced daily/{date_str}.json with {item_count} items")
+        return item_count
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", nargs="*", default=[])
@@ -183,7 +219,7 @@ def main():
 
     if args.date:
         for d in parse_date_list(args.date):
-            sync_date(d)
+            sync_date_with_log(d)
 
     for p in collect_all_processed():
         sync_date(p.stem.replace("processed_", ""))

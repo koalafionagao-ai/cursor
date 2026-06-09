@@ -16,6 +16,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 
 from common.dates import parse_date_list  # noqa: E402
 from common.llm import MINI_MODEL, run_batches  # noqa: E402
+from common.pipeline_log import EXPECTED_MIN_PUBLISHED_ITEMS, PipelineLogger  # noqa: E402
 from common.schema import BlocksFile, FilterEntry, FilterReport  # noqa: E402
 
 DEFAULT_THRESHOLD = 7.0
@@ -53,81 +54,99 @@ def rule_prefilter(items: list) -> dict[str, float]:
 
 
 def process_date(date_str: str, threshold: float, dry_run: bool) -> None:
-    month = date_str[:7]
-    blocks_path = SCRIPT_DIR / "Processed" / month / f"blocks_{date_str}.json"
-    if not blocks_path.exists():
-        print(f"⚠️ 缺少 {blocks_path.name}，跳过")
-        return
+    logger = PipelineLogger(date_str)
+    with logger.step(
+        "agent3",
+        "Score and filter merged blocks with LLM (keep by threshold)",
+        "filter_scorer",
+    ) as step:
+        step.set_metrics(threshold=threshold, dry_run=dry_run)
+        month = date_str[:7]
+        blocks_path = SCRIPT_DIR / "Processed" / month / f"blocks_{date_str}.json"
+        if not blocks_path.exists():
+            print(f"⚠️ 缺少 {blocks_path.name}，跳过")
+            step.skip(f"Missing input file: {blocks_path.name}")
+            return
 
-    with open(blocks_path, encoding="utf-8") as f:
-        blocks = BlocksFile.model_validate(json.load(f))
+        with open(blocks_path, encoding="utf-8") as f:
+            blocks = BlocksFile.model_validate(json.load(f))
 
-    if not blocks.items:
-        print(f"🛑 {date_str} 无条目")
-        return
+        if not blocks.items:
+            print(f"🛑 {date_str} 无条目")
+            step.skip("Blocks file contains zero items")
+            return
 
-    penalties = rule_prefilter(blocks.items)
-    text_blocks = [block_to_text(it) for it in blocks.items]
-    entries: list[FilterEntry] = []
+        penalties = rule_prefilter(blocks.items)
+        text_blocks = [block_to_text(it) for it in blocks.items]
+        entries: list[FilterEntry] = []
 
-    if dry_run:
-        for it in blocks.items:
-            base = 5.0 + penalties.get(it.id, 0)
-            entries.append(
-                FilterEntry(
-                    id=it.id,
-                    score=max(0, min(10, base)),
-                    keep=max(0, min(10, base)) >= threshold,
-                    reason="dry-run（未调用 LLM）",
+        if dry_run:
+            for it in blocks.items:
+                base = 5.0 + penalties.get(it.id, 0)
+                entries.append(
+                    FilterEntry(
+                        id=it.id,
+                        score=max(0, min(10, base)),
+                        keep=max(0, min(10, base)) >= threshold,
+                        reason="dry-run (LLM not called)",
+                    )
                 )
+        else:
+
+            def build_user(batch: list[str]) -> str:
+                return "请为以下每条新闻打分：\n\n---\n\n".join(batch)
+
+            rows = run_batches(
+                text_blocks,
+                batch_size=BATCH_SIZE,
+                build_user=build_user,
+                system=FILTER_SYSTEM,
+                model=MINI_MODEL,
+                sleep_between_batches=2.0,
             )
-    else:
+            by_id = {r.get("id"): r for r in rows if r.get("id")}
+            for it in blocks.items:
+                row = by_id.get(it.id, {})
+                try:
+                    score = float(row.get("score", 5))
+                except (TypeError, ValueError):
+                    score = 5.0
+                score += penalties.get(it.id, 0)
+                score = max(0.0, min(10.0, score))
+                entries.append(
+                    FilterEntry(
+                        id=it.id,
+                        score=round(score, 1),
+                        keep=score >= threshold,
+                        reason=str(row.get("reason", ""))[:200],
+                    )
+                )
 
-        def build_user(batch: list[str]) -> str:
-            return "请为以下每条新闻打分：\n\n---\n\n".join(batch)
-
-        rows = run_batches(
-            text_blocks,
-            batch_size=BATCH_SIZE,
-            build_user=build_user,
-            system=FILTER_SYSTEM,
-            model=MINI_MODEL,
-            sleep_between_batches=2.0,
+        kept = sum(1 for e in entries if e.keep)
+        report = FilterReport(
+            date=date_str,
+            threshold=threshold,
+            total=len(entries),
+            kept=kept,
+            items=entries,
         )
-        by_id = {r.get("id"): r for r in rows if r.get("id")}
-        for it in blocks.items:
-            row = by_id.get(it.id, {})
-            try:
-                score = float(row.get("score", 5))
-            except (TypeError, ValueError):
-                score = 5.0
-            score += penalties.get(it.id, 0)
-            score = max(0.0, min(10.0, score))
-            entries.append(
-                FilterEntry(
-                    id=it.id,
-                    score=round(score, 1),
-                    keep=score >= threshold,
-                    reason=str(row.get("reason", ""))[:200],
-                )
+
+        out_path = SCRIPT_DIR / "Processed" / month / f"filter_{date_str}.json"
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(report.model_dump(), f, ensure_ascii=False, indent=2)
+
+        step.set_metrics(input_blocks=len(blocks.items), kept=kept, total_scored=len(entries))
+        print(
+            f"📊 {date_str} 筛选完成: {kept}/{len(entries)} 条保留 (threshold={threshold}) → {out_path.name}"
+        )
+        if kept == 0:
+            step.warn("Filter finished but zero items kept")
+        elif kept < EXPECTED_MIN_PUBLISHED_ITEMS:
+            step.warn(
+                f"Only {kept} items kept (expected >= {EXPECTED_MIN_PUBLISHED_ITEMS} after enrich)"
             )
-
-    kept = sum(1 for e in entries if e.keep)
-    report = FilterReport(
-        date=date_str,
-        threshold=threshold,
-        total=len(entries),
-        kept=kept,
-        items=entries,
-    )
-
-    out_path = SCRIPT_DIR / "Processed" / month / f"filter_{date_str}.json"
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(report.model_dump(), f, ensure_ascii=False, indent=2)
-
-    print(
-        f"📊 {date_str} 筛选完成: {kept}/{len(entries)} 条保留 (threshold={threshold}) → {out_path.name}"
-    )
+        else:
+            step.success(f"Wrote {out_path.name}: kept {kept}/{len(entries)} items")
 
 
 def main():
