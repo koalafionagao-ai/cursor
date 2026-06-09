@@ -64,25 +64,42 @@ jobs:
       - name: Build site data (Agent5)
         run: python3 Daily_Parser/build_site_data.py --date ${{ steps.date.outputs.target }}
 
+      - name: Finalize pipeline log
+        if: always()
+        continue-on-error: true
+        run: python3 Daily_Parser/finalize_pipeline_log.py --date ${{ steps.date.outputs.target }}
+
       - name: Pipeline summary
         if: always()
         run: |
           D=${{ steps.date.outputs.target }}
           M=${D:0:7}
-          FILTER="Daily_Parser/Processed/$M/filter_$D.json"
-          PROC="Daily_Parser/Processed/$M/processed_$D.json"
-          echo "## AI Daily $D" >> "$GITHUB_STEP_SUMMARY"
-          if [ -f "$FILTER" ]; then
-            python3 -c "import json; d=json.load(open('$FILTER')); print(f'- 筛选: {d[\"kept\"]}/{d[\"total\"]} kept (threshold={d[\"threshold\"]})')" >> "$GITHUB_STEP_SUMMARY"
-          fi
-          if [ -f "$PROC" ]; then
-            python3 -c "import json; d=json.load(open('$PROC')); print(f'- 发布: {len(d.get(\"items\",[]))} 条 processed')" >> "$GITHUB_STEP_SUMMARY"
+          LOG="Daily_Parser/logs/pipeline/$M/$D.json"
+          echo "## AI Daily Pipeline — $D" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f "$LOG" ]; then
+            python3 -c "
+          import json
+          from pathlib import Path
+          data = json.loads(Path('$LOG').read_text(encoding='utf-8'))
+          print(f\"- Overall: **{data.get('overall_status')}** (run {data.get('run_id')})\")
+          for s in data.get('steps') or []:
+              m = s.get('metrics') or {}
+              vol = ', '.join(f\"{k}={v}\" for k, v in m.items()) if m else '—'
+              flag = s.get('status')
+              print(f\"- [{s.get('step_order')}] {s.get('component')}: **{flag}** — {vol}\")
+              if s.get('error'):
+                  print(f\"  - error: {s['error']}\")
+              elif s.get('status') in ('warning', 'skipped'):
+                  print(f\"  - note: {s.get('result')}\")
+          " >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "- Pipeline log not found at $LOG" >> "$GITHUB_STEP_SUMMARY"
           fi
 
       - name: Commit pipeline outputs
         run: |
           git config user.name "ai-daily-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Daily_Parser/Techmeme Daily_Parser/TLDR Daily_Parser/Processed Daily_Parser/site/data
+          git add Daily_Parser/Techmeme Daily_Parser/TLDR Daily_Parser/Processed Daily_Parser/site/data Daily_Parser/logs/pipeline
           git diff --cached --quiet || git commit -m "chore(daily): ${{ steps.date.outputs.target }}"
           git push

@@ -23,6 +23,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 import sys
 sys.path.insert(0, str(SCRIPT_DIR))
 from common.dates import default_brief_date, parse_date_list
+from common.pipeline_log import PipelineLogger
 RSS_URL = "https://us14.campaign-archive.com/feed?u=94ccd3ae223561415b05892ab&id=976a1cbc1f"
 SKIP_SECTIONS = {"sponsor"}
 
@@ -181,43 +182,59 @@ def main():
     print(f"✅ RSS 拉取成功，即将处理 {len(target_dates_str)} 个日期。\n")
 
     for date_str in target_dates_str:
-        print("-" * 50)
-        print(f"⏳ 正在处理目标日期: {date_str} (预期寻找北京时间次日早8点的邮件)")
-        
-        target_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-        entries = filter_entries_by_date(feed, target_date)
+        logger = PipelineLogger(date_str)
+        with logger.step(
+            "agent1",
+            "Fetch Techmeme RSS newsletter and extract structured sections",
+            "techmeme_fetcher",
+        ) as step:
+            print("-" * 50)
+            print(f"⏳ 正在处理目标日期: {date_str} (预期寻找北京时间次日早8点的邮件)")
 
-        if not entries:
-            print(f"  ⚠️ 未能匹配到该日期的邮件，请检查 RSS 源是否已更新。")
-            write_status_log(date_str, "空")
-            continue
+            target_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            entries = filter_entries_by_date(feed, target_date)
 
-        all_sections = {}
-        for entry in entries:
-            html_content = entry.content[0].value if hasattr(entry, 'content') else entry.summary
-            sections = extract_news_from_html(html_content)
-            for name, items in sections.items():
-                if name not in all_sections:
-                    all_sections[name] = []
-                all_sections[name].extend(items)
+            if not entries:
+                print(f"  ⚠️ 未能匹配到该日期的邮件，请检查 RSS 源是否已更新。")
+                write_status_log(date_str, "空")
+                step.warn("No Techmeme newsletter matched for target date")
+                continue
 
-        total_news = sum(len(items) for items in all_sections.values())
-        
-        output = {
-            "date": date_str,
-            "sections": all_sections,
-            "stats": {
-                "section_count": len(all_sections),
-                "news_count": total_news,
+            all_sections = {}
+            for entry in entries:
+                html_content = entry.content[0].value if hasattr(entry, 'content') else entry.summary
+                sections = extract_news_from_html(html_content)
+                for name, items in sections.items():
+                    if name not in all_sections:
+                        all_sections[name] = []
+                    all_sections[name].extend(items)
+
+            total_news = sum(len(items) for items in all_sections.values())
+
+            output = {
+                "date": date_str,
+                "sections": all_sections,
+                "stats": {
+                    "section_count": len(all_sections),
+                    "news_count": total_news,
+                }
             }
-        }
 
-        output_file = output_dir / f"techmeme_{date_str}.json"
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(output, f, ensure_ascii=False, indent=2)
+            output_file = output_dir / f"techmeme_{date_str}.json"
+            with open(output_file, "w", encoding="utf-8") as f:
+                json.dump(output, f, ensure_ascii=False, indent=2)
 
-        print(f"  ✅ 成功提取 {total_news} 条新闻，已保存至: {output_file.name}")
-        write_status_log(date_str, "已获取")
+            step.set_metrics(
+                news_count=total_news,
+                section_count=len(all_sections),
+                output_file=output_file.name,
+            )
+            if total_news == 0:
+                step.warn("Techmeme newsletter matched but extracted zero news items")
+            else:
+                step.success(f"Saved {output_file.name} with {total_news} news items")
+            print(f"  ✅ 成功提取 {total_news} 条新闻，已保存至: {output_file.name}")
+            write_status_log(date_str, "已获取")
 
 if __name__ == "__main__":
     main()

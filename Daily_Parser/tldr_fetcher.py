@@ -25,6 +25,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 import sys
 sys.path.insert(0, str(SCRIPT_DIR))
 from common.dates import default_brief_date, parse_date_list
+from common.pipeline_log import PipelineLogger
 
 # ─── 配置 ───────────────────────────────────────────────────────────────
 RSS_URL = "https://bullrich.dev/tldr-rss/ai.rss"
@@ -100,54 +101,62 @@ def main():
     unique_dates = sorted(list(set(available_dates)))
     print(f"📡 当前 TLDR RSS 源中包含的日期为: {unique_dates}\n")
 
-    # 循环处理每个日期
     for date_str in target_dates_str:
-        print("-" * 50)
-        print(f"⏳ 正在处理 TLDR 目标日期: {date_str}")
-        
-        try:
-            target_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-        except ValueError:
-            print(f"  ⚠️ 日期格式错误，跳过: {date_str}")
-            continue
-            
-        entries = filter_entries_by_date(feed, target_date)
-        
-        if not entries:
-            print(f"  ⚠️ 当天 TLDR 未更新，或该日期的数据已被挤出 RSS 队列。")
-            write_status_log(date_str, "空/无匹配数据")
-            continue
+        logger = PipelineLogger(date_str)
+        with logger.step(
+            "agent1",
+            "Fetch TLDR AI RSS feed and extract news items",
+            "tldr_fetcher",
+        ) as step:
+            print("-" * 50)
+            print(f"⏳ 正在处理 TLDR 目标日期: {date_str}")
 
-        news_items = []
-        for entry in entries:
-            title = entry.title if hasattr(entry, 'title') else "No Title"
-            url = entry.link if hasattr(entry, 'link') else (entry.guid if hasattr(entry, 'guid') else "")
-            
-            # 使用 BeautifulSoup 清理 description 中的潜在 HTML 标签，提取纯文本摘要
-            desc_html = entry.description if hasattr(entry, 'description') else ""
-            soup = BeautifulSoup(desc_html, "html.parser")
-            excerpt = soup.get_text(separator=" ", strip=True)
-            
-            # 去除标题中可能包含的 sponsors 标记
-            if "(Sponsor)" in title:
+            try:
+                target_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            except ValueError:
+                print(f"  ⚠️ 日期格式错误，跳过: {date_str}")
+                step.skip(f"Invalid date format: {date_str}")
                 continue
-                
-            news_items.append({
-                "title": title,
-                "url": url,
-                "excerpt": excerpt
-            })
-            
-        # 兼容旧版 JSON 结构，统一放入 "TLDR News" 分类
-        sections = {"TLDR News": news_items}
-        
-        if not news_items:
-            print(f"  ⚠️ 找到了数据，但全都是广告被过滤掉了。")
-            write_status_log(date_str, "解析到空数据")
-        else:
+
+            entries = filter_entries_by_date(feed, target_date)
+
+            if not entries:
+                print(f"  ⚠️ 当天 TLDR 未更新，或该日期的数据已被挤出 RSS 队列。")
+                write_status_log(date_str, "空/无匹配数据")
+                step.warn("No TLDR RSS entries matched for target date")
+                continue
+
+            news_items = []
+            for entry in entries:
+                title = entry.title if hasattr(entry, "title") else "No Title"
+                url = entry.link if hasattr(entry, "link") else (entry.guid if hasattr(entry, "guid") else "")
+
+                desc_html = entry.description if hasattr(entry, "description") else ""
+                soup = BeautifulSoup(desc_html, "html.parser")
+                excerpt = soup.get_text(separator=" ", strip=True)
+
+                if "(Sponsor)" in title:
+                    continue
+
+                news_items.append({
+                    "title": title,
+                    "url": url,
+                    "excerpt": excerpt
+                })
+
+            sections = {"TLDR News": news_items}
+
+            if not news_items:
+                print(f"  ⚠️ 找到了数据，但全都是广告被过滤掉了。")
+                write_status_log(date_str, "解析到空数据")
+                step.warn("TLDR entries found but all items filtered out (e.g. sponsors)")
+                continue
+
             out_path = output_dir / f"tldr_ai_{date_str}.json"
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump({"date": date_str, "sections": sections}, f, ensure_ascii=False, indent=2)
+            step.set_metrics(news_count=len(news_items), output_file=out_path.name)
+            step.success(f"Saved {out_path.name} with {len(news_items)} news items")
             print(f"  ✅ 成功提取 {len(news_items)} 条新闻，已保存至: {out_path.name}")
             write_status_log(date_str, "已获取")
 

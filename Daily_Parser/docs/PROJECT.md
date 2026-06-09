@@ -239,7 +239,23 @@ Public URL: **`/cursor/ai_daily/`** (subpath for multi-project repos).
 | `status_log.txt` / `merge_status_log.txt` | `.gitignore` (runtime logs) |
 | Legacy URL `…/cursor/#/…` | Use `…/cursor/ai_daily/#/…` |
 
-**Kept for traceability**: `Processed/**/prompt_*.txt`, `filter-report`, raw `Techmeme/` / `TLDR/`.
+**Kept for traceability**: `Processed/**/prompt_*.txt`, `filter-report`, raw `Techmeme/` / `TLDR/`, structured logs in `logs/pipeline/`.
+
+### Pipeline logging (Agent1–Agent5)
+
+Each workflow run appends English JSON logs keyed by brief date:
+
+| Field | Meaning |
+|-------|---------|
+| `step_order` | Execution order within the run |
+| `agent` / `component` | Agent id and script name |
+| `action` | Human-readable step description |
+| `started_at` / `finished_at` / `duration_ms` | Timing |
+| `metrics` | Data volumes (e.g. `news_count`, `kept`, `published_items`) |
+| `status` | `success` / `warning` / `failed` / `skipped` |
+| `result` / `error` | Outcome message or exception text |
+
+`index.json` rolls up `overall_status`, `published_items`, and `anomalies` (low volume, warnings, failures) for quick scanning.
 
 ---
 
@@ -252,6 +268,8 @@ Public URL: **`/cursor/ai_daily/`** (subpath for multi-project repos).
 | Backfill history | `backfill_processed.py` + `build_site_data.py` |
 | Add tags | Edit `common/taxonomy.py`; adjust enrich prompt if needed |
 | Refresh site data only | Run `build_site_data.py` locally or in CI |
+| Inspect pipeline health | `Daily_Parser/logs/pipeline/index.json` and per-date JSON under `YYYY-MM/` |
+| Debug a failed run | `python3 finalize_pipeline_log.py --date YYYY-MM-DD` (English step summary) |
 
 ---
 
