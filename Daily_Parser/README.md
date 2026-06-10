@@ -22,7 +22,7 @@ Daily_Parser/
 ├── Techmeme/                 # Agent1 raw fetch JSON
 ├── TLDR/                     # Agent1 raw fetch JSON
 ├── Processed/                # Agent2–4 artifacts & publish JSON
-├── logs/pipeline/            # Structured English pipeline run logs (JSON)
+├── logs/pipeline/            # Structured English pipeline run logs (Markdown)
 ├── site/                     # Static frontend + built data/
 │   ├── index.html
 │   ├── assets/
@@ -38,6 +38,7 @@ Daily_Parser/
 ├── enrich.py                 # Agent4: translate + category + tags
 ├── build_site_data.py        # Agent5: sync site/data
 ├── finalize_pipeline_log.py  # Finalize run log + print English summary
+├── regenerate_pipeline_log.py # Rebuild Markdown logs from legacy JSON/state
 ├── backfill_processed.py     # Batch backfill utility
 └── requirements.txt
 ```
@@ -78,7 +79,7 @@ cd site && python3 -m http.server 8765
 |----------|-------------|
 | `AI Daily Pipeline` | Daily schedule (~09:00 Beijing) or manual: fetch → process → commit `Daily_Parser/site/data` and pipeline logs |
 
-**Monitoring**: after each run, check `Daily_Parser/logs/pipeline/index.json` (rollup) or `Daily_Parser/logs/pipeline/YYYY-MM/YYYY-MM-DD.json` (per-step trace: order, action, timing, metrics, status, errors). Warnings fire when published items fall below 15.
+**Monitoring**: after each run, check `Daily_Parser/logs/pipeline/index.md` (rollup table) or `Daily_Parser/logs/pipeline/YYYY-MM/YYYY-MM-DD.md` (per-step tables with GitHub workflow/step, scripts, I/O files, timing, metrics, status, errors). Warnings fire when published items fall below 15.
 | `Deploy AI Daily to GitHub Pages` | Publishes `Daily_Parser/site` under **`/cursor/ai_daily/`** |
 
 Repo **Settings → Pages → Source**: **GitHub Actions**.
