@@ -34,7 +34,7 @@ DEPLOY_WORKFLOW_FILE = ".github/workflows/deploy-pages.yml"
 DEPLOY_WORKFLOW_NAME = "Deploy AI Daily to GitHub Pages"
 DEPLOY_TRIGGER = "after AI Daily Pipeline completes, push to `main` (site paths), or workflow_dispatch (no cron)"
 
-# Per-component metadata: GitHub step, script, I/O paths, tools/secrets.
+# Per-component metadata: GitHub step, script, I/O paths, tools.
 STEP_CATALOG: dict[str, dict[str, Any]] = {
     "techmeme_fetcher": {
         "agent": "agent1",
@@ -49,7 +49,6 @@ STEP_CATALOG: dict[str, dict[str, Any]] = {
             "Daily_Parser/Techmeme/techmeme_{date}.json",
         ],
         "tools": "feedparser, beautifulsoup4; GitHub Actions: checkout@v4, setup-python@v5",
-        "secrets": "none",
     },
     "tldr_fetcher": {
         "agent": "agent1",
@@ -64,7 +63,6 @@ STEP_CATALOG: dict[str, dict[str, Any]] = {
             "Daily_Parser/TLDR/tldr_ai_{date}.json",
         ],
         "tools": "feedparser, beautifulsoup4; GitHub Actions: checkout@v4, setup-python@v5",
-        "secrets": "none",
     },
     "merge_cleaner": {
         "agent": "agent2",
@@ -82,7 +80,6 @@ STEP_CATALOG: dict[str, dict[str, Any]] = {
             "Daily_Parser/Processed/{month}/prompt_{date}.txt",
         ],
         "tools": "stdlib json; GitHub Actions: checkout@v4, setup-python@v5",
-        "secrets": "none",
     },
     "filter_scorer": {
         "agent": "agent3",
@@ -97,7 +94,6 @@ STEP_CATALOG: dict[str, dict[str, Any]] = {
             "Daily_Parser/Processed/{month}/filter_{date}.json",
         ],
         "tools": "GitHub Models API via common/llm.py (model: mini)",
-        "secrets": "GH_MODELS_TOKEN, GITHUB_TOKEN",
     },
     "enrich": {
         "agent": "agent4",
@@ -114,7 +110,6 @@ STEP_CATALOG: dict[str, dict[str, Any]] = {
             "Daily_Parser/Processed/{month}/processed_{date}.json",
         ],
         "tools": "GitHub Models API via common/llm.py (model: default)",
-        "secrets": "GH_MODELS_TOKEN, GITHUB_TOKEN",
     },
     "build_site_data": {
         "agent": "agent5",
@@ -133,7 +128,6 @@ STEP_CATALOG: dict[str, dict[str, Any]] = {
             "Daily_Parser/site/data/manifest.json",
         ],
         "tools": "stdlib json/shutil; GitHub Actions: checkout@v4, setup-python@v5",
-        "secrets": "none",
     },
 }
 
@@ -195,8 +189,8 @@ _PIPELINE_COMPONENT_ORDER = [
 def _workflow_plan_rows(brief_date: str) -> list[list[str]]:
     """Canonical GitHub Actions step order (pipeline workflow only)."""
     prep = [
-        ["—", "Resolve target date", "(workflow shell)", "—", f"Sets brief date (this run: `{brief_date}`)"],
-        ["—", "Install dependencies", "`pip install -r Daily_Parser/requirements.txt`", "—", "Once per job"],
+        ["—", "Resolve target date", "(workflow shell)", f"Sets brief date (this run: `{brief_date}`)"],
+        ["—", "Install dependencies", "`pip install -r Daily_Parser/requirements.txt`", "Once per job"],
     ]
     agent_rows = []
     for comp in _PIPELINE_COMPONENT_ORDER:
@@ -206,13 +200,12 @@ def _workflow_plan_rows(brief_date: str) -> list[list[str]]:
                 str(meta.get("agent", "")),
                 str(meta.get("github_step", "")),
                 f"`{meta.get('script', '')}`",
-                str(meta.get("secrets", "none")),
                 str(meta.get("action", "")),
             ]
         )
     tail = [
-        ["—", "Finalize pipeline log", "`Daily_Parser/finalize_pipeline_log.py`", "—", "Writes this Markdown log + index"],
-        ["—", "Commit pipeline outputs", "`git add` + commit + push", "—", "Techmeme, TLDR, Processed, site/data, logs"],
+        ["—", "Finalize pipeline log", "`Daily_Parser/finalize_pipeline_log.py`", "Writes this Markdown log + index"],
+        ["—", "Commit pipeline outputs", "`git add` + commit + push", "Techmeme, TLDR, Processed, site/data, logs"],
     ]
     return prep + agent_rows + tail
 
@@ -251,8 +244,8 @@ def render_pipeline_markdown(data: dict[str, Any]) -> str:
         "",
         "### Pipeline workflow — step order",
         "",
-        "| Agent | GitHub Actions step | Script | Secrets | Action |",
-        "|-------|---------------------|--------|---------|--------|",
+        "| Agent | GitHub Actions step | Script | Action |",
+        "|-------|---------------------|--------|--------|",
     ]
     for row in _workflow_plan_rows(brief_date):
         lines.append("| " + " | ".join(_escape_cell(c) for c in row) + " |")

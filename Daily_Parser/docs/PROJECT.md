@@ -142,18 +142,18 @@ Two workflows exist; **only one has a cron timer**.
 
 **Inside one Pipeline job**, steps run **in fixed order** (not separate scheduled tasks):
 
-| Order | GitHub Actions step | Script | Secrets |
-|-------|---------------------|--------|---------|
-| 0 | Resolve target date | (shell) | — |
-| 0 | Install dependencies | `pip install -r Daily_Parser/requirements.txt` | — |
-| 1 | Fetch Techmeme | `techmeme_fetcher.py` | — |
-| 2 | Fetch TLDR AI | `tldr_fetcher.py` | — |
-| 3 | Merge & clean (Agent2) | `merge_cleaner.py` | — |
-| 4 | Filter score (Agent3) | `filter_scorer.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
-| 5 | Enrich translate (Agent4) | `enrich.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
-| 6 | Build site data (Agent5) | `build_site_data.py` | — |
-| 7 | Finalize pipeline log | `finalize_pipeline_log.py` | — |
-| 8 | Commit pipeline outputs | `git add` + commit + push | — |
+| Order | GitHub Actions step | Script |
+|-------|---------------------|--------|
+| 0 | Resolve target date | (shell) |
+| 0 | Install dependencies | `pip install -r Daily_Parser/requirements.txt` |
+| 1 | Fetch Techmeme | `techmeme_fetcher.py` |
+| 2 | Fetch TLDR AI | `tldr_fetcher.py` |
+| 3 | Merge & clean (Agent2) | `merge_cleaner.py` |
+| 4 | Filter score (Agent3) | `filter_scorer.py` |
+| 5 | Enrich translate (Agent4) | `enrich.py` |
+| 6 | Build site data (Agent5) | `build_site_data.py` |
+| 7 | Finalize pipeline log | `finalize_pipeline_log.py` |
+| 8 | Commit pipeline outputs | `git add` + commit + push |
 
 ### Agent1 — Fetch
 
@@ -174,12 +174,12 @@ Structured sections and items (title, link, excerpt, etc.).
 | | `Processed/YYYY-MM/mapping_*.json` | URL / ID mapping |
 | | `Processed/YYYY-MM/prompt_*.txt` | Debug prompt (optional) |
 
-Dedupe and normalize for scoring. **Secrets**: none.
+Dedupe and normalize for scoring.
 
 ### Agent3 — Filter & score
 
 **Script**: `filter_scorer.py` · **GitHub step**: Filter score (Agent3)  
-**Model**: smaller `MINI_MODEL` batches · **Secrets**: `GH_MODELS_TOKEN`, `GITHUB_TOKEN`
+**Model**: smaller `MINI_MODEL` batches (GitHub Models API via `common/llm.py`)
 
 | Input | Output | Meaning |
 |-------|--------|---------|
@@ -191,7 +191,7 @@ Only `keep=true` IDs go to enrichment.
 ### Agent4 — Enrich (translate & tag)
 
 **Script**: `enrich.py` · **GitHub step**: Enrich translate (Agent4)  
-**Secrets**: `GH_MODELS_TOKEN`, `GITHUB_TOKEN`
+**Model**: GitHub Models API via `common/llm.py`
 
 | Input | Output | Meaning |
 |-------|--------|---------|
@@ -205,7 +205,7 @@ Rules:
 
 ### Agent5 — Site build
 
-**Script**: `build_site_data.py` · **GitHub step**: Build site data (Agent5) · **Secrets**: none
+**Script**: `build_site_data.py` · **GitHub step**: Build site data (Agent5)
 
 | Input | Output |
 |-------|--------|
