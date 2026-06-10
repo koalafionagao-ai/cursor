@@ -27,8 +27,12 @@ EXPECTED_MIN_PUBLISHED_ITEMS = 15
 WORKFLOW_FILE = ".github/workflows/daily-pipeline.yml"
 WORKFLOW_NAME = "AI Daily Pipeline"
 WORKFLOW_JOB = "pipeline"
-WORKFLOW_SCHEDULE = "cron `0 1 * * *` UTC (~09:00 Asia/Shanghai)"
-WORKFLOW_TRIGGER = "workflow_dispatch (optional input: `date` YYYY-MM-DD)"
+WORKFLOW_CRON_UTC = "0 1 * * *"
+WORKFLOW_CRON_BEIJING = "~09:00 Asia/Shanghai (UTC+8)"
+WORKFLOW_BRIEF_DATE_RULE = "Scheduled: yesterday in Asia/Shanghai; manual: `date` input or same default"
+DEPLOY_WORKFLOW_FILE = ".github/workflows/deploy-pages.yml"
+DEPLOY_WORKFLOW_NAME = "Deploy AI Daily to GitHub Pages"
+DEPLOY_TRIGGER = "after AI Daily Pipeline completes, push to `main` (site paths), or workflow_dispatch (no cron)"
 
 # Per-component metadata: GitHub step, script, I/O paths, tools/secrets.
 STEP_CATALOG: dict[str, dict[str, Any]] = {
@@ -178,6 +182,41 @@ def _metrics_volume(metrics: dict[str, Any]) -> str:
     return ", ".join(parts)
 
 
+_PIPELINE_COMPONENT_ORDER = [
+    "techmeme_fetcher",
+    "tldr_fetcher",
+    "merge_cleaner",
+    "filter_scorer",
+    "enrich",
+    "build_site_data",
+]
+
+
+def _workflow_plan_rows(brief_date: str) -> list[list[str]]:
+    """Canonical GitHub Actions step order (pipeline workflow only)."""
+    prep = [
+        ["—", "Resolve target date", "(workflow shell)", "—", f"Sets brief date (this run: `{brief_date}`)"],
+        ["—", "Install dependencies", "`pip install -r Daily_Parser/requirements.txt`", "—", "Once per job"],
+    ]
+    agent_rows = []
+    for comp in _PIPELINE_COMPONENT_ORDER:
+        meta = STEP_CATALOG[comp]
+        agent_rows.append(
+            [
+                str(meta.get("agent", "")),
+                str(meta.get("github_step", "")),
+                f"`{meta.get('script', '')}`",
+                str(meta.get("secrets", "none")),
+                str(meta.get("action", "")),
+            ]
+        )
+    tail = [
+        ["—", "Finalize pipeline log", "`Daily_Parser/finalize_pipeline_log.py`", "—", "Writes this Markdown log + index"],
+        ["—", "Commit pipeline outputs", "`git add` + commit + push", "—", "Techmeme, TLDR, Processed, site/data, logs"],
+    ]
+    return prep + agent_rows + tail
+
+
 def render_pipeline_markdown(data: dict[str, Any]) -> str:
     brief_date = data.get("brief_date", "")
     steps = data.get("steps") or []
@@ -199,86 +238,57 @@ def render_pipeline_markdown(data: dict[str, Any]) -> str:
         "",
         "## GitHub automation",
         "",
-        "| Key | Value |",
-        "|-----|-------|",
-        f"| Workflow | `{WORKFLOW_NAME}` (`{WORKFLOW_FILE}`) |",
-        f"| Job | `{WORKFLOW_JOB}` on `ubuntu-latest` |",
-        f"| Schedule | {WORKFLOW_SCHEDULE} |",
-        f"| Manual trigger | {WORKFLOW_TRIGGER} |",
-        f"| Post-step | `Finalize pipeline log` → `Daily_Parser/finalize_pipeline_log.py` |",
-        f"| Commit step | `Commit pipeline outputs` (Techmeme, TLDR, Processed, site/data, logs) |",
+        "### Schedules (what runs automatically)",
         "",
-        "## Anomalies",
+        "| Workflow | File | Trigger | Purpose |",
+        "|----------|------|---------|---------|",
+        f"| `{WORKFLOW_NAME}` | `{WORKFLOW_FILE}` | **Cron** `{WORKFLOW_CRON_UTC}` UTC ({WORKFLOW_CRON_BEIJING}) **or** `workflow_dispatch` | Fetch → process → commit one brief date |",
+        f"| `{DEPLOY_WORKFLOW_NAME}` | `{DEPLOY_WORKFLOW_FILE}` | {DEPLOY_TRIGGER} | Publish `Daily_Parser/site` to GitHub Pages (`/cursor/ai_daily/`) |",
         "",
+        f"**Brief date rule**: {WORKFLOW_BRIEF_DATE_RULE}.",
+        "",
+        "Only **one** cron exists (`daily-pipeline.yml`). Agent steps below are **sequential steps inside that single job**, not separate timers.",
+        "",
+        "### Pipeline workflow — step order",
+        "",
+        "| Agent | GitHub Actions step | Script | Secrets | Action |",
+        "|-------|---------------------|--------|---------|--------|",
     ]
+    for row in _workflow_plan_rows(brief_date):
+        lines.append("| " + " | ".join(_escape_cell(c) for c in row) + " |")
+
+    lines.extend(["", "## Anomalies", ""])
     if anomalies:
         for item in anomalies:
             lines.append(f"- {item}")
     else:
         lines.append("_None detected._")
-    lines.extend(["", "## Step summary", "", "| # | Agent | Component | Status | Duration | Volume | Result |", "|---|-------|-----------|--------|----------|--------|--------|"])
+    lines.extend(
+        [
+            "",
+            "## Step summary",
+            "",
+            "| # | GitHub step | Agent | Status | Duration | Volume | Result |",
+            "|---|-------------|-------|--------|----------|--------|--------|",
+        ]
+    )
     for step in steps:
+        ctx = step.get("context") or {}
         metrics = step.get("metrics") or {}
         result = step.get("result") or "—"
         if step.get("error"):
             result = f"{result} — ERROR: {step['error']}"
         lines.append(
-            "| {order} | {agent} | `{component}` | {status} | {dur} | {vol} | {result} |".format(
+            "| {order} | {gh_step} | {agent} | {status} | {dur} | {vol} | {result} |".format(
                 order=step.get("step_order"),
+                gh_step=ctx.get("github_step") or step.get("component"),
                 agent=step.get("agent"),
-                component=step.get("component"),
                 status=step.get("status"),
                 dur=f"{step.get('duration_ms')} ms" if step.get("duration_ms") is not None else "—",
                 vol=_escape_cell(_metrics_volume(metrics)),
                 result=_escape_cell(result),
             )
         )
-
-    lines.extend(["", "## Step details", ""])
-    for step in steps:
-        ctx = step.get("context") or {}
-        lines.extend(
-            [
-                f"### Step {step.get('step_order')} — `{step.get('component')}` ({step.get('agent')})",
-                "",
-                "| Key | Value |",
-                "|-----|-------|",
-                f"| Action | {step.get('action') or '—'} |",
-                f"| GitHub Actions step | `{ctx.get('github_step', '—')}` |",
-                f"| Script | `{ctx.get('script', '—')}` |",
-                f"| Command | `{ctx.get('command', '—')}` |",
-                f"| Tools | {ctx.get('tools', '—')} |",
-                f"| Secrets | {ctx.get('secrets', '—')} |",
-                f"| Started | {step.get('started_at') or '—'} |",
-                f"| Finished | {step.get('finished_at') or '—'} |",
-                f"| Duration | {step.get('duration_ms')} ms |" if step.get("duration_ms") is not None else "| Duration | — |",
-                f"| Status | {_status_badge(step.get('status', ''))} |",
-                f"| Result | {step.get('result') or '—'} |",
-            ]
-        )
-        if step.get("error"):
-            lines.append(f"| Error | `{_escape_cell(step['error'])}` |")
-        lines.append("")
-
-        inputs = ctx.get("input_files") or []
-        outputs = ctx.get("output_files") or []
-        if inputs:
-            lines.extend(["**Input files**", ""])
-            for path in inputs:
-                lines.append(f"- `{path}`")
-            lines.append("")
-        if outputs:
-            lines.extend(["**Output files**", ""])
-            for path in outputs:
-                lines.append(f"- `{path}`")
-            lines.append("")
-
-        metrics = step.get("metrics") or {}
-        if metrics:
-            lines.extend(["**Metrics**", "", "| Metric | Value |", "|--------|-------|"])
-            for key, value in metrics.items():
-                lines.append(f"| `{key}` | {_escape_cell(value)} |")
-            lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
 

@@ -75,14 +75,37 @@ cd site && python3 -m http.server 8765
 
 ## GitHub Actions
 
-| Workflow | Description |
-|----------|-------------|
-| `AI Daily Pipeline` | Daily schedule (~09:00 Beijing) or manual: fetch → process → commit `Daily_Parser/site/data` and pipeline logs |
-
-**Monitoring**: after each run, check `Daily_Parser/logs/pipeline/index.md` (rollup table) or `Daily_Parser/logs/pipeline/YYYY-MM/YYYY-MM-DD.md` (per-step tables with GitHub workflow/step, scripts, I/O files, timing, metrics, status, errors). Warnings fire when published items fall below 15.
-| `Deploy AI Daily to GitHub Pages` | Publishes `Daily_Parser/site` under **`/cursor/ai_daily/`** |
+| Workflow | When | Description |
+|----------|------|-------------|
+| `AI Daily Pipeline` | **Cron** `0 1 * * *` UTC (~09:00 Beijing) or manual | Agent1–5 for one brief date (default: yesterday in Asia/Shanghai), finalize log, commit data |
+| `Deploy AI Daily to GitHub Pages` | After pipeline / push `main` / manual (**no cron**) | Publish `Daily_Parser/site` to **`/cursor/ai_daily/`** |
 
 Repo **Settings → Pages → Source**: **GitHub Actions**.
+
+Step-by-step mapping (scripts, files, secrets): [docs/PROJECT.md §4.0](docs/PROJECT.md#40-github-actions--schedules--step-order).
+
+---
+
+## Pipeline logging
+
+**What**: `common/pipeline_log.py` writes English Markdown run logs under `logs/pipeline/`.
+
+**Why**: Monitor each agent step and catch anomalies early (failed step, skipped source, published count &lt; 15).
+
+**How**:
+
+1. Agent scripts record a step via `PipelineLogger(...).step(...)` (timing, metrics, status).
+2. CI runs `finalize_pipeline_log.py` after Agent5; commits `logs/pipeline/YYYY-MM/YYYY-MM-DD.md` and `index.md`.
+3. Open **index** for a quick rollup; open a **date file** for run overview, schedule/step-order table, anomalies, and step summary.
+
+**Commands**:
+
+```bash
+python3 finalize_pipeline_log.py --date YYYY-MM-DD    # finalize + print log
+python3 regenerate_pipeline_log.py --date YYYY-MM-DD  # rebuild .md from state/legacy JSON
+```
+
+Details: [docs/PROJECT.md §4.1](docs/PROJECT.md#41-pipeline-logging-module).
 
 ---
 

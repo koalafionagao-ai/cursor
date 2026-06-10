@@ -129,46 +129,73 @@ flowchart TB
 
 以简报日 `YYYY-MM-DD`（默认：北京时间**昨日**）为例。
 
+### 4.0 GitHub Actions — 定时与步骤顺序
+
+仓库里有 **两个** Workflow，**只有一个带 cron 定时**：
+
+| Workflow | 文件 | 何时运行 | 作用 |
+|----------|------|----------|------|
+| **AI Daily Pipeline** | `.github/workflows/daily-pipeline.yml` | **Cron** `0 1 * * *` UTC（**北京时间约 09:00**）每日；或 **手动** `workflow_dispatch`（可选 `date`） | 对某一简报日跑 Agent1–5、写日志、提交产物 |
+| **Deploy AI Daily to GitHub Pages** | `.github/workflows/deploy-pages.yml` | **无 cron** — Pipeline 完成后、或 `main` 推送涉及 `Daily_Parser/site/**`、或手动 | 再跑 `build_site_data.py`，发布静态站到 `/cursor/ai_daily/` |
+
+**简报日规则**（Pipeline）：定时跑时 `date = 北京时间昨日`；手动跑时用输入的 `date`，未填则同上。
+
+**同一次 Pipeline 任务内**，下列步骤 **按顺序依次执行**（不是多个独立定时任务）：
+
+| 顺序 | GitHub Actions 步骤名 | 脚本 | Secrets |
+|------|----------------------|------|---------|
+| 0 | Resolve target date |（shell）| — |
+| 0 | Install dependencies | `pip install -r Daily_Parser/requirements.txt` | — |
+| 1 | Fetch Techmeme | `techmeme_fetcher.py` | — |
+| 2 | Fetch TLDR AI | `tldr_fetcher.py` | — |
+| 3 | Merge & clean (Agent2) | `merge_cleaner.py` | — |
+| 4 | Filter score (Agent3) | `filter_scorer.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
+| 5 | Enrich translate (Agent4) | `enrich.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
+| 6 | Build site data (Agent5) | `build_site_data.py` | — |
+| 7 | Finalize pipeline log | `finalize_pipeline_log.py` | — |
+| 8 | Commit pipeline outputs | `git add` + commit + push | — |
+
 ### Agent1 — 抓取（Fetch）
 
-| 脚本 | 输出 |
-|------|------|
-| `techmeme_fetcher.py` | `Techmeme/techmeme_YYYY-MM-DD.json` |
-| `tldr_fetcher.py` | `TLDR/tldr_ai_YYYY-MM-DD.json` |
+| 脚本 | GitHub 步骤 | 输入 | 输出 | 工具 |
+|------|-------------|------|------|------|
+| `techmeme_fetcher.py` | Fetch Techmeme | Techmeme Mailchimp RSS（外网） | `Techmeme/techmeme_YYYY-MM-DD.json` | `feedparser`, `beautifulsoup4` |
+| `tldr_fetcher.py` | Fetch TLDR AI | TLDR AI RSS（外网） | `TLDR/tldr_ai_YYYY-MM-DD.json` | `feedparser`, `beautifulsoup4` |
 
 结构化章节 + 条目（标题、链接、摘要等）。
 
 ### Agent2 — 合并清洗（Merge & clean）
 
-**脚本**：`merge_cleaner.py`
+**脚本**：`merge_cleaner.py` · **GitHub 步骤**：Merge & clean (Agent2)
 
-| 输出文件 | 含义 |
-|----------|------|
-| `blocks_*.json` | 统一块结构，带源 ID |
-| `mapping_*.json` | 合并映射 |
-| `prompt_*.txt` | 调试 Prompt（可选阅读） |
+| 输入 | 输出 | 含义 |
+|------|------|------|
+| `Techmeme/techmeme_*.json`、`TLDR/tldr_ai_*.json` | `Processed/YYYY-MM/blocks_*.json` | 统一块结构，带源 ID |
+| | `Processed/YYYY-MM/mapping_*.json` | URL / ID 映射 |
+| | `Processed/YYYY-MM/prompt_*.txt` | 调试 Prompt（可选） |
 
-去重、规范化字段，供下游打分。
+去重、规范化字段，供下游打分。**Secrets**：无。
 
 ### Agent3 — 筛选打分（Filter & score）
 
-**脚本**：`filter_scorer.py`  
-**模型**：偏小模型（`MINI_MODEL`）批量打分。
+**脚本**：`filter_scorer.py` · **GitHub 步骤**：Filter score (Agent3)  
+**模型**：偏小模型（`MINI_MODEL`）批量打分 · **Secrets**：`GH_MODELS_TOKEN`, `GITHUB_TOKEN`
 
-| 输出 | 含义 |
-|------|------|
-| `filter_*.json` | 每条 `score` 0–10、`keep`、`reason`；默认 `keep = score >= 7` |
-| 同步副本 | `site/data/filter-report/*.json`（便于对照） |
+| 输入 | 输出 | 含义 |
+|------|------|------|
+| `Processed/YYYY-MM/blocks_*.json` | `Processed/YYYY-MM/filter_*.json` | 每条 `score` 0–10、`keep`、`reason`；默认 `keep = score >= 7` |
+| | `site/data/filter-report/*.json`（经 Agent5） | 便于对照的副本 |
 
 仅 `keep=true` 的 ID 进入翻译。
 
-### Agent4 —  enrich（Translate & tag）
+### Agent4 — enrich（Translate & tag）
 
-**脚本**：`enrich.py`
+**脚本**：`enrich.py` · **GitHub 步骤**：Enrich translate (Agent4)  
+**Secrets**：`GH_MODELS_TOKEN`, `GITHUB_TOKEN`
 
-| 输出 | 含义 |
-|------|------|
-| `processed_*.json` | 发布条目：`title`/`summary` 中英、`tags`、`category_tag`、`url`、`source` |
+| 输入 | 输出 | 含义 |
+|------|------|------|
+| `blocks_*.json`、`mapping_*.json`、`filter_*.json` | `Processed/YYYY-MM/processed_*.json` | 发布条目：`title`/`summary` 中英、`tags`、`category_tag`、`url`、`source` |
 
 规则：
 
@@ -178,13 +205,40 @@ flowchart TB
 
 ### Agent5 — 站点构建（Site build）
 
-**脚本**：`build_site_data.py`
+**脚本**：`build_site_data.py` · **GitHub 步骤**：Build site data (Agent5) · **Secrets**：无
 
-1. 每条 `processed` → `site/data/daily/YYYY-MM-DD.json`
-2. 按月聚合 → `site/data/monthly/YYYY-MM.json`（含 `tag_index`、`category_index`）
-3. 生成 `site/data/manifest.json`（月份列表、分类元数据、`base_path`）
+| 输入 | 输出 |
+|------|------|
+| `Processed/YYYY-MM/processed_*.json` | `site/data/daily/YYYY-MM-DD.json` |
+| `filter_*.json`（可选） | `site/data/filter-report/YYYY-MM-DD.json` |
+| 全部 daily | `site/data/monthly/YYYY-MM.json`（`tag_index`、`category_index`） |
+| | `site/data/manifest.json`（月份、分类、`base_path`） |
 
 **Base path**：`/cursor/ai_daily/`
+
+### 4.1 流水线日志模块（Pipeline logging）
+
+**是什么**：`common/pipeline_log.py`，为 Agent1–5 生成结构化英文运行日志。
+
+**作用**：追溯每步顺序、耗时、数据量、结果与异常，尽早发现「某天条数过少、某步失败」等问题。
+
+**怎么做**：
+
+1. 各 agent 脚本用 `PipelineLogger(brief_date).step(...)` 包裹主逻辑；
+2. 记录 metrics（如 `news_count`、`kept`、`published_items`），标记 `success` / `warning` / `failed` / `skipped`；
+3. Workflow 最后一步 `finalize_pipeline_log.py` 收尾并更新 `logs/pipeline/index.md`；
+4. 提交到 Git 的是 Markdown：`logs/pipeline/YYYY-MM/YYYY-MM-DD.md`；同一次运行内的续写靠 gitignore 的 `*.pipeline.json`。
+
+**日志文件结构**（单步脚本/文件映射见 §4.0 与各 Agent 表，日志内不再重复 Step details 附录）：
+
+| 章节 | 内容 |
+|------|------|
+| Run overview | 简报日、run ID、状态、时间、发布量阈值 |
+| GitHub automation | 哪个 Workflow 有 cron、部署触发方式、完整步骤顺序表 |
+| Anomalies | 告警、失败、发布量过低 |
+| Step summary | 每步一行：GitHub 步骤名、耗时、metrics、结果 |
+
+**工具**：`finalize_pipeline_log.py`、`regenerate_pipeline_log.py`（从 state/旧 JSON 重建 Markdown）。
 
 ---
 
@@ -241,7 +295,7 @@ Workflow `deploy-pages.yml`：
 | `status_log.txt` / `merge_status_log.txt` | 加入 `.gitignore`（运行日志，非发布物） |
 | 历史 URL `…/cursor/#/…` | 请改用 `…/cursor/ai_daily/#/…` |
 
-**保留但非运行时依赖**：`Processed/**/prompt_*.txt`（排错）、`filter-report`（调阈值）、原始 `Techmeme/`/`TLDR/`（可追溯）。
+**保留但非运行时依赖**：`Processed/**/prompt_*.txt`（排错）、`filter-report`（调阈值）、原始 `Techmeme/`/`TLDR/`（可追溯）、流水线日志 `logs/pipeline/`（见 §4.1）。
 
 ---
 
@@ -254,6 +308,9 @@ Workflow `deploy-pages.yml`：
 | 补历史 | `backfill_processed.py` + `build_site_data.py` |
 | 新增标签 | 编辑 `common/taxonomy.py`，必要时改 enrich Prompt |
 | 仅刷新站点数据 | 本地或 CI 运行 `build_site_data.py` |
+| 查看流水线健康 | `logs/pipeline/index.md` 或某日 `YYYY-MM/YYYY-MM-DD.md` |
+| 调试失败运行 | `python3 finalize_pipeline_log.py --date YYYY-MM-DD` |
+| 重建 Markdown 日志 | `python3 regenerate_pipeline_log.py --date YYYY-MM-DD` |
 
 ---
 

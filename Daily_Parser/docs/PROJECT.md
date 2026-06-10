@@ -129,46 +129,73 @@ flowchart TB
 
 Brief date `YYYY-MM-DD` (default: **yesterday** in Asia/Shanghai).
 
+### 4.0 GitHub Actions — schedules & step order
+
+Two workflows exist; **only one has a cron timer**.
+
+| Workflow | File | When it runs | What it does |
+|----------|------|--------------|--------------|
+| **AI Daily Pipeline** | `.github/workflows/daily-pipeline.yml` | **Cron** `0 1 * * *` UTC (**~09:00 Asia/Shanghai**) every day; or **manual** `workflow_dispatch` (optional `date`) | Run Agent1–5 for one brief date, finalize log, commit outputs |
+| **Deploy AI Daily to GitHub Pages** | `.github/workflows/deploy-pages.yml` | **No cron** — after Pipeline completes, push to `main` touching `Daily_Parser/site/**`, or manual | Re-run `build_site_data.py`, publish static site to `/cursor/ai_daily/` |
+
+**Brief date rule** (Pipeline): on schedule, `date = yesterday` in `Asia/Shanghai`; on manual run, use `date` input or the same default.
+
+**Inside one Pipeline job**, steps run **in fixed order** (not separate scheduled tasks):
+
+| Order | GitHub Actions step | Script | Secrets |
+|-------|---------------------|--------|---------|
+| 0 | Resolve target date | (shell) | — |
+| 0 | Install dependencies | `pip install -r Daily_Parser/requirements.txt` | — |
+| 1 | Fetch Techmeme | `techmeme_fetcher.py` | — |
+| 2 | Fetch TLDR AI | `tldr_fetcher.py` | — |
+| 3 | Merge & clean (Agent2) | `merge_cleaner.py` | — |
+| 4 | Filter score (Agent3) | `filter_scorer.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
+| 5 | Enrich translate (Agent4) | `enrich.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
+| 6 | Build site data (Agent5) | `build_site_data.py` | — |
+| 7 | Finalize pipeline log | `finalize_pipeline_log.py` | — |
+| 8 | Commit pipeline outputs | `git add` + commit + push | — |
+
 ### Agent1 — Fetch
 
-| Script | Output |
-|--------|--------|
-| `techmeme_fetcher.py` | `Techmeme/techmeme_YYYY-MM-DD.json` |
-| `tldr_fetcher.py` | `TLDR/tldr_ai_YYYY-MM-DD.json` |
+| Script | GitHub step | Input | Output | Tools |
+|--------|-------------|-------|--------|-------|
+| `techmeme_fetcher.py` | Fetch Techmeme | Techmeme Mailchimp RSS (external) | `Techmeme/techmeme_YYYY-MM-DD.json` | `feedparser`, `beautifulsoup4` |
+| `tldr_fetcher.py` | Fetch TLDR AI | TLDR AI RSS (external) | `TLDR/tldr_ai_YYYY-MM-DD.json` | `feedparser`, `beautifulsoup4` |
 
 Structured sections and items (title, link, excerpt, etc.).
 
 ### Agent2 — Merge & clean
 
-**Script**: `merge_cleaner.py`
+**Script**: `merge_cleaner.py` · **GitHub step**: Merge & clean (Agent2)
 
-| Output | Meaning |
-|--------|---------|
-| `blocks_*.json` | Unified blocks with source IDs |
-| `mapping_*.json` | Merge mapping |
-| `prompt_*.txt` | Debug prompt (optional) |
+| Input | Output | Meaning |
+|-------|--------|---------|
+| `Techmeme/techmeme_*.json`, `TLDR/tldr_ai_*.json` | `Processed/YYYY-MM/blocks_*.json` | Unified blocks with source IDs |
+| | `Processed/YYYY-MM/mapping_*.json` | URL / ID mapping |
+| | `Processed/YYYY-MM/prompt_*.txt` | Debug prompt (optional) |
 
-Dedupe and normalize for scoring.
+Dedupe and normalize for scoring. **Secrets**: none.
 
 ### Agent3 — Filter & score
 
-**Script**: `filter_scorer.py`  
-**Model**: smaller `MINI_MODEL` batches.
+**Script**: `filter_scorer.py` · **GitHub step**: Filter score (Agent3)  
+**Model**: smaller `MINI_MODEL` batches · **Secrets**: `GH_MODELS_TOKEN`, `GITHUB_TOKEN`
 
-| Output | Meaning |
-|--------|---------|
-| `filter_*.json` | Per item: `score` 0–10, `keep`, `reason`; default `keep = score >= 7` |
-| Copy | `site/data/filter-report/*.json` for review |
+| Input | Output | Meaning |
+|-------|--------|---------|
+| `Processed/YYYY-MM/blocks_*.json` | `Processed/YYYY-MM/filter_*.json` | Per item: `score` 0–10, `keep`, `reason`; default `keep = score >= 7` |
+| | `site/data/filter-report/*.json` (via Agent5) | Copy for review |
 
 Only `keep=true` IDs go to enrichment.
 
 ### Agent4 — Enrich (translate & tag)
 
-**Script**: `enrich.py`
+**Script**: `enrich.py` · **GitHub step**: Enrich translate (Agent4)  
+**Secrets**: `GH_MODELS_TOKEN`, `GITHUB_TOKEN`
 
-| Output | Meaning |
-|--------|---------|
-| `processed_*.json` | Publish items: `title` / `summary` (zh/en), `tags`, `category_tag`, `url`, `source` |
+| Input | Output | Meaning |
+|-------|--------|---------|
+| `blocks_*.json`, `mapping_*.json`, `filter_*.json` | `Processed/YYYY-MM/processed_*.json` | Publish items: `title` / `summary` (zh/en), `tags`, `category_tag`, `url`, `source` |
 
 Rules:
 
@@ -178,13 +205,40 @@ Rules:
 
 ### Agent5 — Site build
 
-**Script**: `build_site_data.py`
+**Script**: `build_site_data.py` · **GitHub step**: Build site data (Agent5) · **Secrets**: none
 
-1. Each `processed` → `site/data/daily/YYYY-MM-DD.json`
-2. Monthly rollup → `site/data/monthly/YYYY-MM.json` (`tag_index`, `category_index`)
-3. `site/data/manifest.json` (months, categories, `base_path`)
+| Input | Output |
+|-------|--------|
+| `Processed/YYYY-MM/processed_*.json` | `site/data/daily/YYYY-MM-DD.json` |
+| `filter_*.json` (optional) | `site/data/filter-report/YYYY-MM-DD.json` |
+| All daily files | `site/data/monthly/YYYY-MM.json` (`tag_index`, `category_index`) |
+| | `site/data/manifest.json` (months, categories, `base_path`) |
 
 **Base path**: `/cursor/ai_daily/`
+
+### 4.1 Pipeline logging module
+
+**What**: `common/pipeline_log.py` — structured English run logs for monitoring.
+
+**Purpose**: Trace each agent step (order, timing, data volume, status, errors) and surface anomalies early (e.g. unusually low published count).
+
+**How**:
+
+1. Each agent script wraps its work in `PipelineLogger(brief_date).step(agent, action, component)`.
+2. Per step: records metrics (`news_count`, `kept`, `published_items`, …), sets `success` / `warning` / `failed` / `skipped`.
+3. `finalize_pipeline_log.py` (last Pipeline workflow step) marks the run complete and updates `logs/pipeline/index.md`.
+4. Committed artifact: `logs/pipeline/YYYY-MM/YYYY-MM-DD.md` (Markdown tables). In-run resume uses gitignored `*.pipeline.json`.
+
+**Log sections** (no per-step appendix in the file — see §4.0 / agent tables above for script & file mapping):
+
+| Section | Contents |
+|---------|----------|
+| Run overview | brief date, run ID, status, timing, volume threshold |
+| GitHub automation | which workflow has cron, deploy triggers, full step order table |
+| Anomalies | warnings, failures, low published volume |
+| Step summary | one row per executed agent step with duration, metrics, result |
+
+**Utilities**: `finalize_pipeline_log.py`, `regenerate_pipeline_log.py` (rebuild Markdown from state/legacy JSON).
 
 ---
 
@@ -239,20 +293,7 @@ Public URL: **`/cursor/ai_daily/`** (subpath for multi-project repos).
 | `status_log.txt` / `merge_status_log.txt` | `.gitignore` (runtime logs) |
 | Legacy URL `…/cursor/#/…` | Use `…/cursor/ai_daily/#/…` |
 
-**Kept for traceability**: `Processed/**/prompt_*.txt`, `filter-report`, raw `Techmeme/` / `TLDR/`, structured logs in `logs/pipeline/`.
-
-### Pipeline logging (Agent1–Agent5)
-
-Each workflow run writes English **Markdown** logs keyed by brief date (`YYYY-MM-DD.md`). Tables include:
-
-| Section | Contents |
-|---------|----------|
-| Run overview | brief date, run ID, overall status, timing |
-| GitHub automation | workflow file, job, cron schedule, manual trigger |
-| Step summary | one row per agent step (status, duration, volume, result) |
-| Step details | action, GitHub Actions step name, script/command, input/output paths, tools/secrets, metrics |
-
-`index.md` rolls up status, published item count, and anomalies for quick scanning. In-run state uses gitignored `*.pipeline.json`; committed artifact is Markdown only.
+**Kept for traceability**: `Processed/**/prompt_*.txt`, `filter-report`, raw `Techmeme/` / `TLDR/`, pipeline logs in `logs/pipeline/` (see §4.1).
 
 ---
 
