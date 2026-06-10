@@ -51,7 +51,7 @@ Daily_Parser/
 cd Daily_Parser
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-export GH_MODELS_TOKEN=your_token   # GitHub Models
+# Agent3–4 需 LLM：按 common/llm.py 配置 API（本地环境或 CI）
 
 DATE=2026-06-02
 python3 techmeme_fetcher.py --date $DATE

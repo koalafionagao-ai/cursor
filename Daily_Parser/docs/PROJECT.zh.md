@@ -142,18 +142,18 @@ flowchart TB
 
 **同一次 Pipeline 任务内**，下列步骤 **按顺序依次执行**（不是多个独立定时任务）：
 
-| 顺序 | GitHub Actions 步骤名 | 脚本 | Secrets |
-|------|----------------------|------|---------|
-| 0 | Resolve target date |（shell）| — |
-| 0 | Install dependencies | `pip install -r Daily_Parser/requirements.txt` | — |
-| 1 | Fetch Techmeme | `techmeme_fetcher.py` | — |
-| 2 | Fetch TLDR AI | `tldr_fetcher.py` | — |
-| 3 | Merge & clean (Agent2) | `merge_cleaner.py` | — |
-| 4 | Filter score (Agent3) | `filter_scorer.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
-| 5 | Enrich translate (Agent4) | `enrich.py` | `GH_MODELS_TOKEN`, `GITHUB_TOKEN` |
-| 6 | Build site data (Agent5) | `build_site_data.py` | — |
-| 7 | Finalize pipeline log | `finalize_pipeline_log.py` | — |
-| 8 | Commit pipeline outputs | `git add` + commit + push | — |
+| 顺序 | GitHub Actions 步骤名 | 脚本 |
+|------|----------------------|------|
+| 0 | Resolve target date |（shell）|
+| 0 | Install dependencies | `pip install -r Daily_Parser/requirements.txt` |
+| 1 | Fetch Techmeme | `techmeme_fetcher.py` |
+| 2 | Fetch TLDR AI | `tldr_fetcher.py` |
+| 3 | Merge & clean (Agent2) | `merge_cleaner.py` |
+| 4 | Filter score (Agent3) | `filter_scorer.py` |
+| 5 | Enrich translate (Agent4) | `enrich.py` |
+| 6 | Build site data (Agent5) | `build_site_data.py` |
+| 7 | Finalize pipeline log | `finalize_pipeline_log.py` |
+| 8 | Commit pipeline outputs | `git add` + commit + push |
 
 ### Agent1 — 抓取（Fetch）
 
@@ -174,12 +174,12 @@ flowchart TB
 | | `Processed/YYYY-MM/mapping_*.json` | URL / ID 映射 |
 | | `Processed/YYYY-MM/prompt_*.txt` | 调试 Prompt（可选） |
 
-去重、规范化字段，供下游打分。**Secrets**：无。
+去重、规范化字段，供下游打分。
 
 ### Agent3 — 筛选打分（Filter & score）
 
 **脚本**：`filter_scorer.py` · **GitHub 步骤**：Filter score (Agent3)  
-**模型**：偏小模型（`MINI_MODEL`）批量打分 · **Secrets**：`GH_MODELS_TOKEN`, `GITHUB_TOKEN`
+**模型**：偏小模型（`MINI_MODEL`）批量打分（GitHub Models API，见 `common/llm.py`）
 
 | 输入 | 输出 | 含义 |
 |------|------|------|
@@ -191,7 +191,7 @@ flowchart TB
 ### Agent4 — enrich（Translate & tag）
 
 **脚本**：`enrich.py` · **GitHub 步骤**：Enrich translate (Agent4)  
-**Secrets**：`GH_MODELS_TOKEN`, `GITHUB_TOKEN`
+**模型**：GitHub Models API（见 `common/llm.py`）
 
 | 输入 | 输出 | 含义 |
 |------|------|------|
@@ -205,7 +205,7 @@ flowchart TB
 
 ### Agent5 — 站点构建（Site build）
 
-**脚本**：`build_site_data.py` · **GitHub 步骤**：Build site data (Agent5) · **Secrets**：无
+**脚本**：`build_site_data.py` · **GitHub 步骤**：Build site data (Agent5)
 
 | 输入 | 输出 |
 |------|------|

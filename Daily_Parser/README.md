@@ -51,7 +51,7 @@ Daily_Parser/
 cd Daily_Parser
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-export GH_MODELS_TOKEN=your_token   # GitHub Models
+# LLM steps (Agent3–4): configure API access per common/llm.py (local env or CI)
 
 DATE=2026-06-02
 python3 techmeme_fetcher.py --date $DATE
@@ -82,7 +82,7 @@ cd site && python3 -m http.server 8765
 
 Repo **Settings → Pages → Source**: **GitHub Actions**.
 
-Step-by-step mapping (scripts, files, secrets): [docs/PROJECT.md §4.0](docs/PROJECT.md#40-github-actions--schedules--step-order).
+Step-by-step mapping (scripts, files): [docs/PROJECT.md §4.0](docs/PROJECT.md#40-github-actions--schedules--step-order).
 
 ---
 
