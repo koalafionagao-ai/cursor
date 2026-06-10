@@ -9,4 +9,5 @@ Daily_Parser/data/cache/*.sqlite
 *.log
 Daily_Parser/status_log.txt
 Daily_Parser/merge_status_log.txt
+Daily_Parser/logs/pipeline/**/*.pipeline.json
 _pages/
