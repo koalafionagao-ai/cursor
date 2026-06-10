@@ -22,6 +22,7 @@ Daily_Parser/
 ├── Techmeme/                 # Agent1 原始抓取 JSON
 ├── TLDR/                     # Agent1 原始抓取 JSON
 ├── Processed/                # Agent2–4 中间产物与发布稿
+├── logs/pipeline/            # 流水线运行日志（Markdown）
 ├── site/                     # 静态前端 + 构建后的 data/
 │   ├── index.html
 │   ├── assets/
@@ -36,6 +37,8 @@ Daily_Parser/
 ├── filter_scorer.py          # Agent3：LLM 打分筛选
 ├── enrich.py                 # Agent4：翻译 + 分类 + 标签
 ├── build_site_data.py        # Agent5：同步 site/data
+├── finalize_pipeline_log.py  # 收尾日志并打印摘要
+├── regenerate_pipeline_log.py # 从 state/旧 JSON 重建 Markdown 日志
 ├── backfill_processed.py     # 批量补跑工具
 └── requirements.txt
 ```
@@ -57,6 +60,7 @@ python3 merge_cleaner.py --date $DATE
 python3 filter_scorer.py --date $DATE
 python3 enrich.py --date $DATE
 python3 build_site_data.py --date $DATE
+python3 finalize_pipeline_log.py --date $DATE
 ```
 
 本地预览站点（需 HTTP 服务，且 base 与线上一致时可改 `site/index.html` 的 `base-path`）：
@@ -71,12 +75,37 @@ cd site && python3 -m http.server 8765
 
 ## GitHub Actions
 
-| Workflow | 说明 |
-|----------|------|
-| `AI Daily Pipeline` | 每日定时（北京时间约 09:00）或手动：抓取 → 处理 → 提交 `Daily_Parser/site/data` |
-| `Deploy AI Daily to GitHub Pages` | 将 `Daily_Parser/site` 发布到 **`/cursor/ai_daily/`** 子路径 |
+| Workflow | 何时运行 | 说明 |
+|----------|----------|------|
+| `AI Daily Pipeline` | **Cron** `0 1 * * *` UTC（北京时间约 09:00）或手动 | 对某一简报日（默认可设为北京时间昨日）跑 Agent1–5、写日志、提交产物 |
+| `Deploy AI Daily to GitHub Pages` | Pipeline 完成后 / 推送 `main` / 手动（**无 cron**） | 发布 `Daily_Parser/site` 到 **`/cursor/ai_daily/`** |
 
 仓库 Settings → Pages → Source：**GitHub Actions**。
+
+步骤顺序、脚本与文件对照：[docs/PROJECT.zh.md §4.0](docs/PROJECT.zh.md#40-github-actions--定时与步骤顺序)。
+
+---
+
+## 流水线日志（Pipeline logging）
+
+**是什么**：`common/pipeline_log.py` 在 `logs/pipeline/` 下生成英文 Markdown 运行日志。
+
+**作用**：记录各 Agent 步骤的顺序、耗时、数据量、结果与异常，便于尽早发现「某天条数过少、某步失败」等问题。
+
+**怎么做**：
+
+1. 各 Agent 脚本通过 `PipelineLogger(...).step(...)` 记录 metrics 与状态；
+2. CI 在 Agent5 之后执行 `finalize_pipeline_log.py`，提交 `logs/pipeline/YYYY-MM/YYYY-MM-DD.md` 与 `index.md`；
+3. 日常先看 **index** 汇总表，有问题再打开对应日期的 **日志文件**（含定时说明、步骤顺序表、异常、Step summary）。
+
+**命令**：
+
+```bash
+python3 finalize_pipeline_log.py --date YYYY-MM-DD    # 收尾并打印日志
+python3 regenerate_pipeline_log.py --date YYYY-MM-DD  # 从 state/旧 JSON 重建 .md
+```
+
+详见 [docs/PROJECT.zh.md §4.1](docs/PROJECT.zh.md#41-流水线日志模块pipeline-logging)。
 
 ---
 

@@ -94,7 +94,7 @@ jobs:
               if in_summary and line.startswith('|') and not line.startswith('| #'):
                   cols = [c.strip() for c in line.strip('|').split('|')]
                   if len(cols) >= 7 and cols[0].isdigit():
-                      print(f\"- [{cols[0]}] {cols[2]}: **{cols[3]}** — {cols[5]}\")
+                      print(f\"- [{cols[0]}] {cols[1]}: **{cols[3]}** — {cols[5]}\")
           anomalies = []
           in_anom = False
           for line in text.splitlines():
