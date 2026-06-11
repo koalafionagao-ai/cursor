@@ -1,0 +1,399 @@
+{
+  "date": "2026-06-09",
+  "sections": {
+    "top news": [
+      {
+        "title": "Anthropic debuts Claude Fable 5, a “safe” Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted organizations",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+        "tweets": [
+          {
+            "author": "@karpathy",
+            "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards.  The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward...peaking especially for long problem-solving sessions on very difficult problems...The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.",
+            "url": "https://x.com/karpathy/status/2064409694761054332"
+          },
+          {
+            "author": "@bcherny",
+            "text": "Fable 5 is the biggest step up I've felt in our models since Opus 4.5 back in November.  After 4.5 came out I uninstalled my IDE when I realized that I'd been doing 100% of my coding in a terminal for a few weeks.  With Fable, it's felt like Claude has stepped up from being a coding agent to a thought and design partner in building the product.  Fable has judgement, taste, and dimensionality in a way that previous models didn't, leading me to trust it more with the most complex work",
+            "url": "https://x.com/bcherny/status/2064431111154053187"
+          },
+          {
+            "author": "@yuchenj_uw",
+            "text": "Claude Fable 5 / Mythos 5 wins everywhere.  I thought Fable 5 was just a nerfed Mythos Preview, but it's literally better.  SWE-Bench Pro: Fable 5: 80.3%, GPT-5.5: 58.6%.  And the price is only 2x Opus 4.8: $10/input MTok, $50/output MTok.  I don't think GPT 5.6 can beat this",
+            "url": "https://x.com/yuchenj_uw/status/2064396097075003739"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Anthropic says Claude Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in <5% of sessions, in areas like cybersecurity",
+            "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+          },
+          {
+            "title": "Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for building frontier LLMs",
+            "url": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/"
+          },
+          {
+            "title": "Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input tokens and $50 per 1M output tokens, less than half the price of Claude Mythos Preview",
+            "url": "https://www.zdnet.com/article/anthropiclaude-fable-5-nerfed-mythos-with-guardrails/"
+          },
+          {
+            "title": "Anthropic says Fable 5 is available on Pro, Max, Team, and seat-based Enterprise plans through June 22, after which using Fable 5 will require usage credits",
+            "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/"
+          },
+          {
+            "title": "Claude Fable 5 hands-on: impressive results working on complex projects, like building an interactive isochrone map or a data analysis tool in just 9.5 hours",
+            "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+          },
+          {
+            "title": "Anthropic says red team tests of Fable 5 found no universal jailbreaks, and it will keep first- and third-party user traffic on Mythos-class models for 30 days",
+            "url": "https://cyberscoop.com/anthropic-claude-fable-5-release-mythos-guardrails/"
+          }
+        ]
+      },
+      {
+        "title": "The EU says Apple decided not to roll out Siri AI in the EU after it had unsuccessfully requested to be exempted from interoperability obligations for the tool",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+        "tweets": [
+          {
+            "author": "@jewiss",
+            "text": "Apple and the EU are telling very different stories on Siri AI, and right now, it's a standoff.  Apple's press release and comments to @LelloucheNico say the DMA would force it to give rival assistants deep access to messages, files, photos, app actions, and personal context, creating privacy/security risks.  I reached out to the EU Commission for comment...They said nothing in the DMA blocks Siri AI.  Apple can launch it if it complies, but it must give rivals “equivalent access” and can't use iOS to favour its own AI.",
+            "url": "https://x.com/jewiss/status/2064320243409805371"
+          },
+          {
+            "author": "@electric_maik",
+            "text": "Apple is currently holding back Siri AI within the EU because the company is a designated gatekeeper under the Digital Markets Act.  For roughly 18 months, Apple has been trying to find a way to bring the new Siri AI to Europe while complying with DMA rules.  Apple proposed a solution called the „Trusted System Agent\"...However, the European Commission rejected all of Apple's proposals.",
+            "url": "https://x.com/electric_maik/status/2064244944559116787"
+          },
+          {
+            "author": "@timsweeneyepic",
+            "text": "@Electric_Maik They dissuaded 60% of Epic Games customers from installing our store after they started the process. The EU found that unlawful and forced Apple to change, and they did. Trust the rule of law here to bring competition to Siri, currently the industry's worst AI assistant.",
+            "url": "https://x.com/timsweeneyepic/status/2064483460249502171"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+        "tweets": [
+          {
+            "author": "@awnihannun",
+            "text": "It's very cool that Apple shipped a 20B parameter on-device.  You can't put 20B parameters in RAM at any reasonable precision.  To make it work they are using pretty exotic architecture by today's standards.  A small model predicts from the query (or prompt) which experts to load from Nand into RAM.  The key distinction from a typical MoE is that you do this once per query and then generate all the tokens with the same experts (instead of switching the experts for every token).",
+            "url": "https://x.com/awnihannun/status/2064202168618422396"
+          },
+          {
+            "author": "@mweinbach",
+            "text": "Apple just clarified AFM Cloud is Apple's own model, trained with Gemini outputs AFM local models are entirely Apple models AFM Cloud Pro seems to be based on Gemini foundation and data, but Apple did their own pre-training, post-training, RL, etc",
+            "url": "https://x.com/mweinbach/status/2064065968444485793"
+          },
+          {
+            "author": "@benbajarin",
+            "text": "Apple execs confirming using broader GCP and NVIDIA GPUs for Apple Private cloud compute: “This is our most capable model, with quality similar to Gemini Frontier models, and to bring this model to production, we work with both Google and Nvidia to extend our private cloud compute infrastructure to Nvidia GPUs in Google's cloud, while maintaining Apple's unmatched privacy guarantees.”",
+            "url": "https://x.com/benbajarin/status/2064065407615717659"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Apple unveils new Apple Foundation Models: two on-device models, including a 20B-parameter multimodal model called AFM 3 Core Advanced, and three cloud models",
+            "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models"
+          },
+          {
+            "title": "If Apple's Siri AI works as well as it did in its WWDC demos, Apple is set to take the lead in consumer AI, with the iPhone becoming the first true AI device",
+            "url": "https://spyglass.org/siri-ai/"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google releases Gemini 3.5 Live Translate, its latest audio model that it says can deliver “near real-time speech-to-speech translation in over 70 languages”",
+        "excerpt": "",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "EU regulators order Meta to give rival AI chatbots free access to WhatsApp while they continue to probe if Meta abused its market power by blocking competitors",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/eu-regulators-order-meta-allow-rival-ai-chatbots-free-access-whatsapp-2026-06-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In an interview, Perplexity CEO Aravind Srinivas says that the startup is planning to go public in 2028, regardless of how well Anthropic's and OpenAI's IPOs go",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Trump and his sons profited $2.3B+ from four crypto ventures including $TRUMP since January 2025, while other investors in those projects lost ~$2.3B",
+        "excerpt": "",
+        "url": "https://www.reuters.com/investigations/under-trump-crypto-playbook-family-always-wins-investors-dont-2026-06-09/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "apple wwdc": [
+      {
+        "title": "Apple overhauls the App Store with subscription options for groups, businesses, and schools, Retention Messaging to reduce churn, bundled IAP reviews, and more",
+        "excerpt": "",
+        "url": "https://appleinsider.com/articles/26/06/08/app-store-overhaul-gives-developers-new-ways-to-sell-subscriptions",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Apple updates its App Store review guidelines to say it may remove apps in saturated categories “if they are not updated, improved, or do not attract customers”",
+            "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/"
+          }
+        ]
+      },
+      {
+        "title": "The first developer beta of iOS 27 offers the clearest signs yet of Apple's upcoming foldable iPhone, with references to folding hardware and flexible displays",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple says 79% of all iPhones and 86% of iPhones released in the past four years were running iOS 26 as of June 7, vs. 82% and 88% for iOS 18 before WWDC 2025",
+        "excerpt": "",
+        "url": "https://www.macrumors.com/2026/06/09/ios-26-adoption-stats-wwdc/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations",
+        "excerpt": "",
+        "url": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sam Altman and Jakub Pachocki claim OpenAI is entering its “third phase”, aiming to automate AI research, boost the economy, and give everyone a personal AGI",
+        "excerpt": "",
+        "url": "https://openai.com/index/built-to-benefit-everyone-our-plan/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1,000 tokens/second, a first for a 1T-parameter model, using an 8-GPU commodity node; an API trial runs June 9 to 23",
+        "excerpt": "",
+        "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Report: US colleges now offer 74+ AI majors and 89+ minors, and at least a dozen schools are set to add AI majors in 2026; only five offered AI majors in 2021",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/08/us/ai-college-degrees.html?unlocked_article_code=1.olA.c3PQ.T-XBhXT_r0u0&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Sources: China is drafting plans to spend ~$295B over the next five years on building AI data centers, sourcing 80%+ of tech from local suppliers like Huawei",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "China starts operating the world's first wind-powered underwater data center, off Shanghai's coast, and says it uses 22.8% less power than land-based facilities",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/spacex-aims-launch-orbital-ai-computing-tests-by-end-next-year-sources-say-2026-06-09/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Docs: ~34K Instagram accounts, including Obama's White House account, were affected in the breach tied to Meta's AI chatbot; attackers changed 3,500+ usernames",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/09/technology/34000-instagram-accounts-ai.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The French government warns that hackers used a hijacked user account to breach Tchap, its encrypted messaging app for civil servants with 300K+ monthly users",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Sources: Taiwan is considering restricting AI chip sales to all customers in China, not just companies on an export blacklist like Huawei, to align with the US",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In a UK online safety consultation, the US urges the UK against an under-16 social media ban, saying it would place a “disproportionate” burden on US companies",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US FCC waives its July 30 deadline for Amazon to deploy half of its Leo satellites; Amazon is still required to launch all 3,232 satellites by July 30, 2029",
+        "excerpt": "",
+        "url": "https://www.pcmag.com/news/fcc-gives-amazon-leo-a-reprieve-on-satellite-launch-deadline-with-one-condition",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Finland-based Iceye, whose small satellites help countries with real-time location monitoring, raised a €1B Series F led by General Atlantic at a €10B valuation",
+        "excerpt": "",
+        "url": "https://resiliencemedia.co/iceye-the-finnish-satellite-startup-nabs-e1b-at-a-e10b-valuation-amid-growing-demand-for-space-intel/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "IT management platform NinjaOne raised $400M in a secondary share sale at a $12.3B valuation, up from $5B in February 2025, and says its ARR has hit $600M",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/iconiq-backed-it-startup-ninjaone-hits-12-3-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Beacon Software, which acquires niche software businesses and transforms them with AI, raised a $225M Series C, bringing its total funding to $550M",
+        "excerpt": "",
+        "url": "https://www.wsj.com/pro/venture-capital/startup-beacon-software-raises-225-million-to-expand-venture-roll-up-strategy-d456c1bf",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Decentralized lending protocol Morpho raised $175M led by Paradigm, Ribbit Capital, and a16z Crypto in a token sale that valued Morpho at up to $2B",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/09/morpho-fundraise-a16z-crypto-paradigm-ribbit-capital-175-million/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "France-based Alta Ares, which is building AI-powered air defense systems to counter drones and missiles, raised a €50M Series A led by Air Street Capital",
+        "excerpt": "",
+        "url": "https://sifted.eu/articles/alta-ares-defence-tech-50m-round/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Vinyl Equity, an SEC-registered transfer agent that has launched a payments platform earlier this year, raised a $20M Series A led by Jump Capital",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/06/09/vinyl-equity-transfer-agent-20-million",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Meta plans to expand using off-platform data, such as online purchases, to personalize content feeds and AI responses; it was previously used just to serve ads",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Canadian payments company Nuvei is in advanced talks to acquire NYC-based cross-border payments company Payoneer for ~$2.7B and could sign within days",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/nuvei-value-payoneer-about-23-billion-including-debt-deal-sources-say-2026-06-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "San Francisco voters reject the Overpaid CEO Act, a union-backed ballot measure to raise taxes on large businesses where the CEO earns 100x+ the median employee",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/san-francisco-s-overpaid-ceo-tax-quashed-with-billionaire-help",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kalshi plans to require users seeking to make bets in some markets linked to material nonpublic information to submit an online form disclosing where they work",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/regulation/kalshi-plans-to-require-users-disclose-where-they-work-to-make-certain-trades-7c6ada99?st=T33Rnm",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The UK is conducting a full review of its NHS contract with Palantir, amid growing pressure to end the deal in early 2027 over its reliance on a US tech company",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uk-reviewing-palantirs-nhs-contract-amid-pressure-use-break-clause-2026-06-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: India froze approvals for Starlink to begin commercial operations due to concerns that its terminals were used in Iran despite not being licensed there",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/starlink-india-launch-hits-security-roadblock-before-spacex-ipo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTAxNDI3NiwiZXhwIjoxNzgxNjE5MDc2LCJhcnRpY2xlSWQiOiJUR0NJTTBSMjRVOEIwMCIsImJjb25uZWN0SWQiOiJCNzg3N0QzQzg1QzM0MTAwOEEwNUUwNjdBQzNFMzc5MSJ9.AXsl3T4VQC1enmWF6NcjDUNqtlwuKkk-ml6hKkiZuSY",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CoreWeave founders have sold $2.3B in stock since the company's lockup period expired in August after a March 2025 IPO, reducing their combined holdings by ~25%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/coreweave-founders-have-dumped-2-3-billion-in-stock-since-ipo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTA0MzIwNiwiZXhwIjoxNzgxNjQ4MDA2LCJhcnRpY2xlSWQiOiJURzQ4OUdLSkg2VjQwMCIsImJjb25uZWN0SWQiOiIzOEVENDg5NkRGOEU0Njk4OUE2NTI2QTA0MzNFQjgyNSJ9.URcmzWX537secwUsfAFAReEXXiiKaCHkOuHePlQiMuw",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Super Micro aims to raise $7B through equity and equity-linked financing transactions to fund component purchases tied to AI orders; SMCI drops 6%+ after hours",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/super-micro-computer-plans-raise-7-billion-equity-offerings-2026-06-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Microsoft laid off 200 to 400 Azure unit employees in Beijing and Shanghai last week, marking at least its third downsizing round in China in two years",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A group of Chinese tech companies, including Alibaba and CXMT, launches a ~$577M PE fund to boost China's “hard tech” sectors amid tightening US export curbs",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/tech-war/article/3356480/china-chip-giants-form-us577-million-patient-capital-fund-counter-us-tech-curb",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 41
+  }
+}

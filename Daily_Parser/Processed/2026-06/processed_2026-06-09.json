@@ -1,0 +1,551 @@
+{
+  "date": "2026-06-09",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 25,
+    "by_category": {
+      "cat:model": 4,
+      "cat:tech": 3,
+      "cat:business": 12,
+      "cat:other": 5,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "title": {
+        "zh": "Anthropic发布Claude Fable 5和Claude Mythos 5模型",
+        "en": "Anthropic debuts Claude Fable 5, a “safe” Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted organizations"
+      },
+      "summary": {
+        "zh": "Claude Fable 5被称为“安全”的Mythos级模型，无法用于网络攻击；Claude Mythos 5仅向可信组织开放。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+      "title": {
+        "zh": "Google和Nvidia协助苹果开发Apple Foundation Model Cloud Pro",
+        "en": "Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs"
+      },
+      "summary": {
+        "zh": "苹果称其性能可与Gemini Frontier模型媲美，并运行在Nvidia GPU上。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "nvidia",
+        "apple",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-05",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+      "title": {
+        "zh": "Google发布Gemini 3.5实时语音翻译模型",
+        "en": "Google releases Gemini 3.5 Live Translate, its latest audio model that it says can deliver “near real-time speech-to-speech translation in over 70 languages”"
+      },
+      "summary": {
+        "zh": "该模型支持70多种语言的“近实时语音到语音翻译”。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-06",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/eu-regulators-order-meta-allow-rival-ai-chatbots-free-access-whatsapp-2026-06-09/",
+      "title": {
+        "zh": "欧盟要求Meta向竞争对手AI聊天机器人开放WhatsApp",
+        "en": "EU regulators order Meta to give rival AI chatbots free access to WhatsApp while they continue to probe if Meta abused its market power by blocking competitors"
+      },
+      "summary": {
+        "zh": "欧盟监管机构正在调查Meta是否通过封锁竞争对手滥用市场权力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan/",
+      "title": {
+        "zh": "Sam Altman称OpenAI进入“第三阶段”",
+        "en": "Sam Altman and Jakub Pachocki claim OpenAI is entering its “third phase”, aiming to automate AI research, boost the economy, and give everyone a personal AGI"
+      },
+      "summary": {
+        "zh": "目标是自动化AI研究、推动经济发展，并为每个人提供个人AGI。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "sam-altman"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
+      "title": {
+        "zh": "小米MiMo-V2.5-Pro-UltraSpeed模型实现每秒1000个token",
+        "en": "Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1,000 tokens/second, a first for a 1T-parameter model, using an 8-GPU commodity node; an API trial runs June 9 to 23"
+      },
+      "summary": {
+        "zh": "这是首个1万亿参数模型在8-GPU节点上的突破，API试用将于6月9日至23日开放。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "chip",
+        "api"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-16",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
+      "title": {
+        "zh": "消息称中国计划未来五年投资约2950亿美元建设AI数据中心",
+        "en": "Sources: China is drafting plans to spend ~$295B over the next five years on building AI data centers, sourcing 80%+ of tech from local suppliers like Huawei"
+      },
+      "summary": {
+        "zh": "计划中80%以上的技术将来自华为等本地供应商。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "huawei",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/media-telecom/spacex-aims-launch-orbital-ai-computing-tests-by-end-next-year-sources-say-2026-06-09/",
+      "title": {
+        "zh": "消息称SpaceX计划2027年底前启动轨道AI计算测试",
+        "en": "Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites"
+      },
+      "summary": {
+        "zh": "公司已向监管机构申请发射多达100万颗数据中心卫星的许可。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
+      "title": {
+        "zh": "消息称台湾考虑限制对中国的AI芯片销售",
+        "en": "Sources: Taiwan is considering restricting AI chip sales to all customers in China, not just companies on an export blacklist like Huawei, to align with the US"
+      },
+      "summary": {
+        "zh": "此举旨在与美国政策保持一致，不仅针对华为等出口黑名单上的公司。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "chip",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://resiliencemedia.co/iceye-the-finnish-satellite-startup-nabs-e1b-at-a-e10b-valuation-amid-growing-demand-for-space-intel/",
+      "title": {
+        "zh": "芬兰卫星公司Iceye完成10亿欧元融资，估值达100亿欧元",
+        "en": "Finland-based Iceye, whose small satellites help countries with real-time location monitoring, raised a €1B Series F led by General Atlantic at a €10B valuation"
+      },
+      "summary": {
+        "zh": "Iceye的小型卫星帮助国家进行实时位置监控，此轮融资由General Atlantic领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/pro/venture-capital/startup-beacon-software-raises-225-million-to-expand-venture-roll-up-strategy-d456c1bf",
+      "title": {
+        "zh": "Beacon Software完成2.25亿美元C轮融资，总融资额达5.5亿美元",
+        "en": "Beacon Software, which acquires niche software businesses and transforms them with AI, raised a $225M Series C, bringing its total funding to $550M"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/standard-bots-raises-200-million-to-manufacture-robots-in-us",
+      "title": {
+        "zh": "Standard Bots完成2亿美元融资，估值达10亿美元",
+        "en": "New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation"
+      },
+      "summary": {
+        "zh": "总部位于纽约的Standard Bots计划在美国制造AI驱动的机械臂。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://sifted.eu/articles/alta-ares-defence-tech-50m-round/",
+      "title": {
+        "zh": "法国Alta Ares完成5000万欧元A轮融资，专注AI驱动的防空系统",
+        "en": "France-based Alta Ares, which is building AI-powered air defense systems to counter drones and missiles, raised a €50M Series A led by Air Street Capital"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-32",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+      "title": {
+        "zh": "Meta计划扩展使用平台外数据个性化内容和AI响应",
+        "en": "Meta plans to expand using off-platform data, such as online purchases, to personalize content feeds and AI responses; it was previously used just to serve ads"
+      },
+      "summary": {
+        "zh": "此前，这些数据仅用于广告投放。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-39",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/transactional/super-micro-computer-plans-raise-7-billion-equity-offerings-2026-06-09/",
+      "title": {
+        "zh": "Super Micro计划通过股权融资筹集70亿美元以支持AI订单",
+        "en": "Super Micro aims to raise $7B through equity and equity-linked financing transactions to fund component purchases tied to AI orders; SMCI drops 6%+ after hours"
+      },
+      "summary": {
+        "zh": "受此消息影响，SMCI盘后股价下跌超过6%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI提交保密S-1文件，考虑未来上市可能",
+        "en": "OpenAI Filed a Confidential S-1 (1 minute read)"
+      },
+      "summary": {
+        "zh": "公司表示尚未决定IPO时间，但希望保留尽早上市的选项。",
+        "en": "OpenAI announced that it confidentially submitted a draft S-1 to the SEC while noting that no IPO timing had been decided. The statement said the filing preserved the option to go public sooner while the company continued weighing tradeoffs around remaining private."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/?utm_source=tldrai",
+      "title": {
+        "zh": "苹果推出全新Siri AI，计划秋季发布更具对话性的助手",
+        "en": "Apple Introduced Siri AI (4 minute read)"
+      },
+      "summary": {
+        "zh": "更新包括Google支持的基础模型改进和更深度的AI集成。",
+        "en": "Apple announced a long-delayed Apple Intelligence update for Siri, now branded “Siri AI,” with a more conversational assistant planned for OS releases this fall. The update was said to include Google-powered changes to Apple's on-device Foundation Models and deeper AI integration across Apple platforms."
+      },
+      "tags": [
+        "cat:app",
+        "apple",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude?utm_source=tldrai",
+      "title": {
+        "zh": "小米MiMo模型速度超越ChatGPT和Claude 15倍",
+        "en": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude (4 minute read)"
+      },
+      "summary": {
+        "zh": "MiMo-V2.5-Pro-UltraSpeed模型通过FP4量化和DFlash推测解码实现每秒1000个token的推理速度。",
+        "en": "Xiaomi and inference partner TileRT have created a 1-trillion-parameter model, MiMo-V2.5-Pro-UltraSpeed, with an inference speed of 1,000 tokens per second on a standard 8-GPU commodity node. The speed was achieved through FP4 quantization on the model's expert layers and DFlash speculative decoding, which proposes a full block of tokens in one pass instead of one at a time. The model is available through a limited API trial from June 9 to June 23. It costs three times the standard MiMo-V2.5-Pro rate for roughly 10 times the output."
+      },
+      "tags": [
+        "cat:model",
+        "open-weights",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI展示数据库变更分析的AI辅助工作流",
+        "en": "OpenAI's Database Change Analysis (28 minute read)"
+      },
+      "summary": {
+        "zh": "SchemaFlow涵盖从请求解析到SQL生成的全流程，适用于企业结构化数据工作流。",
+        "en": "SchemaFlow demonstrates an AI-assisted workflow for database change requests, covering structured request parsing, impact analysis, SQL generation, guardrails, artifact creation, and evals. The cookbook used a retail loyalty-tier example, but the architecture applies broadly to structured data workflows across enterprise domains."
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "enterprise",
+        "api"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work?utm_source=tldrai",
+      "title": {
+        "zh": "AI代理如何重塑知识工作",
+        "en": "How AI Agents Reshape Knowledge Work (18 minute read)"
+      },
+      "summary": {
+        "zh": "如Perplexity的“Computer”代理通过自动执行任务显著降低时间和成本，提升跨学科任务的效率。",
+        "en": "AI agents like Perplexity's \"Computer\" enhance knowledge work by executing tasks autonomously, reducing time by 87% and costs by 94% compared to traditional search and human execution. Autonomous execution allows users to focus on goal-setting and oversight, enabling complex and cross-disciplinary tasks that span specific expertise areas."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "perplexity",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-07",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://cognition.ai/blog/frontier-code?utm_source=tldrai",
+      "title": {
+        "zh": "推出FrontierCode基准测试：评估代码可合并性",
+        "en": "Introducing FrontierCode (18 minute read)"
+      },
+      "summary": {
+        "zh": "FrontierCode是首个评估代码可合并性的基准测试，由开源维护者开发，包含对抗性测试、校准和多阶段审查，旨在衡量模型编写高质量、可维护代码的能力。",
+        "en": "FrontierCode is a benchmark that measures how well models can truly meet the standards of high-quality production databases. It is the first benchmark to measure code mergeability. The benchmark was crafted by open-source maintainers and features an extensive QC pipeline with adversarial testing, calibration, and multi-stage review. It provides the strongest signal of a model's ability to write high-quality, maintainable code."
+      },
+      "tags": [
+        "cat:other",
+        "benchmark",
+        "open-source",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI的未来计划：让先进AI普及化",
+        "en": "Built to benefit everyone: our plan (5 minute read)"
+      },
+      "summary": {
+        "zh": "Sam Altman和Jakub Pachocki阐述了OpenAI的三大目标，包括构建自动化AI研究员、加速经济发展并确保收益广泛共享，以及为每个人提供个人AGI。",
+        "en": "Sam Altman and Jakub Pachocki frame OpenAI's three current goals as building an automated AI researcher, accelerating the economy while ensuring gains are widely shared, and giving everyone on Earth a personal AGI. They argue OpenAI has entered its third phase, where the central question is making advanced AI abundant, affordable, safe, and easy enough for every person and organization to use, with broad power distribution as the safer path."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "sam-altman",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-09",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/?utm_source=tldrai",
+      "title": {
+        "zh": "xAI更像数据中心REIT而非前沿实验室",
+        "en": "xAI is looking more like a datacentre REIT than a frontier lab (5 minute read)"
+      },
+      "summary": {
+        "zh": "xAI与Anthropic和Google的新合作为这些竞争对手提供了大量容量，收入流向即将上市的SpaceX。若合作持续18个月，xAI将收回所有资本支出。",
+        "en": "xAI's new partnerships with Anthropic and Google provide these rivals with a huge amount of capacity, with the revenue flowing back to SpaceX, which is about to go public. Both agreements have cancellation clauses that allow either party to cancel with 90 days' notice after an initial lock-in period, but this is still a ludicrously profitable deal for xAI on face value. If the deals continue for 18 months, xAI would recoup all of the capex it spent, and it still has many hundreds of MW of GPUs available."
+      },
+      "tags": [
+        "cat:business",
+        "xai",
+        "google",
+        "anthropic",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-11",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://openai.com/index/economic-research-exchange/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI推出经济研究交流计划",
+        "en": "OpenAI Launched an Economic Research Exchange (3 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI推出了一项计划，支持外部研究人员研究AI对工人、企业、机构及更广泛经济的影响。",
+        "en": "OpenAI introduced a program for external researchers studying AI's economic effects on workers, firms, institutions, and the broader economy."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-14",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.k-dense.ai/blog/the-model-is-no-longer-the-bottleneck?utm_source=tldrai",
+      "title": {
+        "zh": "模型不再是瓶颈",
+        "en": "The Model Is No Longer the Bottleneck (6 minute read)"
+      },
+      "summary": {
+        "zh": "瓶颈已从模型本身转移到围绕模型的工作流程。",
+        "en": "The bottleneck has moved from the model to the workflow around it."
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

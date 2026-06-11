@@ -1,0 +1,251 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Anthropic debuts Claude Fable 5, a “safe” Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted organizations
+Tweets:
+  - Author: @karpathy
+    Text: This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards.  The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward...peaking especially for long problem-solving sessions on very difficult problems...The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.
+    Link ID: TM-01-TW-01
+  - Author: @bcherny
+    Text: Fable 5 is the biggest step up I've felt in our models since Opus 4.5 back in November.  After 4.5 came out I uninstalled my IDE when I realized that I'd been doing 100% of my coding in a terminal for a few weeks.  With Fable, it's felt like Claude has stepped up from being a coding agent to a thought and design partner in building the product.  Fable has judgement, taste, and dimensionality in a way that previous models didn't, leading me to trust it more with the most complex work
+    Link ID: TM-01-TW-02
+  - Author: @yuchenj_uw
+    Text: Claude Fable 5 / Mythos 5 wins everywhere.  I thought Fable 5 was just a nerfed Mythos Preview, but it's literally better.  SWE-Bench Pro: Fable 5: 80.3%, GPT-5.5: 58.6%.  And the price is only 2x Opus 4.8: $10/input MTok, $50/output MTok.  I don't think GPT 5.6 can beat this
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Anthropic says Claude Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in <5% of sessions, in areas like cybersecurity
+    Link ID: TM-01-SUB-01
+  - Title: Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for building frontier LLMs
+    Link ID: TM-01-SUB-02
+  - Title: Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input tokens and $50 per 1M output tokens, less than half the price of Claude Mythos Preview
+    Link ID: TM-01-SUB-03
+  - Title: Anthropic says Fable 5 is available on Pro, Max, Team, and seat-based Enterprise plans through June 22, after which using Fable 5 will require usage credits
+    Link ID: TM-01-SUB-04
+  - Title: Claude Fable 5 hands-on: impressive results working on complex projects, like building an interactive isochrone map or a data analysis tool in just 9.5 hours
+    Link ID: TM-01-SUB-05
+  - Title: Anthropic says red team tests of Fable 5 found no universal jailbreaks, and it will keep first- and third-party user traffic on Mythos-class models for 30 days
+    Link ID: TM-01-SUB-06
+---
+ID: TM-02
+Title: The EU says Apple decided not to roll out Siri AI in the EU after it had unsuccessfully requested to be exempted from interoperability obligations for the tool
+Tweets:
+  - Author: @jewiss
+    Text: Apple and the EU are telling very different stories on Siri AI, and right now, it's a standoff.  Apple's press release and comments to @LelloucheNico say the DMA would force it to give rival assistants deep access to messages, files, photos, app actions, and personal context, creating privacy/security risks.  I reached out to the EU Commission for comment...They said nothing in the DMA blocks Siri AI.  Apple can launch it if it complies, but it must give rivals “equivalent access” and can't use iOS to favour its own AI.
+    Link ID: TM-02-TW-01
+  - Author: @electric_maik
+    Text: Apple is currently holding back Siri AI within the EU because the company is a designated gatekeeper under the Digital Markets Act.  For roughly 18 months, Apple has been trying to find a way to bring the new Siri AI to Europe while complying with DMA rules.  Apple proposed a solution called the „Trusted System Agent"...However, the European Commission rejected all of Apple's proposals.
+    Link ID: TM-02-TW-02
+  - Author: @timsweeneyepic
+    Text: @Electric_Maik They dissuaded 60% of Epic Games customers from installing our store after they started the process. The EU found that unlawful and forced Apple to change, and they did. Trust the rule of law here to bring competition to Siri, currently the industry's worst AI assistant.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs
+Tweets:
+  - Author: @awnihannun
+    Text: It's very cool that Apple shipped a 20B parameter on-device.  You can't put 20B parameters in RAM at any reasonable precision.  To make it work they are using pretty exotic architecture by today's standards.  A small model predicts from the query (or prompt) which experts to load from Nand into RAM.  The key distinction from a typical MoE is that you do this once per query and then generate all the tokens with the same experts (instead of switching the experts for every token).
+    Link ID: TM-03-TW-01
+  - Author: @mweinbach
+    Text: Apple just clarified AFM Cloud is Apple's own model, trained with Gemini outputs AFM local models are entirely Apple models AFM Cloud Pro seems to be based on Gemini foundation and data, but Apple did their own pre-training, post-training, RL, etc
+    Link ID: TM-03-TW-02
+  - Author: @benbajarin
+    Text: Apple execs confirming using broader GCP and NVIDIA GPUs for Apple Private cloud compute: “This is our most capable model, with quality similar to Gemini Frontier models, and to bring this model to production, we work with both Google and Nvidia to extend our private cloud compute infrastructure to Nvidia GPUs in Google's cloud, while maintaining Apple's unmatched privacy guarantees.”
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Apple unveils new Apple Foundation Models: two on-device models, including a 20B-parameter multimodal model called AFM 3 Core Advanced, and three cloud models
+    Link ID: TM-03-SUB-01
+  - Title: If Apple's Siri AI works as well as it did in its WWDC demos, Apple is set to take the lead in consumer AI, with the iPhone becoming the first true AI device
+    Link ID: TM-03-SUB-02
+---
+ID: TM-04
+Title: Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them
+---
+ID: TM-05
+Title: Google releases Gemini 3.5 Live Translate, its latest audio model that it says can deliver “near real-time speech-to-speech translation in over 70 languages”
+---
+ID: TM-06
+Title: EU regulators order Meta to give rival AI chatbots free access to WhatsApp while they continue to probe if Meta abused its market power by blocking competitors
+---
+ID: TM-07
+Title: In an interview, Perplexity CEO Aravind Srinivas says that the startup is planning to go public in 2028, regardless of how well Anthropic's and OpenAI's IPOs go
+---
+ID: TM-08
+Title: Analysis: Trump and his sons profited $2.3B+ from four crypto ventures including $TRUMP since January 2025, while other investors in those projects lost ~$2.3B
+---
+
+[CATEGORY: APPLE WWDC]
+ID: TM-09
+Title: Apple overhauls the App Store with subscription options for groups, businesses, and schools, Retention Messaging to reduce churn, bundled IAP reviews, and more
+Sub Items:
+  - Title: Apple updates its App Store review guidelines to say it may remove apps in saturated categories “if they are not updated, improved, or do not attract customers”
+    Link ID: TM-09-SUB-01
+---
+ID: TM-10
+Title: The first developer beta of iOS 27 offers the clearest signs yet of Apple's upcoming foldable iPhone, with references to folding hardware and flexible displays
+---
+ID: TM-11
+Title: Apple says 79% of all iPhones and 86% of iPhones released in the past four years were running iOS 26 as of June 7, vs. 82% and 88% for iOS 18 before WWDC 2025
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-12
+Title: A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations
+---
+ID: TM-13
+Title: Sam Altman and Jakub Pachocki claim OpenAI is entering its “third phase”, aiming to automate AI research, boost the economy, and give everyone a personal AGI
+---
+ID: TM-14
+Title: Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1,000 tokens/second, a first for a 1T-parameter model, using an 8-GPU commodity node; an API trial runs June 9 to 23
+---
+ID: TM-15
+Title: Report: US colleges now offer 74+ AI majors and 89+ minors, and at least a dozen schools are set to add AI majors in 2026; only five offered AI majors in 2021
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-16
+Title: Sources: China is drafting plans to spend ~$295B over the next five years on building AI data centers, sourcing 80%+ of tech from local suppliers like Huawei
+---
+ID: TM-17
+Title: China starts operating the world's first wind-powered underwater data center, off Shanghai's coast, and says it uses 22.8% less power than land-based facilities
+---
+ID: TM-18
+Title: Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-19
+Title: ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details
+---
+ID: TM-20
+Title: Docs: ~34K Instagram accounts, including Obama's White House account, were affected in the breach tied to Meta's AI chatbot; attackers changed 3,500+ usernames
+---
+ID: TM-21
+Title: The French government warns that hackers used a hijacked user account to breach Tchap, its encrypted messaging app for civil servants with 300K+ monthly users
+---
+
+[CATEGORY: REGULATION]
+ID: TM-22
+Title: Sources: Taiwan is considering restricting AI chip sales to all customers in China, not just companies on an export blacklist like Huawei, to align with the US
+---
+ID: TM-23
+Title: In a UK online safety consultation, the US urges the UK against an under-16 social media ban, saying it would place a “disproportionate” burden on US companies
+---
+ID: TM-24
+Title: The US FCC waives its July 30 deadline for Amazon to deploy half of its Leo satellites; Amazon is still required to launch all 3,232 satellites by July 30, 2029
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-25
+Title: Finland-based Iceye, whose small satellites help countries with real-time location monitoring, raised a €1B Series F led by General Atlantic at a €10B valuation
+---
+ID: TM-26
+Title: IT management platform NinjaOne raised $400M in a secondary share sale at a $12.3B valuation, up from $5B in February 2025, and says its ARR has hit $600M
+---
+ID: TM-27
+Title: Beacon Software, which acquires niche software businesses and transforms them with AI, raised a $225M Series C, bringing its total funding to $550M
+---
+ID: TM-28
+Title: New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation
+---
+ID: TM-29
+Title: Decentralized lending protocol Morpho raised $175M led by Paradigm, Ribbit Capital, and a16z Crypto in a token sale that valued Morpho at up to $2B
+---
+ID: TM-30
+Title: France-based Alta Ares, which is building AI-powered air defense systems to counter drones and missiles, raised a €50M Series A led by Air Street Capital
+---
+ID: TM-31
+Title: Vinyl Equity, an SEC-registered transfer agent that has launched a payments platform earlier this year, raised a $20M Series A led by Jump Capital
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-32
+Title: Meta plans to expand using off-platform data, such as online purchases, to personalize content feeds and AI responses; it was previously used just to serve ads
+---
+ID: TM-33
+Title: Sources: Canadian payments company Nuvei is in advanced talks to acquire NYC-based cross-border payments company Payoneer for ~$2.7B and could sign within days
+---
+ID: TM-34
+Title: San Francisco voters reject the Overpaid CEO Act, a union-backed ballot measure to raise taxes on large businesses where the CEO earns 100x+ the median employee
+---
+ID: TM-35
+Title: Kalshi plans to require users seeking to make bets in some markets linked to material nonpublic information to submit an online form disclosing where they work
+---
+ID: TM-36
+Title: The UK is conducting a full review of its NHS contract with Palantir, amid growing pressure to end the deal in early 2027 over its reliance on a US tech company
+---
+ID: TM-37
+Title: Sources: India froze approvals for Starlink to begin commercial operations due to concerns that its terminals were used in Iran despite not being licensed there
+---
+ID: TM-38
+Title: CoreWeave founders have sold $2.3B in stock since the company's lockup period expired in August after a March 2025 IPO, reducing their combined holdings by ~25%
+---
+ID: TM-39
+Title: Super Micro aims to raise $7B through equity and equity-linked financing transactions to fund component purchases tied to AI orders; SMCI drops 6%+ after hours
+---
+ID: TM-40
+Title: Sources: Microsoft laid off 200 to 400 Azure unit employees in Beijing and Shanghai last week, marking at least its third downsizing round in China in two years
+---
+ID: TM-41
+Title: A group of Chinese tech companies, including Alibaba and CXMT, launches a ~$577M PE fund to boost China's “hard tech” sectors amid tightening US export curbs
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: OpenAI Filed a Confidential S-1 (1 minute read)
+Excerpt: OpenAI announced that it confidentially submitted a draft S-1 to the SEC while noting that no IPO timing had been decided. The statement said the filing preserved the option to go public sooner while the company continued weighing tradeoffs around remaining private.
+---
+ID: TL-02
+Title: Apple Introduced Siri AI (4 minute read)
+Excerpt: Apple announced a long-delayed Apple Intelligence update for Siri, now branded “Siri AI,” with a more conversational assistant planned for OS releases this fall. The update was said to include Google-powered changes to Apple's on-device Foundation Models and deeper AI integration across Apple platforms.
+---
+ID: TL-03
+Title: China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude (4 minute read)
+Excerpt: Xiaomi and inference partner TileRT have created a 1-trillion-parameter model, MiMo-V2.5-Pro-UltraSpeed, with an inference speed of 1,000 tokens per second on a standard 8-GPU commodity node. The speed was achieved through FP4 quantization on the model's expert layers and DFlash speculative decoding, which proposes a full block of tokens in one pass instead of one at a time. The model is available through a limited API trial from June 9 to June 23. It costs three times the standard MiMo-V2.5-Pro rate for roughly 10 times the output.
+---
+ID: TL-04
+Title: OpenAI's Database Change Analysis (28 minute read)
+Excerpt: SchemaFlow demonstrates an AI-assisted workflow for database change requests, covering structured request parsing, impact analysis, SQL generation, guardrails, artifact creation, and evals. The cookbook used a retail loyalty-tier example, but the architecture applies broadly to structured data workflows across enterprise domains.
+---
+ID: TL-05
+Title: AI's Measured Impact on Engineering Velocity (4 minute read)
+Excerpt: Early research suggests that AI adoption has increased pull request throughput by roughly 10 to 15 percent for many organizations, with a median gain closer to 8 percent. Coding is only a small part of developer work, so bottlenecks in reviews, planning, testing, and coordination continue to limit overall velocity.
+---
+ID: TL-06
+Title: How AI Agents Reshape Knowledge Work (18 minute read)
+Excerpt: AI agents like Perplexity's "Computer" enhance knowledge work by executing tasks autonomously, reducing time by 87% and costs by 94% compared to traditional search and human execution. Autonomous execution allows users to focus on goal-setting and oversight, enabling complex and cross-disciplinary tasks that span specific expertise areas.
+---
+ID: TL-07
+Title: Introducing FrontierCode (18 minute read)
+Excerpt: FrontierCode is a benchmark that measures how well models can truly meet the standards of high-quality production databases. It is the first benchmark to measure code mergeability. The benchmark was crafted by open-source maintainers and features an extensive QC pipeline with adversarial testing, calibration, and multi-stage review. It provides the strongest signal of a model's ability to write high-quality, maintainable code.
+---
+ID: TL-08
+Title: Built to benefit everyone: our plan (5 minute read)
+Excerpt: Sam Altman and Jakub Pachocki frame OpenAI's three current goals as building an automated AI researcher, accelerating the economy while ensuring gains are widely shared, and giving everyone on Earth a personal AGI. They argue OpenAI has entered its third phase, where the central question is making advanced AI abundant, affordable, safe, and easy enough for every person and organization to use, with broad power distribution as the safer path.
+---
+ID: TL-09
+Title: xAI is looking more like a datacentre REIT than a frontier lab (5 minute read)
+Excerpt: xAI's new partnerships with Anthropic and Google provide these rivals with a huge amount of capacity, with the revenue flowing back to SpaceX, which is about to go public. Both agreements have cancellation clauses that allow either party to cancel with 90 days' notice after an initial lock-in period, but this is still a ludicrously profitable deal for xAI on face value. If the deals continue for 18 months, xAI would recoup all of the capex it spent, and it still has many hundreds of MW of GPUs available.
+---
+ID: TL-10
+Title: Musk's xAI Taps Starlink Staffer to Run Grok Training Team (2 minute read)
+Excerpt: Jack Garabedian, a Starlink engineer who's been with SpaceX since 2021, is taking over the team that trains xAI's Grok chatbot, displacing college-aged engineer Diego Pasini, who has been with the company for a year and a half. Garabedian helped with the deployment of Starlink during the war between Russia and Ukraine, and he also helped work with the Starlink customer team and integrated Grok into customer support. A group of Starlink executives has taken over xAI in policy, operations, and leading the engineers ahead of SpaceX's upcoming initial public offering.
+---
+ID: TL-11
+Title: OpenAI Launched an Economic Research Exchange (3 minute read)
+Excerpt: OpenAI introduced a program for external researchers studying AI's economic effects on workers, firms, institutions, and the broader economy.
+---
+ID: TL-12
+Title: Your Agent Harness Should Repair Itself (8 minute read)
+Excerpt: Most agent observability ends at the trace and leaves the actual debugging loop entirely to humans, so every model upgrade forces engineers to manually walk traces, form theories, write patches, and hope nothing else breaks.
+---
+ID: TL-13
+Title: Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI (4 minute read)
+Excerpt: OpenAI, Anthropic, and SpaceX's IPOs are expected to be among the biggest in history.
+---
+ID: TL-14
+Title: The Model Is No Longer the Bottleneck (6 minute read)
+Excerpt: The bottleneck has moved from the model to the workflow around it.
+---

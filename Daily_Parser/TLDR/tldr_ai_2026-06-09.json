@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-09",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "OpenAI Filed a Confidential S-1 (1 minute read)",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1/?utm_source=tldrai",
+        "excerpt": "OpenAI announced that it confidentially submitted a draft S-1 to the SEC while noting that no IPO timing had been decided. The statement said the filing preserved the option to go public sooner while the company continued weighing tradeoffs around remaining private."
+      },
+      {
+        "title": "Apple Introduced Siri AI (4 minute read)",
+        "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/?utm_source=tldrai",
+        "excerpt": "Apple announced a long-delayed Apple Intelligence update for Siri, now branded “Siri AI,” with a more conversational assistant planned for OS releases this fall. The update was said to include Google-powered changes to Apple's on-device Foundation Models and deeper AI integration across Apple platforms."
+      },
+      {
+        "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude (4 minute read)",
+        "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude?utm_source=tldrai",
+        "excerpt": "Xiaomi and inference partner TileRT have created a 1-trillion-parameter model, MiMo-V2.5-Pro-UltraSpeed, with an inference speed of 1,000 tokens per second on a standard 8-GPU commodity node. The speed was achieved through FP4 quantization on the model's expert layers and DFlash speculative decoding, which proposes a full block of tokens in one pass instead of one at a time. The model is available through a limited API trial from June 9 to June 23. It costs three times the standard MiMo-V2.5-Pro rate for roughly 10 times the output."
+      },
+      {
+        "title": "OpenAI's Database Change Analysis (28 minute read)",
+        "url": "https://developers.openai.com/cookbook/examples/partners/schemaflow_design_guide/schemaflow_cookbook?utm_source=tldrai",
+        "excerpt": "SchemaFlow demonstrates an AI-assisted workflow for database change requests, covering structured request parsing, impact analysis, SQL generation, guardrails, artifact creation, and evals. The cookbook used a retail loyalty-tier example, but the architecture applies broadly to structured data workflows across enterprise domains."
+      },
+      {
+        "title": "AI's Measured Impact on Engineering Velocity (4 minute read)",
+        "url": "https://newsletter.getdx.com/p/the-current-impact-of-ai-on-engineering?utm_source=tldrai",
+        "excerpt": "Early research suggests that AI adoption has increased pull request throughput by roughly 10 to 15 percent for many organizations, with a median gain closer to 8 percent. Coding is only a small part of developer work, so bottlenecks in reviews, planning, testing, and coordination continue to limit overall velocity."
+      },
+      {
+        "title": "How AI Agents Reshape Knowledge Work (18 minute read)",
+        "url": "https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work?utm_source=tldrai",
+        "excerpt": "AI agents like Perplexity's \"Computer\" enhance knowledge work by executing tasks autonomously, reducing time by 87% and costs by 94% compared to traditional search and human execution. Autonomous execution allows users to focus on goal-setting and oversight, enabling complex and cross-disciplinary tasks that span specific expertise areas."
+      },
+      {
+        "title": "Introducing FrontierCode (18 minute read)",
+        "url": "https://cognition.ai/blog/frontier-code?utm_source=tldrai",
+        "excerpt": "FrontierCode is a benchmark that measures how well models can truly meet the standards of high-quality production databases. It is the first benchmark to measure code mergeability. The benchmark was crafted by open-source maintainers and features an extensive QC pipeline with adversarial testing, calibration, and multi-stage review. It provides the strongest signal of a model's ability to write high-quality, maintainable code."
+      },
+      {
+        "title": "Built to benefit everyone: our plan (5 minute read)",
+        "url": "https://openai.com/index/built-to-benefit-everyone-our-plan/?utm_source=tldrai",
+        "excerpt": "Sam Altman and Jakub Pachocki frame OpenAI's three current goals as building an automated AI researcher, accelerating the economy while ensuring gains are widely shared, and giving everyone on Earth a personal AGI. They argue OpenAI has entered its third phase, where the central question is making advanced AI abundant, affordable, safe, and easy enough for every person and organization to use, with broad power distribution as the safer path."
+      },
+      {
+        "title": "xAI is looking more like a datacentre REIT than a frontier lab (5 minute read)",
+        "url": "https://martinalderson.com/posts/xais-new-rental-business/?utm_source=tldrai",
+        "excerpt": "xAI's new partnerships with Anthropic and Google provide these rivals with a huge amount of capacity, with the revenue flowing back to SpaceX, which is about to go public. Both agreements have cancellation clauses that allow either party to cancel with 90 days' notice after an initial lock-in period, but this is still a ludicrously profitable deal for xAI on face value. If the deals continue for 18 months, xAI would recoup all of the capex it spent, and it still has many hundreds of MW of GPUs available."
+      },
+      {
+        "title": "Musk's xAI Taps Starlink Staffer to Run Grok Training Team (2 minute read)",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/musk-s-xai-taps-starlink-staffer-to-run-grok-training-team?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MDk3OTk1MywiZXhwIjoxNzgxNTg0NzUzLCJhcnRpY2xlSWQiOiJUR0M2V05LSzNOWjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.ysxC7gnHB7ETI79WzQ61RRwK1coWmWn3bGm9V0TKyrE&utm_source=tldrai",
+        "excerpt": "Jack Garabedian, a Starlink engineer who's been with SpaceX since 2021, is taking over the team that trains xAI's Grok chatbot, displacing college-aged engineer Diego Pasini, who has been with the company for a year and a half. Garabedian helped with the deployment of Starlink during the war between Russia and Ukraine, and he also helped work with the Starlink customer team and integrated Grok into customer support. A group of Starlink executives has taken over xAI in policy, operations, and leading the engineers ahead of SpaceX's upcoming initial public offering."
+      },
+      {
+        "title": "OpenAI Launched an Economic Research Exchange (3 minute read)",
+        "url": "https://openai.com/index/economic-research-exchange/?utm_source=tldrai",
+        "excerpt": "OpenAI introduced a program for external researchers studying AI's economic effects on workers, firms, institutions, and the broader economy."
+      },
+      {
+        "title": "Your Agent Harness Should Repair Itself (8 minute read)",
+        "url": "https://x.com/akshay_pachaar/status/2064051835636498924?utm_source=tldrai",
+        "excerpt": "Most agent observability ends at the trace and leaves the actual debugging loop entirely to humans, so every model upgrade forces engineers to manually walk traces, form theories, write patches, and hope nothing else breaks."
+      },
+      {
+        "title": "Perplexity plans IPO in 2028 regardless of what happens to Anthropic or OpenAI (4 minute read)",
+        "url": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html?utm_source=tldrai",
+        "excerpt": "OpenAI, Anthropic, and SpaceX's IPOs are expected to be among the biggest in history."
+      },
+      {
+        "title": "The Model Is No Longer the Bottleneck (6 minute read)",
+        "url": "https://www.k-dense.ai/blog/the-model-is-no-longer-the-bottleneck?utm_source=tldrai",
+        "excerpt": "The bottleneck has moved from the model to the workflow around it."
+      }
+    ]
+  }
+}
