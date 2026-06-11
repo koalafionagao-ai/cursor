@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-10",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate (4 minute read)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=tldrai",
+        "excerpt": "Gemini 3.5 Live Translate is an audio model for real-time speech-to-speech translation across 70+ languages that eliminates awkward pauses and maintains natural intonation. It is rolling out via Google products, including Meet for private preview and Google Translate on Android and iOS, enhancing multilingual communication."
+      },
+      {
+        "title": "Claude Fable 5 Launch (6 minute read)",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=tldrai",
+        "excerpt": "Anthropic announced Claude Fable 5 for general use and Claude Mythos 5 for selected cyberdefenders and infrastructure providers. The models were described as highly capable across software engineering, research, vision, and cybersecurity, with conservative safeguards applied to Fable 5."
+      },
+      {
+        "title": "Google's Backstops Underpin $35 Billion Chip Deal for Anthropic (1 minute read)",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-09/google-s-backstops-underpin-35-billion-chip-deal-for-anthropic?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTA2Mjg4OCwiZXhwIjoxNzgxNjY3Njg4LCJhcnRpY2xlSWQiOiJURllTWVBUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.JHS0n53nNPsg8oSO2MQ2Auxj1dujOWmJGcZxMyLl6yI&utm_source=tldrai",
+        "excerpt": "Google is supporting Anthropic's $35 billion chip lease by backstopping payments at five data centers. This financial backing highlights intricate business alliances between major tech companies in the AI sector. Anthropic's role in this significant financing was previously undisclosed."
+      },
+      {
+        "title": "Text as a Serious Optimization Layer (8 minute read)",
+        "url": "https://yoonholee.com/blog/2026/we-should-take-text-optimization-more-seriously/?utm_source=tldrai",
+        "excerpt": "Prompts, context, memory, retrieval stores, and harnesses function as real update mechanisms. The piece frames text optimization as sample-efficient learning and a new axis for update-time compute."
+      },
+      {
+        "title": "Implications of Large-Scale Test-Time Compute (5 minute read)",
+        "url": "https://x.com/polynoamial/status/2064210146558136827?utm_source=tldrai",
+        "excerpt": "Benchmark grids hide the real story because LLM capability is now a function of test-time compute, illustrated by GPT-5.5 looking only marginally better than GPT-5.4 on max-compute cyber evals but substantially stronger once tokens, cost, or latency are controlled on the x-axis. The performance plateau is now empirically very far out and stronger models push the plateau further, so single-scalar benchmark scores will only get less informative each release."
+      },
+      {
+        "title": "AI is eating the AI Engineering Loop (5 minute read)",
+        "url": "https://x.com/lotte_verheyden/status/2064415370761646410?utm_source=tldrai",
+        "excerpt": "The AI engineering loop can technically be fully automated now, with every analytics and evals startup undergoing a one-time upgrade into a continual-learning platform, but handing over the whole loop produces agent slop because agents optimize against imperfect evals that miss the nuance only the developer holds."
+      },
+      {
+        "title": "Cohere Launched an Agentic Coding Model (4 minute read)",
+        "url": "https://cohere.com/blog/north-mini-code?utm_source=tldrai",
+        "excerpt": "North Mini Code is a 30B-parameter MoE coding model with 3B active parameters. The Apache 2.0 release targets efficient agentic software development in sovereign AI environments."
+      },
+      {
+        "title": "Self-Evolving Autoresearch Workflow Loops (5 minute read)",
+        "url": "https://x.com/alokbishoyi97/status/2064281952631525741?utm_source=tldrai",
+        "excerpt": "Evo ported its autoresearch orchestrator onto Anthropic's June 2 dynamic workflows in Claude Code, moving the six-step round off the model's in-context memory and into deterministic JavaScript that subagents execute with fresh scoped context. The shift solves long-horizon instruction adherence by making the method the code: phases, fan-out width, stopping rules, gates, and CLI calls are scripted. The model does judgment, and the code does coordination."
+      },
+      {
+        "title": "FlashMemory DeepSeek-V4 Retriever (GitHub Repo)",
+        "url": "https://github.com/libertywing/FlashMemory-Deepseek-V4?utm_source=tldrai",
+        "excerpt": "FlashMemory predicts which DeepSeek-V4 CSA KV-cache chunks future tokens will attend to, keeping only the most relevant chunks on GPU. The retriever reportedly preserves or improves downstream performance while retaining about 10–15% of the KV cache on-device."
+      },
+      {
+        "title": "Claude Fable 5 and new AI safety fables (14 minute read)",
+        "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety?utm_source=tldrai",
+        "excerpt": "Anthropic's release of Claude Fable 5 came with the rollout of a series of safety measures, some of which modify the model without telling the user to protect the lab's current lead. Unevenly applied safety policies like this rarely work out. While Anthropic is well within its rights to implement these safeguards, its actions cultivate an 'us against them' dynamic within the AI ecosystem. These actions highlight the need for intelligence that users can trust, modify, and control."
+      },
+      {
+        "title": "If Claude Fable stops helping you, you'll never know (3 minute read)",
+        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html?utm_source=tldrai",
+        "excerpt": "Anthropic has limited new interventions that limit Claude's effectiveness in certain situations, including when competing labs use Claude to develop models. Unlike other interventions, these safeguards will not be visible to users and Fable 5 will not fall back to a different model. Instead, they will limit effectiveness through prompt modification, steering factors, and parameter-efficient fine-tuning. While Anthropic claims that these safeguards will only affect 0.03% of developers, it could create a real supply chain risk for businesses as they have no idea if they are running into them, making the company's tools less trustworthy."
+      },
+      {
+        "title": "DeepSeek enters the fight for token volume, Anthropic continues to dominate spend (12 minute read)",
+        "url": "https://x.com/vercel/status/2064188171294761076?utm_source=tldrai",
+        "excerpt": "DeepSeek's share of tokens on AI Gateway jumped from under 1% to 17% in a single month while its share of spend stayed near 1%."
+      },
+      {
+        "title": "Can tech companies learn to love cheaper AI models? (4 minute read)",
+        "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/?utm_source=tldrai",
+        "excerpt": "Cheaper models can often replace frontier models for many tasks without any sacrifice in quality if the systems are arranged correctly."
+      },
+      {
+        "title": "Three Labs With a Plan and A Memorandum (22 minute read)",
+        "url": "https://thezvi.substack.com/p/three-labs-with-a-plan-and-a-memorandum?utm_source=tldrai",
+        "excerpt": "This post presents a summary of several related stories around policies and plans for AI that came out of Anthropic's Fable announcement."
+      }
+    ]
+  }
+}

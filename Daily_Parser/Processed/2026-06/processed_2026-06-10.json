@@ -1,0 +1,728 @@
+{
+  "date": "2026-06-10",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 33,
+    "by_category": {
+      "cat:other": 12,
+      "cat:model": 3,
+      "cat:business": 12,
+      "cat:tech": 5,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "title": {
+        "zh": "关于应对AI指数级进步的政策反应的探讨",
+        "en": "An essay on policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "title": {
+        "zh": "Google推出DiffusionGemma：一款26B参数的实验性开放模型",
+        "en": "Google introduces DiffusionGemma, an experimental 26B-parameter open model that uses text diffusion for faster text generation compared to autoregressive models"
+      },
+      "summary": {
+        "zh": "该模型使用文本扩散技术，相较于自回归模型实现更快的文本生成。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d",
+      "title": {
+        "zh": "CFTC提议预测市场规则，寻求禁止不符合公众利益的投注",
+        "en": "The CFTC proposes prediction market rules, seeking the ability to ban bets it finds aren't in the public interest or may be highly susceptible to manipulation"
+      },
+      "summary": {
+        "zh": "CFTC希望能够禁止可能被高度操纵的投注，以保护公众利益。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "title": {
+        "zh": "德国法院裁定Google对AI Overviews的虚假信息直接负责",
+        "en": "A German court rules that Google is directly liable for what AI Overviews say after AI Overviews falsely tied two publishers to shady business practices"
+      },
+      "summary": {
+        "zh": "AI Overviews错误地将两家出版商与不正当商业行为联系起来，Google因此被判直接负责。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-visa-team-up-to-let-ai-agents-make-purchases-online",
+      "title": {
+        "zh": "OpenAI与Visa合作探索AI驱动的支付解决方案",
+        "en": "OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments"
+      },
+      "summary": {
+        "zh": "合作内容包括允许AI代理在用户授权后进行在线购买，并探索企业支付应用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "visa",
+        "agent",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.billboard.com/pro/warner-music-group-acquires-sureel-ai/",
+      "title": {
+        "zh": "WMG收购AI归因初创公司Sureel",
+        "en": "WMG acquires AI attribution startup Sureel, as it seeks to track when its songs and recordings are used in the training of AI models or in AI-generated works"
+      },
+      "summary": {
+        "zh": "此举旨在追踪其歌曲和录音在AI模型训练或AI生成作品中的使用情况。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://saranormous.substack.com/p/the-untrainable",
+      "title": {
+        "zh": "AI普及化后组织的核心竞争力在于私有数据和判断力",
+        "en": "As AI commoditizes benchmarkable work, an organization's lasting moats lie in tasks that are verifiable through its private data and judgment"
+      },
+      "summary": {
+        "zh": "随着AI使可基准化的工作商品化，组织的持久护城河在于其私有数据和判断力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/10/openai-china-ai-data-center-tariffs-chatgpt",
+      "title": {
+        "zh": "OpenAI禁止利用ChatGPT进行社交媒体影响活动的中国相关账户",
+        "en": "OpenAI says it has banned China-linked accounts that used ChatGPT to draft social media influence campaigns targeting US debates over tariffs and data centers"
+      },
+      "summary": {
+        "zh": "这些账户被指试图影响美国关于关税和数据中心的辩论。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9?st=DQTFjz&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "16位经济学家探讨AI对美国经济、劳动力和工作场所的影响",
+        "en": "Sixteen economists on what AI will mean for the US economy, workers, and workplaces: AI will boost productivity in the near term, but only two expect more jobs"
+      },
+      "summary": {
+        "zh": "AI将在短期内提升生产力，但仅有两位经济学家预计会创造更多就业机会。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/1b1333ca-55e6-4012-a92a-1797f0f6f2a1",
+      "title": {
+        "zh": "欧盟警告AI助力化学合成可能推动新型毒品前体的开发",
+        "en": "The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new “designer” drug precursors that can evade existing product blacklists"
+      },
+      "summary": {
+        "zh": "欧洲毒品团伙利用AI开发能够规避现有产品黑名单的新型“设计”毒品前体。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "safety",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/openai-talks-lease-10-gigawatt-ohio-data-center-backing-nvidia",
+      "title": {
+        "zh": "消息称 OpenAI 正在与 Nvidia 合作洽谈租赁俄亥俄州 10GW 数据中心园区",
+        "en": "Sources: OpenAI is in advanced talks to lease a proposed 10GW, $500B+ data center campus in Ohio as part of a deal that could include Nvidia's financial backing"
+      },
+      "summary": {
+        "zh": "该项目预计投资超过 5000 亿美元，可能包括 Nvidia 的资金支持。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "nvidia",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/",
+      "title": {
+        "zh": "Meta 与 Reliance 合作租赁印度首个 AI 数据中心",
+        "en": "Meta partners with Reliance to lease its first AI data center in India, with 168 MW capacity, and says it contracted nearly 1 GW of renewable energy in India"
+      },
+      "summary": {
+        "zh": "数据中心容量为 168 MW，Meta 表示已在印度签约近 1 GW 的可再生能源。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-26",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/litigation/canada-introduces-legislation-ban-social-media-children-under-16-2026-06-10/",
+      "title": {
+        "zh": "加拿大推出《安全社交媒体法案》，禁止 16 岁以下儿童使用社交媒体",
+        "en": "Canada introduces the Safe Social Media Act, a bill that would ban social media for children under 16 and establish safety standards for AI chatbots"
+      },
+      "summary": {
+        "zh": "法案还将为 AI 聊天机器人建立安全标准。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "title": {
+        "zh": "微软 2026 年 6 月补丁星期二修复近 200 个安全漏洞",
+        "en": "Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs"
+      },
+      "summary": {
+        "zh": "其中 33 个被评为严重漏洞，微软和安全研究人员越来越多地使用 AI 来发现漏洞。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "microsoft",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/litigation/us-shortens-cyber-fix-window-three-days-ai-threats-rise-2026-06-10/",
+      "title": {
+        "zh": "CISA 缩短美国机构修复关键漏洞的期限至三天",
+        "en": "CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers' use of AI"
+      },
+      "summary": {
+        "zh": "此举是由于黑客越来越多地使用 AI 技术进行攻击。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-34",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/autos/autonomous-truck-company-einride-to-begin-trading-on-nasdaq-cde6a2f0?st=pHNTUd&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "瑞典自动驾驶卡车公司 Einride 在纳斯达克上市",
+        "en": "Swedish autonomous truck company Einride debuts on the Nasdaq after merging with a SPAC at a $1.35B pre-money valuation; Einride raised $113M in 2026"
+      },
+      "summary": {
+        "zh": "通过与 SPAC 合并上市，估值为 13.5 亿美元，并在 2026 年筹集了 1.13 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-39",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+      "title": {
+        "zh": "塔塔集团主席预测 AI 代理将取代一半 TCS 工作岗位",
+        "en": "Tata's chairman predicts AI agents will replace half of Tata Consultancy Services' jobs and says TCS plans to reduce hiring in the coming years as it adopts AI"
+      },
+      "summary": {
+        "zh": "TCS 计划在未来几年减少招聘，并加速采用 AI 技术。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "enterprise",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772",
+      "title": {
+        "zh": "德国 Neura Robotics 融资 14 亿美元，估值约 70 亿美元",
+        "en": "Sources: Germany's Neura Robotics, which builds AI-powered humanoid robots, raised $1.4B from Tether, Qualcomm, Amazon, Nvidia, and others at a ~$7B valuation"
+      },
+      "summary": {
+        "zh": "该公司专注于构建 AI 驱动的人形机器人，投资方包括 Tether、Qualcomm、Amazon 和 Nvidia。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "qualcomm",
+        "amazon",
+        "nvidia",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-42",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/10/business/dealbook/cyera-ai-cybersecurity-funding.html",
+      "title": {
+        "zh": "以色列初创公司 Cyera 融资 6 亿美元，估值 120 亿美元",
+        "en": "Cyera, an Israeli startup focused on protecting companies' data from AI-based threats, raised $600M at a $12B valuation, bringing its total funding to $2.3B"
+      },
+      "summary": {
+        "zh": "Cyera 专注于保护企业数据免受 AI 威胁，总融资额达 23 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-44",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+      "title": {
+        "zh": "Pi 融资 3500 万美元，估值 1 亿美元",
+        "en": "Pi, whose “security brain” AI agent helps companies assess vulnerabilities to prioritize and patch, raised $35M at a $100M valuation; sources: xAI is a customer"
+      },
+      "summary": {
+        "zh": "其“安全大脑”AI代理帮助企业评估漏洞并优先修补，xAI 是其客户之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "xai",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-46",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-backs-ai-startup-fielding-compliance-underwriting-tasks",
+      "title": {
+        "zh": "Poetic 获得 5000 万美元融资，估值 5 亿美元，专注于 AI 自动化任务",
+        "en": "Poetic, which aims to use AI to automate tasks like financial compliance, emerges from stealth with $50M in funding from OpenAI and others at a $500M valuation"
+      },
+      "summary": {
+        "zh": "Poetic 专注于利用 AI 自动化金融合规等任务，获得包括 OpenAI 在内的投资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-51",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "title": {
+        "zh": "Jedify 完成 2400 万美元 A 轮融资，构建企业知识图谱",
+        "en": "New York-based Jedify, whose platform connects to enterprises' knowledge sources via APIs to build a “context graph” for AI agents, raised a $24M Series A"
+      },
+      "summary": {
+        "zh": "Jedify 总部位于纽约，通过 API 连接企业知识源，为 AI 代理构建“上下文图谱”。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-53",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://newsletter.semianalysis.com/p/chinas-unitree-will-dominate-global",
+      "title": {
+        "zh": "Unitree 借鉴 BYD 和大疆策略，拓展人形机器人市场",
+        "en": "A look at Unitree's growth strategy, which mimics those used by BYD and DJI, and leverages its quadruped robot dominance to create and lead the humanoid market"
+      },
+      "summary": {
+        "zh": "Unitree 利用其四足机器人优势，模仿 BYD 和大疆的增长策略，进军人形机器人市场。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "robotics",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini 3.5 实时语音翻译功能上线",
+        "en": "Fluid, natural voice translation with Gemini 3.5 Live Translate (4 minute read)"
+      },
+      "summary": {
+        "zh": "Gemini 3.5 Live Translate 支持 70 多种语言的实时语音翻译，已在 Google 产品中推出。",
+        "en": "Gemini 3.5 Live Translate is an audio model for real-time speech-to-speech translation across 70+ languages that eliminates awkward pauses and maintains natural intonation. It is rolling out via Google products, including Meet for private preview and Google Translate on Android and iOS, enhancing multilingual communication."
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini",
+        "voice",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Fable 5 和 Claude Mythos 5 正式发布",
+        "en": "Claude Fable 5 Launch (6 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 推出新模型，Fable 5 面向普通用户，Mythos 5 专为网络安全和基础设施提供商设计。",
+        "en": "Anthropic announced Claude Fable 5 for general use and Claude Mythos 5 for selected cyberdefenders and infrastructure providers. The models were described as highly capable across software engineering, research, vision, and cybersecurity, with conservative safeguards applied to Fable 5."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/google-s-backstops-underpin-35-billion-chip-deal-for-anthropic?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTA2Mjg4OCwiZXhwIjoxNzgxNjY3Njg4LCJhcnRpY2xlSWQiOiJURllTWVBUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.JHS0n53nNPsg8oSO2MQ2Auxj1dujOWmJGcZxMyLl6yI&utm_source=tldrai",
+      "title": {
+        "zh": "谷歌支持 Anthropic 350 亿美元芯片租赁交易",
+        "en": "Google's Backstops Underpin $35 Billion Chip Deal for Anthropic (1 minute read)"
+      },
+      "summary": {
+        "zh": "谷歌通过支付担保支持 Anthropic 的芯片租赁交易，显示科技巨头间复杂的商业联盟。",
+        "en": "Google is supporting Anthropic's $35 billion chip lease by backstopping payments at five data centers. This financial backing highlights intricate business alliances between major tech companies in the AI sector. Anthropic's role in this significant financing was previously undisclosed."
+      },
+      "tags": [
+        "cat:business",
+        "google",
+        "anthropic",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://yoonholee.com/blog/2026/we-should-take-text-optimization-more-seriously/?utm_source=tldrai",
+      "title": {
+        "zh": "文本作为严肃的优化层",
+        "en": "Text as a Serious Optimization Layer (8 minute read)"
+      },
+      "summary": {
+        "zh": "文章探讨了文本优化作为样本高效学习和更新计算新轴线的潜力。",
+        "en": "Prompts, context, memory, retrieval stores, and harnesses function as real update mechanisms. The piece frames text optimization as sample-efficient learning and a new axis for update-time compute."
+      },
+      "tags": [
+        "cat:tech",
+        "rag",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/polynoamial/status/2064210146558136827?utm_source=tldrai",
+      "title": {
+        "zh": "大规模测试时计算的影响",
+        "en": "Implications of Large-Scale Test-Time Compute (5 minute read)"
+      },
+      "summary": {
+        "zh": "文章分析了测试时计算对 LLM 能力的影响，强调单一标杆分数的局限性。",
+        "en": "Benchmark grids hide the real story because LLM capability is now a function of test-time compute, illustrated by GPT-5.5 looking only marginally better than GPT-5.4 on max-compute cyber evals but substantially stronger once tokens, cost, or latency are controlled on the x-axis. The performance plateau is now empirically very far out and stronger models push the plateau further, so single-scalar benchmark scores will only get less informative each release."
+      },
+      "tags": [
+        "cat:tech",
+        "benchmark",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/lotte_verheyden/status/2064415370761646410?utm_source=tldrai",
+      "title": {
+        "zh": "AI 正在吞噬 AI 工程循环",
+        "en": "AI is eating the AI Engineering Loop (5 minute read)"
+      },
+      "summary": {
+        "zh": "AI 工程循环现已可完全自动化，但完全交由代理处理可能导致优化偏差。",
+        "en": "The AI engineering loop can technically be fully automated now, with every analytics and evals startup undergoing a one-time upgrade into a continual-learning platform, but handing over the whole loop produces agent slop because agents optimize against imperfect evals that miss the nuance only the developer holds."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-07",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://cohere.com/blog/north-mini-code?utm_source=tldrai",
+      "title": {
+        "zh": "Cohere 推出 Agentic 编码模型",
+        "en": "Cohere Launched an Agentic Coding Model (4 minute read)"
+      },
+      "summary": {
+        "zh": "North Mini Code 是一个 30B 参数的 MoE 编码模型，专为主权 AI 环境中的高效开发设计。",
+        "en": "North Mini Code is a 30B-parameter MoE coding model with 3B active parameters. The Apache 2.0 release targets efficient agentic software development in sovereign AI environments."
+      },
+      "tags": [
+        "cat:model",
+        "cohere",
+        "coding",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/alokbishoyi97/status/2064281952631525741?utm_source=tldrai",
+      "title": {
+        "zh": "自进化自动研究工作流循环",
+        "en": "Self-Evolving Autoresearch Workflow Loops (5 minute read)"
+      },
+      "summary": {
+        "zh": "Evo 将其自动研究协调器移植到 Claude Code 的动态工作流中，通过 JavaScript 实现确定性执行，解决了长时间指令遵守的问题。",
+        "en": "Evo ported its autoresearch orchestrator onto Anthropic's June 2 dynamic workflows in Claude Code, moving the six-step round off the model's in-context memory and into deterministic JavaScript that subagents execute with fresh scoped context. The shift solves long-horizon instruction adherence by making the method the code: phases, fan-out width, stopping rules, gates, and CLI calls are scripted. The model does judgment, and the code does coordination."
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude-code",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-10",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Fable 5 与新的 AI 安全措施",
+        "en": "Claude Fable 5 and new AI safety fables (14 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 推出的 Claude Fable 5 包含一系列安全措施，但这些措施可能导致用户对模型的信任度下降。",
+        "en": "Anthropic's release of Claude Fable 5 came with the rollout of a series of safety measures, some of which modify the model without telling the user to protect the lab's current lead. Unevenly applied safety policies like this rarely work out. While Anthropic is well within its rights to implement these safeguards, its actions cultivate an 'us against them' dynamic within the AI ecosystem. These actions highlight the need for intelligence that users can trust, modify, and control."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-11",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html?utm_source=tldrai",
+      "title": {
+        "zh": "如果 Claude Fable 停止帮助你，你可能永远不会知道",
+        "en": "If Claude Fable stops helping you, you'll never know (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 的新干预措施可能限制 Claude 在某些情况下的有效性，这可能对企业供应链造成风险。",
+        "en": "Anthropic has limited new interventions that limit Claude's effectiveness in certain situations, including when competing labs use Claude to develop models. Unlike other interventions, these safeguards will not be visible to users and Fable 5 will not fall back to a different model. Instead, they will limit effectiveness through prompt modification, steering factors, and parameter-efficient fine-tuning. While Anthropic claims that these safeguards will only affect 0.03% of developers, it could create a real supply chain risk for businesses as they have no idea if they are running into them, making the company's tools less trustworthy."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

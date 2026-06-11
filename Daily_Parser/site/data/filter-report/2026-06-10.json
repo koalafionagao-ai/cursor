@@ -1,0 +1,452 @@
+{
+  "date": "2026-06-10",
+  "threshold": 7.0,
+  "total": 74,
+  "kept": 33,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "探讨AI政策响应，涉及多个重要领域，具有较高的行业价值"
+    },
+    {
+      "id": "TM-02",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于Claude Fable的安全措施反馈，信息量一般"
+    },
+    {
+      "id": "TM-03",
+      "score": 9.0,
+      "keep": true,
+      "reason": "谷歌发布新模型DiffusionGemma，具有重要技术创新意义"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要关注IPO动态"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "OpenAI的上市预期，信息量有限且较为常规"
+    },
+    {
+      "id": "TM-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "对Siri AI的评测，提供了一定的产品洞察"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "CFTC提出预测市场规则，可能影响行业监管"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "德国法院裁定谷歌对AI内容负责，具有法律和行业影响"
+    },
+    {
+      "id": "TM-09",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及行政命令的执行"
+    },
+    {
+      "id": "TM-10",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Claude在特定事件中的角色，信息量一般"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Palantir客户反馈，反映行业内的运营问题"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI与Visa合作，探索AI驱动支付的应用，具有市场潜力"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "WMG收购AI初创公司，关注AI在音乐行业的应用"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "摩根士丹利对AI相关债务的预测，信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨AI对组织竞争力的影响，具有一定的战略洞察"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于公众对AI影响的调查，信息量有限"
+    },
+    {
+      "id": "TM-17",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI禁止与中国相关账户，涉及AI的安全和政策问题"
+    },
+    {
+      "id": "TM-18",
+      "score": 7.0,
+      "keep": true,
+      "reason": "经济学家对AI对经济影响的看法，具有一定的行业洞察"
+    },
+    {
+      "id": "TM-19",
+      "score": 8.0,
+      "keep": true,
+      "reason": "欧盟警告AI助力毒品合成，涉及公共安全和政策问题"
+    },
+    {
+      "id": "TM-20",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI与数据中心的重大交易，可能影响行业格局"
+    },
+    {
+      "id": "TM-21",
+      "score": 6.0,
+      "keep": false,
+      "reason": "西雅图市议会对数据中心的禁令，反映地方政策动态"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta与Reliance合作，扩展AI基础设施，具有市场意义"
+    },
+    {
+      "id": "TM-23",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及法律合规问题"
+    },
+    {
+      "id": "TM-24",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要关注金融监管问题"
+    },
+    {
+      "id": "TM-25",
+      "score": 5.0,
+      "keep": false,
+      "reason": "中国公司对上市结构的重新考虑，信息量一般"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.0,
+      "keep": true,
+      "reason": "加拿大推出社交媒体法案，影响儿童使用社交媒体和AI聊天机器人的安全标准，具有政策意义。"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.0,
+      "keep": true,
+      "reason": "微软修复大量安全漏洞，显示AI在安全领域的应用潜力。"
+    },
+    {
+      "id": "TM-28",
+      "score": 8.0,
+      "keep": true,
+      "reason": "CISA缩短网络漏洞修复期限，反映出AI在网络安全中的重要性。"
+    },
+    {
+      "id": "TM-29",
+      "score": 2.0,
+      "keep": false,
+      "reason": "CrowdStrike报告显示中国实体对AI资产的攻击频繁，揭示网络安全威胁。"
+    },
+    {
+      "id": "TM-30",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于微软Xbox部门裁员的消息，信息量较少且与AI关联不大。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Xbox Game Pass用户流失情况，信息常规且重复性较高。"
+    },
+    {
+      "id": "TM-32",
+      "score": 4.0,
+      "keep": false,
+      "reason": "任天堂股价波动与新游戏发布无关，信息量不足。"
+    },
+    {
+      "id": "TM-33",
+      "score": 6.0,
+      "keep": false,
+      "reason": "SK Hynix计划在美上市，关注AI相关股票需求，具有一定市场意义。"
+    },
+    {
+      "id": "TM-34",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Einride在纳斯达克上市，涉及自动驾驶卡车的融资情况，值得关注。"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Instagram算法更新，信息量一般，未提供深刻洞察。"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "YouTube推出新消息系统，信息常规且未显著影响行业。"
+    },
+    {
+      "id": "TM-37",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Shopee裁员消息，信息量较少且与AI关联不大。"
+    },
+    {
+      "id": "TM-38",
+      "score": 6.0,
+      "keep": false,
+      "reason": "中国公司通过AI驱动裁员，反映出劳动市场的变化，值得关注。"
+    },
+    {
+      "id": "TM-39",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Tata预测AI将替代大量工作，显示行业转型趋势。"
+    },
+    {
+      "id": "TM-40",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Neura Robotics获得大额融资，表明AI机器人领域的投资热潮。"
+    },
+    {
+      "id": "TM-41",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Ant International考虑融资，可能影响未来IPO，具有一定市场意义。"
+    },
+    {
+      "id": "TM-42",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Cyera获得大额融资，专注于AI威胁数据保护，显示市场需求。"
+    },
+    {
+      "id": "TM-43",
+      "score": 6.0,
+      "keep": false,
+      "reason": "TensorWave融资情况，涉及云基础设施，具有一定行业关注度。"
+    },
+    {
+      "id": "TM-44",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Pi的AI安全代理获得融资，显示出对安全策略的重视。"
+    },
+    {
+      "id": "TM-45",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Stepful融资情况，关注AI在医疗培训中的应用，具有一定市场意义。"
+    },
+    {
+      "id": "TM-46",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Poetic利用AI自动化合规任务，获得融资，显示市场需求。"
+    },
+    {
+      "id": "TM-47",
+      "score": 5.0,
+      "keep": false,
+      "reason": "CameraMatics融资情况，信息量一般，未提供深刻洞察。"
+    },
+    {
+      "id": "TM-48",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Edge Markets融资消息，信息量较少且与AI关联不大。"
+    },
+    {
+      "id": "TM-49",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Aryon Security融资情况，信息量一般，未提供深刻洞察。"
+    },
+    {
+      "id": "TM-50",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Maneva融资情况，关注AI在工厂安全中的应用，具有一定市场意义。"
+    },
+    {
+      "id": "TM-51",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Jedify的融资和平台创新对企业AI应用有重要影响"
+    },
+    {
+      "id": "TM-52",
+      "score": 5.5,
+      "keep": false,
+      "reason": "LinkedIn的创作者市场更新较为常规，信息量有限"
+    },
+    {
+      "id": "TM-53",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Unitree的增长策略和市场定位值得关注，尤其是模仿成功企业的做法"
+    },
+    {
+      "id": "TM-54",
+      "score": 5.0,
+      "keep": false,
+      "reason": "特斯拉的机器人出租车进展缓慢，信息较为常规"
+    },
+    {
+      "id": "TM-55",
+      "score": 4.0,
+      "keep": false,
+      "reason": "亚马逊的债务融资与AI关系不大，信息量不足"
+    },
+    {
+      "id": "TM-56",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Oracle的财报信息有一定价值，但较为常规"
+    },
+    {
+      "id": "TM-57",
+      "score": 5.0,
+      "keep": false,
+      "reason": "软银的融资谈判停滞，信息较为常规"
+    },
+    {
+      "id": "TM-58",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及投资行为"
+    },
+    {
+      "id": "TM-59",
+      "score": 5.0,
+      "keep": false,
+      "reason": "ASML的股价波动与AI关系不大，信息量有限"
+    },
+    {
+      "id": "TM-60",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及犯罪活动"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.5,
+      "keep": true,
+      "reason": "Gemini 3.5的实时翻译功能对多语言沟通有重要影响"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Claude Fable 5的发布及其应用领域具有重大意义"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "谷歌对Anthropic的支持显示出AI行业的复杂商业联盟"
+    },
+    {
+      "id": "TL-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "文本优化作为新学习机制的探讨具有一定的产品洞察"
+    },
+    {
+      "id": "TL-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "对LLM性能与计算关系的深入分析具有重要价值"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.5,
+      "keep": true,
+      "reason": "AI工程循环的自动化探讨对行业未来有启示"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Cohere的新模型针对高效软件开发具有应用潜力"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Evo的自我演化研究工作流对AI开发有重要影响"
+    },
+    {
+      "id": "TL-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "FlashMemory的技术更新对性能优化有一定价值"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.5,
+      "keep": true,
+      "reason": "Claude Fable 5的安全措施引发对AI信任的讨论"
+    },
+    {
+      "id": "TL-11",
+      "score": 7.5,
+      "keep": true,
+      "reason": "对Claude Fable有效性限制的探讨涉及AI工具的信任问题"
+    },
+    {
+      "id": "TL-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "DeepSeek的市场份额变化值得关注，但信息量有限"
+    },
+    {
+      "id": "TL-13",
+      "score": 5.5,
+      "keep": false,
+      "reason": "关于便宜AI模型的讨论较为常规，信息量有限"
+    },
+    {
+      "id": "TL-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于AI政策的总结有一定的信息量，但较为常规"
+    }
+  ]
+}

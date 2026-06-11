@@ -1,0 +1,597 @@
+{
+  "date": "2026-06-10",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "An essay on policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics",
+      "excerpt": "",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting “innocuous tasks” like reading blog posts or performing code reviews",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Google introduces DiffusionGemma, an experimental 26B-parameter open model that uses text diffusion for faster text generation compared to autoregressive models",
+      "excerpt": "",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Sources: SpaceX has drawn $250B+ of investor demand for what is poised to be the largest IPO to date, far beyond the $75B that SpaceX is aiming to raise",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/spacex-ipo-demand-is-approaching-four-times-oversubscribed-source-says-2026-06-09/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: Sam Altman told staff that OpenAI is expected to go public “within the next year” and OpenAI plans a tender offer “very soon” at a $687.69 share price",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-model-expects-go-public-within-next-year",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "The CFTC proposes prediction market rules, seeking the ability to ban bets it finds aren't in the public interest or may be highly susceptible to manipulation",
+      "excerpt": "",
+      "url": "https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "A German court rules that Google is directly liable for what AI Overviews say after AI Overviews falsely tied two publishers to shady business practices",
+      "excerpt": "",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Sources: Trump administration officials have told CAISI to halt publication of its model assessments while an EO President Trump signed last week is implemented",
+      "excerpt": "",
+      "url": "https://www.wsj.com/politics/policy/white-house-reins-in-ai-testing-unit-as-national-security-concerns-grow-8bd33fbb?st=DUkQLh&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Dario Amodei says he doesn't know what role Claude played in a missile strike on an Iranian school, and its use in this instance didn't violate Anthropic's ToS",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-doesn-t-know-if-claude-used-in-iran-school-strike",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Alex Karp says Palantir's enterprise customers are “unhappy” with how the frontier labs are operating, believing the labs only care about tokenmaxxing",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-visa-team-up-to-let-ai-agents-make-purchases-online",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "WMG acquires AI attribution startup Sureel, as it seeks to track when its songs and recordings are used in the training of AI models or in AI-generated works",
+      "excerpt": "",
+      "url": "https://www.billboard.com/pro/warner-music-group-acquires-sureel-ai/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Morgan Stanley forecasts global AI-tied debt issuance will more than double to nearly $570B in 2026, as hyperscalers seek alternative funding for AI capex needs",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/global-ai-debt-issuance-top-500-billion-2026-morgan-stanley-says-2026-06-10/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "As AI commoditizes benchmarkable work, an organization's lasting moats lie in tasks that are verifiable through its private data and judgment",
+      "excerpt": "",
+      "url": "https://saranormous.substack.com/p/the-untrainable",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Survey: 53% of Americans fear AI could put someone in their household out of work; Democrats are more likely than Republicans to worry about AI's impact on jobs",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/world-at-work/half-americans-fear-ai-could-put-someone-their-household-out-work-reutersipsos-2026-06-10/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "OpenAI says it has banned China-linked accounts that used ChatGPT to draft social media influence campaigns targeting US debates over tariffs and data centers",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/10/openai-china-ai-data-center-tariffs-chatgpt",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Sixteen economists on what AI will mean for the US economy, workers, and workplaces: AI will boost productivity in the near term, but only two expect more jobs",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9?st=DQTFjz&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new “designer” drug precursors that can evade existing product blacklists",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/1b1333ca-55e6-4012-a92a-1797f0f6f2a1",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Sources: OpenAI is in advanced talks to lease a proposed 10GW, $500B+ data center campus in Ohio as part of a deal that could include Nvidia's financial backing",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/openai-talks-lease-10-gigawatt-ohio-data-center-backing-nvidia",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill",
+      "excerpt": "",
+      "url": "https://www.seattletimes.com/seattle-news/climate-lab/seattle-passes-moratorium-on-new-data-centers-amid-national-backlash/",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Meta partners with Reliance to lease its first AI data center in India, with 168 MW capacity, and says it contracted nearly 1 GW of renewable energy in India",
+      "excerpt": "",
+      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Interfax: Russia restored access to Roblox after concluding the company had complied with local legal requirements; Russia had banned Roblox in December",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/russia-restores-access-to-roblox-gaming-platform-interfax-says",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: the ECB temporarily barred Revolut from releasing new products in the European Economic Area last summer until the company had rectified “deficiencies”",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Sources: Chinese companies like Moonshot are reconsidering “red-chip structures”, which make it easier to list overseas, after China blocked the Meta-Manus deal",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/f1e306d9-870b-44eb-8449-2c03d3899261",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Canada introduces the Safe Social Media Act, a bill that would ban social media for children under 16 and establish safety standards for AI chatbots",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/canada-introduces-legislation-ban-social-media-children-under-16-2026-06-10/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs",
+      "excerpt": "",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers' use of AI",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/us-shortens-cyber-fix-window-three-days-ai-threats-rise-2026-06-10/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "CrowdStrike: Chinese entities accounted for 58%+ of state-sponsored cyberattacks aimed at tech companies, especially AI assets, over the 12 months to March 31",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/xbox-plans-significant-layoffs-as-it-transforms-under-new-ceo-asha-sharma?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTEyNDkwOCwiZXhwIjoxNzgxNzI5NzA4LCJhcnRpY2xlSWQiOiJUR0ZPUU5LSVAzUlYwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.cjHY4m0BuOULFpdYUKt2jmNBt-PDLWE6Vy-JsYLWvwI",
+      "section": "gaming"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Xbox Chief Strategy Officer Matthew Ball says Xbox Game Pass lost “millions” of subscribers in the months following a 50% price hike announced in October 2025",
+      "excerpt": "",
+      "url": "https://www.gamespot.com/articles/is-xbox-fixable/",
+      "section": "gaming"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Nintendo's shares fell as much as 8.2% on Wednesday morning in Tokyo after its 2026 Game Showcase came up short on new titles from major franchises, like Mario",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
+      "section": "gaming"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Sources: SK Hynix plans to list its shares in the US as soon as August, seeking to capitalize on strong AI-linked stock demand and broaden its investor base",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-eyes-us-listing-soon-august-sources-say-2026-06-10/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Swedish autonomous truck company Einride debuts on the Nasdaq after merging with a SPAC at a $1.35B pre-money valuation; Einride raised $113M in 2026",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/autos/autonomous-truck-company-einride-to-begin-trading-on-nasdaq-cde6a2f0?st=pHNTUd&reflink=desktopwebshare_permalink",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in 2019",
+      "excerpt": "",
+      "url": "https://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Sources: Sea's Shopee is cutting hundreds of developer jobs globally; the reductions started this week and amount to about 8% of Shopee's developer workforce",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/sea-s-shopee-cuts-hundreds-of-developer-jobs-during-pivot-to-ai",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Chinese companies are implementing “quiet” AI-driven layoffs to avoid labor laws that require government approval for job cuts exceeding 10% of a workforce",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/world-at-work/china-inc-deploys-quiet-layoffs-beijing-promotes-ai-adoption-2026-06-10/",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Tata's chairman predicts AI agents will replace half of Tata Consultancy Services' jobs and says TCS plans to reduce hiring in the coming years as it adopts AI",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Sources: Germany's Neura Robotics, which builds AI-powered humanoid robots, raised $1.4B from Tether, Qualcomm, Amazon, Nvidia, and others at a ~$7B valuation",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/237f10c2-b2b2-490b-bec1-8864e0a22772",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Sources: Ant International is considering raising ~$1B at a $10B+ valuation, which could help pave the way for a potential Hong Kong IPO as soon as 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/ant-international-is-said-to-seek-1-billion-to-boost-growth",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Cyera, an Israeli startup focused on protecting companies' data from AI-based threats, raised $600M at a $12B valuation, bringing its total funding to $2.3B",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/10/business/dealbook/cyera-ai-cybersecurity-funding.html",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised a $350M Series B led by AMD and Magnetar at a $1.55B post-money valuation",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec?st=244GCX&reflink=desktopwebshare_permalink",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "Pi, whose “security brain” AI agent helps companies assess vulnerabilities to prioritize and patch, raised $35M at a $100M valuation; sources: xAI is a customer",
+      "excerpt": "",
+      "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M",
+      "excerpt": "",
+      "url": "https://www.fiercehealthcare.com/health-tech/stepful-banks-55m-scale-ai-powered-infrastructure-tackles-healthcare-staffing-shortage",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "Poetic, which aims to use AI to automate tasks like financial compliance, emerges from stealth with $50M in funding from OpenAI and others at a $500M valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/openai-backs-ai-startup-fielding-compliance-underwriting-tasks",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "CameraMatics, which uses AI to help fleet operators improve safety, reduce operational risk, and lower carbon emissions, raised €49M",
+      "excerpt": "",
+      "url": "https://www.irishtimes.com/business/2026/06/10/fleet-safety-tech-firm-cameramatics-raises-49m-with-isif-and-aib-backing/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-48",
+      "source": "techmeme",
+      "title": "Edge Markets, which provides banking tools for gambling and prediction markets, including real-time payments on Kalshi, raised a $29.2M Series A led by CoinFund",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/08/this-startup-wants-to-reduce-payment-friction-on-prediction-markets.html",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-49",
+      "source": "techmeme",
+      "title": "Aryon Security, whose platform lets companies set security strategy, which it translates into enforceable policies that can't be ignored, raised a $29M Series A",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/06/10/cloud-security-aryon-datadog",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-50",
+      "source": "techmeme",
+      "title": "Maneva, whose AI agents connect to existing camera infrastructure in factories to flag safety risks and measure worker productivity, raised a $27M Series A",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/supply-chain-deals/2026/06/10/maneva-27m-series-a-for-factory-ai",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-51",
+      "source": "techmeme",
+      "title": "New York-based Jedify, whose platform connects to enterprises' knowledge sources via APIs to build a “context graph” for AI agents, raised a $24M Series A",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-52",
+      "source": "techmeme",
+      "title": "LinkedIn debuts its first creator marketplace, in North America, allowing some marketers to search for creators by topic and view “creators cards” with metrics",
+      "excerpt": "",
+      "url": "https://digiday.com/marketing/linkedin-wants-to-own-b2b-creator-discovery-with-new-creator-marketplace/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-53",
+      "source": "techmeme",
+      "title": "A look at Unitree's growth strategy, which mimics those used by BYD and DJI, and leverages its quadruped robot dominance to create and lead the humanoid market",
+      "excerpt": "",
+      "url": "https://newsletter.semianalysis.com/p/chinas-unitree-will-dominate-global",
+      "section": "more news"
+    },
+    {
+      "id": "TM-54",
+      "source": "techmeme",
+      "title": "Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk's big promises",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTA5NjI3OCwiZXhwIjoxNzgxNzAxMDc4LCJhcnRpY2xlSWQiOiJUR0VWNVdLR0NUUDMwMCIsImJjb25uZWN0SWQiOiJCRUQ0NkJGQjAwNEI0MUI4ODI0RUQ5OUVGRTEzRjVDNiJ9.UpKXDm2FvHVRGIupA87sNXSjQw3cJzWZXZer9cSnPk4",
+      "section": "more news"
+    },
+    {
+      "id": "TM-55",
+      "source": "techmeme",
+      "title": "Amazon secures a $17.5B loan from Citigroup and other banks, after selling CA$14B in bonds on Monday, the largest corporate debt offering in Canadian dollars",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/amazon-inks-17-5-billion-loan-in-financing-led-by-citigroup",
+      "section": "more news"
+    },
+    {
+      "id": "TM-56",
+      "source": "techmeme",
+      "title": "Oracle reports Q4 revenue up 21% YoY to $19.18B, vs. $19.1B est., and expects to raise ~$40B through a combination of debt and equity financing in FY 2027",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/oracle-beats-fourth-quarter-revenue-estimates-2026-06-10/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-57",
+      "source": "techmeme",
+      "title": "Sources: SoftBank's talks with creditors to raise $6B+ through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/softbank-s-attempt-to-get-6-billion-openai-margin-loan-stalls",
+      "section": "more news"
+    },
+    {
+      "id": "TM-58",
+      "source": "techmeme",
+      "title": "Chinese investors are buying tokenized stocks with stablecoins like USDT to circumvent Beijing's capital controls and simulate bets on hot US IPOs like SpaceX",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/809a5144-ce28-435a-807f-2ed2c46bd529",
+      "section": "more news"
+    },
+    {
+      "id": "TM-59",
+      "source": "techmeme",
+      "title": "ASML's stock is up 64% YTD, trailing the US chip sector as the industry spends more on processes outside of lithography, like etching and advanced packaging",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/asml-s-surge-to-record-high-masks-lowball-valuation-versus-peers",
+      "section": "more news"
+    },
+    {
+      "id": "TM-60",
+      "source": "techmeme",
+      "title": "The crackdown on online scam centers in Cambodia is leading some gangs to relocate to Sri Lanka, where authorities say they have arrested 1,000+ people in 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/sri-lanka-emerging-as-a-new-base-for-asia-s-scam-networks",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate (4 minute read)",
+      "excerpt": "Gemini 3.5 Live Translate is an audio model for real-time speech-to-speech translation across 70+ languages that eliminates awkward pauses and maintains natural intonation. It is rolling out via Google products, including Meet for private preview and Google Translate on Android and iOS, enhancing multilingual communication.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Claude Fable 5 Launch (6 minute read)",
+      "excerpt": "Anthropic announced Claude Fable 5 for general use and Claude Mythos 5 for selected cyberdefenders and infrastructure providers. The models were described as highly capable across software engineering, research, vision, and cybersecurity, with conservative safeguards applied to Fable 5.",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Google's Backstops Underpin $35 Billion Chip Deal for Anthropic (1 minute read)",
+      "excerpt": "Google is supporting Anthropic's $35 billion chip lease by backstopping payments at five data centers. This financial backing highlights intricate business alliances between major tech companies in the AI sector. Anthropic's role in this significant financing was previously undisclosed.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/google-s-backstops-underpin-35-billion-chip-deal-for-anthropic?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTA2Mjg4OCwiZXhwIjoxNzgxNjY3Njg4LCJhcnRpY2xlSWQiOiJURllTWVBUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.JHS0n53nNPsg8oSO2MQ2Auxj1dujOWmJGcZxMyLl6yI&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Text as a Serious Optimization Layer (8 minute read)",
+      "excerpt": "Prompts, context, memory, retrieval stores, and harnesses function as real update mechanisms. The piece frames text optimization as sample-efficient learning and a new axis for update-time compute.",
+      "url": "https://yoonholee.com/blog/2026/we-should-take-text-optimization-more-seriously/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Implications of Large-Scale Test-Time Compute (5 minute read)",
+      "excerpt": "Benchmark grids hide the real story because LLM capability is now a function of test-time compute, illustrated by GPT-5.5 looking only marginally better than GPT-5.4 on max-compute cyber evals but substantially stronger once tokens, cost, or latency are controlled on the x-axis. The performance plateau is now empirically very far out and stronger models push the plateau further, so single-scalar benchmark scores will only get less informative each release.",
+      "url": "https://x.com/polynoamial/status/2064210146558136827?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "AI is eating the AI Engineering Loop (5 minute read)",
+      "excerpt": "The AI engineering loop can technically be fully automated now, with every analytics and evals startup undergoing a one-time upgrade into a continual-learning platform, but handing over the whole loop produces agent slop because agents optimize against imperfect evals that miss the nuance only the developer holds.",
+      "url": "https://x.com/lotte_verheyden/status/2064415370761646410?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Cohere Launched an Agentic Coding Model (4 minute read)",
+      "excerpt": "North Mini Code is a 30B-parameter MoE coding model with 3B active parameters. The Apache 2.0 release targets efficient agentic software development in sovereign AI environments.",
+      "url": "https://cohere.com/blog/north-mini-code?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Self-Evolving Autoresearch Workflow Loops (5 minute read)",
+      "excerpt": "Evo ported its autoresearch orchestrator onto Anthropic's June 2 dynamic workflows in Claude Code, moving the six-step round off the model's in-context memory and into deterministic JavaScript that subagents execute with fresh scoped context. The shift solves long-horizon instruction adherence by making the method the code: phases, fan-out width, stopping rules, gates, and CLI calls are scripted. The model does judgment, and the code does coordination.",
+      "url": "https://x.com/alokbishoyi97/status/2064281952631525741?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "FlashMemory DeepSeek-V4 Retriever (GitHub Repo)",
+      "excerpt": "FlashMemory predicts which DeepSeek-V4 CSA KV-cache chunks future tokens will attend to, keeping only the most relevant chunks on GPU. The retriever reportedly preserves or improves downstream performance while retaining about 10–15% of the KV cache on-device.",
+      "url": "https://github.com/libertywing/FlashMemory-Deepseek-V4?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Claude Fable 5 and new AI safety fables (14 minute read)",
+      "excerpt": "Anthropic's release of Claude Fable 5 came with the rollout of a series of safety measures, some of which modify the model without telling the user to protect the lab's current lead. Unevenly applied safety policies like this rarely work out. While Anthropic is well within its rights to implement these safeguards, its actions cultivate an 'us against them' dynamic within the AI ecosystem. These actions highlight the need for intelligence that users can trust, modify, and control.",
+      "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "If Claude Fable stops helping you, you'll never know (3 minute read)",
+      "excerpt": "Anthropic has limited new interventions that limit Claude's effectiveness in certain situations, including when competing labs use Claude to develop models. Unlike other interventions, these safeguards will not be visible to users and Fable 5 will not fall back to a different model. Instead, they will limit effectiveness through prompt modification, steering factors, and parameter-efficient fine-tuning. While Anthropic claims that these safeguards will only affect 0.03% of developers, it could create a real supply chain risk for businesses as they have no idea if they are running into them, making the company's tools less trustworthy.",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "DeepSeek enters the fight for token volume, Anthropic continues to dominate spend (12 minute read)",
+      "excerpt": "DeepSeek's share of tokens on AI Gateway jumped from under 1% to 17% in a single month while its share of spend stayed near 1%.",
+      "url": "https://x.com/vercel/status/2064188171294761076?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Can tech companies learn to love cheaper AI models? (4 minute read)",
+      "excerpt": "Cheaper models can often replace frontier models for many tasks without any sacrifice in quality if the systems are arranged correctly.",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Three Labs With a Plan and A Memorandum (22 minute read)",
+      "excerpt": "This post presents a summary of several related stories around policies and plans for AI that came out of Anthropic's Fable announcement.",
+      "url": "https://thezvi.substack.com/p/three-labs-with-a-plan-and-a-memorandum?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

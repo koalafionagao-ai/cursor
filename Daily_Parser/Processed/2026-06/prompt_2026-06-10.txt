@@ -1,0 +1,314 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: An essay on policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics
+Tweets:
+  - Author: @darioamodei
+    Text: Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap:
+    Link ID: TM-01-TW-01
+  - Author: @tenobrus
+    Text: the specificity of this proposal is so insanely head and shoulders above openai's recent article as to make it laughable.  i'm basically on board with everything proposed, and think this is extremely worth reading.  unfortunately i worry anthropic does not in fact have the regulatory influence to actually make most of these things happen [...]
+    Link ID: TM-01-TW-02
+  - Author: @jconorgrogan
+    Text: TLDR: 1.  Declare AI too dangerous for ordinary competition so you propose a regulatory regime where only the largest incumbents can survive 2.  Warn about labor displacement while selling the product to executives as a labor-displacement tool 3.  Warn about state overreach while asking the state to license and gatekeep frontier models 4.  Warn about corporate power while sketching a corporate-state cartel over compute, release, security, export controls, and deployment
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Dario Amodei says frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks, in addition to overall transparency requirements
+    Link ID: TM-01-SUB-01
+  - Title: Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems
+    Link ID: TM-01-SUB-02
+---
+ID: TM-02
+Title: Cybersecurity researchers complain that Claude Fable's guardrails are too strict, rejecting “innocuous tasks” like reading blog posts or performing code reviews
+Tweets:
+  - Author: @alexjplaskett
+    Text: Fable seems totally unusable currently due to the over zealous rejection classifier, even for non related to cyber security. Can't see why anyone would use this over Opus.
+    Link ID: TM-02-TW-01
+  - Author: @willccbb
+    Text: @tautologer it is the first publicly available model that i am explicitly not allowed to use for my work, because anthropic holds the view that the work i do to facilitate open model research is harmful. capability and alignment research are coupled. anthropic wants to be the only lab.
+    Link ID: TM-02-TW-02
+  - Author: @teknium
+    Text: What's crazy to me is that Fable is blocked from life sciences broadly, nerfed even if you get passed the classifiers and filter level blocks. The whole point of AGI/ASI is to cure all diseases. Everything else is just nice to haves. But Anthropic wants to close off that path.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Sources: Microsoft is restricting employees from using Claude Fable 5 because of Anthropic's new 30-day data retention requirements
+    Link ID: TM-02-SUB-01
+  - Title: Anthropic secretly limiting Claude's usefulness for LLM development strengthens the argument that Anthropic is using AI safety to justify monopolistic behavior
+    Link ID: TM-02-SUB-02
+---
+ID: TM-03
+Title: Google introduces DiffusionGemma, an experimental 26B-parameter open model that uses text diffusion for faster text generation compared to autoregressive models
+Tweets:
+  - Author: @_philschmid
+    Text: Gemma goes diffusion! DiffusionGemma with up to 1000+ tokens per second! 🌬️ - Built on Gemma 4 as a 26B MoE model. - 3.8B parameters during inference. - Generates text in 256-token blocks in parallel. - Fits within 18 GB VRAM limits when quantized. - Apache 2.0 [video]
+    Link ID: TM-03-TW-01
+  - Author: @omarsar0
+    Text: This is awesome! I am spending a lot of time on diffusion LLMs these days, so this is perfect timing. I feel like there are so many underexplored research questions around text diffusion. Weight available in HF. [image]
+    Link ID: TM-03-TW-02
+  - Author: @vllm_project
+    Text: Congrats to @GoogleDeepMind on DiffusionGemma 🎉 A 26B diffusion language model on the Gemma4 backbone, and the first dLLM natively supported in vLLM.  It denoises 256-token blocks in parallel instead of generating one token at a time: 1200+ output tok/s at batch size 1 on a single H200 (FP8).  Built on model runner v2's ModelState plus the existing speculative decoding path, with minimal scheduler or runner changes.  FP8 and NVFP4 checkpoints are on the @RedHat_AI hub.  Thanks to the @GoogleDeepMind , @RedHat_AI , and @NVIDIAAI teams!
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Sources: SpaceX has drawn $250B+ of investor demand for what is poised to be the largest IPO to date, far beyond the $75B that SpaceX is aiming to raise
+Sub Items:
+  - Title: Sources: Saudi Arabia's Public Investment Fund and the Kuwait Investment Authority have each placed share orders worth $1B to $5B for SpaceX's IPO
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Sources: Sam Altman told staff that OpenAI is expected to go public “within the next year” and OpenAI plans a tender offer “very soon” at a $687.69 share price
+---
+ID: TM-06
+Title: Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini
+---
+ID: TM-07
+Title: The CFTC proposes prediction market rules, seeking the ability to ban bets it finds aren't in the public interest or may be highly susceptible to manipulation
+---
+ID: TM-08
+Title: A German court rules that Google is directly liable for what AI Overviews say after AI Overviews falsely tied two publishers to shady business practices
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: Sources: Trump administration officials have told CAISI to halt publication of its model assessments while an EO President Trump signed last week is implemented
+---
+ID: TM-10
+Title: Dario Amodei says he doesn't know what role Claude played in a missile strike on an Iranian school, and its use in this instance didn't violate Anthropic's ToS
+Sub Items:
+  - Title: Dario Amodei has just one direct report, his COS Avital Balwit; Anthropic's executive team reports to Daniela Amodei, who handles much of day-to-day operations
+    Link ID: TM-10-SUB-01
+---
+ID: TM-11
+Title: Alex Karp says Palantir's enterprise customers are “unhappy” with how the frontier labs are operating, believing the labs only care about tokenmaxxing
+---
+ID: TM-12
+Title: OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments
+---
+ID: TM-13
+Title: WMG acquires AI attribution startup Sureel, as it seeks to track when its songs and recordings are used in the training of AI models or in AI-generated works
+---
+ID: TM-14
+Title: Morgan Stanley forecasts global AI-tied debt issuance will more than double to nearly $570B in 2026, as hyperscalers seek alternative funding for AI capex needs
+---
+ID: TM-15
+Title: As AI commoditizes benchmarkable work, an organization's lasting moats lie in tasks that are verifiable through its private data and judgment
+---
+ID: TM-16
+Title: Survey: 53% of Americans fear AI could put someone in their household out of work; Democrats are more likely than Republicans to worry about AI's impact on jobs
+---
+ID: TM-17
+Title: OpenAI says it has banned China-linked accounts that used ChatGPT to draft social media influence campaigns targeting US debates over tariffs and data centers
+---
+ID: TM-18
+Title: Sixteen economists on what AI will mean for the US economy, workers, and workplaces: AI will boost productivity in the near term, but only two expect more jobs
+Sub Items:
+  - Title: An expert panel with Daron Acemoglu, Dean Ball, Ethan Mollick, and Clara Shih discusses AI's impact on jobs and how people should prepare for the future of work
+    Link ID: TM-18-SUB-01
+  - Title: Walmart outlined a future where AI will change how people work, not necessarily how many work, at its annual Associates Week, as it accelerates AI adoption
+    Link ID: TM-18-SUB-02
+---
+ID: TM-19
+Title: The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new “designer” drug precursors that can evade existing product blacklists
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-20
+Title: Sources: OpenAI is in advanced talks to lease a proposed 10GW, $500B+ data center campus in Ohio as part of a deal that could include Nvidia's financial backing
+---
+ID: TM-21
+Title: Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill
+---
+ID: TM-22
+Title: Meta partners with Reliance to lease its first AI data center in India, with 168 MW capacity, and says it contracted nearly 1 GW of renewable energy in India
+---
+
+[CATEGORY: REGULATION]
+ID: TM-23
+Title: Interfax: Russia restored access to Roblox after concluding the company had complied with local legal requirements; Russia had banned Roblox in December
+---
+ID: TM-24
+Title: Sources: the ECB temporarily barred Revolut from releasing new products in the European Economic Area last summer until the company had rectified “deficiencies”
+---
+ID: TM-25
+Title: Sources: Chinese companies like Moonshot are reconsidering “red-chip structures”, which make it easier to list overseas, after China blocked the Meta-Manus deal
+---
+ID: TM-26
+Title: Canada introduces the Safe Social Media Act, a bill that would ban social media for children under 16 and establish safety standards for AI chatbots
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-27
+Title: Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs
+---
+ID: TM-28
+Title: CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers' use of AI
+---
+ID: TM-29
+Title: CrowdStrike: Chinese entities accounted for 58%+ of state-sponsored cyberattacks aimed at tech companies, especially AI assets, over the 12 months to March 31
+---
+
+[CATEGORY: GAMING]
+ID: TM-30
+Title: Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas
+---
+ID: TM-31
+Title: Xbox Chief Strategy Officer Matthew Ball says Xbox Game Pass lost “millions” of subscribers in the months following a 50% price hike announced in October 2025
+---
+ID: TM-32
+Title: Nintendo's shares fell as much as 8.2% on Wednesday morning in Tokyo after its 2026 Game Showcase came up short on new titles from major franchises, like Mario
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-33
+Title: Sources: SK Hynix plans to list its shares in the US as soon as August, seeking to capitalize on strong AI-linked stock demand and broaden its investor base
+---
+ID: TM-34
+Title: Swedish autonomous truck company Einride debuts on the Nasdaq after merging with a SPAC at a $1.35B pre-money valuation; Einride raised $113M in 2026
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-35
+Title: Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more
+---
+ID: TM-36
+Title: YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in 2019
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-37
+Title: Sources: Sea's Shopee is cutting hundreds of developer jobs globally; the reductions started this week and amount to about 8% of Shopee's developer workforce
+---
+ID: TM-38
+Title: Chinese companies are implementing “quiet” AI-driven layoffs to avoid labor laws that require government approval for job cuts exceeding 10% of a workforce
+---
+ID: TM-39
+Title: Tata's chairman predicts AI agents will replace half of Tata Consultancy Services' jobs and says TCS plans to reduce hiring in the coming years as it adopts AI
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-40
+Title: Sources: Germany's Neura Robotics, which builds AI-powered humanoid robots, raised $1.4B from Tether, Qualcomm, Amazon, Nvidia, and others at a ~$7B valuation
+---
+ID: TM-41
+Title: Sources: Ant International is considering raising ~$1B at a $10B+ valuation, which could help pave the way for a potential Hong Kong IPO as soon as 2026
+---
+ID: TM-42
+Title: Cyera, an Israeli startup focused on protecting companies' data from AI-based threats, raised $600M at a $12B valuation, bringing its total funding to $2.3B
+---
+ID: TM-43
+Title: Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised a $350M Series B led by AMD and Magnetar at a $1.55B post-money valuation
+---
+ID: TM-44
+Title: Pi, whose “security brain” AI agent helps companies assess vulnerabilities to prioritize and patch, raised $35M at a $100M valuation; sources: xAI is a customer
+---
+ID: TM-45
+Title: Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M
+---
+ID: TM-46
+Title: Poetic, which aims to use AI to automate tasks like financial compliance, emerges from stealth with $50M in funding from OpenAI and others at a $500M valuation
+---
+ID: TM-47
+Title: CameraMatics, which uses AI to help fleet operators improve safety, reduce operational risk, and lower carbon emissions, raised €49M
+---
+ID: TM-48
+Title: Edge Markets, which provides banking tools for gambling and prediction markets, including real-time payments on Kalshi, raised a $29.2M Series A led by CoinFund
+---
+ID: TM-49
+Title: Aryon Security, whose platform lets companies set security strategy, which it translates into enforceable policies that can't be ignored, raised a $29M Series A
+---
+ID: TM-50
+Title: Maneva, whose AI agents connect to existing camera infrastructure in factories to flag safety risks and measure worker productivity, raised a $27M Series A
+---
+ID: TM-51
+Title: New York-based Jedify, whose platform connects to enterprises' knowledge sources via APIs to build a “context graph” for AI agents, raised a $24M Series A
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-52
+Title: LinkedIn debuts its first creator marketplace, in North America, allowing some marketers to search for creators by topic and view “creators cards” with metrics
+---
+ID: TM-53
+Title: A look at Unitree's growth strategy, which mimics those used by BYD and DJI, and leverages its quadruped robot dominance to create and lead the humanoid market
+---
+ID: TM-54
+Title: Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk's big promises
+---
+ID: TM-55
+Title: Amazon secures a $17.5B loan from Citigroup and other banks, after selling CA$14B in bonds on Monday, the largest corporate debt offering in Canadian dollars
+---
+ID: TM-56
+Title: Oracle reports Q4 revenue up 21% YoY to $19.18B, vs. $19.1B est., and expects to raise ~$40B through a combination of debt and equity financing in FY 2027
+---
+ID: TM-57
+Title: Sources: SoftBank's talks with creditors to raise $6B+ through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B
+---
+ID: TM-58
+Title: Chinese investors are buying tokenized stocks with stablecoins like USDT to circumvent Beijing's capital controls and simulate bets on hot US IPOs like SpaceX
+---
+ID: TM-59
+Title: ASML's stock is up 64% YTD, trailing the US chip sector as the industry spends more on processes outside of lithography, like etching and advanced packaging
+---
+ID: TM-60
+Title: The crackdown on online scam centers in Cambodia is leading some gangs to relocate to Sri Lanka, where authorities say they have arrested 1,000+ people in 2026
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Fluid, natural voice translation with Gemini 3.5 Live Translate (4 minute read)
+Excerpt: Gemini 3.5 Live Translate is an audio model for real-time speech-to-speech translation across 70+ languages that eliminates awkward pauses and maintains natural intonation. It is rolling out via Google products, including Meet for private preview and Google Translate on Android and iOS, enhancing multilingual communication.
+---
+ID: TL-02
+Title: Claude Fable 5 Launch (6 minute read)
+Excerpt: Anthropic announced Claude Fable 5 for general use and Claude Mythos 5 for selected cyberdefenders and infrastructure providers. The models were described as highly capable across software engineering, research, vision, and cybersecurity, with conservative safeguards applied to Fable 5.
+---
+ID: TL-03
+Title: Google's Backstops Underpin $35 Billion Chip Deal for Anthropic (1 minute read)
+Excerpt: Google is supporting Anthropic's $35 billion chip lease by backstopping payments at five data centers. This financial backing highlights intricate business alliances between major tech companies in the AI sector. Anthropic's role in this significant financing was previously undisclosed.
+---
+ID: TL-04
+Title: Text as a Serious Optimization Layer (8 minute read)
+Excerpt: Prompts, context, memory, retrieval stores, and harnesses function as real update mechanisms. The piece frames text optimization as sample-efficient learning and a new axis for update-time compute.
+---
+ID: TL-05
+Title: Implications of Large-Scale Test-Time Compute (5 minute read)
+Excerpt: Benchmark grids hide the real story because LLM capability is now a function of test-time compute, illustrated by GPT-5.5 looking only marginally better than GPT-5.4 on max-compute cyber evals but substantially stronger once tokens, cost, or latency are controlled on the x-axis. The performance plateau is now empirically very far out and stronger models push the plateau further, so single-scalar benchmark scores will only get less informative each release.
+---
+ID: TL-06
+Title: AI is eating the AI Engineering Loop (5 minute read)
+Excerpt: The AI engineering loop can technically be fully automated now, with every analytics and evals startup undergoing a one-time upgrade into a continual-learning platform, but handing over the whole loop produces agent slop because agents optimize against imperfect evals that miss the nuance only the developer holds.
+---
+ID: TL-07
+Title: Cohere Launched an Agentic Coding Model (4 minute read)
+Excerpt: North Mini Code is a 30B-parameter MoE coding model with 3B active parameters. The Apache 2.0 release targets efficient agentic software development in sovereign AI environments.
+---
+ID: TL-08
+Title: Self-Evolving Autoresearch Workflow Loops (5 minute read)
+Excerpt: Evo ported its autoresearch orchestrator onto Anthropic's June 2 dynamic workflows in Claude Code, moving the six-step round off the model's in-context memory and into deterministic JavaScript that subagents execute with fresh scoped context. The shift solves long-horizon instruction adherence by making the method the code: phases, fan-out width, stopping rules, gates, and CLI calls are scripted. The model does judgment, and the code does coordination.
+---
+ID: TL-09
+Title: FlashMemory DeepSeek-V4 Retriever (GitHub Repo)
+Excerpt: FlashMemory predicts which DeepSeek-V4 CSA KV-cache chunks future tokens will attend to, keeping only the most relevant chunks on GPU. The retriever reportedly preserves or improves downstream performance while retaining about 10–15% of the KV cache on-device.
+---
+ID: TL-10
+Title: Claude Fable 5 and new AI safety fables (14 minute read)
+Excerpt: Anthropic's release of Claude Fable 5 came with the rollout of a series of safety measures, some of which modify the model without telling the user to protect the lab's current lead. Unevenly applied safety policies like this rarely work out. While Anthropic is well within its rights to implement these safeguards, its actions cultivate an 'us against them' dynamic within the AI ecosystem. These actions highlight the need for intelligence that users can trust, modify, and control.
+---
+ID: TL-11
+Title: If Claude Fable stops helping you, you'll never know (3 minute read)
+Excerpt: Anthropic has limited new interventions that limit Claude's effectiveness in certain situations, including when competing labs use Claude to develop models. Unlike other interventions, these safeguards will not be visible to users and Fable 5 will not fall back to a different model. Instead, they will limit effectiveness through prompt modification, steering factors, and parameter-efficient fine-tuning. While Anthropic claims that these safeguards will only affect 0.03% of developers, it could create a real supply chain risk for businesses as they have no idea if they are running into them, making the company's tools less trustworthy.
+---
+ID: TL-12
+Title: DeepSeek enters the fight for token volume, Anthropic continues to dominate spend (12 minute read)
+Excerpt: DeepSeek's share of tokens on AI Gateway jumped from under 1% to 17% in a single month while its share of spend stayed near 1%.
+---
+ID: TL-13
+Title: Can tech companies learn to love cheaper AI models? (4 minute read)
+Excerpt: Cheaper models can often replace frontier models for many tasks without any sacrifice in quality if the systems are arranged correctly.
+---
+ID: TL-14
+Title: Three Labs With a Plan and A Memorandum (22 minute read)
+Excerpt: This post presents a summary of several related stories around policies and plans for AI that came out of Anthropic's Fable announcement.
+---
