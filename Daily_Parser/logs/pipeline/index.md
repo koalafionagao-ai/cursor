@@ -4,8 +4,9 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 
 | Brief date | Status | Published | Steps | Anomalies | Log |
 |------------|--------|-----------|-------|-----------|-----|
+| `2026-06-11` | success | 27 | 6 | — | [2026-06-11](2026-06/2026-06-11.md) |
 | `2026-06-10` | success | 33 | 6 | — | [2026-06-10](2026-06/2026-06-10.md) |
 | `2026-06-09` | success | 25 | 6 | — | [2026-06-09](2026-06/2026-06-09.md) |
 | `2026-06-08` | success | 28 | 6 | — | [2026-06-08](2026-06/2026-06-08.md) |
 
-_Latest brief date: `2026-06-10`_
+_Latest brief date: `2026-06-11`_

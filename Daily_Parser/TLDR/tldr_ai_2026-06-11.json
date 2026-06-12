@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-11",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Policy on the AI Exponential (28 minute read)",
+        "url": "https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=tldrai",
+        "excerpt": "AI advances rapidly, outpacing slow policy-making, leading to potential risks in cybersecurity and job displacement. Anthropic recommends a regulatory approach like the FAA for AI, mandatory testing, and stronger security standards to address these risks. Additional policy areas include adapting macroeconomics and tax systems for AI-driven growth, reforming regulations to enhance AI's biomedical impacts, and ensuring AI aligns with democratic values globally."
+      },
+      {
+        "title": "DiffusionGemma: 4x faster text generation (5 minute read)",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=tldrai",
+        "excerpt": "DiffusionGemma, a 26B Mixture of Experts model, uses text diffusion for faster text generation, offering up to 4x speed increase on GPUs by generating text blocks simultaneously. It targets speed-critical applications, providing advantages like low latency and bi-directional attention, and fits in high-end consumer GPUs when quantized. While it trades some quality for speed compared to standard models, it allows for efficient local inference and is optimized for NVIDIA hardware."
+      },
+      {
+        "title": "Moats Need Models (6 minute read)",
+        "url": "https://x.com/sahar__zadeh/status/2064759511253176398?utm_source=tldrai",
+        "excerpt": "The model, harness, workflow, and evaluation loop are no longer separate stack pieces but co-design surfaces that compound together. Defensibility comes from owning the full feedback loop rather than renting frontier capability that can be restricted, repriced, or reclaimed on the supplier's terms."
+      },
+      {
+        "title": "Don't let the LLM speak, just probe it (8 minute read)",
+        "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/?utm_source=tldrai",
+        "excerpt": "Answers often already exist in LLMs' hidden state before they generate a single token. It's possible to skip generation entirely by grabbing the hidden state at the last prompt token, feeding it to a tiny multilayer perceptron, and calibrating the output. This results in a frozen model that acts as any classifier that can be written in English."
+      },
+      {
+        "title": "Measuring LLMs' impact on N-day exploits (18 minute read)",
+        "url": "https://red.anthropic.com/2026/n-days/?utm_source=tldrai",
+        "excerpt": "N-days are vulnerabilities that have already been publicly disclosed, but only patched on some devices. They can be more dangerous than zero-day vulnerabilities as the patches provide a roadmap to the bugs. The process of reverse-engineering a vulnerability from a patch has historically been slow and specialized work, but AI can accelerate and automate the process. This means anyone in the patch gap today faces a much larger threat than before."
+      },
+      {
+        "title": "Fable-5 system prompt leak (27 minute read)",
+        "url": "https://x.com/elder_plinius/status/2064478648057610422?utm_source=tldrai",
+        "excerpt": "The system prompt for Anthropic's Fable 5 model has been leaked. It comes to a total of around 120,000 characters. The entire leaked prompt is available in the thread."
+      },
+      {
+        "title": "Faster Code Review with Cursor's Bugbot (3 minute read)",
+        "url": "https://cursor.com/blog/bugbot-updates-june-2026?utm_source=tldrai",
+        "excerpt": "Cursor updated Bugbot to run over 3x faster, cost 22% less, and find 10% more bugs per review. Most runs now finished in under three minutes, shortening the review loop for developers."
+      },
+      {
+        "title": "Palantir's Karp says businesses are ‘unhappy' with the frontier AI labs (5 minute read)",
+        "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html?utm_source=tldrai",
+        "excerpt": "Palantir's CEO, Alex Karp, says the company's enterprise customers are unhappy with how frontier AI labs are operating. He claims these labs only care about burning through AI tokens to signal productivity. Accelerating costs are raising alarm among businesses and fueling efficiency concerns."
+      },
+      {
+        "title": "EU Orders Meta To Stop Blocking Rival AI Chatbots On WhatsApp (2 minute read)",
+        "url": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/?utm_source=tldrai",
+        "excerpt": "The EU has ordered Meta to open up WhatsApp to chatbots from rival companies for free. Meta banned third-party AI chatbots from the WhatsApp for Business API in October last year. The EU said Meta was abusing its dominant position in the European messaging app by preventing competing assistants from using the WhatsApp API. Meta plans to appeal the decision, saying the order is a regulatory overreach that would grant some of the world's largest companies access to the API without paying."
+      },
+      {
+        "title": "OpenAI weighs Nvidia-backed lease for 10 GW Ohio data center campus (4 minute read)",
+        "url": "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html?utm_source=tldrai",
+        "excerpt": "OpenAI would control the computing equipment at the site, which is expected to begin operating in 2028, under a 20-year lease."
+      },
+      {
+        "title": "Codex for Black Hole Simulations (4 minute read)",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes/?utm_source=tldrai",
+        "excerpt": "Astrophysicist Chi-kwan Chan used Codex to refine and test algorithms for simulating plasma and particle behavior around black holes."
+      },
+      {
+        "title": "Introducing Ramp Applied AI Solutions (4 minute read)",
+        "url": "https://ramp.com/blog/introducing-ramp-applied-ai-solutions?utm_source=tldrai",
+        "excerpt": "Ramp Applied AI Solutions enables companies to deploy AI effectively by embedding engineers in finance teams to create custom solutions."
+      },
+      {
+        "title": "The evolution of agentic surfaces: building with Claude Managed Agents (13 minute read)",
+        "url": "https://claude.com/blog/building-with-claude-managed-agents?utm_source=tldrai",
+        "excerpt": "Claude Managed Agents streamline building production-grade agents by offering composable APIs with integrated infrastructure."
+      },
+      {
+        "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+        "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+        "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in or invest in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!"
+      }
+    ]
+  }
+}

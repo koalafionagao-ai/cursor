@@ -1,0 +1,356 @@
+{
+  "date": "2026-06-11",
+  "threshold": 7.0,
+  "total": 58,
+  "kept": 27,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要关注 SpaceX 的 IPO 事件"
+    },
+    {
+      "id": "TM-02",
+      "score": 7.5,
+      "keep": true,
+      "reason": "OpenAI 降价策略可能影响行业竞争，值得关注"
+    },
+    {
+      "id": "TM-03",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Anthropic 的决策变化反映了市场反馈，信息量一般"
+    },
+    {
+      "id": "TM-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Jeff Bezos 的公司获得巨额融资，显示 AI 模型开发的潜力"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Xbox 的财务警告信息量有限，未直接涉及 AI"
+    },
+    {
+      "id": "TM-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta 的运营分拆可能影响其 AI 相关项目，信息量一般"
+    },
+    {
+      "id": "TM-07",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要关注手机拆解信息"
+    },
+    {
+      "id": "TM-08",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Waymo 的新会员计划可能影响自动驾驶服务的市场竞争"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "DoorDash 的 AI 聊天机器人提升用户体验，具有产品洞察价值"
+    },
+    {
+      "id": "TM-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI 收购 Ona 可能增强其 AI 能力，值得关注"
+    },
+    {
+      "id": "TM-11",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Deezer 的 AI 音乐检测工具信息量一般，未显著影响行业"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "前投资者对 AI 行业的批评反映了行业内的不同声音，信息量一般"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国工会呼吁加强 AI 监管，反映政策变化的潜在影响"
+    },
+    {
+      "id": "TM-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 初创公司在伦敦的扩张显示出该地区的战略重要性"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Anthropic 的捐赠计划可能影响 AI 人才培养，具有社会价值"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Google.org 的投资计划反映了对 AI 人才短缺的关注，信息量一般"
+    },
+    {
+      "id": "TM-17",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia 与 Abridge 的合作可能推动医疗领域的 AI 应用发展"
+    },
+    {
+      "id": "TM-18",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Apollo Global 的风险评估框架可能影响投资决策，值得关注"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Anthropic 签署数据中心租赁协议显示其基础设施扩展，具有战略意义"
+    },
+    {
+      "id": "TM-20",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要关注亚马逊的数据中心水使用情况"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Crusoe 暂停数据中心计划的信息量一般，未直接涉及 AI"
+    },
+    {
+      "id": "TM-22",
+      "score": 9.0,
+      "keep": true,
+      "reason": "KKR 的新公司将推动 AI 基础设施融资，具有重大行业影响"
+    },
+    {
+      "id": "TM-23",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要关注执法行动"
+    },
+    {
+      "id": "TM-24",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Coinbase 的 AI 交易代理可能改变加密交易方式，值得关注"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Citigroup 的区块链平台信息量一般，未直接涉及 AI"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及加密货币政策变化。"
+    },
+    {
+      "id": "TM-27",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及美国监控政策的变化，但与 AI 直接关联不强。"
+    },
+    {
+      "id": "TM-28",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及网络安全和假咨询公司的行动，但信息量有限。"
+    },
+    {
+      "id": "TM-29",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于数据泄露的罚款，涉及安全性问题，但较为常规。"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于产品更新的计划，但缺乏深度的产品洞察。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "政治动态分析，信息量一般，与 AI 关联不强。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律变化涉及内容监管，但与 AI 直接关联不强。"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于播客内容的清理，信息量有限。"
+    },
+    {
+      "id": "TM-34",
+      "score": 8.0,
+      "keep": true,
+      "reason": "区块链项目融资，涉及隐私特性，值得关注。"
+    },
+    {
+      "id": "TM-35",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于初创公司的融资情况，显示市场活跃度。"
+    },
+    {
+      "id": "TM-36",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 机器人初创公司融资，显示行业发展趋势。"
+    },
+    {
+      "id": "TM-37",
+      "score": 7.0,
+      "keep": true,
+      "reason": "AI 数据库初创公司融资，表明市场对 AI 的需求。"
+    },
+    {
+      "id": "TM-38",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI 安全解决方案的融资，信息量一般。"
+    },
+    {
+      "id": "TM-39",
+      "score": 9.0,
+      "keep": true,
+      "reason": "涉及 Google 和 Samsung 的重要合作，可能影响 AI 硬件发展。"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财报信息，主要关注股价波动，信息量有限。"
+    },
+    {
+      "id": "TM-41",
+      "score": 8.0,
+      "keep": true,
+      "reason": "大额政府合同，涉及 IT 和云服务，值得关注。"
+    },
+    {
+      "id": "TM-42",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于言论自由的立法提案，信息量一般。"
+    },
+    {
+      "id": "TM-43",
+      "score": 5.0,
+      "keep": false,
+      "reason": "警方呼吁技术公司合作，信息量有限。"
+    },
+    {
+      "id": "TM-44",
+      "score": 6.0,
+      "keep": false,
+      "reason": "企业内部变动，影响 AI 战略，但信息量一般。"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "关于 AI 政策的深度分析，涉及重要的行业风险。"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新模型的技术更新，提供了显著的性能提升。"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于模型设计的深度分析，提供了产品洞察。"
+    },
+    {
+      "id": "TL-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨了 LLM 的新用法，具有一定的技术洞察。"
+    },
+    {
+      "id": "TL-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "探讨 AI 在安全漏洞分析中的应用，具有重要意义。"
+    },
+    {
+      "id": "TL-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于模型提示的泄露，信息量有限。"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Bugbot的性能提升对开发者的代码审查效率有直接影响，值得关注。"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.5,
+      "keep": true,
+      "reason": "Palantir CEO对企业客户对前沿AI实验室的不满反映了行业内对AI成本和效率的担忧，具有重要的行业洞察。"
+    },
+    {
+      "id": "TL-09",
+      "score": 9.0,
+      "keep": true,
+      "reason": "欧盟对Meta的监管行动可能改变AI聊天机器人的市场竞争格局，具有重要政策意义。"
+    },
+    {
+      "id": "TL-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI计划租赁数据中心的消息有一定信息量，但缺乏重大行业影响。"
+    },
+    {
+      "id": "TL-11",
+      "score": 5.0,
+      "keep": false,
+      "reason": "使用Codex进行黑洞模拟的研究有一定的技术价值，但信息量较常规。"
+    },
+    {
+      "id": "TL-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Ramp的AI解决方案介绍了新的应用方式，但信息量较为常规。"
+    },
+    {
+      "id": "TL-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Claude Managed Agents的构建方式提供了新的技术思路，值得关注。"
+    },
+    {
+      "id": "TL-14",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI行业发展关系不大，信息量过少。"
+    }
+  ]
+}

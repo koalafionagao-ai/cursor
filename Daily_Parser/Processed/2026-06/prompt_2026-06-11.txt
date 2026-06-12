@@ -1,0 +1,252 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T
+Tweets:
+  - Author: @danprimack
+    Text: Gonna read a lot about VC “returns” from the SpaceX IPO. Reminder that no VC is selling shares into the IPO, and can't sell for a while. So these are still paper gains, not actual cash for distribution-starved LPs in their funds.
+    Link ID: TM-01-TW-01
+  - Author: @eastdakota
+    Text: Anyone remember what $NET's IPO “pop” was? I like @matt_levine calling it “perfect” — to the penny. You have a lot more control of what happens when you price an IPO than it may seem. If @elonmusk turns out to have called it even close to perfect two weeks in advance... 🤯 [image]
+    Link ID: TM-01-TW-02
+  - Author: @andrewcurran_
+    Text: SpaceX has excluded investors from China and Hong Kong from participating in its IPO, according to the NYT. The article also reports that OpenAI is likely to impose the same restrictions when it goes public. Given past statements from Anthropic, they may also do the same. [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: SpaceX's IPO has attracted over $100B in orders from retail investors, who are expected to be allocated at least 20% of the available shares
+    Link ID: TM-01-SUB-01
+  - Title: Sources: BlackRock put in an order to buy at least $5B worth of SpaceX shares; SpaceX received an over $1B request from a single family-office investor
+    Link ID: TM-01-SUB-02
+  - Title: Sources: Founders Fund's ~3% stake in SpaceX is now worth $50B+, after investing $600M; a16z will get the biggest return in its history, with a $10B+ stake
+    Link ID: TM-01-SUB-03
+  - Title: Some investors question SpaceX's projected $1.77T valuation, citing its $4.3B loss on $4.7B in revenue in Q1, concerns over space data centers, and more
+    Link ID: TM-01-SUB-04
+  - Title: Elon Musk is busy stoking far-right culture wars across the West on the eve of SpaceX's IPO, with an impunity unmatched in modern corporate history
+    Link ID: TM-01-SUB-05
+---
+ID: TM-02
+Title: Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make
+Tweets:
+  - Author: @mweinbach
+    Text: If OpenAI does drop token pricing, this is likely because they've heard from customers they can't adopt AI at volume at the current pricing. Margin is high now for served tokens. They could cut prices by like 60% and still be profitable imo
+    Link ID: TM-02-TW-01
+  - Author: @antoniogm
+    Text: This means one thing: ads.
+    Link ID: TM-02-TW-02
+  - Author: @edzitron
+    Text: Both OpenAI and Anthropic are considering price cuts. Neither of these companies but ESPECIALLY OpenAI can under any circumstances afford this pay cut. This is fundamentally insane. A sign of desperation that will erode revenue while costs stay linear.  [image]
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying “requests will visibly fall back to Opus 4.8”, after backlash
+Tweets:
+  - Author: @claudedevs
+    Text: We're rolling out changes to make Fable 5's safeguards for frontier LLM development visible.  Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and bio.  You will see this every time it happens.  On the API, any flagged requests will return a reason for their refusal (coming to server-side fallback in the next few days).
+    Link ID: TM-03-TW-01
+  - Author: @zeffmax
+    Text: “We're changing Fable 5's safeguards for frontier LLM development to make them visible,” Anthropic tells WIRED.  “We made the wrong tradeoff and we apologize for not getting the balance right.”
+    Link ID: TM-03-TW-02
+  - Author: @deanwball
+    Text: This resolves the central concern I had with the Fable release, which was the silent degradation.  I am glad to see Anthropic make the right call here.  That said, I suspect the residual broken trust and resentment this has created will linger and will have a blast radius wider than Anthropic (the next time I advocate for any policy justified by AI risk concerns, I almost guarantee you this incident will be used in rebuttal).
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Jeff Bezos' Prometheus, which is building AI models for physical tasks, raised a $12B Series B at a $41B valuation, following a $6.2B Series A
+---
+ID: TM-05
+Title: Memo: Xbox CEO Asha Sharma and CCO Matt Booty warn of an “Xbox reset” over the next 100 days, citing annual revenue down nearly $500M over the past five years
+---
+ID: TM-06
+Title: Sources: Meta has completed an operational split with Manus and stopped data sharing; Manus is exploring options, including raising ~$1B to fund a buyback
+---
+ID: TM-07
+Title: A teardown reveals the Trump Mobile T1 is a gold-painted HTC U24 Pro but features some changes, including memory from Micron instead of SK Hynix
+---
+ID: TM-08
+Title: Waymo launches Waymo Premier, a $30-per-month membership program offering perks like skipping the line, 10% cashback, and five free ride cancellations per month
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts
+---
+ID: TM-10
+Title: OpenAI acquires Ona, which offers cloud services to support AI agents, and plans to bring Ona's team into its Codex effort
+---
+ID: TM-11
+Title: Deezer launches an AI music detection tool for users of 20 services, including Spotify and Apple Music, after no company licensed its AI detection tech
+---
+ID: TM-12
+Title: Former a16z GP John O'Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation, calling it “a huge mistake”
+---
+ID: TM-13
+Title: The Workers' Daily, the official mouthpiece of China's umbrella trade union, urges regulators to protect worker rights and strengthen oversight amid the AI boom
+---
+ID: TM-14
+Title: Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US
+---
+ID: TM-15
+Title: Anthropic donates $150M to launch Claude Corps, a fellowship program that will hire 1,000 fellows trained in the use of Claude and embed them at US nonprofits
+---
+ID: TM-16
+Title: Google's philanthropic arm, Google.org, commits $50M to help train 300K+ skilled trade workers across the US, amid a shortage of workers for AI projects
+---
+ID: TM-17
+Title: Nvidia and Abridge, maker of an AI note-taking app for doctors, are training an AI model for clinical conversations using de-identified data and Nemotron models
+---
+ID: TM-18
+Title: Apollo Global has built a risk assessment framework that categorizes software investments into 12 to 14 sectors to rank them by susceptibility to AI disruption
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-19
+Title: Sources: Anthropic signed 12+ initial agreements for direct data center leases, a first for the company, with Google potentially providing a financial guarantee
+---
+ID: TM-20
+Title: Amazon says its data centers used ~2.5B gallons of water in 2025, or 0.12 liters of water per kWh, and water use at sites it owns and operates fell 2% from 2024
+---
+ID: TM-21
+Title: Crusoe said it had “paused” a plan to build a Wyoming data center; sources: it failed to win customers including Google amid concerns about costs and timetable
+---
+ID: TM-22
+Title: KKR launches Helix Digital, a new company to finance AI infrastructure, with $10B+ in committed capital from Nvidia, the Kuwait Investment Authority, and others
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-23
+Title: Europol says it has dismantled the AudiA6 crypto mixing service, which allegedly laundered $380M+ for ransomware actors and others between 2022 and 2025
+---
+ID: TM-24
+Title: Coinbase launches an AI agent that can execute trades and pay for premium research; users can give it access to their main account or have it operate separately
+---
+ID: TM-25
+Title: Citigroup launches a blockchain-based platform for wealthy and institutional clients to trade tokenized shares of private firms, initially for foreign investors
+---
+ID: TM-26
+Title: Hungary says it will decriminalize crypto trading, in a reversal of PM Viktor Orban's restrictions, which prompted Revolut and others to suspend their services
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-27
+Title: The US House fails to extend FISA's Section 702, ensuring the warrantless surveillance program will expire for the first time since its 2008 enactment
+---
+ID: TM-28
+Title: The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents
+---
+ID: TM-29
+Title: South Korea fines US-listed Coupang ~$409M for its inadequate safety system and “negligent management” that led to a data breach affecting nearly 34M accounts
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-30
+Title: Product head Alex Benzer says Bluesky in 2026 plans to add “communities”, smaller spaces to “go deeper and hang out with people who care about the same stuff”
+---
+ID: TM-31
+Title: Analysis: Conservative and Reform UK MPs have increased their volume of posts on X since Elon Musk's takeover, while center-left politicians have reduced theirs
+---
+
+[CATEGORY: STREAMING]
+ID: TM-32
+Title: Polish lawmakers pass legislation imposing prison sentences of up to five years for “trash streaming” of violent crimes, gambling promotion, and more
+---
+ID: TM-33
+Title: Senator Maggie Hassan's report: Spotify removed 3,500 podcast accounts and 57,000 episodes promoting illegal online pharmacies between May and November 2025
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-34
+Title: Digital Asset, which builds Canton Network, a public blockchain with privacy features, raised $355M, including $100M from a16z crypto
+---
+ID: TM-35
+Title: Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date
+---
+ID: TM-36
+Title: Barcelona-based Theker, which is building AI-powered robots for industrial environments, raised $85M led by CRV, with Samsung, LVMH, and others participating
+---
+ID: TM-37
+Title: PhoenixAI, formerly CelerData, which is building what it calls an agentic AI-ready analytical database, raised an $80M Series B led by Sky9
+---
+ID: TM-38
+Title: Coram AI, which helps organizations use AI with their existing security equipment to find incidents, raised a $35M Series B, bringing its total funding to $66M
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-39
+Title: Sources: Google is in talks with Samsung to manufacture a memory input-output die for Icefish, its 10th-generation TPU, and TSMC will make the computing engine
+---
+ID: TM-40
+Title: Adobe reports Q2 revenue up 13% YoY to $6.62B, vs. $6.46B est., and raises its annual forecasts; CFO Dan Durn is leaving for Marvell; ADBE drops 5%+ after hours
+---
+ID: TM-41
+Title: US OPM awards a nearly $400M, 10-year IT contract to Oracle to build a secure, cloud-based, government-wide system for agencies to manage their HR capabilities
+---
+ID: TM-42
+Title: Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech
+---
+ID: TM-43
+Title: London's Met Police calls on tech companies to make stolen phones unusable and says it is sharing data with Apple to build a “global picture” of stolen devices
+---
+ID: TM-44
+Title: Sources: Alibaba replaced DingTalk CEO Chen Hang with Chen Yusen after an internal debate over the enterprise communication app's role in Alibaba's AI strategy
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Policy on the AI Exponential (28 minute read)
+Excerpt: AI advances rapidly, outpacing slow policy-making, leading to potential risks in cybersecurity and job displacement. Anthropic recommends a regulatory approach like the FAA for AI, mandatory testing, and stronger security standards to address these risks. Additional policy areas include adapting macroeconomics and tax systems for AI-driven growth, reforming regulations to enhance AI's biomedical impacts, and ensuring AI aligns with democratic values globally.
+---
+ID: TL-02
+Title: DiffusionGemma: 4x faster text generation (5 minute read)
+Excerpt: DiffusionGemma, a 26B Mixture of Experts model, uses text diffusion for faster text generation, offering up to 4x speed increase on GPUs by generating text blocks simultaneously. It targets speed-critical applications, providing advantages like low latency and bi-directional attention, and fits in high-end consumer GPUs when quantized. While it trades some quality for speed compared to standard models, it allows for efficient local inference and is optimized for NVIDIA hardware.
+---
+ID: TL-03
+Title: Moats Need Models (6 minute read)
+Excerpt: The model, harness, workflow, and evaluation loop are no longer separate stack pieces but co-design surfaces that compound together. Defensibility comes from owning the full feedback loop rather than renting frontier capability that can be restricted, repriced, or reclaimed on the supplier's terms.
+---
+ID: TL-04
+Title: Don't let the LLM speak, just probe it (8 minute read)
+Excerpt: Answers often already exist in LLMs' hidden state before they generate a single token. It's possible to skip generation entirely by grabbing the hidden state at the last prompt token, feeding it to a tiny multilayer perceptron, and calibrating the output. This results in a frozen model that acts as any classifier that can be written in English.
+---
+ID: TL-05
+Title: Measuring LLMs' impact on N-day exploits (18 minute read)
+Excerpt: N-days are vulnerabilities that have already been publicly disclosed, but only patched on some devices. They can be more dangerous than zero-day vulnerabilities as the patches provide a roadmap to the bugs. The process of reverse-engineering a vulnerability from a patch has historically been slow and specialized work, but AI can accelerate and automate the process. This means anyone in the patch gap today faces a much larger threat than before.
+---
+ID: TL-06
+Title: Fable-5 system prompt leak (27 minute read)
+Excerpt: The system prompt for Anthropic's Fable 5 model has been leaked. It comes to a total of around 120,000 characters. The entire leaked prompt is available in the thread.
+---
+ID: TL-07
+Title: Faster Code Review with Cursor's Bugbot (3 minute read)
+Excerpt: Cursor updated Bugbot to run over 3x faster, cost 22% less, and find 10% more bugs per review. Most runs now finished in under three minutes, shortening the review loop for developers.
+---
+ID: TL-08
+Title: Palantir's Karp says businesses are ‘unhappy' with the frontier AI labs (5 minute read)
+Excerpt: Palantir's CEO, Alex Karp, says the company's enterprise customers are unhappy with how frontier AI labs are operating. He claims these labs only care about burning through AI tokens to signal productivity. Accelerating costs are raising alarm among businesses and fueling efficiency concerns.
+---
+ID: TL-09
+Title: EU Orders Meta To Stop Blocking Rival AI Chatbots On WhatsApp (2 minute read)
+Excerpt: The EU has ordered Meta to open up WhatsApp to chatbots from rival companies for free. Meta banned third-party AI chatbots from the WhatsApp for Business API in October last year. The EU said Meta was abusing its dominant position in the European messaging app by preventing competing assistants from using the WhatsApp API. Meta plans to appeal the decision, saying the order is a regulatory overreach that would grant some of the world's largest companies access to the API without paying.
+---
+ID: TL-10
+Title: OpenAI weighs Nvidia-backed lease for 10 GW Ohio data center campus (4 minute read)
+Excerpt: OpenAI would control the computing equipment at the site, which is expected to begin operating in 2028, under a 20-year lease.
+---
+ID: TL-11
+Title: Codex for Black Hole Simulations (4 minute read)
+Excerpt: Astrophysicist Chi-kwan Chan used Codex to refine and test algorithms for simulating plasma and particle behavior around black holes.
+---
+ID: TL-12
+Title: Introducing Ramp Applied AI Solutions (4 minute read)
+Excerpt: Ramp Applied AI Solutions enables companies to deploy AI effectively by embedding engineers in finance teams to create custom solutions.
+---
+ID: TL-13
+Title: The evolution of agentic surfaces: building with Claude Managed Agents (13 minute read)
+Excerpt: Claude Managed Agents streamline building production-grade agents by offering composable APIs with integrated infrastructure.
+---
+ID: TL-14
+Title: TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)
+Excerpt: 500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in or invest in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!
+---

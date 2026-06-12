@@ -1,0 +1,590 @@
+{
+  "date": "2026-06-11",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 27,
+    "by_category": {
+      "cat:business": 14,
+      "cat:app": 4,
+      "cat:other": 3,
+      "cat:tech": 5,
+      "cat:model": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?st=1Yyrco",
+      "title": {
+        "zh": "消息称 OpenAI 计划大幅降低用户代币价格，预计 Anthropic 也将采取类似行动",
+        "en": "Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "anthropic",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-04",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai",
+      "title": {
+        "zh": "Jeff Bezos 的 Prometheus 完成 120 亿美元 B 轮融资，估值达 410 亿美元",
+        "en": "Jeff Bezos' Prometheus, which is building AI models for physical tasks, raised a $12B Series B at a $41B valuation, following a $6.2B Series A"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-09",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html",
+      "title": {
+        "zh": "DoorDash 推出应用内 AI 聊天机器人，可通过照片和提示完成订餐和预订",
+        "en": "DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents",
+      "title": {
+        "zh": "OpenAI 收购提供 AI 代理云服务的 Ona，计划将其团队整合到 Codex 项目中",
+        "en": "OpenAI acquires Ona, which offers cloud services to support AI agents, and plans to bring Ona's team into its Codex effort"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "codex",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
+      "title": {
+        "zh": "《工人日报》呼吁监管机构在 AI 热潮中保护工人权益并加强监管",
+        "en": "The Workers' Daily, the official mouthpiece of China's umbrella trade union, urges regulators to protect worker rights and strengthen oversight amid the AI boom"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
+      "title": {
+        "zh": "伦敦成为美国以外的关键 AI 人才中心，Anthropic 和 OpenAI 等公司宣布扩张计划",
+        "en": "Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "openai",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://apnews.com/article/anthropic-ai-claude-corps-daniela-amodei-b1c130a08417d13e1256f8982d233b0e",
+      "title": {
+        "zh": "Anthropic 捐赠 1.5 亿美元启动 Claude Corps 项目，为美国非营利组织培训和嵌入 1000 名研究员",
+        "en": "Anthropic donates $150M to launch Claude Corps, a fellowship program that will hire 1,000 fellows trained in the use of Claude and embed them at US nonprofits"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "claude",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/cio-journal/nvidia-is-developing-an-ai-healthcare-model-with-startup-abridge-6db38c1b",
+      "title": {
+        "zh": "Nvidia 与 Abridge 合作，使用匿名数据和 Nemotron 模型训练临床对话 AI 模型",
+        "en": "Nvidia and Abridge, maker of an AI note-taking app for doctors, are training an AI model for clinical conversations using de-identified data and Nemotron models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/apollo-is-screening-all-software-investments-for-ai-threat-risk",
+      "title": {
+        "zh": "Apollo Global 开发 AI 风险评估框架，将软件投资分为 12 至 14 个领域进行评估",
+        "en": "Apollo Global has built a risk assessment framework that categorizes software investments into 12 to 14 sectors to rank them by susceptibility to AI disruption"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/anthropic-pursues-first-data-center-leases-seeks-financial-backing-google",
+      "title": {
+        "zh": "消息称 Anthropic 签署 12 份以上数据中心直接租赁协议，Google 或提供财务担保",
+        "en": "Sources: Anthropic signed 12+ initial agreements for direct data center leases, a first for the company, with Google potentially providing a financial guarantee"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "google",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://nerds.xyz/2026/06/kkr-10-billion-ai-infrastructure-empire/",
+      "title": {
+        "zh": "KKR推出Helix Digital，获超100亿美元资金支持",
+        "en": "KKR launches Helix Digital, a new company to finance AI infrastructure, with $10B+ in committed capital from Nvidia, the Kuwait Investment Authority, and others"
+      },
+      "summary": {
+        "zh": "KKR推出Helix Digital，专注于为AI基础设施提供融资，资金来自Nvidia、科威特投资局等。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-24",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
+      "title": {
+        "zh": "Coinbase推出AI代理，可执行交易并支付高级研究费用",
+        "en": "Coinbase launches an AI agent that can execute trades and pay for premium research; users can give it access to their main account or have it operate separately"
+      },
+      "summary": {
+        "zh": "用户可选择让AI代理访问主账户或独立操作。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-34",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://news.bloomberglaw.com/business-and-practice/andreessen-horowitz-backs-blockchain-used-by-wall-street-giants",
+      "title": {
+        "zh": "Digital Asset融资3.55亿美元，a16z crypto投资1亿美元",
+        "en": "Digital Asset, which builds Canton Network, a public blockchain with privacy features, raised $355M, including $100M from a16z crypto"
+      },
+      "summary": {
+        "zh": "Digital Asset开发具有隐私功能的公共区块链Canton Network。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-35",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/06/11/genspark-extension-agentic-workplace",
+      "title": {
+        "zh": "Genspark完成1亿美元B轮融资，估值达26亿美元",
+        "en": "Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date"
+      },
+      "summary": {
+        "zh": "Genspark是一家专注于代理工作场所的初创公司，目前累计融资超过6.45亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://economictimes.indiatimes.com/tech/funding/ai-robotics-company-theker-raises-85-million-from-investors-including-lvmh/articleshow/131663059.cms",
+      "title": {
+        "zh": "Theker融资8500万美元，专注工业环境AI机器人",
+        "en": "Barcelona-based Theker, which is building AI-powered robots for industrial environments, raised $85M led by CRV, with Samsung, LVMH, and others participating"
+      },
+      "summary": {
+        "zh": "融资由CRV领投，三星、LVMH等参与。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-37",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/06/11/phoenixai-raises-80m-drive-development-agentic-ai-ready-database-technology/",
+      "title": {
+        "zh": "PhoenixAI完成8000万美元B轮融资，Sky9领投",
+        "en": "PhoenixAI, formerly CelerData, which is building what it calls an agentic AI-ready analytical database, raised an $80M Series B led by Sky9"
+      },
+      "summary": {
+        "zh": "PhoenixAI专注于构建支持代理AI的分析数据库。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-39",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/google-turns-samsung-future-ai-chip-capacity-tightens",
+      "title": {
+        "zh": "谷歌与三星合作生产Icefish TPU的内存输入输出芯片",
+        "en": "Sources: Google is in talks with Samsung to manufacture a memory input-output die for Icefish, its 10th-generation TPU, and TSMC will make the computing engine"
+      },
+      "summary": {
+        "zh": "谷歌第十代TPU的计算引擎将由台积电制造。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "samsung",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-41",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://federalnewsnetwork.com/contracting/2026/06/opm-awards-major-hr-it-modernization-contract-to-oracle/",
+      "title": {
+        "zh": "美国OPM授予Oracle近4亿美元合同开发云端HR系统",
+        "en": "US OPM awards a nearly $400M, 10-year IT contract to Oracle to build a secure, cloud-based, government-wide system for agencies to manage their HR capabilities"
+      },
+      "summary": {
+        "zh": "该合同为期10年，旨在为政府机构提供安全的人力资源管理系统。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "oracle",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential?utm_source=tldrai",
+      "title": {
+        "zh": "关于AI指数增长的政策建议",
+        "en": "Policy on the AI Exponential (28 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic建议采用类似FAA的监管方式，进行强制测试并加强安全标准，同时调整宏观经济和税收系统以适应AI驱动的增长。",
+        "en": "AI advances rapidly, outpacing slow policy-making, leading to potential risks in cybersecurity and job displacement. Anthropic recommends a regulatory approach like the FAA for AI, mandatory testing, and stronger security standards to address these risks. Additional policy areas include adapting macroeconomics and tax systems for AI-driven growth, reforming regulations to enhance AI's biomedical impacts, and ensuring AI aligns with democratic values globally."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/?utm_source=tldrai",
+      "title": {
+        "zh": "DiffusionGemma：4倍加速文本生成的26B模型",
+        "en": "DiffusionGemma: 4x faster text generation (5 minute read)"
+      },
+      "summary": {
+        "zh": "该模型通过文本扩散技术实现更快的文本生成，适合速度关键型应用，并针对NVIDIA硬件优化。",
+        "en": "DiffusionGemma, a 26B Mixture of Experts model, uses text diffusion for faster text generation, offering up to 4x speed increase on GPUs by generating text blocks simultaneously. It targets speed-critical applications, providing advantages like low latency and bi-directional attention, and fits in high-end consumer GPUs when quantized. While it trades some quality for speed compared to standard models, it allows for efficient local inference and is optimized for NVIDIA hardware."
+      },
+      "tags": [
+        "cat:model",
+        "nvidia",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://x.com/sahar__zadeh/status/2064759511253176398?utm_source=tldrai",
+      "title": {
+        "zh": "护城河需要模型：全面反馈循环的价值",
+        "en": "Moats Need Models (6 minute read)"
+      },
+      "summary": {
+        "zh": "文章探讨了模型、工具、工作流和评估循环的整合如何构建竞争壁垒，强调拥有完整反馈循环的重要性。",
+        "en": "The model, harness, workflow, and evaluation loop are no longer separate stack pieces but co-design surfaces that compound together. Defensibility comes from owning the full feedback loop rather than renting frontier capability that can be restricted, repriced, or reclaimed on the supplier's terms."
+      },
+      "tags": [
+        "cat:business",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/?utm_source=tldrai",
+      "title": {
+        "zh": "无需生成：直接探测LLM隐藏状态的新方法",
+        "en": "Don't let the LLM speak, just probe it (8 minute read)"
+      },
+      "summary": {
+        "zh": "研究表明，通过探测LLM的隐藏状态，可以跳过生成过程，直接实现分类任务。",
+        "en": "Answers often already exist in LLMs' hidden state before they generate a single token. It's possible to skip generation entirely by grabbing the hidden state at the last prompt token, feeding it to a tiny multilayer perceptron, and calibrating the output. This results in a frozen model that acts as any classifier that can be written in English."
+      },
+      "tags": [
+        "cat:tech",
+        "llama",
+        "fine-tuning"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://red.anthropic.com/2026/n-days/?utm_source=tldrai",
+      "title": {
+        "zh": "评估LLM对N日漏洞的影响",
+        "en": "Measuring LLMs' impact on N-day exploits (18 minute read)"
+      },
+      "summary": {
+        "zh": "AI技术加速了从补丁中逆向工程漏洞的过程，使得未及时更新补丁的设备面临更大威胁。",
+        "en": "N-days are vulnerabilities that have already been publicly disclosed, but only patched on some devices. They can be more dangerous than zero-day vulnerabilities as the patches provide a roadmap to the bugs. The process of reverse-engineering a vulnerability from a patch has historically been slow and specialized work, but AI can accelerate and automate the process. This means anyone in the patch gap today faces a much larger threat than before."
+      },
+      "tags": [
+        "cat:tech",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-07",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://cursor.com/blog/bugbot-updates-june-2026?utm_source=tldrai",
+      "title": {
+        "zh": "Cursor的Bugbot实现更快代码审查",
+        "en": "Faster Code Review with Cursor's Bugbot (3 minute read)"
+      },
+      "summary": {
+        "zh": "Bugbot更新后运行速度提升3倍，成本降低22%，每次审查发现的错误增加10%。",
+        "en": "Cursor updated Bugbot to run over 3x faster, cost 22% less, and find 10% more bugs per review. Most runs now finished in under three minutes, shortening the review loop for developers."
+      },
+      "tags": [
+        "cat:app",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html?utm_source=tldrai",
+      "title": {
+        "zh": "Palantir CEO称企业对前沿AI实验室感到不满",
+        "en": "Palantir's Karp says businesses are ‘unhappy' with the frontier AI labs (5 minute read)"
+      },
+      "summary": {
+        "zh": "Alex Karp表示，企业客户对前沿AI实验室的高成本和效率问题感到担忧。",
+        "en": "Palantir's CEO, Alex Karp, says the company's enterprise customers are unhappy with how frontier AI labs are operating. He claims these labs only care about burning through AI tokens to signal productivity. Accelerating costs are raising alarm among businesses and fueling efficiency concerns."
+      },
+      "tags": [
+        "cat:business",
+        "palantir",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-09",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.engadget.com/2191213/eu-orders-meta-to-stop-blocking-rival-ai-chatbots-on-whatsapp/?utm_source=tldrai",
+      "title": {
+        "zh": "欧盟要求Meta停止封锁竞争对手AI聊天机器人",
+        "en": "EU Orders Meta To Stop Blocking Rival AI Chatbots On WhatsApp (2 minute read)"
+      },
+      "summary": {
+        "zh": "欧盟命令Meta向竞争对手的聊天机器人免费开放WhatsApp API，Meta计划对此决定提出上诉。",
+        "en": "The EU has ordered Meta to open up WhatsApp to chatbots from rival companies for free. Meta banned third-party AI chatbots from the WhatsApp for Business API in October last year. The EU said Meta was abusing its dominant position in the European messaging app by preventing competing assistants from using the WhatsApp API. Meta plans to appeal the decision, saying the order is a regulatory overreach that would grant some of the world's largest companies access to the API without paying."
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-13",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://claude.com/blog/building-with-claude-managed-agents?utm_source=tldrai",
+      "title": {
+        "zh": "Claude托管代理的演进：构建生产级代理",
+        "en": "The evolution of agentic surfaces: building with Claude Managed Agents (13 minute read)"
+      },
+      "summary": {
+        "zh": "Claude托管代理通过可组合API和集成基础设施简化了生产级代理的构建。",
+        "en": "Claude Managed Agents streamline building production-grade agents by offering composable APIs with integrated infrastructure."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

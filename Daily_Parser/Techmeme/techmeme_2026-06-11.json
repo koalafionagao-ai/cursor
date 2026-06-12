@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-11",
+  "sections": {
+    "top news": [
+      {
+        "title": "SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo",
+        "tweets": [
+          {
+            "author": "@danprimack",
+            "text": "Gonna read a lot about VC “returns” from the SpaceX IPO. Reminder that no VC is selling shares into the IPO, and can't sell for a while. So these are still paper gains, not actual cash for distribution-starved LPs in their funds.",
+            "url": "https://x.com/danprimack/status/2065203621294162049"
+          },
+          {
+            "author": "@eastdakota",
+            "text": "Anyone remember what $NET's IPO “pop” was? I like @matt_levine calling it “perfect” — to the penny. You have a lot more control of what happens when you price an IPO than it may seem. If @elonmusk turns out to have called it even close to perfect two weeks in advance... 🤯 [image]",
+            "url": "https://x.com/eastdakota/status/2065185033560682904"
+          },
+          {
+            "author": "@andrewcurran_",
+            "text": "SpaceX has excluded investors from China and Hong Kong from participating in its IPO, according to the NYT. The article also reports that OpenAI is likely to impose the same restrictions when it goes public. Given past statements from Anthropic, they may also do the same. [image]",
+            "url": "https://x.com/andrewcurran_/status/2065184972999442826"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: SpaceX's IPO has attracted over $100B in orders from retail investors, who are expected to be allocated at least 20% of the available shares",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-11/spacex-ipo-said-to-draw-more-than-70-billion-in-retail-orders"
+          },
+          {
+            "title": "Sources: BlackRock put in an order to buy at least $5B worth of SpaceX shares; SpaceX received an over $1B request from a single family-office investor",
+            "url": "https://www.wsj.com/business/spacex-ipo-draws-at-least-5-billion-order-from-blackrock-12fcd29f?st=5JFYBr&reflink=desktopwebshare_permalink"
+          },
+          {
+            "title": "Sources: Founders Fund's ~3% stake in SpaceX is now worth $50B+, after investing $600M; a16z will get the biggest return in its history, with a $10B+ stake",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo"
+          },
+          {
+            "title": "Some investors question SpaceX's projected $1.77T valuation, citing its $4.3B loss on $4.7B in revenue in Q1, concerns over space data centers, and more",
+            "url": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html"
+          },
+          {
+            "title": "Elon Musk is busy stoking far-right culture wars across the West on the eve of SpaceX's IPO, with an impunity unmatched in modern corporate history",
+            "url": "https://www.axios.com/2026/06/11/elon-musk-spacex-belfast-riots-incitement"
+          }
+        ]
+      },
+      {
+        "title": "Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?st=1Yyrco",
+        "tweets": [
+          {
+            "author": "@mweinbach",
+            "text": "If OpenAI does drop token pricing, this is likely because they've heard from customers they can't adopt AI at volume at the current pricing. Margin is high now for served tokens. They could cut prices by like 60% and still be profitable imo",
+            "url": "https://x.com/mweinbach/status/2065068157165797700"
+          },
+          {
+            "author": "@antoniogm",
+            "text": "This means one thing: ads.",
+            "url": "https://x.com/antoniogm/status/2065140024568639903"
+          },
+          {
+            "author": "@edzitron",
+            "text": "Both OpenAI and Anthropic are considering price cuts. Neither of these companies but ESPECIALLY OpenAI can under any circumstances afford this pay cut. This is fundamentally insane. A sign of desperation that will erode revenue while costs stay linear.  [image]",
+            "url": "https://x.com/edzitron/status/2064901950735573050"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying “requests will visibly fall back to Opus 4.8”, after backlash",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+        "tweets": [
+          {
+            "author": "@claudedevs",
+            "text": "We're rolling out changes to make Fable 5's safeguards for frontier LLM development visible.  Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and bio.  You will see this every time it happens.  On the API, any flagged requests will return a reason for their refusal (coming to server-side fallback in the next few days).",
+            "url": "https://x.com/claudedevs/status/2064949876463645026"
+          },
+          {
+            "author": "@zeffmax",
+            "text": "“We're changing Fable 5's safeguards for frontier LLM development to make them visible,” Anthropic tells WIRED.  “We made the wrong tradeoff and we apologize for not getting the balance right.”",
+            "url": "https://x.com/zeffmax/status/2064910040503627917"
+          },
+          {
+            "author": "@deanwball",
+            "text": "This resolves the central concern I had with the Fable release, which was the silent degradation.  I am glad to see Anthropic make the right call here.  That said, I suspect the residual broken trust and resentment this has created will linger and will have a blast radius wider than Anthropic (the next time I advocate for any policy justified by AI risk concerns, I almost guarantee you this incident will be used in rebuttal).",
+            "url": "https://x.com/deanwball/status/2065021321935765608"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Jeff Bezos' Prometheus, which is building AI models for physical tasks, raised a $12B Series B at a $41B valuation, following a $6.2B Series A",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: Xbox CEO Asha Sharma and CCO Matt Booty warn of an “Xbox reset” over the next 100 days, citing annual revenue down nearly $500M over the past five years",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Meta has completed an operational split with Manus and stopped data sharing; Manus is exploring options, including raising ~$1B to fund a buyback",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/meta-severs-manus-data-access-after-china-orders-buyout-unwound",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A teardown reveals the Trump Mobile T1 is a gold-painted HTC U24 Pro but features some changes, including memory from Micron instead of SK Hynix",
+        "excerpt": "",
+        "url": "https://www.ifixit.com/News/117789/teardown-confirms-the-trump-phone-is-a-gold-painted-htc-u24-pro",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Waymo launches Waymo Premier, a $30-per-month membership program offering perks like skipping the line, 10% cashback, and five free ride cancellations per month",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI acquires Ona, which offers cloud services to support AI agents, and plans to bring Ona's team into its Codex effort",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-to-acquire-cloud-platform-ona-to-support-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Deezer launches an AI music detection tool for users of 20 services, including Spotify and Apple Music, after no company licensed its AI detection tech",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Former a16z GP John O'Farrell criticizes the AI industry and his ex-partners for spending hundreds of millions to fight regulation, calling it “a huge mistake”",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html?unlocked_article_code=1.pVA.chnG.rXJUC1QSVd67&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Workers' Daily, the official mouthpiece of China's umbrella trade union, urges regulators to protect worker rights and strengthen oversight amid the AI boom",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/11/anthropic-openai-london-expansions-big-tech.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic donates $150M to launch Claude Corps, a fellowship program that will hire 1,000 fellows trained in the use of Claude and embed them at US nonprofits",
+        "excerpt": "",
+        "url": "https://apnews.com/article/anthropic-ai-claude-corps-daniela-amodei-b1c130a08417d13e1256f8982d233b0e",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google's philanthropic arm, Google.org, commits $50M to help train 300K+ skilled trade workers across the US, amid a shortage of workers for AI projects",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/11/google-trade-worker-initiative-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia and Abridge, maker of an AI note-taking app for doctors, are training an AI model for clinical conversations using de-identified data and Nemotron models",
+        "excerpt": "",
+        "url": "https://www.wsj.com/cio-journal/nvidia-is-developing-an-ai-healthcare-model-with-startup-abridge-6db38c1b",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apollo Global has built a risk assessment framework that categorizes software investments into 12 to 14 sectors to rank them by susceptibility to AI disruption",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/apollo-is-screening-all-software-investments-for-ai-threat-risk",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Sources: Anthropic signed 12+ initial agreements for direct data center leases, a first for the company, with Google potentially providing a financial guarantee",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/anthropic-pursues-first-data-center-leases-seeks-financial-backing-google",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon says its data centers used ~2.5B gallons of water in 2025, or 0.12 liters of water per kWh, and water use at sites it owns and operates fell 2% from 2024",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/amazon-says-its-data-centers-used-2-5-billion-gallons-of-water-in-2025-019e76f9?st=zjz6PE&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Crusoe said it had “paused” a plan to build a Wyoming data center; sources: it failed to win customers including Google amid concerns about costs and timetable",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/crusoe-pushed-aside-at-wyoming-ai-project-after-google-concerns",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "KKR launches Helix Digital, a new company to finance AI infrastructure, with $10B+ in committed capital from Nvidia, the Kuwait Investment Authority, and others",
+        "excerpt": "",
+        "url": "https://nerds.xyz/2026/06/kkr-10-billion-ai-infrastructure-empire/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Europol says it has dismantled the AudiA6 crypto mixing service, which allegedly laundered $380M+ for ransomware actors and others between 2022 and 2025",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Coinbase launches an AI agent that can execute trades and pay for premium research; users can give it access to their main account or have it operate separately",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Citigroup launches a blockchain-based platform for wealthy and institutional clients to trade tokenized shares of private firms, initially for foreign investors",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/banking/citigroup-is-rolling-out-tokenized-shares-of-private-companies-64cd19ba",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hungary says it will decriminalize crypto trading, in a reversal of PM Viktor Orban's restrictions, which prompted Revolut and others to suspend their services",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/hungary-to-decriminalize-crypto-trading-in-reversal-from-orban",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "The US House fails to extend FISA's Section 702, ensuring the warrantless surveillance program will expire for the first time since its 2008 enactment",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/06/11/spy-law-on-track-to-lapse-after-house-rejects-extension-00958420",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/us-seizes-13-website-domains-tied-alleged-chinese-intelligence-collection-2026-06-10/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "South Korea fines US-listed Coupang ~$409M for its inadequate safety system and “negligent management” that led to a data breach affecting nearly 34M accounts",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/south-korea-fines-coupang-409-million-for-large-scale-data-leak",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Product head Alex Benzer says Bluesky in 2026 plans to add “communities”, smaller spaces to “go deeper and hang out with people who care about the same stuff”",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ3UXp6Tmp0TFoiLCJwIjoiL3RlY2gvOTQ4MjE1L2JsdWVza3ktY29tbXVuaXRpZXMtYXQtcHJvdG9jb2wtYXRtb3NwaGVyZS1yZWRkaXQiLCJleHAiOjE3ODE2MjQ1ODMsImlhdCI6MTc4MTE5MjU4M30.9fra4JxokvKbWESWZW-8Go9nVCmXEokUPKYfcL5ul2I&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Conservative and Reform UK MPs have increased their volume of posts on X since Elon Musk's takeover, while center-left politicians have reduced theirs",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/43f44d4a-09c6-4452-a37c-b1c2955143d0",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "streaming": [
+      {
+        "title": "Polish lawmakers pass legislation imposing prison sentences of up to five years for “trash streaming” of violent crimes, gambling promotion, and more",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/poland-jail-online-streamers-violent-crime-rape-cruelty-up-5-years-2026-06-11/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Senator Maggie Hassan's report: Spotify removed 3,500 podcast accounts and 57,000 episodes promoting illegal online pharmacies between May and November 2025",
+        "excerpt": "",
+        "url": "http://www.cnn.com/2026/06/11/tech/spotify-drug-sales-podcasts-investigation-findings",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Digital Asset, which builds Canton Network, a public blockchain with privacy features, raised $355M, including $100M from a16z crypto",
+        "excerpt": "",
+        "url": "https://news.bloomberglaw.com/business-and-practice/andreessen-horowitz-backs-blockchain-used-by-wall-street-giants",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Agentic workplace startup Genspark raised a $100M Series B extension at a $2.6B post-money valuation, up 63% in just three months; it has raised $645M+ to date",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/06/11/genspark-extension-agentic-workplace",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Barcelona-based Theker, which is building AI-powered robots for industrial environments, raised $85M led by CRV, with Samsung, LVMH, and others participating",
+        "excerpt": "",
+        "url": "https://economictimes.indiatimes.com/tech/funding/ai-robotics-company-theker-raises-85-million-from-investors-including-lvmh/articleshow/131663059.cms",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "PhoenixAI, formerly CelerData, which is building what it calls an agentic AI-ready analytical database, raised an $80M Series B led by Sky9",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/11/phoenixai-raises-80m-drive-development-agentic-ai-ready-database-technology/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Coram AI, which helps organizations use AI with their existing security equipment to find incidents, raised a $35M Series B, bringing its total funding to $66M",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/coram-turn-security-cameras-into-ai-detectives-2026-6",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Google is in talks with Samsung to manufacture a memory input-output die for Icefish, its 10th-generation TPU, and TSMC will make the computing engine",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/google-turns-samsung-future-ai-chip-capacity-tightens",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Adobe reports Q2 revenue up 13% YoY to $6.62B, vs. $6.46B est., and raises its annual forecasts; CFO Dan Durn is leaving for Marvell; ADBE drops 5%+ after hours",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/adobe-raises-annual-revenue-forecast-cfo-exit-2026-06-11/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US OPM awards a nearly $400M, 10-year IT contract to Oracle to build a secure, cloud-based, government-wide system for agencies to manage their HR capabilities",
+        "excerpt": "",
+        "url": "https://federalnewsnetwork.com/contracting/2026/06/opm-awards-major-hr-it-modernization-contract-to-oracle/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech",
+        "excerpt": "",
+        "url": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London's Met Police calls on tech companies to make stolen phones unusable and says it is sharing data with Apple to build a “global picture” of stolen devices",
+        "excerpt": "",
+        "url": "https://www.bbc.com/news/articles/ckg4dey905yo",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Alibaba replaced DingTalk CEO Chen Hang with Chen Yusen after an internal debate over the enterprise communication app's role in Alibaba's AI strategy",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-11/alibaba-s-dingtalk-chief-departs-after-debate-about-ai-focus",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 44
+  }
+}
