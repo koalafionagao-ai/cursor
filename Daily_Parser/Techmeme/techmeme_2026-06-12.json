@@ -1,0 +1,321 @@
+{
+  "date": "2026-06-12",
+  "sections": {
+    "top news": [
+      {
+        "title": "SpaceX closes up 19% at $160.95 in its debut, with a ~$2.1T market value, after opening at $150, up 11% from its IPO price; Musk becomes the first trillionaire",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+        "tweets": [
+          {
+            "author": "@elonmusk",
+            "text": "I love the incredible people of SpaceX beyond words",
+            "url": "https://x.com/elonmusk/status/2065485963120328945"
+          },
+          {
+            "author": "@laurenshirsch",
+            "text": "One thing people on Wall Street are telling me today is they are surprised, and in some cases relieved, at how unexpectedly boring it is. The largest I.P.O. in history, in a volatile industry, with a mercurial founder, has largely gone off without a hitch.",
+            "url": "https://x.com/laurenshirsch/status/2065512111887786479"
+          },
+          {
+            "author": "@borisjohnson",
+            "text": "Elon Musk is the supreme example of the ego-driven lust to excel that is the engine of capitalism. That's why SpaceX could be such a boon to the human race",
+            "url": "https://x.com/borisjohnson/status/2065513858542743788"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: SpaceX decided to rent its Colossus 1 data center to Anthropic after internal teams struggled to use it for Grok development due to latency issues",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTI5MzMxMiwiZXhwIjoxNzgxODk4MTEyLCJhcnRpY2xlSWQiOiJUR0hDQUVLSkg2VjQwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.hmxren-lEsGAYpgVL_V-ay2nORytdTstMAe7m6bkfTI"
+          },
+          {
+            "title": "SpaceX's trading debut is a test of the “Musk premium”, the force behind Tesla's $1T+ valuation, and a gauge of investor appetite ahead of upcoming AI-tied IPOs",
+            "url": "https://www.reuters.com/legal/transactional/after-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12/"
+          }
+        ]
+      },
+      {
+        "title": "Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini to create fake websites and scam hundreds of thousands of Americans",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html",
+        "tweets": [
+          {
+            "author": "@racheltobac",
+            "text": "Cool to see Google partnering with the telcos to take down these scammers too. Some more facts on the AI-powered scams: - losses in the $Millions - 100,000 Americans scammed - 9,000 fake websites - 55,000 spam texts flagged by Android in 2 weeks, 2.5M phishing texts spotted",
+            "url": "https://x.com/racheltobac/status/2065546456929300535"
+          },
+          {
+            "author": "@newsfromgoogle",
+            "text": "◾Our suit targets core software developers in a cybercrime operation known as the “Outside Enterprise.”  The group has allegedly weaponized AI to quickly generate highly convincing fake government and brand websites intended to steal victims' credit card numbers and personal information.  ◾The group used AI and different Google products — including our trademarks and logos — as part of these phishing campaigns.",
+            "url": "https://x.com/newsfromgoogle/status/2065522455205343475"
+          },
+          {
+            "author": "@fbicyberdiv",
+            "text": "Through a joint takedown, the FBI and partners: seized several domains of main admin servers, as well as a Shopify e-commerce storefront and account used to test the phishing service; approximately $100K USDT from Outsider payment wallets; thousands of phishing domains from U.S. providers, rerouting them to an FBI splash page; and leveraged an Outsider Telegram bot to obtain information on Outsider customers.",
+            "url": "https://x.com/fbicyberdiv/status/2065449296128844228"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/government/sam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12/",
+        "tweets": [
+          {
+            "author": "@cryptoparadyme",
+            "text": "This is the appeal he's been working on. If my understanding is correct his only way out now is a pardon. The feds don't do multiple appeals. SBF is ironically in the exact position Ross was, but no one wants him out. Good luck 🤣",
+            "url": "https://x.com/cryptoparadyme/status/2065443204317790411"
+          },
+          {
+            "author": "@jebus",
+            "text": "Once again, if you ever thought there was even a mild chance Trump would pardon SBF you don't have a good read on how this administration works at all and should leave politics to other ppl",
+            "url": "https://x.com/jebus/status/2065439818734346679"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed it breached 100+ organizations that use PeopleSoft; Oracle hasn't issued a patch",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Microsoft considered spinning out or restructuring its Xbox unit as a wholly-owned subsidiary, or creating a joint venture with other partners",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/microsoft-considered-spinning-xbox-plans-new-halo-fallout-games",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Q&A with Xbox Chief Strategy Officer Matthew Ball about returning to console-exclusive releases, how using in-game ads could offset development costs, and more",
+            "url": "https://www.thegamebusiness.com/p/the-big-matthew-ball-interview-the"
+          }
+        ]
+      },
+      {
+        "title": "The US DOJ approves Paramount's $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/06/12/paramount-acquisition-warner-bros-approved-00960300",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B; ROKU jumps 20%+ after hours",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/roku-said-to-be-in-sale-talks-including-possible-media-tie-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTI5MjAyOSwiZXhwIjoxNzgxODk2ODI5LCJhcnRpY2xlSWQiOiJURUJWMjFUOTZPU00wMCIsImJjb25uZWN0SWQiOiJFMEJDNkI3QkI3NDI0OTEwQkE2NTdFRUM2QUNEMzFEMyJ9.Lqb84JcPkpVe9ZcC7aqiNcfjg17DMc8nj_ZZlHJVYr0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Anthropic is blindsiding its business partners by launching potentially competitive products with little warning, changing its pricing model, lying, and more",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/anthropic-blindsides-business-partners",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively",
+        "excerpt": "",
+        "url": "https://x.com/semianalysis_/status/2064815044085318040",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Companies with rising AI costs are increasingly using tools that tap cheaper models, including some from China, putting pricing pressure on OpenAI and Anthropic",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/openai-investigated-by-coalition-of-state-attorneys-general-088a3928?st=MTfREr&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Thibault Sottiaux, OpenAI's head of core products, who oversees efforts to combine ChatGPT and Codex into a super app and worked at Google DeepMind",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/tokenminimizing-meta-moves-curb-employee-ai-usage-ai-costs-reach-billions",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, “soul-crushing” work, more",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "KPMG retracts a report on AI's benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks",
+        "excerpt": "",
+        "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "ai processors": [
+      {
+        "title": "Sources: six months after acquiring Rivos, Meta is struggling to integrate the chip startup and halted development of a chip for training its largest AI models",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/meta-bought-rivos-accelerate-ai-chip-push-working",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Nvidia has told Chinese clients that its new Vera CPUs for AI data centers could be available as soon as August and that they can begin placing orders",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/nvidia-begins-vera-cpu-sales-pitch-chinese-clients-sources-say-2026-06-12/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Memory chipmaker Kioxia replaces Toyota as Japan's largest company by market value; Kioxia's shares surged 7.6% on Friday, lifting its market cap above ~$274B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/kioxia-becomes-japan-s-most-valuable-firm-as-ai-mania-goes-on",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Infineon plans to open a €5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform",
+        "excerpt": "",
+        "url": "https://betakit.com/nesto-secures-nearly-1-5-billion-valuation-in-new-series-e-round/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license",
+        "excerpt": "",
+        "url": "https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New York City-based Current, which manages a consumer fintech platform, raised an $80M Series E at a $1.5B valuation led by Springcoast Partners",
+        "excerpt": "",
+        "url": "https://www.finsmes.com/2026/06/current-raises-80m-in-series-e-funding.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems",
+        "excerpt": "",
+        "url": "https://www.vanityfair.com/story/doge-defense-startups",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the startup was last valued at ~$1.5B in April 2026",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "How Chinese manufacturers are dominating the humanoid robot supply chain in pace and price, even as the industry struggles to find a purpose for such robots",
+            "url": "https://www.nytimes.com/2026/06/11/business/china-robots-humanoid.html?unlocked_article_code=1.pVA.02VR.HGFQn7T5p-wq&smid=nytcore-ios-share"
+          }
+        ]
+      },
+      {
+        "title": "MrBeast hits 500M subscribers on YouTube, becoming the first creator to reach the milestone, after crossing 100M subscribers in 2022",
+        "excerpt": "",
+        "url": "https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Niantic Spatial says Pokémon Go data is “not part of” its deal with spatial AI company Vantor, after concerns that game data could be used for military drones",
+        "excerpt": "",
+        "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "FanDuel owner Flutter plans to delist its LSE stock on August 3, citing low trading and high costs; Flutter moved its primary listing to the NYSE in 2024",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/business/2026/jun/12/paddy-power-flutter-entertainment-delist-london-stock-exchange",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Zelle owner EWS says it plans to expand the payment service later in 2026 to India, its first international market, and create its own USD-backed stablecoin",
+        "excerpt": "",
+        "url": "https://apnews.com/article/zelle-india-payments-banking-7b6299bcd9926f6d0a2533da5591d2a8",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with Grindr CEO George Arison on turning the dating app into a “global gayborhood” hub with services for HIV treatment, hotel bookings, and more",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-11/grindr-ceo-george-arison-wants-the-dating-app-to-become-a-gay-culture-hub",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta's services, including Facebook and Instagram, are recovering after a brief outage that affected thousands of users",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/metas-social-networks-down-thousands-users-2026-06-12/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 6,
+    "news_count": 34
+  }
+}

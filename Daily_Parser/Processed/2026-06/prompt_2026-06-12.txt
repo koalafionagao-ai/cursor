@@ -1,0 +1,213 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: SpaceX closes up 19% at $160.95 in its debut, with a ~$2.1T market value, after opening at $150, up 11% from its IPO price; Musk becomes the first trillionaire
+Tweets:
+  - Author: @elonmusk
+    Text: I love the incredible people of SpaceX beyond words
+    Link ID: TM-01-TW-01
+  - Author: @laurenshirsch
+    Text: One thing people on Wall Street are telling me today is they are surprised, and in some cases relieved, at how unexpectedly boring it is. The largest I.P.O. in history, in a volatile industry, with a mercurial founder, has largely gone off without a hitch.
+    Link ID: TM-01-TW-02
+  - Author: @borisjohnson
+    Text: Elon Musk is the supreme example of the ego-driven lust to excel that is the engine of capitalism. That's why SpaceX could be such a boon to the human race
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: SpaceX decided to rent its Colossus 1 data center to Anthropic after internal teams struggled to use it for Grok development due to latency issues
+    Link ID: TM-01-SUB-01
+  - Title: SpaceX's trading debut is a test of the “Musk premium”, the force behind Tesla's $1T+ valuation, and a gauge of investor appetite ahead of upcoming AI-tied IPOs
+    Link ID: TM-01-SUB-02
+---
+ID: TM-02
+Title: Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini to create fake websites and scam hundreds of thousands of Americans
+Tweets:
+  - Author: @racheltobac
+    Text: Cool to see Google partnering with the telcos to take down these scammers too. Some more facts on the AI-powered scams: - losses in the $Millions - 100,000 Americans scammed - 9,000 fake websites - 55,000 spam texts flagged by Android in 2 weeks, 2.5M phishing texts spotted
+    Link ID: TM-02-TW-01
+  - Author: @newsfromgoogle
+    Text: ◾Our suit targets core software developers in a cybercrime operation known as the “Outside Enterprise.”  The group has allegedly weaponized AI to quickly generate highly convincing fake government and brand websites intended to steal victims' credit card numbers and personal information.  ◾The group used AI and different Google products — including our trademarks and logos — as part of these phishing campaigns.
+    Link ID: TM-02-TW-02
+  - Author: @fbicyberdiv
+    Text: Through a joint takedown, the FBI and partners: seized several domains of main admin servers, as well as a Shopify e-commerce storefront and account used to test the phishing service; approximately $100K USDT from Outsider payment wallets; thousands of phishing domains from U.S. providers, rerouting them to an FBI splash page; and leveraged an Outsider Telegram bot to obtain information on Outsider customers.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX
+Tweets:
+  - Author: @cryptoparadyme
+    Text: This is the appeal he's been working on. If my understanding is correct his only way out now is a pardon. The feds don't do multiple appeals. SBF is ironically in the exact position Ross was, but no one wants him out. Good luck 🤣
+    Link ID: TM-03-TW-01
+  - Author: @jebus
+    Text: Once again, if you ever thought there was even a mild chance Trump would pardon SBF you don't have a good read on how this administration works at all and should leave politics to other ppl
+    Link ID: TM-03-TW-02
+---
+ID: TM-04
+Title: Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed it breached 100+ organizations that use PeopleSoft; Oracle hasn't issued a patch
+---
+ID: TM-05
+Title: Sources: Microsoft considered spinning out or restructuring its Xbox unit as a wholly-owned subsidiary, or creating a joint venture with other partners
+Sub Items:
+  - Title: Q&A with Xbox Chief Strategy Officer Matthew Ball about returning to console-exclusive releases, how using in-game ads could offset development costs, and more
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: The US DOJ approves Paramount's $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move
+---
+ID: TM-07
+Title: Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B; ROKU jumps 20%+ after hours
+---
+ID: TM-08
+Title: Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025
+---
+ID: TM-09
+Title: Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: Anthropic is blindsiding its business partners by launching potentially competitive products with little warning, changing its pricing model, lying, and more
+---
+ID: TM-11
+Title: Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively
+---
+ID: TM-12
+Title: Companies with rising AI costs are increasingly using tools that tap cheaper models, including some from China, putting pricing pressure on OpenAI and Anthropic
+---
+ID: TM-13
+Title: Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users
+---
+ID: TM-14
+Title: A profile of Thibault Sottiaux, OpenAI's head of core products, who oversees efforts to combine ChatGPT and Codex into a super app and worked at Google DeepMind
+---
+ID: TM-15
+Title: Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026
+---
+ID: TM-16
+Title: Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, “soul-crushing” work, more
+---
+ID: TM-17
+Title: KPMG retracts a report on AI's benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations
+---
+ID: TM-18
+Title: Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks
+---
+
+[CATEGORY: AI PROCESSORS]
+ID: TM-19
+Title: Sources: six months after acquiring Rivos, Meta is struggling to integrate the chip startup and halted development of a chip for training its largest AI models
+---
+ID: TM-20
+Title: Sources: Nvidia has told Chinese clients that its new Vera CPUs for AI data centers could be available as soon as August and that they can begin placing orders
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-21
+Title: Memory chipmaker Kioxia replaces Toyota as Japan's largest company by market value; Kioxia's shares surged 7.6% on Friday, lifting its market cap above ~$274B
+---
+ID: TM-22
+Title: Infineon plans to open a €5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-23
+Title: Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform
+---
+ID: TM-24
+Title: Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license
+---
+ID: TM-25
+Title: New York City-based Current, which manages a consumer fintech platform, raised an $80M Series E at a $1.5B valuation led by Springcoast Partners
+---
+ID: TM-26
+Title: Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems
+---
+ID: TM-27
+Title: Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-28
+Title: Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the startup was last valued at ~$1.5B in April 2026
+Sub Items:
+  - Title: How Chinese manufacturers are dominating the humanoid robot supply chain in pace and price, even as the industry struggles to find a purpose for such robots
+    Link ID: TM-28-SUB-01
+---
+ID: TM-29
+Title: MrBeast hits 500M subscribers on YouTube, becoming the first creator to reach the milestone, after crossing 100M subscribers in 2022
+---
+ID: TM-30
+Title: Niantic Spatial says Pokémon Go data is “not part of” its deal with spatial AI company Vantor, after concerns that game data could be used for military drones
+---
+ID: TM-31
+Title: FanDuel owner Flutter plans to delist its LSE stock on August 3, citing low trading and high costs; Flutter moved its primary listing to the NYSE in 2024
+---
+ID: TM-32
+Title: Zelle owner EWS says it plans to expand the payment service later in 2026 to India, its first international market, and create its own USD-backed stablecoin
+---
+ID: TM-33
+Title: An interview with Grindr CEO George Arison on turning the dating app into a “global gayborhood” hub with services for HIV treatment, hotel bookings, and more
+---
+ID: TM-34
+Title: Meta's services, including Facebook and Instagram, are recovering after a brief outage that affected thousands of users
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: OpenAI Acquired Ona for Long-Running Agents (1 minute read)
+Excerpt: OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform. The technology is intended to support persistent, customer-controlled environments where agents can continue working across extended periods and sessions.
+---
+ID: TL-02
+Title: Anthropic backtracks on policy that 'sabotaged' researchers' work (2 minute read)
+Excerpt: Anthropic has decided to make its safeguards for frontier LLM development visible after backlash from researchers. The company had previously discreetly rerouted requests to a lesser model when asked to perform certain actions. Researchers found that Claude Fable 5 was either refusing or degrading responses for tasks like training competing models, debugging AI code, and optimizing neural architecture. This raised concerns about Anthropic's lack of transparency and also that tokens and money had been spent on a model that didn't do what was expected.
+---
+ID: TL-03
+Title: Can Compute Commoditize if it's Not Fungible? (5 minute read)
+Excerpt: CoreWeave's co-founder, Brannin McBee, recently claimed that compute isn't fungible the way a commodity has to be. He has a real argument, but the non-commodity framing is the keystone of his company's value. While he appears to be saying that there is no market, he's actually pricing the market and revealing where the spread still hides.
+---
+ID: TL-04
+Title: Finding Optimal Tokenizers (15 minute read)
+Excerpt: Frontier AI models are typically trained on sequences of integers known as tokens. Each token refers to some sequence of bytes, and these byte sequences often correspond to common words. This post presents an algorithm that can compute an optimal tokenizer in some settings.
+---
+ID: TL-05
+Title: Making a vintage LLM from scratch (50 minute read)
+Excerpt: This post shares how a developer created their own LLM from scratch. It covers how they create their own base-training and fine-tuning scripts, data processing pipelines, and custom dataset. The total cost of the project was around $80, but they had a decent PC to process the data. The model and code are available in the post.
+---
+ID: TL-06
+Title: Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks (14 minute read)
+Excerpt: MiMo Code V0.1.0 is an open source terminal-native AI coding assistant from Xiaomi. It outperforms Claude Code on key agentic coding benchmarks, particularly on long-horizon, multi-step tasks. MiMo Code features a cross-session memory system that uses an independent subagent to take notes of decisions, issues, and the scope of the project as it progresses. The model is available on GitHub under an MIT license.
+---
+ID: TL-07
+Title: Predictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train (11 minute read)
+Excerpt: Predictive data debugging identifies potential model behaviors before training by analyzing preference datasets. This technique, integrated into the Silico platform, allows engineers to reshape datasets or training processes to prevent undesired effects, improving both performance and safety. Case studies reveal common issues like compromised safety guardrails, hallucinated links, and context-specific sycophancy, allowing targeted interventions to fix these problems before deployment.
+---
+ID: TL-08
+Title: Optimizing PyTorch with Fused MLPs (29 minute read)
+Excerpt: This deep dive explores how PyTorch executes and optimizes neural network layers, progressing from individual linear operations to a fused multilayer perceptron.
+---
+ID: TL-09
+Title: TLDR is hiring a Senior PMM ($180k-$225k base + ~25% annual bonus, Fully Remote)
+Excerpt: We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.
+---
+ID: TL-10
+Title: Oracle shares tumble 11% on increased capital raise, cash concerns (3 minute read)
+Excerpt: Oracle has told investors to expect an additional $20 billion capital raise. It also reported negative free cash flow for the year. Oracle saw an increase in revenue for the fiscal fourth quarter, but its AI buildout has caused capital expenditures to jump 162% to $55.7 billion. Investors are concerned about whether the company's massive amount of spending will result in profit growth.
+---
+ID: TL-11
+Title: Mythos-class models will diffuse throughout the world by 2029 (7 minute read)
+Excerpt: Model performance has only improved over time. There's currently no reason it shouldn't continue to improve in the future. Open weight models are only a few months behind frontier models on benchmarks. If current trends continue, it is likely that a Claude Fable 5-level open model that can run on a device with 16 GB of RAM will be possible by early 2029.
+---
+ID: TL-12
+Title: SkillSpector (GitHub Repo)
+Excerpt: SkillSpector, developed by NVIDIA, scans AI agent skills for security vulnerabilities before installation.
+---
+ID: TL-13
+Title: What's the better business model for an AI lab, subscription or API? (2 minute read)
+Excerpt: The gross margins on subscriptions are way worse than API overall, so labs will likely start withholding new features or models from subscription plans.
+---
+ID: TL-14
+Title: First Steps Toward Automated AI Research (12 minute read)
+Excerpt: Recursive's automated AI research system achieves state-of-the-art results in fixed-budget language model training, small-model speed, and GPU kernel optimization.
+---

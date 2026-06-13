@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-12",
+  "threshold": 7.0,
+  "total": 48,
+  "kept": 16,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及股市表现和马斯克个人财富"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及 Google 针对 AI 诈骗的法律行动，具有行业影响"
+    },
+    {
+      "id": "TM-03",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及个人法律案件"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及 Oracle 的安全漏洞，可能影响使用其产品的 AI 应用"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于微软 Xbox 部门的重组考虑，信息量一般"
+    },
+    {
+      "id": "TM-06",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要涉及并购批准，未直接关联 AI 领域"
+    },
+    {
+      "id": "TM-07",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Roku 的收购谈判，信息量一般，未直接关联 AI"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "法国初创公司 Mistral AI 的融资消息，值得关注"
+    },
+    {
+      "id": "TM-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及 Mythos 的出口管制，可能影响 AI 产业链"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic 的商业策略变化，可能影响合作伙伴关系"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "对 API 定价的分析，提供了产品洞察"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "关于 AI 成本上升和市场竞争的动态，值得关注"
+    },
+    {
+      "id": "TM-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI 被传唤的消息，涉及法律和合规问题"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 OpenAI 产品负责人的个人资料，信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta 限制员工使用代币的计划，反映内部成本控制"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta 内部团队的挫折感，信息量一般"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "KPMG 撤回 AI 报告，反映行业对 AI 采用的真实看法"
+    },
+    {
+      "id": "TM-18",
+      "score": 8.0,
+      "keep": true,
+      "reason": "小米发布开源 AI 编码助手，具有产品创新意义"
+    },
+    {
+      "id": "TM-19",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta 在芯片整合上的挑战，影响 AI 模型训练"
+    },
+    {
+      "id": "TM-20",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Nvidia 新 CPU 的发布消息，可能影响 AI 数据中心市场"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及市场价值变化"
+    },
+    {
+      "id": "TM-22",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于芯片工厂的投资计划，信息量一般"
+    },
+    {
+      "id": "TM-23",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资消息，信息量一般，未直接关联 AI"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资消息，信息量一般，未直接关联 AI"
+    },
+    {
+      "id": "TM-25",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资消息，信息量一般，未直接关联 AI"
+    },
+    {
+      "id": "TM-26",
+      "score": 7.5,
+      "keep": true,
+      "reason": "前员工筹集资金用于AI安全政府系统的初创公司，值得关注的融资动态"
+    },
+    {
+      "id": "TM-27",
+      "score": 6.0,
+      "keep": false,
+      "reason": "常规融资消息，虽有AI应用但信息量一般"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "IPO申请消息，涉及机器人制造，但信息量有限"
+    },
+    {
+      "id": "TM-29",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是社交媒体订阅数据"
+    },
+    {
+      "id": "TM-30",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及数据使用的政策问题，信息量一般"
+    },
+    {
+      "id": "TM-31",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关的股市动态，信息量过少"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "支付服务扩展计划，信息量一般但与AI无直接关联"
+    },
+    {
+      "id": "TM-33",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是关于约会应用的采访"
+    },
+    {
+      "id": "TM-34",
+      "score": 4.0,
+      "keep": false,
+      "reason": "常规服务恢复消息，信息量有限"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI收购Ona，增强Codex平台的能力，具有战略意义"
+    },
+    {
+      "id": "TL-02",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic调整政策以提高透明度，影响研究者工作，值得关注"
+    },
+    {
+      "id": "TL-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于计算商品化的讨论，信息量一般"
+    },
+    {
+      "id": "TL-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "介绍优化tokenizer的算法，具有一定技术价值"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "开发者分享从零开始创建LLM的经验，具有实用价值"
+    },
+    {
+      "id": "TL-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "小米新开源AI编码助手在长任务上超越竞争对手，具有产品洞察"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "预测数据调试技术的介绍，提升模型性能和安全性，具有应用价值"
+    },
+    {
+      "id": "TL-08",
+      "score": 6.0,
+      "keep": false,
+      "reason": "深入探讨PyTorch优化，信息量一般但有技术价值"
+    },
+    {
+      "id": "TL-09",
+      "score": 0.0,
+      "keep": false,
+      "reason": "招聘信息，与AI无关，信息量过少"
+    },
+    {
+      "id": "TL-10",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Oracle股价波动消息，主要是财务问题，与AI无直接关联"
+    },
+    {
+      "id": "TL-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于模型未来发展的预测，具有行业洞察价值"
+    },
+    {
+      "id": "TL-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "NVIDIA开发的安全扫描工具，具有一定技术价值"
+    },
+    {
+      "id": "TL-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "讨论AI实验室商业模式，信息量一般"
+    },
+    {
+      "id": "TL-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Recursive的自动化AI研究系统取得突破，具有重要技术进展"
+    }
+  ]
+}

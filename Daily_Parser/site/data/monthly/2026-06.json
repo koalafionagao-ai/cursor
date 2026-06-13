@@ -79,9 +79,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-12",
+      "total": 16,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 267,
+  "item_count": 283,
   "items": [
     {
       "id": "TM-01",
@@ -7447,6 +7455,454 @@
       ],
       "category_tag": "cat:app",
       "date": "2026-06-11"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html",
+      "title": {
+        "zh": "Google起诉中国网络犯罪组织Outsider Enterprise，指控其利用Gemini创建虚假网站诈骗数十万美国人",
+        "en": "Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini to create fake websites and scam hundreds of thousands of Americans"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "gemini",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation",
+      "title": {
+        "zh": "消息称法国初创公司Mistral AI正洽谈以约200亿欧元估值融资约30亿欧元",
+        "en": "Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "mistral",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/anthropic-blindsides-business-partners",
+      "title": {
+        "zh": "Anthropic被指推出潜在竞争产品、调整定价模式并对商业伙伴隐瞒信息",
+        "en": "Anthropic is blindsiding its business partners by launching potentially competitive products with little warning, changing its pricing model, lying, and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "pricing"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://x.com/semianalysis_/status/2064815044085318040",
+      "title": {
+        "zh": "分析：Claude Max和ChatGPT Pro计划的价值远超其月费",
+        "en": "Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "claude",
+        "chatgpt",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "claude",
+        "chatgpt",
+        "pricing"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "AI成本上升促使企业转向更便宜的模型，对OpenAI和Anthropic形成价格压力",
+        "en": "Companies with rising AI costs are increasingly using tools that tap cheaper models, including some from China, putting pricing pressure on OpenAI and Anthropic"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "anthropic",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "pricing"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
+      "title": {
+        "zh": "毕马威撤回AI报告，因其夸大了AI采用率并基于AI幻觉案例研究",
+        "en": "KPMG retracts a report on AI's benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "safety",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+      "title": {
+        "zh": "小米发布MiMo Code V0.1.0，称其在代理编码和软件工程基准上优于Claude Code",
+        "en": "Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "coding",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "coding",
+        "open-source"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/nvidia-begins-vera-cpu-sales-pitch-chinese-clients-sources-say-2026-06-12/",
+      "title": {
+        "zh": "消息称Nvidia告知中国客户其新款Vera AI数据中心CPU最早8月可用",
+        "en": "Sources: Nvidia has told Chinese clients that its new Vera CPUs for AI data centers could be available as soon as August and that they can begin placing orders"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.vanityfair.com/story/doge-defense-startups",
+      "title": {
+        "zh": "消息称三名前DOGE员工正筹集1.3亿美元用于AI政府安全系统初创公司",
+        "en": "Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "safety"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://openai.com/index/openai-to-acquire-ona/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI收购Ona以支持长期运行的智能代理",
+        "en": "OpenAI Acquired Ona for Long-Running Agents (1 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI宣布收购Ona，将其安全云执行和编排能力引入Codex平台，支持客户控制的长期环境。",
+        "en": "OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform. The technology is intended to support persistent, customer-controlled environments where agents can continue working across extended periods and sessions."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "codex",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "codex",
+        "agent"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic调整政策以回应研究人员的批评",
+        "en": "Anthropic backtracks on policy that 'sabotaged' researchers' work (2 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic因隐秘调整模型行为引发研究人员不满，现决定公开其前沿LLM开发的安全措施。",
+        "en": "Anthropic has decided to make its safeguards for frontier LLM development visible after backlash from researchers. The company had previously discreetly rerouted requests to a lesser model when asked to perform certain actions. Researchers found that Claude Fable 5 was either refusing or degrading responses for tasks like training competing models, debugging AI code, and optimizing neural architecture. This raised concerns about Anthropic's lack of transparency and also that tokens and money had been spent on a model that didn't do what was expected."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "claude",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://crlf.link/log/entries/260525-1/?utm_source=tldrai",
+      "title": {
+        "zh": "从零开始制作复古LLM",
+        "en": "Making a vintage LLM from scratch (50 minute read)"
+      },
+      "summary": {
+        "zh": "开发者分享了如何从头创建自己的LLM，包括训练脚本、数据处理管道和自定义数据集。",
+        "en": "This post shares how a developer created their own LLM from scratch. It covers how they create their own base-training and fine-tuning scripts, data processing pipelines, and custom dataset. The total cost of the project was around $80, but they had a decent PC to process the data. The model and code are available in the post."
+      },
+      "tags": [
+        "cat:model",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks?utm_source=tldrai",
+      "title": {
+        "zh": "小米开源AI编程助手MiMo Code超越Claude Code",
+        "en": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks (14 minute read)"
+      },
+      "summary": {
+        "zh": "MiMo Code在长任务编码基准测试中表现优异，支持跨会话记忆系统，代码已在GitHub上开源。",
+        "en": "MiMo Code V0.1.0 is an open source terminal-native AI coding assistant from Xiaomi. It outperforms Claude Code on key agentic coding benchmarks, particularly on long-horizon, multi-step tasks. MiMo Code features a cross-session memory system that uses an independent subagent to take notes of decisions, issues, and the scope of the project as it progresses. The model is available on GitHub under an MIT license."
+      },
+      "tags": [
+        "cat:app",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.goodfire.ai/research/predictive-data-debugging?utm_source=tldrai",
+      "title": {
+        "zh": "预测性数据调试：在训练前揭示和塑造模型学习",
+        "en": "Predictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train (11 minute read)"
+      },
+      "summary": {
+        "zh": "通过分析偏好数据集，预测性数据调试可在训练前识别潜在问题并优化数据集或训练流程。",
+        "en": "Predictive data debugging identifies potential model behaviors before training by analyzing preference datasets. This technique, integrated into the Silico platform, allows engineers to reshape datasets or training processes to prevent undesired effects, improving both performance and safety. Case studies reveal common issues like compromised safety guardrails, hallucinated links, and context-specific sycophancy, allowing targeted interventions to fix these problems before deployment."
+      },
+      "tags": [
+        "cat:tech",
+        "safety",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "safety",
+        "training"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://spateder.com/projects/20260611/openweightmodels?utm_source=tldrai",
+      "title": {
+        "zh": "Mythos级模型预计将在2029年全球普及",
+        "en": "Mythos-class models will diffuse throughout the world by 2029 (7 minute read)"
+      },
+      "summary": {
+        "zh": "随着模型性能持续提升，预计到2029年将出现可在16GB内存设备上运行的Claude Fable 5级开源模型。",
+        "en": "Model performance has only improved over time. There's currently no reason it shouldn't continue to improve in the future. Open weight models are only a few months behind frontier models on benchmarks. If current trends continue, it is likely that a Claude Fable 5-level open model that can run on a device with 16 GB of RAM will be possible by early 2029."
+      },
+      "tags": [
+        "cat:model",
+        "open-weights",
+        "benchmark"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-weights",
+        "benchmark"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "TL-14",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.recursive.com/articles/first-steps-toward-automated-ai-research?utm_source=tldrai",
+      "title": {
+        "zh": "迈向自动化AI研究的第一步",
+        "en": "First Steps Toward Automated AI Research (12 minute read)"
+      },
+      "summary": {
+        "zh": "Recursive的自动化AI研究系统在语言模型训练、小模型速度和GPU内核优化方面取得了最新成果。",
+        "en": "Recursive's automated AI research system achieves state-of-the-art results in fixed-budget language model training, small-model speed, and GPU kernel optimization."
+      },
+      "tags": [
+        "cat:tech",
+        "training",
+        "gpu",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "training",
+        "gpu",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-12"
     }
   ],
   "tag_index": {
@@ -7472,7 +7928,8 @@
       "2026-06-10:TM-40",
       "2026-06-11:TM-17",
       "2026-06-11:TM-22",
-      "2026-06-11:TL-02"
+      "2026-06-11:TL-02",
+      "2026-06-12:TM-20"
     ],
     "chip": [
       "2026-06-01:TM-01",
@@ -7484,7 +7941,8 @@
       "2026-06-08:TM-07",
       "2026-06-09:TM-14",
       "2026-06-09:TM-22",
-      "2026-06-11:TM-39"
+      "2026-06-11:TM-39",
+      "2026-06-12:TM-20"
     ],
     "anthropic": [
       "2026-06-01:TM-02",
@@ -7525,7 +7983,10 @@
       "2026-06-11:TM-15",
       "2026-06-11:TM-19",
       "2026-06-11:TL-01",
-      "2026-06-11:TL-13"
+      "2026-06-11:TL-13",
+      "2026-06-12:TM-10",
+      "2026-06-12:TM-12",
+      "2026-06-12:TL-02"
     ],
     "ipo": [
       "2026-06-01:TM-02",
@@ -7578,7 +8039,9 @@
       "2026-06-11:TM-02",
       "2026-06-11:TM-10",
       "2026-06-11:TM-14",
-      "2026-06-11:TL-03"
+      "2026-06-11:TL-03",
+      "2026-06-12:TM-12",
+      "2026-06-12:TL-01"
     ],
     "sam-altman": [
       "2026-06-01:TM-04",
@@ -7630,7 +8093,8 @@
       "2026-06-10:TL-01",
       "2026-06-10:TL-03",
       "2026-06-11:TM-19",
-      "2026-06-11:TM-39"
+      "2026-06-11:TM-39",
+      "2026-06-12:TM-02"
     ],
     "funding": [
       "2026-06-01:TM-05",
@@ -7683,7 +8147,9 @@
       "2026-06-11:TM-34",
       "2026-06-11:TM-35",
       "2026-06-11:TM-36",
-      "2026-06-11:TM-37"
+      "2026-06-11:TM-37",
+      "2026-06-12:TM-08",
+      "2026-06-12:TM-26"
     ],
     "policy": [
       "2026-06-01:TM-09",
@@ -7721,7 +8187,9 @@
       "2026-06-10:TM-26",
       "2026-06-10:TM-28",
       "2026-06-11:TM-13",
-      "2026-06-11:TL-01"
+      "2026-06-11:TL-01",
+      "2026-06-12:TM-17",
+      "2026-06-12:TL-02"
     ],
     "robotics": [
       "2026-06-01:TM-11",
@@ -7737,11 +8205,14 @@
       "2026-06-01:TM-12",
       "2026-06-01:TM-13",
       "2026-06-01:TL-03",
-      "2026-06-08:TL-01"
+      "2026-06-08:TL-01",
+      "2026-06-12:TL-14"
     ],
     "training": [
       "2026-06-01:TM-12",
-      "2026-06-04:TL-06"
+      "2026-06-04:TL-06",
+      "2026-06-12:TL-07",
+      "2026-06-12:TL-14"
     ],
     "intel": [
       "2026-06-01:TM-13",
@@ -7767,7 +8238,8 @@
       "2026-06-10:TM-20",
       "2026-06-10:TM-22",
       "2026-06-10:TL-03",
-      "2026-06-11:TM-19"
+      "2026-06-11:TM-19",
+      "2026-06-12:TM-20"
     ],
     "coding": [
       "2026-06-01:TM-16",
@@ -7787,7 +8259,9 @@
       "2026-06-09:TL-07",
       "2026-06-10:TL-06",
       "2026-06-10:TL-07",
-      "2026-06-11:TL-07"
+      "2026-06-11:TL-07",
+      "2026-06-12:TM-18",
+      "2026-06-12:TL-06"
     ],
     "microsoft": [
       "2026-06-01:TM-20",
@@ -7813,7 +8287,8 @@
       "2026-06-02:TL-08",
       "2026-06-02:TL-09",
       "2026-06-09:TL-06",
-      "2026-06-10:TL-04"
+      "2026-06-10:TL-04",
+      "2026-06-12:TL-14"
     ],
     "runway": [
       "2026-06-01:TM-22"
@@ -7865,7 +8340,9 @@
       "2026-06-11:TM-34",
       "2026-06-11:TM-35",
       "2026-06-11:TM-36",
-      "2026-06-11:TM-37"
+      "2026-06-11:TM-37",
+      "2026-06-12:TM-08",
+      "2026-06-12:TM-26"
     ],
     "energy": [
       "2026-06-01:TM-23"
@@ -7893,7 +8370,10 @@
       "2026-06-03:TL-10",
       "2026-06-04:TL-07",
       "2026-06-08:TL-06",
-      "2026-06-11:TM-02"
+      "2026-06-11:TM-02",
+      "2026-06-12:TM-10",
+      "2026-06-12:TM-11",
+      "2026-06-12:TM-12"
     ],
     "agent": [
       "2026-06-01:TM-52",
@@ -7929,7 +8409,9 @@
       "2026-06-11:TM-09",
       "2026-06-11:TM-24",
       "2026-06-11:TM-37",
-      "2026-06-11:TL-13"
+      "2026-06-11:TL-13",
+      "2026-06-12:TL-01",
+      "2026-06-12:TL-06"
     ],
     "autonomous-driving": [
       "2026-06-01:TM-52",
@@ -7946,7 +8428,8 @@
       "2026-06-04:TL-01",
       "2026-06-04:TL-05",
       "2026-06-09:TL-03",
-      "2026-06-11:TL-02"
+      "2026-06-11:TL-02",
+      "2026-06-12:TL-11"
     ],
     "claude": [
       "2026-06-01:TL-05",
@@ -7963,7 +8446,9 @@
       "2026-06-10:TL-10",
       "2026-06-10:TL-11",
       "2026-06-11:TM-15",
-      "2026-06-11:TL-13"
+      "2026-06-11:TL-13",
+      "2026-06-12:TM-11",
+      "2026-06-12:TL-02"
     ],
     "xai": [
       "2026-06-01:TL-09",
@@ -7981,7 +8466,8 @@
       "2026-06-08:TL-01",
       "2026-06-09:TM-03",
       "2026-06-09:TM-05",
-      "2026-06-10:TL-01"
+      "2026-06-10:TL-01",
+      "2026-06-12:TM-02"
     ],
     "enterprise": [
       "2026-06-01:TL-10",
@@ -8028,7 +8514,11 @@
       "2026-06-10:TL-02",
       "2026-06-10:TL-10",
       "2026-06-10:TL-11",
-      "2026-06-11:TL-05"
+      "2026-06-11:TL-05",
+      "2026-06-12:TM-02",
+      "2026-06-12:TM-17",
+      "2026-06-12:TM-26",
+      "2026-06-12:TL-07"
     ],
     "perplexity": [
       "2026-06-02:TM-17",
@@ -8088,7 +8578,8 @@
       "2026-06-02:TL-02",
       "2026-06-03:TM-41",
       "2026-06-03:TL-03",
-      "2026-06-11:TM-10"
+      "2026-06-11:TM-10",
+      "2026-06-12:TL-01"
     ],
     "video-gen": [
       "2026-06-02:TL-06"
@@ -8105,7 +8596,8 @@
       "2026-06-05:TL-02",
       "2026-06-07:TM-01",
       "2026-06-07:TM-10",
-      "2026-06-08:TL-16"
+      "2026-06-08:TL-16",
+      "2026-06-12:TM-11"
     ],
     "tencent": [
       "2026-06-03:TM-22"
@@ -8119,7 +8611,9 @@
       "2026-06-03:TM-42",
       "2026-06-03:TL-05",
       "2026-06-09:TL-07",
-      "2026-06-10:TL-07"
+      "2026-06-10:TL-07",
+      "2026-06-12:TM-18",
+      "2026-06-12:TL-05"
     ],
     "palantir": [
       "2026-06-03:TM-43",
@@ -8163,7 +8657,8 @@
     "benchmark": [
       "2026-06-04:TL-07",
       "2026-06-09:TL-07",
-      "2026-06-10:TL-05"
+      "2026-06-10:TL-05",
+      "2026-06-12:TL-11"
     ],
     "apple": [
       "2026-06-07:TM-04",
@@ -8218,6 +8713,9 @@
     ],
     "fine-tuning": [
       "2026-06-11:TL-04"
+    ],
+    "mistral": [
+      "2026-06-12:TM-08"
     ]
   },
   "category_index": {
@@ -8265,7 +8763,9 @@
       "2026-06-11:TM-18",
       "2026-06-11:TM-39",
       "2026-06-11:TL-04",
-      "2026-06-11:TL-05"
+      "2026-06-11:TL-05",
+      "2026-06-12:TL-07",
+      "2026-06-12:TL-14"
     ],
     "cat:business": [
       "2026-06-01:TM-02",
@@ -8373,7 +8873,13 @@
       "2026-06-11:TM-37",
       "2026-06-11:TM-41",
       "2026-06-11:TL-03",
-      "2026-06-11:TL-08"
+      "2026-06-11:TL-08",
+      "2026-06-12:TM-08",
+      "2026-06-12:TM-10",
+      "2026-06-12:TM-12",
+      "2026-06-12:TM-20",
+      "2026-06-12:TM-26",
+      "2026-06-12:TL-01"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -8436,7 +8942,11 @@
       "2026-06-10:TL-11",
       "2026-06-11:TM-13",
       "2026-06-11:TL-01",
-      "2026-06-11:TL-09"
+      "2026-06-11:TL-09",
+      "2026-06-12:TM-02",
+      "2026-06-12:TM-11",
+      "2026-06-12:TM-17",
+      "2026-06-12:TL-02"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -8466,7 +8976,9 @@
       "2026-06-10:TM-03",
       "2026-06-10:TL-02",
       "2026-06-10:TL-07",
-      "2026-06-11:TL-02"
+      "2026-06-11:TL-02",
+      "2026-06-12:TL-05",
+      "2026-06-12:TL-11"
     ],
     "cat:app": [
       "2026-06-01:TM-46",
@@ -8496,57 +9008,59 @@
       "2026-06-11:TM-09",
       "2026-06-11:TM-24",
       "2026-06-11:TL-07",
-      "2026-06-11:TL-13"
+      "2026-06-11:TL-13",
+      "2026-06-12:TM-18",
+      "2026-06-12:TL-06"
     ]
   },
   "tag_stats": [
     {
       "tag": "funding",
-      "count": 51
+      "count": 53
     },
     {
       "tag": "startup",
-      "count": 47
+      "count": 49
     },
     {
       "tag": "anthropic",
-      "count": 39
+      "count": 42
     },
     {
       "tag": "openai",
-      "count": 37
+      "count": 39
     },
     {
       "tag": "policy",
-      "count": 36
+      "count": 38
     },
     {
       "tag": "agent",
-      "count": 34
-    },
-    {
-      "tag": "google",
-      "count": 27
+      "count": 36
     },
     {
       "tag": "safety",
-      "count": 26
+      "count": 30
+    },
+    {
+      "tag": "google",
+      "count": 28
     },
     {
       "tag": "nvidia",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "data-center",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "coding",
-      "count": 18
+      "count": 20
     },
     {
       "tag": "claude",
-      "count": 15
+      "count": 17
     },
     {
       "tag": "regulation",
@@ -8566,11 +9080,19 @@
     },
     {
       "tag": "chip",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "meta",
       "count": 10
+    },
+    {
+      "tag": "pricing",
+      "count": 9
+    },
+    {
+      "tag": "open-weights",
+      "count": 9
     },
     {
       "tag": "multimodal",
@@ -8581,23 +9103,19 @@
       "count": 8
     },
     {
-      "tag": "open-weights",
-      "count": 8
-    },
-    {
       "tag": "reasoning",
-      "count": 6
-    },
-    {
-      "tag": "pricing",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "gemini",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "chatgpt",
+      "count": 7
+    },
+    {
+      "tag": "open-source",
       "count": 6
     },
     {
@@ -8609,11 +9127,19 @@
       "count": 5
     },
     {
+      "tag": "gpu",
+      "count": 5
+    },
+    {
       "tag": "autonomous-driving",
       "count": 5
     },
     {
-      "tag": "gpu",
+      "tag": "codex",
+      "count": 5
+    },
+    {
+      "tag": "training",
       "count": 4
     },
     {
@@ -8637,19 +9163,15 @@
       "count": 4
     },
     {
-      "tag": "codex",
-      "count": 4
-    },
-    {
       "tag": "search",
       "count": 4
     },
     {
-      "tag": "open-source",
+      "tag": "inference",
       "count": 4
     },
     {
-      "tag": "inference",
+      "tag": "benchmark",
       "count": 4
     },
     {
@@ -8675,14 +9197,6 @@
     {
       "tag": "amazon",
       "count": 3
-    },
-    {
-      "tag": "benchmark",
-      "count": 3
-    },
-    {
-      "tag": "training",
-      "count": 2
     },
     {
       "tag": "copilot",
@@ -8815,32 +9329,36 @@
     {
       "tag": "fine-tuning",
       "count": 1
+    },
+    {
+      "tag": "mistral",
+      "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 106,
+      "count": 112,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 61,
+      "count": 65,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 44,
+      "count": 46,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:model",
-      "count": 28,
+      "count": 30,
       "label_zh": "新模型"
     },
     {
       "tag": "cat:app",
-      "count": 28,
+      "count": 30,
       "label_zh": "新应用"
     }
   ]

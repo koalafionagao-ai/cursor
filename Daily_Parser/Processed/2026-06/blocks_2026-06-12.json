@@ -1,0 +1,389 @@
+{
+  "date": "2026-06-12",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "SpaceX closes up 19% at $160.95 in its debut, with a ~$2.1T market value, after opening at $150, up 11% from its IPO price; Musk becomes the first trillionaire",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini to create fake websites and scam hundreds of thousands of Americans",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/government/sam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed it breached 100+ organizations that use PeopleSoft; Oracle hasn't issued a patch",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: Microsoft considered spinning out or restructuring its Xbox unit as a wholly-owned subsidiary, or creating a joint venture with other partners",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/microsoft-considered-spinning-xbox-plans-new-halo-fallout-games",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "The US DOJ approves Paramount's $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/06/12/paramount-acquisition-warner-bros-approved-00960300",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B; ROKU jumps 20%+ after hours",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/roku-said-to-be-in-sale-talks-including-possible-media-tie-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTI5MjAyOSwiZXhwIjoxNzgxODk2ODI5LCJhcnRpY2xlSWQiOiJURUJWMjFUOTZPU00wMCIsImJjb25uZWN0SWQiOiJFMEJDNkI3QkI3NDI0OTEwQkE2NTdFRUM2QUNEMzFEMyJ9.Lqb84JcPkpVe9ZcC7aqiNcfjg17DMc8nj_ZZlHJVYr0",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Anthropic is blindsiding its business partners by launching potentially competitive products with little warning, changing its pricing model, lying, and more",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/anthropic-blindsides-business-partners",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively",
+      "excerpt": "",
+      "url": "https://x.com/semianalysis_/status/2064815044085318040",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Companies with rising AI costs are increasingly using tools that tap cheaper models, including some from China, putting pricing pressure on OpenAI and Anthropic",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/openai-investigated-by-coalition-of-state-attorneys-general-088a3928?st=MTfREr&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "A profile of Thibault Sottiaux, OpenAI's head of core products, who oversees efforts to combine ChatGPT and Codex into a super app and worked at Google DeepMind",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/tokenminimizing-meta-moves-curb-employee-ai-usage-ai-costs-reach-billions",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, “soul-crushing” work, more",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "KPMG retracts a report on AI's benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/b3828e92-4961-4b39-84f0-c42f33be3c3f",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks",
+      "excerpt": "",
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: six months after acquiring Rivos, Meta is struggling to integrate the chip startup and halted development of a chip for training its largest AI models",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/meta-bought-rivos-accelerate-ai-chip-push-working",
+      "section": "ai processors"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Sources: Nvidia has told Chinese clients that its new Vera CPUs for AI data centers could be available as soon as August and that they can begin placing orders",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/china/nvidia-begins-vera-cpu-sales-pitch-chinese-clients-sources-say-2026-06-12/",
+      "section": "ai processors"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Memory chipmaker Kioxia replaces Toyota as Japan's largest company by market value; Kioxia's shares surged 7.6% on Friday, lifting its market cap above ~$274B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/kioxia-becomes-japan-s-most-valuable-firm-as-ai-mania-goes-on",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Infineon plans to open a €5B chip factory in Germany backed by EU subsidies, its largest single investment, on July 2 as Europe seeks to boost chip production",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform",
+      "excerpt": "",
+      "url": "https://betakit.com/nesto-secures-nearly-1-5-billion-valuation-in-new-series-e-round/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license",
+      "excerpt": "",
+      "url": "https://betakit.com/koho-becomes-canadas-latest-unicorn-following-130-million-series-e-round/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "New York City-based Current, which manages a consumer fintech platform, raised an $80M Series E at a $1.5B valuation led by Springcoast Partners",
+      "excerpt": "",
+      "url": "https://www.finsmes.com/2026/06/current-raises-80m-in-series-e-funding.html",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems",
+      "excerpt": "",
+      "url": "https://www.vanityfair.com/story/doge-defense-startups",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the startup was last valued at ~$1.5B in April 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/humanoid-robot-manufacturer-engineai-is-said-to-file-for-hong-kong-ipo",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "MrBeast hits 500M subscribers on YouTube, becoming the first creator to reach the milestone, after crossing 100M subscribers in 2022",
+      "excerpt": "",
+      "url": "https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Niantic Spatial says Pokémon Go data is “not part of” its deal with spatial AI company Vantor, after concerns that game data could be used for military drones",
+      "excerpt": "",
+      "url": "https://kotaku.com/pokemon-go-niantic-spatial-drone-ai-map-training-gps-2000705669",
+      "section": "more news"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "FanDuel owner Flutter plans to delist its LSE stock on August 3, citing low trading and high costs; Flutter moved its primary listing to the NYSE in 2024",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/business/2026/jun/12/paddy-power-flutter-entertainment-delist-london-stock-exchange",
+      "section": "more news"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Zelle owner EWS says it plans to expand the payment service later in 2026 to India, its first international market, and create its own USD-backed stablecoin",
+      "excerpt": "",
+      "url": "https://apnews.com/article/zelle-india-payments-banking-7b6299bcd9926f6d0a2533da5591d2a8",
+      "section": "more news"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "An interview with Grindr CEO George Arison on turning the dating app into a “global gayborhood” hub with services for HIV treatment, hotel bookings, and more",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-11/grindr-ceo-george-arison-wants-the-dating-app-to-become-a-gay-culture-hub",
+      "section": "more news"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Meta's services, including Facebook and Instagram, are recovering after a brief outage that affected thousands of users",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/metas-social-networks-down-thousands-users-2026-06-12/",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "OpenAI Acquired Ona for Long-Running Agents (1 minute read)",
+      "excerpt": "OpenAI announced it would acquire Ona to bring secure cloud execution and orchestration capabilities into the Codex platform. The technology is intended to support persistent, customer-controlled environments where agents can continue working across extended periods and sessions.",
+      "url": "https://openai.com/index/openai-to-acquire-ona/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Anthropic backtracks on policy that 'sabotaged' researchers' work (2 minute read)",
+      "excerpt": "Anthropic has decided to make its safeguards for frontier LLM development visible after backlash from researchers. The company had previously discreetly rerouted requests to a lesser model when asked to perform certain actions. Researchers found that Claude Fable 5 was either refusing or degrading responses for tasks like training competing models, debugging AI code, and optimizing neural architecture. This raised concerns about Anthropic's lack of transparency and also that tokens and money had been spent on a model that didn't do what was expected.",
+      "url": "https://www.engadget.com/2192004/anthropic-walks-back-policy-sabotaging-research/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Can Compute Commoditize if it's Not Fungible? (5 minute read)",
+      "excerpt": "CoreWeave's co-founder, Brannin McBee, recently claimed that compute isn't fungible the way a commodity has to be. He has a real argument, but the non-commodity framing is the keystone of his company's value. While he appears to be saying that there is no market, he's actually pricing the market and revealing where the spread still hides.",
+      "url": "https://davefriedman.substack.com/p/can-compute-commoditize-if-its-not?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Finding Optimal Tokenizers (15 minute read)",
+      "excerpt": "Frontier AI models are typically trained on sequences of integers known as tokens. Each token refers to some sequence of bytes, and these byte sequences often correspond to common words. This post presents an algorithm that can compute an optimal tokenizer in some settings.",
+      "url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Making a vintage LLM from scratch (50 minute read)",
+      "excerpt": "This post shares how a developer created their own LLM from scratch. It covers how they create their own base-training and fine-tuning scripts, data processing pipelines, and custom dataset. The total cost of the project was around $80, but they had a decent PC to process the data. The model and code are available in the post.",
+      "url": "https://crlf.link/log/entries/260525-1/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks (14 minute read)",
+      "excerpt": "MiMo Code V0.1.0 is an open source terminal-native AI coding assistant from Xiaomi. It outperforms Claude Code on key agentic coding benchmarks, particularly on long-horizon, multi-step tasks. MiMo Code features a cross-session memory system that uses an independent subagent to take notes of decisions, issues, and the scope of the project as it progresses. The model is available on GitHub under an MIT license.",
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Predictive Data Debugging: Reveal and Shape What Your Model Learns, Before You Train (11 minute read)",
+      "excerpt": "Predictive data debugging identifies potential model behaviors before training by analyzing preference datasets. This technique, integrated into the Silico platform, allows engineers to reshape datasets or training processes to prevent undesired effects, improving both performance and safety. Case studies reveal common issues like compromised safety guardrails, hallucinated links, and context-specific sycophancy, allowing targeted interventions to fix these problems before deployment.",
+      "url": "https://www.goodfire.ai/research/predictive-data-debugging?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Optimizing PyTorch with Fused MLPs (29 minute read)",
+      "excerpt": "This deep dive explores how PyTorch executes and optimizes neural network layers, progressing from individual linear operations to a fused multilayer perceptron.",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "TLDR is hiring a Senior PMM ($180k-$225k base + ~25% annual bonus, Fully Remote)",
+      "excerpt": "We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Oracle shares tumble 11% on increased capital raise, cash concerns (3 minute read)",
+      "excerpt": "Oracle has told investors to expect an additional $20 billion capital raise. It also reported negative free cash flow for the year. Oracle saw an increase in revenue for the fiscal fourth quarter, but its AI buildout has caused capital expenditures to jump 162% to $55.7 billion. Investors are concerned about whether the company's massive amount of spending will result in profit growth.",
+      "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Mythos-class models will diffuse throughout the world by 2029 (7 minute read)",
+      "excerpt": "Model performance has only improved over time. There's currently no reason it shouldn't continue to improve in the future. Open weight models are only a few months behind frontier models on benchmarks. If current trends continue, it is likely that a Claude Fable 5-level open model that can run on a device with 16 GB of RAM will be possible by early 2029.",
+      "url": "https://spateder.com/projects/20260611/openweightmodels?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "SkillSpector (GitHub Repo)",
+      "excerpt": "SkillSpector, developed by NVIDIA, scans AI agent skills for security vulnerabilities before installation.",
+      "url": "https://github.com/NVIDIA/SkillSpector?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "What's the better business model for an AI lab, subscription or API? (2 minute read)",
+      "excerpt": "The gross margins on subscriptions are way worse than API overall, so labs will likely start withholding new features or models from subscription plans.",
+      "url": "https://threadreaderapp.com/thread/2064815044085318040.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "First Steps Toward Automated AI Research (12 minute read)",
+      "excerpt": "Recursive's automated AI research system achieves state-of-the-art results in fixed-budget language model training, small-model speed, and GPU kernel optimization.",
+      "url": "https://www.recursive.com/articles/first-steps-toward-automated-ai-research?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}
