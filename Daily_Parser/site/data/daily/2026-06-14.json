@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-14",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 6,
+    "by_category": {
+      "cat:other": 1,
+      "cat:app": 1,
+      "cat:tech": 2,
+      "cat:business": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "title": {
+        "zh": "Anthropic因美国出口管制令停用Fable 5和Mythos 5",
+        "en": "Anthropic says it is disabling Fable 5 and Mythos 5 for all customers after the US government issued an export control order, citing national security concerns"
+      },
+      "summary": {
+        "zh": "美国政府以国家安全为由发布出口管制令，Anthropic宣布对所有客户停用Fable 5和Mythos 5。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+      "title": {
+        "zh": "Siri AI缓解苹果AI危机，iOS 27内部版本已支持第三方AI模型",
+        "en": "Siri AI is good enough to ease Apple's AI crisis; sources: the ability to tap third party AI models beyond OpenAI's is already active in internal iOS 27 builds"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "apple",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "openai"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/8882c5a8-ddf3-49f2-bdf3-8180025cb097",
+      "title": {
+        "zh": "大科技公司、初创企业和政府押注2030年前实现商用量子计算",
+        "en": "After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype"
+      },
+      "summary": {
+        "zh": "尽管存在炒作担忧，各方仍在积极投资量子计算技术的商业化。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "quantum"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70",
+      "title": {
+        "zh": "AI热潮如何重塑美国股市，科技巨头削减回购并增加资本支出",
+        "en": "How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet's planned ~$85B in equity offerings for AI"
+      },
+      "summary": {
+        "zh": "包括Alphabet计划约850亿美元的股票发行以支持AI发展。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "google"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://x.com/satyanadella/status/2066182223213293753",
+      "title": {
+        "zh": "Satya Nadella：企业必须掌控AI学习循环以避免价值流失",
+        "en": "Satya Nadella says companies must own their AI “learning loops” to compound human and token capital, or risk ceding all value to a handful of frontier models"
+      },
+      "summary": {
+        "zh": "纳德拉强调企业需要掌控AI学习循环，否则可能将价值拱手让给少数前沿模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "satya-nadella"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "satya-nadella"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/article/3356952/huawei-arms-harmonyos-2000-ai-agents-challenge-apple",
+      "title": {
+        "zh": "华为发布HarmonyOS 7，支持2000+专用AI代理并增强语音助手",
+        "en": "Huawei unveils HarmonyOS 7, introducing an “agent-friendly” architecture that connects to 2,000+ specialized AI agents and features an enhanced voice assistant"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "huawei",
+        "agent",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "huawei",
+        "agent",
+        "voice"
+      ],
+      "category_tag": "cat:tech"
+    }
+  ]
+}

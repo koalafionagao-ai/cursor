@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-14",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Anthropic says it is disabling Fable 5 and Mythos 5 for all customers after the US government issued an export control order, citing national security concerns",
+      "excerpt": "",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Siri AI is good enough to ease Apple's AI crisis; sources: the ability to tap third party AI models beyond OpenAI's is already active in internal iOS 27 builds",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Sources: UK plans to announce an “Australia plus” under-16 social media ban, including restrictions on chats with strangers on gaming apps and under-18 curfews",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Report: opponents blocked or delayed at least 75 US data center projects in Q1 2026 worth ~$130B; data center opposition groups doubled to 833 across 49 states",
+      "excerpt": "",
+      "url": "https://www.nbcnews.com/tech/tech-news/data-center-opposition-sharply-rising-2026-study-finds-rcna349728",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Since Russia ratcheted up control over the internet this year, some Russians are turning to solutions like using multiple phones and VPNs to evade restrictions",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/europe/two-phones-an-app-how-russians-skirt-putins-digital-iron-curtain-2026-06-13/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "As the 2026 FIFA World Cup begins, there is still no clear replacement for “Sports Twitter”, which was a perfect second-screen experience during live events",
+      "excerpt": "",
+      "url": "https://www.theverge.com/entertainment/947956/world-cup-2026-social-media?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImFKZTJRamhXYXgiLCJwIjoiL2VudGVydGFpbm1lbnQvOTQ3OTU2L3dvcmxkLWN1cC0yMDI2LXNvY2lhbC1tZWRpYSIsImV4cCI6MTc4MTc2Mzg3NSwiaWF0IjoxNzgxMzMxODc1fQ.tZYA84702nOCzin1_FBsHNv2ALNtK5aeD9dIV1ze5-o&utm_medium=gift-link",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype",
+      "excerpt": "",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/8882c5a8-ddf3-49f2-bdf3-8180025cb097",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet's planned ~$85B in equity offerings for AI",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Satya Nadella says companies must own their AI “learning loops” to compound human and token capital, or risk ceding all value to a handful of frontier models",
+      "excerpt": "",
+      "url": "https://x.com/satyanadella/status/2066182223213293753",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Moonshot AI releases Kimi K2.7-Code, claiming 30% lower reasoning token usage compared to K2.6, available under a modified MIT license",
+      "excerpt": "",
+      "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Huawei unveils HarmonyOS 7, introducing an “agent-friendly” architecture that connects to 2,000+ specialized AI agents and features an enhanced voice assistant",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/article/3356952/huawei-arms-harmonyos-2000-ai-agents-challenge-apple",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Challenger, Gray & Christmas: out of ~398K US jobs cuts in 2026 through May, employers cited AI as the reason for ~88K of them, up from ~54K in all of 2025",
+      "excerpt": "",
+      "url": "https://sherwood.news/tech/ai-was-the-top-reason-cited-for-us-job-cuts-for-the-third-straight-month-in-may/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Q&A with labor researcher Molly Kinder on her recent, widely discussed “Messy Middle” essay on AI-driven disruption of knowledge jobs and how to address it",
+      "excerpt": "",
+      "url": "https://www.platformer.news/how-to-help-knowledge-workers-who-lose-their-jobs-to-ai/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/ai-needs-ajinomotos-film-but-its-ceo-wont-raise-prices-just-because-90d4782b?st=s3FPcY",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "After years of uncertainty, including delayed listings, memory chipmaker Kioxia's shares soared 56x in 18 months, making it Japan's most valuable company",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-caps-years-of-uncertainty-to-become-japan-s-most-valuable-company",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "South Korea's “semiconductor belt” town Dongtan has become one of the fastest-rising affluent areas, driven by windfall bonuses for Samsung and SK Hynix workers",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/52cdae7d-5553-4b8b-9fd7-90c167e9c1a4",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Companies are grappling with whether and how to curb employee wagers on prediction markets that may use confidential info, as platforms tighten their own rules",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/044dad05-f0d3-42b3-b404-8ee20451f033",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "A profile of Kalshi COO Luana Lopes Lara, who has overseen a tremendous pace of growth over the past year as the company faces political and regulatory backlash",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-13/how-kalshi-s-lopes-lara-turned-kylie-jenner-gossip-into-billions",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Crypto-data provider Blockworks says it has acquired its rival Messari; source: Blockworks paid more than $10M for Messari, which was valued at $300M in 2022",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/deals/crypto-data-provider-blockworks-acquires-messari-at-a-discount-c265af54?st=W2Y6Jt&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Nothing CEO Carl Pei says memory is now the costliest phone component, accounting for 50%+ of BOM in some models, and predicts phone prices will rise into 2027",
+      "excerpt": "",
+      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "section": "more news"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/how-nigeria-s-yahoo-boys-scammers-thrive-in-a-fast-money-economy",
+      "section": "more news"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Sources: Frank founder Charlie Javice, sentenced in September 2025 to 85 months for defrauding JPMorgan Chase, has been seeking a presidential pardon from Trump",
+      "excerpt": "",
+      "url": "https://www.wsj.com/finance/charlie-javice-has-been-seeking-a-pardon-from-trump-after-defrauding-jpmorgan-0b4e61db?st=6icr2K",
+      "section": "more news"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "A government crackdown on online casinos operating in the Isle of Man has led to a major tax revenue loss, accelerating the island's slide toward a fiscal cliff",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-11/how-the-isle-of-man-became-a-hub-for-online-gambling-international-scams?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTQxMzExNCwiZXhwIjoxNzgyMDE3OTE0LCJhcnRpY2xlSWQiOiJUR0hKT0ZSMjRVQ0MwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.dBggGZJhbgBl2bpCLYMFhambOfI4Uyevota6zjNp3aw",
+      "section": "more news"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022",
+      "excerpt": "",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Chinese Tesla drivers are using tiny plastic heads to fool Tesla's distracted-driving controls, which appear unable to distinguish figurines from real people",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "An interview with Corning CEO Wendell Weeks on risk-sharing provisions that protect the company in multibillion-dollar fiber deals with Nvidia, Meta, and Amazon",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/corning-wendell-weeks-ai-deals-data-centers-82ad26d7?st=Ej1a4B&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    }
+  ]
+}

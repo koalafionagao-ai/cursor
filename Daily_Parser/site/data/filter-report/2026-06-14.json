@@ -1,0 +1,164 @@
+{
+  "date": "2026-06-14",
+  "threshold": 7.0,
+  "total": 26,
+  "kept": 6,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "美国政府的出口管制令导致重要AI模型被禁用，影响行业格局。"
+    },
+    {
+      "id": "TM-02",
+      "score": 7.5,
+      "keep": true,
+      "reason": "苹果在AI领域的战略调整，利用第三方模型增强Siri能力。"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及社交媒体政策。"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "数据中心项目受阻反映出行业面临的政策挑战。"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要讨论互联网控制问题。"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于体育社交媒体的讨论，但缺乏AI相关内容。"
+    },
+    {
+      "id": "TM-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "量子计算的商业前景引发关注，涉及技术和行业动态。"
+    },
+    {
+      "id": "TM-08",
+      "score": 8.5,
+      "keep": true,
+      "reason": "AI对美国股市的影响显著，涉及资本支出和投资策略。"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.5,
+      "keep": true,
+      "reason": "强调企业在AI价值链中的重要性，具有战略意义。"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "新版本AI模型的发布，技术更新但影响有限。"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "华为新系统与AI代理的结合，展示了产品创新。"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI导致的裁员数据反映行业变化，但信息较常规。"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "讨论AI对知识工作影响的文章，信息量一般。"
+    },
+    {
+      "id": "TM-14",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要讨论材料供应问题。"
+    },
+    {
+      "id": "TM-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及芯片制造商的股价波动。"
+    },
+    {
+      "id": "TM-16",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要讨论地区经济发展。"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于员工预测市场的讨论，信息量一般。"
+    },
+    {
+      "id": "TM-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于公司高管的个人成长故事，信息量一般。"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于收购的报道，信息量一般。"
+    },
+    {
+      "id": "TM-20",
+      "score": 5.0,
+      "keep": false,
+      "reason": "讨论手机组件成本，但与AI关系不大。"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要讨论诈骗行为。"
+    },
+    {
+      "id": "TM-22",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及法律问题。"
+    },
+    {
+      "id": "TM-23",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要讨论税收问题。"
+    },
+    {
+      "id": "TM-24",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及网络犯罪。"
+    },
+    {
+      "id": "TM-25",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要讨论特斯拉的驾驶控制问题。"
+    },
+    {
+      "id": "TM-26",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及与大型科技公司合作的风险分担机制，具有一定行业洞察价值。"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Anthropic says it is disabling Fable 5 and Mythos 5 for all customers after the US government issued an export control order, citing national security concerns
+Tweets:
+  - Author: @sophiacai99
+    Text: Anthropic denies that Amodei could not be reached on Friday because he was at a wellness retreat.  “That is absolutely false,” an Anthropic spokesperson said.  Anthropic said Amodei was first requested around noon and was on the phone with senior officials within an hour and 15 minutes.
+    Link ID: TM-01-TW-01
+  - Author: @dowciodavies
+    Text: We fully support @POTUS and @SecWar in prioritizing national security and the security of our warfighters, DIB partners, critical infrastructure, international partners and allies. Some things are simply more important than revenue cycles, clickbait, and pre-IPO valuation.
+    Link ID: TM-01-TW-02
+  - Author: @gergelyorosz
+    Text: Well this is massive: - Every non-US company sees how they can be cut off from US vendors with a snap of a finger. Non-US vendors getting free advertisement - What does this mean for US AI labs' offices and employees outside the US? Reads pretty draconian What a mess
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue
+    Link ID: TM-01-SUB-01
+  - Title: US officials: the Trump administration's decision to impose export controls on Anthropic followed multiple tense calls between Dario Amodei and admin officials
+    Link ID: TM-01-SUB-02
+  - Title: Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it
+    Link ID: TM-01-SUB-03
+  - Title: US barring foreign nationals, including Anthropic staffers in the US, from using Fable 5 and Mythos 5 marks a new phase in the US trying to control Anthropic
+    Link ID: TM-01-SUB-04
+  - Title: David Sacks says Dario Amodei refused to “fix the jailbreak or de-deploy the model” after “a highly credible trusted partner” reported a Fable jailbreak
+    Link ID: TM-01-SUB-05
+  - Title: Sources: Amazon CEO Andy Jassy is among tech leaders who raised concerns with Trump officials about Mythos 5, setting in motion new export restrictions
+    Link ID: TM-01-SUB-06
+  - Title: Luta Security CEO says US government restrictions on Mythos follow a jailbreak report by Amazon researchers and calls the restrictions a “complete overreaction”
+    Link ID: TM-01-SUB-07
+  - Title: Anthropic says it believes the US government's export control order for Mythos 5 and Fable 5 is a “misunderstanding” and that it is working to restore access
+    Link ID: TM-01-SUB-08
+  - Title: Source: the White House is unlikely to extend export restrictions to other AI companies
+    Link ID: TM-01-SUB-09
+  - Title: Canadian PM says the Anthropic ban shows the dangers of “over-reliance on certain models”, and compares the risks to those that led to the 2008 financial crisis
+    Link ID: TM-01-SUB-10
+  - Title: EU says it is looking at the practical consequences of US restricting Anthropic's models, notes such measures “should not be discriminatory against partners”
+    Link ID: TM-01-SUB-11
+  - Title: European political figures say Anthropic disabling access to Fable 5 and Mythos 5 is a “wake-up call” about the risks of depending on the US for AI tech
+    Link ID: TM-01-SUB-12
+  - Title: US export controls on Anthropic reignite debate in India over the country's AI ambitions, which are increasingly tied to tech developed and governed in the US
+    Link ID: TM-01-SUB-13
+---
+ID: TM-02
+Title: Siri AI is good enough to ease Apple's AI crisis; sources: the ability to tap third party AI models beyond OpenAI's is already active in internal iOS 27 builds
+Tweets:
+  - Author: @neilcybart
+    Text: Here's a quick demo of Siri AI and on-screen awareness.  It's functionality that something like ChatGPT can do (I did try).  However, that doesn't take anything away from what's shown here.  For many people, this will be the first time engaging with something like this.  For a developer beta, very, very promising.  [video]
+    Link ID: TM-02-TW-01
+  - Author: @markgurman
+    Text: Longer term, I'd also expect Apple to try to create its own OpenClaw competitor, delivering a system that could fully operate its software across iPhones, iPads and Macs on behalf of the user.
+    Link ID: TM-02-TW-02
+  - Author: @mufasayc
+    Text: I did something I never thought I would, I reached out to Siri instead of ChatGPT and honestly it was better and gave me an excellent output with less text which was to the point 🤯
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Sources: UK plans to announce an “Australia plus” under-16 social media ban, including restrictions on chats with strangers on gaming apps and under-18 curfews
+---
+ID: TM-04
+Title: Report: opponents blocked or delayed at least 75 US data center projects in Q1 2026 worth ~$130B; data center opposition groups doubled to 833 across 49 states
+---
+ID: TM-05
+Title: Since Russia ratcheted up control over the internet this year, some Russians are turning to solutions like using multiple phones and VPNs to evade restrictions
+---
+ID: TM-06
+Title: As the 2026 FIFA World Cup begins, there is still no clear replacement for “Sports Twitter”, which was a perfect second-screen experience during live events
+---
+ID: TM-07
+Title: After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet's planned ~$85B in equity offerings for AI
+---
+ID: TM-09
+Title: Satya Nadella says companies must own their AI “learning loops” to compound human and token capital, or risk ceding all value to a handful of frontier models
+---
+ID: TM-10
+Title: Moonshot AI releases Kimi K2.7-Code, claiming 30% lower reasoning token usage compared to K2.6, available under a modified MIT license
+---
+ID: TM-11
+Title: Huawei unveils HarmonyOS 7, introducing an “agent-friendly” architecture that connects to 2,000+ specialized AI agents and features an enhanced voice assistant
+---
+ID: TM-12
+Title: Challenger, Gray & Christmas: out of ~398K US jobs cuts in 2026 through May, employers cited AI as the reason for ~88K of them, up from ~54K in all of 2025
+---
+ID: TM-13
+Title: Q&A with labor researcher Molly Kinder on her recent, widely discussed “Messy Middle” essay on AI-driven disruption of knowledge jobs and how to address it
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-14
+Title: Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices
+---
+ID: TM-15
+Title: After years of uncertainty, including delayed listings, memory chipmaker Kioxia's shares soared 56x in 18 months, making it Japan's most valuable company
+---
+ID: TM-16
+Title: South Korea's “semiconductor belt” town Dongtan has become one of the fastest-rising affluent areas, driven by windfall bonuses for Samsung and SK Hynix workers
+---
+
+[CATEGORY: PREDICTION MARKETS]
+ID: TM-17
+Title: Companies are grappling with whether and how to curb employee wagers on prediction markets that may use confidential info, as platforms tighten their own rules
+---
+ID: TM-18
+Title: A profile of Kalshi COO Luana Lopes Lara, who has overseen a tremendous pace of growth over the past year as the company faces political and regulatory backlash
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-19
+Title: Crypto-data provider Blockworks says it has acquired its rival Messari; source: Blockworks paid more than $10M for Messari, which was valued at $300M in 2022
+---
+ID: TM-20
+Title: Nothing CEO Carl Pei says memory is now the costliest phone component, accounting for 50%+ of BOM in some models, and predicts phone prices will rise into 2027
+---
+ID: TM-21
+Title: A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade
+---
+ID: TM-22
+Title: Sources: Frank founder Charlie Javice, sentenced in September 2025 to 85 months for defrauding JPMorgan Chase, has been seeking a presidential pardon from Trump
+---
+ID: TM-23
+Title: A government crackdown on online casinos operating in the Isle of Man has led to a major tax revenue loss, accelerating the island's slide toward a fiscal cliff
+---
+ID: TM-24
+Title: A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022
+---
+ID: TM-25
+Title: Chinese Tesla drivers are using tiny plastic heads to fool Tesla's distracted-driving controls, which appear unable to distinguish figurines from real people
+---
+ID: TM-26
+Title: An interview with Corning CEO Wendell Weeks on risk-sharing provisions that protect the company in multibillion-dollar fiber deals with Nvidia, Meta, and Amazon
+---
