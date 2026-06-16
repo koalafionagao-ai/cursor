@@ -1,0 +1,278 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources say Anthropic struggles to speak the Trump administration's language; a White House official says it “screwed us” after failing to “honor” a cyber EO
+Tweets:
+  - Author: @deanwball
+    Text: Precisely as I predicted, the recent cyber EO, which admin officials insisted was not a licensing regime, ends up in practice being a licensing regime.  Forget “voluntary,” forget “permissionless.”  AI is licensed now, but the requirements change constantly and are always a secret, even to the administration itself, which will discover the rules spontaneously in real time as it reacts to events.  This means also that the rules are in practice stricter and more roughly enforced for organizations the administration does not like.
+    Link ID: TM-01-TW-01
+  - Author: @thezvi
+    Text: Between Politico and Axios we get a pretty clear picture that this was another case of 'the vibes are off and when we say jump they ask for an explanation rather than how high, so let's blow everything up.' Plus more whining about not getting Dario on the phone fast enough.
+    Link ID: TM-01-TW-02
+  - Author: @levie
+    Text: It's very easy to say “we need an FDA for AI” or some equivalent government agency.  Well this is what that would look like... Now, imagine this same process with every country that you're doing business with, globally, for every single model release.  Add in a backlog of dozens of AI model releases, and you can quickly see how in the limit this will dramatically slow down all AI progress.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Letter: US cybersecurity leaders urge the White House to lift the ban on Anthropic's Mythos 5 and Fable 5, arguing the move hurts defenders more than attackers
+    Link ID: TM-01-SUB-01
+  - Title: Source: Anthropic was given 90 minutes to comply and was not provided with detailed concerns before the export control order was issued
+    Link ID: TM-01-SUB-02
+  - Title: Anthropic's belief in its own commitment to safety gives Anthropic the license to aggressively favor its business and even challenge the US government
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Fox says it is acquiring Roku in its largest deal yet, valued at ~$25B, giving it access to 100M+ streaming households globally; FOX closes down 15.22%
+Tweets:
+  - Author: @eric_seufert
+    Text: Fox acquires Roku; why Amazon didn't Fox is acquiring Roku for $22 billion to integrate live content with a scaled streaming ecosystem.  The merger combines Tubi and The Roku Channel's FAST audiences, which Fox claims only overlap by a third.  Amazon was seen by some as a potential acquirer, but that wouldn't have aligned with its off-platform advertising strategy: leveraging identity partnerships to target third-party inventory through Amazon DSP using its massive bank of retail data.
+    Link ID: TM-02-TW-01
+  - Author: @ddayen
+    Text: I've been predicted the death of cable for a while now. Fox (which on cable is only news and sports channels) solved the problem for themselves by buying the distribution network.
+    Link ID: TM-02-TW-02
+  - Author: @tvgrimreaper
+    Text: Legacy media diversification desperation it is! Fox found a business that has profit growth potential. None of their other businesses do. [image]
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Fox says it obtained a $12B loan for the ~$22B Roku deal; existing Fox shareholders are expected to own ~73% of the combined company and Roku shareholders ~27%
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Keir Starmer says the UK will ban social media for under-16s in an “Australia-plus model” to “give kids their childhood back”, set to take effect in spring 2027
+Tweets:
+  - Author: @keir_starmer
+    Text: We are banning social media access for under 16s. These days kids must find their feet in a world where technology intrudes into every area of their life. I just can't let that go on anymore. So we're giving children their childhoods back. [video]
+    Link ID: TM-03-TW-01
+  - Author: @elonmusk
+    Text: This censorship law is a wolf in sheep's clothing. The real goal is to enable the UK government to track everyone.
+    Link ID: TM-03-TW-02
+  - Author: @carolecadwalla
+    Text: Children have utterly let down to date. But what does a ‘social media ban’ actually mean? Is this really age verification for all? And what does that entail? Because on the surface this looks like rushed populist techsolutionism that will hand *more* power to the platforms. 1/
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: The UK's social media ban will cover Snapchat, TikTok, YouTube, Instagram, Facebook, X, and more, and will require platforms to stop children from livestreaming
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: SpaceX stock closed up 19.6% on Monday, its first full day of trading; Musk said it “might be able to reach” around $1T revenue in 2030, up from $18.7B in 2025
+Sub Items:
+  - Title: SpaceX IPO raised a total of $85.7B as underwriters exercised their overallotment of shares, after raising an initial $75B on June 11
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Source: Nvidia is seeking to raise $20B+ from its first corporate bond sale since 2021, marketed in seven tranches, with maturities spanning two to 30 years
+---
+ID: TM-06
+Title: Salesforce agrees to acquire AI customer service platform Fin, formerly Intercom, for ~$3.6B, in a deal expected to close in Q4 of its 2027 fiscal year
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-07
+Title: Meta launches new AI features, including an “AI Mode” for search that uses Meta AI to surface answers pulled from public posts across Facebook
+---
+ID: TM-08
+Title: A look at a few proposals for sharing AI wealth with the public: government stakes in AI companies, a tax on AI token use, a global capital income tax, and more
+---
+ID: TM-09
+Title: OpenRouter debuts Fusion, a tool for prompting multiple AI models in parallel, claiming it can achieve “Fable-level intelligence at half the price”
+---
+ID: TM-10
+Title: Zhipu's shares closed up 33% on Monday after JPMorgan raised the stock's price target and picked it as a winner against MiniMax; MiniMax closed up 7%
+---
+ID: TM-11
+Title: Cybersecurity startup Chainguard, Cisco, Cloudflare, JPMorgan Chase, and others launch Athena, a coalition to secure open-source software using AI
+---
+ID: TM-12
+Title: Court reporting shows AI's limits in replacing human skill, as reporters remain crucial for capturing gestures and working through noise, amid a worker shortage
+---
+ID: TM-13
+Title: As AI “nudify” tools proliferate, unleashing a new form of bullying among kids, parents and schools struggle to protect young victims from explicit deepfakes
+---
+ID: TM-14
+Title: A profile of UC Berkeley professor Hany Farid, the world's leading digital forensics expert for 20+ years, who says he is now struggling to identify deepfakes
+---
+ID: TM-15
+Title: A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort
+---
+
+[CATEGORY: AI PROCESSORS]
+ID: TM-16
+Title: Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year
+---
+ID: TM-17
+Title: Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase GPUs for AI inference, and is considering a deal to buy Baidu's Kunlunxin chips
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-18
+Title: A US judge rejects Meta's bid to dismiss a lawsuit from Strike 3, which owns porn production companies, that alleges Meta torrented its videos for AI training
+---
+ID: TM-19
+Title: A US judge dismisses xAI's lawsuit alleging OpenAI stole trade secrets, saying xAI failed to show OpenAI induced a former xAI engineer to divulge trade secrets
+---
+
+[CATEGORY: GAMING]
+ID: TM-20
+Title: Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure
+---
+ID: TM-21
+Title: Electronic Arts launches EA Advertising, letting brands integrate directly into gameplay through dynamic, real-time placements, including stadium signage
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-22
+Title: Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025
+---
+ID: TM-23
+Title: The FBI dismantles Outsider Enterprise, an AI-powered Chinese phishing operation, and seizes ~$100K in Tether in a joint effort with Google and Black Lotus Labs
+---
+
+[CATEGORY: M&A]
+ID: TM-24
+Title: Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027
+---
+ID: TM-25
+Title: Sources: Alibaba is in talks to buy Chinese grocery delivery platform Pupu for $1.5B, as part of a broader push to compete with rivals like Meituan and JD.com
+---
+ID: TM-26
+Title: American Express agrees to acquire restaurant booking platform TheFork from Tripadvisor in an all-cash deal worth $700M; TRIP jumps 6%+
+---
+ID: TM-27
+Title: 1Password acquires Apono, which operates an AI-powered platform for managing cloud access, sources say in a deal valued at $250M to $300M
+---
+ID: TM-28
+Title: SailPoint is acquiring Entro Security, which develops a cybersecurity platform for managing non-human identities, a source says in a deal valued at ~$200M
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-29
+Title: Indian AI startup Sarvam raised $234M in the first close of a $300M Series B at a $1.5B valuation, with HCLTech acquiring a 10.5% stake for ~$150M in cash
+---
+ID: TM-30
+Title: Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan
+---
+ID: TM-31
+Title: NewCore, which helps companies manage both human and AI agent identities in a single system, emerges from stealth with a $66M seed led by Cyberstarts
+---
+ID: TM-32
+Title: Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A led by SYN Ventures, following a $12M seed in 2025
+---
+ID: TM-33
+Title: Radical Numerics, which is developing AI models that learn directly from biological data, raised a $50M seed led by Emergence Capital
+---
+ID: TM-34
+Title: Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed
+---
+ID: TM-35
+Title: Sandstone, which builds AI-powered workflow automation tools for legal teams at small and mid-sized businesses, raised a $30M Series A led by Lightspeed
+---
+ID: TM-36
+Title: Madrid-based Orbio, which uses AI agents to help businesses interview, onboard, and manage frontline workers, raised a $21M Series A led by Dawn Capital
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-37
+Title: President Trump says he warned Emmanuel Macron to drop France's 3% digital services tax on US tech giants, or face a 100% tariff on French champagnes and wines
+---
+ID: TM-38
+Title: Docs: Tesla sent Swedish and Dutch regulators Full Self-Driving safety data that traffic-safety researchers called misleading; Dutch RDW approved FSD in April
+---
+ID: TM-39
+Title: Tencent-backed Enflame receives approval for a Shanghai IPO and plans to raise ~$888M; Enflame is the last of China's four leading AI chipmakers to go to market
+---
+ID: TM-40
+Title: Sundar Pichai faced a walkout at his Stanford commencement speech, as 100+ students left while chanting “Free, free Palestine” over Google's Israel contract
+---
+ID: TM-41
+Title: Sources: the US government plans to let the Federal Data Center Enhancement Act, which details standards for data center use and operations, expire in September
+---
+ID: TM-42
+Title: Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit's struggles and low consumer hardware margins
+---
+ID: TM-43
+Title: Inside the Signal group chat where Sergey Brin, Marc Andreessen, Garry Tan, and other tech elites toss out strategies to oppose a proposed California wealth tax
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Google is working on Skills Marketplace for Gemini Business (2 minute read)
+Excerpt: Google is integrating its products under Gemini Enterprise with a new "Skills Marketplace" tab for pre-defined, Google-optimized skills. The marketplace, aimed at helping teams develop dashboards and reporting tools without long engineering delays, includes a Skills Management UI, a Skills Builder, and the Marketplace itself.
+---
+ID: TL-02
+Title: Anthropic Suspended Access to Fable 5 and Mythos 5 (3 minute read)
+Excerpt: Anthropic said it disabled Fable 5 and Mythos 5 for all users after receiving a US government export-control directive tied to national security concerns and reported jailbreak risks.
+---
+ID: TL-03
+Title: GLM-5.2 (1 minute read)
+Excerpt: GLM-5.2, a new flagship model from Z.ai, is now available to all GLM Coding Plan users. It delivers powerful coding capabilities, usable 1M-context support, and continued strengths in long-horizon tasks. API and chatbot services will launch next week. The model will be open-sourced under the MIT License.
+---
+ID: TL-04
+Title: Amazon CEO's Talks With US Officials Triggered Crackdown on Anthropic Models (9 minute read)
+Excerpt: Conversations between Amazon chief executive Andy Jassy and US officials prompted the Trump administration to halt all foreign use of Anthropic's most capable AI models. Researchers at Amazon had used a series of prompts to get Anthropic's Fable 5 model to provide them with information that could be used to aid cyberattacks. White House officials asked Anthropic to fix the vulnerabilities or take down the model. Anthropic has shut down access to its Mythos and Fable models to comply, but says that the vulnerabilities flagged by Amazon are relatively basic and that other publicly available models are also capable of discovering them.
+---
+ID: TL-05
+Title: Inference cost at scale with napkin math (13 minute read)
+Excerpt: You need the following information to work out the dollar price-per-user: GPU hardware specs, context length, active parameter count of the model, and product-specific factors. The specifics of the model architecture matter surprisingly little, unless it's something entirely different, like diffusion. This post shows how to work out the math on paper. The exercise should reveal how various optimizations in inference engines help SaaS products remain profitable.
+---
+ID: TL-06
+Title: Today's Frontier AI companies will never exceed the AI capability frontier again (18 minute read)
+Excerpt: Networks of smaller AI models are outperforming every frontier AI system on speed, accuracy, and cost. Everyone in the 1960s was wrong about the mainframe computer, and everyone is now wrong about centralized AI. The future is a network of neural networks.
+---
+ID: TL-07
+Title: The Physics of a Fable (25 minute read)
+Excerpt: Rafa Schwinger reverse-engineers Claude Mythos and Fable by arguing the moat is not architecture but the environment foundry, with capability decomposing as base foundation times gradeable signal extracted on top, and verifiable reward becoming the scarce decisive input now that text and raw compute no longer are. The recipe stacks dense pretraining, GRPO-style verifier RL where reward-hacking soundness is the actual binding constraint, long-horizon process rewards with learned context-folding that beats million-token windows at 32K active, plus best-of-N test-time compute exposed as an effort dial.
+---
+ID: TL-08
+Title: Count Anything (2 minute read)
+Excerpt: Object counting is still fragmented across domain-specific data sets and task formulations. Existing counting models are often tailored to specific scenarios and struggle to generalize across categories, visual domains, object scales, and density distributions. This paper presents a generalist model for text-guided object counting that achieves strong accuracy and multi-domain generalization.
+---
+ID: TL-09
+Title: MiniMax Sparse Attention for Million-Token Contexts (GitHub Repo)
+Excerpt: MiniMax Sparse Attention is a sparse attention architecture that uses group-specific Top-k block selection to scale long-context inference while preserving model quality. On a 109B multimodal model, it matched GQA performance while cutting attention compute by ~30x at 1M tokens.
+---
+ID: TL-10
+Title: Kimi K2.7 Code (Hugging Face Repo)
+Excerpt: Kimi K2.7 Code is a coding-focused agentic model that has stronger end-to-end task completion across complex software engineering workflows and improved token efficiency compared to Kimi K2.6. The Mixture-of-Experts model has 1 trillion total parameters. It can be accessed on Moonshot's OpenAI/Anthropic compatible API. The model works best with Kimi Code CLI as its agent framework.
+---
+ID: TL-11
+Title: Introducing the Open Knowledge Format (9 minute read)
+Excerpt: The Open Knowledge Format is an open specification that formalizes the LLM-wiki pattern into a portable, interoperable format. It is vendor-neutral and agent- and human-friendly. The standard can represent the metadata, context, and curated knowledge that modern AI systems need. The specification uses familiar patterns with no complex compression scheme, new runtime, or required SDK.
+---
+ID: TL-12
+Title: olmo-eval: An evaluation workbench for the model development loop (7 minute read)
+Excerpt: olmo-eval is a new evaluation workbench designed for iterative LLM development. Enhancing the OLMES standard, it streamlines adding benchmarks, supports agentic and multi-turn evaluations, and facilitates analysis by comparing changes across model checkpoints. Unlike Harbor, olmo-eval offers flexibility, minimizing resource use and focusing on development rather than public benchmarking.
+---
+ID: TL-13
+Title: Why Apple built a third-party AI system for Siri and then refused to show it at WWDC (6 minute read)
+Excerpt: The iOS 27 beta contains an Extensions system for third-party AI. The system includes a settings panel and a dedicated App Store section. Both have been built, but are toggled off in the backend. Apple was in discussions with major AI providers about granting entitlements for the framework, but it appears the company has decided against announcing the feature for now.
+---
+ID: TL-14
+Title: TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)
+Excerpt: We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.
+---
+ID: TL-15
+Title: $10,000,000 on the line: how we measure Devin's engineering output (1 minute read)
+Excerpt: Devin's engineering system guarantees more output than cost, with $10M pledged per customer. The system's effectiveness is validated using independent data. This bold claim aims to bolster confidence in their engineering productivity.
+---
+ID: TL-16
+Title: The Oracle and the Firm (5 minute read)
+Excerpt: OpenAI and Anthropic have decided on different approaches to context management. OpenAI uses compaction, compressing everything and retaining only the relevant information. This results in one long thread that maintains a lot of coherence. Anthropic splits context windows across various agents, where each agent executes on the sub-problem within its own context window. Sub-agents do a large amount of work, then pass back only the relevant information to the parent agent. Anthropic's approach can result in sub-agents doing duplicate work, forgetting information, and generally wasting more tokens.
+---
+ID: TL-17
+Title: NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark (4 minute read)
+Excerpt: NVIDIA's Blackwell Ultra NVL72 platform leads the AgentPerf benchmark by delivering 20x more agent throughput per megawatt than NVIDIA Hopper.
+---
+ID: TL-18
+Title: A frontier without an ecosystem is not stable (5 minute read)
+Excerpt: Microsoft CEO Satya Nadella argues every company needs to build both human capital and token capital.
+---
+ID: TL-19
+Title: Ramp SWE-Bench: a private, production-grounded coding benchmark (3 minute read)
+Excerpt: Ramp released its own private SWE-Bench built from real engineering problems faced at Ramp, giving the team a way to evaluate coding models inside its actual financial software ecosystem.
+---
+ID: TL-20
+Title: DeepSeek's $10 Trillion Long-Term Strategy (29 minute read)
+Excerpt: This thread explores a theory that DeepSeek's focus on open-source models, research sharing, and infrastructure development is part of a broader strategy aimed at becoming foundational AI infrastructure rather than competing directly on consumer products.
+---

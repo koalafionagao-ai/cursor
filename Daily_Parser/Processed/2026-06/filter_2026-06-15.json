@@ -1,0 +1,386 @@
+{
+  "date": "2026-06-15",
+  "threshold": 7.0,
+  "total": 63,
+  "kept": 27,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 5.0,
+      "keep": false,
+      "reason": "报道内容较常规，涉及政治与AI的关系，但缺乏深度和新颖性。"
+    },
+    {
+      "id": "TM-02",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及收购和股价波动。"
+    },
+    {
+      "id": "TM-03",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是政策新闻。"
+    },
+    {
+      "id": "TM-04",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是股价波动。"
+    },
+    {
+      "id": "TM-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及Nvidia的融资计划，具有一定的信息量。"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Salesforce收购AI客服平台，具有产品洞察和市场影响。"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta推出新AI功能，涉及产品更新和应用。"
+    },
+    {
+      "id": "TM-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "讨论AI财富分享的提案，信息量一般。"
+    },
+    {
+      "id": "TM-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenRouter推出新工具，具有技术和应用的创新性。"
+    },
+    {
+      "id": "TM-10",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是股价波动。"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "多个大公司联合推出AI安全联盟，具有行业影响力。"
+    },
+    {
+      "id": "TM-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "讨论AI在特定领域的局限性，信息量一般。"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨AI工具对青少年的影响，具有社会关注价值。"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于数字取证专家的报道，信息量一般。"
+    },
+    {
+      "id": "TM-15",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Cursor与Anthropic的关系，信息量一般。"
+    },
+    {
+      "id": "TM-16",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Qualcomm考虑收购AI芯片设计公司，具有行业影响力。"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "ByteDance与GPU供应商的谈判，涉及AI硬件采购。"
+    },
+    {
+      "id": "TM-18",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta面临法律诉讼，涉及AI训练的法律问题。"
+    },
+    {
+      "id": "TM-19",
+      "score": 6.0,
+      "keep": false,
+      "reason": "xAI与OpenAI的法律纠纷，涉及行业内的竞争问题。"
+    },
+    {
+      "id": "TM-20",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是公司内部事务。"
+    },
+    {
+      "id": "TM-21",
+      "score": 7.0,
+      "keep": true,
+      "reason": "EA推出广告新模式，涉及AI在游戏中的应用。"
+    },
+    {
+      "id": "TM-22",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是网络安全新闻。"
+    },
+    {
+      "id": "TM-23",
+      "score": 8.0,
+      "keep": true,
+      "reason": "FBI打击AI网络钓鱼行动，具有重要的安全和技术意义。"
+    },
+    {
+      "id": "TM-24",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是收购新闻。"
+    },
+    {
+      "id": "TM-25",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是商业收购谈判。"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不强，主要涉及收购信息。"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.5,
+      "keep": true,
+      "reason": "收购 AI 平台 Apono，涉及云访问管理，具有产品洞察价值。"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "收购 Entro Security，涉及网络安全，但信息量一般。"
+    },
+    {
+      "id": "TM-29",
+      "score": 8.0,
+      "keep": true,
+      "reason": "印度 AI 初创公司融资，涉及重要投资和估值。"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息，涉及实时翻译工具，但信息量较常规。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "新公司融资信息，涉及 AI 代理身份管理，但较常规。"
+    },
+    {
+      "id": "TM-32",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息，涉及 AI 代理授权管理，但信息量一般。"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息，涉及生物数据的 AI 模型，较常规。"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息，涉及数据提取和工作流，但信息量一般。"
+    },
+    {
+      "id": "TM-35",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息，涉及法律团队的 AI 工具，较常规。"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息，涉及前线工人的 AI 代理，但信息量一般。"
+    },
+    {
+      "id": "TM-37",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不强，主要涉及政治和税务问题。"
+    },
+    {
+      "id": "TM-38",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及特斯拉的安全数据，但信息量一般。"
+    },
+    {
+      "id": "TM-39",
+      "score": 9.0,
+      "keep": true,
+      "reason": "腾讯支持的 AI 芯片公司即将 IPO，具有行业影响力。"
+    },
+    {
+      "id": "TM-40",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不强，主要涉及政治事件。"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及美国政府数据中心法案，但信息量一般。"
+    },
+    {
+      "id": "TM-42",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及健康可穿戴设备的市场动态，但信息量一般。"
+    },
+    {
+      "id": "TM-43",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不强，主要涉及税务策略讨论。"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "谷歌推出技能市场，涉及 AI 产品整合，具有产品洞察价值。"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Anthropic 暂停模型访问，涉及国家安全和政策影响。"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新模型 GLM-5.2 发布，具有强大的编码能力，值得关注。"
+    },
+    {
+      "id": "TL-04",
+      "score": 9.0,
+      "keep": true,
+      "reason": "亚马逊与政府的对话导致对 Anthropic 模型的重大影响。"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨推理成本的计算，具有一定的产品洞察价值。"
+    },
+    {
+      "id": "TL-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "讨论小型 AI 模型网络的未来，具有行业洞察价值。"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "深入分析 Claude Mythos 和 Fable 的物理学，具有技术洞察价值。"
+    },
+    {
+      "id": "TL-08",
+      "score": 7.5,
+      "keep": true,
+      "reason": "提出了一种通用模型，具有多领域泛化能力，值得关注的技术进展"
+    },
+    {
+      "id": "TL-09",
+      "score": 8.5,
+      "keep": true,
+      "reason": "新型稀疏注意力架构在长上下文推理中表现出色，具有重要的技术应用价值"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新版本的编码模型在软件工程工作流中表现更佳，具有较强的产品洞察"
+    },
+    {
+      "id": "TL-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "开放知识格式的标准化对现代AI系统的知识表示有重要意义"
+    },
+    {
+      "id": "TL-12",
+      "score": 7.5,
+      "keep": true,
+      "reason": "新评估工具为LLM开发提供了灵活性和效率，具有实用价值"
+    },
+    {
+      "id": "TL-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "苹果的第三方AI系统开发动态，虽有潜在影响但信息量有限"
+    },
+    {
+      "id": "TL-14",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI行业发展关系不大，信息量不足"
+    },
+    {
+      "id": "TL-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于工程输出的承诺，缺乏具体的技术或市场影响"
+    },
+    {
+      "id": "TL-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI与Anthropic在上下文管理上的不同策略，揭示了行业内的重要技术差异"
+    },
+    {
+      "id": "TL-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "NVIDIA的基准测试结果展示了其在AI基础设施上的领先地位"
+    },
+    {
+      "id": "TL-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于人力资本和代币资本的讨论，信息量一般，缺乏深度"
+    },
+    {
+      "id": "TL-19",
+      "score": 6.5,
+      "keep": false,
+      "reason": "Ramp的私有编码基准为实际应用提供了评估工具，具有一定的行业价值"
+    },
+    {
+      "id": "TL-20",
+      "score": 9.0,
+      "keep": true,
+      "reason": "DeepSeek的长期战略探讨对AI基础设施的未来发展具有重要意义"
+    }
+  ]
+}

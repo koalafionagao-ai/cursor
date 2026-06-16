@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-15",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources say Anthropic struggles to speak the Trump administration's language; a White House official says it “screwed us” after failing to “honor” a cyber EO",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos",
+        "tweets": [
+          {
+            "author": "@deanwball",
+            "text": "Precisely as I predicted, the recent cyber EO, which admin officials insisted was not a licensing regime, ends up in practice being a licensing regime.  Forget “voluntary,” forget “permissionless.”  AI is licensed now, but the requirements change constantly and are always a secret, even to the administration itself, which will discover the rules spontaneously in real time as it reacts to events.  This means also that the rules are in practice stricter and more roughly enforced for organizations the administration does not like.",
+            "url": "https://x.com/deanwball/status/2066499769833341419"
+          },
+          {
+            "author": "@thezvi",
+            "text": "Between Politico and Axios we get a pretty clear picture that this was another case of 'the vibes are off and when we say jump they ask for an explanation rather than how high, so let's blow everything up.' Plus more whining about not getting Dario on the phone fast enough.",
+            "url": "https://x.com/thezvi/status/2066128269213126675"
+          },
+          {
+            "author": "@levie",
+            "text": "It's very easy to say “we need an FDA for AI” or some equivalent government agency.  Well this is what that would look like... Now, imagine this same process with every country that you're doing business with, globally, for every single model release.  Add in a backlog of dozens of AI model releases, and you can quickly see how in the limit this will dramatically slow down all AI progress.",
+            "url": "https://x.com/levie/status/2066554018953146689"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Letter: US cybersecurity leaders urge the White House to lift the ban on Anthropic's Mythos 5 and Fable 5, arguing the move hurts defenders more than attackers",
+            "url": "https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin"
+          },
+          {
+            "title": "Source: Anthropic was given 90 minutes to comply and was not provided with detailed concerns before the export control order was issued",
+            "url": "https://www.ft.com/content/f6940d59-28f4-4ae4-a569-c6fc421e52b9"
+          },
+          {
+            "title": "Anthropic's belief in its own commitment to safety gives Anthropic the license to aggressively favor its business and even challenge the US government",
+            "url": "https://stratechery.com/2026/anthropics-safety-superpower/"
+          }
+        ]
+      },
+      {
+        "title": "Fox says it is acquiring Roku in its largest deal yet, valued at ~$25B, giving it access to 100M+ streaming households globally; FOX closes down 15.22%",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa",
+        "tweets": [
+          {
+            "author": "@eric_seufert",
+            "text": "Fox acquires Roku; why Amazon didn't Fox is acquiring Roku for $22 billion to integrate live content with a scaled streaming ecosystem.  The merger combines Tubi and The Roku Channel's FAST audiences, which Fox claims only overlap by a third.  Amazon was seen by some as a potential acquirer, but that wouldn't have aligned with its off-platform advertising strategy: leveraging identity partnerships to target third-party inventory through Amazon DSP using its massive bank of retail data.",
+            "url": "https://x.com/eric_seufert/status/2066597449360093227"
+          },
+          {
+            "author": "@ddayen",
+            "text": "I've been predicted the death of cable for a while now. Fox (which on cable is only news and sports channels) solved the problem for themselves by buying the distribution network.",
+            "url": "https://x.com/ddayen/status/2066517656321311109"
+          },
+          {
+            "author": "@tvgrimreaper",
+            "text": "Legacy media diversification desperation it is! Fox found a business that has profit growth potential. None of their other businesses do. [image]",
+            "url": "https://x.com/tvgrimreaper/status/2066509575566524540"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Fox says it obtained a $12B loan for the ~$22B Roku deal; existing Fox shareholders are expected to own ~73% of the combined company and Roku shareholders ~27%",
+            "url": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html"
+          }
+        ]
+      },
+      {
+        "title": "Keir Starmer says the UK will ban social media for under-16s in an “Australia-plus model” to “give kids their childhood back”, set to take effect in spring 2027",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/britain-expected-set-out-under-16s-social-media-restrictions-2026-06-14/",
+        "tweets": [
+          {
+            "author": "@keir_starmer",
+            "text": "We are banning social media access for under 16s. These days kids must find their feet in a world where technology intrudes into every area of their life. I just can't let that go on anymore. So we're giving children their childhoods back. [video]",
+            "url": "https://x.com/keir_starmer/status/2066421329859936656"
+          },
+          {
+            "author": "@elonmusk",
+            "text": "This censorship law is a wolf in sheep's clothing. The real goal is to enable the UK government to track everyone.",
+            "url": "https://x.com/elonmusk/status/2066552697931628747"
+          },
+          {
+            "author": "@carolecadwalla",
+            "text": "Children have utterly let down to date. But what does a ‘social media ban’ actually mean? Is this really age verification for all? And what does that entail? Because on the surface this looks like rushed populist techsolutionism that will hand *more* power to the platforms. 1/",
+            "url": "https://x.com/carolecadwalla/status/2066428260985012463"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "The UK's social media ban will cover Snapchat, TikTok, YouTube, Instagram, Facebook, X, and more, and will require platforms to stop children from livestreaming",
+            "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo"
+          }
+        ]
+      },
+      {
+        "title": "SpaceX stock closed up 19.6% on Monday, its first full day of trading; Musk said it “might be able to reach” around $1T revenue in 2030, up from $18.7B in 2025",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "SpaceX IPO raised a total of $85.7B as underwriters exercised their overallotment of shares, after raising an initial $75B on June 11",
+            "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html"
+          }
+        ]
+      },
+      {
+        "title": "Source: Nvidia is seeking to raise $20B+ from its first corporate bond sale since 2021, marketed in seven tranches, with maturities spanning two to 30 years",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Salesforce agrees to acquire AI customer service platform Fin, formerly Intercom, for ~$3.6B, in a deal expected to close in Q4 of its 2027 fiscal year",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Meta launches new AI features, including an “AI Mode” for search that uses Meta AI to surface answers pulled from public posts across Facebook",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at a few proposals for sharing AI wealth with the public: government stakes in AI companies, a tax on AI token use, a global capital income tax, and more",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenRouter debuts Fusion, a tool for prompting multiple AI models in parallel, claiming it can achieve “Fable-level intelligence at half the price”",
+        "excerpt": "",
+        "url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Zhipu's shares closed up 33% on Monday after JPMorgan raised the stock's price target and picked it as a winner against MiniMax; MiniMax closed up 7%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/zhipu-shares-surge-48-after-jpmorgan-raises-price-target",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cybersecurity startup Chainguard, Cisco, Cloudflare, JPMorgan Chase, and others launch Athena, a coalition to secure open-source software using AI",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/chainguard-cyber-firms-use-ai-to-hunt-for-open-source-flaws",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Court reporting shows AI's limits in replacing human skill, as reporters remain crucial for capturing gestures and working through noise, amid a worker shortage",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/the-job-that-ai-was-supposed-to-kill-needs-more-humans-than-ever-0771e4cf?st=52UPsR&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As AI “nudify” tools proliferate, unleashing a new form of bullying among kids, parents and schools struggle to protect young victims from explicit deepfakes",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai-deepfake-nudes-bullying-school-d242b8d4?st=LWUjEG&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of UC Berkeley professor Hany Farid, the world's leading digital forensics expert for 20+ years, who says he is now struggling to identify deepfakes",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html?unlocked_article_code=1.qFA.A6Fe.SMasD7T0VSmU&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/cursor-ceo-michael-truell-spacex-elon-musk-anthropic-2026-6",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "ai processors": [
+      {
+        "title": "Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase GPUs for AI inference, and is considering a deal to buy Baidu's Kunlunxin chips",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/bytedance-talks-with-chinas-iluvatar-corex-purchase-ai-chips-sources-say-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "A US judge rejects Meta's bid to dismiss a lawsuit from Strike 3, which owns porn production companies, that alleges Meta torrented its videos for AI training",
+        "excerpt": "",
+        "url": "https://torrentfreak.com/meta-must-face-adult-film-piracy-lawsuit-as-court-denies-dismissal/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US judge dismisses xAI's lawsuit alleging OpenAI stole trade secrets, saying xAI failed to show OpenAI induced a former xAI engineer to divulge trade secrets",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/openai-wins-dismissal-trade-secret-lawsuit-by-musks-xai-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTU1NDUzNiwiZXhwIjoxNzgyMTU5MzM2LCJhcnRpY2xlSWQiOiJUR09XOTRLSVAzTE0wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.qu5M4E4sve-8r60rL_e-Xv-LrGJvIGgWiKLxMitTl5A",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Electronic Arts launches EA Advertising, letting brands integrate directly into gameplay through dynamic, real-time placements, including stadium signage",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/15/electronic-arts-launches-a-new-way-to-advertise-directly-into-gameplay.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/chinese-linked-hackers-targeted-uscanadian-research-facilities-year-google-says-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The FBI dismantles Outsider Enterprise, an AI-powered Chinese phishing operation, and seizes ~$100K in Tether in a joint effort with Google and Black Lotus Labs",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Canadian payments company Nuvei agrees to acquire NY-based cross-border payments company Payoneer for ~$2.75B in cash; the deal is expected to close in mid-2027",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/canadas-nuvei-buy-payoneer-275-billion-cross-border-payments-push-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Alibaba is in talks to buy Chinese grocery delivery platform Pupu for $1.5B, as part of a broader push to compete with rivals like Meituan and JD.com",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/alibaba-bids-1-5-billion-for-china-grocer-in-fight-with-meituan",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "American Express agrees to acquire restaurant booking platform TheFork from Tripadvisor in an all-cash deal worth $700M; TRIP jumps 6%+",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/american-express-buy-tripadvisors-restaurant-booking-platform-thefork-700-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "1Password acquires Apono, which operates an AI-powered platform for managing cloud access, sources say in a deal valued at $250M to $300M",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/s1bbav611fx",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SailPoint is acquiring Entro Security, which develops a cybersecurity platform for managing non-human identities, a source says in a deal valued at ~$200M",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/bjoupwp11fg",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Indian AI startup Sarvam raised $234M in the first close of a $300M Series B at a $1.5B valuation, with HCLTech acquiring a 10.5% stake for ~$150M in cash",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/india/indias-hcltech-buy-105-stake-sarvam-ai-valuing-startup-15-billion-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/rjgulkbbgx",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NewCore, which helps companies manage both human and AI agent identities in a single system, emerges from stealth with a $66M seed led by Cyberstarts",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A led by SYN Ventures, following a $12M seed in 2025",
+        "excerpt": "",
+        "url": "https://www.wsj.com/cio-journal/arcade-dev-raises-60-million-to-secure-ai-agents-5d07eff4?st=at5seq&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Radical Numerics, which is developing AI models that learn directly from biological data, raised a $50M seed led by Emergence Capital",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/biotech-deals/2026/06/15/radical-numerics-seed-biological-ai-models",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/06/11/hypha-ai-private-markets-seed",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sandstone, which builds AI-powered workflow automation tools for legal teams at small and mid-sized businesses, raised a $30M Series A led by Lightspeed",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Madrid-based Orbio, which uses AI agents to help businesses interview, onboard, and manage frontline workers, raised a $21M Series A led by Dawn Capital",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "President Trump says he warned Emmanuel Macron to drop France's 3% digital services tax on US tech giants, or face a 100% tariff on French champagnes and wines",
+        "excerpt": "",
+        "url": "https://nypost.com/2026/06/15/business/trump-warns-france-in-exclusive-interview-with-the-post-kill-tech-tax-or-face-100-wine-tariffs/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Docs: Tesla sent Swedish and Dutch regulators Full Self-Driving safety data that traffic-safety researchers called misleading; Dutch RDW approved FSD in April",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/tesla-presented-misleading-full-self-driving-safety-data-european-regulators-2026-06-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tencent-backed Enflame receives approval for a Shanghai IPO and plans to raise ~$888M; Enflame is the last of China's four leading AI chipmakers to go to market",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/tencent-backed-enflame-heads-to-ipo-as-china-ai-chip-wave-grows",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sundar Pichai faced a walkout at his Stanford commencement speech, as 100+ students left while chanting “Free, free Palestine” over Google's Israel contract",
+        "excerpt": "",
+        "url": "https://nypost.com/2026/06/14/us-news/mass-protest-at-stanford-university-graduation-as-soon-as-google-ceo-sundar-pichai-takes-the-stage/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the US government plans to let the Federal Data Center Enhancement Act, which details standards for data center use and operations, expire in September",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit's struggles and low consumer hardware margins",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/investing/the-wearable-boom-is-real-the-investment-case-is-murkier-516466b3?st=Fr9TvJ&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Inside the Signal group chat where Sergey Brin, Marc Andreessen, Garry Tan, and other tech elites toss out strategies to oppose a proposed California wealth tax",
+        "excerpt": "",
+        "url": "https://sfstandard.com/2026/06/13/billionaire-tax-fight-sergey-brin-chris-larsen-mike-moritz-ron-conway/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 43
+  }
+}
