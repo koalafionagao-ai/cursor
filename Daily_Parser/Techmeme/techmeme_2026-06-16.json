@@ -1,0 +1,389 @@
+{
+  "date": "2026-06-16",
+  "sections": {
+    "top news": [
+      {
+        "title": "SpaceX agrees to acquire Cursor in a merger valuing the AI coding startup at $60B, set to close in Q3 2026, or pay a $4B to $10B termination fee",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+        "tweets": [
+          {
+            "author": "@spacex",
+            "text": "SpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world's most useful AI models. For the past few months, SpaceXAI has been jointly training a model with Cursor, which will be released in Cursor and Grok Build soon.",
+            "url": "https://x.com/spacex/status/2066873915717136548"
+          },
+          {
+            "author": "@apostructura",
+            "text": "It's an all stock deal which means that SpaceX is giving Cursor investors “only” 2.4% equity in SpaceX. Being worth $2.5T has its perks",
+            "url": "https://x.com/apostructura/status/2066840324886893017"
+          },
+          {
+            "author": "@austen",
+            "text": "Cursor or SpaceX alone can't really play in the enterprise coding game. Cursor + SpaceX/xAi? Now it's a ball game. Have a lot of catching up to do as models go, but they're in the race.",
+            "url": "https://x.com/austen/status/2066886788283588878"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Snap unveils $2,195 Specs, its first AR glasses that are “fully standalone” and have a 51-degree field of view, expected “this fall” in the US, UK, and France",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
+        "tweets": [
+          {
+            "author": "@autismcapital",
+            "text": "The new Snapchat Specs are still absurd and goofy but shoutout Snapchat for still going for it. All of these are iterative steps to the AR future. When the tech finally gets there, people are going to be rocked. [image]",
+            "url": "https://x.com/autismcapital/status/2067004735820014038"
+          },
+          {
+            "author": "@markgurman",
+            "text": "Spiegel called the Specs both “very, very” wearable and highly capable, which he said gives Snap an opportunity “in a market that's focused either on very large and clunky headsets that are super capable or very lightweight glasses that don't really do much.”",
+            "url": "https://x.com/markgurman/status/2066928863737942211"
+          },
+          {
+            "author": "@mweinbach",
+            "text": "Specs have dual Snapdragon processors! Wonder if this will become more common on glasses, dual chip. Makes a ton of sense. [image]",
+            "url": "https://x.com/mweinbach/status/2066939419282600329"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "A look at Specs, which have a battery life of up to four hours per charge, and an interview with Snap CEO Evan Spiegel about the AR glasses",
+            "url": "https://www.fastcompany.com/91559773/snap-specs-2026-ar-glasses-evan-spiegel"
+          }
+        ]
+      },
+      {
+        "title": "Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+        "tweets": [
+          {
+            "author": "@pixeluibygoogle",
+            "text": "Android 17 introduces great new features and APIs for developers. Features & APIs: Enhances profiling/debugging, adds efficient alarms, improves privacy with contact picker & ECH, strengthens security with Advanced Protection & PQC signing, and optimizes satellite connectivity.",
+            "url": "https://x.com/pixeluibygoogle/status/2066945477782946250"
+          },
+          {
+            "author": "@rosterloh",
+            "text": "Android 17 is officially rolling out today, bringing some incredible upgrades to your daily experience.  🚀 We're delivering faster multitasking with Bubbles 🫧 (helpful for keeping track of @USMNT while getting things done), major new creative capabilities with native tools like Screen Reactions 🎬, and critical security enhancements to give you peace of mind 🔐",
+            "url": "https://x.com/rosterloh/status/2066962081367331264"
+          },
+          {
+            "author": "@mishaalrahman",
+            "text": "🫧 Android 17 brings a new way to multitask with Bubbles! You can now open any app in a floating bubble for next-level multitasking! And for foldable users, a new bubble bar on the taskbar anchors these apps to make them more organized. [image]",
+            "url": "https://x.com/mishaalrahman/status/2066944174839189584"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Docs: audited financial figures show OpenAI spent $34B in 2025, up 172% YoY, including $19B on research and development and nearly $6B on sales and marketing",
+        "excerpt": "",
+        "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Docs: OpenAI's net loss grew from $5B in 2024 to ~$39B in 2025, a source says due to a $30B non-cash accounting charge linked to its previous structure",
+            "url": "https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828"
+          }
+        ]
+      },
+      {
+        "title": "SpaceX closed up 4.8% on Tuesday with a $2.65T market cap, just above Amazon's, after popping ~12% intraday and briefly overtaking Microsoft's $2.93T market cap",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: the US DOJ asks the court to dismiss an NAACP lawsuit over xAI's gas turbines, saying xAI is integral to the US' military operations, like the Iran War",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over giving China-linked firm Mythos access",
+        "excerpt": "",
+        "url": "https://www.washingtonpost.com/technology/2026/06/15/how-anthropic-lost-white-houses-trust-then-its-flagship-product/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: the Trump administration won't allow G7 countries to regain access to Mythos 5 as doing so would be “completely illogical”; UK requested a “carve-out”",
+            "url": "https://nypost.com/2026/06/16/business/trump-admin-open-to-talks-with-anthropic-over-foreigner-ban/"
+          },
+          {
+            "title": "Anthropic says its senior leaders met Trump administration officials on Monday, didn't reach a resolution, and both sides are working to resolve things quickly",
+            "url": "https://www.theinformation.com/briefings/anthropic-discusses-possible-accord-trump-administration"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Apple's AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTYyNjM1MCwiZXhwIjoxNzgyMjMxMTUwLCJhcnRpY2xlSWQiOiJUR0NERkhLSVAzTVIwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.3EJsSNxv9jrhqBdbuxZLmp2nSjwSuk11MD4UtDyAatU",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Robinhood CEO Vlad Tenev says the company is “proactively” reducing its full-time workforce by ~10%, or ~290 employees, in a “flattening” of its org structure",
+        "excerpt": "",
+        "url": "https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: DeepSeek closed a ~$7.4B round at a $50B+ valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/deepseek-closes-record-7-billion-plus-funding-unusual-deal-structure",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Z.ai debuts GLM-5.2, saying it has significant improvements for coding, agentic, and long-horizon tasks, with a 1M context window and MIT-licensed open weights",
+        "excerpt": "",
+        "url": "https://z.ai/blog/glm-5.2",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "France plans €655M in AI investments through 2030 and a Mistral-powered chatbot for state services; its security service will replace Palantir with Chapsvision",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-16/french-security-service-to-replace-palantir-with-local-software",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft is moving Copilot Cowork to usage-based pricing and is considering a Microsoft-hosted version of DeepSeek as a cheaper option",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/16/microsoft-copilot-cowork-tokenmaxxing-cowork",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alibaba's AI unit Tongyi Lab launches the Qwen Robot Suite, its first suite of AI models for robots, in pilot testing with some Alibaba Cloud enterprise clients",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/big-tech/article/3357260/alibaba-eyes-physical-world-its-first-suite-ai-models-robots",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SoftBank announces an OpenAI-powered “patching service” that aims to protect Japan's top 3,000 companies behind crucial infrastructure against cyberattacks",
+        "excerpt": "",
+        "url": "https://apnews.com/article/openai-softbank-japan-technology-intelligence-cyberattacks-d8d3f9b2e5042ea949a7d5c53b782d96",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic pauses its anticipated move to token-based billing for Claude Agent SDK that it planned to implement on June 15, saying “Nothing changes for now”",
+        "excerpt": "",
+        "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sensor Tower: ChatGPT's market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5%",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Study: Mistral and other open-source AI models are among the worst at filtering out Russian disinformation; Mistral's top model ranks 47 out of 60 tested models",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/9703cd44-a966-42ff-bd2e-bfd3bcbc22bb",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Sources: Binance is set to lose permission to offer services to EU clients from the start of July as its application for a license is about to be turned down",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/binance-set-lose-eu-licence-bid-permission-offer-services-bloc-sources-say-2026-06-16/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with SBF about life in prison, his serialized prison memoir titled Manfred, and more, as he praises Trump, becomes a Republican, and seeks a pardon",
+        "excerpt": "",
+        "url": "https://nymag.com/intelligencer/article/sam-bankman-fried-prison-donald-trump-pardon-appeal.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ripple acquires a stake in Flutterwave as part of the African payments startup's Series E, valuing Flutterwave at $3.2B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-16/ripple-takes-equity-stake-in-flutterwave-valuing-africa-fintech-at-3-3-billion",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Italy's competition regulator opens an investigation into Apple under the DMA over whether iOS and iPadOS interoperate with third-party consumer cloud services",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/italys-antitrust-regulator-probes-apple-over-cloud-services-under-digital-market-2026-06-16/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "India blocks Telegram until June 22, citing its use by organized “cheating rackets” to “defraud candidates” taking a national medical entrance exam on June 21",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/india/india-blocks-telegram-messaging-app-until-june-22-government-says-2026-06-16/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Databricks agrees to acquire Panther Labs, its third cybersecurity acquisition; Panther was valued at $1.4B when it raised a $120M Series B in 2021",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/databricks-strikes-deal-buy-panther-labs-cybersecurity-push-2026-06-16/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Letter: Hightouch, an ad tech startup recently valued at $2.75B, offers to buy LiveRamp's identity business from Publicis for $800M to $1.2B in cash and stock",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/16/publicis-liveramp-assets-hightouch",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Atom Computing, one of the nine quantum computing startups backed by the US, raised a $100M Series C led by Third Point, bringing its total funding to $300M",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/all-deals/2026/06/16/us-government-quantum-atom-computing-100-million",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hydra Host, a marketplace for developers and enterprises to procure GPUs pooled from data center operators, raised a $100M Series A led by Kindred Ventures",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/15/gpu-infrastructure-management-startup-hydra-host-raises-100m/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kuala Lumpur-based Respond.io, which uses AI agents to manage customer conversations, raised a $62.5M Series B led by Camber, following a $7M Series A in 2022",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bland, which uses proprietary, in-house-built voice models to process calls for 250+ enterprise clients, raised a $50M Series C led by Dell Technologies Capital",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/16/voice-ai-bland-50-million-after-being-rejected-by-180-investors/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures",
+        "excerpt": "",
+        "url": "https://www.smartcompany.com.au/startupsmart/everlab-raises-65-million-series-a-raise-preventative-healthcare/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Copia, an industrial code management and recovery provider, raised $26M co-led by AE Ventures and Squadra Ventures, after previously raising $16.4M",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/supply-chain-deals/2026/06/16/copia-26m-industrial-cyberattack-resilience",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Limitless Labs, which is developing an AI platform to automate CNC manufacturing, raised a $20M Series A led by Dell Technologies Capital and Square Peg",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/hjod1pr11me",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Meta says Threads now has 500M MAUs, adds a “Your Algo” tool that lets users privately control what they see in their feed, and launches Communities out of beta",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained its infrastructure and contributed to dozens of major GitHub outages in 2026",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft upgrades Surface Pro and Surface Laptop with Qualcomm Snapdragon X2 chips; Pro starts at $1,499 and Laptop at $1,599, both $100 higher than last-gen",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZncnR3eTRoZEYiLCJwIjoiL3RlY2gvOTUwMTQ2L21pY3Jvc29mdC1zdXJmYWNlLWxhcHRvcC04LXN1cmZhY2UtcHJvLTEyLXNuYXBkcmFnb24teDItc3BlY3MtcHJpY2UiLCJleHAiOjE3ODIwNTc2NzMsImlhdCI6MTc4MTYyNTY3M30.4_bBQq2w3N9mR5hPzOJKzL4jNaacNPpJ5p8xsQVv92Y&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Roblox's biometric age-checking tool, which will help place its users into age-based accounts starting in June, amid controversy over user privacy",
+        "excerpt": "",
+        "url": "https://www.nbcnews.com/tech/tech-news/inside-roblox-age-verification-efforts-rcna346973",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Roblox rolls out Roblox Kids accounts for ages 5 to 8 and Roblox Select accounts for ages 9 to 15, globally, after unveiling them alongside age checks in April",
+            "url": "https://www.theverge.com/games/950265/%20robloxs-new-types-of-accounts-with-%20increased-restrictions-for-kids-are-%20rolling-out-globally"
+          }
+        ]
+      },
+      {
+        "title": "Memo: CTO Andrew Bosworth said Meta did “an atrocious job” sharing Applied AI's vision, promising employees better communication, career growth, and more perks",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Qualcomm announces Snapdragon Reality Elite, its new flagship XR chipset, debuting in the compute puck of Xreal's Aura Android XR device this fall",
+        "excerpt": "",
+        "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing “X-Rated” content to minors",
+        "excerpt": "",
+        "url": "https://news.bloomberglaw.com/tech-and-telecom-law/tiktok-sued-by-florida-for-showing-minors-x-rated-posts",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ent Security, which wants to build a new layer of workspace security that reads the intent behind what users and AI agents do, launches with $100M in funding",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/16/riskiq-founders-launch-ent-security-100m-rethink-endpoint-defense/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: PayPal to shutter its 10-year-old PayPal Ventures arm amid a broader shakeup under a new CEO and has hired Jefferies to explore selling some positions",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/16/paypal-ventures-wind-down-corporate-restructuring-enrique-lores/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Taxi-hailing app Go's shares grew 21% in its Tokyo debut, after it raised ~$553M in Japan's largest IPO in 2026, giving the company a market value of ~$1.16B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 42
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "date": "2026-06-16",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "SpaceX agrees to acquire Cursor in a merger valuing the AI coding startup at $60B, set to close in Q3 2026, or pay a $4B to $10B termination fee",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Snap unveils $2,195 Specs, its first AR glasses that are “fully standalone” and have a 51-degree field of view, expected “this fall” in the US, UK, and France",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Docs: audited financial figures show OpenAI spent $34B in 2025, up 172% YoY, including $19B on research and development and nearly $6B on sales and marketing",
+      "excerpt": "",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "SpaceX closed up 4.8% on Tuesday with a $2.65T market cap, just above Amazon's, after popping ~12% intraday and briefly overtaking Microsoft's $2.93T market cap",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Filing: the US DOJ asks the court to dismiss an NAACP lawsuit over xAI's gas turbines, saying xAI is integral to the US' military operations, like the Iran War",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over giving China-linked firm Mythos access",
+      "excerpt": "",
+      "url": "https://www.washingtonpost.com/technology/2026/06/15/how-anthropic-lost-white-houses-trust-then-its-flagship-product/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: Apple's AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTYyNjM1MCwiZXhwIjoxNzgyMjMxMTUwLCJhcnRpY2xlSWQiOiJUR0NERkhLSVAzTVIwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.3EJsSNxv9jrhqBdbuxZLmp2nSjwSuk11MD4UtDyAatU",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Robinhood CEO Vlad Tenev says the company is “proactively” reducing its full-time workforce by ~10%, or ~290 employees, in a “flattening” of its org structure",
+      "excerpt": "",
+      "url": "https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Sources: DeepSeek closed a ~$7.4B round at a $50B+ valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/deepseek-closes-record-7-billion-plus-funding-unusual-deal-structure",
+      "section": "top news"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Z.ai debuts GLM-5.2, saying it has significant improvements for coding, agentic, and long-horizon tasks, with a 1M context window and MIT-licensed open weights",
+      "excerpt": "",
+      "url": "https://z.ai/blog/glm-5.2",
+      "section": "top news"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "France plans €655M in AI investments through 2030 and a Mistral-powered chatbot for state services; its security service will replace Palantir with Chapsvision",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/french-security-service-to-replace-palantir-with-local-software",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Microsoft is moving Copilot Cowork to usage-based pricing and is considering a Microsoft-hosted version of DeepSeek as a cheaper option",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/16/microsoft-copilot-cowork-tokenmaxxing-cowork",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Alibaba's AI unit Tongyi Lab launches the Qwen Robot Suite, its first suite of AI models for robots, in pilot testing with some Alibaba Cloud enterprise clients",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/big-tech/article/3357260/alibaba-eyes-physical-world-its-first-suite-ai-models-robots",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "SoftBank announces an OpenAI-powered “patching service” that aims to protect Japan's top 3,000 companies behind crucial infrastructure against cyberattacks",
+      "excerpt": "",
+      "url": "https://apnews.com/article/openai-softbank-japan-technology-intelligence-cyberattacks-d8d3f9b2e5042ea949a7d5c53b782d96",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Anthropic pauses its anticipated move to token-based billing for Claude Agent SDK that it planned to implement on June 15, saying “Nothing changes for now”",
+      "excerpt": "",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Sensor Tower: ChatGPT's market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5%",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Study: Mistral and other open-source AI models are among the worst at filtering out Russian disinformation; Mistral's top model ranks 47 out of 60 tested models",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/9703cd44-a966-42ff-bd2e-bfd3bcbc22bb",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Binance is set to lose permission to offer services to EU clients from the start of July as its application for a license is about to be turned down",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/finance/binance-set-lose-eu-licence-bid-permission-offer-services-bloc-sources-say-2026-06-16/",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "An interview with SBF about life in prison, his serialized prison memoir titled Manfred, and more, as he praises Trump, becomes a Republican, and seeks a pardon",
+      "excerpt": "",
+      "url": "https://nymag.com/intelligencer/article/sam-bankman-fried-prison-donald-trump-pardon-appeal.html",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Ripple acquires a stake in Flutterwave as part of the African payments startup's Series E, valuing Flutterwave at $3.2B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/ripple-takes-equity-stake-in-flutterwave-valuing-africa-fintech-at-3-3-billion",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Italy's competition regulator opens an investigation into Apple under the DMA over whether iOS and iPadOS interoperate with third-party consumer cloud services",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/italys-antitrust-regulator-probes-apple-over-cloud-services-under-digital-market-2026-06-16/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "India blocks Telegram until June 22, citing its use by organized “cheating rackets” to “defraud candidates” taking a national medical entrance exam on June 21",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/india/india-blocks-telegram-messaging-app-until-june-22-government-says-2026-06-16/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Databricks agrees to acquire Panther Labs, its third cybersecurity acquisition; Panther was valued at $1.4B when it raised a $120M Series B in 2021",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/databricks-strikes-deal-buy-panther-labs-cybersecurity-push-2026-06-16/",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Letter: Hightouch, an ad tech startup recently valued at $2.75B, offers to buy LiveRamp's identity business from Publicis for $800M to $1.2B in cash and stock",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/16/publicis-liveramp-assets-hightouch",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Atom Computing, one of the nine quantum computing startups backed by the US, raised a $100M Series C led by Third Point, bringing its total funding to $300M",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/all-deals/2026/06/16/us-government-quantum-atom-computing-100-million",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Hydra Host, a marketplace for developers and enterprises to procure GPUs pooled from data center operators, raised a $100M Series A led by Kindred Ventures",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/06/15/gpu-infrastructure-management-startup-hydra-host-raises-100m/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Kuala Lumpur-based Respond.io, which uses AI agents to manage customer conversations, raised a $62.5M Series B led by Camber, following a $7M Series A in 2022",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Bland, which uses proprietary, in-house-built voice models to process calls for 250+ enterprise clients, raised a $50M Series C led by Dell Technologies Capital",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/16/voice-ai-bland-50-million-after-being-rejected-by-180-investors/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures",
+      "excerpt": "",
+      "url": "https://www.smartcompany.com.au/startupsmart/everlab-raises-65-million-series-a-raise-preventative-healthcare/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Copia, an industrial code management and recovery provider, raised $26M co-led by AE Ventures and Squadra Ventures, after previously raising $16.4M",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/supply-chain-deals/2026/06/16/copia-26m-industrial-cyberattack-resilience",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Limitless Labs, which is developing an AI platform to automate CNC manufacturing, raised a $20M Series A led by Dell Technologies Capital and Square Peg",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/hjod1pr11me",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Meta says Threads now has 500M MAUs, adds a “Your Algo” tool that lets users privately control what they see in their feed, and launches Communities out of beta",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained its infrastructure and contributed to dozens of major GitHub outages in 2026",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/microsoft-github-amazon-ai-cloud-capacity-2026-6",
+      "section": "more news"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Microsoft upgrades Surface Pro and Surface Laptop with Qualcomm Snapdragon X2 chips; Pro starts at $1,499 and Laptop at $1,599, both $100 higher than last-gen",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZncnR3eTRoZEYiLCJwIjoiL3RlY2gvOTUwMTQ2L21pY3Jvc29mdC1zdXJmYWNlLWxhcHRvcC04LXN1cmZhY2UtcHJvLTEyLXNuYXBkcmFnb24teDItc3BlY3MtcHJpY2UiLCJleHAiOjE3ODIwNTc2NzMsImlhdCI6MTc4MTYyNTY3M30.4_bBQq2w3N9mR5hPzOJKzL4jNaacNPpJ5p8xsQVv92Y&utm_medium=gift-link",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "A look at Roblox's biometric age-checking tool, which will help place its users into age-based accounts starting in June, amid controversy over user privacy",
+      "excerpt": "",
+      "url": "https://www.nbcnews.com/tech/tech-news/inside-roblox-age-verification-efforts-rcna346973",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Memo: CTO Andrew Bosworth said Meta did “an atrocious job” sharing Applied AI's vision, promising employees better communication, career growth, and more perks",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Qualcomm announces Snapdragon Reality Elite, its new flagship XR chipset, debuting in the compute puck of Xreal's Aura Android XR device this fall",
+      "excerpt": "",
+      "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing “X-Rated” content to minors",
+      "excerpt": "",
+      "url": "https://news.bloomberglaw.com/tech-and-telecom-law/tiktok-sued-by-florida-for-showing-minors-x-rated-posts",
+      "section": "more news"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Ent Security, which wants to build a new layer of workspace security that reads the intent behind what users and AI agents do, launches with $100M in funding",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/06/16/riskiq-founders-launch-ent-security-100m-rethink-endpoint-defense/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Sources: PayPal to shutter its 10-year-old PayPal Ventures arm amid a broader shakeup under a new CEO and has hired Jefferies to explore selling some positions",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/16/paypal-ventures-wind-down-corporate-restructuring-enrique-lores/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Taxi-hailing app Go's shares grew 21% in its Tokyo debut, after it raised ~$553M in Japan's largest IPO in 2026, giving the company a market value of ~$1.16B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Sakana Marlin (4 minute read)",
+      "excerpt": "Sakana Marlin is an autonomous research assistant streamlining extensive strategic analysis in hours. Users input a research topic, and Marlin autonomously generates a detailed strategy report and summary slides without further human intervention. The tool serves various professionals, offering flexible pricing plans and refined features based on feedback from a beta test with around 300 industry experts.",
+      "url": "https://sakana.ai/marlin-release/#English?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Facebook Gets Its Own AI Mode That Turns Public Posts and Reels into a Search Engine (3 minute read)",
+      "excerpt": "Facebook's new AI Mode transforms the standard search bar into a conversational tool that answers questions by mining public Group discussions, Reels, and Marketplace data. The update aims to increase platform engagement and support Meta's expanding subscription tiers. Critics have raised concerns about data privacy and the accuracy of crowd-sourced AI summaries. The feature is currently rolling out to users in the US.",
+      "url": "https://www.androidheadlines.com/2026/06/facebook-ai-mode-search-engine-public-posts.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Factory 2.0: From coding agents to software factories (3 minute read)",
+      "excerpt": "Factory has been building software factories with its customers over the last few months. Its software factories are already in production across the world's largest organizations. Organizations that invest in their autonomous software development will see engineering outcomes surge. Engineers in this era are now responsible for building the factories that build the software. This will see engineering responsibilities grow to span across the business itself.",
+      "url": "https://factory.ai/news/software-factory?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Building a 100x Cheaper Trace Judge with Fireworks (7 minute read)",
+      "excerpt": "Fireworks and LangChain developed a cost-effective \"perceived error\" judge using the Qwen-3.5-35B model, capable of detecting user-identified errors in chatbot interactions. Fine-tuning this judge on chat-langchain data resulted in performance meeting or exceeding frontier models at reduced costs.",
+      "url": "https://www.langchain.com/blog/building-a-100x-cheaper-trace-judge-with-fireworks?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "The Once And Future Fable #2 (37 minute read)",
+      "excerpt": "The US government forcing Anthropic to take down all access to Fable and Mythos seems like a stupid decision. However, it is unknown what motivated the government to make the decision, how much they understand the mechanisms of the technology, whether they demanded or are demanding a narrow fix or a global fix, what they intend to do next, and what they are trying to accomplish. This could just be a terrible misunderstanding that can be sorted out quickly.",
+      "url": "https://thezvi.substack.com/p/the-once-and-future-fable-2?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "DFlash and Spec V2 Decoding (14 minute read)",
+      "excerpt": "Detailing the latest generation of speculative decoding with DFlash and SGLang's Spec V2 engine. Benchmarks showed substantial throughput gains over baseline inference and native MTP speculation.",
+      "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Agentic Code Review (15 minute read)",
+      "excerpt": "Coding agents moved the hard part of engineering from writing code to deciding whether to trust it, making review the most leveraged skill in software now that the old happy accident no longer holds. The 2026 data converges: Faros AI's 22,000-developer study found code churn up 861%, per-developer defect rate up from 9% to 54%, review duration up 441%, and zero-review merges up 31%, while GitClear shows 4x raw output for ~12% delivered-value gain, the gap being the review problem in one line.",
+      "url": "https://x.com/addyosmani/status/2066595308629594363?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Zen and the Art of Machine Learning Research (11 minute read)",
+      "excerpt": "The path to getting started as an AI researcher is pretty simple: read and build stuff. Scientific insights can come seemingly at random. An important trait for success is just putting in the time and effort. To become world-class takes a tremendous amount of discipline.",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Google DeepMind Explores the Path to ASI (49 minute read)",
+      "excerpt": "Google DeepMind examined how AI could progress beyond human-level AGI toward artificial superintelligence. The report outlined four possible pathways to ASI, potential bottlenecks, and the societal implications of continued acceleration in AI-driven progress.",
+      "url": "https://arxiv.org/abs/2606.12683?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "A Guide to AI Inference Engineering (17 minute read)",
+      "excerpt": "Inference engineering is the discipline of running trained AI models in production efficiently. It involves working with low-level GPU code, model serving frameworks, and the cloud infrastructure that ties them together. Engineers need to optimize for a combination of latency, throughput, cost, and quality, depending on the product they're supporting. Inference engineering is now a broad speciality that any company running serious AI workloads invests in.",
+      "url": "https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Owning vs. Renting Intelligence (5 minute read)",
+      "excerpt": "Fireworks CEO Lin Qiao uses this week's Mythos shutdown to reframe the open-model conversation from cost to control, arguing a company built on intelligence it didn't own suddenly found itself exposed to decisions it couldn't influence. The playbook Fireworks ran with Ramp, Cursor, and Harvey already proves a tuned open model matches frontier quality at a fraction of the cost, but the deeper question is who owns the intelligence your product runs on.",
+      "url": "https://x.com/lqiao/status/2066403957824688462?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "The Window Has Closed (7 minute read)",
+      "excerpt": "Fable was special in ways that will not show up in benchmarks. It could perceive the user, infer intent, and think and iterate upon what it was given. The model felt alive. Mythos has changed the shape of the AI race. Other labs will likely eventually be able to replicate the magic of Mythos, but for many, the race is over.",
+      "url": "https://x.com/andrewcurran_/status/2066332670817456584?s=12&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Should you post-train your own model? (4 minute read)",
+      "excerpt": "General frontier models are the right starting point for 0-to-1 prototypes and understanding workflows, but for the handful of power-law use cases critical to a company's mission, product, and margin, the answer is increasingly to post-train your own model. Those use cases are where the differentiated data lives and where hard constraints on cost, latency, and reliability make a general model's single fixed tradeoff a liability.",
+      "url": "https://x.com/rhythmrg/status/2066561780495896785?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+      "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!",
+      "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "A modest proposal: Reformat everything to make documents more palatable to AI (5 minute read)",
+      "excerpt": "DocLang is an AI-friendly document format that helps enterprises feed their files to AI systems.",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/16/a-modest-proposal-reformat-everything-to-make-documents-more-palatable-to-ai/5255938?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access (10 minute read)",
+      "excerpt": "Content owners and publishers can now set per-request pricing by content path, bot category, or verification tier without modifying their origin infrastructure or writing application code.",
+      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-17",
+      "source": "tldr",
+      "title": "Sovereign AI is not a model, but a supply chain problem (20 minute read)",
+      "excerpt": "Sovereign AI is about how much of the supply chain required to train, operate, validate, and protect foundation models can be secured within one's own country or allied nations.",
+      "url": "https://www.bullbear.ninja/board/12?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-18",
+      "source": "tldr",
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset (7 minute read)",
+      "excerpt": "The GitHub Multilingual Repositories Dataset is a repository-level metadata dataset designed to help researchers and developers discover public GitHub repositories with evidence of non-English natural-language content.",
+      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-19",
+      "source": "tldr",
+      "title": "Mastering Codex (Mobile) for Engineering (14 minute read)",
+      "excerpt": "Codex Mobile lets developers start, direct, review, and organize work running on their development machines without pretending that a mobile device should be a tiny terminal.",
+      "url": "https://x.com/dimillian/status/2066082395107758564?s=12&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-20",
+      "source": "tldr",
+      "title": "AI GPUs probably live longer than three years (6 minute read)",
+      "excerpt": "Claims about AI GPUs having a lifespan of just three years stem from dubious sources like a tweet quoting an anonymous Google architect.",
+      "url": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: SpaceX agrees to acquire Cursor in a merger valuing the AI coding startup at $60B, set to close in Q3 2026, or pay a $4B to $10B termination fee
+Tweets:
+  - Author: @spacex
+    Text: SpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world's most useful AI models. For the past few months, SpaceXAI has been jointly training a model with Cursor, which will be released in Cursor and Grok Build soon.
+    Link ID: TM-01-TW-01
+  - Author: @apostructura
+    Text: It's an all stock deal which means that SpaceX is giving Cursor investors “only” 2.4% equity in SpaceX. Being worth $2.5T has its perks
+    Link ID: TM-01-TW-02
+  - Author: @austen
+    Text: Cursor or SpaceX alone can't really play in the enterprise coding game. Cursor + SpaceX/xAi? Now it's a ball game. Have a lot of catching up to do as models go, but they're in the race.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Snap unveils $2,195 Specs, its first AR glasses that are “fully standalone” and have a 51-degree field of view, expected “this fall” in the US, UK, and France
+Tweets:
+  - Author: @autismcapital
+    Text: The new Snapchat Specs are still absurd and goofy but shoutout Snapchat for still going for it. All of these are iterative steps to the AR future. When the tech finally gets there, people are going to be rocked. [image]
+    Link ID: TM-02-TW-01
+  - Author: @markgurman
+    Text: Spiegel called the Specs both “very, very” wearable and highly capable, which he said gives Snap an opportunity “in a market that's focused either on very large and clunky headsets that are super capable or very lightweight glasses that don't really do much.”
+    Link ID: TM-02-TW-02
+  - Author: @mweinbach
+    Text: Specs have dual Snapdragon processors! Wonder if this will become more common on glasses, dual chip. Makes a ton of sense. [image]
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: A look at Specs, which have a battery life of up to four hours per charge, and an interview with Snap CEO Evan Spiegel about the AR glasses
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS
+Tweets:
+  - Author: @pixeluibygoogle
+    Text: Android 17 introduces great new features and APIs for developers. Features & APIs: Enhances profiling/debugging, adds efficient alarms, improves privacy with contact picker & ECH, strengthens security with Advanced Protection & PQC signing, and optimizes satellite connectivity.
+    Link ID: TM-03-TW-01
+  - Author: @rosterloh
+    Text: Android 17 is officially rolling out today, bringing some incredible upgrades to your daily experience.  🚀 We're delivering faster multitasking with Bubbles 🫧 (helpful for keeping track of @USMNT while getting things done), major new creative capabilities with native tools like Screen Reactions 🎬, and critical security enhancements to give you peace of mind 🔐
+    Link ID: TM-03-TW-02
+  - Author: @mishaalrahman
+    Text: 🫧 Android 17 brings a new way to multitask with Bubbles! You can now open any app in a floating bubble for next-level multitasking! And for foldable users, a new bubble bar on the taskbar anchors these apps to make them more organized. [image]
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Docs: audited financial figures show OpenAI spent $34B in 2025, up 172% YoY, including $19B on research and development and nearly $6B on sales and marketing
+Sub Items:
+  - Title: Docs: OpenAI's net loss grew from $5B in 2024 to ~$39B in 2025, a source says due to a $30B non-cash accounting charge linked to its previous structure
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: SpaceX closed up 4.8% on Tuesday with a $2.65T market cap, just above Amazon's, after popping ~12% intraday and briefly overtaking Microsoft's $2.93T market cap
+---
+ID: TM-06
+Title: Filing: the US DOJ asks the court to dismiss an NAACP lawsuit over xAI's gas turbines, saying xAI is integral to the US' military operations, like the Iran War
+---
+ID: TM-07
+Title: Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over giving China-linked firm Mythos access
+Sub Items:
+  - Title: Sources: the Trump administration won't allow G7 countries to regain access to Mythos 5 as doing so would be “completely illogical”; UK requested a “carve-out”
+    Link ID: TM-07-SUB-01
+  - Title: Anthropic says its senior leaders met Trump administration officials on Monday, didn't reach a resolution, and both sides are working to resolve things quickly
+    Link ID: TM-07-SUB-02
+---
+ID: TM-08
+Title: Sources: Apple's AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone
+---
+ID: TM-09
+Title: Robinhood CEO Vlad Tenev says the company is “proactively” reducing its full-time workforce by ~10%, or ~290 employees, in a “flattening” of its org structure
+---
+ID: TM-10
+Title: Sources: DeepSeek closed a ~$7.4B round at a $50B+ valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng
+---
+ID: TM-11
+Title: Z.ai debuts GLM-5.2, saying it has significant improvements for coding, agentic, and long-horizon tasks, with a 1M context window and MIT-licensed open weights
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-12
+Title: France plans €655M in AI investments through 2030 and a Mistral-powered chatbot for state services; its security service will replace Palantir with Chapsvision
+---
+ID: TM-13
+Title: Microsoft is moving Copilot Cowork to usage-based pricing and is considering a Microsoft-hosted version of DeepSeek as a cheaper option
+---
+ID: TM-14
+Title: Alibaba's AI unit Tongyi Lab launches the Qwen Robot Suite, its first suite of AI models for robots, in pilot testing with some Alibaba Cloud enterprise clients
+---
+ID: TM-15
+Title: SoftBank announces an OpenAI-powered “patching service” that aims to protect Japan's top 3,000 companies behind crucial infrastructure against cyberattacks
+---
+ID: TM-16
+Title: Anthropic pauses its anticipated move to token-based billing for Claude Agent SDK that it planned to implement on June 15, saying “Nothing changes for now”
+---
+ID: TM-17
+Title: Sensor Tower: ChatGPT's market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5%
+---
+ID: TM-18
+Title: Study: Mistral and other open-source AI models are among the worst at filtering out Russian disinformation; Mistral's top model ranks 47 out of 60 tested models
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-19
+Title: Sources: Binance is set to lose permission to offer services to EU clients from the start of July as its application for a license is about to be turned down
+---
+ID: TM-20
+Title: An interview with SBF about life in prison, his serialized prison memoir titled Manfred, and more, as he praises Trump, becomes a Republican, and seeks a pardon
+---
+ID: TM-21
+Title: Ripple acquires a stake in Flutterwave as part of the African payments startup's Series E, valuing Flutterwave at $3.2B
+---
+
+[CATEGORY: REGULATION]
+ID: TM-22
+Title: Italy's competition regulator opens an investigation into Apple under the DMA over whether iOS and iPadOS interoperate with third-party consumer cloud services
+---
+ID: TM-23
+Title: India blocks Telegram until June 22, citing its use by organized “cheating rackets” to “defraud candidates” taking a national medical entrance exam on June 21
+---
+
+[CATEGORY: M&A]
+ID: TM-24
+Title: Databricks agrees to acquire Panther Labs, its third cybersecurity acquisition; Panther was valued at $1.4B when it raised a $120M Series B in 2021
+---
+ID: TM-25
+Title: Letter: Hightouch, an ad tech startup recently valued at $2.75B, offers to buy LiveRamp's identity business from Publicis for $800M to $1.2B in cash and stock
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-26
+Title: Atom Computing, one of the nine quantum computing startups backed by the US, raised a $100M Series C led by Third Point, bringing its total funding to $300M
+---
+ID: TM-27
+Title: Hydra Host, a marketplace for developers and enterprises to procure GPUs pooled from data center operators, raised a $100M Series A led by Kindred Ventures
+---
+ID: TM-28
+Title: Kuala Lumpur-based Respond.io, which uses AI agents to manage customer conversations, raised a $62.5M Series B led by Camber, following a $7M Series A in 2022
+---
+ID: TM-29
+Title: Bland, which uses proprietary, in-house-built voice models to process calls for 250+ enterprise clients, raised a $50M Series C led by Dell Technologies Capital
+---
+ID: TM-30
+Title: Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures
+---
+ID: TM-31
+Title: Copia, an industrial code management and recovery provider, raised $26M co-led by AE Ventures and Squadra Ventures, after previously raising $16.4M
+---
+ID: TM-32
+Title: Limitless Labs, which is developing an AI platform to automate CNC manufacturing, raised a $20M Series A led by Dell Technologies Capital and Square Peg
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-33
+Title: Meta says Threads now has 500M MAUs, adds a “Your Algo” tool that lets users privately control what they see in their feed, and launches Communities out of beta
+---
+ID: TM-34
+Title: Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained its infrastructure and contributed to dozens of major GitHub outages in 2026
+---
+ID: TM-35
+Title: Microsoft upgrades Surface Pro and Surface Laptop with Qualcomm Snapdragon X2 chips; Pro starts at $1,499 and Laptop at $1,599, both $100 higher than last-gen
+---
+ID: TM-36
+Title: A look at Roblox's biometric age-checking tool, which will help place its users into age-based accounts starting in June, amid controversy over user privacy
+Sub Items:
+  - Title: Roblox rolls out Roblox Kids accounts for ages 5 to 8 and Roblox Select accounts for ages 9 to 15, globally, after unveiling them alongside age checks in April
+    Link ID: TM-36-SUB-01
+---
+ID: TM-37
+Title: Memo: CTO Andrew Bosworth said Meta did “an atrocious job” sharing Applied AI's vision, promising employees better communication, career growth, and more perks
+---
+ID: TM-38
+Title: Qualcomm announces Snapdragon Reality Elite, its new flagship XR chipset, debuting in the compute puck of Xreal's Aura Android XR device this fall
+---
+ID: TM-39
+Title: Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing “X-Rated” content to minors
+---
+ID: TM-40
+Title: Ent Security, which wants to build a new layer of workspace security that reads the intent behind what users and AI agents do, launches with $100M in funding
+---
+ID: TM-41
+Title: Sources: PayPal to shutter its 10-year-old PayPal Ventures arm amid a broader shakeup under a new CEO and has hired Jefferies to explore selling some positions
+---
+ID: TM-42
+Title: Taxi-hailing app Go's shares grew 21% in its Tokyo debut, after it raised ~$553M in Japan's largest IPO in 2026, giving the company a market value of ~$1.16B
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Sakana Marlin (4 minute read)
+Excerpt: Sakana Marlin is an autonomous research assistant streamlining extensive strategic analysis in hours. Users input a research topic, and Marlin autonomously generates a detailed strategy report and summary slides without further human intervention. The tool serves various professionals, offering flexible pricing plans and refined features based on feedback from a beta test with around 300 industry experts.
+---
+ID: TL-02
+Title: Facebook Gets Its Own AI Mode That Turns Public Posts and Reels into a Search Engine (3 minute read)
+Excerpt: Facebook's new AI Mode transforms the standard search bar into a conversational tool that answers questions by mining public Group discussions, Reels, and Marketplace data. The update aims to increase platform engagement and support Meta's expanding subscription tiers. Critics have raised concerns about data privacy and the accuracy of crowd-sourced AI summaries. The feature is currently rolling out to users in the US.
+---
+ID: TL-03
+Title: Factory 2.0: From coding agents to software factories (3 minute read)
+Excerpt: Factory has been building software factories with its customers over the last few months. Its software factories are already in production across the world's largest organizations. Organizations that invest in their autonomous software development will see engineering outcomes surge. Engineers in this era are now responsible for building the factories that build the software. This will see engineering responsibilities grow to span across the business itself.
+---
+ID: TL-04
+Title: Building a 100x Cheaper Trace Judge with Fireworks (7 minute read)
+Excerpt: Fireworks and LangChain developed a cost-effective "perceived error" judge using the Qwen-3.5-35B model, capable of detecting user-identified errors in chatbot interactions. Fine-tuning this judge on chat-langchain data resulted in performance meeting or exceeding frontier models at reduced costs.
+---
+ID: TL-05
+Title: The Once And Future Fable #2 (37 minute read)
+Excerpt: The US government forcing Anthropic to take down all access to Fable and Mythos seems like a stupid decision. However, it is unknown what motivated the government to make the decision, how much they understand the mechanisms of the technology, whether they demanded or are demanding a narrow fix or a global fix, what they intend to do next, and what they are trying to accomplish. This could just be a terrible misunderstanding that can be sorted out quickly.
+---
+ID: TL-06
+Title: DFlash and Spec V2 Decoding (14 minute read)
+Excerpt: Detailing the latest generation of speculative decoding with DFlash and SGLang's Spec V2 engine. Benchmarks showed substantial throughput gains over baseline inference and native MTP speculation.
+---
+ID: TL-07
+Title: Agentic Code Review (15 minute read)
+Excerpt: Coding agents moved the hard part of engineering from writing code to deciding whether to trust it, making review the most leveraged skill in software now that the old happy accident no longer holds. The 2026 data converges: Faros AI's 22,000-developer study found code churn up 861%, per-developer defect rate up from 9% to 54%, review duration up 441%, and zero-review merges up 31%, while GitClear shows 4x raw output for ~12% delivered-value gain, the gap being the review problem in one line.
+---
+ID: TL-08
+Title: Zen and the Art of Machine Learning Research (11 minute read)
+Excerpt: The path to getting started as an AI researcher is pretty simple: read and build stuff. Scientific insights can come seemingly at random. An important trait for success is just putting in the time and effort. To become world-class takes a tremendous amount of discipline.
+---
+ID: TL-09
+Title: Google DeepMind Explores the Path to ASI (49 minute read)
+Excerpt: Google DeepMind examined how AI could progress beyond human-level AGI toward artificial superintelligence. The report outlined four possible pathways to ASI, potential bottlenecks, and the societal implications of continued acceleration in AI-driven progress.
+---
+ID: TL-10
+Title: A Guide to AI Inference Engineering (17 minute read)
+Excerpt: Inference engineering is the discipline of running trained AI models in production efficiently. It involves working with low-level GPU code, model serving frameworks, and the cloud infrastructure that ties them together. Engineers need to optimize for a combination of latency, throughput, cost, and quality, depending on the product they're supporting. Inference engineering is now a broad speciality that any company running serious AI workloads invests in.
+---
+ID: TL-11
+Title: Owning vs. Renting Intelligence (5 minute read)
+Excerpt: Fireworks CEO Lin Qiao uses this week's Mythos shutdown to reframe the open-model conversation from cost to control, arguing a company built on intelligence it didn't own suddenly found itself exposed to decisions it couldn't influence. The playbook Fireworks ran with Ramp, Cursor, and Harvey already proves a tuned open model matches frontier quality at a fraction of the cost, but the deeper question is who owns the intelligence your product runs on.
+---
+ID: TL-12
+Title: The Window Has Closed (7 minute read)
+Excerpt: Fable was special in ways that will not show up in benchmarks. It could perceive the user, infer intent, and think and iterate upon what it was given. The model felt alive. Mythos has changed the shape of the AI race. Other labs will likely eventually be able to replicate the magic of Mythos, but for many, the race is over.
+---
+ID: TL-13
+Title: Should you post-train your own model? (4 minute read)
+Excerpt: General frontier models are the right starting point for 0-to-1 prototypes and understanding workflows, but for the handful of power-law use cases critical to a company's mission, product, and margin, the answer is increasingly to post-train your own model. Those use cases are where the differentiated data lives and where hard constraints on cost, latency, and reliability make a general model's single fixed tradeoff a liability.
+---
+ID: TL-14
+Title: TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)
+Excerpt: 500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!
+---
+ID: TL-15
+Title: A modest proposal: Reformat everything to make documents more palatable to AI (5 minute read)
+Excerpt: DocLang is an AI-friendly document format that helps enterprises feed their files to AI systems.
+---
+ID: TL-16
+Title: AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access (10 minute read)
+Excerpt: Content owners and publishers can now set per-request pricing by content path, bot category, or verification tier without modifying their origin infrastructure or writing application code.
+---
+ID: TL-17
+Title: Sovereign AI is not a model, but a supply chain problem (20 minute read)
+Excerpt: Sovereign AI is about how much of the supply chain required to train, operate, validate, and protect foundation models can be secured within one's own country or allied nations.
+---
+ID: TL-18
+Title: Accelerating researchers and developers building multilingual AI with a new open dataset (7 minute read)
+Excerpt: The GitHub Multilingual Repositories Dataset is a repository-level metadata dataset designed to help researchers and developers discover public GitHub repositories with evidence of non-English natural-language content.
+---
+ID: TL-19
+Title: Mastering Codex (Mobile) for Engineering (14 minute read)
+Excerpt: Codex Mobile lets developers start, direct, review, and organize work running on their development machines without pretending that a mobile device should be a tiny terminal.
+---
+ID: TL-20
+Title: AI GPUs probably live longer than three years (6 minute read)
+Excerpt: Claims about AI GPUs having a lifespan of just three years stem from dubious sources like a tweet quoting an anonymous Google architect.
+---
