@@ -1,0 +1,438 @@
+{
+  "date": "2026-06-17",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: Amodei, Altman, and Hassabis called for US-led collaboration on AI rules at the G7 summit; Macron and Modi raised concerns over the US block on Mythos",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d",
+        "tweets": [
+          {
+            "author": "@narendramodi",
+            "text": "Spoke at the session on ‘Ensuring a Safe, Rapid and Efficient Rollout of AI.’ This is a subject of immense importance for the global community.  AI's transformative potential is widely known, having touched all aspects of human life.  However, the true test of AI is not how powerful our machines become.  Its real test lies in how much it empowers ordinary human beings.",
+            "url": "https://x.com/narendramodi/status/2067289698897391914"
+          },
+          {
+            "author": "@cryptopunk7213",
+            "text": "dario seated on the opposite side of the room like a schoolboy being reprimanded while sam and demis sit either side of Trump... yeah this fable ban might last a while such a shame, genuinely think the U.S. needs to take a better stance. fable is an amazing model and this cannot be the approach we take for future model releases.",
+            "url": "https://x.com/cryptopunk7213/status/2067273105232281869"
+          },
+          {
+            "author": "@arrakis_ai",
+            "text": "Sam Altman made a notable statement at the G7 summit.  Altman said that the debate over whether AI is useful is over, arguing that far more powerful AI systems will emerge in the coming years [...] The most interesting part, however, was his view on governance.  “Do not cede your responsibilities to AI labs like mine.  We develop the technology, and the citizens of the free world make the rules.”  His message was clear: AI companies should build the technology, but they should not be the ones deciding how society governs it",
+            "url": "https://x.com/arrakis_ai/status/2067291316418212053"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "A look at chaos inside Anthropic after disabling Fable 5 and Mythos 5 with less than 90 minutes of notice, as some staff wonder if Trump is bullying the startup",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html?unlocked_article_code=1.q1A.71Hi.d_0hm8pezUw9&smid=url-share",
+        "tweets": [
+          {
+            "author": "@davidsacks",
+            "text": "Some recent articles have created a misleading narrative that I did not take Mythos seriously or tried to downplay the cyber threat.  This is based on egregious cherry-picking of my comments...It is entirely possible to question a messenger's track record while still treating the underlying risk as serious — and that's exactly what I did...My position remains consistent: We are on a shot clock until Mythos-level capabilities diffuse widely, including to non-U.S. / Chinese models.  We need defenders to find and patch vulnerabilities before that happens.  This requires cooperation between government and industry",
+            "url": "https://x.com/davidsacks/status/2067270499458027832"
+          },
+          {
+            "author": "@miles_brundage",
+            "text": "Not sure where people got the idea that there could be a political dimension to how the admin treats Anthropic [image]",
+            "url": "https://x.com/miles_brundage/status/2067270325088498068"
+          },
+          {
+            "author": "@kimmonismus",
+            "text": "All the major news outlets agree: The biggest winner in the Anthropic controversy is open source.  And I wholeheartedly agree.  I said it a few days ago, and I'll say it again: it's the biggest PR win for open source ever.  Whether it's Bloomberg, Fortune, or CNBC: the consensus is clear: “Making the model open means that companies, governments or organizations with sufficient hardware can run it locally, and never have to worry about it being yanked on a whim.”  (Bloomberg)",
+            "url": "https://x.com/kimmonismus/status/2067345637201543311"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "A profile of Anthropic researcher Nicholas Carlini, who warned about Mythos in March and is now part of an Anthropic team briefing the White House on safeguards",
+            "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3?st=gj26io&reflink=desktopwebshare_permalink"
+          },
+          {
+            "title": "Many US lawmakers said this week they had not been briefed on Trump's Fable 5 move, including Ted Cruz, whose commerce committee has jurisdiction over AI policy",
+            "url": "https://www.politico.com/news/2026/06/16/white-houses-anthropic-move-jolts-congress-back-into-the-ai-debate-00964614"
+          },
+          {
+            "title": "The UK says reports that Prime Minister Keir Starmer sought a carve-out to US export controls imposed on Anthropic's Claude Mythos 5 are “categorically untrue”",
+            "url": "https://www.politico.eu/article/keir-starmer-uk-anthropic-ai-export-controls-denial/"
+          },
+          {
+            "title": "Trump administration officials say Anthropic must ensure Fable 5's guardrails can't be circumvented before rerelease; experts say that may not be possible",
+            "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/"
+          }
+        ]
+      },
+      {
+        "title": "In an interview, Tim Cook says Apple price hikes are “unavoidable” to offset surging memory and storage chip costs, and “the situation has become unsustainable”",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=Yox4Dc&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@autismcapital",
+            "text": "@Polymarket Damn. Really thought Apple was going to subsidize the technology during the RAM crisis and that would be their move to lock everyone into their ecosystem who had previously been holding out. Shame.",
+            "url": "https://x.com/autismcapital/status/2067373453985063018"
+          },
+          {
+            "author": "@mweinbach",
+            "text": "I'm shocked they had to do it this early, but I bet we see ~$100-200 increases in iPhone prices and maybe similar in Mac Apple can weather this better than most, but it's going to be an increase regardless",
+            "url": "https://x.com/mweinbach/status/2067366515679056226"
+          },
+          {
+            "author": "@stocksavvyshay",
+            "text": "Tim Cook says $AAPL will raise prices as surging AI-driven memory & storage costs from $MU, Samsung & SK Hynix make absorbing the increases “unsustainable.” Cook called chip shortage “a hundred-year flood” & said price hikes could hit Macs and iPads before the iPhone 18 launch. [image]",
+            "url": "https://x.com/stocksavvyshay/status/2067353615132663924"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Joshua Baer, the founder and CEO of Texas accelerator Capital Factory, died on Tuesday night in a business jet crash in Laredo, Texas",
+        "excerpt": "",
+        "url": "https://runtimewire.com/article/joshua-baer-capital-factory-founder-dies-laredo-plane-crash",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Trump officials discussed how to structure government equity stakes in AI companies, with Commerce Secretary Lutnick preferring a sovereign wealth fund",
+        "excerpt": "",
+        "url": "https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Bernie Sanders proposes legislation to create a sovereign wealth fund financed via a one-time 50% stock tax on AI companies that reach $200M in annual AI sales",
+            "url": "https://apnews.com/article/bernie-sanders-ai-public-ownership-57b9f20d96490083e2749adba0f13977"
+          }
+        ]
+      },
+      {
+        "title": "A newly discovered data leak has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs across 194 countries",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "India's Telegram ban until June 22 over exam paper leak concerns is a terrible look for the country, sets a precedent, and could happen again if unchallenged",
+        "excerpt": "",
+        "url": "https://x.com/nixxin/status/2067100573648953610",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "WordPress survey: 60% of US consumers say “AI” in a brand's messaging is a turnoff, and 86% always or sometimes check the source after receiving an AI summary",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Shoe company Allbirds changes its name to Smartbird as it pivots to an AI infrastructure company and names ex-AWS exec Nadia Carlsten as CEO; BIRD jumps 39%",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/allbirds-rebrands-smartbird-ai-pivot-hires-former-aws-executive-ceo-2026-06-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI's Chief Strategy Officer messaged staff that OpenAI “strongly” told the US government that building AI “requires the best talent from around the world”",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/anthropic-ban-stirs-concerns-openai-beyond-crackdown-foreign-ai-talent",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Studies: Mira, an AI medical tool developed by researchers in Germany, and Google's Amie matched or surpassed doctors on diagnostic and treatment decisions",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/734a45ee-86c4-47e1-8323-569bc14dcdd7?accessToken=zwAAAZ7WnuOHkc9zSkXuhsRH4dODI1abwU3N1w.MEQCIFWOHjme5zf_ohyKbVlkRyFGqATkUFBN1J-nSbc2ssFNAiB5YKWlHU1B8lYvHBYkZsdC-Sj87onLA0dDZiVdF3KwoQ&sharetype=gift&token=0e39f0f1-3b21-499a-8a44-ccadc2d5253b&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Jeff Bezos is investing in Cambridge, UK-based CuspAI, which applies generative AI to material sciences, as part of a $400M round at a $2.6B valuation",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/4c479227-567c-435e-a4d3-795dd957b347",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic updates Claude Design with design system imports, bidirectional integration with Claude Code, lower token consumption, and more export destinations",
+        "excerpt": "",
+        "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "The US government awards $500M under the CHIPS Act to SandboxAQ to use AI models to develop new chemicals and materials for domestic semiconductor manufacturing",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/us-awards-500-million-nvidia-backed-sandboxaq-finding-new-chipmaking-materials-2026-06-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources describe Huawei's efforts to rebuild its chip business seven years after the US cut Huawei off from advanced US chips, as it bets on logic-stacking tech",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/234c9aeb-33aa-469e-844d-f721e81296cf",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "policy": [
+      {
+        "title": "Estonia says it will assign personal ID numbers to AI agents to give them “limited, controllable, and auditable authorizations” as they take actions for humans",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-17/estonia-to-grant-ai-bots-legal-rights-with-personal-id-numbers",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The UK CMA orders Google to provide greater transparency on how its search rankings work and to let users transfer their search data to authorized third parties",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/uk-regulator-sets-out-conduct-requirements-googles-search-services-2026-06-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Meta moved to support KOSA after it was packaged with language preempting state AI laws and a bill that would require app stores to verify users' ages",
+        "excerpt": "",
+        "url": "https://www.politico.com/live-updates/2026/06/16/congress/meta-opposition-kosa-00964605",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kazakhstan signs accords with Firebird on Nvidia-related computing projects that could bring up to $10B in investment, as it seeks to build a Data Center Valley",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "Sources: Amazon faces a possible FTC lawsuit alleging it misled advertisers; multiple state AGs are involved and the case could seek billions in civil penalties",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nasdaq Private Market sues Hiive, claiming Hiive stole trade secrets and infringed on its IP, poaching two employees in part to access confidential information",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-16/nasdaq-private-market-alleges-rival-hiive-stole-key-technology",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Sources: Chinese social media app Xiaohongshu is aiming for a Hong Kong IPO as early as year-end at a $70B+ valuation, up from $50B+ in private secondary trades",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/chinas-instagram-readies-hong-kong-ipo-that-could-see-it-valued-at-over-70-billion-879222fa?st=Yo6Edw&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "EigenQ, which makes cybersecurity systems to protect devices from future attacks by quantum computers, plans to go public via a SPAC merger at a ~$3B valuation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/quantum-tech-firm-eigenq-go-public-3-billion-spac-deal-2026-06-17/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: a new AI lab founded by Junyang Lin, a former lead of Alibaba's Qwen models, has raised several hundred million dollars at a ~$2B post-money valuation",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/exclusive-tencent-backs-former-alibaba-researchers-new-ai-lab",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "World models startup Odyssey raised $310M from Amazon and others at a $1.45B valuation and will use AWS as its preferred cloud partner, deploying Trainium chips",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/1e0365db-a363-4d73-9960-23d25420e9f5",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Twenty, which uses AI to help US military hackers penetrate adversary computer networks, raised a $100M Series B led by Accel at a $1B valuation",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/17/twenty-cybersecurity-hacks-accel-venture",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "XDOF, which is building data pipelines, collection tools, and annotation systems for robot training data, emerges from stealth with $70M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Conduct, which uses AI to let companies maintain, change, and modernize their legacy IT systems, raised a $60M Series A, bringing its total funding to $72M",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/06/17/conduct-enterprise-it-60m",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Convey, which is building AI “teammates” to automate workflows for clients like NBCUniversal, Samsara, and TelevisaUnivision, raised a $38M Series A led by a16z",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/convey-raises-38-million-a16z-to-automate-repetitive-office-work-2026-6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Andera, which uses AI to automate corporate audit and compliance testing, raised a $37M Series A led by Lightspeed",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/06/17/andera-37m-ai-audit-lightspeed",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Trace Finance, which provides stablecoin settlement infrastructure for cross-border payments across Latin America, raised a $32M Series A led by CoinFund",
+        "excerpt": "",
+        "url": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Paris-based Comand AI, which is developing AI-based command-and-control software for military operations, raised a €32M Series A led by Blossom Capital",
+        "excerpt": "",
+        "url": "https://resiliencemedia.co/comand-ai-raises-e32m-for-its-c2-software-adds-saab-as-a-strategic-backer/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Pramaana Labs, which uses the LEAN programming language to build a deterministic verification layer on top of LLMs, raised a $27M seed led by Khosla Ventures",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nauk Nauk, which runs an AI video app that turns photos of toys into short animated videos, raised $20M and is coming out of beta; it claims to have 1M+ users",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/17/nauk-nauk-ai-video-toy-app-funding",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Epic says Unreal Engine 6, planned for early access in late 2027, will unify UE5 and Unreal Editor for Fortnite, add integrations with Claude and Gemini, more",
+        "excerpt": "",
+        "url": "https://www.videogameschronicle.com/news/epic-reveals-unreal-engine-6-is-integrating-ai-models-so-developers-can-reduce-tedious-work/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google's $99 Google Home Speaker, which is built for Gemini for Home and works as a Matter controller, will ship on June 29, nine months after it was announced",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/951147/%20google-home-speaker-gemini-launch-date-%20price-specs-features",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple is testing a second-generation iPhone Air, planned for spring 2027, with a second rear camera for ultrawide-angle photos and better battery life",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Snap's stock closed down 8.14% on Wednesday, after the company launched the $2,195 Specs AR glasses on Tuesday; SNAP is down ~41% YTD",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Uber says it will expand its premium robotaxi service from San Francisco to Houston by mid-2027, in partnership with EV maker Lucid and AV startup Nuro",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Samsung is seeing a rise in advanced chip production requests from BYD, Google, AMD, Tesla, and other companies as AI demand strains TSMC's capacity",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sees-rising-chip-production-requests-from-byd-google-amd-sources",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple's planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them",
+        "excerpt": "",
+        "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with Luciana Lixandru, who co-leads Sequoia's global early-stage investment business, on why it is time for “act two” for Europe's tech sector, AI, and more",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/6f1ede29-f92b-4210-9ff0-c6dc9efa729a",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kapwing: in tests, 59% of the first 500 TikTok For You videos shown to a new account were AI slop, vs. 21% slop shown to a new YouTube user via the Shorts feed",
+        "excerpt": "",
+        "url": "https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dealogic: investors have poured $58B across 42 data center deals YTD; Oxford Economics says nearly 850 data centers worth ~$7T are under construction globally",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/9593ea8d-09a2-4179-ad59-32f355bb6279",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Databricks says its annualized revenue rose 80%+ YoY to $6.9B, up from $5.4B in Q4; CEO Ali Ghodsi says AI agent usage is increasing costs and lowering margins",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mastodon adds email newsletters, letting writers send their posts directly to subscribers' inboxes, even to readers without a Mastodon account",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Wyoming's Frontier Stable Token, which launched in January and currently has a market value of ~$1M, as other states explore “white labeling” the tech",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-16/wyoming-stablecoin-may-become-a-blueprint-or-cautionary-tale-for-other-states",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Frontier, a group including Stripe, Google, Salesforce, and newly joined Anthropic, commits $915M to buy carbon-removal credits, on top of $1B already pledged",
+        "excerpt": "",
+        "url": "https://www.wsj.com/pro/sustainable-business/anthropic-google-other-tech-companies-commit-915-million-to-pull-carbon-out-of-the-sky-e2ee2c1e",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 49
+  }
+}
