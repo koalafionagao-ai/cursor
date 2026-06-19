@@ -1,0 +1,380 @@
+{
+  "date": "2026-06-18",
+  "threshold": 7.0,
+  "total": 62,
+  "kept": 27,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要关注股价波动"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "重要人物离职与新职位，可能影响 AI 研究方向"
+    },
+    {
+      "id": "TM-03",
+      "score": 6.0,
+      "keep": false,
+      "reason": "新硬件产品发布，但 AI 应用不明确"
+    },
+    {
+      "id": "TM-04",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是政治新闻"
+    },
+    {
+      "id": "TM-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "白宫与 AI 公司合作，涉及安全框架，具有政策意义"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规报道，涉及自动驾驶技术的安全问题"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "苹果改变应用市场政策，可能影响 AI 应用生态"
+    },
+    {
+      "id": "TM-08",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是游戏预售信息"
+    },
+    {
+      "id": "TM-09",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及 AI 政策，但信息量有限"
+    },
+    {
+      "id": "TM-10",
+      "score": 9.0,
+      "keep": true,
+      "reason": "重要模型排名更新，影响 AI 研究和应用"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta 的 AI 组织变动，可能影响技术发展方向"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新框架发布，涉及机器人自我改进，具有技术洞察"
+    },
+    {
+      "id": "TM-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "新公司成立，关注 AI 应用，但信息量一般"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是市场交易信息"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新组织成立，关注 AI 安全立法，具有政策意义"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "调查数据，提供市场趋势，但信息量有限"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "研究表明 AI 对企业的影响，具有一定洞察"
+    },
+    {
+      "id": "TM-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规报道，涉及公司内部政策变动"
+    },
+    {
+      "id": "TM-19",
+      "score": 8.0,
+      "keep": true,
+      "reason": "行业格局变化，涉及中美技术竞争，具有重要性"
+    },
+    {
+      "id": "TM-20",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是融资条款信息"
+    },
+    {
+      "id": "TM-21",
+      "score": 8.0,
+      "keep": true,
+      "reason": "重要客户关系，可能影响 AI 模型的使用和发展"
+    },
+    {
+      "id": "TM-22",
+      "score": 6.0,
+      "keep": false,
+      "reason": "高管任命，信息量一般，影响有限"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "亚马逊计划销售 AI 芯片，可能影响市场竞争"
+    },
+    {
+      "id": "TM-24",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是经济预测信息"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "公司合同签署，信息量一般，影响有限"
+    },
+    {
+      "id": "TM-26",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta大规模购买计算能力，显示出对AI基础设施的重视，但信息量有限。"
+    },
+    {
+      "id": "TM-27",
+      "score": 5.0,
+      "keep": false,
+      "reason": "居民健康问题引发关注，但与AI直接相关性不强。"
+    },
+    {
+      "id": "TM-28",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Kalshi的交易量增长，但缺乏深度分析和行业影响。"
+    },
+    {
+      "id": "TM-29",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Kalshi的收入大幅增长并考虑IPO，显示出市场潜力。"
+    },
+    {
+      "id": "TM-30",
+      "score": 8.0,
+      "keep": true,
+      "reason": "中国投资者计划回购AI初创公司，涉及重要资本运作。"
+    },
+    {
+      "id": "TM-31",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Blackstone收购Medallia，涉及重大投资损失，但信息较常规。"
+    },
+    {
+      "id": "TM-32",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Accenture收购网络安全初创公司，显示出行业整合趋势。"
+    },
+    {
+      "id": "TM-33",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Baseten筹集资金并估值大幅提升，反映市场对AI推理的关注。"
+    },
+    {
+      "id": "TM-34",
+      "score": 7.0,
+      "keep": true,
+      "reason": "General Intuition寻求融资，显示出AI领域的投资兴趣。"
+    },
+    {
+      "id": "TM-35",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Dream的融资和估值大幅提升，表明对关键基础设施保护的重视。"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Prem AI的融资信息较常规，缺乏行业深度。"
+    },
+    {
+      "id": "TM-37",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Gradial的融资信息较常规，未显示出显著的行业变化。"
+    },
+    {
+      "id": "TM-38",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Verse Enterprises的融资信息较常规，缺乏深度分析。"
+    },
+    {
+      "id": "TM-39",
+      "score": 5.0,
+      "keep": false,
+      "reason": "APEC的融资信息较常规，未显示出显著的行业变化。"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Architect Labs的融资信息较常规，缺乏深度分析。"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "NeuralTrust的融资信息较常规，未显示出显著的行业变化。"
+    },
+    {
+      "id": "TM-42",
+      "score": 6.0,
+      "keep": false,
+      "reason": "国家黑客使用家庭设备进行网络攻击，反映出安全隐患。"
+    },
+    {
+      "id": "TM-43",
+      "score": 8.0,
+      "keep": true,
+      "reason": "EU对AWS和Azure的监管初步结果，可能影响行业格局。"
+    },
+    {
+      "id": "TM-44",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Google停止生产Nest产品，但信息量有限。"
+    },
+    {
+      "id": "TM-45",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，涉及法律问题。"
+    },
+    {
+      "id": "TM-46",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，涉及公司治理。"
+    },
+    {
+      "id": "TM-47",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，涉及法律问题。"
+    },
+    {
+      "id": "TM-48",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，涉及社会问题。"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "ChatGPT市场份额下降，反映出竞争加剧，值得关注。"
+    },
+    {
+      "id": "TL-02",
+      "score": 7.0,
+      "keep": true,
+      "reason": "ChatGPT功能更新，显示出产品迭代和用户体验的提升。"
+    },
+    {
+      "id": "TL-03",
+      "score": 6.0,
+      "keep": false,
+      "reason": "比较不同模型生成着陆页的成本效益，提供了产品应用的洞察。"
+    },
+    {
+      "id": "TL-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨了大型语言模型在安全性评估中的有效性，具有一定的研究价值。"
+    },
+    {
+      "id": "TL-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "介绍了一个开源框架，旨在简化AI代理的生产基础设施，具有实用的产品洞察。"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新模型在3D运动预测方面的表现优于现有方法，具有技术创新性。"
+    },
+    {
+      "id": "TL-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Vercel的新功能提升了安全性，虽然重要但相对常规。"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia推出的XR AI为AR和XR设备提供了基础，具有广泛的应用潜力。"
+    },
+    {
+      "id": "TL-09",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Cursor的新模型在软件开发领域具有重大突破，参数量巨大，值得关注。"
+    },
+    {
+      "id": "TL-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Noam Shazeer加入OpenAI，可能对公司战略产生影响，值得关注。"
+    },
+    {
+      "id": "TL-11",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI直接相关性较弱，信息量不足。"
+    },
+    {
+      "id": "TL-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Replit与Claude的集成提供了基本的功能更新，但信息量有限。"
+    },
+    {
+      "id": "TL-13",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI推出的LifeSciBench为生命科学领域的AI评估提供了新基准，具有重要意义。"
+    },
+    {
+      "id": "TL-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Mistral的新模型即将发布，但信息较少，缺乏具体细节。"
+    }
+  ]
+}

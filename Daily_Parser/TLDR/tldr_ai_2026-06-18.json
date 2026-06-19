@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-18",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "ChatGPT's market share slips below 50% for first time (4 minute read)",
+        "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/?utm_source=tldrai",
+        "excerpt": "ChatGPT's market share has dipped below 50% for the first time. Users are migrating to other assistants like Google's Gemini, Anthropic's Claude, and xAI's Grok. ChatGPT was the fastest app to ever reach a billion monthly users, and it still remains the most popular AI assistant worldwide. Users are increasingly willing to switch between assistants."
+      },
+      {
+        "title": "ChatGPT Improves Scheduled Tasks and Retires Pulse (1 minute read)",
+        "url": "https://x.com/ChatGPTapp/status/2067316960875168181?utm_source=tldrai",
+        "excerpt": "ChatGPT has introduced an improved task scheduling feature, enhancing speed and reliability. It is accessible via the new Scheduled page and available to Go, Plus, Pro, Business, and Enterprise users."
+      },
+      {
+        "title": "Kimi K2.7 Code vs Claude Fable 5: Landing Pages That Cost 94% Less (6 minute read)",
+        "url": "https://x.com/nutlope/status/2067281915887943890?utm_source=tldrai",
+        "excerpt": "An experiment compared Kimi K2.7 Code with Claude Fable 5 to generate 12 landing pages each. Kimi K2.7 Code cut costs by 94%, being 16 times cheaper than Claude Fable 5."
+      },
+      {
+        "title": "Brain the Size of a Planet: Are LLMs Thonking too Hard? (30 minute read)",
+        "url": "https://parsiya.net/blog/llm-thonking/?utm_source=tldrai",
+        "excerpt": "Earlier studies showed that Opus 4.6, GPT 5.4, Gemini 3.1-pro-preview, Deepseek R1-0528, and Qwen 3.6-plus were unable to find two of the vulnerabilities discussed in the Mythos blog post without extremely revealing hints. This study continues the previous experiments with 26 distinct Claude-4.6/4.7 and GPT-5.4/5.5 combinations and different context window sizes and reasoning efforts. It found that higher reasoning effort, and even later models, are not always better for triaging security results."
+      },
+      {
+        "title": "Production Infrastructure for AI Agents (19 minute read)",
+        "url": "https://vercel.com/blog/introducing-eve?utm_source=tldrai",
+        "excerpt": "Vercel introduced eve, an open-source agent framework with built-in capabilities such as durable execution, sandboxed compute, approvals, subagents, and evaluations. It aims to let developers focus on agent behavior while the framework handles production concerns."
+      },
+      {
+        "title": "MolmoMotion: Language-guided 3D motion forecasting (9 minute read)",
+        "url": "https://huggingface.co/blog/allenai/molmomotion?utm_source=tldrai",
+        "excerpt": "MolmoMotion, a new motion forecasting model, predicts future 3D point trajectories in videos using language instructions and initial object positions, outperforming existing methods. The model and its dataset, MolmoMotion-1M, feature vast datasets of 3D point trajectories from 1.16M videos, with a benchmark for accuracy testing."
+      },
+      {
+        "title": "Vercel Connect (8 minute read)",
+        "url": "https://vercel.com/blog/introducing-vercel-connect?utm_source=tldrai",
+        "excerpt": "Vercel launched Connect in public beta, replacing long-lived provider tokens with runtime credential exchange that issues short-lived, task-scoped credentials for agents. The approach reduces the risk associated with shared, persistent access tokens."
+      },
+      {
+        "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI (12 minute read)",
+        "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/?utm_source=tldrai",
+        "excerpt": "Nvidia XR AI provides a reusable foundation for connecting extended reality devices to GPU-accelerated AI services running in the cloud, data center, workstation, or edge. It gives developers access to an open source library for building intelligent agents for AI glasses, AR glasses, and XR headsets. These agents will be able to see what users see, understand token or typed intent, call enterprise tools, and respond within the same XR session. XR AI is now available in public beta."
+      },
+      {
+        "title": "Cursor's new model (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2066946225837109735.html?utm_source=tldrai",
+        "excerpt": "Cursor's new model will push agentic software development far beyond autocomplete and pair programming. The massive model was trained from scratch on over 100,000 GPUs. It has more than 1.5 trillion parameters and delivers intelligence beyond coding tasks. The model will be released in the coming weeks."
+      },
+      {
+        "title": "Noam Shazeer is joining OpenAI (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2067400851438932297.html?utm_source=tldrai",
+        "excerpt": "Noam Shazeer is leaving Google to join OpenAI. Shazeer was one of the co-authors of the 2017 paper - 'Attention Is All You Need' - that transformed the AI world. He also improved search spelling correction and created the core algorithm for AdSense."
+      },
+      {
+        "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+        "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+        "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!"
+      },
+      {
+        "title": "Replit is now available in Claude (2 minute read)",
+        "url": "https://replit.com/blog/replit-claude?utm_source=tldrai",
+        "excerpt": "Replit is now integrated into Claude, allowing seamless transitions from design to development."
+      },
+      {
+        "title": "Introducing LifeSciBench (7 minute read)",
+        "url": "https://openai.com/index/introducing-life-sci-bench/?utm_source=tldrai",
+        "excerpt": "OpenAI introduced LifeSciBench, an expert-judged benchmark that evaluates AI systems on end-to-end life sciences workflows such as evidence analysis, experimental design, scientific reasoning, and research communication rather than isolated biology tasks."
+      },
+      {
+        "title": "Mistral has a new model coming this Summer (2 minute read)",
+        "url": "https://threadreaderapp.com/thread/2066913356548542827.html?utm_source=tldrai",
+        "excerpt": "An early access program will be opened in July for key partners in research, government, and the industry."
+      }
+    ]
+  }
+}

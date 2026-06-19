@@ -1,0 +1,260 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Intel's stock jumps 10.64% after Trump said “Apple has agreed to work with Intel to design and build its Chips in America”; INTC is up 520%+ in the past year
+Tweets:
+  - Author: @rapidresponse47
+    Text: [screenshot of Trump's Truth Social post: “...First, we helped bring in Nvidia, and they agreed to build their first level Chips with Intel.  Next, Elon agreed to build his TerraFab, the largest Chip Factory in the World, designed together with Intel's Technology team.  And, finally, Apple has agreed to work with Intel to design and build its Chips in America.  We decided to help Intel in exchange for 10% of their shares.  Is that too much or, too little?  They were worth around 100 Billion Dollars when we made our offer.  Now they are worth over 600 BILLION DOLLARS!"]
+    Link ID: TM-01-TW-01
+  - Author: @patrickmoorhead
+    Text: I will take this as definite that $INTC and $AAPL have a deal. “And, finally, Apple has agreed to work with Intel to design and build its Chips in America.” Many questions on this one. Is this a performance-based LOI that's likely already in place or a hard contract. [image]
+    Link ID: TM-01-TW-02
+  - Author: @divestech
+    Text: Apple and Intel partnering on chip front would be a huge step forward for Cupertino. Smart move in our view with massive hardware cycle next 3 years in midst of AI boom. Intel went from outsider with Apple to new key potential chip partner. key for 🇺🇸 chips. 🔥🏆🍿🎯🐂🍎📱🖥️
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Noam Shazeer leaves Google to join OpenAI as lead for architecture research; he rejoined Google as a Gemini co-lead in 2024 during the $2.7B Character.AI deal
+Tweets:
+  - Author: @noamshazeer
+    Text: I'm excited to share that I'll be joining OpenAI and look forward to working with the exceptional team there.  It was a difficult decision to move on.  I'm incredibly proud of the amazing team at Google and everything we've built together.  It has been an honor and a pleasure to work with all of you.
+    Link ID: TM-02-TW-01
+  - Author: @sama
+    Text: noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!
+    Link ID: TM-02-TW-02
+  - Author: @yuchenj_uw
+    Text: Noam's leaving Google makes Gemini's future feel uncertain.  More than one DeepMind person has told me Noam saved Gemini.  There's even lore that he tweaked a few lines of training code and Gemini's quality instantly jumped.  Gemini's coding ability still feels behind.  I really hope Gemini can find its way back to its former glory.  We need more model choices.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team called Strategic Futures, focused on frontier AI policy and internal governance
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort
+Tweets:
+  - Author: @midjourney
+    Text: A technical dive inside our new “Midjourney Scanner” [video]
+    Link ID: TM-03-TW-01
+  - Author: @sebastiancaliri
+    Text: I just tested my hand in a mini version of this scanner.  Images that are higher quality than MRI, whole body captured in <1 minute, virtually free to run.  This is going to change medicine.  Things get even crazier when you consider the possibility of using the same tank to focus ultrasound to ablate tissue, stimulate nerves, etc.  The FDA is not in the slightest ready for this.  People will also complain about incidental findings but they are wrong and don't understand how quickly software can improve and how inexpensive a time series of scans will be to generate.
+    Link ID: TM-03-TW-02
+  - Author: @deanwball
+    Text: One of my early projects on Hyperdimensional was to get to the bottom of neurotech, and an observation I had was “wow, seems like transducers are a nice cost curve to ride.” Didn't imagine them for full-body scanning, though. I do suspect it'll work.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: New book: Trump mocked Zuckerberg and Bezos by showing associates their fawning texts, saying they were “kissing my ass”; Musk called it “First-class groveling”
+---
+ID: TM-05
+Title: Sources: the White House and Anthropic are working on a framework that would assess the severity of AI security flaws, a sign that negotiations are progressing
+Sub Items:
+  - Title: Sources: the White House's move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom's access over alleged ties to China
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: Filings: Waymo pulls its ~4K robotaxis from highways after finding 13+ instances of the cars driving into highway sections under construction
+---
+ID: TM-07
+Title: Apple opens iOS to alternative app marketplaces in Brazil and changes App Store commission structure following a settlement with competition watchdog CADE
+---
+ID: TM-08
+Title: Rockstar Games announces that pre-orders for Grand Theft Auto VI will go live on June 25; TTWO closed up 4.93%
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: As David Sacks steps back and Sriram Krishnan prepares to leave, Commerce Secretary Howard Lutnick and others are leading AI policy in the Trump administration
+Sub Items:
+  - Title: Trump, who entered office opposing AI regulation, is shaping the industry through case-by-case interventions without clear rules, creating major uncertainty
+    Link ID: TM-09-SUB-01
+---
+ID: TM-10
+Title: GLM-5.2 is the leading open weights model on Artificial Analysis' Intelligence Index, scoring 51, only behind Fable 5's 60, Opus 4.8's 56, and GPT-5.5's 55
+---
+ID: TM-11
+Title: An in-depth look at Meta's AI-fueled rampage through its engineering organization, 30% to 50% of engineers on core teams reassigned to data labeling, and more
+---
+ID: TM-12
+Title: Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision
+---
+ID: TM-13
+Title: Snap plans to spin off an internal generative AI video team into Dotmo, a new company focused on AI models for interactive gaming experiences, citing high costs
+---
+ID: TM-14
+Title: SpaceX's all-stock Cursor deal illustrates the power of the public markets, which could help SpaceX catch up to Anthropic's and OpenAI's models via acquisitions
+---
+ID: TM-15
+Title: Guardrails Alliance, a super PAC that has raised $5M, debuts to advocate for AI safety legislation and counter pro-industry lobbying, running ads for Alex Bores
+---
+ID: TM-16
+Title: A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT
+---
+ID: TM-17
+Title: A PwC study suggests that AI is rewarding companies that use it to enhance human skills, while leaving those that use it merely to cut costs further behind
+---
+ID: TM-18
+Title: Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models internally, after a similar move by rival Goldman Sachs in April
+---
+ID: TM-19
+Title: South Korean and Taiwanese tech companies that helped build China's hardware sector during the smartphone boom now reap the AI boom as US curbs sideline China
+---
+ID: TM-20
+Title: Report: DeepSeek's first external funding round has a non-negotiable term for investors to not poach its staff or encourage them to start their own companies
+---
+ID: TM-21
+Title: Sources: ByteDance has been Microsoft's biggest AI customer in recent years, largely using OpenAI models, and is on track to spend $1B+ a year on Azure services
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-22
+Title: Intel names former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry; Naga Chandrasekaran will lead front-end technology development and front-end manufacturing
+---
+ID: TM-23
+Title: Amazon's AI chief Peter DeSantis says the company is in talks to sell its custom Trainium AI chips for use in third-party data centers
+---
+ID: TM-24
+Title: The Bank of Korea warns rising bonuses at some South Korean chipmakers could fuel broader wage growth and consumer spending, complicating the inflation outlook
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-25
+Title: Hive's stock jumps 7.3% after the company announced a $220M, three-year GPU cloud contract with Bell Canada and Cohere, as it pivots away from bitcoin mining
+---
+ID: TM-26
+Title: Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri
+---
+ID: TM-27
+Title: As tech giants rush to build AI infrastructure, some residents living near data centers say a constant infrasonic vibration is ruining their health and homes
+---
+
+[CATEGORY: PREDICTION MARKETS]
+ID: TM-28
+Title: Businesses have started using Kalshi to hedge their business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025
+---
+ID: TM-29
+Title: Sources: Kalshi is generating $2B+ in annualized revenue, up about three times from November, and has held informal talks with banks about an eventual IPO
+---
+
+[CATEGORY: M&A]
+ID: TM-30
+Title: Sources: the early Chinese backers of Manus, including HSG, ZhenFund, and Tencent, plan to buy the AI startup back from Meta at the $2B price Meta paid
+---
+ID: TM-31
+Title: A Blackstone-led consortium agrees to take control of software company Medallia from Thoma Bravo, which will lose the entire $5B it invested in Medallia in 2021
+---
+ID: TM-32
+Title: Accenture says it will buy a majority stake in Dragos and fully acquire runZero and NetRise in a combined deal for the cybersecurity startups valued at $4.18B
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-33
+Title: AI inference startup Baseten is raising $1.5B in a dual-tiered deal, with some investors putting in money at an $11B valuation and others at a $13B valuation
+---
+ID: TM-34
+Title: Sources: General Intuition, which trains AI agents in spatial reasoning, is in talks to raise $300M from Jeff Bezos and others at a $2B+ valuation
+---
+ID: TM-35
+Title: Dream, co-founded by ex-NSO Group CEO Shalev Hulio with a focus on protecting critical infrastructure, raised $260M at a $3B valuation, up from $1B in 2025
+---
+ID: TM-36
+Title: Prem AI, a Swiss startup that lets hedge funds and law firms run AI models on their own infrastructure, is raising a $100M Series A, targeting a $500M valuation
+---
+ID: TM-37
+Title: Seattle-based Gradial, which makes AI agents that automate enterprise marketing workflows, raised a $65M Series C led by Insight Partners at a $675M valuation
+---
+ID: TM-38
+Title: Verse Enterprises, which wants to provide energy-management software for 100 data centers by 2027, raised a $54M Series B from Nvidia and others
+---
+ID: TM-39
+Title: Sources: APEC, a derivatives exchange founded by the 22-year-old son of pro-crypto Senator Kirsten Gillibrand, raised $30M led by Lux at a $300M valuation
+---
+ID: TM-40
+Title: Architect Labs, which aims to use AI to cheapen and speed up the process of designing custom chips, raised a $24M seed led by Kindred Ventures
+---
+ID: TM-41
+Title: NeuralTrust, which offers tech that lets enterprises discover, monitor, govern, and secure AI agents, raised a $20M seed led by Alstin Capital
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-42
+Title: Nation-state hackers are increasingly using preinstalled software on low-cost home devices to create residential proxy networks for masking cyberattack traffic
+---
+ID: TM-43
+Title: Sources: as early as next week, the EU is set to unveil its preliminary findings that AWS and Azure seem to meet the criteria for regulation under the DMA
+---
+ID: TM-44
+Title: Google confirms it has ended production of the Nest Mini and Nest Audio, but they “will continue to be fully supported” with updates, patches, and customer care
+---
+ID: TM-45
+Title: Former Gojek CEO and Indonesian education minister Nadiem Makarim is charged with taking ~$46M in rewards tied to a Chromebook procurement contract for schools
+---
+ID: TM-46
+Title: Filing: Roelof Botha joins SpaceX's board as an independent director and will serve on the audit committee, seven months after stepping down as Sequoia steward
+---
+ID: TM-47
+Title: Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs
+---
+ID: TM-48
+Title: A look at 764, an online group the FBI labeled a domestic terrorist organization for manipulating teen girls into sharing sexual material and cutting themselves
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: ChatGPT's market share slips below 50% for first time (4 minute read)
+Excerpt: ChatGPT's market share has dipped below 50% for the first time. Users are migrating to other assistants like Google's Gemini, Anthropic's Claude, and xAI's Grok. ChatGPT was the fastest app to ever reach a billion monthly users, and it still remains the most popular AI assistant worldwide. Users are increasingly willing to switch between assistants.
+---
+ID: TL-02
+Title: ChatGPT Improves Scheduled Tasks and Retires Pulse (1 minute read)
+Excerpt: ChatGPT has introduced an improved task scheduling feature, enhancing speed and reliability. It is accessible via the new Scheduled page and available to Go, Plus, Pro, Business, and Enterprise users.
+---
+ID: TL-03
+Title: Kimi K2.7 Code vs Claude Fable 5: Landing Pages That Cost 94% Less (6 minute read)
+Excerpt: An experiment compared Kimi K2.7 Code with Claude Fable 5 to generate 12 landing pages each. Kimi K2.7 Code cut costs by 94%, being 16 times cheaper than Claude Fable 5.
+---
+ID: TL-04
+Title: Brain the Size of a Planet: Are LLMs Thonking too Hard? (30 minute read)
+Excerpt: Earlier studies showed that Opus 4.6, GPT 5.4, Gemini 3.1-pro-preview, Deepseek R1-0528, and Qwen 3.6-plus were unable to find two of the vulnerabilities discussed in the Mythos blog post without extremely revealing hints. This study continues the previous experiments with 26 distinct Claude-4.6/4.7 and GPT-5.4/5.5 combinations and different context window sizes and reasoning efforts. It found that higher reasoning effort, and even later models, are not always better for triaging security results.
+---
+ID: TL-05
+Title: Production Infrastructure for AI Agents (19 minute read)
+Excerpt: Vercel introduced eve, an open-source agent framework with built-in capabilities such as durable execution, sandboxed compute, approvals, subagents, and evaluations. It aims to let developers focus on agent behavior while the framework handles production concerns.
+---
+ID: TL-06
+Title: MolmoMotion: Language-guided 3D motion forecasting (9 minute read)
+Excerpt: MolmoMotion, a new motion forecasting model, predicts future 3D point trajectories in videos using language instructions and initial object positions, outperforming existing methods. The model and its dataset, MolmoMotion-1M, feature vast datasets of 3D point trajectories from 1.16M videos, with a benchmark for accuracy testing.
+---
+ID: TL-07
+Title: Vercel Connect (8 minute read)
+Excerpt: Vercel launched Connect in public beta, replacing long-lived provider tokens with runtime credential exchange that issues short-lived, task-scoped credentials for agents. The approach reduces the risk associated with shared, persistent access tokens.
+---
+ID: TL-08
+Title: Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI (12 minute read)
+Excerpt: Nvidia XR AI provides a reusable foundation for connecting extended reality devices to GPU-accelerated AI services running in the cloud, data center, workstation, or edge. It gives developers access to an open source library for building intelligent agents for AI glasses, AR glasses, and XR headsets. These agents will be able to see what users see, understand token or typed intent, call enterprise tools, and respond within the same XR session. XR AI is now available in public beta.
+---
+ID: TL-09
+Title: Cursor's new model (1 minute read)
+Excerpt: Cursor's new model will push agentic software development far beyond autocomplete and pair programming. The massive model was trained from scratch on over 100,000 GPUs. It has more than 1.5 trillion parameters and delivers intelligence beyond coding tasks. The model will be released in the coming weeks.
+---
+ID: TL-10
+Title: Noam Shazeer is joining OpenAI (1 minute read)
+Excerpt: Noam Shazeer is leaving Google to join OpenAI. Shazeer was one of the co-authors of the 2017 paper - 'Attention Is All You Need' - that transformed the AI world. He also improved search spelling correction and created the core algorithm for AdSense.
+---
+ID: TL-11
+Title: TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)
+Excerpt: 500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!
+---
+ID: TL-12
+Title: Replit is now available in Claude (2 minute read)
+Excerpt: Replit is now integrated into Claude, allowing seamless transitions from design to development.
+---
+ID: TL-13
+Title: Introducing LifeSciBench (7 minute read)
+Excerpt: OpenAI introduced LifeSciBench, an expert-judged benchmark that evaluates AI systems on end-to-end life sciences workflows such as evidence analysis, experimental design, scientific reasoning, and research communication rather than isolated biology tasks.
+---
+ID: TL-14
+Title: Mistral has a new model coming this Summer (2 minute read)
+Excerpt: An early access program will be opened in July for key partners in research, government, and the industry.
+---

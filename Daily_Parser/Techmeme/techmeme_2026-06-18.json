@@ -1,0 +1,424 @@
+{
+  "date": "2026-06-18",
+  "sections": {
+    "top news": [
+      {
+        "title": "Intel's stock jumps 10.64% after Trump said “Apple has agreed to work with Intel to design and build its Chips in America”; INTC is up 520%+ in the past year",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
+        "tweets": [
+          {
+            "author": "@rapidresponse47",
+            "text": "[screenshot of Trump's Truth Social post: “...First, we helped bring in Nvidia, and they agreed to build their first level Chips with Intel.  Next, Elon agreed to build his TerraFab, the largest Chip Factory in the World, designed together with Intel's Technology team.  And, finally, Apple has agreed to work with Intel to design and build its Chips in America.  We decided to help Intel in exchange for 10% of their shares.  Is that too much or, too little?  They were worth around 100 Billion Dollars when we made our offer.  Now they are worth over 600 BILLION DOLLARS!\"]",
+            "url": "https://x.com/rapidresponse47/status/2067464957491298648"
+          },
+          {
+            "author": "@patrickmoorhead",
+            "text": "I will take this as definite that $INTC and $AAPL have a deal. “And, finally, Apple has agreed to work with Intel to design and build its Chips in America.” Many questions on this one. Is this a performance-based LOI that's likely already in place or a hard contract. [image]",
+            "url": "https://x.com/patrickmoorhead/status/2067583338768929225"
+          },
+          {
+            "author": "@divestech",
+            "text": "Apple and Intel partnering on chip front would be a huge step forward for Cupertino. Smart move in our view with massive hardware cycle next 3 years in midst of AI boom. Intel went from outsider with Apple to new key potential chip partner. key for 🇺🇸 chips. 🔥🏆🍿🎯🐂🍎📱🖥️",
+            "url": "https://x.com/divestech/status/2067548991416381821"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Noam Shazeer leaves Google to join OpenAI as lead for architecture research; he rejoined Google as a Gemini co-lead in 2024 during the $2.7B Character.AI deal",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai",
+        "tweets": [
+          {
+            "author": "@noamshazeer",
+            "text": "I'm excited to share that I'll be joining OpenAI and look forward to working with the exceptional team there.  It was a difficult decision to move on.  I'm incredibly proud of the amazing team at Google and everything we've built together.  It has been an honor and a pleasure to work with all of you.",
+            "url": "https://x.com/noamshazeer/status/2067400851438932297"
+          },
+          {
+            "author": "@sama",
+            "text": "noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!",
+            "url": "https://x.com/sama/status/2067427421083652131"
+          },
+          {
+            "author": "@yuchenj_uw",
+            "text": "Noam's leaving Google makes Gemini's future feel uncertain.  More than one DeepMind person has told me Noam saved Gemini.  There's even lore that he tweaked a few lines of training code and Gemini's quality instantly jumped.  Gemini's coding ability still feels behind.  I really hope Gemini can find its way back to its former glory.  We need more model choices.",
+            "url": "https://x.com/yuchenj_uw/status/2067454663805620631"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Former Trump AI adviser Dean Ball is joining OpenAI to lead a new team called Strategic Futures, focused on frontier AI policy and internal governance",
+            "url": "https://www.axios.com/2026/06/18/dean-ball-openai"
+          }
+        ]
+      },
+      {
+        "title": "Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+        "tweets": [
+          {
+            "author": "@midjourney",
+            "text": "A technical dive inside our new “Midjourney Scanner” [video]",
+            "url": "https://x.com/midjourney/status/2067422898407837797"
+          },
+          {
+            "author": "@sebastiancaliri",
+            "text": "I just tested my hand in a mini version of this scanner.  Images that are higher quality than MRI, whole body captured in <1 minute, virtually free to run.  This is going to change medicine.  Things get even crazier when you consider the possibility of using the same tank to focus ultrasound to ablate tissue, stimulate nerves, etc.  The FDA is not in the slightest ready for this.  People will also complain about incidental findings but they are wrong and don't understand how quickly software can improve and how inexpensive a time series of scans will be to generate.",
+            "url": "https://x.com/sebastiancaliri/status/2067452733356122303"
+          },
+          {
+            "author": "@deanwball",
+            "text": "One of my early projects on Hyperdimensional was to get to the bottom of neurotech, and an observation I had was “wow, seems like transducers are a nice cost curve to ride.” Didn't imagine them for full-body scanning, though. I do suspect it'll work.",
+            "url": "https://x.com/deanwball/status/2067495537947926939"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "New book: Trump mocked Zuckerberg and Bezos by showing associates their fawning texts, saying they were “kissing my ass”; Musk called it “First-class groveling”",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the White House and Anthropic are working on a framework that would assess the severity of AI security flaws, a sign that negotiations are progressing",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/06/18/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules-00967758",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: the White House's move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom's access over alleged ties to China",
+            "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
+          }
+        ]
+      },
+      {
+        "title": "Filings: Waymo pulls its ~4K robotaxis from highways after finding 13+ instances of the cars driving into highway sections under construction",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple opens iOS to alternative app marketplaces in Brazil and changes App Store commission structure following a settlement with competition watchdog CADE",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/06/18/apple-announces-major-app-store-changes-for-brazil-including-alternative-app-marketplaces/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Rockstar Games announces that pre-orders for Grand Theft Auto VI will go live on June 25; TTWO closed up 4.93%",
+        "excerpt": "",
+        "url": "https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "As David Sacks steps back and Sriram Krishnan prepares to leave, Commerce Secretary Howard Lutnick and others are leading AI policy in the Trump administration",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/18/inside-white-house-ai-power-center",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Trump, who entered office opposing AI regulation, is shaping the industry through case-by-case interventions without clear rules, creating major uncertainty",
+            "url": "https://www.axios.com/2026/06/18/trump-shadow-ai-policy"
+          }
+        ]
+      },
+      {
+        "title": "GLM-5.2 is the leading open weights model on Artificial Analysis' Intelligence Index, scoring 51, only behind Fable 5's 60, Opus 4.8's 56, and GPT-5.5's 55",
+        "excerpt": "",
+        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An in-depth look at Meta's AI-fueled rampage through its engineering organization, 30% to 50% of engineers on core teams reassigned to data labeling, and more",
+        "excerpt": "",
+        "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision",
+        "excerpt": "",
+        "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Snap plans to spin off an internal generative AI video team into Dotmo, a new company focused on AI models for interactive gaming experiences, citing high costs",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SpaceX's all-stock Cursor deal illustrates the power of the public markets, which could help SpaceX catch up to Anthropic's and OpenAI's models via acquisitions",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/17/business/dealbook/spacex-stock-cursor-ai.html?unlocked_article_code=1.rFA.K2Pm.-Zp7G7fuvb_A&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Guardrails Alliance, a super PAC that has raised $5M, debuts to advocate for AI safety legislation and counter pro-industry lobbying, running ads for Alex Bores",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html?unlocked_article_code=1.rFA.ItPT.KHuzWc7pmpD3&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT",
+        "excerpt": "",
+        "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A PwC study suggests that AI is rewarding companies that use it to enhance human skills, while leaving those that use it merely to cut costs further behind",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-15/ai-is-splitting-the-job-market-in-two-pwc-study-shows?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTY1MTE1MywiZXhwIjoxNzgyMjU1OTUzLCJhcnRpY2xlSWQiOiJUR0lCNVNLR0NUR1YwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.b2EO_gZTNndmCUKimkO68EcrguaC6qPnJmo8XkxULQ0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models internally, after a similar move by rival Goldman Sachs in April",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/de83d303-6a03-456b-bfb9-7b11dd502ab3",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "South Korean and Taiwanese tech companies that helped build China's hardware sector during the smartphone boom now reap the AI boom as US curbs sideline China",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html?unlocked_article_code=1.rFA.85lF.juGYGzGEVKnf&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Report: DeepSeek's first external funding round has a non-negotiable term for investors to not poach its staff or encourage them to start their own companies",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/18/no-poaching-our-people-chinas-deepseek-reportedly-tells-investors.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: ByteDance has been Microsoft's biggest AI customer in recent years, largely using OpenAI models, and is on track to spend $1B+ a year on Azure services",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTc4MzY3MiwiZXhwIjoxNzgyMzg4NDcyLCJhcnRpY2xlSWQiOiJUR0RVWkhUOTZPU0kwMCIsImJjb25uZWN0SWQiOiJEQ0FGMjNFM0YyMkE0Qzk5OTM0RUMyRDEwNkM0ODc0NyJ9._tf-847fxIHlHTzxUWELdUgzc8BC3CtJ1Fm6X7jEUqs",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Intel names former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry; Naga Chandrasekaran will lead front-end technology development and front-end manufacturing",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/intel-taps-industry-veteran-seok-hee-lee-lead-foundry-packaging-push-2026-06-18/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon's AI chief Peter DeSantis says the company is in talks to sell its custom Trainium AI chips for use in third-party data centers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/amazon-is-in-talks-to-sell-nvidia-rival-chips-to-other-companies",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Bank of Korea warns rising bonuses at some South Korean chipmakers could fuel broader wage growth and consumer spending, complicating the inflation outlook",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-17/bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Hive's stock jumps 7.3% after the company announced a $220M, three-year GPU cloud contract with Bell Canada and Cohere, as it pivots away from bitcoin mining",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As tech giants rush to build AI infrastructure, some residents living near data centers say a constant infrasonic vibration is ruining their health and homes",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html?unlocked_article_code=1.q1A.hrLP.4SKS8kradz4r&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "prediction markets": [
+      {
+        "title": "Businesses have started using Kalshi to hedge their business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/17/business/dealbook/hedging-prediction-markets-kalshi.html?unlocked_article_code=1.rFA.L6RD.G_CozRXwosjn&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Kalshi is generating $2B+ in annualized revenue, up about three times from November, and has held informal talks with banks about an eventual IPO",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/kalshi-passes-2-billion-annualized-revenue-early-ipo-talks",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Sources: the early Chinese backers of Manus, including HSG, ZhenFund, and Tencent, plan to buy the AI startup back from Meta at the $2B price Meta paid",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/manus-revenue-soars-original-investors-move-reverse-meta-deal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A Blackstone-led consortium agrees to take control of software company Medallia from Thoma Bravo, which will lose the entire $5B it invested in Medallia in 2021",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Accenture says it will buy a majority stake in Dragos and fully acquire runZero and NetRise in a combined deal for the cybersecurity startups valued at $4.18B",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/accenture-take-majority-stake-acquire-cybersecurity-firms-418-billion-deal-2026-06-18/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "AI inference startup Baseten is raising $1.5B in a dual-tiered deal, with some investors putting in money at an $11B valuation and others at a $13B valuation",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: General Intuition, which trains AI agents in spatial reasoning, is in talks to raise $300M from Jeff Bezos and others at a $2B+ valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dream, co-founded by ex-NSO Group CEO Shalev Hulio with a focus on protecting critical infrastructure, raised $260M at a $3B valuation, up from $1B in 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/ai-company-dream-triples-value-to-3-billion-in-funding-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Prem AI, a Swiss startup that lets hedge funds and law firms run AI models on their own infrastructure, is raising a $100M Series A, targeting a $500M valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/swiss-ai-startup-prem-is-raising-100-million-series-a-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Seattle-based Gradial, which makes AI agents that automate enterprise marketing workflows, raised a $65M Series C led by Insight Partners at a $675M valuation",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/18/gradial-ai-agents-marketing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Verse Enterprises, which wants to provide energy-management software for 100 data centers by 2027, raised a $54M Series B from Nvidia and others",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/nvidia-backed-startup-aims-to-speed-ai-data-center-grid-connection",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: APEC, a derivatives exchange founded by the 22-year-old son of pro-crypto Senator Kirsten Gillibrand, raised $30M led by Lux at a $300M valuation",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/18/theodore-gillibrand-senator-kirstin-gillibrand-apec-american-perpetuals-exchange-corporation-lux-capital/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Architect Labs, which aims to use AI to cheapen and speed up the process of designing custom chips, raised a $24M seed led by Kindred Ventures",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/architect-labs-raises-24-million-take-broadcom-marvell-custom-chip-business-2026-06-18/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NeuralTrust, which offers tech that lets enterprises discover, monitor, govern, and secure AI agents, raised a $20M seed led by Alstin Capital",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/06/17/neuraltrust-closes-20m-to-expand-ai-agent-security-platform/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Nation-state hackers are increasingly using preinstalled software on low-cost home devices to create residential proxy networks for masking cyberattack traffic",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/cybersecurity/how-hackers-found-a-back-door-into-the-american-living-room-c117cb9f?st=HJGh6t&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: as early as next week, the EU is set to unveil its preliminary findings that AWS and Azure seem to meet the criteria for regulation under the DMA",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/microsoft-amazon-cloud-services-face-tough-eu-antitrust-law",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google confirms it has ended production of the Nest Mini and Nest Audio, but they “will continue to be fully supported” with updates, patches, and customer care",
+        "excerpt": "",
+        "url": "https://www.techadvisor.com/article/3167170/exclusive-google-nest-mini-nest-audio-discontinued.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Former Gojek CEO and Indonesian education minister Nadiem Makarim is charged with taking ~$46M in rewards tied to a Chromebook procurement contract for schools",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-17/gojek-co-founder-makarim-s-trial-in-indonesia-shows-rising-business-risks",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Roelof Botha joins SpaceX's board as an independent director and will serve on the audit committee, seven months after stepping down as Sequoia steward",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/17/paypal-mafia-member-and-ex-sequoia-steward-roelof-botha-joins-spacex-board-reuniting-with-elon-musk-after-decades/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/google-s-secret-warrant-fight-over-doj-pipe-bomb-probe-revealed",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at 764, an online group the FBI labeled a domestic terrorist organization for manipulating teen girls into sharing sexual material and cutting themselves",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-17/online-cyberbullying-group-764-torments-teenage-girls-as-blood-sport?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTczMjQwMywiZXhwIjoxNzgyMzM3MjAzLCJhcnRpY2xlSWQiOiJUR1NOT0ZWVFRENkMwMCIsImJjb25uZWN0SWQiOiJDMjNCMzkyMjJFNTY0QkEwODNBOEQyNjUwN0JCMjhDQyJ9.Tt851qHe2u5ACAc3MqYZAJO4nMo7WKw791BfCosRY-4",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 48
+  }
+}
