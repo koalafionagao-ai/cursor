@@ -1,0 +1,404 @@
+{
+  "date": "2026-06-19",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 18,
+    "by_category": {
+      "cat:other": 5,
+      "cat:business": 5,
+      "cat:model": 1,
+      "cat:tech": 4,
+      "cat:app": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://x.com/johnjumpersci/status/2068001285173834106",
+      "title": {
+        "zh": "John Jumper离开Google DeepMind加入Anthropic",
+        "en": "John Jumper, who won the Nobel Prize “for protein structure prediction”, says he is leaving Google DeepMind after nearly nine years to join Anthropic"
+      },
+      "summary": {
+        "zh": "John Jumper因蛋白质结构预测获诺贝尔奖，宣布离开效力近九年的Google DeepMind，加入Anthropic。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "anthropic",
+        "demis-hassabis"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "title": {
+        "zh": "挪威对小学生使用生成式AI实施近乎全面禁令",
+        "en": "Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids' education, to prevent a negative impact on learning"
+      },
+      "summary": {
+        "zh": "挪威限制生成式AI在教育中的使用，特别是小学阶段，以防止对学习产生负面影响。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9?st=qk47kh&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "消息称Google效仿Nvidia布局AI芯片业务",
+        "en": "Sources detail how Google is using Nvidia's playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic"
+      },
+      "summary": {
+        "zh": "Google通过提供32亿美元资金支持纽约数据中心，租赁TPU给Anthropic，效仿Nvidia的AI芯片业务模式。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "google",
+        "nvidia",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/openai-burned-3-7-billion-first-three-months-2026",
+      "title": {
+        "zh": "文件显示OpenAI第一季度烧钱37亿美元",
+        "en": "Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December"
+      },
+      "summary": {
+        "zh": "OpenAI第一季度收入57亿美元，现金及可变现证券余额超730亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-18/us-to-fast-track-grid-connections-for-ai-data-centers",
+      "title": {
+        "zh": "美国FERC批准新规加速数据中心电力请求",
+        "en": "The US FERC approves new orders to fast-track data center power requests, aiming to handle them in 90 days, while bringing new requirements for AI hyperscalers"
+      },
+      "summary": {
+        "zh": "新规旨在90天内处理数据中心电力请求，同时对AI超大规模计算中心提出新要求。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "data-center",
+        "energy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "title": {
+        "zh": "Elastic将以最高8500万美元收购Deductive AI",
+        "en": "Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI's $7.5M seed round in 2025"
+      },
+      "summary": {
+        "zh": "Deductive AI是一家AI站点可靠性工程初创公司，曾获CRV领投的750万美元种子轮融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/autos/chinese-autonomous-driving-unicorn-targets-1-billion-hong-kong-ipo-a8e2401f?st=D3Kixr&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Momenta计划在香港IPO，估值约90亿美元",
+        "en": "Sources: Chinese autonomous driving company Momenta has reached a ~$9B valuation as it gears up to raise ~$1B in an upcoming Hong Kong IPO"
+      },
+      "summary": {
+        "zh": "中国自动驾驶公司Momenta计划筹资约10亿美元，估值达到约90亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "autonomous-driving",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://cyberscoop.com/teampcp-breaks-open-source-software-trust-model/",
+      "title": {
+        "zh": "黑客组织TeamPCP利用开源信任模型传播恶意软件",
+        "en": "How hacker group TeamPCP exploited the open source trust model and distribution method to compromise and inject malware into over 1,000 software packages"
+      },
+      "summary": {
+        "zh": "TeamPCP通过开源分发方法，成功在超过1000个软件包中注入恶意软件。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/openai-prepares-gpt-5-6-models-for-the-upcoming-release/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI准备发布GPT-5.6模型",
+        "en": "OpenAI prepares GPT-5.6 models for the upcoming release (2 minute read)"
+      },
+      "summary": {
+        "zh": "GPT-5.6将推出Mini和Pro版本，支持更大的上下文窗口、改进的长时编码和更快的Codex响应时间，且价格具有竞争力。",
+        "en": "OpenAI plans to launch GPT-5.6, potentially including Mini and Pro variants, next week. Key enhancements include a larger 1.5 million token context window, improved long-horizon coding, and faster Codex response times. Competitive pricing aims to undercut Anthropic, especially as US regulatory issues impact Anthropic's Claude Fable 5 availability."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt",
+        "coding",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.perplexity.ai/hub/blog/self-improving-memory-for-agents?utm_source=tldrai",
+      "title": {
+        "zh": "Perplexity Brain推出自我改进记忆系统",
+        "en": "Self-Improving Memory for Agents (6 minute read)"
+      },
+      "summary": {
+        "zh": "该系统通过构建持久上下文图，优化任务和知识管理，提升回答准确性并降低任务成本。",
+        "en": "Perplexity Brain is a memory system that builds a persistent context graph across tasks, projects, decisions, files, and sources so agents can start with relevant context instead of starting from scratch. Brain links every memory to its original source, continuously updates and organizes knowledge over time, and improves answer correctness while reducing task costs through better retrieval and reuse of prior work."
+      },
+      "tags": [
+        "cat:tech",
+        "perplexity",
+        "agent",
+        "rag"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.engadget.com/2196998/midjourney-full-body-ultrasonic-scanner/?utm_source=tldrai",
+      "title": {
+        "zh": "Midjourney开发全身超声扫描仪",
+        "en": "Midjourney, the AI image generator, is developing a full-body ultrasonic scanner (3 minute read)"
+      },
+      "summary": {
+        "zh": "Midjourney推出一款全身扫描仪，可在60秒内完成全身扫描，生成高精度3D身体地图，速度是传统MRI的百倍。",
+        "en": "Midjourney's new project is a medical machine that can scan a person's whole body in just 60 seconds. The Midjourney Scanner is not related to anything seen from the company so far. It can create a 3D map of users' bodies, down to a fraction of a millimeter, that looks similar to an MRI but at nearly a hundred times the speed. A full scan takes less than 60 seconds, compared to the 60 to 90 minutes it typically takes to do a full-body MRI. The company is building spas to house the machines for customers to use."
+      },
+      "tags": [
+        "cat:app",
+        "midjourney"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://alignment.openai.com/beneficial-rl/?utm_source=tldrai",
+      "title": {
+        "zh": "强化学习推动广泛且持久的有益模型发展",
+        "en": "Reinforcement learning towards broadly and persistently beneficial models (22 minute read)"
+      },
+      "summary": {
+        "zh": "研究表明，针对有益特性的强化学习可在多个基准测试中实现广泛改进，并在对抗性压力下保持效果。",
+        "en": "Reinforcement learning on realistic scenarios targeting beneficial traits can produce broad improvements across dozens of benchmarks measuring aligned and beneficial behavior. These gains generalize beyond the domains used for training and persist under adversarial pressure. This suggests that personas could be deeply entrenched in models, and RL may be a path towards entrenching beneficial personas."
+      },
+      "tags": [
+        "cat:tech",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks?utm_source=tldrai",
+      "title": {
+        "zh": "MosaicLeaks：研究代理的隐私风险与解决方案",
+        "en": "MosaicLeaks: Can your research agent keep a secret? (10 minute read)"
+      },
+      "summary": {
+        "zh": "MosaicLeaks揭示了深度研究代理的隐私风险，并提出PA-DR解决方案，通过安全查询构造减少信息泄露。",
+        "en": "MosaicLeaks highlights the privacy risks of deep research agents that combine private documents with web retrieval, often leaking sensitive information. The proposed solution, PA-DR, enhances both performance and privacy by reducing answer/full-information leakage from 34% to 9.9% while maintaining task success. PA-DR uses rewards for safe query construction rather than relying on user prompts, making agents perform better without compromising data security."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-07",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://claude.com/blog/artifacts-in-claude-code?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Code支持实时共享的“工件”功能",
+        "en": "Claude Code now supports artifacts (5 minute read)"
+      },
+      "summary": {
+        "zh": "Claude Code新增“工件”功能，可将工作会话转化为实时更新的可共享页面，提升团队协作效率。",
+        "en": "Claude Code now supports \"artifacts,\" turning work sessions into live, shareable visual pages for tasks like PR walkthroughs and system explainers. Artifacts refresh automatically with updates and offer features like version history and privacy controls. Available in beta for Claude Team and Enterprise, artifacts improve collaboration by consolidating session context into a single, accessible page."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude-code"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/?utm_source=tldrai",
+      "title": {
+        "zh": "谷歌推出AI控制路线图以保障未来AI代理安全",
+        "en": "Securing the future of AI agents (7 minute read)"
+      },
+      "summary": {
+        "zh": "谷歌的AI控制路线图通过沙盒、端点安全和提示注入防护等措施，为AI代理提供系统级安全保障。",
+        "en": "Google's AI Control Roadmap is a framework for building and managing the advanced AI deployed within the company. The approach adds a crucial layer of system-level security that provides assurance even if alignment is perfect. It incorporates safeguards like sandboxing, endpoint security, and prompt injection resistance. The roadmap uses AI alignment as a primary defense. It considers internal agents as potentially misaligned, providing assurance even if alignment isn't perfect."
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "safety",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-10",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9?st=Z1ygZm&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "谷歌借鉴Nvidia模式发展AI芯片业务",
+        "en": "Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business (11 minute read)"
+      },
+      "summary": {
+        "zh": "谷歌通过租赁TPU计算能力给Anthropic等公司，推动其AI芯片业务发展，并专注于提升芯片推理性能。",
+        "en": "Google is renting computing power from thousands of its microprocessors at an AI data center in Western New York to AI giant Anthropic. The move will help data centers raise cheaper debt. Google realized the commercial potential for its TPUs about two years ago and started investing in their inference capabilities. Its AI infrastructure team is now hyper-focused on improving chip performance."
+      },
+      "tags": [
+        "cat:business",
+        "google",
+        "nvidia",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-12",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/mistral-ai-to-get-code-and-apps-features-on-vibe/?utm_source=tldrai",
+      "title": {
+        "zh": "Mistral AI为Vibe新增代码与应用功能",
+        "en": "Mistral AI to get Code and Apps features on Vibe (2 minute read)"
+      },
+      "summary": {
+        "zh": "Mistral AI为Vibe引入浏览器内代码编辑和应用构建功能，拓展其基础聊天功能。",
+        "en": "Mistral AI is enhancing Vibe with a CODE section for browser-based coding and an APPS area for building and sharing apps, moving beyond basic chat functionalities."
+      },
+      "tags": [
+        "cat:app",
+        "mistral",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-15",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.wsj.com/tech/ai/the-13-billion-ai-startup-betting-on-cheaper-alternatives-to-openai-anthropic-b9679603?st=o3AdMT&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "估值130亿美元的AI初创公司押注低成本AI模型",
+        "en": "The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic (4 minute read)"
+      },
+      "summary": {
+        "zh": "Baseten专注于为使用低成本AI模型的公司提供软件和计算能力支持。",
+        "en": "Baseten specializes in providing software and computing capacity to companies tapping into lower-cost AI models."
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

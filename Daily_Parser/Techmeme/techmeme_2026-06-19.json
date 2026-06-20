@@ -1,0 +1,274 @@
+{
+  "date": "2026-06-19",
+  "sections": {
+    "top news": [
+      {
+        "title": "John Jumper, who won the Nobel Prize “for protein structure prediction”, says he is leaving Google DeepMind after nearly nine years to join Anthropic",
+        "excerpt": "",
+        "url": "https://x.com/johnjumpersci/status/2068001285173834106",
+        "tweets": [
+          {
+            "author": "@demishassabis",
+            "text": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.",
+            "url": "https://x.com/demishassabis/status/2068002732250640603"
+          },
+          {
+            "author": "@nc_frey",
+            "text": "excited to welcome @JohnJumperSci to @AnthropicAI ! John's work on AlphaFold opened the door for me and many other recovering physicists to contribute to this field. we need many more “AlphaFold moments” in AI x Bio and I'm stoked to have John on board",
+            "url": "https://x.com/nc_frey/status/2068018224701063220"
+          },
+          {
+            "author": "@yuchenj_uw",
+            "text": "John Jumper is a Nobel laureate who won the 2024 Nobel Prize with Demis Hassabis. Now he's leaving Google DeepMind too, right after Noam Shazeer. What is going on at Google DeepMind? I had really high hopes for Gemini.",
+            "url": "https://x.com/yuchenj_uw/status/2068006890349686844"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool",
+        "tweets": [
+          {
+            "author": "@kyleichan",
+            "text": "The US government is accusing ASML of letting China get an EUV lithography machine. This seems bizarre to me, and no evidence was provided. ASML has pushed back, saying they can track where every EUV machine in the world is and that each one requires constant servicing by ASML.",
+            "url": "https://x.com/kyleichan/status/2067809046174765159"
+          },
+          {
+            "author": "@maartendik",
+            "text": "$ASML What a bizarre thing to say. Especially with new machines. Next to export licenses, EUV machines require maintenance. It is very, very hard if not impossible to lose track of these machines in working conditions.",
+            "url": "https://x.com/maartendik/status/2067866210960617738"
+          },
+          {
+            "author": "@bgmasters",
+            "text": "ASML's “we have never shipped an EUV machine to China” is telling on itself. Total lawyer answer. They know a decommissioned machine slipped through, at tremendous cost to American national security. [image]",
+            "url": "https://x.com/bgmasters/status/2067821184545378435"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate, after a report on Howard Lutnick's questions to ASML's leadership",
+            "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-denies-us-government-report-that-its-euv-chipmaking-tool-was-shipped-to-china-says-rumors-are-inaccurate-and-damaging-to-our-reputation"
+          }
+        ]
+      },
+      {
+        "title": "Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was “nice” and “smart” at G7",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
+        "tweets": [
+          {
+            "author": "@andrewcurran_",
+            "text": "Axios: ‘Do you view Anthropic, and to a degree its CEO Dario Amodei, as a threat to national security?’  President Trump: 'Well, not now, but a week ago maybe.  I was with him yesterday.  He made a speech.  I made a little speech.  We were in the room on the G7, and seems like a nice guy, smart guy.  But he responded to us very quickly.  Because you know it's tremendous liability.  People get put in prison immediately for that.  You know.  You can't play games with that.  And he responded very responsibly, I thought.  So far.  I think he will.'",
+            "url": "https://x.com/andrewcurran_/status/2068041439481901157"
+          },
+          {
+            "author": "@juddrosenblatt",
+            "text": "Remarkable how much more maturity, pragmatism, and agency Trump shows here than the caricature most in “AI Safety” hold of him",
+            "url": "https://x.com/juddrosenblatt/status/2068049564414955575"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: SpaceX plans to raise $20B in a bond sale as soon as next week; the funds would be used to pay back a $20B bridge loan taken out after the xAI merger",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids' education, to prevent a negative impact on learning",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon MGM Studios drops Luca Guadagnino's mostly finished movie on Sam Altman; Amazon struck a major deal with OpenAI in February, including a $50B investment",
+        "excerpt": "",
+        "url": "https://variety.com/2026/film/global/luca-guadagnino-sam-altman-movie-artificial-dropped-amazon-1236785830/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "South Korean media: Hyundai plans to buy SoftBank's remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/hyundai-buy-softbanks-remaining-stake-boston-dynamics-325-mln-newspaper-says-2026-06-19/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Sources detail how Google is using Nvidia's playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9?st=qk47kh&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "John Edwards, UK Information Commissioner and chair of the ICO, the country's data and AI regulator, resigned following a workplace investigation",
+        "excerpt": "",
+        "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: about 200 companies accessing Mythos Preview through Project Glasswing have preserved their access despite a recent US government shutdown order",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTg3MzMwNywiZXhwIjoxNzgyNDc4MTA3LCJhcnRpY2xlSWQiOiJUR1VETk9LSkg2VjQwMCIsImJjb25uZWN0SWQiOiIxQjAxRkYwQjMzQ0I0NTFDOUIwMUYyNTlGMDA1MTE3MiJ9.fjLhOc8UW9Ow4VZm2T0jGqeShOq4r_BicxD-ojRVguM",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/openai-burned-3-7-billion-first-three-months-2026",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Barret Zoph leaves OpenAI again five months after rejoining in January; Zoph initially left OpenAI in 2024 to serve as Thinking Machines Lab co-founder and CTO",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdKd1ZGY2MzRTIiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk1MjgzNy9iYXJyZXQtem9waC1vcGVuYWktdGhpbmtpbmctbWFjaGluZXMtbGFiIiwiZXhwIjoxNzgyMjc2NzM3LCJpYXQiOjE3ODE4NDQ3Mzd9.AMiVMIH0zXm4EpnP_GvMmZ94o5_utN_PjQvciR74kd0&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Sources: England and Wales' attorney general tells his office to stop posting on X, a first for the UK government, amid worries about X inciting violence",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/technology/2026/jun/18/uk-attorney-general-tells-staff-stop-using-x-disinformation-concerns",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US circuit court overturned an injunction against Ohio, allowing the state to implement a law forcing platforms to seek parental consent if a user is under 16",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/us/us-court-rules-ohio-can-restrict-childrens-use-social-media-2026-06-18/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "The US FERC approves new orders to fast-track data center power requests, aiming to handle them in 90 days, while bringing new requirements for AI hyperscalers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-18/us-to-fast-track-grid-connections-for-ai-data-centers",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Abu Dhabi's MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/abu-dhabis-mgx-weighs-multi-billion-deal-data-centre-operator-dayone-sources-say-2026-06-19/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "The CFTC permanently bans Celsius founder Alex Mashinsky from trading in markets it oversees as part of a settlement resolving its 2023 lawsuit against him",
+        "excerpt": "",
+        "url": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Turkey approves Uber's $335M deal to buy Getir's delivery business, tied to a $500M investment pledge in Turkey; Uber is also paying $100M for a 15% Getir stake",
+        "excerpt": "",
+        "url": "https://thenextweb.com/news/turkey-clears-ubers-acquisition-of-getirs-delivery-business",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI's $7.5M seed round in 2025",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Filing: Jio Platforms, India's largest wireless operator with 526M+ subscribers, files for an IPO; the deal is expected to be one of India's biggest IPOs ever",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Chinese autonomous driving company Momenta has reached a ~$9B valuation as it gears up to raise ~$1B in an upcoming Hong Kong IPO",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/autos/chinese-autonomous-driving-unicorn-targets-1-billion-hong-kong-ipo-a8e2401f?st=D3Kixr&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Nothing won't launch a new phone this year in its budget-focused CMF Phone series due to RAM prices",
+        "excerpt": "",
+        "url": "https://9to5google.com/2026/06/19/nothing-cmf-phone-ram-costs/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Appfigures: daily downloads of major VPN apps in India rose 49% on June 16 after India announced its Telegram ban; Proton and Turbo recorded largest increases",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-19/oura-ring-5-review-the-399-smart-ring-makes-more-sense-for-first-time-buyers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTg3ODEyMSwiZXhwIjoxNzgyNDgyOTIxLCJhcnRpY2xlSWQiOiJUR1ZUS0ZLSVAzSU4wMCIsImJjb25uZWN0SWQiOiI4NkJGQzY3ODRGNEI0MjE1QTRCQjg4NUFBNzYwMTJCRCJ9.q-8rBxT1LqTVwluGzKLUXXutkJwab1jAbYLKdv5_jbk",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Doc: SpaceX says the EU's plan to reserve satellite spectrum for European operators risks disrupting connectivity, including for emergency services in Ukraine",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/0b012610-8132-4549-afd9-14bacd9db8cb",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Siemens expects Xcelerator revenue to more than double in 2026, aiming to make the platform an industrial app store integrating software and hardware offerings",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-19/siemens-xcelerator-online-store-revenue-expected-to-double-this-year",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How hacker group TeamPCP exploited the open source trust model and distribution method to compromise and inject malware into over 1,000 software packages",
+        "excerpt": "",
+        "url": "https://cyberscoop.com/teampcp-breaks-open-source-software-trust-model/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 28
+  }
+}

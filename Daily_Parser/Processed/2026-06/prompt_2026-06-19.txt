@@ -1,0 +1,202 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: John Jumper, who won the Nobel Prize “for protein structure prediction”, says he is leaving Google DeepMind after nearly nine years to join Anthropic
+Tweets:
+  - Author: @demishassabis
+    Text: Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.
+    Link ID: TM-01-TW-01
+  - Author: @nc_frey
+    Text: excited to welcome @JohnJumperSci to @AnthropicAI ! John's work on AlphaFold opened the door for me and many other recovering physicists to contribute to this field. we need many more “AlphaFold moments” in AI x Bio and I'm stoked to have John on board
+    Link ID: TM-01-TW-02
+  - Author: @yuchenj_uw
+    Text: John Jumper is a Nobel laureate who won the 2024 Nobel Prize with Demis Hassabis. Now he's leaving Google DeepMind too, right after Noam Shazeer. What is going on at Google DeepMind? I had really high hopes for Gemini.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions
+Tweets:
+  - Author: @kyleichan
+    Text: The US government is accusing ASML of letting China get an EUV lithography machine. This seems bizarre to me, and no evidence was provided. ASML has pushed back, saying they can track where every EUV machine in the world is and that each one requires constant servicing by ASML.
+    Link ID: TM-02-TW-01
+  - Author: @maartendik
+    Text: $ASML What a bizarre thing to say. Especially with new machines. Next to export licenses, EUV machines require maintenance. It is very, very hard if not impossible to lose track of these machines in working conditions.
+    Link ID: TM-02-TW-02
+  - Author: @bgmasters
+    Text: ASML's “we have never shipped an EUV machine to China” is telling on itself. Total lawyer answer. They know a decommissioned machine slipped through, at tremendous cost to American national security. [image]
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate, after a report on Howard Lutnick's questions to ASML's leadership
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was “nice” and “smart” at G7
+Tweets:
+  - Author: @andrewcurran_
+    Text: Axios: ‘Do you view Anthropic, and to a degree its CEO Dario Amodei, as a threat to national security?’  President Trump: 'Well, not now, but a week ago maybe.  I was with him yesterday.  He made a speech.  I made a little speech.  We were in the room on the G7, and seems like a nice guy, smart guy.  But he responded to us very quickly.  Because you know it's tremendous liability.  People get put in prison immediately for that.  You know.  You can't play games with that.  And he responded very responsibly, I thought.  So far.  I think he will.'
+    Link ID: TM-03-TW-01
+  - Author: @juddrosenblatt
+    Text: Remarkable how much more maturity, pragmatism, and agency Trump shows here than the caricature most in “AI Safety” hold of him
+    Link ID: TM-03-TW-02
+---
+ID: TM-04
+Title: Sources: SpaceX plans to raise $20B in a bond sale as soon as next week; the funds would be used to pay back a $20B bridge loan taken out after the xAI merger
+---
+ID: TM-05
+Title: Norway imposes a near ban on gen AI use by elementary school children and restricts its use in older kids' education, to prevent a negative impact on learning
+---
+ID: TM-06
+Title: Amazon MGM Studios drops Luca Guadagnino's mostly finished movie on Sam Altman; Amazon struck a major deal with OpenAI in February, including a $50B investment
+---
+ID: TM-07
+Title: South Korean media: Hyundai plans to buy SoftBank's remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Sources detail how Google is using Nvidia's playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic
+---
+ID: TM-09
+Title: John Edwards, UK Information Commissioner and chair of the ICO, the country's data and AI regulator, resigned following a workplace investigation
+---
+ID: TM-10
+Title: Sources: about 200 companies accessing Mythos Preview through Project Glasswing have preserved their access despite a recent US government shutdown order
+---
+ID: TM-11
+Title: Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December
+---
+ID: TM-12
+Title: Barret Zoph leaves OpenAI again five months after rejoining in January; Zoph initially left OpenAI in 2024 to serve as Thinking Machines Lab co-founder and CTO
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-13
+Title: Sources: England and Wales' attorney general tells his office to stop posting on X, a first for the UK government, amid worries about X inciting violence
+---
+ID: TM-14
+Title: A US circuit court overturned an injunction against Ohio, allowing the state to implement a law forcing platforms to seek parental consent if a user is under 16
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-15
+Title: The US FERC approves new orders to fast-track data center power requests, aiming to handle them in 90 days, while bringing new requirements for AI hyperscalers
+---
+ID: TM-16
+Title: Sources: Abu Dhabi's MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-17
+Title: The CFTC permanently bans Celsius founder Alex Mashinsky from trading in markets it oversees as part of a settlement resolving its 2023 lawsuit against him
+---
+ID: TM-18
+Title: DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025
+---
+
+[CATEGORY: M&A]
+ID: TM-19
+Title: Turkey approves Uber's $335M deal to buy Getir's delivery business, tied to a $500M investment pledge in Turkey; Uber is also paying $100M for a 15% Getir stake
+---
+ID: TM-20
+Title: Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI's $7.5M seed round in 2025
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-21
+Title: Filing: Jio Platforms, India's largest wireless operator with 526M+ subscribers, files for an IPO; the deal is expected to be one of India's biggest IPOs ever
+---
+ID: TM-22
+Title: Sources: Chinese autonomous driving company Momenta has reached a ~$9B valuation as it gears up to raise ~$1B in an upcoming Hong Kong IPO
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-23
+Title: Nothing won't launch a new phone this year in its budget-focused CMF Phone series due to RAM prices
+---
+ID: TM-24
+Title: Appfigures: daily downloads of major VPN apps in India rose 49% on June 16 after India announced its Telegram ban; Proton and Turbo recorded largest increases
+---
+ID: TM-25
+Title: Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing
+---
+ID: TM-26
+Title: Doc: SpaceX says the EU's plan to reserve satellite spectrum for European operators risks disrupting connectivity, including for emergency services in Ukraine
+---
+ID: TM-27
+Title: Siemens expects Xcelerator revenue to more than double in 2026, aiming to make the platform an industrial app store integrating software and hardware offerings
+---
+ID: TM-28
+Title: How hacker group TeamPCP exploited the open source trust model and distribution method to compromise and inject malware into over 1,000 software packages
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: OpenAI prepares GPT-5.6 models for the upcoming release (2 minute read)
+Excerpt: OpenAI plans to launch GPT-5.6, potentially including Mini and Pro variants, next week. Key enhancements include a larger 1.5 million token context window, improved long-horizon coding, and faster Codex response times. Competitive pricing aims to undercut Anthropic, especially as US regulatory issues impact Anthropic's Claude Fable 5 availability.
+---
+ID: TL-02
+Title: Self-Improving Memory for Agents (6 minute read)
+Excerpt: Perplexity Brain is a memory system that builds a persistent context graph across tasks, projects, decisions, files, and sources so agents can start with relevant context instead of starting from scratch. Brain links every memory to its original source, continuously updates and organizes knowledge over time, and improves answer correctness while reducing task costs through better retrieval and reuse of prior work.
+---
+ID: TL-03
+Title: Midjourney, the AI image generator, is developing a full-body ultrasonic scanner (3 minute read)
+Excerpt: Midjourney's new project is a medical machine that can scan a person's whole body in just 60 seconds. The Midjourney Scanner is not related to anything seen from the company so far. It can create a 3D map of users' bodies, down to a fraction of a millimeter, that looks similar to an MRI but at nearly a hundred times the speed. A full scan takes less than 60 seconds, compared to the 60 to 90 minutes it typically takes to do a full-body MRI. The company is building spas to house the machines for customers to use.
+---
+ID: TL-04
+Title: Reinforcement learning towards broadly and persistently beneficial models (22 minute read)
+Excerpt: Reinforcement learning on realistic scenarios targeting beneficial traits can produce broad improvements across dozens of benchmarks measuring aligned and beneficial behavior. These gains generalize beyond the domains used for training and persist under adversarial pressure. This suggests that personas could be deeply entrenched in models, and RL may be a path towards entrenching beneficial personas.
+---
+ID: TL-05
+Title: MosaicLeaks: Can your research agent keep a secret? (10 minute read)
+Excerpt: MosaicLeaks highlights the privacy risks of deep research agents that combine private documents with web retrieval, often leaking sensitive information. The proposed solution, PA-DR, enhances both performance and privacy by reducing answer/full-information leakage from 34% to 9.9% while maintaining task success. PA-DR uses rewards for safe query construction rather than relying on user prompts, making agents perform better without compromising data security.
+---
+ID: TL-06
+Title: Revisiting Hard Questions with Replay Buffers (8 minute read)
+Excerpt: ZPPO stores difficult questions in a replay buffer so the model can repeatedly train on them rather than seeing them only once. The method is designed to strengthen learning on challenging examples and improve rollout accuracy.
+---
+ID: TL-07
+Title: Claude Code now supports artifacts (5 minute read)
+Excerpt: Claude Code now supports "artifacts," turning work sessions into live, shareable visual pages for tasks like PR walkthroughs and system explainers. Artifacts refresh automatically with updates and offer features like version history and privacy controls. Available in beta for Claude Team and Enterprise, artifacts improve collaboration by consolidating session context into a single, accessible page.
+---
+ID: TL-08
+Title: Securing the future of AI agents (7 minute read)
+Excerpt: Google's AI Control Roadmap is a framework for building and managing the advanced AI deployed within the company. The approach adds a crucial layer of system-level security that provides assurance even if alignment is perfect. It incorporates safeguards like sandboxing, endpoint security, and prompt injection resistance. The roadmap uses AI alignment as a primary defense. It considers internal agents as potentially misaligned, providing assurance even if alignment isn't perfect.
+---
+ID: TL-09
+Title: TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)
+Excerpt: 500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!
+---
+ID: TL-10
+Title: Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business (11 minute read)
+Excerpt: Google is renting computing power from thousands of its microprocessors at an AI data center in Western New York to AI giant Anthropic. The move will help data centers raise cheaper debt. Google realized the commercial potential for its TPUs about two years ago and started investing in their inference capabilities. Its AI infrastructure team is now hyper-focused on improving chip performance.
+---
+ID: TL-11
+Title: Godfather of AI blasts Musk's xAI as 'failure,' says labs are risking a 'big bubble explosion' (4 minute read)
+Excerpt: Yann LeCun criticized Elon Musk's xAI as a failure unable to compete with AI leaders like OpenAI and Anthropic. LeCun highlighted that Musk struggles to hire top talent due to past behaviors and must rent infrastructure to recover costs. He warned that AI labs must increase prices or cut costs to avoid a "big bubble explosion" due to high operational expenses.
+---
+ID: TL-12
+Title: Mistral AI to get Code and Apps features on Vibe (2 minute read)
+Excerpt: Mistral AI is enhancing Vibe with a CODE section for browser-based coding and an APPS area for building and sharing apps, moving beyond basic chat functionalities.
+---
+ID: TL-13
+Title: OpenAI Introduced Enterprise Usage Analytics (3 minute read)
+Excerpt: OpenAI introduced new credit usage analytics and expanded spend controls for ChatGPT Enterprise.
+---
+ID: TL-14
+Title: That Untravell'd World (6 minute read)
+Excerpt: A new and more difficult phase of the AI governance race with more politics and higher stakes has begun.
+---
+ID: TL-15
+Title: The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic (4 minute read)
+Excerpt: Baseten specializes in providing software and computing capacity to companies tapping into lower-cost AI models.
+---
+ID: TL-16
+Title: ‘No poaching' our people, China's AI behemoth DeepSeek reportedly tells investors (3 minute read)
+Excerpt: DeepSeek told potential investors not to poach the startup's staff or encourage them to start their own companies.
+---

@@ -1,0 +1,272 @@
+{
+  "date": "2026-06-19",
+  "threshold": 7.0,
+  "total": 44,
+  "kept": 18,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "DeepMind重要人物离职，可能影响AI行业格局"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及出口限制的常规报道，信息量有限"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是政治评论"
+    },
+    {
+      "id": "TM-04",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规融资消息，缺乏AI相关深度"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "挪威对AI使用的政策变化，影响教育领域"
+    },
+    {
+      "id": "TM-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "与OpenAI的重大交易，但内容较常规"
+    },
+    {
+      "id": "TM-07",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规收购消息，信息量有限"
+    },
+    {
+      "id": "TM-08",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Google利用Nvidia策略发展AI芯片业务，具有重要行业意义"
+    },
+    {
+      "id": "TM-09",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是人事变动"
+    },
+    {
+      "id": "TM-10",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规信息，缺乏深度分析"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI财务状况更新，影响行业动态"
+    },
+    {
+      "id": "TM-12",
+      "score": 4.0,
+      "keep": false,
+      "reason": "人事变动，信息量较少"
+    },
+    {
+      "id": "TM-13",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是政府政策"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律变动对平台的影响，信息量有限"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "FERC新命令影响AI数据中心，具有行业重要性"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规收购消息，缺乏AI相关深度"
+    },
+    {
+      "id": "TM-17",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是法律问题"
+    },
+    {
+      "id": "TM-18",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是犯罪报道"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规收购消息，信息量有限"
+    },
+    {
+      "id": "TM-20",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Elastic收购AI初创公司，值得关注的行业动态"
+    },
+    {
+      "id": "TM-21",
+      "score": 6.0,
+      "keep": false,
+      "reason": "常规IPO消息，信息量有限"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国自动驾驶公司估值上升，值得关注的融资动态"
+    },
+    {
+      "id": "TM-23",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是产品发布信息"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规市场反应信息，缺乏深度分析"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "产品评测信息，涉及AI应用但较常规"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不强，主要涉及政策影响"
+    },
+    {
+      "id": "TM-27",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Siemens 的产品预期，信息量一般"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及黑客攻击和开源信任模型的安全问题，值得关注"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI 即将发布新模型，具有重要行业影响"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "介绍了新型记忆系统的应用，具有产品洞察价值"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Midjourney 开发全身超声波扫描仪，具有创新应用潜力"
+    },
+    {
+      "id": "TL-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨强化学习在模型中的应用，具有研究价值"
+    },
+    {
+      "id": "TL-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "提出了隐私风险和解决方案，具有实际应用意义"
+    },
+    {
+      "id": "TL-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于模型训练方法的常规信息，信息量一般"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Claude Code 新功能提升协作，具有产品更新价值"
+    },
+    {
+      "id": "TL-08",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Google 的 AI 控制路线图具有重要行业影响和安全性考虑"
+    },
+    {
+      "id": "TL-09",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息，与 AI 关联不强"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Google 在 AI 芯片业务上的战略动作，值得关注"
+    },
+    {
+      "id": "TL-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "对 Musk 的批评，信息量一般但涉及行业动态"
+    },
+    {
+      "id": "TL-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Mistral AI 的新功能更新，具有产品洞察价值"
+    },
+    {
+      "id": "TL-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于企业使用分析的常规更新，信息量一般"
+    },
+    {
+      "id": "TL-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 AI 治理的新阶段，信息量一般但有一定价值"
+    },
+    {
+      "id": "TL-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于低成本 AI 模型的创业公司，值得关注"
+    },
+    {
+      "id": "TL-16",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不强，主要涉及公司内部管理"
+    }
+  ]
+}
