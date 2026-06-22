@@ -1,0 +1,189 @@
+{
+  "date": "2026-06-21",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Investigation: Polymarket is paying creators to make deceptive videos about winning bets, targeting users in the US, where its primary crypto platform is banned",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=oE9Lbv&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Sources: John Ternus gets ready to put his firm imprint on Apple's industrial design team, which has lost a true seat at Apple's exec table over the past decade",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-21/apple-s-new-ceo-ternus-needs-to-shake-up-design-apple-s-2027-iphone-road-map-mqnust26?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjA1MDU1NywiZXhwIjoxNzgyNjU1MzU3LCJhcnRpY2xlSWQiOiJUR1pJVzFLR0lGUTAwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.ory3lhU6gHF0NeBy190qe1-3KNhKZ9Sazoy-AVnNRcw",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "A speculative scenario titled “Europe 2031” projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/7f147e35-d2ca-48fe-a886-95721002ce3c",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: Bain Capital stands to make $15B+ in profits on its 2018 Kioxia buyout, a ~20x return, as Kioxia's stock has surged 5,000%+ since its December 2024 IPO",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/22bc5436-d5a1-4d03-b8c0-5840f1e3a515",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/hj75fpszgl",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Brazil takes its National Civil Defense warning platform offline after suspected hackers send an unauthorized alert to mobile phones in several states",
+      "excerpt": "",
+      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn't control after AI use allegations against a winner",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "A look at Jane Street's push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a?st=U3xpiF&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "A look at Russia's push to develop homegrown AI talent, as the country is hampered by scarce access to AI hardware and a brain drain of top technical talent",
+      "excerpt": "",
+      "url": "https://time.com/article/2026/06/18/russia-ai-putin-chip-us-china/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "A look at “humanizer” and “autotyper” apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html?unlocked_article_code=1.rFA.SfOz.Q-duIR96SdO7&smid=bs-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "How the success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets",
+      "excerpt": "",
+      "url": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385?st=5KAQSi&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "An interview with Smartbird CEO Nadia Carlsten about the shoe company Allbirds becoming an AI infrastructure company, plans to deploy compute clusters, and more",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M",
+      "excerpt": "",
+      "url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Paris-based Kyber, which develops a low-latency remote device control SDK and is founded by VLC lead developer Jean-Baptiste Kempf, raised $5M led by Lightspeed",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+      "section": "more news"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/786de887-a970-4b43-9de1-670c57ab0923",
+      "section": "more news"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: PC makers, including HP, are in talks with their supply-chain partners about using CXMT's memory chips in products bound for Asia as DRAM prices soar",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/why-the-memory-crunch-is-almost-impossible-to-solve-4023cb40?st=dpnVA3&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "SoftBank says it is struggling to find startups in Latin America ready for major investments and has completed only two new deals over the past two years",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/softbank-scales-back-latin-america-tech-bets-as-venture-capital-boom-fades",
+      "section": "more news"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Inside Palantir's fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/55249eee-5256-4c91-a9ed-fcdec60a4bd5?accessToken=zwAAAZ7jvoHpkc9VJJ7uUlZMkdOp7fzexgpL1Q.MEYCIQC35WppDIn47QzoAw54Kziqo4Lkd0cr_yuOGvjRGpRcEgIhAMkFmqNfcVrPLg-HJwvn3Y3UBH92ljWmqkXWd3xeFugo&sharetype=gift&token=52c28bc8-30a0-448b-8c50-2ec1cbff1920",
+      "section": "more news"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more",
+      "excerpt": "",
+      "url": "https://conversationswithtyler.com/episodes/dave-baszucki/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Q&A with Signal's Meredith Whittaker on why online child safety efforts risk mass surveillance, leaving the markets that demand weakening of encryption, more",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/features/2026-meredith-whittaker-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTg5MTMyOCwiZXhwIjoxNzgyNDk2MTI4LCJhcnRpY2xlSWQiOiJUR1Y0S0xLSVAzSkUwMCIsImJjb25uZWN0SWQiOiJJMkExVlk1MTBBU0dEUldRMzFNUVRXTlpJRlhHVjFMVyJ9.sCnlK2JWEXyxwzFmCvjtxy2w7-1ieRNm8sNKxL3dCBU",
+      "section": "more news"
+    }
+  ]
+}

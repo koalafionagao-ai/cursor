@@ -1,0 +1,108 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Investigation: Polymarket is paying creators to make deceptive videos about winning bets, targeting users in the US, where its primary crypto platform is banned
+Tweets:
+  - Author: @neilmhta
+    Text: - Polymarket made dummy websites mirroring its real site, then paid creators to use the fake site and pretend to win thousands.  - Creators altered headlines and used outdated footage to imply they won bets—even when they often lost - Polymarket paid Adin Ross multiple millions to promote the site
+    Link ID: TM-01-TW-01
+  - Author: @benhorney
+    Text: Fascinating look at one (shady) way Polymarket has tried to market itself. Also fascinating: WSJ's publisher is Dow Jones, which in January announced a prediction-market partnership with Polymarket. That deal didn't stop WSJ from this investigative report (a win for journalism)
+    Link ID: TM-01-TW-02
+  - Author: @mikeisaac
+    Text: seeing limp attempts to defend polymarket here with a “all companies use deceptive advertising” feint not exactly! there are FTC, FCC and FDA guidelines around certain types of commercials, not to mention civil suits i imagine this graf will eventually be read in a courtroom [image]
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Sources: John Ternus gets ready to put his firm imprint on Apple's industrial design team, which has lost a true seat at Apple's exec table over the past decade
+Tweets:
+  - Author: @markgurman
+    Text: The craziest part about the Siri delay is they said they postponed it for two years because it only worked 2/3 of the time. The other Apple Intelligence features were even worse than that before the new iOS.
+    Link ID: TM-02-TW-01
+  - Author: @markgurman
+    Text: Apple has big plans in store for the rest of 2026, 2027 and 2028, including several new iPhones, Macs, iPads, AI wearables, home devices and more. Here's a list of some of what to expect in the latest Power On -
+    Link ID: TM-02-TW-02
+  - Author: @_thejasonc
+    Text: For those who question my perspective on John Ternus... Mark Gurman just wrote an article arguing that Apple may need Ternus to shake up its product roadmap and design culture.  I've said it before: Apple doesn't need another Tim Cook.  Apple needs someone who can identify what comes NEXT [image]
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: A speculative scenario titled “Europe 2031” projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race
+Tweets:
+  - Author: @deanwball
+    Text: Extremely cogent and well-written scenario, starting from the present, warning about Europe's dangerous trajectory. I was in Paris for the AI Summit after DeepSeek r1, and I can attest that the level of delusion about what that model meant was exactly as this scenario describes.
+    Link ID: TM-03-TW-01
+  - Author: @dadajudith
+    Text: In the morning, European citizens will wake up and find their access to Claude Mythos/ Fable gone. Nobody asked us. Nobody had to. We wrote Europe 2031 precisely for this moment.
+    Link ID: TM-03-TW-02
+  - Author: @leemakiyama
+    Text: This is a very interesting story about Europe failing to catch up on AI compute capacity / capability, pointed to me by @marconav. The only caveat I have is how it makes the same mistake as EU policy: obsessing over European supply and largely ignoring the demand side.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms
+---
+ID: TM-05
+Title: Sources: Bain Capital stands to make $15B+ in profits on its 2018 Kioxia buyout, a ~20x return, as Kioxia's stock has surged 5,000%+ since its December 2024 IPO
+---
+ID: TM-06
+Title: Sources: Anduril has begun exploring the possibility of establishing operations in Israel and is in talks to recruit a local manager
+---
+ID: TM-07
+Title: Brazil takes its National Civil Defense warning platform offline after suspected hackers send an unauthorized alert to mobile phones in several states
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn't control after AI use allegations against a winner
+---
+ID: TM-09
+Title: A look at Jane Street's push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic
+---
+ID: TM-10
+Title: A look at Russia's push to develop homegrown AI talent, as the country is hampered by scarce access to AI hardware and a brain drain of top technical talent
+---
+ID: TM-11
+Title: A look at “humanizer” and “autotyper” apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic
+---
+ID: TM-12
+Title: How the success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets
+---
+ID: TM-13
+Title: As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency
+---
+ID: TM-14
+Title: An interview with Smartbird CEO Nadia Carlsten about the shoe company Allbirds becoming an AI infrastructure company, plans to deploy compute clusters, and more
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-15
+Title: SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M
+---
+ID: TM-16
+Title: Paris-based Kyber, which develops a low-latency remote device control SDK and is founded by VLC lead developer Jean-Baptiste Kempf, raised $5M led by Lightspeed
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-17
+Title: Claude Guillemot, co-founder of Ubisoft and chairman of gaming hardware company Guillemot Corporation, died at 69 after a plane crash in France
+---
+ID: TM-18
+Title: Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures
+---
+ID: TM-19
+Title: Sources: PC makers, including HP, are in talks with their supply-chain partners about using CXMT's memory chips in products bound for Asia as DRAM prices soar
+---
+ID: TM-20
+Title: SoftBank says it is struggling to find startups in Latin America ready for major investments and has completed only two new deals over the past two years
+---
+ID: TM-21
+Title: Inside Palantir's fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause
+---
+ID: TM-22
+Title: An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more
+---
+ID: TM-23
+Title: Q&A with Signal's Meredith Whittaker on why online child safety efforts risk mass surveillance, leaving the markets that demand weakening of encryption, more
+---

@@ -1,0 +1,146 @@
+{
+  "date": "2026-06-21",
+  "threshold": 7.0,
+  "total": 23,
+  "kept": 6,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及欺诈行为和市场监管问题"
+    },
+    {
+      "id": "TM-02",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于苹果设计团队的内部变动，信息量有限"
+    },
+    {
+      "id": "TM-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "探讨未来经济政治不稳定性，信息较常规"
+    },
+    {
+      "id": "TM-04",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于英国政府咨询规则的常规报道，信息量一般"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要涉及财务收益，缺乏与 AI 的直接关联"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及公司扩展的常规信息，缺乏深度"
+    },
+    {
+      "id": "TM-07",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于网络安全事件的报道，信息量较少"
+    },
+    {
+      "id": "TM-08",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及 AI 使用争议的出版行业动态，值得关注"
+    },
+    {
+      "id": "TM-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Jane Street 在 AI 投资和交易方面的战略更新，具有产品洞察"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "俄罗斯在 AI 人才发展方面的努力，反映行业格局变化"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于学生使用 AI 规避检测的应用，具有一定的产品洞察"
+    },
+    {
+      "id": "TM-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "亚洲市场因 AI 公司成功而引发的投资热潮，值得关注"
+    },
+    {
+      "id": "TM-13",
+      "score": 8.0,
+      "keep": true,
+      "reason": "欧洲在工业 AI 应用方面的转变，反映行业动态"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Allbirds 转型为 AI 基础设施公司的访谈，信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Humble Robotics 的融资和产品开发，具有行业潜力"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于融资的常规报道，缺乏深度"
+    },
+    {
+      "id": "TM-17",
+      "score": 2.0,
+      "keep": false,
+      "reason": "关于个人去世的消息，信息量极少"
+    },
+    {
+      "id": "TM-18",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于手机防盗技术的常规报道，信息量有限"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于供应链谈判的常规信息，缺乏与 AI 的直接关联"
+    },
+    {
+      "id": "TM-20",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于投资难度的常规报道，信息量一般"
+    },
+    {
+      "id": "TM-21",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Palantir 与 NHS 的合同争议，反映行业政策动态"
+    },
+    {
+      "id": "TM-22",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Roblox CEO 的访谈，涉及平台战略，信息量一般"
+    },
+    {
+      "id": "TM-23",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于在线儿童安全与隐私的讨论，具有一定的行业价值"
+    }
+  ]
+}

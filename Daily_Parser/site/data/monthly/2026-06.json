@@ -134,9 +134,16 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-21",
+      "total": 6,
+      "sources": [
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 417,
+  "item_count": 423,
   "items": [
     {
       "id": "TM-01",
@@ -11646,6 +11653,152 @@
       ],
       "category_tag": "cat:business",
       "date": "2026-06-19"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a?st=U3xpiF&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Jane Street推动AI交易并成为主要AI投资者",
+        "en": "A look at Jane Street's push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic"
+      },
+      "summary": {
+        "zh": "Jane Street投资了CoreWeave 10亿美元，并持有Anthropic股份。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://time.com/article/2026/06/18/russia-ai-putin-chip-us-china/",
+      "title": {
+        "zh": "俄罗斯推动本土AI人才发展面临硬件短缺与人才流失",
+        "en": "A look at Russia's push to develop homegrown AI talent, as the country is hampered by scarce access to AI hardware and a brain drain of top technical talent"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:other",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385?st=5KAQSi&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "韩国、台湾和日本AI公司成功推动股市上涨与投资热潮",
+        "en": "How the success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:business",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard",
+      "title": {
+        "zh": "欧洲在消费级AI落后转向工业AI应用以提升效率",
+        "en": "As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
+      "title": {
+        "zh": "Humble Robotics开发电动自驾货车并融资2400万美元",
+        "en": "SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M"
+      },
+      "summary": {
+        "zh": "该货车续航200英里，最高时速55英里。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/55249eee-5256-4c91-a9ed-fcdec60a4bd5?accessToken=zwAAAZ7jvoHpkc9VJJ7uUlZMkdOp7fzexgpL1Q.MEYCIQC35WppDIn47QzoAw54Kziqo4Lkd0cr_yuOGvjRGpRcEgIhAMkFmqNfcVrPLg-HJwvn3Y3UBH92ljWmqkXWd3xeFugo&sharetype=gift&token=52c28bc8-30a0-448b-8c50-2ec1cbff1920",
+      "title": {
+        "zh": "Palantir努力保住与NHS England的3.3亿英镑合同",
+        "en": "Inside Palantir's fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause"
+      },
+      "summary": {
+        "zh": "合同面临2027年终止的公众和政治压力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "palantir"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "palantir"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-21"
     }
   ],
   "tag_index": {
@@ -11755,7 +11908,8 @@
       "2026-06-17:TM-49",
       "2026-06-18:TM-05",
       "2026-06-19:TM-01",
-      "2026-06-19:TL-07"
+      "2026-06-19:TL-07",
+      "2026-06-21:TM-09"
     ],
     "ipo": [
       "2026-06-01:TM-02",
@@ -12239,7 +12393,9 @@
       "2026-06-18:TM-35",
       "2026-06-19:TM-20",
       "2026-06-19:TM-22",
-      "2026-06-19:TL-15"
+      "2026-06-19:TL-15",
+      "2026-06-21:TM-13",
+      "2026-06-21:TM-15"
     ],
     "energy": [
       "2026-06-01:TM-23",
@@ -12347,7 +12503,8 @@
       "2026-06-10:TM-34",
       "2026-06-17:TM-40",
       "2026-06-17:TL-03",
-      "2026-06-19:TM-22"
+      "2026-06-19:TM-22",
+      "2026-06-21:TM-15"
     ],
     "open-weights": [
       "2026-06-01:TL-02",
@@ -12616,7 +12773,8 @@
     "palantir": [
       "2026-06-03:TM-43",
       "2026-06-04:TM-17",
-      "2026-06-11:TL-08"
+      "2026-06-11:TL-08",
+      "2026-06-21:TM-21"
     ],
     "baidu": [
       "2026-06-03:TM-57",
@@ -13021,7 +13179,10 @@
       "2026-06-19:TM-20",
       "2026-06-19:TM-22",
       "2026-06-19:TL-10",
-      "2026-06-19:TL-15"
+      "2026-06-19:TL-15",
+      "2026-06-21:TM-09",
+      "2026-06-21:TM-12",
+      "2026-06-21:TM-15"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -13122,7 +13283,10 @@
       "2026-06-19:TM-05",
       "2026-06-19:TM-11",
       "2026-06-19:TM-15",
-      "2026-06-19:TM-28"
+      "2026-06-19:TM-28",
+      "2026-06-21:TM-10",
+      "2026-06-21:TM-13",
+      "2026-06-21:TM-21"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -13224,11 +13388,11 @@
   },
   "tag_stats": [
     {
-      "tag": "funding",
-      "count": 73
+      "tag": "startup",
+      "count": 75
     },
     {
-      "tag": "startup",
+      "tag": "funding",
       "count": 73
     },
     {
@@ -13241,7 +13405,7 @@
     },
     {
       "tag": "anthropic",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "openai",
@@ -13332,12 +13496,12 @@
       "count": 10
     },
     {
-      "tag": "inference",
+      "tag": "autonomous-driving",
       "count": 9
     },
     {
-      "tag": "autonomous-driving",
-      "count": 8
+      "tag": "inference",
+      "count": 9
     },
     {
       "tag": "qwen",
@@ -13404,6 +13568,10 @@
       "count": 4
     },
     {
+      "tag": "palantir",
+      "count": 4
+    },
+    {
       "tag": "voice",
       "count": 4
     },
@@ -13433,10 +13601,6 @@
     },
     {
       "tag": "salesforce",
-      "count": 3
-    },
-    {
-      "tag": "palantir",
       "count": 3
     },
     {
@@ -13595,12 +13759,12 @@
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 159,
+      "count": 162,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 99,
+      "count": 102,
       "label_zh": "其它"
     },
     {

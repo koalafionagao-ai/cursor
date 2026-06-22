@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-21",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 6,
+    "by_category": {
+      "cat:business": 3,
+      "cat:other": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-09",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a?st=U3xpiF&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Jane Street推动AI交易并成为主要AI投资者",
+        "en": "A look at Jane Street's push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic"
+      },
+      "summary": {
+        "zh": "Jane Street投资了CoreWeave 10亿美元，并持有Anthropic股份。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://time.com/article/2026/06/18/russia-ai-putin-chip-us-china/",
+      "title": {
+        "zh": "俄罗斯推动本土AI人才发展面临硬件短缺与人才流失",
+        "en": "A look at Russia's push to develop homegrown AI talent, as the country is hampered by scarce access to AI hardware and a brain drain of top technical talent"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/world/asia/stock-market-ai-chips-taiwan-korea-01b7d385?st=5KAQSi&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "韩国、台湾和日本AI公司成功推动股市上涨与投资热潮",
+        "en": "How the success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard",
+      "title": {
+        "zh": "欧洲在消费级AI落后转向工业AI应用以提升效率",
+        "en": "As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
+      "title": {
+        "zh": "Humble Robotics开发电动自驾货车并融资2400万美元",
+        "en": "SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M"
+      },
+      "summary": {
+        "zh": "该货车续航200英里，最高时速55英里。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-21",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/55249eee-5256-4c91-a9ed-fcdec60a4bd5?accessToken=zwAAAZ7jvoHpkc9VJJ7uUlZMkdOp7fzexgpL1Q.MEYCIQC35WppDIn47QzoAw54Kziqo4Lkd0cr_yuOGvjRGpRcEgIhAMkFmqNfcVrPLg-HJwvn3Y3UBH92ljWmqkXWd3xeFugo&sharetype=gift&token=52c28bc8-30a0-448b-8c50-2ec1cbff1920",
+      "title": {
+        "zh": "Palantir努力保住与NHS England的3.3亿英镑合同",
+        "en": "Inside Palantir's fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause"
+      },
+      "summary": {
+        "zh": "合同面临2027年终止的公众和政治压力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "palantir"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
