@@ -1,0 +1,398 @@
+{
+  "date": "2026-06-22",
+  "sections": {
+    "top news": [
+      {
+        "title": "President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/policy/trump-seeks-to-boost-quantum-computing-with-new-executive-orders-b2200634",
+        "tweets": [
+          {
+            "author": "@kent_walker",
+            "text": "Quantum is the next frontier for 🇺🇸 leadership. @Google supports the new Quantum EOs. With our US-built Willow chip, we'll unlock breakthroughs in energy, medicine and more, while partnering with government to secure our post-quantum cryptographic future.",
+            "url": "https://x.com/kent_walker/status/2069176696717422930"
+          },
+          {
+            "author": "@mkratsios47",
+            "text": "Today, @POTUS signed an Executive Order to accelerate U.S. innovation in quantum technologies and strengthen our national security.  The Trump Administration will execute an ambitious agenda: ➡️ @ENERGY will develop the first quantum computer powerful enough for scientific discovery by 2028 ➡️ @DeptofWar @CommerceGov @NASA and @ENERGY will deploy quantum sensors and networks in the next 5 years ➡️ @DOL and @NSF will expand quantum apprenticeships and workforce training ➡️ @CommerceGov will strengthen domestic supply chains ➡️ @FBI will bolster quantum research and IP security",
+            "url": "https://x.com/mkratsios47/status/2069163462844961196"
+          },
+          {
+            "author": "@atrupar",
+            "text": "Trump on an executive order he's about to sign that he clearly has no clue about: “Quantum ... cryptography. Does anybody know what that is?” [video]",
+            "url": "https://x.com/atrupar/status/2069147914857762887"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Meta invests $900M into Indian fintech Cred for a ~20% stake, and plans to appoint Cred founder Kunal Shah as the leader of WhatsApp, replacing Will Cathcart",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment",
+        "tweets": [
+          {
+            "author": "@wcathcart",
+            "text": "Some personal news.  After nearly 7 years leading WhatsApp, I'm excited to share who will take over the responsibility of delivering simple, reliable, and private messaging for the world.  WhatsApp is in the strongest position it's ever been — and that felt like the right moment to step back.",
+            "url": "https://x.com/wcathcart/status/2069043069471924317"
+          },
+          {
+            "author": "@kunalb11",
+            "text": "It's been a minute.  2015-2018 - Exited FreeCharge.  Spent time learning and investing.  - Pondered about: Why can't trust be rewarded?  Started with $1M of personal capital.  - Launched CRED to reward people for paying credit card bills on time.  [...] CRED is ready for its next phase.  I am stepping back and @miten steps in as interim CEO, partnered with an incredibly talented team.  [...] As for me, I'll be joining Meta to lead WhatsApp globally.  Meta comes in as a minority investor in CRED.  No access to member data.  While it's come very far, the delta between WhatsApp today and its full potential is massive.  I look forward to working with Mark, Chris, and the leadership across Meta for the next step in WhatsApp's journey. …",
+            "url": "https://x.com/kunalb11/status/2069043017420599323"
+          },
+          {
+            "author": "@gergelyorosz",
+            "text": "On one end, this is big news: Meta is paying $900M to be able to hire Kunal Shah to lead WhatsApp. It suggests massive investment. So can anyone at Meta explain why critical WhatsApp teams like Integrity have been drastically reduced via layoffs, forced data labeling & reorgs?",
+            "url": "https://x.com/gergelyorosz/status/2069189073520971952"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Google invests in independent movie studio A24 as part of a new AI partnership; sources say Google is investing ~$75M, roughly equal to Thrive's 2024 investment",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe?st=oQ7CJd&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@scottbelsky",
+            "text": "there are better uses of storytelling tech to discover, ones that preserve creative control and support creative risk-taking.  these workflows are TBD, but excited for our Labs team to work w/ DeepMind team in this research partnership. shared curiosities, and asking the right questions, lead us to the better way",
+            "url": "https://x.com/scottbelsky/status/2069070822350696940"
+          },
+          {
+            "author": "@pinknishii",
+            "text": "incredible how Backrooms marketing and so much of the director's stuff involves talking about how cool Blender is and how anyone can use it for production. To see that from A24 and then decide ‘yeah we need to push for ai’ is just insane. We really are in the worst timeline",
+            "url": "https://x.com/pinknishii/status/2069076786982555986"
+          },
+          {
+            "author": "@wierd_o78033920",
+            "text": "“If I could snap my fingers and make generative AI disappear forever, I probably would. Creatively, I get no enjoyment from using those tools. It defeats the purpose entirely for me.” -Kane Parsons, the guy who just made A24 277.5 million dollars last month.",
+            "url": "https://x.com/wierd_o78033920/status/2069067549602447737"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "SpaceX announces an offering of senior unsecured notes and discloses it has ~$100.8B in cash; SPCX closes down 16.43% in its third consecutive losing session",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029",
+            "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html"
+          }
+        ]
+      },
+      {
+        "title": "Valve says Steam Machine, its new living room-friendly PC, will start at $1,049 for the 512GB base model, and go on sale starting June 29",
+        "excerpt": "",
+        "url": "https://www.theverge.com/news/837022/valve-steam-machine-price-release-date",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration",
+            "url": "https://www.theverge.com/games/952765/steam-machine-review"
+          }
+        ]
+      },
+      {
+        "title": "Getty Images signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery tools; GETY jumps 90%+ and is down 10%+ YTD",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "China adds 10 US companies, including MP Materials and Teal Drones, to its export controls and bans government purchases from 46 US companies, including Anduril",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/economy/trade-war/china-hits-dozens-of-us-companies-with-export-controls-procurement-bans",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "In a joint statement, Five Eyes agencies warn AI models capable of taking down governments and businesses are mere months away, urging leaders to “act now”",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Satya Nadella says the public wouldn't tolerate a few AI labs “doing all of the learning for the world”, as Microsoft moves to provide low-cost models and tools",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/microsofts-satya-nadella-we-cant-let-ai-giants-eat-the-economy-b9d33b9f?st=qw6QXi",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung rolls out ChatGPT Enterprise and Codex to all South Korean staff and global DX division staff; OpenAI calls it one of its largest enterprise deployments",
+        "excerpt": "",
+        "url": "https://biz.chosun.com/en/en-it/2026/06/22/XFHSJHM5VRFWNGTDXIOBOPIAQI/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tencent starts testing Xiaowei, its new AI assistant powered by WeLM and DeepSeek models, in its WeChat app in China, as part of its efforts to catch up in AI",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at JD Vance's “AI doctrine”, which combines pro-innovation VC principles, worker protections, and concerns about power concentration in dominant AI labs",
+        "excerpt": "",
+        "url": "https://www.theatlantic.com/national-security/2026/06/what-does-jd-vance-think-ai/687591/?gift=tIHyeEUg4NM6vyxJ-5M0EE8YbeF5umCn8ewAcQ5ntzU&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Anthropic may have talked its way into an export ban, as its 2026 statements and social media posts used 8x more AI risk-related terms than OpenAI",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bain says it uses AI coding tools to recreate pieces of target companies' software, making hundreds of rough prototypes in recent years as part of due diligence",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sakana AI launches Fugu, a multi-agent orchestration system accessible through a single model API, claiming Fugu Ultra matches Fable and Mythos on benchmarks",
+        "excerpt": "",
+        "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK-based AI law firm Garfield, which received regulatory approval in 2025, wins a case in the English courts for the first time; the case focused on unpaid fees",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/b4f8f589-6771-4df5-ac4d-cb15d94991fb",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/faa-taps-air-space-intelligence-to-build-ai-traffic-control-tool",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "SK Hynix overtakes Samsung to become South Korea's most valuable company, closing up 5.6% for a ~$1.4T market cap; South Korea's Kospi index is up 117% YTD",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/sk-hynix-tops-samsung-to-become-south-koreas-most-valuable-company-279419a0?st=xhpVkR&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Analysis: Taiwanese car display chip maker Himax, which makes driver integrated circuits for Ferrari, VW, and others, nets its founders a $1B combined net worth",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-21/himax-himx-founders-amass-1-billion-fortune-on-ferrari-porsche-display-chips",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Japan's top five chip equipment makers posted their first-ever fall in combined China sales, down 10% for the year ended March 31, as China boosts local players",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-chipmaking-equipment-suppliers-report-10-drop-in-china-sales",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Chevron signs a 20-year deal with Microsoft to provide natural-gas power for a proposed West Texas data center, which could be one of the biggest in the US",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/microsoft-chevron-sign-20-year-power-deal-for-texas-data-center",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Morgan Stanley is pitching data center developers to use leveraged loans rather than bonds, and estimates that ~$15B in such loans will be sold in 2026",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/morgan-stanley-pitches-clients-new-market-data-center-loans",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "robotics": [
+      {
+        "title": "JD.com founder Richard Liu says robots will replace the company's 700K delivery workers “sooner or later”, and it will help retrain them in robot maintenance",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia unveils Halos, a safety-focused OS developed from autonomous vehicle tech and designed to run on IGX Thor hardware for humanoid robots, and opens a lab",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public offerings": [
+      {
+        "title": "Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/vimeo-owner-bending-spoons-seeks-162-billion-us-ipo-sources-say-2026-06-22/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Shenzhen-listed Apple supplier Lingyi iTech seeks to raise ~$1.1B in a June 26 Hong Kong IPO, as the electronic parts maker expands into AI hardware and robots",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Electric bike rental company Lime is seeking to raise up to $180.9M in its US IPO, offering 6.7M shares at $24 to $26 each, giving it an up to $1.7B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/uber-backed-electric-bike-firm-lime-seeks-180-9-million-in-ipo",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Shanghai-based Coowa, which builds embodied AI robots, plans to file a Hong Kong IPO; Coowa was valued at $3B+ after raising $600M+ in its latest round",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/softbank-backed-robot-maker-gears-up-for-hong-kong-ipo-sources-say-ef2c78a2?st=gRBWKG&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: marketing tech startup AppsFlyer raised a $1B Series E at a $2.7B post-money valuation; Moloco, Google, Meta, and Unity acquire minority stakes",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/22/appsflyer-billion-moloco-google-meta-unity",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Groq raised $650M led by Disruptive and Infinitum after its Nvidia deal, aiming to hit 200 MW in capacity by the end of 2027, following a $750M raise in 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/groq-raises-650-million-to-help-startup-pivot-after-nvidia-deal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Netherlands-based Nearfield Instruments, which makes atomic force microscopes to measure chip features, raised $380M led by Fidelity at a $1.6B valuation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/chipmaking-tool-firm-nearfield-instruments-raises-380-million-16-billion-2026-06-22/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Upscale, which is building AI networking infrastructure to rival Cisco, raised a $190M Series A-1 at a $2B valuation, up from $1B after raising $200M in January",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Crypto trading app Fomo raised a $75M Series B led by Index at a $550M valuation, taking its total funding to ~$94M, and claims to add 3,500 new users per day",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/22/fomo-series-b-fundraise-index-ventures-union-square-ventures/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NYC-based Prosper AI, whose healthcare AI tool is designed to answer patient phone calls, raised a $30M Series A led by a16z, taking its total funding to $35M",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/health-tech-deals/2026/06/22/andreessen-horowitz-leads-prosper-ai-raise",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "PitchBook: defense tech companies making drones, battlefield AI, and more raised $12.3B across 175 deals in 2026 so far, up from a $9.95B from 158 deals in 2025",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "San Diego-based Aether AI, which is building “causal world models” to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi",
+        "excerpt": "",
+        "url": "https://thenextweb.com/news/aether-ai-causal-world-models-20m-seed-physical-ai",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Instagram is testing horizontal video on Instagram for TV, plans to experiment with longer-form storytelling and episodic series, and launches on Samsung TV",
+        "excerpt": "",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/instagram-testing-longform-episodic-storytelling-tv-1236625661/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alphabet shares close down 5% on Monday following the departure of Google DeepMind VP John Jumper, the company's second top AI executive to leave in a week",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "WiseTech's shares fell 18%+ after Australian police probed co-founder Richard White over sex exploitation claims; WiseTech shares are down 70%+ in the past year",
+        "excerpt": "",
+        "url": "https://www.smh.com.au/national/wisetech-boss-probed-over-sex-trafficking-claims-20260621-p608q7.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Oracle's global workforce fell by 21,000 employees in the past 12 months to 141,000 as of May 31; the company says AI adoption has led to reductions",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: ByteDance shares are trading at a $600B+ valuation in gray markets; an IPO is unlikely as its growth continues to benefit its Chinese and US investors",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/opinion/bytedance-sidelines-listing-as-china-s-first-1-trillion-valuation-nears",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "S&P and IBM: 22.4% of global cyberattacks in 2024 hit Japan, the most targeted country, as it tries to improve its legacy IT systems against AI-powered threats",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/opinion/articles/2026-06-21/japan-inc-is-right-to-fear-ai-black-ships",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 45
+  }
+}

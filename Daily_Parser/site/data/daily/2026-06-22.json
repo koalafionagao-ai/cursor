@@ -1,0 +1,434 @@
+{
+  "date": "2026-06-22",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 16,
+    "by_category": {
+      "cat:business": 7,
+      "cat:other": 3,
+      "cat:model": 1,
+      "cat:app": 3,
+      "cat:tech": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/google-investing-in-backrooms-studio-a24-e7585ebe?st=oQ7CJd&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "谷歌投资独立电影公司A24，达成AI合作伙伴关系",
+        "en": "Google invests in independent movie studio A24 as part of a new AI partnership; sources say Google is investing ~$75M, roughly equal to Thrive's 2024 investment"
+      },
+      "summary": {
+        "zh": "消息称谷歌投资约7500万美元，与Thrive 2024年的投资额相当。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "google"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+      "title": {
+        "zh": "Getty Images与OpenAI签署授权协议，图片库将用于ChatGPT搜索和发现工具",
+        "en": "Getty Images signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery tools; GETY jumps 90%+ and is down 10%+ YTD"
+      },
+      "summary": {
+        "zh": "GETY股价跳涨90%以上，但年初至今下跌超过10%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/economy/trade-war/china-hits-dozens-of-us-companies-with-export-controls-procurement-bans",
+      "title": {
+        "zh": "中国将10家美国公司列入出口管制名单，并禁止政府采购46家美国公司产品",
+        "en": "China adds 10 US companies, including MP Materials and Teal Drones, to its export controls and bans government purchases from 46 US companies, including Anduril"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+      "title": {
+        "zh": "五眼联盟警告AI模型可能在数月内威胁政府和企业，呼吁领导人立即行动",
+        "en": "In a joint statement, Five Eyes agencies warn AI models capable of taking down governments and businesses are mere months away, urging leaders to “act now”"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "safety",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "title": {
+        "zh": "OpenAI发布更新版GPT-5.5-Cyber模型，并与Trail of Bits合作启动“修复地球”计划",
+        "en": "OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more"
+      },
+      "summary": {
+        "zh": "该计划旨在修复开源软件中的漏洞。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://biz.chosun.com/en/en-it/2026/06/22/XFHSJHM5VRFWNGTDXIOBOPIAQI/",
+      "title": {
+        "zh": "三星为韩国员工和全球DX部门员工推出ChatGPT Enterprise和Codex",
+        "en": "Samsung rolls out ChatGPT Enterprise and Codex to all South Korean staff and global DX division staff; OpenAI calls it one of its largest enterprise deployments"
+      },
+      "summary": {
+        "zh": "OpenAI称这是其最大企业部署之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "chatgpt",
+        "codex"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt",
+        "codex"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china",
+      "title": {
+        "zh": "腾讯在微信中测试新AI助手“小微”，由WeLM和DeepSeek模型驱动",
+        "en": "Tencent starts testing Xiaowei, its new AI assistant powered by WeLM and DeepSeek models, in its WeChat app in China, as part of its efforts to catch up in AI"
+      },
+      "summary": {
+        "zh": "此举是腾讯在AI领域追赶的努力之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "tencent",
+        "deepseek"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent",
+        "deepseek"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "title": {
+        "zh": "Sakana AI推出Fugu多代理编排系统，声称Fugu Ultra在基准测试中媲美Fable和Mythos",
+        "en": "Sakana AI launches Fugu, a multi-agent orchestration system accessible through a single model API, claiming Fugu Ultra matches Fable and Mythos on benchmarks"
+      },
+      "summary": {
+        "zh": "Fugu通过单一模型API提供访问。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/faa-taps-air-space-intelligence-to-build-ai-traffic-control-tool",
+      "title": {
+        "zh": "Air Space Intelligence赢得8.75亿美元FAA合同，开发AI工具优化航班轨迹",
+        "en": "Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays"
+      },
+      "summary": {
+        "zh": "该工具旨在识别拥堵区域以减少航班延误。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular",
+      "title": {
+        "zh": "消息称高通拟以约40亿美元收购AI芯片初创公司Modular",
+        "en": "Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025"
+      },
+      "summary": {
+        "zh": "Modular在2025年9月的估值为16亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "qualcomm",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "qualcomm",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
+      "title": {
+        "zh": "Nvidia发布Halos操作系统，专注安全性，适用于人形机器人",
+        "en": "Nvidia unveils Halos, a safety-focused OS developed from autonomous vehicle tech and designed to run on IGX Thor hardware for humanoid robots, and opens a lab"
+      },
+      "summary": {
+        "zh": "Halos基于自动驾驶技术开发，运行于IGX Thor硬件上，同时Nvidia还开放了一个实验室。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "robotics",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "robotics",
+        "safety"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/softbank-backed-robot-maker-gears-up-for-hong-kong-ipo-sources-say-ef2c78a2?st=gRBWKG&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "上海Coowa计划在香港上市，估值超30亿美元",
+        "en": "Sources: Shanghai-based Coowa, which builds embodied AI robots, plans to file a Hong Kong IPO; Coowa was valued at $3B+ after raising $600M+ in its latest round"
+      },
+      "summary": {
+        "zh": "Coowa专注于开发具备实体化AI的机器人，最近一轮融资超过6亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "startup",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ipo",
+        "startup",
+        "robotics"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/groq-raises-650-million-to-help-startup-pivot-after-nvidia-deal",
+      "title": {
+        "zh": "Groq完成6.5亿美元融资，计划到2027年实现200MW产能",
+        "en": "Groq raised $650M led by Disruptive and Infinitum after its Nvidia deal, aiming to hit 200 MW in capacity by the end of 2027, following a $750M raise in 2025"
+      },
+      "summary": {
+        "zh": "融资由Disruptive和Infinitum领投，此前2025年曾筹集7.5亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-35",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/",
+      "title": {
+        "zh": "Upscale完成1.9亿美元A-1轮融资，估值达20亿美元",
+        "en": "Upscale, which is building AI networking infrastructure to rival Cisco, raised a $190M Series A-1 at a $2B valuation, up from $1B after raising $200M in January"
+      },
+      "summary": {
+        "zh": "Upscale致力于构建与思科竞争的AI网络基础设施，今年1月曾融资2亿美元，估值10亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe",
+      "title": {
+        "zh": "2026年国防科技公司融资达123亿美元，超2025年99.5亿美元",
+        "en": "PitchBook: defense tech companies making drones, battlefield AI, and more raised $12.3B across 175 deals in 2026 so far, up from a $9.95B from 158 deals in 2025"
+      },
+      "summary": {
+        "zh": "PitchBook数据显示，2026年已有175笔交易，涉及无人机、战场AI等领域。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-45",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-06-21/japan-inc-is-right-to-fear-ai-black-ships",
+      "title": {
+        "zh": "S&P和IBM报告：2024年日本成为全球网络攻击最频繁目标",
+        "en": "S&P and IBM: 22.4% of global cyberattacks in 2024 hit Japan, the most targeted country, as it tries to improve its legacy IT systems against AI-powered threats"
+      },
+      "summary": {
+        "zh": "22.4%的全球网络攻击集中在日本，主要原因是其试图改进传统IT系统以应对AI驱动的威胁。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "ibm",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ibm",
+        "policy",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    }
+  ]
+}

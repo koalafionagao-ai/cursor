@@ -1,0 +1,188 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present
+Tweets:
+  - Author: @kent_walker
+    Text: Quantum is the next frontier for 🇺🇸 leadership. @Google supports the new Quantum EOs. With our US-built Willow chip, we'll unlock breakthroughs in energy, medicine and more, while partnering with government to secure our post-quantum cryptographic future.
+    Link ID: TM-01-TW-01
+  - Author: @mkratsios47
+    Text: Today, @POTUS signed an Executive Order to accelerate U.S. innovation in quantum technologies and strengthen our national security.  The Trump Administration will execute an ambitious agenda: ➡️ @ENERGY will develop the first quantum computer powerful enough for scientific discovery by 2028 ➡️ @DeptofWar @CommerceGov @NASA and @ENERGY will deploy quantum sensors and networks in the next 5 years ➡️ @DOL and @NSF will expand quantum apprenticeships and workforce training ➡️ @CommerceGov will strengthen domestic supply chains ➡️ @FBI will bolster quantum research and IP security
+    Link ID: TM-01-TW-02
+  - Author: @atrupar
+    Text: Trump on an executive order he's about to sign that he clearly has no clue about: “Quantum ... cryptography. Does anybody know what that is?” [video]
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Meta invests $900M into Indian fintech Cred for a ~20% stake, and plans to appoint Cred founder Kunal Shah as the leader of WhatsApp, replacing Will Cathcart
+Tweets:
+  - Author: @wcathcart
+    Text: Some personal news.  After nearly 7 years leading WhatsApp, I'm excited to share who will take over the responsibility of delivering simple, reliable, and private messaging for the world.  WhatsApp is in the strongest position it's ever been — and that felt like the right moment to step back.
+    Link ID: TM-02-TW-01
+  - Author: @kunalb11
+    Text: It's been a minute.  2015-2018 - Exited FreeCharge.  Spent time learning and investing.  - Pondered about: Why can't trust be rewarded?  Started with $1M of personal capital.  - Launched CRED to reward people for paying credit card bills on time.  [...] CRED is ready for its next phase.  I am stepping back and @miten steps in as interim CEO, partnered with an incredibly talented team.  [...] As for me, I'll be joining Meta to lead WhatsApp globally.  Meta comes in as a minority investor in CRED.  No access to member data.  While it's come very far, the delta between WhatsApp today and its full potential is massive.  I look forward to working with Mark, Chris, and the leadership across Meta for the next step in WhatsApp's journey. …
+    Link ID: TM-02-TW-02
+  - Author: @gergelyorosz
+    Text: On one end, this is big news: Meta is paying $900M to be able to hire Kunal Shah to lead WhatsApp. It suggests massive investment. So can anyone at Meta explain why critical WhatsApp teams like Integrity have been drastically reduced via layoffs, forced data labeling & reorgs?
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Google invests in independent movie studio A24 as part of a new AI partnership; sources say Google is investing ~$75M, roughly equal to Thrive's 2024 investment
+Tweets:
+  - Author: @scottbelsky
+    Text: there are better uses of storytelling tech to discover, ones that preserve creative control and support creative risk-taking.  these workflows are TBD, but excited for our Labs team to work w/ DeepMind team in this research partnership. shared curiosities, and asking the right questions, lead us to the better way
+    Link ID: TM-03-TW-01
+  - Author: @pinknishii
+    Text: incredible how Backrooms marketing and so much of the director's stuff involves talking about how cool Blender is and how anyone can use it for production. To see that from A24 and then decide ‘yeah we need to push for ai’ is just insane. We really are in the worst timeline
+    Link ID: TM-03-TW-02
+  - Author: @wierd_o78033920
+    Text: “If I could snap my fingers and make generative AI disappear forever, I probably would. Creatively, I get no enjoyment from using those tools. It defeats the purpose entirely for me.” -Kane Parsons, the guy who just made A24 277.5 million dollars last month.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: SpaceX announces an offering of senior unsecured notes and discloses it has ~$100.8B in cash; SPCX closes down 16.43% in its third consecutive losing session
+Sub Items:
+  - Title: SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Valve says Steam Machine, its new living room-friendly PC, will start at $1,049 for the 512GB base model, and go on sale starting June 29
+Sub Items:
+  - Title: Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: Getty Images signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery tools; GETY jumps 90%+ and is down 10%+ YTD
+---
+ID: TM-07
+Title: China adds 10 US companies, including MP Materials and Teal Drones, to its export controls and bans government purchases from 46 US companies, including Anduril
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: In a joint statement, Five Eyes agencies warn AI models capable of taking down governments and businesses are mere months away, urging leaders to “act now”
+---
+ID: TM-09
+Title: Satya Nadella says the public wouldn't tolerate a few AI labs “doing all of the learning for the world”, as Microsoft moves to provide low-cost models and tools
+---
+ID: TM-10
+Title: OpenAI unveils an updated GPT-5.5-Cyber model, launches the Patch the Planet initiative in partnership with Trail of Bits to fix open source bugs, and more
+---
+ID: TM-11
+Title: Samsung rolls out ChatGPT Enterprise and Codex to all South Korean staff and global DX division staff; OpenAI calls it one of its largest enterprise deployments
+---
+ID: TM-12
+Title: Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations
+---
+ID: TM-13
+Title: Tencent starts testing Xiaowei, its new AI assistant powered by WeLM and DeepSeek models, in its WeChat app in China, as part of its efforts to catch up in AI
+---
+ID: TM-14
+Title: A look at JD Vance's “AI doctrine”, which combines pro-innovation VC principles, worker protections, and concerns about power concentration in dominant AI labs
+---
+ID: TM-15
+Title: Analysis: Anthropic may have talked its way into an export ban, as its 2026 statements and social media posts used 8x more AI risk-related terms than OpenAI
+---
+ID: TM-16
+Title: Bain says it uses AI coding tools to recreate pieces of target companies' software, making hundreds of rough prototypes in recent years as part of due diligence
+---
+ID: TM-17
+Title: Sakana AI launches Fugu, a multi-agent orchestration system accessible through a single model API, claiming Fugu Ultra matches Fable and Mythos on benchmarks
+---
+ID: TM-18
+Title: UK-based AI law firm Garfield, which received regulatory approval in 2025, wins a case in the English courts for the first time; the case focused on unpaid fees
+---
+ID: TM-19
+Title: Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-20
+Title: SK Hynix overtakes Samsung to become South Korea's most valuable company, closing up 5.6% for a ~$1.4T market cap; South Korea's Kospi index is up 117% YTD
+---
+ID: TM-21
+Title: Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025
+---
+ID: TM-22
+Title: Analysis: Taiwanese car display chip maker Himax, which makes driver integrated circuits for Ferrari, VW, and others, nets its founders a $1B combined net worth
+---
+ID: TM-23
+Title: Japan's top five chip equipment makers posted their first-ever fall in combined China sales, down 10% for the year ended March 31, as China boosts local players
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-24
+Title: Chevron signs a 20-year deal with Microsoft to provide natural-gas power for a proposed West Texas data center, which could be one of the biggest in the US
+---
+ID: TM-25
+Title: Source: Morgan Stanley is pitching data center developers to use leveraged loans rather than bonds, and estimates that ~$15B in such loans will be sold in 2026
+---
+
+[CATEGORY: ROBOTICS]
+ID: TM-26
+Title: JD.com founder Richard Liu says robots will replace the company's 700K delivery workers “sooner or later”, and it will help retrain them in robot maintenance
+---
+ID: TM-27
+Title: Nvidia unveils Halos, a safety-focused OS developed from autonomous vehicle tech and designed to run on IGX Thor hardware for humanoid robots, and opens a lab
+---
+
+[CATEGORY: PUBLIC OFFERINGS]
+ID: TM-28
+Title: Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range
+---
+ID: TM-29
+Title: Shenzhen-listed Apple supplier Lingyi iTech seeks to raise ~$1.1B in a June 26 Hong Kong IPO, as the electronic parts maker expands into AI hardware and robots
+---
+ID: TM-30
+Title: Electric bike rental company Lime is seeking to raise up to $180.9M in its US IPO, offering 6.7M shares at $24 to $26 each, giving it an up to $1.7B valuation
+---
+ID: TM-31
+Title: Sources: Shanghai-based Coowa, which builds embodied AI robots, plans to file a Hong Kong IPO; Coowa was valued at $3B+ after raising $600M+ in its latest round
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-32
+Title: Sources: marketing tech startup AppsFlyer raised a $1B Series E at a $2.7B post-money valuation; Moloco, Google, Meta, and Unity acquire minority stakes
+---
+ID: TM-33
+Title: Groq raised $650M led by Disruptive and Infinitum after its Nvidia deal, aiming to hit 200 MW in capacity by the end of 2027, following a $750M raise in 2025
+---
+ID: TM-34
+Title: Netherlands-based Nearfield Instruments, which makes atomic force microscopes to measure chip features, raised $380M led by Fidelity at a $1.6B valuation
+---
+ID: TM-35
+Title: Upscale, which is building AI networking infrastructure to rival Cisco, raised a $190M Series A-1 at a $2B valuation, up from $1B after raising $200M in January
+---
+ID: TM-36
+Title: Crypto trading app Fomo raised a $75M Series B led by Index at a $550M valuation, taking its total funding to ~$94M, and claims to add 3,500 new users per day
+---
+ID: TM-37
+Title: NYC-based Prosper AI, whose healthcare AI tool is designed to answer patient phone calls, raised a $30M Series A led by a16z, taking its total funding to $35M
+---
+ID: TM-38
+Title: PitchBook: defense tech companies making drones, battlefield AI, and more raised $12.3B across 175 deals in 2026 so far, up from a $9.95B from 158 deals in 2025
+---
+ID: TM-39
+Title: San Diego-based Aether AI, which is building “causal world models” to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-40
+Title: Instagram is testing horizontal video on Instagram for TV, plans to experiment with longer-form storytelling and episodic series, and launches on Samsung TV
+---
+ID: TM-41
+Title: Alphabet shares close down 5% on Monday following the departure of Google DeepMind VP John Jumper, the company's second top AI executive to leave in a week
+---
+ID: TM-42
+Title: WiseTech's shares fell 18%+ after Australian police probed co-founder Richard White over sex exploitation claims; WiseTech shares are down 70%+ in the past year
+---
+ID: TM-43
+Title: Filing: Oracle's global workforce fell by 21,000 employees in the past 12 months to 141,000 as of May 31; the company says AI adoption has led to reductions
+---
+ID: TM-44
+Title: Sources: ByteDance shares are trading at a $600B+ valuation in gray markets; an IPO is unlikely as its growth continues to benefit its Chinese and US investors
+---
+ID: TM-45
+Title: S&P and IBM: 22.4% of global cyberattacks in 2024 hit Japan, the most targeted country, as it tries to improve its legacy IT systems against AI-powered threats
+---

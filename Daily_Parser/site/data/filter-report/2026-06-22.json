@@ -1,0 +1,278 @@
+{
+  "date": "2026-06-22",
+  "threshold": 7.0,
+  "total": 45,
+  "kept": 16,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及量子计算的政策动向，影响未来技术发展"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta的投资与战略调整，信息量一般"
+    },
+    {
+      "id": "TM-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌与独立电影制片厂的合作，展示AI应用潜力"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要是财务信息，缺乏与AI直接相关性"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "产品发布信息常规，缺乏创新点"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Getty与OpenAI的合作，影响AI图像生成领域"
+    },
+    {
+      "id": "TM-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "中国对美企的出口管制，可能影响AI行业格局"
+    },
+    {
+      "id": "TM-08",
+      "score": 9.0,
+      "keep": true,
+      "reason": "五眼联盟警告AI模型的潜在威胁，具有重要政策意义"
+    },
+    {
+      "id": "TM-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "微软对AI模型的看法，反映行业趋势"
+    },
+    {
+      "id": "TM-10",
+      "score": 10.0,
+      "keep": true,
+      "reason": "OpenAI发布新模型及重要合作，具有重大影响"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "三星大规模部署ChatGPT，显示企业对AI的重视"
+    },
+    {
+      "id": "TM-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "内部数据曝光，信息量有限但引发关注"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "腾讯推出新AI助手，显示其在AI领域的努力"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "JD Vance的AI政策分析，涉及行业发展方向"
+    },
+    {
+      "id": "TM-15",
+      "score": 5.0,
+      "keep": false,
+      "reason": "对Anthropic的分析，信息量一般"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Bain使用AI工具的案例，展示AI在尽职调查中的应用"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Sakana AI推出新系统，展示技术进步"
+    },
+    {
+      "id": "TM-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "AI法律事务所的案例，信息量有限"
+    },
+    {
+      "id": "TM-19",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Air Space Intelligence获得大额合同，推动AI在航空领域应用"
+    },
+    {
+      "id": "TM-20",
+      "score": 4.0,
+      "keep": false,
+      "reason": "股市波动信息，缺乏与AI直接相关性"
+    },
+    {
+      "id": "TM-21",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Qualcomm收购谈判，涉及AI芯片领域的动态"
+    },
+    {
+      "id": "TM-22",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财务信息，缺乏与AI直接相关性"
+    },
+    {
+      "id": "TM-23",
+      "score": 6.0,
+      "keep": false,
+      "reason": "日本芯片设备销售下滑，反映市场变化"
+    },
+    {
+      "id": "TM-24",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Chevron与微软的合作，涉及数据中心的能源供应"
+    },
+    {
+      "id": "TM-25",
+      "score": 4.0,
+      "keep": false,
+      "reason": "融资策略信息，缺乏与AI直接相关性"
+    },
+    {
+      "id": "TM-26",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于机器人替代快递工人的观点，涉及行业未来趋势，但信息量有限。"
+    },
+    {
+      "id": "TM-27",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia发布新操作系统Halos，聚焦安全性，具有重要技术应用价值。"
+    },
+    {
+      "id": "TM-28",
+      "score": 4.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏与AI直接相关的内容。"
+    },
+    {
+      "id": "TM-29",
+      "score": 6.0,
+      "keep": false,
+      "reason": "电子零件制造商扩展至AI硬件和机器人，具有一定行业关注度。"
+    },
+    {
+      "id": "TM-30",
+      "score": 4.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏与AI直接相关的内容。"
+    },
+    {
+      "id": "TM-31",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Coowa计划在香港IPO，涉及AI机器人领域，值得关注。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏与AI直接相关的内容。"
+    },
+    {
+      "id": "TM-33",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Groq融资信息涉及AI硬件能力扩展，具有行业关注度。"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏与AI直接相关的内容。"
+    },
+    {
+      "id": "TM-35",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Upscale融资信息涉及AI网络基础设施，具有行业关注度。"
+    },
+    {
+      "id": "TM-36",
+      "score": 4.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏与AI直接相关的内容。"
+    },
+    {
+      "id": "TM-37",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏与AI直接相关的内容。"
+    },
+    {
+      "id": "TM-38",
+      "score": 8.0,
+      "keep": true,
+      "reason": "防务科技公司在AI领域的融资数据，反映行业趋势。"
+    },
+    {
+      "id": "TM-39",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Aether AI的融资信息涉及因果模型，具有一定技术价值。"
+    },
+    {
+      "id": "TM-40",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是社交媒体功能测试。"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "高管离职对公司影响有限，信息量一般。"
+    },
+    {
+      "id": "TM-42",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要是股价波动和法律问题。"
+    },
+    {
+      "id": "TM-43",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Oracle因AI采用导致裁员，反映行业变化。"
+    },
+    {
+      "id": "TM-44",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是市场估值信息。"
+    },
+    {
+      "id": "TM-45",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于网络攻击与AI威胁的报告，具有行业关注度。"
+    }
+  ]
+}
