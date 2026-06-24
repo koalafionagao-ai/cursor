@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-23",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion (4 minute read)",
+        "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html?utm_source=tldrai",
+        "excerpt": "SpaceX signed a deal worth up to $6.3 billion with Reflection AI for access to its supercomputer Project Colossus. This agreement allows Reflection to use Nvidia GB300s for training open-source AI models, reflecting a shift toward increased demand for compute power in AI development. SpaceX aims to capitalize on this by offering its infrastructure to outside AI companies, bolstering its position in the AI and data center space."
+      },
+      {
+        "title": "OpenAI launches new security tools and updates GPT-5.5-Cyber (2 minute read)",
+        "url": "https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/?utm_source=tldrai",
+        "excerpt": "OpenAI recently launched an updated Codex Security plugin, GPT-5.5-Cyber (in limited release), a Daybreak Cyber Partner Program, and an open source security initiative called Patch the Planet. Daybreak is a defensive cyber stack for the AI era. OpenAI is promoting Daybreak through a partner model rather than direct broad model access. It aims to embed GPT-5.5 with Trusted Access for Cyber into existing security products and services while keeping access governed through partner systems."
+      },
+      {
+        "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away (14 minute read)",
+        "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away?utm_source=tldrai",
+        "excerpt": "Alibaba's HappyHorse 1.1 AI video generation model delivers production-ready video through an API built for integration into enterprise software stacks. It is now live on Alibaba Cloud Model Studio with a 40% sitewide launch discount for the first two weeks. HappyHorse supports text-to-video, image-to-video, and subject-to-video generation, as well as video editing. Its abilities cover the full spectrum of commercial video needs, from ideation through production to post-production."
+      },
+      {
+        "title": "The text in Claude Code's “Extended Thinking” output is not authentic (3 minute read)",
+        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/?utm_source=tldrai",
+        "excerpt": "Claude Code's 'Extended Thinking' reasoning is encrypted. Anthropic holds the key, and users' machines never receive it. The API returns a summary of the reasoning, and not the reasoning itself. Receiving the full thinking output requires an enterprise agreement."
+      },
+      {
+        "title": "Knowledge Agents: Beat Frontier Models with Better Structure (18 minute read)",
+        "url": "https://weightythoughts.com/p/knowledge-agents-beat-frontier-models?utm_source=tldrai",
+        "excerpt": "Anthropic pulled its Mythos model, while the article's author developed smaller agentic models called \"knowledge agents\" to match larger frontier models. These agents enhance AI by injecting specific, relevant knowledge, performing well even with smaller models like Qwen 3.6 27B. The methodology involves embedding, structuring data, and multiple search passes, successfully augmenting LLMs for specialized queries and proprietary data."
+      },
+      {
+        "title": "GLM-5.2 Raises the Bar for Open Models (14 minute read)",
+        "url": "https://thezvi.wordpress.com/2026/06/22/glm-5-2-is-the-new-best-open-model/?utm_source=tldrai",
+        "excerpt": "TheZvi examined GLM-5.2's capabilities and benchmark results, arguing it represents a significant improvement over previous open models. The analysis positioned it as one of the strongest openly available models while still trailing the leading frontier systems."
+      },
+      {
+        "title": "Model Size Scaling in 2023-2031 (21 minute read)",
+        "url": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031?utm_source=tldrai",
+        "excerpt": "Targeting a particular speed of token generation puts a constraint on the total parameters of the model. If there isn't enough pretraining compute, models will remain smaller. This article looks at these considerations and estimates model sizes feasible for each year between 2023 and 2031. There are many assumptions that go into the estimates, which predict total parameters for models to reach 1.4 quadrillion in 2031."
+      },
+      {
+        "title": "Moebius (4 minute read)",
+        "url": "https://hustvl.github.io/Moebius/?utm_source=tldrai",
+        "excerpt": "Moebius is a highly efficient lightweight inpainting framework. The 0.22B model rivals and even surpasses the generation quality of the 11.9B industrial generalist FLUX.1-Fill-Dev. It does this with an under 15x acceleration in total inference time. Moebius liberates real-world image inpainting and AI object removal from parameter bloat."
+      },
+      {
+        "title": "Using Codex for Long-Running Projects (18 minute read)",
+        "url": "https://openai.com/index/codex-maxxing-long-running-work/?utm_source=tldrai",
+        "excerpt": "This guide outlines strategies for treating Codex as a persistent workspace that can maintain context across extended projects. It covers workflow management, task decomposition, and techniques for balancing autonomous execution with human oversight."
+      },
+      {
+        "title": "TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)",
+        "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29?utm_source=tldrai",
+        "excerpt": "We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more."
+      },
+      {
+        "title": "Loop Engineering Clearly Explained (7 minute read)",
+        "url": "https://x.com/akshay_pachaar/status/2069118430582866051?utm_source=tldrai",
+        "excerpt": "Loop engineering shifts AI development from manually prompting agents to designing autonomous systems that decide what to work on, execute tasks, verify outcomes, and improve over time. The core agent loop is simple, but the hard problems are defining reliable stopping conditions, preventing context rot, designing agent-friendly tools, and building verification mechanisms that can independently judge success."
+      },
+      {
+        "title": "Anthropic says Claude may want to see your ID (4 minute read)",
+        "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/?utm_source=tldrai",
+        "excerpt": "Anthropic may require identity verification in certain circumstances starting on July 8. The company has not provided specific examples of when users will be asked to provide government-issued documents. An Anthropic spokesperson claims that the change will only apply to a small subset of users whose accounts are flagged but not outright banned. Anthropic uses Persona as its identity-checking provider."
+      },
+      {
+        "title": "claude-sonnet-5 (1 minute read)",
+        "url": "https://x.com/synthwavedd/status/2068701837427974655?utm_source=tldrai",
+        "excerpt": "The slug 'claude-sonnet-5' has appeared on an Anthropic partner provider."
+      },
+      {
+        "title": "Anthropic prepares Cowork support for mobile apps (2 minute read)",
+        "url": "https://www.testingcatalog.com/anthropic-prepares-cowork-support-for-mobile-apps/?utm_source=tldrai",
+        "excerpt": "Anthropic plans to expand its Cowork system to mobile apps, enabling task scheduling and viewing across devices."
+      },
+      {
+        "title": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals (3 minute read)",
+        "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html?utm_source=tldrai",
+        "excerpt": "Tencent is testing Xiaowei, an AI assistant, within WeChat to enhance user interaction and challenge AI competitors like Alibaba in China."
+      }
+    ]
+  }
+}

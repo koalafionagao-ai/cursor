@@ -1,0 +1,237 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner
+Tweets:
+  - Author: @markgurman
+    Text: Meta is also seriously considering launching audio-only (camera-free) glasses that would allow further price reductions and new styles due to fewer components. They considered this a couple of years ago as well before shelving the product.
+    Link ID: TM-01-TW-01
+  - Author: @michaelmiraflor
+    Text: Is this what ecosystem lock-in looks like for glasses / face-based wearables?  Meta feels so far ahead bc of the EssilorLuxxotica partnership.  Wonder if prices will drop further with scale or if they will protect their hardware margins.
+    Link ID: TM-01-TW-02
+  - Author: @gannonbreslin
+    Text: Meta just mogged Snap with their new smart glasses [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Meta says Meta Glasses are its first AI glasses to launch with Meta AI powered by Muse Spark, and come in a range of color and lens combinations for 26 styles
+    Link ID: TM-01-SUB-01
+  - Title: Meta Fury, Meta Adventurer, and Meta Glasses by Kylie have EssilorLuxottica stamped on the inside; Meta executives say dropping “Ray-Ban” helps lower the price
+    Link ID: TM-01-SUB-02
+  - Title: Meta's Starfire glasses with Kylie Jenner include a tiny gemstone on the lens, a metal nose pad to prevent absorbing makeup, and an AI version of Kylie's voice
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Sources: Meta is building a standalone prediction markets app called Arena, which would probably rely on video game-like points instead of money wagers
+Tweets:
+  - Author: @senblumenthal
+    Text: Meta copied slot machines to addict kids to Instagram. Now Zuckerberg is turning his company into a prediction market. Meta's business model is profiting from addiction—kids, gamblers, & more. Stop it through KOSA & my prediction markets bills.
+    Link ID: TM-02-TW-01
+  - Author: @gergelyorosz
+    Text: I'm actually expecting this to happen a LOT more: A company does X as their bread-and-butter. But now, with AI, they realize “hey we can build quickly.” So they build a product to do Y (where they know nothing about Y.) I'm sure in some cases it will work, mostly crash&burn tho
+    Link ID: TM-02-TW-02
+  - Author: @luke_metro
+    Text: why create the world's top platform for political & sports ragebait, then let Kalshi monetize it?
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers
+Tweets:
+  - Author: @karpathy
+    Text: This is a new paradigm for interacting with Claude that is significantly more “inline” with all the other human activity org-wide.  Once you do all of the under the hood engineering work to make this “just work” (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads
+    Link ID: TM-03-TW-01
+  - Author: @slackhq
+    Text: @trq212 This entire thread is a masterclass in setting up stateful agent workflows. Every team should be bookmarking this right now. 🔖
+    Link ID: TM-03-TW-02
+  - Author: @bcherny
+    Text: We're launching Claude Tag today. Tag Claude into Slack and it works in channel with you. It's proactive, multiplayer, with its own identity and memory. But it's not just a bot in Slack. Over the last few months, it's totally changed how we use Claude
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: OpenAI debuts at Cannes Lions, pitching its new ChatGPT ad business and Codex to marketers, as it tries to build a multibillion-dollar business ahead of its IPO
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-05
+Title: Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement
+---
+ID: TM-06
+Title: ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0
+---
+ID: TM-07
+Title: Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages
+---
+ID: TM-08
+Title: Google plans a 12-week incubator, picking 10 to 20 AI startups from its “Xoogler” alumni and providing up to $350K in cloud credits and $100K in direct funding
+---
+ID: TM-09
+Title: Beehiiv adds Cloudflare AI Crawl Control to writers' dashboards, allowing them to decide whether AI crawlers can scrape their work
+---
+ID: TM-10
+Title: Q&A with Nvidia VP of Healthcare Kimberly Powell on how AI can ease doctors' workloads, address trained medical staff shortages, improve patient care, and more
+---
+ID: TM-11
+Title: Eli Lilly plans to use some of its $7.3B cash pile to fund an “App Store” for biotech scientists, after opening a data center with 1,016 Blackwell chips in 2025
+---
+ID: TM-12
+Title: Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings
+---
+ID: TM-13
+Title: How the data center boom is exposing weaknesses in US power grids, and a look at what fixes the electricity infrastructure may need to become fit for the future
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-14
+Title: The Netherlands joins the US-led Pax Silica initiative alongside South Korea and Japan to coordinate AI supply chains; Taiwan endorses it as a non-signatory
+---
+ID: TM-15
+Title: Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-16
+Title: Market intelligence company Klue confirms it has suffered a breach, for which cybercrime group Icarus takes credit; Jamf, HackerOne, and others are affected
+---
+ID: TM-17
+Title: LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue
+---
+ID: TM-18
+Title: On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-19
+Title: Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China's military, says the decision is a violation of constitutional due process
+---
+ID: TM-20
+Title: A US NLRB judge rules that Amazon violated federal law by not recognizing Teamsters at a San Francisco warehouse and must collectively bargain with the workers
+---
+ID: TM-21
+Title: SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses
+---
+ID: TM-22
+Title: YouTube settles a lawsuit ahead of a second California trial over social media harms to minors; Meta, TikTok, and Snap remain defendants
+---
+
+[CATEGORY: M&A]
+ID: TM-23
+Title: Walmart acquires Vibe.co, which lets businesses create and buy ads on CTVs, sources say for $1.4B cash; top executives get $180M to stay for four years
+---
+ID: TM-24
+Title: Sources: Miami-based cybersecurity company Varonis is exploring options including a potential sale after receiving takeover interest; VRNS jumps 6%+
+---
+
+[CATEGORY: VENTURE CAPITAL]
+ID: TM-25
+Title: How Sam Altman's 80+ personal investments, many from his time running YC, benefit from ties to OpenAI; 10+ companies have discussed business deals with OpenAI
+---
+ID: TM-26
+Title: Menlo raised $3B for funds dedicated to backing AI startups, its largest fundraising to date; sources say Menlo's Anthropic stake is currently worth nearly $14B
+---
+ID: TM-27
+Title: Sources: Abu Dhabi's MGX has raised close to $50B from regional sovereign wealth funds, global pension funds, and others to accelerate spending on AI deals
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-28
+Title: Sources: Hadrian, which is building AI-powered factories to produce space and defense parts, is in talks to raise ~$1B at a ~$7.5B post-money valuation
+---
+ID: TM-29
+Title: Stark, which has a deal to supply “kamikaze” drones to the German military, raised €500M from Founders Fund, Sequoia, others; it faced criticism over Thiel ties
+---
+ID: TM-30
+Title: New York-based crypto analytics startup Allium raised a $40M Series B led by Amplify Partners, with participation from Kleiner Perkins and others
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-31
+Title: Micron and Sandisk led a tech selloff on Tuesday, falling more than 13%; Western Digital fell 8%, Marvell 9%, Seagate 5%, Qualcomm 8%, and Applied Materials 8%
+Sub Items:
+  - Title: South Korea's tech-heavy Kospi index falls 10%, dragged down by SK Hynix and Samsung; STMicro, ASML, and others fall ~7%, and US tech and chip stocks drop
+    Link ID: TM-31-SUB-01
+---
+ID: TM-32
+Title: Sources: Tencent is negotiating exits from minority investments in game studios in Japan, such as Tokyo-traded Marvelous, as it reassesses its global portfolio
+---
+ID: TM-33
+Title: The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation
+---
+ID: TM-34
+Title: Top500: China's Arm-based LineShine passes the US' El Capitan by 20%+ as the world's fastest supercomputer, the first time China has taken the crown since 2017
+---
+ID: TM-35
+Title: Sources: SpaceX, which is seeking to raise between $20B and $25B in its debut US bond sale, has drawn about $89B of demand
+---
+ID: TM-36
+Title: The FCC says an auction of wireless mid-band spectrum raised $3.5B+, which will largely be used to fund the replacement of Chinese telecom equipment in the US
+---
+ID: TM-37
+Title: Syntun: online sales during China's 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth in 2025, as China's consumer spending slowdown persists
+---
+ID: TM-38
+Title: The EU will apply a €3 duty on items under €150 from July 1, as the bloc seeks to slow the flood of low-priced merchandise from retailers like Shein and Temu
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion (4 minute read)
+Excerpt: SpaceX signed a deal worth up to $6.3 billion with Reflection AI for access to its supercomputer Project Colossus. This agreement allows Reflection to use Nvidia GB300s for training open-source AI models, reflecting a shift toward increased demand for compute power in AI development. SpaceX aims to capitalize on this by offering its infrastructure to outside AI companies, bolstering its position in the AI and data center space.
+---
+ID: TL-02
+Title: OpenAI launches new security tools and updates GPT-5.5-Cyber (2 minute read)
+Excerpt: OpenAI recently launched an updated Codex Security plugin, GPT-5.5-Cyber (in limited release), a Daybreak Cyber Partner Program, and an open source security initiative called Patch the Planet. Daybreak is a defensive cyber stack for the AI era. OpenAI is promoting Daybreak through a partner model rather than direct broad model access. It aims to embed GPT-5.5 with Trusted Access for Cyber into existing security products and services while keeping access governed through partner systems.
+---
+ID: TL-03
+Title: Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away (14 minute read)
+Excerpt: Alibaba's HappyHorse 1.1 AI video generation model delivers production-ready video through an API built for integration into enterprise software stacks. It is now live on Alibaba Cloud Model Studio with a 40% sitewide launch discount for the first two weeks. HappyHorse supports text-to-video, image-to-video, and subject-to-video generation, as well as video editing. Its abilities cover the full spectrum of commercial video needs, from ideation through production to post-production.
+---
+ID: TL-04
+Title: The text in Claude Code's “Extended Thinking” output is not authentic (3 minute read)
+Excerpt: Claude Code's 'Extended Thinking' reasoning is encrypted. Anthropic holds the key, and users' machines never receive it. The API returns a summary of the reasoning, and not the reasoning itself. Receiving the full thinking output requires an enterprise agreement.
+---
+ID: TL-05
+Title: Knowledge Agents: Beat Frontier Models with Better Structure (18 minute read)
+Excerpt: Anthropic pulled its Mythos model, while the article's author developed smaller agentic models called "knowledge agents" to match larger frontier models. These agents enhance AI by injecting specific, relevant knowledge, performing well even with smaller models like Qwen 3.6 27B. The methodology involves embedding, structuring data, and multiple search passes, successfully augmenting LLMs for specialized queries and proprietary data.
+---
+ID: TL-06
+Title: GLM-5.2 Raises the Bar for Open Models (14 minute read)
+Excerpt: TheZvi examined GLM-5.2's capabilities and benchmark results, arguing it represents a significant improvement over previous open models. The analysis positioned it as one of the strongest openly available models while still trailing the leading frontier systems.
+---
+ID: TL-07
+Title: Model Size Scaling in 2023-2031 (21 minute read)
+Excerpt: Targeting a particular speed of token generation puts a constraint on the total parameters of the model. If there isn't enough pretraining compute, models will remain smaller. This article looks at these considerations and estimates model sizes feasible for each year between 2023 and 2031. There are many assumptions that go into the estimates, which predict total parameters for models to reach 1.4 quadrillion in 2031.
+---
+ID: TL-08
+Title: Moebius (4 minute read)
+Excerpt: Moebius is a highly efficient lightweight inpainting framework. The 0.22B model rivals and even surpasses the generation quality of the 11.9B industrial generalist FLUX.1-Fill-Dev. It does this with an under 15x acceleration in total inference time. Moebius liberates real-world image inpainting and AI object removal from parameter bloat.
+---
+ID: TL-09
+Title: Using Codex for Long-Running Projects (18 minute read)
+Excerpt: This guide outlines strategies for treating Codex as a persistent workspace that can maintain context across extended projects. It covers workflow management, task decomposition, and techniques for balancing autonomous execution with human oversight.
+---
+ID: TL-10
+Title: TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)
+Excerpt: We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.
+---
+ID: TL-11
+Title: Loop Engineering Clearly Explained (7 minute read)
+Excerpt: Loop engineering shifts AI development from manually prompting agents to designing autonomous systems that decide what to work on, execute tasks, verify outcomes, and improve over time. The core agent loop is simple, but the hard problems are defining reliable stopping conditions, preventing context rot, designing agent-friendly tools, and building verification mechanisms that can independently judge success.
+---
+ID: TL-12
+Title: Anthropic says Claude may want to see your ID (4 minute read)
+Excerpt: Anthropic may require identity verification in certain circumstances starting on July 8. The company has not provided specific examples of when users will be asked to provide government-issued documents. An Anthropic spokesperson claims that the change will only apply to a small subset of users whose accounts are flagged but not outright banned. Anthropic uses Persona as its identity-checking provider.
+---
+ID: TL-13
+Title: claude-sonnet-5 (1 minute read)
+Excerpt: The slug 'claude-sonnet-5' has appeared on an Anthropic partner provider.
+---
+ID: TL-14
+Title: Anthropic prepares Cowork support for mobile apps (2 minute read)
+Excerpt: Anthropic plans to expand its Cowork system to mobile apps, enabling task scheduling and viewing across devices.
+---
+ID: TL-15
+Title: Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals (3 minute read)
+Excerpt: Tencent is testing Xiaowei, an AI assistant, within WeChat to enhance user interaction and challenge AI competitors like Alibaba in China.
+---

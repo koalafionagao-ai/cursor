@@ -1,0 +1,326 @@
+{
+  "date": "2026-06-23",
+  "threshold": 7.0,
+  "total": 53,
+  "kept": 20,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是产品发布信息。"
+    },
+    {
+      "id": "TM-02",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Meta 新应用的开发，信息量一般。"
+    },
+    {
+      "id": "TM-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic 推出新产品，具有产品洞察价值。"
+    },
+    {
+      "id": "TM-04",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI 在重要活动中推出新业务，具有战略意义。"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及政策与监管，值得关注的动态。"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "ByteDance 新模型发布，具有技术更新的价值。"
+    },
+    {
+      "id": "TM-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Mistral 新模型发布，涉及重要技术进展。"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Google 支持 AI 初创企业的孵化计划，值得关注。"
+    },
+    {
+      "id": "TM-09",
+      "score": 5.0,
+      "keep": false,
+      "reason": "功能更新信息较常规，信息量有限。"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 AI 在医疗领域应用的讨论，信息量一般。"
+    },
+    {
+      "id": "TM-11",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于资金使用的计划，信息量较常规。"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI 在房地产领域的应用，信息量一般。"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "基础设施问题，信息量较常规。"
+    },
+    {
+      "id": "TM-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "国际合作动态，涉及 AI 供应链的重要性。"
+    },
+    {
+      "id": "TM-15",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财务报告信息，较常规。"
+    },
+    {
+      "id": "TM-16",
+      "score": 4.0,
+      "keep": false,
+      "reason": "网络安全事件，信息与 AI 关系不大。"
+    },
+    {
+      "id": "TM-17",
+      "score": 4.0,
+      "keep": false,
+      "reason": "网络安全事件，信息与 AI 关系不大。"
+    },
+    {
+      "id": "TM-18",
+      "score": 4.0,
+      "keep": false,
+      "reason": "网络安全事件，信息与 AI 关系不大。"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律诉讼信息，较常规。"
+    },
+    {
+      "id": "TM-20",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律裁决信息，较常规。"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律裁决信息，较常规。"
+    },
+    {
+      "id": "TM-22",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律诉讼信息，较常规。"
+    },
+    {
+      "id": "TM-23",
+      "score": 6.0,
+      "keep": false,
+      "reason": "收购信息，具有一定的行业动态价值。"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "公司战略动态，信息量较常规。"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于投资与商业关系的讨论，信息量一般。"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Menlo的资金募集将加速对AI初创公司的支持，具有重要行业影响力。"
+    },
+    {
+      "id": "TM-27",
+      "score": 8.0,
+      "keep": true,
+      "reason": "MGX的巨额融资将推动AI交易，显示出区域投资者对AI的重视。"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Hadrian的融资计划显示出AI在制造业的应用潜力，值得关注。"
+    },
+    {
+      "id": "TM-29",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Stark的融资虽然涉及AI，但主要聚焦于军事应用，信息量有限。"
+    },
+    {
+      "id": "TM-30",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Allium的融资信息较为常规，缺乏显著的行业影响。"
+    },
+    {
+      "id": "TM-31",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI关联较弱，主要是股市波动信息。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "腾讯的投资调整反映出其对全球市场的重新评估，但信息量有限。"
+    },
+    {
+      "id": "TM-33",
+      "score": 4.0,
+      "keep": false,
+      "reason": "以太坊基金会的裁员信息与AI关联不大，信息量不足。"
+    },
+    {
+      "id": "TM-34",
+      "score": 9.0,
+      "keep": true,
+      "reason": "中国超算在全球排名中反超美国，具有重大的行业格局变化。"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.0,
+      "keep": false,
+      "reason": "SpaceX的融资计划虽大，但与AI的直接关联不强。"
+    },
+    {
+      "id": "TM-36",
+      "score": 4.0,
+      "keep": false,
+      "reason": "FCC的拍卖信息与AI关联不大，主要是政策和市场动态。"
+    },
+    {
+      "id": "TM-37",
+      "score": 3.0,
+      "keep": false,
+      "reason": "中国618购物节的销售数据与AI关联不强，信息量不足。"
+    },
+    {
+      "id": "TM-38",
+      "score": 3.0,
+      "keep": false,
+      "reason": "欧盟的新税收政策与AI关联不大，信息量不足。"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "SpaceX与Reflection的合作将推动AI计算能力的发展，具有重要行业影响。"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI的新安全工具和更新显示出其在AI安全领域的持续创新。"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "阿里巴巴的AI视频模型在全球排名中上升，显示出其技术实力的提升。"
+    },
+    {
+      "id": "TL-04",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Claude Code的输出机制信息较为常规，缺乏显著的行业影响。"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "知识代理模型的开发展示了AI模型优化的新思路，值得关注。"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "GLM-5.2的分析显示出开源模型的进步，具有一定的行业价值。"
+    },
+    {
+      "id": "TL-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "模型规模的预测分析提供了一定的信息量，但较为常规。"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Moebius框架的效率提升对图像处理领域具有重要应用价值。"
+    },
+    {
+      "id": "TL-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Codex的使用策略提供了一些实用的工作流管理建议，但信息量有限。"
+    },
+    {
+      "id": "TL-10",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI直接关联不强，信息量不足。"
+    },
+    {
+      "id": "TL-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Loop工程的概念对AI开发方法的转变具有一定的行业影响。"
+    },
+    {
+      "id": "TL-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "身份验证政策的变化信息量有限，且与AI的直接关联不强。"
+    },
+    {
+      "id": "TL-13",
+      "score": 3.0,
+      "keep": false,
+      "reason": "信息量过少，未提供具体内容或影响"
+    },
+    {
+      "id": "TL-14",
+      "score": 7.5,
+      "keep": true,
+      "reason": "扩展Cowork系统至移动应用，具有产品洞察价值"
+    },
+    {
+      "id": "TL-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "腾讯在热门应用中测试AI助手，具有市场竞争意义"
+    }
+  ]
+}

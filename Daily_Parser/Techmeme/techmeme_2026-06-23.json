@@ -1,0 +1,359 @@
+{
+  "date": "2026-06-23",
+  "sections": {
+    "top news": [
+      {
+        "title": "Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses",
+        "tweets": [
+          {
+            "author": "@markgurman",
+            "text": "Meta is also seriously considering launching audio-only (camera-free) glasses that would allow further price reductions and new styles due to fewer components. They considered this a couple of years ago as well before shelving the product.",
+            "url": "https://x.com/markgurman/status/2069405714347434183"
+          },
+          {
+            "author": "@michaelmiraflor",
+            "text": "Is this what ecosystem lock-in looks like for glasses / face-based wearables?  Meta feels so far ahead bc of the EssilorLuxxotica partnership.  Wonder if prices will drop further with scale or if they will protect their hardware margins.",
+            "url": "https://x.com/michaelmiraflor/status/2069469241749762190"
+          },
+          {
+            "author": "@gannonbreslin",
+            "text": "Meta just mogged Snap with their new smart glasses [image]",
+            "url": "https://x.com/gannonbreslin/status/2069452672013414796"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Meta says Meta Glasses are its first AI glasses to launch with Meta AI powered by Muse Spark, and come in a range of color and lens combinations for 26 styles",
+            "url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/"
+          },
+          {
+            "title": "Meta Fury, Meta Adventurer, and Meta Glasses by Kylie have EssilorLuxottica stamped on the inside; Meta executives say dropping “Ray-Ban” helps lower the price",
+            "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkR2UDZpNnNnYTQiLCJwIjoiL3RlY2gvOTU0MDUyL21ldGEtZ2xhc3Nlcy1oYW5kcy1vbi1reWxpZS1qZW5uZXItc21hcnQtZ2xhc3Nlcy1wcmljZS1iYXR0ZXJ5LXByaXZhY3kiLCJleHAiOjE3ODI2NTE3NzMsImlhdCI6MTc4MjIxOTc3M30.uOXCAyuLW4R2aKUdE1pW1IW7h3S5yXbMKJFLfE9WMtg&utm_medium=gift-link"
+          },
+          {
+            "title": "Meta's Starfire glasses with Kylie Jenner include a tiny gemstone on the lens, a metal nose pad to prevent absorbing makeup, and an AI version of Kylie's voice",
+            "url": "https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Meta is building a standalone prediction markets app called Arena, which would probably rely on video game-like points instead of money wagers",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html?unlocked_article_code=1.sVA.S8Cw.w-vIeTlfjE3Q&smid=url-share",
+        "tweets": [
+          {
+            "author": "@senblumenthal",
+            "text": "Meta copied slot machines to addict kids to Instagram. Now Zuckerberg is turning his company into a prediction market. Meta's business model is profiting from addiction—kids, gamblers, & more. Stop it through KOSA & my prediction markets bills.",
+            "url": "https://x.com/senblumenthal/status/2069526327057657901"
+          },
+          {
+            "author": "@gergelyorosz",
+            "text": "I'm actually expecting this to happen a LOT more: A company does X as their bread-and-butter. But now, with AI, they realize “hey we can build quickly.” So they build a product to do Y (where they know nothing about Y.) I'm sure in some cases it will work, mostly crash&burn tho",
+            "url": "https://x.com/gergelyorosz/status/2069491445736833082"
+          },
+          {
+            "author": "@luke_metro",
+            "text": "why create the world's top platform for political & sports ragebait, then let Kalshi monetize it?",
+            "url": "https://x.com/luke_metro/status/2069484069956775991"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers",
+        "excerpt": "",
+        "url": "https://www.zdnet.com/article/anthropic-claude-tag-agentic-ai-coworker-slack/",
+        "tweets": [
+          {
+            "author": "@karpathy",
+            "text": "This is a new paradigm for interacting with Claude that is significantly more “inline” with all the other human activity org-wide.  Once you do all of the under the hood engineering work to make this “just work” (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads",
+            "url": "https://x.com/karpathy/status/2069547676849557725"
+          },
+          {
+            "author": "@slackhq",
+            "text": "@trq212 This entire thread is a masterclass in setting up stateful agent workflows. Every team should be bookmarking this right now. 🔖",
+            "url": "https://x.com/slackhq/status/2069506088186061019"
+          },
+          {
+            "author": "@bcherny",
+            "text": "We're launching Claude Tag today. Tag Claude into Slack and it works in channel with you. It's proactive, multiplayer, with its own identity and memory. But it's not just a bot in Slack. Over the last few months, it's totally changed how we use Claude",
+            "url": "https://x.com/bcherny/status/2069474681749754272"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI debuts at Cannes Lions, pitching its new ChatGPT ad business and Codex to marketers, as it tries to build a multibillion-dollar business ahead of its IPO",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/9717a042-fd09-4d08-972d-29b68f7985a4",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html?unlocked_article_code=1.sVA.XtUM.QDhlBQ_ea8X3&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/bytedance-unveils-seedance-2-5-video-model",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages",
+        "excerpt": "",
+        "url": "https://mistral.ai/news/ocr-4/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google plans a 12-week incubator, picking 10 to 20 AI startups from its “Xoogler” alumni and providing up to $350K in cloud credits and $100K in direct funding",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Beehiiv adds Cloudflare AI Crawl Control to writers' dashboards, allowing them to decide whether AI crawlers can scrape their work",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/23/beehiiv-adds-cloudflare-ai-crawl-control-writers-can-block-allow-bots/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with Nvidia VP of Healthcare Kimberly Powell on how AI can ease doctors' workloads, address trained medical staff shortages, improve patient care, and more",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d82f357a-89f6-41e4-930c-00b52a2a5df9",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Eli Lilly plans to use some of its $7.3B cash pile to fund an “App Store” for biotech scientists, after opening a data center with 1,016 Blackwell chips in 2025",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d524396a-4986-46e9-9a93-a982e330d157",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings",
+        "excerpt": "",
+        "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How the data center boom is exposing weaknesses in US power grids, and a look at what fixes the electricity infrastructure may need to become fit for the future",
+        "excerpt": "",
+        "url": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "The Netherlands joins the US-led Pax Silica initiative alongside South Korea and Japan to coordinate AI supply chains; Taiwan endorses it as a non-signatory",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/netherlands-join-us-led-pax-silica-ai-initiative-despite-asml-dispute-2026-06-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Market intelligence company Klue confirms it has suffered a breach, for which cybercrime group Icarus takes credit; Jamf, HackerOne, and others are affected",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London",
+        "excerpt": "",
+        "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China's military, says the decision is a violation of constitutional due process",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/alibaba-sues-the-us-seeking-removal-from-pentagon-s-blacklist",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US NLRB judge rules that Amazon violated federal law by not recognizing Teamsters at a San Francisco warehouse and must collectively bargain with the workers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjE4MDgwNSwiZXhwIjoxNzgyNzg1NjA1LCJhcnRpY2xlSWQiOiJUSDJCREpLSVAzSVUwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.mjiHx-1cAy7QAnpoPkmZiEH5b4dCMB3WZsvX8OoLHB0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/us-supreme-court-ends-suit-alleging-cisco-helped-china-pursue-falun-gong-2026-06-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "YouTube settles a lawsuit ahead of a second California trial over social media harms to minors; Meta, TikTok, and Snap remain defendants",
+        "excerpt": "",
+        "url": "https://www.courthousenews.com/youtube-settles-upcoming-bellwether-trial-over-social-medias-psychological-harms-to-kids/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Walmart acquires Vibe.co, which lets businesses create and buy ads on CTVs, sources say for $1.4B cash; top executives get $180M to stay for four years",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/retail/walmart-in-biggest-deal-in-two-years-buys-advertising-tech-firm-ccd6c03b",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Miami-based cybersecurity company Varonis is exploring options including a potential sale after receiving takeover interest; VRNS jumps 6%+",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/cyber-firm-varonis-is-said-to-weigh-sale-after-takeover-interest",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "venture capital": [
+      {
+        "title": "How Sam Altman's 80+ personal investments, many from his time running YC, benefit from ties to OpenAI; 10+ companies have discussed business deals with OpenAI",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9?st=pRbVTU&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Menlo raised $3B for funds dedicated to backing AI startups, its largest fundraising to date; sources say Menlo's Anthropic stake is currently worth nearly $14B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Abu Dhabi's MGX has raised close to $50B from regional sovereign wealth funds, global pension funds, and others to accelerate spending on AI deals",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: Hadrian, which is building AI-powered factories to produce space and defense parts, is in talks to raise ~$1B at a ~$7.5B post-money valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/startup-hadrian-has-discussed-new-funding-at-7-5-billion-value",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Stark, which has a deal to supply “kamikaze” drones to the German military, raised €500M from Founders Fund, Sequoia, others; it faced criticism over Thiel ties",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/b4ad236f-de4b-4ca3-a028-9575d0e61895",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New York-based crypto analytics startup Allium raised a $40M Series B led by Amplify Partners, with participation from Kleiner Perkins and others",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/23/allium-series-b-amplify-partners-crypto-analytics-startups/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Micron and Sandisk led a tech selloff on Tuesday, falling more than 13%; Western Digital fell 8%, Marvell 9%, Seagate 5%, Qualcomm 8%, and Applied Materials 8%",
+        "excerpt": "",
+        "url": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "South Korea's tech-heavy Kospi index falls 10%, dragged down by SK Hynix and Samsung; STMicro, ASML, and others fall ~7%, and US tech and chip stocks drop",
+            "url": "https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Tencent is negotiating exits from minority investments in game studios in Japan, such as Tokyo-traded Marvelous, as it reassesses its global portfolio",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjE5MDg0NywiZXhwIjoxNzgyNzk1NjQ3LCJhcnRpY2xlSWQiOiJUR1IxWFVWVFREMzAwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.xGCre2KetKiKP_qCz0QPkrUEpRVfvKRD-Ttymw8W4rs&leadSource=uverify%20wall",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Top500: China's Arm-based LineShine passes the US' El Capitan by 20%+ as the world's fastest supercomputer, the first time China has taken the crown since 2017",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html?unlocked_article_code=1.sVA.R86p.BdO8z5eHWUmU&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: SpaceX, which is seeking to raise between $20B and $25B in its debut US bond sale, has drawn about $89B of demand",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The FCC says an auction of wireless mid-band spectrum raised $3.5B+, which will largely be used to fund the replacement of Chinese telecom equipment in the US",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/us-spectrum-auction-raises-35-billion-will-fund-replacing-chinese-telecom-2026-06-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Syntun: online sales during China's 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth in 2025, as China's consumer spending slowdown persists",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The EU will apply a €3 duty on items under €150 from July 1, as the bloc seeks to slow the flood of low-priced merchandise from retailers like Shein and Temu",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 38
+  }
+}

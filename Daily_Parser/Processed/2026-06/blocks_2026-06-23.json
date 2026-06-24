@@ -1,0 +1,429 @@
+{
+  "date": "2026-06-23",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Sources: Meta is building a standalone prediction markets app called Arena, which would probably rely on video game-like points instead of money wagers",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html?unlocked_article_code=1.sVA.S8Cw.w-vIeTlfjE3Q&smid=url-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers",
+      "excerpt": "",
+      "url": "https://www.zdnet.com/article/anthropic-claude-tag-agentic-ai-coworker-slack/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "OpenAI debuts at Cannes Lions, pitching its new ChatGPT ad business and Codex to marketers, as it tries to build a multibillion-dollar business ahead of its IPO",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/9717a042-fd09-4d08-972d-29b68f7985a4",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html?unlocked_article_code=1.sVA.XtUM.QDhlBQ_ea8X3&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/bytedance-unveils-seedance-2-5-video-model",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages",
+      "excerpt": "",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Google plans a 12-week incubator, picking 10 to 20 AI startups from its “Xoogler” alumni and providing up to $350K in cloud credits and $100K in direct funding",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Beehiiv adds Cloudflare AI Crawl Control to writers' dashboards, allowing them to decide whether AI crawlers can scrape their work",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/06/23/beehiiv-adds-cloudflare-ai-crawl-control-writers-can-block-allow-bots/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Q&A with Nvidia VP of Healthcare Kimberly Powell on how AI can ease doctors' workloads, address trained medical staff shortages, improve patient care, and more",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/d82f357a-89f6-41e4-930c-00b52a2a5df9",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Eli Lilly plans to use some of its $7.3B cash pile to fund an “App Store” for biotech scientists, after opening a data center with 1,016 Blackwell chips in 2025",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/d524396a-4986-46e9-9a93-a982e330d157",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings",
+      "excerpt": "",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "How the data center boom is exposing weaknesses in US power grids, and a look at what fixes the electricity infrastructure may need to become fit for the future",
+      "excerpt": "",
+      "url": "https://worksinprogress.co/issue/why-american-data-centers-cant-plug-in/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "The Netherlands joins the US-led Pax Silica initiative alongside South Korea and Japan to coordinate AI supply chains; Taiwan endorses it as a non-signatory",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/china/netherlands-join-us-led-pax-silica-ai-initiative-despite-asml-dispute-2026-06-23/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Market intelligence company Klue confirms it has suffered a breach, for which cybercrime group Icarus takes credit; Jamf, HackerOne, and others are affected",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London",
+      "excerpt": "",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China's military, says the decision is a violation of constitutional due process",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/alibaba-sues-the-us-seeking-removal-from-pentagon-s-blacklist",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "A US NLRB judge rules that Amazon violated federal law by not recognizing Teamsters at a San Francisco warehouse and must collectively bargain with the workers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjE4MDgwNSwiZXhwIjoxNzgyNzg1NjA1LCJhcnRpY2xlSWQiOiJUSDJCREpLSVAzSVUwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.mjiHx-1cAy7QAnpoPkmZiEH5b4dCMB3WZsvX8OoLHB0",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/us-supreme-court-ends-suit-alleging-cisco-helped-china-pursue-falun-gong-2026-06-23/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "YouTube settles a lawsuit ahead of a second California trial over social media harms to minors; Meta, TikTok, and Snap remain defendants",
+      "excerpt": "",
+      "url": "https://www.courthousenews.com/youtube-settles-upcoming-bellwether-trial-over-social-medias-psychological-harms-to-kids/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Walmart acquires Vibe.co, which lets businesses create and buy ads on CTVs, sources say for $1.4B cash; top executives get $180M to stay for four years",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/retail/walmart-in-biggest-deal-in-two-years-buys-advertising-tech-firm-ccd6c03b",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: Miami-based cybersecurity company Varonis is exploring options including a potential sale after receiving takeover interest; VRNS jumps 6%+",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/cyber-firm-varonis-is-said-to-weigh-sale-after-takeover-interest",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "How Sam Altman's 80+ personal investments, many from his time running YC, benefit from ties to OpenAI; 10+ companies have discussed business deals with OpenAI",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/see-how-sam-altmans-personal-investments-benefit-from-ties-to-openai-9fcb24c9?st=pRbVTU&reflink=desktopwebshare_permalink",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Menlo raised $3B for funds dedicated to backing AI startups, its largest fundraising to date; sources say Menlo's Anthropic stake is currently worth nearly $14B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Sources: Abu Dhabi's MGX has raised close to $50B from regional sovereign wealth funds, global pension funds, and others to accelerate spending on AI deals",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Sources: Hadrian, which is building AI-powered factories to produce space and defense parts, is in talks to raise ~$1B at a ~$7.5B post-money valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/startup-hadrian-has-discussed-new-funding-at-7-5-billion-value",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Stark, which has a deal to supply “kamikaze” drones to the German military, raised €500M from Founders Fund, Sequoia, others; it faced criticism over Thiel ties",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/b4ad236f-de4b-4ca3-a028-9575d0e61895",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "New York-based crypto analytics startup Allium raised a $40M Series B led by Amplify Partners, with participation from Kleiner Perkins and others",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/23/allium-series-b-amplify-partners-crypto-analytics-startups/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Micron and Sandisk led a tech selloff on Tuesday, falling more than 13%; Western Digital fell 8%, Marvell 9%, Seagate 5%, Qualcomm 8%, and Applied Materials 8%",
+      "excerpt": "",
+      "url": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d",
+      "section": "more news"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Sources: Tencent is negotiating exits from minority investments in game studios in Japan, such as Tokyo-traded Marvelous, as it reassesses its global portfolio",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjE5MDg0NywiZXhwIjoxNzgyNzk1NjQ3LCJhcnRpY2xlSWQiOiJUR1IxWFVWVFREMzAwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.xGCre2KetKiKP_qCz0QPkrUEpRVfvKRD-Ttymw8W4rs&leadSource=uverify%20wall",
+      "section": "more news"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation",
+      "excerpt": "",
+      "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+      "section": "more news"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Top500: China's Arm-based LineShine passes the US' El Capitan by 20%+ as the world's fastest supercomputer, the first time China has taken the crown since 2017",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html?unlocked_article_code=1.sVA.R86p.BdO8z5eHWUmU&smid=nytcore-ios-share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Sources: SpaceX, which is seeking to raise between $20B and $25B in its debut US bond sale, has drawn about $89B of demand",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "The FCC says an auction of wireless mid-band spectrum raised $3.5B+, which will largely be used to fund the replacement of Chinese telecom equipment in the US",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/china/us-spectrum-auction-raises-35-billion-will-fund-replacing-chinese-telecom-2026-06-23/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Syntun: online sales during China's 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth in 2025, as China's consumer spending slowdown persists",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "The EU will apply a €3 duty on items under €150 from July 1, as the bloc seeks to slow the flood of low-priced merchandise from retailers like Shein and Temu",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion (4 minute read)",
+      "excerpt": "SpaceX signed a deal worth up to $6.3 billion with Reflection AI for access to its supercomputer Project Colossus. This agreement allows Reflection to use Nvidia GB300s for training open-source AI models, reflecting a shift toward increased demand for compute power in AI development. SpaceX aims to capitalize on this by offering its infrastructure to outside AI companies, bolstering its position in the AI and data center space.",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "OpenAI launches new security tools and updates GPT-5.5-Cyber (2 minute read)",
+      "excerpt": "OpenAI recently launched an updated Codex Security plugin, GPT-5.5-Cyber (in limited release), a Daybreak Cyber Partner Program, and an open source security initiative called Patch the Planet. Daybreak is a defensive cyber stack for the AI era. OpenAI is promoting Daybreak through a partner model rather than direct broad model access. It aims to embed GPT-5.5 with Trusted Access for Cyber into existing security products and services while keeping access governed through partner systems.",
+      "url": "https://www.testingcatalog.com/openai-launches-new-security-tools-and-updates-gpt-5-5-cyber/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away (14 minute read)",
+      "excerpt": "Alibaba's HappyHorse 1.1 AI video generation model delivers production-ready video through an API built for integration into enterprise software stacks. It is now live on Alibaba Cloud Model Studio with a 40% sitewide launch discount for the first two weeks. HappyHorse supports text-to-video, image-to-video, and subject-to-video generation, as well as video editing. Its abilities cover the full spectrum of commercial video needs, from ideation through production to post-production.",
+      "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "The text in Claude Code's “Extended Thinking” output is not authentic (3 minute read)",
+      "excerpt": "Claude Code's 'Extended Thinking' reasoning is encrypted. Anthropic holds the key, and users' machines never receive it. The API returns a summary of the reasoning, and not the reasoning itself. Receiving the full thinking output requires an enterprise agreement.",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Knowledge Agents: Beat Frontier Models with Better Structure (18 minute read)",
+      "excerpt": "Anthropic pulled its Mythos model, while the article's author developed smaller agentic models called \"knowledge agents\" to match larger frontier models. These agents enhance AI by injecting specific, relevant knowledge, performing well even with smaller models like Qwen 3.6 27B. The methodology involves embedding, structuring data, and multiple search passes, successfully augmenting LLMs for specialized queries and proprietary data.",
+      "url": "https://weightythoughts.com/p/knowledge-agents-beat-frontier-models?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "GLM-5.2 Raises the Bar for Open Models (14 minute read)",
+      "excerpt": "TheZvi examined GLM-5.2's capabilities and benchmark results, arguing it represents a significant improvement over previous open models. The analysis positioned it as one of the strongest openly available models while still trailing the leading frontier systems.",
+      "url": "https://thezvi.wordpress.com/2026/06/22/glm-5-2-is-the-new-best-open-model/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Model Size Scaling in 2023-2031 (21 minute read)",
+      "excerpt": "Targeting a particular speed of token generation puts a constraint on the total parameters of the model. If there isn't enough pretraining compute, models will remain smaller. This article looks at these considerations and estimates model sizes feasible for each year between 2023 and 2031. There are many assumptions that go into the estimates, which predict total parameters for models to reach 1.4 quadrillion in 2031.",
+      "url": "https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Moebius (4 minute read)",
+      "excerpt": "Moebius is a highly efficient lightweight inpainting framework. The 0.22B model rivals and even surpasses the generation quality of the 11.9B industrial generalist FLUX.1-Fill-Dev. It does this with an under 15x acceleration in total inference time. Moebius liberates real-world image inpainting and AI object removal from parameter bloat.",
+      "url": "https://hustvl.github.io/Moebius/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Using Codex for Long-Running Projects (18 minute read)",
+      "excerpt": "This guide outlines strategies for treating Codex as a persistent workspace that can maintain context across extended projects. It covers workflow management, task decomposition, and techniques for balancing autonomous execution with human oversight.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)",
+      "excerpt": "We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Loop Engineering Clearly Explained (7 minute read)",
+      "excerpt": "Loop engineering shifts AI development from manually prompting agents to designing autonomous systems that decide what to work on, execute tasks, verify outcomes, and improve over time. The core agent loop is simple, but the hard problems are defining reliable stopping conditions, preventing context rot, designing agent-friendly tools, and building verification mechanisms that can independently judge success.",
+      "url": "https://x.com/akshay_pachaar/status/2069118430582866051?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "Anthropic says Claude may want to see your ID (4 minute read)",
+      "excerpt": "Anthropic may require identity verification in certain circumstances starting on July 8. The company has not provided specific examples of when users will be asked to provide government-issued documents. An Anthropic spokesperson claims that the change will only apply to a small subset of users whose accounts are flagged but not outright banned. Anthropic uses Persona as its identity-checking provider.",
+      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "claude-sonnet-5 (1 minute read)",
+      "excerpt": "The slug 'claude-sonnet-5' has appeared on an Anthropic partner provider.",
+      "url": "https://x.com/synthwavedd/status/2068701837427974655?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Anthropic prepares Cowork support for mobile apps (2 minute read)",
+      "excerpt": "Anthropic plans to expand its Cowork system to mobile apps, enabling task scheduling and viewing across devices.",
+      "url": "https://www.testingcatalog.com/anthropic-prepares-cowork-support-for-mobile-apps/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Tencent tests AI assistant in China's most popular app as it looks to catch up with rivals (3 minute read)",
+      "excerpt": "Tencent is testing Xiaowei, an AI assistant, within WeChat to enhance user interaction and challenge AI competitors like Alibaba in China.",
+      "url": "https://www.cnbc.com/2026/06/22/tencent-ai-assistant-wechat-china.html?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}
