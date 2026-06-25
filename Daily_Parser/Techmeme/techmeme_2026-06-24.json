@@ -1,0 +1,428 @@
+{
+  "date": "2026-06-24",
+  "sections": {
+    "top news": [
+      {
+        "title": "OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models",
+        "excerpt": "",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "tweets": [
+          {
+            "author": "@benbajarin",
+            "text": "Remember my mantra, yes this is an intentional play on Alan Kay's quote. Those serious about platforms should be serious about silicon.",
+            "url": "https://x.com/benbajarin/status/2069772012214530302"
+          },
+          {
+            "author": "@gdb",
+            "text": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
+            "url": "https://x.com/gdb/status/2069809298612621629"
+          },
+          {
+            "author": "@andrewcurran_",
+            "text": "OpenAI built their own chip - the Jalapeño - designed for inference.  They did it in just nine months.  Quoting from the blog: 'OpenAI designed the chip from scratch around its deep understanding of LLM fundamentals, informed by its roadmap of models, kernels, serving systems, and product needs, with partners Broadcom and Celestica, helping industrialize the platform through chip implementation, board, rack system integration, high-performance networking, and scalable production systems.",
+            "url": "https://x.com/andrewcurran_/status/2069772270978146561"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Qualcomm says it will acquire Modular, which builds a chip software platform and has a proprietary coding language, in a nearly $4B deal set to close in H2 2026",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+        "tweets": [
+          {
+            "author": "@modular",
+            "text": "We're excited to announce that Modular has entered an agreement to be acquired by @Qualcomm. The future of unified compute has never been stronger. Read the full announcement:",
+            "url": "https://x.com/modular/status/2069752882048745665"
+          },
+          {
+            "author": "@ryanshrout",
+            "text": "This a great move for @Qualcomm. Not only does it get a great software platform that is legitimately one of the best for workload disaggregation, but also gets one of the best minds in AI software as part of the deal. Can't wait to hear what the company says about this today.",
+            "url": "https://x.com/ryanshrout/status/2069766817698983974"
+          },
+          {
+            "author": "@clattner_llvm",
+            "text": "I'm excited to share that Qualcomm is acquiring Modular: this will accelerate our path to unifying accelerated compute with an open platform. This will also mark a new era in open software development for Qualcomm. 👇",
+            "url": "https://x.com/clattner_llvm/status/2069769232477192354"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: Qualcomm is in talks to design custom chips for ByteDance, based partly on connectivity tech from Alphawave Semi, which Qualcomm acquired in June 2025",
+            "url": "https://www.reuters.com/world/china/qualcomm-talks-provide-custom-chip-design-services-bytedance-sources-say-2026-06-24/"
+          },
+          {
+            "title": "Qualcomm unveils Dragonfly C1000, a new data center CPU built for agentic AI, and says Meta will use the chip when production starts in 2028",
+            "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html"
+          },
+          {
+            "title": "Qualcomm expects $15B in data center chip sales by 2029, raises its non-handset chip revenue forecast to $40B by 2029, up from $22B; QCOM jumps 13%+ after hours",
+            "url": "https://www.reuters.com/business/retail-consumer/qualcomm-bets-ai-chips-break-smartphone-reliance-faces-crowded-race-2026-06-24/"
+          }
+        ]
+      },
+      {
+        "title": "Alex Bores, a New York congressional candidate who argued for AI safeguards, lost to Micah Lasher in the Democratic primary that had millions in AI PAC spending",
+        "excerpt": "",
+        "url": "https://www.nbcnews.com/politics/2026-election/new-york-house-district-12-democrat-primary-winner-lasher-rcna351424",
+        "tweets": [
+          {
+            "author": "@alexbores",
+            "text": "This campaign may be over, but the battles we took on are just beginning. Thank you, New York. Onward. [image]",
+            "url": "https://x.com/alexbores/status/2069624407417336017"
+          },
+          {
+            "author": "@teddyschleifer",
+            "text": "Alex Bores on the AI industry fighting him: “I didn't get in this race to make a point about AI.  But some of the most powerful people on the planet — a handful of oligarchs hellbent on preventing any regulation of their industry whatsoever, any check on their power, the very people who are fueling Donald Trump — decided they wanted to make me an example in this race.”  “This was a huge and unprecedented fight, and we did not back down.”  “Future victories will be built on the shoulders of the progress of this campaign.  That's how movements work.”",
+            "url": "https://x.com/teddyschleifer/status/2069607227657208281"
+          },
+          {
+            "author": "@mirandanazzaro",
+            "text": "Breaking: Alex Bores loses to Micah Lasher, capping off the second most expensive House primary in history. Nearly $28 million was spent in support/ against Bores in what became a proxy war between AI safety groups & industry.",
+            "url": "https://x.com/mirandanazzaro/status/2069605564355620893"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Utah Senate President J. Stuart Adams, who championed a huge data center beside the Great Salt Lake, lost his Republican primary on Tuesday after voter backlash",
+            "url": "https://www.nytimes.com/2026/06/24/us/j-stuart-adams-utah-senate-data-center.html?unlocked_article_code=1.slA.cczz.aovAsxmVCRzC&smid=bs-share"
+          }
+        ]
+      },
+      {
+        "title": "Rockstar says GTA VI will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight local time on June 25, ahead of the November 19 launch",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/952204/grand-theft-auto-vi-price",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Rockstar says physical copies of GTA VI will contain a download code, not a disc, and be available starting November 12, when players can begin pre-loading",
+            "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box"
+          }
+        ]
+      },
+      {
+        "title": "Sources: the NSA was red-teaming with Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos can identify flaws in classified systems",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html?unlocked_article_code=1.sVA.Xgol.aUCRzN6jvdv-&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: the Trump administration has been happier talking to Anthropic lately after Dario Amodei was replaced by cofounder Tom Brown in meetings about Fable 5",
+            "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft's Digital Crimes Unit says AI helped it link two separate hacking tools, Amadey and StealC, and file a single civil lawsuit to help take them down",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "An analysis of GPT-5.5, Gemini 3.1 Pro, Grok 4.3, Gab's Arya, and other AI models: most chatbots frequently provide left-leaning responses to political prompts",
+        "excerpt": "",
+        "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzgyMjczNjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzgzNjU1OTk5LCJpYXQiOjE3ODIyNzM2MDAsImp0aSI6ImE3MjhkMjcwLTU0YzEtNDc1MC1iZDRkLWUzMGNkMmYzY2ViYiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5L2ludGVyYWN0aXZlLzIwMjYvMDYvMjQvYXJlLWFpLWNoYXRib3RzLWxpa2UtY2hhdGdwdC1wb2xpdGljYWxseS1iaWFzZWQtd2UtdGVzdGVkLXRoZW0vIn0.vsjwjRBTCHC3QZqGNijOg1lxlu58uPqh21g9fv8OgYM&itid=gfta",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Google AI researchers Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Gemini, are planning to leave for Anthropic",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform",
+        "excerpt": "",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is “China's version of Mythos”, and Yitianzhen, to automate cyber defense",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI creative tools startup Krea, which has raised $83M and claims it has 30M+ users, releases the open weights for its Krea 2 image models under a custom license",
+        "excerpt": "",
+        "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Q&A with AWS CEO Matt Garman on the parallels between early AWS and AI, Quick, AI coding, Amazon's $200B capex in 2026, entry-level jobs changing, and more",
+        "excerpt": "",
+        "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Filing: SK Hynix is seeking to raise ~$29.4B in a US listing, expects trading to start on July 10, and intends to use the funds to build additional capacity",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "SK Hynix overtaking Samsung to become South Korea's most valuable company is the culmination of 14 years of bets on HBM, which paid off as the AI boom took off",
+            "url": "https://www.reuters.com/world/asia-pacific/how-sk-hynixs-bet-niche-memory-chip-made-it-more-valuable-than-samsung-2026-06-24/"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Zhipu is considering a multibillion-dollar Hong Kong share sale after its stock surged ~2,000% since its January IPO, pushing its market cap to $128B+",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Humanoid robot maker Agility plans to go public via a merger with Michael Klein's SPAC, in a deal valuing Agility at ~$2.5B, listing under ticker symbol AGLT",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32?st=TwcETY&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Customer engagement service MoEngage acquires Aampe, whose AI agents help brands personalize messaging, for “tens of millions”, per a source; Aampe raised ~$28M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "prediction markets": [
+      {
+        "title": "Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Documents: Meta's planned prediction markets app will use Meta AI models to generate questions from trending topics, make recommendations, and resolve markets",
+        "excerpt": "",
+        "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "e-commerce": [
+      {
+        "title": "Amazon plans to expand Amazon Now to 300+ Indian cities and towns, up from 100 at present, as CEO Andy Jassy visits India; a source says he is set to meet Modi",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/amazon-ramps-up-india-fast-commerce-push-to-take-on-local-rivals",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, and orders on the platform have grown ~400% YoY",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/intel-backed-ai-chip-firm-sambanova-quintuple-valuation-10-billion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year's end",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/a19f5112-2434-4c2b-b1b4-b38cc6f6aa14",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay Capital and Bain Capital",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/u-s-backed-chipmaking-startup-chaired-former-intel-ceo-raising-350-million",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $110M Series C led by Goldman Sachs, and plans a São Paulo office",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "RunPod, which rents access to non-Nvidia servers, raised $100M led by Summit Partners at a $1B valuation, a source says up from $100M after its seed in 2024",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/cloud-startup-runpod-raises-100-million-says-turned-buyout-offers",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Trase, which is building an operating system and infrastructure layer for AI agents in industries like health care and defense, raised a $107M seed led by Arch",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/health-tech-deals/2026/06/24/trase-107-million-health-care-defense-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "XCures, which uses AI to streamline patient data and medical records, raised a $46M Series B at a $127M post-money valuation, bringing its total funding to $76M",
+        "excerpt": "",
+        "url": "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Isometric, which develops AI agents that work with human verifiers to automate industrial certification, raised a €34M Series A led by AVP",
+        "excerpt": "",
+        "url": "https://www.eu-startups.com/2026/06/londons-isometric-lands-e34-million-to-scale-certification-platform-for-industrial-markets/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New York-based Probook, which is building an AI operating system for home service businesses, raised a $34M Series A led by a16z and a $6M seed led by Sequoia",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/andreessen-horowitz-backs-compute-marketplace-ornn-in-seed-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Runlayer, which provides an infrastructure and control layer for enterprise AI agents, raised a $30M Series A led by Felicis, bringing its total funding to $42M",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Seltz, which is building a web search engine that can be used by AI agents, raised a $12.5M seed led by Speedinvest and B Capital",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/24/exclusive-seltz-a-startup-rebuilding-web-search-for-ai-agents-raises-12-5-million-in-seed-funding/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Binance says it will make a fresh push for permission to operate in the EU after its MiCA license application in Greece failed ahead of the June 30 deadline",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/binance-vows-stay-europe-despite-licence-setback-2026-06-24/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nature publishes a peer-reviewed paper alleging that Microsoft's 2025 quantum breakthrough claims were based on “basic Python errors” and data cherry-picking",
+        "excerpt": "",
+        "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/chicago-missed-the-tech-boom-quantum-computing-gives-it-a-second-chance-0b34d116?st=bAQmw2&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests",
+        "excerpt": "",
+        "url": "https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with Bob Iger on stepping down as Disney's CEO, his legacy, new CEO Josh D'Amaro, Bob Chapek, Apple, Disney+, acquiring Pixar, AI tools, and more",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/460389f9-3d72-4fed-9dd4-bbc3209c88b0?accessToken=zwAAAZ7sZ_7bkc9GA4n5PXJP7dOd1LvDIJyIsA.MEUCIFF-7sXNupew832SnEt8AF6eTLiFPHNiTM3QGbJJ0nqCAiEAihcCVrFLzlv8h-w7EMFt0s718Y5FQsTetNvHLx6DAdc&sharetype=gift&token=4fbd3cbc-8e80-421a-bc5e-91ebfbc8277b&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google Home Speaker review: the $100 speaker, the company's first such device in six years, works for Gemini power users but has underwhelming music playback",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Micron reports Q3 revenue up 346% YoY to $41.46B, vs. $35.84B est., gross margin above estimates, and forecasts Q4 revenue above est.; MU jumps 14%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: prices for Nvidia's AI chips on China's black market have more than doubled amid a US export crackdown; its DGX B300 server went from ~$550K to ~$1.1M",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69?accessToken=zwAAAZ-QRWuPktO38lyignxA-dOrGlcGfY7JDc9X_NPORk9NwtOOolcS1JcsaQE.MEYCIQD9A3_aiQI3TVtoK2Shb0EgtTRJjhqcqjz6AFNaQIJNSwIhAM1E8lqxlcAh3KrFN_mnk1pMnSXAHotG353LQfKo7KNF&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US FDA drops an enforcement complaint against Whoop over its blood pressure tracking tool, reversing a July 2025 warning letter; Whoop is modifying the tool",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-23/fda-drops-complaint-against-whoop-s-blood-pressure-tracking-tool",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: India drives 50%+ of WhatsApp's global revenue, or $1B+ annually, largely via business messaging, which likely helped Kunal Shah get WhatsApp's top job",
+        "excerpt": "",
+        "url": "https://www.moneycontrol.com/technology/how-whatsapp-s-billion-dollar-india-business-influenced-meta-s-bet-on-kunal-shah-article-13957308.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Taiwan's Hsinchu Science Park, home to TSMC, became especially wealthy; one neighborhood reported 2023 average household incomes of $146K+, ~5x the average",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html?unlocked_article_code=1.slA.fkwx._NKaMAi38p9M&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 46
+  }
+}

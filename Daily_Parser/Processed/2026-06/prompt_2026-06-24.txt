@@ -1,0 +1,276 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models
+Tweets:
+  - Author: @benbajarin
+    Text: Remember my mantra, yes this is an intentional play on Alan Kay's quote. Those serious about platforms should be serious about silicon.
+    Link ID: TM-01-TW-01
+  - Author: @gdb
+    Text: Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.
+    Link ID: TM-01-TW-02
+  - Author: @andrewcurran_
+    Text: OpenAI built their own chip - the Jalapeño - designed for inference.  They did it in just nine months.  Quoting from the blog: 'OpenAI designed the chip from scratch around its deep understanding of LLM fundamentals, informed by its roadmap of models, kernels, serving systems, and product needs, with partners Broadcom and Celestica, helping industrialize the platform through chip implementation, board, rack system integration, high-performance networking, and scalable production systems.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Qualcomm says it will acquire Modular, which builds a chip software platform and has a proprietary coding language, in a nearly $4B deal set to close in H2 2026
+Tweets:
+  - Author: @modular
+    Text: We're excited to announce that Modular has entered an agreement to be acquired by @Qualcomm. The future of unified compute has never been stronger. Read the full announcement:
+    Link ID: TM-02-TW-01
+  - Author: @ryanshrout
+    Text: This a great move for @Qualcomm. Not only does it get a great software platform that is legitimately one of the best for workload disaggregation, but also gets one of the best minds in AI software as part of the deal. Can't wait to hear what the company says about this today.
+    Link ID: TM-02-TW-02
+  - Author: @clattner_llvm
+    Text: I'm excited to share that Qualcomm is acquiring Modular: this will accelerate our path to unifying accelerated compute with an open platform. This will also mark a new era in open software development for Qualcomm. 👇
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Sources: Qualcomm is in talks to design custom chips for ByteDance, based partly on connectivity tech from Alphawave Semi, which Qualcomm acquired in June 2025
+    Link ID: TM-02-SUB-01
+  - Title: Qualcomm unveils Dragonfly C1000, a new data center CPU built for agentic AI, and says Meta will use the chip when production starts in 2028
+    Link ID: TM-02-SUB-02
+  - Title: Qualcomm expects $15B in data center chip sales by 2029, raises its non-handset chip revenue forecast to $40B by 2029, up from $22B; QCOM jumps 13%+ after hours
+    Link ID: TM-02-SUB-03
+---
+ID: TM-03
+Title: Alex Bores, a New York congressional candidate who argued for AI safeguards, lost to Micah Lasher in the Democratic primary that had millions in AI PAC spending
+Tweets:
+  - Author: @alexbores
+    Text: This campaign may be over, but the battles we took on are just beginning. Thank you, New York. Onward. [image]
+    Link ID: TM-03-TW-01
+  - Author: @teddyschleifer
+    Text: Alex Bores on the AI industry fighting him: “I didn't get in this race to make a point about AI.  But some of the most powerful people on the planet — a handful of oligarchs hellbent on preventing any regulation of their industry whatsoever, any check on their power, the very people who are fueling Donald Trump — decided they wanted to make me an example in this race.”  “This was a huge and unprecedented fight, and we did not back down.”  “Future victories will be built on the shoulders of the progress of this campaign.  That's how movements work.”
+    Link ID: TM-03-TW-02
+  - Author: @mirandanazzaro
+    Text: Breaking: Alex Bores loses to Micah Lasher, capping off the second most expensive House primary in history. Nearly $28 million was spent in support/ against Bores in what became a proxy war between AI safety groups & industry.
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Utah Senate President J. Stuart Adams, who championed a huge data center beside the Great Salt Lake, lost his Republican primary on Tuesday after voter backlash
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: Rockstar says GTA VI will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight local time on June 25, ahead of the November 19 launch
+Sub Items:
+  - Title: Rockstar says physical copies of GTA VI will contain a download code, not a disc, and be available starting November 12, when players can begin pre-loading
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Sources: the NSA was red-teaming with Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos can identify flaws in classified systems
+Sub Items:
+  - Title: Sources: the Trump administration has been happier talking to Anthropic lately after Dario Amodei was replaced by cofounder Tom Brown in meetings about Fable 5
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: Microsoft's Digital Crimes Unit says AI helped it link two separate hacking tools, Amadey and StealC, and file a single civil lawsuit to help take them down
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-07
+Title: An analysis of GPT-5.5, Gemini 3.1 Pro, Grok 4.3, Gab's Arya, and other AI models: most chatbots frequently provide left-leaning responses to political prompts
+---
+ID: TM-08
+Title: Sources: Google AI researchers Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Gemini, are planning to leave for Anthropic
+---
+ID: TM-09
+Title: Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform
+---
+ID: TM-10
+Title: Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is “China's version of Mythos”, and Yitianzhen, to automate cyber defense
+---
+ID: TM-11
+Title: Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts
+---
+ID: TM-12
+Title: AI creative tools startup Krea, which has raised $83M and claims it has 30M+ users, releases the open weights for its Krea 2 image models under a custom license
+---
+ID: TM-13
+Title: Q&A with AWS CEO Matt Garman on the parallels between early AWS and AI, Quick, AI coding, Amazon's $200B capex in 2026, entry-level jobs changing, and more
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-14
+Title: Filing: SK Hynix is seeking to raise ~$29.4B in a US listing, expects trading to start on July 10, and intends to use the funds to build additional capacity
+Sub Items:
+  - Title: SK Hynix overtaking Samsung to become South Korea's most valuable company is the culmination of 14 years of bets on HBM, which paid off as the AI boom took off
+    Link ID: TM-14-SUB-01
+---
+ID: TM-15
+Title: Sources: Zhipu is considering a multibillion-dollar Hong Kong share sale after its stock surged ~2,000% since its January IPO, pushing its market cap to $128B+
+---
+ID: TM-16
+Title: Humanoid robot maker Agility plans to go public via a merger with Michael Klein's SPAC, in a deal valuing Agility at ~$2.5B, listing under ticker symbol AGLT
+---
+
+[CATEGORY: M&A]
+ID: TM-17
+Title: Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+
+---
+ID: TM-18
+Title: Customer engagement service MoEngage acquires Aampe, whose AI agents help brands personalize messaging, for “tens of millions”, per a source; Aampe raised ~$28M
+---
+
+[CATEGORY: PREDICTION MARKETS]
+ID: TM-19
+Title: Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May
+---
+ID: TM-20
+Title: Documents: Meta's planned prediction markets app will use Meta AI models to generate questions from trending topics, make recommendations, and resolve markets
+---
+
+[CATEGORY: E-COMMERCE]
+ID: TM-21
+Title: Amazon plans to expand Amazon Now to 300+ Indian cities and towns, up from 100 at present, as CEO Andy Jassy visits India; a source says he is set to meet Modi
+---
+ID: TM-22
+Title: Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, and orders on the platform have grown ~400% YoY
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-23
+Title: SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February
+---
+ID: TM-24
+Title: Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year's end
+---
+ID: TM-25
+Title: xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay Capital and Bain Capital
+---
+ID: TM-26
+Title: NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $110M Series C led by Goldman Sachs, and plans a São Paulo office
+---
+ID: TM-27
+Title: RunPod, which rents access to non-Nvidia servers, raised $100M led by Summit Partners at a $1B valuation, a source says up from $100M after its seed in 2024
+---
+ID: TM-28
+Title: Trase, which is building an operating system and infrastructure layer for AI agents in industries like health care and defense, raised a $107M seed led by Arch
+---
+ID: TM-29
+Title: XCures, which uses AI to streamline patient data and medical records, raised a $46M Series B at a $127M post-money valuation, bringing its total funding to $76M
+---
+ID: TM-30
+Title: London-based Isometric, which develops AI agents that work with human verifiers to automate industrial certification, raised a €34M Series A led by AVP
+---
+ID: TM-31
+Title: Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M
+---
+ID: TM-32
+Title: New York-based Probook, which is building an AI operating system for home service businesses, raised a $34M Series A led by a16z and a $6M seed led by Sequoia
+---
+ID: TM-33
+Title: Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z
+---
+ID: TM-34
+Title: Runlayer, which provides an infrastructure and control layer for enterprise AI agents, raised a $30M Series A led by Felicis, bringing its total funding to $42M
+---
+ID: TM-35
+Title: Seltz, which is building a web search engine that can be used by AI agents, raised a $12.5M seed led by Speedinvest and B Capital
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-36
+Title: Binance says it will make a fresh push for permission to operate in the EU after its MiCA license application in Greece failed ahead of the June 30 deadline
+---
+ID: TM-37
+Title: Nature publishes a peer-reviewed paper alleging that Microsoft's 2025 quantum breakthrough claims were based on “basic Python errors” and data cherry-picking
+---
+ID: TM-38
+Title: How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution
+---
+ID: TM-39
+Title: Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests
+---
+ID: TM-40
+Title: An interview with Bob Iger on stepping down as Disney's CEO, his legacy, new CEO Josh D'Amaro, Bob Chapek, Apple, Disney+, acquiring Pixar, AI tools, and more
+---
+ID: TM-41
+Title: Google Home Speaker review: the $100 speaker, the company's first such device in six years, works for Gemini power users but has underwhelming music playback
+---
+ID: TM-42
+Title: Micron reports Q3 revenue up 346% YoY to $41.46B, vs. $35.84B est., gross margin above estimates, and forecasts Q4 revenue above est.; MU jumps 14%+ after hours
+---
+ID: TM-43
+Title: Sources: prices for Nvidia's AI chips on China's black market have more than doubled amid a US export crackdown; its DGX B300 server went from ~$550K to ~$1.1M
+---
+ID: TM-44
+Title: The US FDA drops an enforcement complaint against Whoop over its blood pressure tracking tool, reversing a July 2025 warning letter; Whoop is modifying the tool
+---
+ID: TM-45
+Title: Sources: India drives 50%+ of WhatsApp's global revenue, or $1B+ annually, largely via business messaging, which likely helped Kunal Shah get WhatsApp's top job
+---
+ID: TM-46
+Title: How Taiwan's Hsinchu Science Park, home to TSMC, became especially wealthy; one neighborhood reported 2023 average household incomes of $146K+, ~5x the average
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Mistral OCR 4: SOTA OCR for Document Intelligence (9 minute read)
+Excerpt: Mistral released OCR 4, a document intelligence tool providing structured content extraction, including bounding boxes and confidence scores. It supports 170 languages, is deployable in a single container, and integrates into enterprise search and structured data pipelines. OCR 4 outperforms other systems with a 4x speed advantage and high accuracy, especially with low-resource languages.
+---
+ID: TL-02
+Title: Claude Tag (2 minute read)
+Excerpt: Anthropic introduced Claude Tag, a Slack-based workflow that lets teams assign tasks to Claude, connect it to tools and codebases, and have it retain context across channels. The company said the system had become a core part of internal operations, with its product team using it to generate much of their code and assist with analytics, support, and debugging tasks.
+---
+ID: TL-03
+Title: ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt (2 minute read)
+Excerpt: ByteDance's new Seedance 2.5 AI video generation model can generate 30-second, 4K videos with a single prompt. Users are able to provide up to 50 images, videos, or audio clips as reference pieces. Increasing the number of references gives users more control over the video creation process. The model will be available in China next month. ByteDance has not announced a release time window for other countries.
+---
+ID: TL-04
+Title: Insights on Indirect Prompt Injection (12 minute read)
+Excerpt: This deep dive explores the growing focus on jailbreaks and indirect prompt injection attacks, featuring insights from Gray Swan's founders and their research. It also covered the company's role in evaluating advanced AI systems and developing security benchmarks.
+---
+ID: TL-05
+Title: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness (16 minute read)
+Excerpt: CUGA, IBM's open-source agent harness, simplifies developing agentic apps by managing the complexities of planning, execution, and state management, allowing developers to focus on tool selection and prompts. CUGA's efficient system maintains state and corrects errors, outperforming others in benchmarks like AppWorld. Its unique features include configurable reasoning modes and integrated policy systems, enabling quick deployment from development to production while maintaining governance and flexibility.
+---
+ID: TL-06
+Title: How Businesses Are Building Specialized AI They Can Trust (3 minute read)
+Excerpt: NVIDIA's Agent Toolkit empowers businesses to build specialized, customizable AI agents using open models, tools, skills, and secure runtime. These agents accelerate complex workflows across industries like life sciences, healthcare, cybersecurity, and industrial operations by integrating with existing tools and data. Companies like Cadence, Synopsys, and CrowdStrike are leveraging this technology to enhance efficiency and accuracy in specific domains.
+---
+ID: TL-07
+Title: Prompt Injection as Role Confusion (17 minute read)
+Excerpt: Modern large language models use role tags as both a security architecture and cognitive scaffolding. Prompt injections are driven by a flaw in how AI models perceive roles. For LLMs, everything arrives through the same channel as one long token soup, so they can't distinguish between their own thoughts and speech. Unless AI models achieve genuine role perception, injection defense will remain a perpetual whack-a-mole game.
+---
+ID: TL-08
+Title: Graphsignal (GitHub Repo)
+Excerpt: Graphsignal is a production-scale inference profiling platform that provides essential visibility across the inference stack. It helps engineers optimize AI performance across models, engines, GPUs, and other accelerators. Graphsignal can be used with coding agents for analysis. The profiler has minimal impact on production performance, and content data is not recorded.
+---
+ID: TL-09
+Title: Krea 2 Technical Report (59 minute read)
+Excerpt: Krea 2 introduces expansive, expressive image generation models designed for creative exploration, overcoming limitations of default aesthetics. It employs a multi-stage training process with advanced architectures and extensive data curation to enhance stylistic diversity and user control. Key innovations include a prompt expander and style-reference system, allowing nuanced text and image inputs to generate diverse visual outputs.
+---
+ID: TL-10
+Title: Unlimited OCR Works (GitHub Repo)
+Excerpt: Unlimited OCR is a model designed to emulate human parsing working memory. It uses DeepSeek OCR as a baseline and combines it with a constant KV cache design. Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. The technique used to develop Unlimited OCR is equally applicable to tasks such as ASR and translation.
+---
+ID: TL-11
+Title: TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)
+Excerpt: We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.
+---
+ID: TL-12
+Title: OpenAI prepares bidirectional voice mode for rollout on ChatGPT (2 minute read)
+Excerpt: OpenAI has started rolling out Bidirectional Voice Mode for ChatGPT. The company's new audio generation model, Bidi 1, lets the assistant speak, hear, and listen at the same time. It is able to hold the thread of a whole conversation and switch tasks on the fly if interrupted. The model can sing and beatbox, but there are some tight copyright restrictions. OpenAI has yet to make a formal announcement about the model, but some users are already seeing it in their model selectors.
+---
+ID: TL-13
+Title: US Presses Meta to Agree to AI Reviews as Security Concerns Rise (6 minute read)
+Excerpt: The Trump administration is pressing Meta to submit its AI models for voluntary review. Meta is the only major AI developer in the US that has not reached an agreement to voluntarily share its models with the federal government for review. The review involved evaluating models' abilities and vulnerabilities. Meta's policy team has been negotiating with the Commerce Department about how to proceed, but it is unclear whether they will be able to reach an agreement.
+---
+ID: TL-14
+Title: Fluree DB (GitHub Repo)
+Excerpt: Fluree DB is a graph database for data with integrated vector, text, and geo search.
+---
+ID: TL-15
+Title: Introducing Engram: Scaling Compute on Your Context (4 minute read)
+Excerpt: Engram is building AI models that continuously learn from a user's private context, such as documents, chats, code, and knowledge bases, instead of repeatedly rereading the same information in every session.
+---
+ID: TL-16
+Title: A New Era of Software Quality Starts Today (5 minute read)
+Excerpt: Momentic's new platform update offers autonomous QA testing, enabling teams to define product behavior and adapt tests to changes automatically.
+---
+ID: TL-17
+Title: NVIDIA and AWS Collaborate to Bring AI to Production at Scale (4 minute read)
+Excerpt: NVIDIA and AWS teamed up to optimize AI deployment at scale with new NVIDIA RTX PRO 4500 Blackwell GPUs in EC2 G7 instances, offering up to 4.6x AI inference performance.
+---

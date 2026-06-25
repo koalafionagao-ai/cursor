@@ -1,0 +1,509 @@
+{
+  "date": "2026-06-24",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models",
+      "excerpt": "",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Qualcomm says it will acquire Modular, which builds a chip software platform and has a proprietary coding language, in a nearly $4B deal set to close in H2 2026",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Alex Bores, a New York congressional candidate who argued for AI safeguards, lost to Micah Lasher in the Democratic primary that had millions in AI PAC spending",
+      "excerpt": "",
+      "url": "https://www.nbcnews.com/politics/2026-election/new-york-house-district-12-democrat-primary-winner-lasher-rcna351424",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Rockstar says GTA VI will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight local time on June 25, ahead of the November 19 launch",
+      "excerpt": "",
+      "url": "https://www.theverge.com/games/952204/grand-theft-auto-vi-price",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: the NSA was red-teaming with Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos can identify flaws in classified systems",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html?unlocked_article_code=1.sVA.Xgol.aUCRzN6jvdv-&smid=nytcore-ios-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Microsoft's Digital Crimes Unit says AI helped it link two separate hacking tools, Amadey and StealC, and file a single civil lawsuit to help take them down",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "An analysis of GPT-5.5, Gemini 3.1 Pro, Grok 4.3, Gab's Arya, and other AI models: most chatbots frequently provide left-leaning responses to political prompts",
+      "excerpt": "",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzgyMjczNjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzgzNjU1OTk5LCJpYXQiOjE3ODIyNzM2MDAsImp0aSI6ImE3MjhkMjcwLTU0YzEtNDc1MC1iZDRkLWUzMGNkMmYzY2ViYiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5L2ludGVyYWN0aXZlLzIwMjYvMDYvMjQvYXJlLWFpLWNoYXRib3RzLWxpa2UtY2hhdGdwdC1wb2xpdGljYWxseS1iaWFzZWQtd2UtdGVzdGVkLXRoZW0vIn0.vsjwjRBTCHC3QZqGNijOg1lxlu58uPqh21g9fv8OgYM&itid=gfta",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: Google AI researchers Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Gemini, are planning to leave for Anthropic",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform",
+      "excerpt": "",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is “China's version of Mythos”, and Yitianzhen, to automate cyber defense",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "AI creative tools startup Krea, which has raised $83M and claims it has 30M+ users, releases the open weights for its Krea 2 image models under a custom license",
+      "excerpt": "",
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Q&A with AWS CEO Matt Garman on the parallels between early AWS and AI, Quick, AI coding, Amazon's $200B capex in 2026, entry-level jobs changing, and more",
+      "excerpt": "",
+      "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Filing: SK Hynix is seeking to raise ~$29.4B in a US listing, expects trading to start on July 10, and intends to use the funds to build additional capacity",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Sources: Zhipu is considering a multibillion-dollar Hong Kong share sale after its stock surged ~2,000% since its January IPO, pushing its market cap to $128B+",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Humanoid robot maker Agility plans to go public via a merger with Michael Klein's SPAC, in a deal valuing Agility at ~$2.5B, listing under ticker symbol AGLT",
+      "excerpt": "",
+      "url": "https://www.wsj.com/finance/agility-maker-of-humanlike-robots-to-go-public-in-2-5-billion-spac-deal-62c3cb32?st=TwcETY&reflink=desktopwebshare_permalink",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Customer engagement service MoEngage acquires Aampe, whose AI agents help brands personalize messaging, for “tens of millions”, per a source; Aampe raised ~$28M",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Documents: Meta's planned prediction markets app will use Meta AI models to generate questions from trending topics, make recommendations, and resolve markets",
+      "excerpt": "",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Amazon plans to expand Amazon Now to 300+ Indian cities and towns, up from 100 at present, as CEO Andy Jassy visits India; a source says he is set to meet Modi",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/amazon-ramps-up-india-fast-commerce-push-to-take-on-local-rivals",
+      "section": "e-commerce"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, and orders on the platform have grown ~400% YoY",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "section": "e-commerce"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/intel-backed-ai-chip-firm-sambanova-quintuple-valuation-10-billion",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year's end",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/a19f5112-2434-4c2b-b1b4-b38cc6f6aa14",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay Capital and Bain Capital",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/u-s-backed-chipmaking-startup-chaired-former-intel-ceo-raising-350-million",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $110M Series C led by Goldman Sachs, and plans a São Paulo office",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "RunPod, which rents access to non-Nvidia servers, raised $100M led by Summit Partners at a $1B valuation, a source says up from $100M after its seed in 2024",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/cloud-startup-runpod-raises-100-million-says-turned-buyout-offers",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Trase, which is building an operating system and infrastructure layer for AI agents in industries like health care and defense, raised a $107M seed led by Arch",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/06/24/trase-107-million-health-care-defense-ai",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "XCures, which uses AI to streamline patient data and medical records, raised a $46M Series B at a $127M post-money valuation, bringing its total funding to $76M",
+      "excerpt": "",
+      "url": "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "London-based Isometric, which develops AI agents that work with human verifiers to automate industrial certification, raised a €34M Series A led by AVP",
+      "excerpt": "",
+      "url": "https://www.eu-startups.com/2026/06/londons-isometric-lands-e34-million-to-scale-certification-platform-for-industrial-markets/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/06/23/orderful-nabs-35m-streamline-supply-chain-data-management/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "New York-based Probook, which is building an AI operating system for home service businesses, raised a $34M Series A led by a16z and a $6M seed led by Sequoia",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/andreessen-horowitz-backs-compute-marketplace-ornn-in-seed-round",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Runlayer, which provides an infrastructure and control layer for enterprise AI agents, raised a $30M Series A led by Felicis, bringing its total funding to $42M",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/24/exclusive-vinod-khosla-felicis-runlayer-nanit-30-million-enterprise-ai/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Seltz, which is building a web search engine that can be used by AI agents, raised a $12.5M seed led by Speedinvest and B Capital",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/24/exclusive-seltz-a-startup-rebuilding-web-search-for-ai-agents-raises-12-5-million-in-seed-funding/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Binance says it will make a fresh push for permission to operate in the EU after its MiCA license application in Greece failed ahead of the June 30 deadline",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/finance/binance-vows-stay-europe-despite-licence-setback-2026-06-24/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Nature publishes a peer-reviewed paper alleging that Microsoft's 2025 quantum breakthrough claims were based on “basic Python errors” and data cherry-picking",
+      "excerpt": "",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/chicago-missed-the-tech-boom-quantum-computing-gives-it-a-second-chance-0b34d116?st=bAQmw2&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests",
+      "excerpt": "",
+      "url": "https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782",
+      "section": "more news"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "An interview with Bob Iger on stepping down as Disney's CEO, his legacy, new CEO Josh D'Amaro, Bob Chapek, Apple, Disney+, acquiring Pixar, AI tools, and more",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/460389f9-3d72-4fed-9dd4-bbc3209c88b0?accessToken=zwAAAZ7sZ_7bkc9GA4n5PXJP7dOd1LvDIJyIsA.MEUCIFF-7sXNupew832SnEt8AF6eTLiFPHNiTM3QGbJJ0nqCAiEAihcCVrFLzlv8h-w7EMFt0s718Y5FQsTetNvHLx6DAdc&sharetype=gift&token=4fbd3cbc-8e80-421a-bc5e-91ebfbc8277b&syn-25a6b1a6=1",
+      "section": "more news"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Google Home Speaker review: the $100 speaker, the company's first such device in six years, works for Gemini power users but has underwhelming music playback",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
+      "section": "more news"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Micron reports Q3 revenue up 346% YoY to $41.46B, vs. $35.84B est., gross margin above estimates, and forecasts Q4 revenue above est.; MU jumps 14%+ after hours",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "Sources: prices for Nvidia's AI chips on China's black market have more than doubled amid a US export crackdown; its DGX B300 server went from ~$550K to ~$1.1M",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69?accessToken=zwAAAZ-QRWuPktO38lyignxA-dOrGlcGfY7JDc9X_NPORk9NwtOOolcS1JcsaQE.MEYCIQD9A3_aiQI3TVtoK2Shb0EgtTRJjhqcqjz6AFNaQIJNSwIhAM1E8lqxlcAh3KrFN_mnk1pMnSXAHotG353LQfKo7KNF&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "The US FDA drops an enforcement complaint against Whoop over its blood pressure tracking tool, reversing a July 2025 warning letter; Whoop is modifying the tool",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/fda-drops-complaint-against-whoop-s-blood-pressure-tracking-tool",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Sources: India drives 50%+ of WhatsApp's global revenue, or $1B+ annually, largely via business messaging, which likely helped Kunal Shah get WhatsApp's top job",
+      "excerpt": "",
+      "url": "https://www.moneycontrol.com/technology/how-whatsapp-s-billion-dollar-india-business-influenced-meta-s-bet-on-kunal-shah-article-13957308.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "How Taiwan's Hsinchu Science Park, home to TSMC, became especially wealthy; one neighborhood reported 2023 average household incomes of $146K+, ~5x the average",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html?unlocked_article_code=1.slA.fkwx._NKaMAi38p9M&smid=nytcore-ios-share",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Mistral OCR 4: SOTA OCR for Document Intelligence (9 minute read)",
+      "excerpt": "Mistral released OCR 4, a document intelligence tool providing structured content extraction, including bounding boxes and confidence scores. It supports 170 languages, is deployable in a single container, and integrates into enterprise search and structured data pipelines. OCR 4 outperforms other systems with a 4x speed advantage and high accuracy, especially with low-resource languages.",
+      "url": "https://mistral.ai/news/ocr-4/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Claude Tag (2 minute read)",
+      "excerpt": "Anthropic introduced Claude Tag, a Slack-based workflow that lets teams assign tasks to Claude, connect it to tools and codebases, and have it retain context across channels. The company said the system had become a core part of internal operations, with its product team using it to generate much of their code and assist with analytics, support, and debugging tasks.",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt (2 minute read)",
+      "excerpt": "ByteDance's new Seedance 2.5 AI video generation model can generate 30-second, 4K videos with a single prompt. Users are able to provide up to 50 images, videos, or audio clips as reference pieces. Increasing the number of references gives users more control over the video creation process. The model will be available in China next month. ByteDance has not announced a release time window for other countries.",
+      "url": "https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Insights on Indirect Prompt Injection (12 minute read)",
+      "excerpt": "This deep dive explores the growing focus on jailbreaks and indirect prompt injection attacks, featuring insights from Gray Swan's founders and their research. It also covered the company's role in evaluating advanced AI systems and developing security benchmarks.",
+      "url": "https://www.latent.space/p/gray-swan?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness (16 minute read)",
+      "excerpt": "CUGA, IBM's open-source agent harness, simplifies developing agentic apps by managing the complexities of planning, execution, and state management, allowing developers to focus on tool selection and prompts. CUGA's efficient system maintains state and corrects errors, outperforming others in benchmarks like AppWorld. Its unique features include configurable reasoning modes and integrated policy systems, enabling quick deployment from development to production while maintaining governance and flexibility.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "How Businesses Are Building Specialized AI They Can Trust (3 minute read)",
+      "excerpt": "NVIDIA's Agent Toolkit empowers businesses to build specialized, customizable AI agents using open models, tools, skills, and secure runtime. These agents accelerate complex workflows across industries like life sciences, healthcare, cybersecurity, and industrial operations by integrating with existing tools and data. Companies like Cadence, Synopsys, and CrowdStrike are leveraging this technology to enhance efficiency and accuracy in specific domains.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Prompt Injection as Role Confusion (17 minute read)",
+      "excerpt": "Modern large language models use role tags as both a security architecture and cognitive scaffolding. Prompt injections are driven by a flaw in how AI models perceive roles. For LLMs, everything arrives through the same channel as one long token soup, so they can't distinguish between their own thoughts and speech. Unless AI models achieve genuine role perception, injection defense will remain a perpetual whack-a-mole game.",
+      "url": "https://role-confusion.github.io/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Graphsignal (GitHub Repo)",
+      "excerpt": "Graphsignal is a production-scale inference profiling platform that provides essential visibility across the inference stack. It helps engineers optimize AI performance across models, engines, GPUs, and other accelerators. Graphsignal can be used with coding agents for analysis. The profiler has minimal impact on production performance, and content data is not recorded.",
+      "url": "https://github.com/graphsignal/graphsignal-profiler?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Krea 2 Technical Report (59 minute read)",
+      "excerpt": "Krea 2 introduces expansive, expressive image generation models designed for creative exploration, overcoming limitations of default aesthetics. It employs a multi-stage training process with advanced architectures and extensive data curation to enhance stylistic diversity and user control. Key innovations include a prompt expander and style-reference system, allowing nuanced text and image inputs to generate diverse visual outputs.",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Unlimited OCR Works (GitHub Repo)",
+      "excerpt": "Unlimited OCR is a model designed to emulate human parsing working memory. It uses DeepSeek OCR as a baseline and combines it with a constant KV cache design. Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. The technique used to develop Unlimited OCR is equally applicable to tasks such as ASR and translation.",
+      "url": "https://github.com/baidu/Unlimited-OCR?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)",
+      "excerpt": "We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "OpenAI prepares bidirectional voice mode for rollout on ChatGPT (2 minute read)",
+      "excerpt": "OpenAI has started rolling out Bidirectional Voice Mode for ChatGPT. The company's new audio generation model, Bidi 1, lets the assistant speak, hear, and listen at the same time. It is able to hold the thread of a whole conversation and switch tasks on the fly if interrupted. The model can sing and beatbox, but there are some tight copyright restrictions. OpenAI has yet to make a formal announcement about the model, but some users are already seeing it in their model selectors.",
+      "url": "https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "US Presses Meta to Agree to AI Reviews as Security Concerns Rise (6 minute read)",
+      "excerpt": "The Trump administration is pressing Meta to submit its AI models for voluntary review. Meta is the only major AI developer in the US that has not reached an agreement to voluntarily share its models with the federal government for review. The review involved evaluating models' abilities and vulnerabilities. Meta's policy team has been negotiating with the Commerce Department about how to proceed, but it is unclear whether they will be able to reach an agreement.",
+      "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html?unlocked_article_code=1.slA.CiEO.Veq6LzT0DS6f&smid=url-share&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Fluree DB (GitHub Repo)",
+      "excerpt": "Fluree DB is a graph database for data with integrated vector, text, and geo search.",
+      "url": "https://github.com/fluree/db?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Introducing Engram: Scaling Compute on Your Context (4 minute read)",
+      "excerpt": "Engram is building AI models that continuously learn from a user's private context, such as documents, chats, code, and knowledge bases, instead of repeatedly rereading the same information in every session.",
+      "url": "https://x.com/EngramLab/status/2069465879696576844?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "A New Era of Software Quality Starts Today (5 minute read)",
+      "excerpt": "Momentic's new platform update offers autonomous QA testing, enabling teams to define product behavior and adapt tests to changes automatically.",
+      "url": "https://momentic.ai/blog/a-new-era-of-software-quality?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-17",
+      "source": "tldr",
+      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale (4 minute read)",
+      "excerpt": "NVIDIA and AWS teamed up to optimize AI deployment at scale with new NVIDIA RTX PRO 4500 Blackwell GPUs in EC2 G7 instances, offering up to 4.6x AI inference performance.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

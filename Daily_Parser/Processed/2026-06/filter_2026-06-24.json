@@ -1,0 +1,386 @@
+{
+  "date": "2026-06-24",
+  "threshold": 7.0,
+  "total": 63,
+  "kept": 32,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "重磅芯片发布，优化大模型推理，具有重要行业影响"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "高达40亿美元的收购，涉及芯片软件平台，值得关注"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI相关性较弱，主要是政治选举新闻"
+    },
+    {
+      "id": "TM-04",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI无关，主要是游戏定价信息"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "NSA与AI模型的安全测试，显示AI在安全领域的应用潜力"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "微软利用AI工具打击黑客，展示AI在网络安全中的应用"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "对多个AI模型的分析，提供了一定的信息量但较为常规"
+    },
+    {
+      "id": "TM-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "内部人员流动，信息量有限，影响不大"
+    },
+    {
+      "id": "TM-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Google推出新功能，增强Gemini平台的应用能力"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国公司推出AI网络安全工具，显示市场竞争加剧"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic指控阿里巴巴，涉及AI模型的安全问题，具有行业影响"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI创意工具发布开源模型，信息量一般但有一定价值"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "AWS CEO访谈，信息量有限，较为常规"
+    },
+    {
+      "id": "TM-14",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关，主要是公司融资信息"
+    },
+    {
+      "id": "TM-15",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Zhipu考虑上市，信息量一般，主要是股市动态"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "机器人公司计划上市，涉及AI领域的商业动态"
+    },
+    {
+      "id": "TM-17",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Superhuman收购AI检测初创公司，显示市场整合趋势"
+    },
+    {
+      "id": "TM-18",
+      "score": 7.0,
+      "keep": true,
+      "reason": "MoEngage收购Aampe，涉及AI在客户服务中的应用"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Kalshi融资谈判，信息量一般，主要是市场动态"
+    },
+    {
+      "id": "TM-20",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta计划推出预测市场应用，利用AI模型生成问题，具有创新性"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关，主要是亚马逊的市场扩展信息"
+    },
+    {
+      "id": "TM-22",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关，主要是Flipkart的业务扩展信息"
+    },
+    {
+      "id": "TM-23",
+      "score": 8.0,
+      "keep": true,
+      "reason": "SambaNova计划大规模融资，显示AI芯片市场的活跃度"
+    },
+    {
+      "id": "TM-24",
+      "score": 7.0,
+      "keep": true,
+      "reason": "数字健康保险初创公司融资，显示AI在健康领域的应用潜力"
+    },
+    {
+      "id": "TM-25",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与AI无关，主要是激光技术初创公司的融资信息"
+    },
+    {
+      "id": "TM-26",
+      "score": 7.5,
+      "keep": true,
+      "reason": "融资金额较大且涉及金融科技领域，值得关注"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.5,
+      "keep": true,
+      "reason": "融资情况良好，且提供非Nvidia服务器的租赁服务，具有市场潜力"
+    },
+    {
+      "id": "TM-28",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及AI代理的基础设施建设，融资金额较高，具有行业影响力"
+    },
+    {
+      "id": "TM-29",
+      "score": 6.5,
+      "keep": false,
+      "reason": "融资金额适中，应用于医疗领域，但信息量较常规"
+    },
+    {
+      "id": "TM-30",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资金额适中，涉及工业认证的AI代理，具有一定市场价值"
+    },
+    {
+      "id": "TM-31",
+      "score": 6.5,
+      "keep": false,
+      "reason": "融资金额适中，提供供应链管理工具，信息量较常规"
+    },
+    {
+      "id": "TM-32",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资情况良好，涉及家庭服务业务的AI操作系统，值得关注"
+    },
+    {
+      "id": "TM-33",
+      "score": 7.5,
+      "keep": true,
+      "reason": "融资金额适中，计划推出GPU容量交易市场，具有创新性"
+    },
+    {
+      "id": "TM-34",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资金额适中，提供企业AI代理的基础设施，信息量较常规"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.5,
+      "keep": false,
+      "reason": "融资金额较小，构建AI代理使用的搜索引擎，信息量有限"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及监管和许可问题"
+    },
+    {
+      "id": "TM-37",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及微软量子计算的重大指控，可能影响行业声誉"
+    },
+    {
+      "id": "TM-38",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于量子计算的城市发展计划，信息量较常规"
+    },
+    {
+      "id": "TM-39",
+      "score": 7.0,
+      "keep": true,
+      "reason": "与大型科技公司合作，涉及网络请求的合法性，具有行业影响力"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是关于CEO的访谈"
+    },
+    {
+      "id": "TM-41",
+      "score": 4.0,
+      "keep": false,
+      "reason": "产品评测信息量有限，未涉及重要技术或市场变化"
+    },
+    {
+      "id": "TM-42",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财报信息较常规，未涉及AI领域的重大变化"
+    },
+    {
+      "id": "TM-43",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及Nvidia芯片价格变化，反映市场供需关系，具有行业影响力"
+    },
+    {
+      "id": "TM-44",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及FDA的监管问题"
+    },
+    {
+      "id": "TM-45",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是关于WhatsApp的收入信息"
+    },
+    {
+      "id": "TM-46",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是关于地区经济的报道"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "重磅发布的OCR工具，具有广泛的应用潜力和技术优势"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新推出的工作流工具，提升团队效率，具有产品洞察价值"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.5,
+      "keep": true,
+      "reason": "新的视频生成模型具有创新性，值得关注其市场应用"
+    },
+    {
+      "id": "TL-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "深入探讨AI安全问题，具有行业研究价值"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.5,
+      "keep": true,
+      "reason": "IBM的CUGA简化了智能应用的开发，具有重要的技术洞察和应用价值。"
+    },
+    {
+      "id": "TL-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "NVIDIA的Agent Toolkit帮助企业构建定制化AI代理，具有广泛的行业应用。"
+    },
+    {
+      "id": "TL-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "探讨了大型语言模型中的角色混淆问题，信息量一般。"
+    },
+    {
+      "id": "TL-08",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Graphsignal提供推理性能分析，信息量适中。"
+    },
+    {
+      "id": "TL-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Krea 2的图像生成模型具有创新性，推动创意探索。"
+    },
+    {
+      "id": "TL-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Unlimited OCR的设计在文档转录方面具有潜在应用价值。"
+    },
+    {
+      "id": "TL-11",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI行业关联性弱，信息量不足。"
+    },
+    {
+      "id": "TL-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI推出双向语音模式，具有重要的产品更新价值。"
+    },
+    {
+      "id": "TL-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "美国政府对Meta的AI模型审查要求反映了行业监管动态。"
+    },
+    {
+      "id": "TL-14",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Fluree DB的介绍信息量较少，关联性弱。"
+    },
+    {
+      "id": "TL-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Engram的AI模型持续学习用户上下文，具有应用潜力。"
+    },
+    {
+      "id": "TL-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Momentic的新平台更新提供了自动化QA测试，信息量一般。"
+    },
+    {
+      "id": "TL-17",
+      "score": 8.0,
+      "keep": true,
+      "reason": "NVIDIA与AWS的合作优化AI部署，具有行业影响力。"
+    }
+  ]
+}

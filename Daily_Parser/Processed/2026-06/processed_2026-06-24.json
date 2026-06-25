@@ -1,0 +1,694 @@
+{
+  "date": "2026-06-24",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 32,
+    "by_category": {
+      "cat:tech": 6,
+      "cat:business": 14,
+      "cat:other": 4,
+      "cat:app": 5,
+      "cat:model": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "title": {
+        "zh": "OpenAI与博通推出Jalapeño推理芯片，九个月内完成设计到制造",
+        "en": "OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chip",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+      "title": {
+        "zh": "高通宣布以近40亿美元收购Modular，交易预计2026年完成",
+        "en": "Qualcomm says it will acquire Modular, which builds a chip software platform and has a proprietary coding language, in a nearly $4B deal set to close in H2 2026"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "qualcomm",
+        "acquisition",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html?unlocked_article_code=1.sVA.Xgol.aUCRzN6jvdv-&smid=nytcore-ios-share",
+      "title": {
+        "zh": "消息称NSA曾使用Mythos 5进行红队测试，后因与Anthropic争端失去访问权限",
+        "en": "Sources: the NSA was red-teaming with Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos can identify flaws in classified systems"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-06",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
+      "title": {
+        "zh": "微软数字犯罪部门利用AI连接两种黑客工具并提起诉讼",
+        "en": "Microsoft's Digital Crimes Unit says AI helped it link two separate hacking tools, Amadey and StealC, and file a single civil lawsuit to help take them down"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "microsoft",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/litigation/chinas-360-says-it-has-developed-tools-match-anthropics-mythos-2026-06-24/",
+      "title": {
+        "zh": "中国360公司推出新AI工具“屠龙锋”和“倚天针”以自动化网络防御",
+        "en": "Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is “China's version of Mythos”, and Yitianzhen, to automate cyber defense"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "title": {
+        "zh": "消息称Anthropic指控阿里巴巴通过对抗性蒸馏非法访问Claude",
+        "en": "Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "alibaba",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6",
+      "title": {
+        "zh": "Superhuman收购AI检测初创公司GPTZero，后者年收入达3000万美元",
+        "en": "Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "title": {
+        "zh": "MoEngage收购Aampe，后者AI代理帮助品牌个性化消息传递",
+        "en": "Customer engagement service MoEngage acquires Aampe, whose AI agents help brands personalize messaging, for “tens of millions”, per a source; Aampe raised ~$28M"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+      "title": {
+        "zh": "Meta计划推出预测市场应用，利用AI生成问题并解决市场",
+        "en": "Documents: Meta's planned prediction markets app will use Meta AI models to generate questions from trending topics, make recommendations, and resolve markets"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/intel-backed-ai-chip-firm-sambanova-quintuple-valuation-10-billion",
+      "title": {
+        "zh": "SambaNova计划以约100亿美元估值筹资8亿至10亿美元",
+        "en": "SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/a19f5112-2434-4c2b-b1b4-b38cc6f6aa14",
+      "title": {
+        "zh": "巴黎数字健康保险初创公司 Alan 融资 4.8 亿欧元，估值 55 亿欧元",
+        "en": "Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year's end"
+      },
+      "summary": {
+        "zh": "预计到年底年经常性收入将超过 10 亿欧元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/",
+      "title": {
+        "zh": "纽约金融科技公司 Taktile 完成 1.1 亿美元 C 轮融资",
+        "en": "NYC-based Taktile, which helps fintechs build automated decision-making workflows, raised a $110M Series C led by Goldman Sachs, and plans a São Paulo office"
+      },
+      "summary": {
+        "zh": "融资由高盛领投，公司计划在圣保罗开设办公室。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/cloud-startup-runpod-raises-100-million-says-turned-buyout-offers",
+      "title": {
+        "zh": "RunPod 完成 1 亿美元融资，估值达 10 亿美元",
+        "en": "RunPod, which rents access to non-Nvidia servers, raised $100M led by Summit Partners at a $1B valuation, a source says up from $100M after its seed in 2024"
+      },
+      "summary": {
+        "zh": "公司提供非 Nvidia 服务器的租赁服务，此轮融资由 Summit Partners 领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/06/24/trase-107-million-health-care-defense-ai",
+      "title": {
+        "zh": "Trase 完成 1.07 亿美元种子轮融资，专注于 AI 代理操作系统",
+        "en": "Trase, which is building an operating system and infrastructure layer for AI agents in industries like health care and defense, raised a $107M seed led by Arch"
+      },
+      "summary": {
+        "zh": "公司致力于为医疗和国防等行业构建 AI 代理的操作系统和基础设施层。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.eu-startups.com/2026/06/londons-isometric-lands-e34-million-to-scale-certification-platform-for-industrial-markets/",
+      "title": {
+        "zh": "伦敦初创公司 Isometric 完成 3400 万欧元 A 轮融资",
+        "en": "London-based Isometric, which develops AI agents that work with human verifiers to automate industrial certification, raised a €34M Series A led by AVP"
+      },
+      "summary": {
+        "zh": "公司开发与人类验证者协作的 AI 代理，用于自动化工业认证。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-32",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/23/exclusive-this-startup-wants-to-be-the-ai-brain-for-home-services-and-it-just-raised-40-million-from-sequoia-and-a16z/",
+      "title": {
+        "zh": "纽约初创公司 Probook 完成 3400 万美元 A 轮融资",
+        "en": "New York-based Probook, which is building an AI operating system for home service businesses, raised a $34M Series A led by a16z and a $6M seed led by Sequoia"
+      },
+      "summary": {
+        "zh": "公司正在为家庭服务业务构建 AI 操作系统，A 轮由 a16z 领投，种子轮由红杉资本领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/andreessen-horowitz-backs-compute-marketplace-ornn-in-seed-round",
+      "title": {
+        "zh": "Ornn 完成 3300 万美元种子轮融资，计划推出 GPU 容量交易市场",
+        "en": "Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z"
+      },
+      "summary": {
+        "zh": "该市场将类似于石油合约交易所，由 a16z 领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "gpu"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-37",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "title": {
+        "zh": "Nature 发表论文质疑微软 2025 年量子突破声明",
+        "en": "Nature publishes a peer-reviewed paper alleging that Microsoft's 2025 quantum breakthrough claims were based on “basic Python errors” and data cherry-picking"
+      },
+      "summary": {
+        "zh": "论文称微软的声明基于“基本的 Python 错误”和数据选择性使用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "microsoft",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-39",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782",
+      "title": {
+        "zh": "Cloudflare 联合 Google、Microsoft 和 Mozilla 推出 PACT 协议",
+        "en": "Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests"
+      },
+      "summary": {
+        "zh": "该协议旨在区分合法的人类或机器人流量与不良网络请求。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "microsoft",
+        "browser"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-43",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69?accessToken=zwAAAZ-QRWuPktO38lyignxA-dOrGlcGfY7JDc9X_NPORk9NwtOOolcS1JcsaQE.MEYCIQD9A3_aiQI3TVtoK2Shb0EgtTRJjhqcqjz6AFNaQIJNSwIhAM1E8lqxlcAh3KrFN_mnk1pMnSXAHotG353LQfKo7KNF&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902",
+      "title": {
+        "zh": "美国出口限制导致中国黑市 Nvidia AI 芯片价格翻倍",
+        "en": "Sources: prices for Nvidia's AI chips on China's black market have more than doubled amid a US export crackdown; its DGX B300 server went from ~$550K to ~$1.1M"
+      },
+      "summary": {
+        "zh": "Nvidia 的 DGX B300 服务器价格从约 55 万美元涨至约 110 万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "gpu",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://mistral.ai/news/ocr-4/?utm_source=tldrai",
+      "title": {
+        "zh": "Mistral发布OCR 4：文档智能的SOTA解决方案",
+        "en": "Mistral OCR 4: SOTA OCR for Document Intelligence (9 minute read)"
+      },
+      "summary": {
+        "zh": "支持170种语言，提供结构化内容提取，性能提升4倍，特别适用于低资源语言。",
+        "en": "Mistral released OCR 4, a document intelligence tool providing structured content extraction, including bounding boxes and confidence scores. It supports 170 languages, is deployable in a single container, and integrates into enterprise search and structured data pipelines. OCR 4 outperforms other systems with a 4x speed advantage and high accuracy, especially with low-resource languages."
+      },
+      "tags": [
+        "cat:tech",
+        "mistral"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic推出Claude Tag：Slack中的任务管理工具",
+        "en": "Claude Tag (2 minute read)"
+      },
+      "summary": {
+        "zh": "支持任务分配、工具和代码库连接，并可跨频道保留上下文。",
+        "en": "Anthropic introduced Claude Tag, a Slack-based workflow that lets teams assign tasks to Claude, connect it to tools and codebases, and have it retain context across channels. The company said the system had become a core part of internal operations, with its product team using it to generate much of their code and assist with analytics, support, and debugging tasks."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.cnet.com/tech/services-and-software/bytedance-introduces-new-seedance-2-5-video-model/?utm_source=tldrai",
+      "title": {
+        "zh": "字节跳动推出Seedance 2.5 AI视频生成模型",
+        "en": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt (2 minute read)"
+      },
+      "summary": {
+        "zh": "支持单次提示生成30秒4K视频，可提供多达50个参考素材以增强控制。",
+        "en": "ByteDance's new Seedance 2.5 AI video generation model can generate 30-second, 4K videos with a single prompt. Users are able to provide up to 50 images, videos, or audio clips as reference pieces. Increasing the number of references gives users more control over the video creation process. The model will be available in China next month. ByteDance has not announced a release time window for other countries."
+      },
+      "tags": [
+        "cat:model",
+        "bytedance"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-04",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.latent.space/p/gray-swan?utm_source=tldrai",
+      "title": {
+        "zh": "间接提示注入的深度分析",
+        "en": "Insights on Indirect Prompt Injection (12 minute read)"
+      },
+      "summary": {
+        "zh": "探讨了Gray Swan创始人的研究及其在AI安全基准开发中的角色。",
+        "en": "This deep dive explores the growing focus on jailbreaks and indirect prompt injection attacks, featuring insights from Gray Swan's founders and their research. It also covered the company's role in evaluating advanced AI systems and developing security benchmarks."
+      },
+      "tags": [
+        "cat:other",
+        "safety",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-05",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps?utm_source=tldrai",
+      "title": {
+        "zh": "使用CUGA构建真实的代理应用",
+        "en": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness (16 minute read)"
+      },
+      "summary": {
+        "zh": "IBM开源的CUGA简化了代理应用的开发，支持快速从开发到生产的部署。",
+        "en": "CUGA, IBM's open-source agent harness, simplifies developing agentic apps by managing the complexities of planning, execution, and state management, allowing developers to focus on tool selection and prompts. CUGA's efficient system maintains state and corrects errors, outperforming others in benchmarks like AppWorld. Its unique features include configurable reasoning modes and integrated policy systems, enabling quick deployment from development to production while maintaining governance and flexibility."
+      },
+      "tags": [
+        "cat:app",
+        "ibm",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-06",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA的Agent Toolkit助力企业构建定制化AI代理",
+        "en": "How Businesses Are Building Specialized AI They Can Trust (3 minute read)"
+      },
+      "summary": {
+        "zh": "支持跨行业复杂工作流的加速，提升效率和准确性。",
+        "en": "NVIDIA's Agent Toolkit empowers businesses to build specialized, customizable AI agents using open models, tools, skills, and secure runtime. These agents accelerate complex workflows across industries like life sciences, healthcare, cybersecurity, and industrial operations by integrating with existing tools and data. Companies like Cadence, Synopsys, and CrowdStrike are leveraging this technology to enhance efficiency and accuracy in specific domains."
+      },
+      "tags": [
+        "cat:app",
+        "nvidia",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-09",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report?utm_source=tldrai",
+      "title": {
+        "zh": "Krea 2技术报告：突破性图像生成模型",
+        "en": "Krea 2 Technical Report (59 minute read)"
+      },
+      "summary": {
+        "zh": "采用多阶段训练和高级架构，增强风格多样性和用户控制。",
+        "en": "Krea 2 introduces expansive, expressive image generation models designed for creative exploration, overcoming limitations of default aesthetics. It employs a multi-stage training process with advanced architectures and extensive data curation to enhance stylistic diversity and user control. Key innovations include a prompt expander and style-reference system, allowing nuanced text and image inputs to generate diverse visual outputs."
+      },
+      "tags": [
+        "cat:model",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-10",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://github.com/baidu/Unlimited-OCR?utm_source=tldrai",
+      "title": {
+        "zh": "Unlimited OCR：基于DeepSeek的扩展模型",
+        "en": "Unlimited OCR Works (GitHub Repo)"
+      },
+      "summary": {
+        "zh": "支持单次前向传递处理多页文档，适用于ASR和翻译等任务。",
+        "en": "Unlimited OCR is a model designed to emulate human parsing working memory. It uses DeepSeek OCR as a baseline and combines it with a constant KV cache design. Unlimited OCR can transcribe dozens of pages of documents in a single forward pass under a standard maximum length of 32K. The technique used to develop Unlimited OCR is equally applicable to tasks such as ASR and translation."
+      },
+      "tags": [
+        "cat:model",
+        "deepseek"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-12",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/openai-prepares-bidirectional-voice-mode-for-rollout-on-chatgpt/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI为ChatGPT推出双向语音模式",
+        "en": "OpenAI prepares bidirectional voice mode for rollout on ChatGPT (2 minute read)"
+      },
+      "summary": {
+        "zh": "新模型Bidi 1支持同时说话、听和理解对话，具备唱歌和节奏口技能力。",
+        "en": "OpenAI has started rolling out Bidirectional Voice Mode for ChatGPT. The company's new audio generation model, Bidi 1, lets the assistant speak, hear, and listen at the same time. It is able to hold the thread of a whole conversation and switch tasks on the fly if interrupted. The model can sing and beatbox, but there are some tight copyright restrictions. OpenAI has yet to make a formal announcement about the model, but some users are already seeing it in their model selectors."
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chatgpt",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-13",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html?unlocked_article_code=1.slA.CiEO.Veq6LzT0DS6f&smid=url-share&utm_source=tldrai",
+      "title": {
+        "zh": "美国施压Meta同意AI审查以应对安全担忧",
+        "en": "US Presses Meta to Agree to AI Reviews as Security Concerns Rise (6 minute read)"
+      },
+      "summary": {
+        "zh": "Meta是唯一未同意向政府提交AI模型审查的主要开发商，目前仍在与商务部协商。",
+        "en": "The Trump administration is pressing Meta to submit its AI models for voluntary review. Meta is the only major AI developer in the US that has not reached an agreement to voluntarily share its models with the federal government for review. The review involved evaluating models' abilities and vulnerabilities. Meta's policy team has been negotiating with the Commerce Department about how to proceed, but it is unclear whether they will be able to reach an agreement."
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-15",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/EngramLab/status/2069465879696576844?utm_source=tldrai",
+      "title": {
+        "zh": "推出 Engram：基于用户上下文扩展计算能力",
+        "en": "Introducing Engram: Scaling Compute on Your Context (4 minute read)"
+      },
+      "summary": {
+        "zh": "Engram 开发的 AI 模型能够从用户的私人上下文（如文档、聊天、代码和知识库）中持续学习，而无需在每次会话中重复读取相同信息。",
+        "en": "Engram is building AI models that continuously learn from a user's private context, such as documents, chats, code, and knowledge bases, instead of repeatedly rereading the same information in every session."
+      },
+      "tags": [
+        "cat:tech",
+        "startup",
+        "agent",
+        "rag"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-17",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA 与 AWS 合作推动大规模 AI 部署",
+        "en": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale (4 minute read)"
+      },
+      "summary": {
+        "zh": "NVIDIA 和 AWS 联手，通过在 EC2 G7 实例中优化使用 NVIDIA RTX PRO 4500 Blackwell GPU，实现高达 4.6 倍的 AI 推理性能。",
+        "en": "NVIDIA and AWS teamed up to optimize AI deployment at scale with new NVIDIA RTX PRO 4500 Blackwell GPUs in EC2 G7 instances, offering up to 4.6x AI inference performance."
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "gpu",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
