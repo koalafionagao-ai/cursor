@@ -1,0 +1,280 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has “never seen a component price increase this much, this quickly”; iPhone is unchanged
+Tweets:
+  - Author: @mkbhd
+    Text: Memory price hikes have finally started hitting Apple. Today, they raised some base prices: Macbook Neo: $599 -> $699 Macbook Air: $1099 -> $1299 Macbook Pro: $1699 -> $1999 Mac Studio: $1999 -> $2499 iPad Air $599 - $749 iPad Pro: $999 -> $1199
+    Link ID: TM-01-TW-01
+  - Author: @sensanders
+    Text: Corporate greed is Tim Cook, the billionaire Apple CEO, claiming that hiking prices on Apple products by over $200 is “unavoidable” after it made $112 billion in profits last year & spent $310 billion on stock buybacks.  These price hikes aren't unavoidable.  They're unacceptable.
+    Link ID: TM-01-TW-02
+  - Author: @elonmusk
+    Text: Tim Cook, who told The Wall Street Journal that the jump in costs was unlike anything he had seen “in any area in over 40 years.” Biggest price jump in anything I've ever seen too.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Apple says “the rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage”; the MacBook Neo rises from $599 to $699
+    Link ID: TM-01-SUB-01
+  - Title: Apple stock closed down 6.15% on Thursday after the company raised some product prices, its worst fall since April 2025
+    Link ID: TM-01-SUB-02
+---
+ID: TM-02
+Title: Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025
+Tweets:
+  - Author: @zhugeex
+    Text: The most important part of the announcement: “Unfortunately, console storage and memory prices have increased by more than 2.5x and we expect another doubling by the fall of 2027.”
+    Link ID: TM-02-TW-01
+  - Author: @paultassi
+    Text: You gotta be kidding me. Prices so high they don't even say them out loud and the 2TB model got so expensive they discontinued it entirely
+    Link ID: TM-02-TW-02
+  - Author: @kalaelizabeth
+    Text: Asha saying that gaming has become “too expensive for gamers” literally yesterday and then raising Xbox prices today lol
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: IBM details a 0.7nm chip manufacturing process that utilizes a “nanostack” 3D transistor architecture, which it says could continue chip innovation for 10 years
+Tweets:
+  - Author: @lithos_graphein
+    Text: IBM's nanostack is a CFET device, but it uses wafer bonding instead of making them on 1 wafer. I have no idea how they'd get the alignment for this to work. [image]
+    Link ID: TM-03-TW-01
+  - Author: @iancutress
+    Text: OMG @IBM just announced its 0.7nm process node using homegrown NanoStack technology.  It defines a route for transistors after GAA by using a staggered CFET design enabling 50% logic scaling, 40% SRAM scaling, and 666 million transistors per sq mm***.
+    Link ID: TM-03-TW-02
+  - Author: @kimmonismus
+    Text: IBM says it can fit nearly 100 billion transistors onto a chip the size of a fingernail, almost 2x the density of its 2 nm chip from 2021.  • up to 50% more performance  • or 70% better energy efficiency  • 40% SRAM scaling for AI workloads Important caveat: this is still research, not a chip shipping tomorrow.  IBM says production could happen as early as the next 5 years.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Sources: Apple plans to skip higher-end M6 chips and launch its next Pro and Max chips in 2027 as part of the M7 lineup, to boost on-device AI capabilities
+---
+ID: TM-05
+Title: Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT 5.6 over security concerns, approving “access customer by customer”
+---
+ID: TM-06
+Title: Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions
+---
+ID: TM-07
+Title: OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI
+---
+ID: TM-08
+Title: Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours
+---
+ID: TM-09
+Title: Sony's Bungie says it is laying off a “significant number of employees”, including “most of the Destiny team”; Bungie has an estimated headcount of 800
+---
+ID: TM-10
+Title: Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Notion plans to shut down its Gmail client Notion Mail on September 22 and go “all in” on AI agents to run inboxes, saying 50%+ of users do not open the inbox
+---
+ID: TM-12
+Title: Alibaba's stock closed down 4.43% in Hong Kong on Thursday after Anthropic accused the company of “illicitly” accessing its AI models; Xiaomi and Baidu fell ~3%
+---
+ID: TM-13
+Title: Source: Google is asking publishers that test new AI features in Google News to grant it broad rights to their content, including to potentially train AI models
+---
+ID: TM-14
+Title: Sources: Google expands the scope of its months-old AI coding strike team to “midtraining” to try to catch up with Anthropic, after major executive departures
+---
+ID: TM-15
+Title: Memo: Meta Superintelligence Labs is hiring three founders and other team members behind AI security startup Virtue AI; two founders report to Nat Friedman
+---
+ID: TM-16
+Title: Exponential View: global AI sales, excluding China, hit $25B in Q1, exceeding an estimated $21B in data center and chip depreciation costs; margins remain thin
+---
+ID: TM-17
+Title: How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based “cat” models to predict natural disasters
+---
+ID: TM-18
+Title: Anthropic hires French telecom group Orange's Chief AI Officer Steve Jarrett to help Anthropic “better understand and adapt” its products to Europe and Africa
+---
+ID: TM-19
+Title: Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains; the one-page statement had few details
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-20
+Title: General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $320M led by Khosla at a $2.3B valuation, for $454M in total funding
+---
+ID: TM-21
+Title: Australian payments startup Airwallex raised $320M led by Lee Fixel's Addition at an $11B valuation, and is incubating blockchain payments startup Metal
+---
+ID: TM-22
+Title: Source: Muon Space, which operates satellite networks for climate and national security monitoring, is raising $250M; it has raised ~$181M since its 2021 launch
+---
+ID: TM-23
+Title: Mirendil, founded by former Anthropic researchers and seeking to build self-improving AI for open-source developers, raised a $200M seed at a $1B valuation
+---
+ID: TM-24
+Title: Story Protocol, a blockchain-based IP ownership network that raised $140M, rebrands as Data Foundation to build an on-chain registry for AI training data
+---
+ID: TM-25
+Title: Assort Health, which develops AI voice agents for health care to handle scheduling and more, raised a $120M Series C led by Menlo Ventures at a $1.2B valuation
+---
+ID: TM-26
+Title: Scaled Cognition, a reliability-focused lab that develops the Agentic Pretrained Transformer model, raised a $100M Series A led by Khosla at a $750M valuation
+---
+ID: TM-27
+Title: Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation
+---
+ID: TM-28
+Title: New Zealand-based Partly, which develops an AI model for the auto parts industry, raised a $50M Series B led by DST at a $500M valuation, as it enters the US
+---
+ID: TM-29
+Title: Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M
+---
+ID: TM-30
+Title: Paris-based Tsuga, whose observability software runs in customers' own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular
+---
+ID: TM-31
+Title: Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost
+---
+ID: TM-32
+Title: Coval, which develops simulation and evaluation tech for testing, launching, and monitoring AI voice and chat agents, raised a $28M Series A led by Norwest
+---
+ID: TM-33
+Title: Nebulock, which helps security teams proactively find and remediate threats across a company's security stack, raised a $25M Series A led by FirstMark
+---
+ID: TM-34
+Title: Netris, which helps neoclouds automate network configuration to bring their data centers online faster, raised a $15M Series A from a16z
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-35
+Title: Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance
+---
+ID: TM-36
+Title: A profile of incoming WhatsApp CEO Kunal Shah, who studied philosophy, advised Sequoia India, and joins a growing pool of Indian-born executives at US companies
+---
+ID: TM-37
+Title: Sources: Meta has accelerated its plans to use LLMs to review content and ads, replacing ~50% of human review requests in 2026 and aiming for 90%+ by year-end
+---
+ID: TM-38
+Title: Apple says it removed VK's apps from the App Store to comply with sanctions; VK says they were removed without warning and it has never been under US sanctions
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-39
+Title: The Netherlands is lobbying the US to not expand chip equipment export controls that would constrain ASML's ability to sell immersion DUV machines to China
+---
+ID: TM-40
+Title: The US awards $250M in CHIPS funds to a startup co-founded by billionaire mining magnate Robert Friedland to develop silicon-carbide chips and pulsed-power tech
+---
+ID: TM-41
+Title: Qualcomm CEO Cristiano Amon says the company is designing data center chips specifically for Chinese customers that are in compliance with US export controls
+---
+ID: TM-42
+Title: NAND flash maker Kioxia, Japan's most valuable company since June 12, plans to offer US depositary shares in spring 2027 amid AI-driven demand for memory chips
+---
+ID: TM-43
+Title: Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry
+---
+
+[CATEGORY: M&A]
+ID: TM-44
+Title: Sources: Bumble explores a sale amid slowing growth in the online dating sector; its shares fell 48% over the past 12 months, giving it a market cap of $388M
+---
+ID: TM-45
+Title: Sources: Kraken is in talks to acquire a 15% stake in DeFi protocol Aave at a $385M valuation, investing 35,000 ETH in return for 250,000 AAVE tokens
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-46
+Title: Microsoft quietly extends the Extended Security Updates program for Windows 10 consumers by a year, letting eligible users get updates through October 12, 2027
+---
+ID: TM-47
+Title: TRM Labs: since 2019, Iran-linked crypto wallets, including those tied to Iran's central bank, have moved $3.84B+ in transactions through crypto exchange CoinEx
+---
+ID: TM-48
+Title: Google launches a Google Finance app for Android, with market data, financial news, and an AI-powered “Key Moments” feature, and plans an iOS version this year
+---
+ID: TM-49
+Title: Preliminary findings: the EU says Azure and AWS are “the largest and second largest” cloud services in the EU, as the bloc weighs up tougher DMA oversight
+---
+ID: TM-50
+Title: As China's working-age population shrinks, consensus is growing that China must embed embodied AI robots into as many tasks as possible, as soon as possible
+---
+ID: TM-51
+Title: NHTSA proposes eliminating the mandate for manual brake pedals in “vehicles designed to be driven exclusively by automated driving systems”
+---
+ID: TM-52
+Title: How Larry Ellison's $45M donation to a group supporting President Trump brought Ellison deeper into Trump's circle, helping Oracle and his son's WBD acquisition
+---
+ID: TM-53
+Title: Digital advocacy firms like CiviClick and Influent appear to use AI to generate mass public comments on local energy projects, mostly favoring fossil fuel use
+---
+ID: TM-54
+Title: An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Jalapeño: OpenAI's new Chip (7 minute read)
+Excerpt: OpenAI and Broadcom unveiled Jalapeño, the first accelerator in a planned family of LLM inference chips optimized for performance per watt and rapid deployment. The companies said the processor was designed in nine months with AI-assisted development and is intended for gigawatt-scale data center deployments.
+---
+ID: TL-02
+Title: Gemini Researchers Join Anthropic (1 minute read)
+Excerpt: Bloomberg reported that Gemini researchers Jonas Adler and Alexander Pritzel left Google for Anthropic, continuing a wave of high-profile AI talent departures. The trend followed recent exits by Noam Shazeer and DeepMind director John Jumper amid increasing competition between leading AI companies.
+---
+ID: TL-03
+Title: Introducing Computer Use on Gemini 3.5 Flash (3 minute read)
+Excerpt: Google launched native computer-use capabilities for Gemini 3.5 Flash, allowing the lightweight model to interact directly with digital desktop interfaces. The model processes continuous screenshots to execute click, scroll, and typing actions seamlessly across varied software environments.
+---
+ID: TL-04
+Title: GLM-5.2 is the step change for open agents (11 minute read)
+Excerpt: GLM-5.2 seemed like an incremental update, but the small change in benchmarks and training opened up a wide range of new use-cases. It feels right at home in coding harnesses as a general agent. Many in the AI community have praised the model after using it personally.
+---
+ID: TL-05
+Title: Notes on Amazon v. Perplexity (27 minute read)
+Excerpt: Amazon is suing Perplexity for breaking the Amazon Store's Conditions of Use as Perplexity's Comet browser circumvents the requirement to clearly identify itself as an agent and instead identifies itself as Chrome. The idea that Perplexity's client needs to behave in a certain way goes against the basic principles of the open Web, which are about user control. The increased user agency of the open Web is what distinguishes it from downloadable apps. Sites have historically attempted all kinds of technical measures to prevent users from experiencing their content on their terms, but at the end of the day, the site is rendered on the client, so users mostly have the ability to download a client that renders the site in the way they prefer. Agentic browsing is just another browser feature that lets users engage with the Web on their terms.
+---
+ID: TL-06
+Title: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel (4 minute read)
+Excerpt: NVIDIA launched NeMo AutoModel on Hugging Face to optimize the fine-tuning pipelines of massive Mixture-of-Experts (MoE) architectures like Qwen3 and DeepSeek V3. The framework introduces Expert Parallelism and DeepEP fused communication kernels to distribute specialized expert weights dynamically across GPU clusters. Benchmark results demonstrate up to a 3.7x increase in training throughput alongside a 32% reduction in peak GPU memory usage compared to native Transformers v5 libraries.
+---
+ID: TL-07
+Title: Triangle Splats from Video Diffusion Latents (5 minute read)
+Excerpt: Google's FLAT introduces a feedforward method that decodes triangle splats directly from video diffusion latents, improving geometric accuracy over 3D Gaussian-based approaches.
+---
+ID: TL-08
+Title: Orca (GitHub Repo)
+Excerpt: Functions as an open-source Agent Development Environment designed to manage and orchestrate fleets of parallel coding agents simultaneously.
+---
+ID: TL-09
+Title: Qwen-AgentWorld (29 minute read)
+Excerpt: Alibaba introduced Qwen-AgentWorld, a family of language world models trained on more than 10 million environment interaction trajectories to simulate agentic environments across multiple domains.
+---
+ID: TL-10
+Title: Anthropic and Alibaba Launch Joint AI Model Distillation Campaign (4 minute read)
+Excerpt: Anthropic and Alibaba have initiated a collaborative open-source framework focused on distilling advanced reasoning intelligence from frontier models into hyper-efficient edge models. The partnership leverages Anthropic's safety-alignment techniques alongside Alibaba's massive cloud infrastructure to compress compute footprints without severe capability degradation.
+---
+ID: TL-11
+Title: TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)
+Excerpt: We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more.
+---
+ID: TL-12
+Title: As AI Companies Race for Power, Amazon and Google Have the Lead (6 minute read)
+Excerpt: Amazon has an incumbent advantage in the race for hyperscalers to get their hands on more electricity. It has been building tons of data centers over the past two decades. The company is expected to add the most data center and power capacity in the US through 2030. However, Google will have significantly closed its gap with Amazon by that time.
+---
+ID: TL-13
+Title: Anthropic Veterans' Startup Seeks to Help Scientists Develop Their Own AI (5 minute read)
+Excerpt: Mirendil has raised $200 million in seed funding to make and distribute AI that accelerates AI research for everyone.
+---
+ID: TL-14
+Title: OpenAI Updates GPT-5.5 Instant to Make ChatGPT More Natural and Useful (1 minute read)
+Excerpt: OpenAI has initiated the rollout of an upgraded GPT-5.5 Instant model directly inside ChatGPT for both paid and free tiers.
+---
+ID: TL-15
+Title: Perplexity Computer for Counsel (3 minute read)
+Excerpt: Perplexity launched Computer for Counsel, an AI-driven legal operations tool designed to automate administrative research, document gathering, and contract triage.
+---
+ID: TL-16
+Title: Fable 5 has now reportedly also reappeared in Amazon Bedrock (1 minute read)
+Excerpt: Claude Code v2.2.190 introduces several string changes that hint at preparations for the return of Fable 5.
+---

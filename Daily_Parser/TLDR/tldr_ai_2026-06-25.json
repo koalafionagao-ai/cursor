@@ -1,0 +1,87 @@
+{
+  "date": "2026-06-25",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Jalapeño: OpenAI's new Chip (7 minute read)",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/?utm_source=tldrai",
+        "excerpt": "OpenAI and Broadcom unveiled Jalapeño, the first accelerator in a planned family of LLM inference chips optimized for performance per watt and rapid deployment. The companies said the processor was designed in nine months with AI-assisted development and is intended for gigawatt-scale data center deployments."
+      },
+      {
+        "title": "Gemini Researchers Join Anthropic (1 minute read)",
+        "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/?utm_source=tldrai",
+        "excerpt": "Bloomberg reported that Gemini researchers Jonas Adler and Alexander Pritzel left Google for Anthropic, continuing a wave of high-profile AI talent departures. The trend followed recent exits by Noam Shazeer and DeepMind director John Jumper amid increasing competition between leading AI companies."
+      },
+      {
+        "title": "Introducing Computer Use on Gemini 3.5 Flash (3 minute read)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=tldrai",
+        "excerpt": "Google launched native computer-use capabilities for Gemini 3.5 Flash, allowing the lightweight model to interact directly with digital desktop interfaces. The model processes continuous screenshots to execute click, scroll, and typing actions seamlessly across varied software environments."
+      },
+      {
+        "title": "GLM-5.2 is the step change for open agents (11 minute read)",
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open?utm_source=tldrai",
+        "excerpt": "GLM-5.2 seemed like an incremental update, but the small change in benchmarks and training opened up a wide range of new use-cases. It feels right at home in coding harnesses as a general agent. Many in the AI community have praised the model after using it personally."
+      },
+      {
+        "title": "Notes on Amazon v. Perplexity (27 minute read)",
+        "url": "https://educatedguesswork.org/posts/notes-amazon-perplexity/?utm_source=tldrai",
+        "excerpt": "Amazon is suing Perplexity for breaking the Amazon Store's Conditions of Use as Perplexity's Comet browser circumvents the requirement to clearly identify itself as an agent and instead identifies itself as Chrome. The idea that Perplexity's client needs to behave in a certain way goes against the basic principles of the open Web, which are about user control. The increased user agency of the open Web is what distinguishes it from downloadable apps. Sites have historically attempted all kinds of technical measures to prevent users from experiencing their content on their terms, but at the end of the day, the site is rendered on the client, so users mostly have the ability to download a client that renders the site in the way they prefer. Agentic browsing is just another browser feature that lets users engage with the Web on their terms."
+      },
+      {
+        "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel (4 minute read)",
+        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel?utm_source=tldrai",
+        "excerpt": "NVIDIA launched NeMo AutoModel on Hugging Face to optimize the fine-tuning pipelines of massive Mixture-of-Experts (MoE) architectures like Qwen3 and DeepSeek V3. The framework introduces Expert Parallelism and DeepEP fused communication kernels to distribute specialized expert weights dynamically across GPU clusters. Benchmark results demonstrate up to a 3.7x increase in training throughput alongside a 32% reduction in peak GPU memory usage compared to native Transformers v5 libraries."
+      },
+      {
+        "title": "Triangle Splats from Video Diffusion Latents (5 minute read)",
+        "url": "https://flat-splat.github.io/?utm_source=tldrai",
+        "excerpt": "Google's FLAT introduces a feedforward method that decodes triangle splats directly from video diffusion latents, improving geometric accuracy over 3D Gaussian-based approaches."
+      },
+      {
+        "title": "Orca (GitHub Repo)",
+        "url": "https://github.com/stablyai/orca?utm_source=tldrai",
+        "excerpt": "Functions as an open-source Agent Development Environment designed to manage and orchestrate fleets of parallel coding agents simultaneously."
+      },
+      {
+        "title": "Qwen-AgentWorld (29 minute read)",
+        "url": "https://arxiv.org/abs/2606.24597?utm_source=tldrai",
+        "excerpt": "Alibaba introduced Qwen-AgentWorld, a family of language world models trained on more than 10 million environment interaction trajectories to simulate agentic environments across multiple domains."
+      },
+      {
+        "title": "Anthropic and Alibaba Launch Joint AI Model Distillation Campaign (4 minute read)",
+        "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html?utm_source=tldrai",
+        "excerpt": "Anthropic and Alibaba have initiated a collaborative open-source framework focused on distilling advanced reasoning intelligence from frontier models into hyper-efficient edge models. The partnership leverages Anthropic's safety-alignment techniques alongside Alibaba's massive cloud infrastructure to compress compute footprints without severe capability degradation."
+      },
+      {
+        "title": "TLDR is hiring a Senior PMM ($180k-$225k base + $40-50k annual target bonus, Fully Remote)",
+        "url": "https://jobs.ashbyhq.com/tldr.tech/4028e55e-b0f0-433c-8f61-8886d7e07c29?utm_source=tldrai",
+        "excerpt": "We're hiring a senior PMM to own product marketing at TLDR. You'll define our positioning, build out sales enablement, and lead every launch. Learn more."
+      },
+      {
+        "title": "As AI Companies Race for Power, Amazon and Google Have the Lead (6 minute read)",
+        "url": "https://www.wsj.com/business/energy-oil/as-ai-companies-race-for-power-amazon-and-google-have-the-lead-1d97af9a?st=9LLang&reflink=desktopwebshare_permalink&utm_source=tldrai",
+        "excerpt": "Amazon has an incumbent advantage in the race for hyperscalers to get their hands on more electricity. It has been building tons of data centers over the past two decades. The company is expected to add the most data center and power capacity in the US through 2030. However, Google will have significantly closed its gap with Amazon by that time."
+      },
+      {
+        "title": "Anthropic Veterans' Startup Seeks to Help Scientists Develop Their Own AI (5 minute read)",
+        "url": "https://www.wsj.com/tech/ai/anthropic-veterans-startup-seeks-to-help-scientists-develop-their-own-ai-09e2f3e5?st=4qg8uf&reflink=desktopwebshare_permalink&utm_source=tldrai",
+        "excerpt": "Mirendil has raised $200 million in seed funding to make and distribute AI that accelerates AI research for everyone."
+      },
+      {
+        "title": "OpenAI Updates GPT-5.5 Instant to Make ChatGPT More Natural and Useful (1 minute read)",
+        "url": "https://x.com/openai/status/2069843083701915755?utm_source=tldrai",
+        "excerpt": "OpenAI has initiated the rollout of an upgraded GPT-5.5 Instant model directly inside ChatGPT for both paid and free tiers."
+      },
+      {
+        "title": "Perplexity Computer for Counsel (3 minute read)",
+        "url": "https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel?utm_source=tldrai",
+        "excerpt": "Perplexity launched Computer for Counsel, an AI-driven legal operations tool designed to automate administrative research, document gathering, and contract triage."
+      },
+      {
+        "title": "Fable 5 has now reportedly also reappeared in Amazon Bedrock (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2069822346781761813.html?utm_source=tldrai",
+        "excerpt": "Claude Code v2.2.190 introduces several string changes that hint at preparations for the return of Fable 5."
+      }
+    ]
+  }
+}

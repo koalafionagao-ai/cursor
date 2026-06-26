@@ -1,0 +1,458 @@
+{
+  "date": "2026-06-25",
+  "sections": {
+    "top news": [
+      {
+        "title": "Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has “never seen a component price increase this much, this quickly”; iPhone is unchanged",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=KUffGA&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@mkbhd",
+            "text": "Memory price hikes have finally started hitting Apple. Today, they raised some base prices: Macbook Neo: $599 -> $699 Macbook Air: $1099 -> $1299 Macbook Pro: $1699 -> $1999 Mac Studio: $1999 -> $2499 iPad Air $599 - $749 iPad Pro: $999 -> $1199",
+            "url": "https://x.com/mkbhd/status/2070134629051363371"
+          },
+          {
+            "author": "@sensanders",
+            "text": "Corporate greed is Tim Cook, the billionaire Apple CEO, claiming that hiking prices on Apple products by over $200 is “unavoidable” after it made $112 billion in profits last year & spent $310 billion on stock buybacks.  These price hikes aren't unavoidable.  They're unacceptable.",
+            "url": "https://x.com/sensanders/status/2070213058950287865"
+          },
+          {
+            "author": "@elonmusk",
+            "text": "Tim Cook, who told The Wall Street Journal that the jump in costs was unlike anything he had seen “in any area in over 40 years.” Biggest price jump in anything I've ever seen too.",
+            "url": "https://x.com/elonmusk/status/2070187969453949298"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Apple says “the rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage”; the MacBook Neo rises from $599 to $699",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjM5NTMyMSwiZXhwIjoxNzgzMDAwMTIxLCJhcnRpY2xlSWQiOiJUSDZSMUVLSVAzSU4wMCIsImJjb25uZWN0SWQiOiJGM0I0ODYxQzQ2QzI0OUJFQjgwMEJCQ0NGODhBRTcwNCJ9.8kxnNkCauqZjtR2oBRRjuDhrElWCytwoJ3xeCoIYYaw"
+          },
+          {
+            "title": "Apple stock closed down 6.15% on Thursday after the company raised some product prices, its worst fall since April 2025",
+            "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025",
+        "excerpt": "",
+        "url": "https://kotaku.com/xbox-price-increase-2026-tariffs-buy-now-pay-later-2000710565",
+        "tweets": [
+          {
+            "author": "@zhugeex",
+            "text": "The most important part of the announcement: “Unfortunately, console storage and memory prices have increased by more than 2.5x and we expect another doubling by the fall of 2027.”",
+            "url": "https://x.com/zhugeex/status/2070187291151052962"
+          },
+          {
+            "author": "@paultassi",
+            "text": "You gotta be kidding me. Prices so high they don't even say them out loud and the 2TB model got so expensive they discontinued it entirely",
+            "url": "https://x.com/paultassi/status/2070186270249123864"
+          },
+          {
+            "author": "@kalaelizabeth",
+            "text": "Asha saying that gaming has become “too expensive for gamers” literally yesterday and then raising Xbox prices today lol",
+            "url": "https://x.com/kalaelizabeth/status/2070190140887310431"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "IBM details a 0.7nm chip manufacturing process that utilizes a “nanostack” 3D transistor architecture, which it says could continue chip innovation for 10 years",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+        "tweets": [
+          {
+            "author": "@lithos_graphein",
+            "text": "IBM's nanostack is a CFET device, but it uses wafer bonding instead of making them on 1 wafer. I have no idea how they'd get the alignment for this to work. [image]",
+            "url": "https://x.com/lithos_graphein/status/2070130183374336193"
+          },
+          {
+            "author": "@iancutress",
+            "text": "OMG @IBM just announced its 0.7nm process node using homegrown NanoStack technology.  It defines a route for transistors after GAA by using a staggered CFET design enabling 50% logic scaling, 40% SRAM scaling, and 666 million transistors per sq mm***.",
+            "url": "https://x.com/iancutress/status/2070095663627448538"
+          },
+          {
+            "author": "@kimmonismus",
+            "text": "IBM says it can fit nearly 100 billion transistors onto a chip the size of a fingernail, almost 2x the density of its 2 nm chip from 2021.  • up to 50% more performance  • or 70% better energy efficiency  • 40% SRAM scaling for AI workloads Important caveat: this is still research, not a chip shipping tomorrow.  IBM says production could happen as early as the next 5 years.",
+            "url": "https://x.com/kimmonismus/status/2070240325914820835"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple plans to skip higher-end M6 chips and launch its next Pro and Max chips in 2027 as part of the M7 lineup, to boost on-device AI capabilities",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwNTU2MCwiZXhwIjoxNzgzMDEwMzYwLCJhcnRpY2xlSWQiOiJUSDM4OFJUOTZPU08wMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.3RpcTAgL-JUz9iWRQYzyWaSzoOhLU50chTDHkeU0GTI",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT 5.6 over security concerns, approving “access customer by customer”",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html?unlocked_article_code=1.s1A.wMuq.NWAdKIQ22Njw&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html?unlocked_article_code=1.s1A.sI-A.skRbLqYWUI0K&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sony's Bungie says it is laying off a “significant number of employees”, including “most of the Destiny team”; Bungie has an estimated headcount of 800",
+        "excerpt": "",
+        "url": "https://kotaku.com/mass-layoffs-have-started-at-bungie-following-the-end-of-destiny-2-2000710506",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59",
+        "excerpt": "",
+        "url": "https://om.co/2026/06/24/1966-2026/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Notion plans to shut down its Gmail client Notion Mail on September 22 and go “all in” on AI agents to run inboxes, saying 50%+ of users do not open the inbox",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alibaba's stock closed down 4.43% in Hong Kong on Thursday after Anthropic accused the company of “illicitly” accessing its AI models; Xiaomi and Baidu fell ~3%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Google is asking publishers that test new AI features in Google News to grant it broad rights to their content, including to potentially train AI models",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/google-strikes-tough-negotiating-stance-publishers-ai-licensing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Google expands the scope of its months-old AI coding strike team to “midtraining” to try to catch up with Anthropic, after major executive departures",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/google-revamps-new-ai-coding-strike-team-amid-struggle-catch-anthropic",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: Meta Superintelligence Labs is hiring three founders and other team members behind AI security startup Virtue AI; two founders report to Nat Friedman",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/06/25/meta-hires-virtue-ai-founders-security",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Exponential View: global AI sales, excluding China, hit $25B in Q1, exceeding an estimated $21B in data center and chip depreciation costs; margins remain thin",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based “cat” models to predict natural disasters",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/347a6679-8301-4f89-8b5a-dffc54c7ea27",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic hires French telecom group Orange's Chief AI Officer Steve Jarrett to help Anthropic “better understand and adapt” its products to Europe and Africa",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/anthropic-hires-oranges-ai-chief-amid-europe-push-2026-06-25/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains; the one-page statement had few details",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-seeks-ai-partnership-with-eu-on-regulation-supply-chains",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $320M led by Khosla at a $2.3B valuation, for $454M in total funding",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Australian payments startup Airwallex raised $320M led by Lee Fixel's Addition at an $11B valuation, and is incubating blockchain payments startup Metal",
+        "excerpt": "",
+        "url": "http://www.forbes.com/sites/jeffkauflin/2026/06/25/how-this-new-fintech-billionaire-is-cashing-in-on-cross-border-payments/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Muon Space, which operates satellite networks for climate and national security monitoring, is raising $250M; it has raised ~$181M since its 2021 launch",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/climate-deals/2026/06/24/muon-space-satellites-fundraise",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mirendil, founded by former Anthropic researchers and seeking to build self-improving AI for open-source developers, raised a $200M seed at a $1B valuation",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/anthropic-veterans-startup-seeks-to-help-scientists-develop-their-own-ai-09e2f3e5?st=CWXZSf&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Story Protocol, a blockchain-based IP ownership network that raised $140M, rebrands as Data Foundation to build an on-chain registry for AI training data",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Assort Health, which develops AI voice agents for health care to handle scheduling and more, raised a $120M Series C led by Menlo Ventures at a $1.2B valuation",
+        "excerpt": "",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-scores-120m-series-c-scale-voice-ai-agent-platform-healthcare",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Scaled Cognition, a reliability-focused lab that develops the Agentic Pretrained Transformer model, raised a $100M Series A led by Khosla at a $750M valuation",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/scaled-cognition-proposes-a-more-reliable-approach-to-ai-6d55c6c2?st=jn3LBs&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/06/25/exclusive-sail-apple-kleiner-perkins-gpu-token-nvdia-sequoia-80-million/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New Zealand-based Partly, which develops an AI model for the auto parts industry, raised a $50M Series B led by DST at a $500M valuation, as it enters the US",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/23/partly-raises-50m-500m-valuation-crack-us-auto-parts-market/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Paris-based Tsuga, whose observability software runs in customers' own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular",
+        "excerpt": "",
+        "url": "https://thenextweb.com/news/tsuga-35-million-series-a-observability",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Coval, which develops simulation and evaluation tech for testing, launching, and monitoring AI voice and chat agents, raised a $28M Series A led by Norwest",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/06/24/coval-raises-28m-enterprises-push-voice-agents-production/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nebulock, which helps security teams proactively find and remediate threats across a company's security stack, raised a $25M Series A led by FirstMark",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/06/25/nebulock-threat-hunting-cybersecurity",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Netris, which helps neoclouds automate network configuration to bring their data centers online faster, raised a $15M Series A from a16z",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of incoming WhatsApp CEO Kunal Shah, who studied philosophy, advised Sequoia India, and joins a growing pool of Indian-born executives at US companies",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/442bdba8-6f7e-4ddf-a99b-a8ba102d247f",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Meta has accelerated its plans to use LLMs to review content and ads, replacing ~50% of human review requests in 2026 and aiming for 90%+ by year-end",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple says it removed VK's apps from the App Store to comply with sanctions; VK says they were removed without warning and it has never been under US sanctions",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/europe/kremlin-demands-explanation-apple-after-russian-apps-removed-app-store-2026-06-25/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "The Netherlands is lobbying the US to not expand chip equipment export controls that would constrain ASML's ability to sell immersion DUV machines to China",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/netherlands-lobbies-us-to-drop-chip-curbs-targeting-asml-sales",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US awards $250M in CHIPS funds to a startup co-founded by billionaire mining magnate Robert Friedland to develop silicon-carbide chips and pulsed-power tech",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-invests-250-million-in-billionaire-s-startup-for-chip-making",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Qualcomm CEO Cristiano Amon says the company is designing data center chips specifically for Chinese customers that are in compliance with US export controls",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/qualcomm-to-design-china-specific-data-center-chip-in-line-with-us-export-curbs",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NAND flash maker Kioxia, Japan's most valuable company since June 12, plans to offer US depositary shares in spring 2027 amid AI-driven demand for memory chips",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/softbank-chipmaker-arm-hits-50-share-in-top-ai-data-centers-exec",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Sources: Bumble explores a sale amid slowing growth in the online dating sector; its shares fell 48% over the past 12 months, giving it a market cap of $388M",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/bumble-dating-app-explores-sale-sources-say-2026-06-25/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Kraken is in talks to acquire a 15% stake in DeFi protocol Aave at a $385M valuation, investing 35,000 ETH in return for 250,000 AAVE tokens",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Microsoft quietly extends the Extended Security Updates program for Windows 10 consumers by a year, letting eligible users get updates through October 12, 2027",
+        "excerpt": "",
+        "url": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "TRM Labs: since 2019, Iran-linked crypto wallets, including those tied to Iran's central bank, have moved $3.84B+ in transactions through crypto exchange CoinEx",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/currencies/how-a-crypto-exchange-became-a-major-hub-for-illicit-iranian-cash-46e771a2?st=SPyrfr&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google launches a Google Finance app for Android, with market data, financial news, and an AI-powered “Key Moments” feature, and plans an iOS version this year",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Preliminary findings: the EU says Azure and AWS are “the largest and second largest” cloud services in the EU, as the bloc weighs up tougher DMA oversight",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-amazon-cloud-units-face-tough-eu-rules-for-big-tech",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As China's working-age population shrinks, consensus is growing that China must embed embodied AI robots into as many tasks as possible, as soon as possible",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?accessToken=zwAAAZ79MZqMkdPIcxgzEMpKEtO_5I67JYTsaA.MEYCIQCSSI7J1vAXqRtz4tQYz551einE7UTB8Wv8AU2QBen0GQIhALM30pyYZWhUnmpAkZ2eHsndxmCSNLUirqcU-QmlRjhT&sharetype=gift&token=b45976a5-02d6-46b2-af02-f02579ed31bd",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NHTSA proposes eliminating the mandate for manual brake pedals in “vehicles designed to be driven exclusively by automated driving systems”",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/25/trump-admin-proposes-axing-brake-pedal-requirement-for-avs-in-a-boost-for-tesla/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Larry Ellison's $45M donation to a group supporting President Trump brought Ellison deeper into Trump's circle, helping Oracle and his son's WBD acquisition",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/policy/how-a-45-million-donation-brought-larry-ellison-deeper-into-trumps-circle-b3e26c03?st=A7Miop&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Digital advocacy firms like CiviClick and Influent appear to use AI to generate mass public comments on local energy projects, mostly favoring fossil fuel use",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-24/ai-powered-emails-invade-public-comments-process-alarming-policymakers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjMxMDcyOCwiZXhwIjoxNzgyOTE1NTI4LCJhcnRpY2xlSWQiOiJUSDRUNkZLSVAzTUEwMCIsImJjb25uZWN0SWQiOiIyMjc1RTYyODc5NjY0NjIyOUExMkRCMjU1OEYzNjQ2QiJ9.zdrqwPt7Z_vvNhK1kdvdKrLVj30NbZKihQRQiwdZRyc",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjMxMDE5NywiZXhwIjoxNzgyOTE0OTk3LCJhcnRpY2xlSWQiOiJUSDRaRkZLSVAzS0MwMCIsImJjb25uZWN0SWQiOiJFMUQ3NTREODUzQzI0NjQyQUZBMDVFMUIwMEY3RjMwQyJ9.BSAwVRB6m5lh77LUj1mH6odgLt7F95yutEflvB4RIO0",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 54
+  }
+}

@@ -164,9 +164,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "total": 34,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 491,
+  "item_count": 525,
   "items": [
     {
       "id": "TM-01",
@@ -13675,6 +13683,972 @@
       ],
       "category_tag": "cat:business",
       "date": "2026-06-24"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+      "title": {
+        "zh": "IBM推出0.7nm芯片制造工艺，采用“纳米堆栈”3D晶体管架构",
+        "en": "IBM details a 0.7nm chip manufacturing process that utilizes a “nanostack” 3D transistor architecture, which it says could continue chip innovation for 10 years"
+      },
+      "summary": {
+        "zh": "IBM表示，这项技术有望在未来10年内推动芯片创新。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "ibm",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ibm",
+        "chip"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-04",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwNTU2MCwiZXhwIjoxNzgzMDEwMzYwLCJhcnRpY2xlSWQiOiJUSDM4OFJUOTZPU08wMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.3RpcTAgL-JUz9iWRQYzyWaSzoOhLU50chTDHkeU0GTI",
+      "title": {
+        "zh": "消息称苹果计划跳过高端M6芯片，将于2027年推出M7系列",
+        "en": "Sources: Apple plans to skip higher-end M6 chips and launch its next Pro and Max chips in 2027 as part of the M7 lineup, to boost on-device AI capabilities"
+      },
+      "summary": {
+        "zh": "新芯片将提升设备上的AI能力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "apple",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns",
+      "title": {
+        "zh": "消息称美国政府要求OpenAI分阶段发布GPT 5.6以应对安全问题",
+        "en": "Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT 5.6 over security concerns, approving “access customer by customer”"
+      },
+      "summary": {
+        "zh": "Sam Altman向员工透露，政府批准了“逐个客户访问”的方式。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "gpt",
+        "sam-altman",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "sam-altman",
+        "safety",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html?unlocked_article_code=1.s1A.sI-A.skRbLqYWUI0K&smid=url-share",
+      "title": {
+        "zh": "OpenAI、Anthropic等公司联合成立Raise Us非营利组织，帮助美国工人适应AI",
+        "en": "OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI"
+      },
+      "summary": {
+        "zh": "该组织由前商务部长Gina Raimondo领导。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "anthropic",
+        "amazon",
+        "microsoft",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "amazon",
+        "microsoft",
+        "policy"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/",
+      "title": {
+        "zh": "Notion计划关闭Gmail客户端Notion Mail，专注于AI代理管理收件箱",
+        "en": "Notion plans to shut down its Gmail client Notion Mail on September 22 and go “all in” on AI agents to run inboxes, saying 50%+ of users do not open the inbox"
+      },
+      "summary": {
+        "zh": "公司表示超过50%的用户未打开收件箱。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "notion",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "notion",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/google-revamps-new-ai-coding-strike-team-amid-struggle-catch-anthropic",
+      "title": {
+        "zh": "消息称谷歌扩展AI编程团队的职责至“中期训练”，以追赶Anthropic",
+        "en": "Sources: Google expands the scope of its months-old AI coding strike team to “midtraining” to try to catch up with Anthropic, after major executive departures"
+      },
+      "summary": {
+        "zh": "此举发生在多名高管离职后。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "coding",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "coding",
+        "training"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/347a6679-8301-4f89-8b5a-dffc54c7ea27",
+      "title": {
+        "zh": "风险建模公司利用AI和扩散模型预测自然灾害",
+        "en": "How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based “cat” models to predict natural disasters"
+      },
+      "summary": {
+        "zh": "Fathom和Verisk等公司通过新技术突破物理模型的限制。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "reasoning"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-seeks-ai-partnership-with-eu-on-regulation-supply-chains",
+      "title": {
+        "zh": "消息称美国提议与欧盟签署AI合作伙伴关系以保障芯片供应链",
+        "en": "Sources and a draft document: the US proposes that the EU sign on to an AI partnership to help secure chip supply chains; the one-page statement had few details"
+      },
+      "summary": {
+        "zh": "草案为一页文件，细节较少。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "chip"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "title": {
+        "zh": "General Intuition完成3.2亿美元融资，估值达23亿美元",
+        "en": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $320M led by Khosla at a $2.3B valuation, for $454M in total funding"
+      },
+      "summary": {
+        "zh": "公司通过游戏画面训练AI代理进行空间推理，总融资额达4.54亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/anthropic-veterans-startup-seeks-to-help-scientists-develop-their-own-ai-09e2f3e5?st=CWXZSf&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "由前Anthropic研究员创立的Mirendil完成2亿美元种子轮融资",
+        "en": "Mirendil, founded by former Anthropic researchers and seeking to build self-improving AI for open-source developers, raised a $200M seed at a $1B valuation"
+      },
+      "summary": {
+        "zh": "公司估值达10亿美元，致力于为开源开发者构建自我改进AI。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "open-source"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-scores-120m-series-c-scale-voice-ai-agent-platform-healthcare",
+      "title": {
+        "zh": "Assort Health完成1.2亿美元C轮融资，估值达12亿美元",
+        "en": "Assort Health, which develops AI voice agents for health care to handle scheduling and more, raised a $120M Series C led by Menlo Ventures at a $1.2B valuation"
+      },
+      "summary": {
+        "zh": "Assort Health开发用于医疗保健的AI语音代理，可处理预约等任务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/scaled-cognition-proposes-a-more-reliable-approach-to-ai-6d55c6c2?st=jn3LBs&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Scaled Cognition完成1亿美元A轮融资，估值达7.5亿美元",
+        "en": "Scaled Cognition, a reliability-focused lab that develops the Agentic Pretrained Transformer model, raised a $100M Series A led by Khosla at a $750M valuation"
+      },
+      "summary": {
+        "zh": "该实验室专注于可靠性，开发了Agentic Pretrained Transformer模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/25/exclusive-sail-apple-kleiner-perkins-gpu-token-nvdia-sequoia-80-million/",
+      "title": {
+        "zh": "Sail从隐身模式中走出，完成8000万美元融资，估值4.5亿美元",
+        "en": "Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation"
+      },
+      "summary": {
+        "zh": "Sail的软件优化了AI模型在现有芯片上的运行效率。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/06/23/partly-raises-50m-500m-valuation-crack-us-auto-parts-market/",
+      "title": {
+        "zh": "新西兰公司Partly完成5000万美元B轮融资，进军美国市场",
+        "en": "New Zealand-based Partly, which develops an AI model for the auto parts industry, raised a $50M Series B led by DST at a $500M valuation, as it enters the US"
+      },
+      "summary": {
+        "zh": "Partly开发了用于汽车零部件行业的AI模型，估值达5亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "openai"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-35",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "title": {
+        "zh": "Facebook重新推出独立应用Creator Studio，内置AI聊天机器人",
+        "en": "Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance"
+      },
+      "summary": {
+        "zh": "该应用帮助创作者通过个性化指导扩大受众群体。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-37",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd",
+      "title": {
+        "zh": "消息称Meta加速使用LLM审查内容和广告，2026年取代50%人工审查",
+        "en": "Sources: Meta has accelerated its plans to use LLMs to review content and ads, replacing ~50% of human review requests in 2026 and aiming for 90%+ by year-end"
+      },
+      "summary": {
+        "zh": "目标是在年底前实现90%以上的自动化审查。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "meta",
+        "llama"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "llama"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-39",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/netherlands-lobbies-us-to-drop-chip-curbs-targeting-asml-sales",
+      "title": {
+        "zh": "荷兰游说美国放宽对ASML向中国出口DUV设备的限制",
+        "en": "The Netherlands is lobbying the US to not expand chip equipment export controls that would constrain ASML's ability to sell immersion DUV machines to China"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "chip"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-invests-250-million-in-billionaire-s-startup-for-chip-making",
+      "title": {
+        "zh": "美国向硅碳芯片初创公司拨款2.5亿美元CHIPS基金",
+        "en": "The US awards $250M in CHIPS funds to a startup co-founded by billionaire mining magnate Robert Friedland to develop silicon-carbide chips and pulsed-power tech"
+      },
+      "summary": {
+        "zh": "该公司由亿万富翁矿业大亨Robert Friedland联合创立，专注于硅碳芯片和脉冲功率技术。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-43",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/softbank-chipmaker-arm-hits-50-share-in-top-ai-data-centers-exec",
+      "title": {
+        "zh": "Arm高管称其芯片架构占据超50%超大规模云计算市场",
+        "en": "Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry"
+      },
+      "summary": {
+        "zh": "随着AI需求的增长，数据中心行业正在发生变革。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-48",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "title": {
+        "zh": "Google推出Google Finance应用，支持AI驱动的“关键时刻”功能",
+        "en": "Google launches a Google Finance app for Android, with market data, financial news, and an AI-powered “Key Moments” feature, and plans an iOS version this year"
+      },
+      "summary": {
+        "zh": "该应用提供市场数据、财经新闻，并计划今年推出iOS版本。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-50",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68?accessToken=zwAAAZ79MZqMkdPIcxgzEMpKEtO_5I67JYTsaA.MEYCIQCSSI7J1vAXqRtz4tQYz551einE7UTB8Wv8AU2QBen0GQIhALM30pyYZWhUnmpAkZ2eHsndxmCSNLUirqcU-QmlRjhT&sharetype=gift&token=b45976a5-02d6-46b2-af02-f02579ed31bd",
+      "title": {
+        "zh": "中国劳动力减少，推动嵌入式AI机器人加速应用",
+        "en": "As China's working-age population shrinks, consensus is growing that China must embed embodied AI robots into as many tasks as possible, as soon as possible"
+      },
+      "summary": {
+        "zh": "随着中国劳动年龄人口的减少，越来越多的共识认为需要尽快将嵌入式AI机器人应用于尽可能多的任务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "robotics",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TM-53",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-24/ai-powered-emails-invade-public-comments-process-alarming-policymakers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjMxMDcyOCwiZXhwIjoxNzgyOTE1NTI4LCJhcnRpY2xlSWQiOiJUSDRUNkZLSVAzTUEwMCIsImJjb25uZWN0SWQiOiIyMjc1RTYyODc5NjY0NjIyOUExMkRCMjU1OEYzNjQ2QiJ9.zdrqwPt7Z_vvNhK1kdvdKrLVj30NbZKihQRQiwdZRyc",
+      "title": {
+        "zh": "数字倡导公司利用AI生成能源项目公众评论",
+        "en": "Digital advocacy firms like CiviClick and Influent appear to use AI to generate mass public comments on local energy projects, mostly favoring fossil fuel use"
+      },
+      "summary": {
+        "zh": "CiviClick和Influent等数字倡导公司似乎使用AI生成支持化石燃料的公众评论，影响地方能源项目决策。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "policy",
+        "energy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "energy"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI推出新芯片Jalapeño，优化LLM推理性能",
+        "en": "Jalapeño: OpenAI's new Chip (7 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI与博通联合发布了Jalapeño芯片，专为高效能和快速部署设计，适用于千兆瓦级数据中心。",
+        "en": "OpenAI and Broadcom unveiled Jalapeño, the first accelerator in a planned family of LLM inference chips optimized for performance per watt and rapid deployment. The companies said the processor was designed in nine months with AI-assisted development and is intended for gigawatt-scale data center deployments."
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chip",
+        "gpu",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chip",
+        "gpu",
+        "data-center"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini研究人员加入Anthropic，AI人才流动加剧",
+        "en": "Gemini Researchers Join Anthropic (1 minute read)"
+      },
+      "summary": {
+        "zh": "Gemini研究人员Jonas Adler和Alexander Pritzel离开Google加入Anthropic，反映AI公司间竞争加剧。",
+        "en": "Bloomberg reported that Gemini researchers Jonas Adler and Alexander Pritzel left Google for Anthropic, continuing a wave of high-profile AI talent departures. The trend followed recent exits by Noam Shazeer and DeepMind director John Jumper amid increasing competition between leading AI companies."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "gemini",
+        "google",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "gemini",
+        "google",
+        "startup"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/?utm_source=tldrai",
+      "title": {
+        "zh": "Google为Gemini 3.5 Flash引入计算机使用功能",
+        "en": "Introducing Computer Use on Gemini 3.5 Flash (3 minute read)"
+      },
+      "summary": {
+        "zh": "Gemini 3.5 Flash新增直接与数字桌面交互的能力，可处理截图并执行点击、滚动和输入操作。",
+        "en": "Google launched native computer-use capabilities for Gemini 3.5 Flash, allowing the lightweight model to interact directly with digital desktop interfaces. The model processes continuous screenshots to execute click, scroll, and typing actions seamlessly across varied software environments."
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open?utm_source=tldrai",
+      "title": {
+        "zh": "GLM-5.2：开放代理的关键进展",
+        "en": "GLM-5.2 is the step change for open agents (11 minute read)"
+      },
+      "summary": {
+        "zh": "GLM-5.2在基准和训练上的小改进解锁了广泛的新用例，尤其适合编码场景。",
+        "en": "GLM-5.2 seemed like an incremental update, but the small change in benchmarks and training opened up a wide range of new use-cases. It feels right at home in coding harnesses as a general agent. Many in the AI community have praised the model after using it personally."
+      },
+      "tags": [
+        "cat:model",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA NeMo AutoModel加速Transformer微调",
+        "en": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel (4 minute read)"
+      },
+      "summary": {
+        "zh": "NVIDIA推出NeMo AutoModel，优化大规模专家模型的微调流程，显著提升训练效率并降低GPU内存使用。",
+        "en": "NVIDIA launched NeMo AutoModel on Hugging Face to optimize the fine-tuning pipelines of massive Mixture-of-Experts (MoE) architectures like Qwen3 and DeepSeek V3. The framework introduces Expert Parallelism and DeepEP fused communication kernels to distribute specialized expert weights dynamically across GPU clusters. Benchmark results demonstrate up to a 3.7x increase in training throughput alongside a 32% reduction in peak GPU memory usage compared to native Transformers v5 libraries."
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "qwen",
+        "deepseek",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "qwen",
+        "deepseek",
+        "training"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://github.com/stablyai/orca?utm_source=tldrai",
+      "title": {
+        "zh": "Orca：开源代理开发环境",
+        "en": "Orca (GitHub Repo)"
+      },
+      "summary": {
+        "zh": "Orca是一个开源的代理开发环境，用于同时管理和协调多个并行编码代理。",
+        "en": "Functions as an open-source Agent Development Environment designed to manage and orchestrate fleets of parallel coding agents simultaneously."
+      },
+      "tags": [
+        "cat:app",
+        "open-source",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2606.24597?utm_source=tldrai",
+      "title": {
+        "zh": "阿里巴巴推出Qwen-AgentWorld语言世界模型",
+        "en": "Qwen-AgentWorld (29 minute read)"
+      },
+      "summary": {
+        "zh": "Qwen-AgentWorld通过超过1000万次环境交互轨迹训练，模拟多领域的代理环境。",
+        "en": "Alibaba introduced Qwen-AgentWorld, a family of language world models trained on more than 10 million environment interaction trajectories to simulate agentic environments across multiple domains."
+      },
+      "tags": [
+        "cat:model",
+        "alibaba",
+        "qwen",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "alibaba",
+        "qwen",
+        "agent"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic与阿里巴巴启动联合AI模型蒸馏计划",
+        "en": "Anthropic and Alibaba Launch Joint AI Model Distillation Campaign (4 minute read)"
+      },
+      "summary": {
+        "zh": "双方合作开发开源框架，将前沿模型的推理能力蒸馏至高效边缘模型，兼顾安全对齐与计算效率。",
+        "en": "Anthropic and Alibaba have initiated a collaborative open-source framework focused on distilling advanced reasoning intelligence from frontier models into hyper-efficient edge models. The partnership leverages Anthropic's safety-alignment techniques alongside Alibaba's massive cloud infrastructure to compress compute footprints without severe capability degradation."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "alibaba",
+        "open-source",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "alibaba",
+        "open-source",
+        "safety"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/energy-oil/as-ai-companies-race-for-power-amazon-and-google-have-the-lead-1d97af9a?st=9LLang&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "亚马逊与谷歌在AI电力竞争中占据领先地位",
+        "en": "As AI Companies Race for Power, Amazon and Google Have the Lead (6 minute read)"
+      },
+      "summary": {
+        "zh": "亚马逊凭借其多年来建设的大量数据中心，在获取电力资源的竞争中占据优势。预计到2030年，亚马逊将在美国增加最多的数据中心和电力容量，而谷歌也将在此期间大幅缩小与亚马逊的差距。",
+        "en": "Amazon has an incumbent advantage in the race for hyperscalers to get their hands on more electricity. It has been building tons of data centers over the past two decades. The company is expected to add the most data center and power capacity in the US through 2030. However, Google will have significantly closed its gap with Amazon by that time."
+      },
+      "tags": [
+        "cat:business",
+        "amazon",
+        "google",
+        "data-center",
+        "energy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon",
+        "google",
+        "data-center",
+        "energy"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/anthropic-veterans-startup-seeks-to-help-scientists-develop-their-own-ai-09e2f3e5?st=4qg8uf&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic前员工创立新公司，助力科学家开发AI",
+        "en": "Anthropic Veterans' Startup Seeks to Help Scientists Develop Their Own AI (5 minute read)"
+      },
+      "summary": {
+        "zh": "Mirendil初创公司获得2亿美元种子轮融资，旨在开发和分发加速AI研究的工具。",
+        "en": "Mirendil has raised $200 million in seed funding to make and distribute AI that accelerates AI research for everyone."
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "anthropic"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-14",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://x.com/openai/status/2069843083701915755?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI更新GPT-5.5 Instant以提升ChatGPT的自然性与实用性",
+        "en": "OpenAI Updates GPT-5.5 Instant to Make ChatGPT More Natural and Useful (1 minute read)"
+      },
+      "summary": {
+        "zh": "",
+        "en": "OpenAI has initiated the rollout of an upgraded GPT-5.5 Instant model directly inside ChatGPT for both paid and free tiers."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "chatgpt"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "TL-15",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-computer-for-counsel?utm_source=tldrai",
+      "title": {
+        "zh": "Perplexity推出法律运营工具Computer for Counsel",
+        "en": "Perplexity Computer for Counsel (3 minute read)"
+      },
+      "summary": {
+        "zh": "Perplexity发布了一款名为Computer for Counsel的AI驱动法律运营工具，用于自动化行政研究、文档收集和合同分类。",
+        "en": "Perplexity launched Computer for Counsel, an AI-driven legal operations tool designed to automate administrative research, document gathering, and contract triage."
+      },
+      "tags": [
+        "cat:app",
+        "perplexity",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "perplexity",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-25"
     }
   ],
   "tag_index": {
@@ -13713,7 +14687,8 @@
       "2026-06-23:TL-01",
       "2026-06-24:TM-43",
       "2026-06-24:TL-06",
-      "2026-06-24:TL-17"
+      "2026-06-24:TL-17",
+      "2026-06-25:TL-06"
     ],
     "chip": [
       "2026-06-01:TM-01",
@@ -13741,7 +14716,15 @@
       "2026-06-23:TM-14",
       "2026-06-23:TM-34",
       "2026-06-24:TM-01",
-      "2026-06-24:TM-02"
+      "2026-06-24:TM-02",
+      "2026-06-25:TM-03",
+      "2026-06-25:TM-04",
+      "2026-06-25:TM-19",
+      "2026-06-25:TM-27",
+      "2026-06-25:TM-39",
+      "2026-06-25:TM-40",
+      "2026-06-25:TM-43",
+      "2026-06-25:TL-01"
     ],
     "anthropic": [
       "2026-06-01:TM-02",
@@ -13802,7 +14785,11 @@
       "2026-06-23:TL-14",
       "2026-06-24:TM-05",
       "2026-06-24:TM-11",
-      "2026-06-24:TL-02"
+      "2026-06-24:TL-02",
+      "2026-06-25:TM-07",
+      "2026-06-25:TL-02",
+      "2026-06-25:TL-10",
+      "2026-06-25:TL-13"
     ],
     "ipo": [
       "2026-06-01:TM-02",
@@ -13881,7 +14868,12 @@
       "2026-06-23:TM-04",
       "2026-06-23:TL-02",
       "2026-06-24:TM-01",
-      "2026-06-24:TL-12"
+      "2026-06-24:TL-12",
+      "2026-06-25:TM-05",
+      "2026-06-25:TM-07",
+      "2026-06-25:TM-28",
+      "2026-06-25:TL-01",
+      "2026-06-25:TL-14"
     ],
     "sam-altman": [
       "2026-06-01:TM-04",
@@ -13889,7 +14881,8 @@
       "2026-06-04:TM-04",
       "2026-06-09:TM-13",
       "2026-06-09:TL-08",
-      "2026-06-17:TM-01"
+      "2026-06-17:TM-01",
+      "2026-06-25:TM-05"
     ],
     "regulation": [
       "2026-06-01:TM-04",
@@ -13960,7 +14953,12 @@
       "2026-06-19:TL-10",
       "2026-06-22:TM-03",
       "2026-06-23:TM-08",
-      "2026-06-24:TM-39"
+      "2026-06-24:TM-39",
+      "2026-06-25:TM-14",
+      "2026-06-25:TM-48",
+      "2026-06-25:TL-02",
+      "2026-06-25:TL-03",
+      "2026-06-25:TL-12"
     ],
     "funding": [
       "2026-06-01:TM-05",
@@ -14050,7 +15048,15 @@
       "2026-06-24:TM-28",
       "2026-06-24:TM-30",
       "2026-06-24:TM-32",
-      "2026-06-24:TM-33"
+      "2026-06-24:TM-33",
+      "2026-06-25:TM-20",
+      "2026-06-25:TM-23",
+      "2026-06-25:TM-25",
+      "2026-06-25:TM-26",
+      "2026-06-25:TM-27",
+      "2026-06-25:TM-28",
+      "2026-06-25:TM-40",
+      "2026-06-25:TL-13"
     ],
     "policy": [
       "2026-06-01:TM-09",
@@ -14115,7 +15121,12 @@
       "2026-06-23:TM-14",
       "2026-06-24:TM-11",
       "2026-06-24:TM-43",
-      "2026-06-24:TL-13"
+      "2026-06-24:TL-13",
+      "2026-06-25:TM-05",
+      "2026-06-25:TM-07",
+      "2026-06-25:TM-19",
+      "2026-06-25:TM-39",
+      "2026-06-25:TM-53"
     ],
     "robotics": [
       "2026-06-01:TM-11",
@@ -14131,7 +15142,8 @@
       "2026-06-17:TL-03",
       "2026-06-18:TM-12",
       "2026-06-22:TM-27",
-      "2026-06-22:TM-31"
+      "2026-06-22:TM-31",
+      "2026-06-25:TM-50"
     ],
     "gpu": [
       "2026-06-01:TM-12",
@@ -14149,7 +15161,8 @@
       "2026-06-23:TM-34",
       "2026-06-24:TM-33",
       "2026-06-24:TM-43",
-      "2026-06-24:TL-17"
+      "2026-06-24:TL-17",
+      "2026-06-25:TL-01"
     ],
     "training": [
       "2026-06-01:TM-12",
@@ -14157,7 +15170,9 @@
       "2026-06-12:TL-07",
       "2026-06-12:TL-14",
       "2026-06-16:TL-06",
-      "2026-06-17:TL-06"
+      "2026-06-17:TL-06",
+      "2026-06-25:TM-14",
+      "2026-06-25:TL-06"
     ],
     "intel": [
       "2026-06-01:TM-13",
@@ -14189,7 +15204,10 @@
       "2026-06-18:TM-23",
       "2026-06-19:TM-08",
       "2026-06-19:TM-15",
-      "2026-06-19:TL-10"
+      "2026-06-19:TL-10",
+      "2026-06-25:TM-43",
+      "2026-06-25:TL-01",
+      "2026-06-25:TL-12"
     ],
     "coding": [
       "2026-06-01:TM-16",
@@ -14217,7 +15235,10 @@
       "2026-06-17:TL-01",
       "2026-06-17:TL-04",
       "2026-06-19:TL-01",
-      "2026-06-19:TL-12"
+      "2026-06-19:TL-12",
+      "2026-06-25:TM-14",
+      "2026-06-25:TL-04",
+      "2026-06-25:TL-08"
     ],
     "microsoft": [
       "2026-06-01:TM-20",
@@ -14238,7 +15259,8 @@
       "2026-06-18:TM-21",
       "2026-06-24:TM-06",
       "2026-06-24:TM-37",
-      "2026-06-24:TM-39"
+      "2026-06-24:TM-39",
+      "2026-06-25:TM-07"
     ],
     "copilot": [
       "2026-06-01:TM-20",
@@ -14255,7 +15277,8 @@
       "2026-06-12:TL-14",
       "2026-06-15:TL-06",
       "2026-06-15:TL-07",
-      "2026-06-16:TL-07"
+      "2026-06-16:TL-07",
+      "2026-06-25:TM-17"
     ],
     "runway": [
       "2026-06-01:TM-22"
@@ -14352,11 +15375,22 @@
       "2026-06-24:TM-30",
       "2026-06-24:TM-32",
       "2026-06-24:TM-33",
-      "2026-06-24:TL-15"
+      "2026-06-24:TL-15",
+      "2026-06-25:TM-20",
+      "2026-06-25:TM-23",
+      "2026-06-25:TM-25",
+      "2026-06-25:TM-26",
+      "2026-06-25:TM-27",
+      "2026-06-25:TM-28",
+      "2026-06-25:TM-40",
+      "2026-06-25:TL-02",
+      "2026-06-25:TL-13"
     ],
     "energy": [
       "2026-06-01:TM-23",
-      "2026-06-19:TM-15"
+      "2026-06-19:TM-15",
+      "2026-06-25:TM-53",
+      "2026-06-25:TL-12"
     ],
     "image-gen": [
       "2026-06-01:TM-36",
@@ -14463,7 +15497,14 @@
       "2026-06-24:TM-32",
       "2026-06-24:TL-05",
       "2026-06-24:TL-06",
-      "2026-06-24:TL-15"
+      "2026-06-24:TL-15",
+      "2026-06-25:TM-11",
+      "2026-06-25:TM-20",
+      "2026-06-25:TL-03",
+      "2026-06-25:TL-04",
+      "2026-06-25:TL-08",
+      "2026-06-25:TL-09",
+      "2026-06-25:TL-15"
     ],
     "autonomous-driving": [
       "2026-06-01:TM-52",
@@ -14475,7 +15516,8 @@
       "2026-06-17:TL-03",
       "2026-06-19:TM-22",
       "2026-06-21:TM-15",
-      "2026-06-22:TM-19"
+      "2026-06-22:TM-19",
+      "2026-06-25:TM-50"
     ],
     "open-weights": [
       "2026-06-01:TL-02",
@@ -14538,7 +15580,9 @@
       "2026-06-17:TM-36",
       "2026-06-18:TM-02",
       "2026-06-18:TL-01",
-      "2026-06-18:TL-04"
+      "2026-06-18:TL-04",
+      "2026-06-25:TL-02",
+      "2026-06-25:TL-03"
     ],
     "enterprise": [
       "2026-06-01:TL-10",
@@ -14567,7 +15611,9 @@
       "2026-06-18:TL-04",
       "2026-06-19:TL-01",
       "2026-06-22:TM-10",
-      "2026-06-23:TL-02"
+      "2026-06-23:TL-02",
+      "2026-06-25:TM-05",
+      "2026-06-25:TL-14"
     ],
     "safety": [
       "2026-06-01:TL-17",
@@ -14619,14 +15665,17 @@
       "2026-06-23:TL-02",
       "2026-06-24:TM-05",
       "2026-06-24:TM-06",
-      "2026-06-24:TL-04"
+      "2026-06-24:TL-04",
+      "2026-06-25:TM-05",
+      "2026-06-25:TL-10"
     ],
     "perplexity": [
       "2026-06-02:TM-17",
       "2026-06-02:TL-07",
       "2026-06-03:TL-08",
       "2026-06-09:TL-06",
-      "2026-06-19:TL-02"
+      "2026-06-19:TL-02",
+      "2026-06-25:TL-15"
     ],
     "meta": [
       "2026-06-02:TM-19",
@@ -14645,7 +15694,9 @@
       "2026-06-18:TM-11",
       "2026-06-23:TM-05",
       "2026-06-24:TM-20",
-      "2026-06-24:TL-13"
+      "2026-06-24:TL-13",
+      "2026-06-25:TM-35",
+      "2026-06-25:TM-37"
     ],
     "oracle": [
       "2026-06-02:TM-27",
@@ -14675,7 +15726,9 @@
       "2026-06-16:TM-14",
       "2026-06-17:TM-25",
       "2026-06-23:TL-03",
-      "2026-06-24:TM-11"
+      "2026-06-24:TM-11",
+      "2026-06-25:TL-09",
+      "2026-06-25:TL-10"
     ],
     "qwen": [
       "2026-06-02:TL-01",
@@ -14685,7 +15738,9 @@
       "2026-06-16:TL-04",
       "2026-06-17:TM-25",
       "2026-06-17:TL-03",
-      "2026-06-18:TL-04"
+      "2026-06-18:TL-04",
+      "2026-06-25:TL-06",
+      "2026-06-25:TL-09"
     ],
     "multimodal": [
       "2026-06-02:TL-01",
@@ -14737,7 +15792,8 @@
       "2026-06-22:TM-06",
       "2026-06-22:TM-11",
       "2026-06-23:TM-04",
-      "2026-06-24:TL-12"
+      "2026-06-24:TL-12",
+      "2026-06-25:TL-14"
     ],
     "tencent": [
       "2026-06-03:TM-22",
@@ -14774,7 +15830,10 @@
       "2026-06-16:TL-11",
       "2026-06-19:TM-28",
       "2026-06-23:TL-01",
-      "2026-06-23:TL-06"
+      "2026-06-23:TL-06",
+      "2026-06-25:TM-23",
+      "2026-06-25:TL-08",
+      "2026-06-25:TL-10"
     ],
     "palantir": [
       "2026-06-03:TM-43",
@@ -14825,7 +15884,9 @@
       "2026-06-10:TM-40",
       "2026-06-15:TL-04",
       "2026-06-17:TM-26",
-      "2026-06-18:TM-23"
+      "2026-06-18:TM-23",
+      "2026-06-25:TM-07",
+      "2026-06-25:TL-12"
     ],
     "satya-nadella": [
       "2026-06-04:TM-57",
@@ -14852,7 +15913,8 @@
       "2026-06-09:TM-03",
       "2026-06-09:TL-02",
       "2026-06-14:TM-02",
-      "2026-06-18:TM-07"
+      "2026-06-18:TM-07",
+      "2026-06-25:TM-04"
     ],
     "tim-cook": [
       "2026-06-07:TM-04"
@@ -14911,7 +15973,8 @@
       "2026-06-17:TM-41"
     ],
     "llama": [
-      "2026-06-11:TL-04"
+      "2026-06-11:TL-04",
+      "2026-06-25:TM-37"
     ],
     "fine-tuning": [
       "2026-06-11:TL-04",
@@ -14931,7 +15994,8 @@
       "2026-06-15:TL-20",
       "2026-06-16:TM-10",
       "2026-06-22:TM-13",
-      "2026-06-24:TL-10"
+      "2026-06-24:TL-10",
+      "2026-06-25:TL-06"
     ],
     "cursor": [
       "2026-06-16:TM-01"
@@ -14971,7 +16035,11 @@
     ],
     "ibm": [
       "2026-06-22:TM-45",
-      "2026-06-24:TL-05"
+      "2026-06-24:TL-05",
+      "2026-06-25:TM-03"
+    ],
+    "notion": [
+      "2026-06-25:TM-11"
     ]
   },
   "category_index": {
@@ -15054,7 +16122,11 @@
       "2026-06-24:TM-39",
       "2026-06-24:TL-01",
       "2026-06-24:TL-12",
-      "2026-06-24:TL-15"
+      "2026-06-24:TL-15",
+      "2026-06-25:TM-03",
+      "2026-06-25:TM-37",
+      "2026-06-25:TL-01",
+      "2026-06-25:TL-06"
     ],
     "cat:business": [
       "2026-06-01:TM-02",
@@ -15245,7 +16317,19 @@
       "2026-06-24:TM-33",
       "2026-06-24:TM-43",
       "2026-06-24:TL-13",
-      "2026-06-24:TL-17"
+      "2026-06-24:TL-17",
+      "2026-06-25:TM-04",
+      "2026-06-25:TM-07",
+      "2026-06-25:TM-20",
+      "2026-06-25:TM-23",
+      "2026-06-25:TM-25",
+      "2026-06-25:TM-26",
+      "2026-06-25:TM-27",
+      "2026-06-25:TM-28",
+      "2026-06-25:TM-40",
+      "2026-06-25:TL-10",
+      "2026-06-25:TL-12",
+      "2026-06-25:TL-13"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -15359,7 +16443,13 @@
       "2026-06-24:TM-05",
       "2026-06-24:TM-11",
       "2026-06-24:TM-37",
-      "2026-06-24:TL-04"
+      "2026-06-24:TL-04",
+      "2026-06-25:TM-05",
+      "2026-06-25:TM-14",
+      "2026-06-25:TM-19",
+      "2026-06-25:TM-39",
+      "2026-06-25:TM-43",
+      "2026-06-25:TL-02"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -15409,7 +16499,10 @@
       "2026-06-23:TL-06",
       "2026-06-24:TL-03",
       "2026-06-24:TL-09",
-      "2026-06-24:TL-10"
+      "2026-06-24:TL-10",
+      "2026-06-25:TL-04",
+      "2026-06-25:TL-09",
+      "2026-06-25:TL-14"
     ],
     "cat:app": [
       "2026-06-01:TM-46",
@@ -15474,57 +16567,66 @@
       "2026-06-24:TM-20",
       "2026-06-24:TL-02",
       "2026-06-24:TL-05",
-      "2026-06-24:TL-06"
+      "2026-06-24:TL-06",
+      "2026-06-25:TM-11",
+      "2026-06-25:TM-17",
+      "2026-06-25:TM-35",
+      "2026-06-25:TM-48",
+      "2026-06-25:TM-50",
+      "2026-06-25:TM-53",
+      "2026-06-25:TL-03",
+      "2026-06-25:TL-08",
+      "2026-06-25:TL-15"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 92
+      "count": 101
     },
     {
       "tag": "funding",
-      "count": 88
+      "count": 96
     },
     {
       "tag": "agent",
-      "count": 66
+      "count": 73
     },
     {
       "tag": "policy",
-      "count": 63
+      "count": 68
     },
     {
       "tag": "anthropic",
-      "count": 59
+      "count": 63
     },
     {
       "tag": "openai",
-      "count": 58
+      "count": 63
     },
     {
       "tag": "safety",
-      "count": 50
+      "count": 52
     },
     {
       "tag": "google",
-      "count": 46
+      "count": 51
     },
     {
       "tag": "nvidia",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "chip",
-      "count": 26
+      "count": 34
     },
     {
       "tag": "coding",
-      "count": 26
+      "count": 29
     },
     {
       "tag": "data-center",
-      "count": 25
+      "count": 28
     },
     {
       "tag": "claude",
@@ -15535,11 +16637,15 @@
       "count": 21
     },
     {
+      "tag": "microsoft",
+      "count": 20
+    },
+    {
       "tag": "enterprise",
       "count": 20
     },
     {
-      "tag": "microsoft",
+      "tag": "meta",
       "count": 19
     },
     {
@@ -15547,35 +16653,39 @@
       "count": 17
     },
     {
-      "tag": "meta",
+      "tag": "gpu",
       "count": 17
     },
     {
-      "tag": "gpu",
-      "count": 16
+      "tag": "open-source",
+      "count": 17
     },
     {
       "tag": "robotics",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "chatgpt",
-      "count": 14
-    },
-    {
-      "tag": "open-source",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "gemini",
-      "count": 12
+      "count": 14
     },
     {
       "tag": "multimodal",
       "count": 12
     },
     {
+      "tag": "reasoning",
+      "count": 11
+    },
+    {
       "tag": "pricing",
+      "count": 11
+    },
+    {
+      "tag": "autonomous-driving",
       "count": 11
     },
     {
@@ -15591,19 +16701,19 @@
       "count": 11
     },
     {
-      "tag": "reasoning",
-      "count": 10
-    },
-    {
-      "tag": "autonomous-driving",
-      "count": 10
-    },
-    {
       "tag": "alibaba",
-      "count": 8
+      "count": 10
     },
     {
       "tag": "qwen",
+      "count": 10
+    },
+    {
+      "tag": "apple",
+      "count": 9
+    },
+    {
+      "tag": "training",
       "count": 8
     },
     {
@@ -15611,12 +16721,16 @@
       "count": 8
     },
     {
+      "tag": "amazon",
+      "count": 8
+    },
+    {
       "tag": "benchmark",
       "count": 8
     },
     {
-      "tag": "apple",
-      "count": 8
+      "tag": "sam-altman",
+      "count": 7
     },
     {
       "tag": "image-gen",
@@ -15627,15 +16741,15 @@
       "count": 7
     },
     {
-      "tag": "sam-altman",
-      "count": 6
-    },
-    {
-      "tag": "training",
-      "count": 6
+      "tag": "gpt",
+      "count": 7
     },
     {
       "tag": "quantum",
+      "count": 6
+    },
+    {
+      "tag": "perplexity",
       "count": 6
     },
     {
@@ -15643,20 +16757,8 @@
       "count": 6
     },
     {
-      "tag": "amazon",
-      "count": 6
-    },
-    {
       "tag": "qualcomm",
       "count": 6
-    },
-    {
-      "tag": "gpt",
-      "count": 5
-    },
-    {
-      "tag": "perplexity",
-      "count": 5
     },
     {
       "tag": "bytedance",
@@ -15675,6 +16777,14 @@
       "count": 5
     },
     {
+      "tag": "deepseek",
+      "count": 5
+    },
+    {
+      "tag": "energy",
+      "count": 4
+    },
+    {
       "tag": "xai",
       "count": 4
     },
@@ -15688,10 +16798,6 @@
     },
     {
       "tag": "rag",
-      "count": 4
-    },
-    {
-      "tag": "deepseek",
       "count": 4
     },
     {
@@ -15731,8 +16837,8 @@
       "count": 3
     },
     {
-      "tag": "energy",
-      "count": 2
+      "tag": "ibm",
+      "count": 3
     },
     {
       "tag": "oracle",
@@ -15779,6 +16885,10 @@
       "count": 2
     },
     {
+      "tag": "llama",
+      "count": 2
+    },
+    {
       "tag": "fine-tuning",
       "count": 2
     },
@@ -15788,10 +16898,6 @@
     },
     {
       "tag": "demis-hassabis",
-      "count": 2
-    },
-    {
-      "tag": "ibm",
       "count": 2
     },
     {
@@ -15816,10 +16922,6 @@
     },
     {
       "tag": "cohere",
-      "count": 1
-    },
-    {
-      "tag": "llama",
       "count": 1
     },
     {
@@ -15849,32 +16951,36 @@
     {
       "tag": "midjourney",
       "count": 1
+    },
+    {
+      "tag": "notion",
+      "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 189,
+      "count": 201,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 112,
+      "count": 118,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 79,
+      "count": 83,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:app",
-      "count": 63,
+      "count": 72,
       "label_zh": "新应用"
     },
     {
       "tag": "cat:model",
-      "count": 48,
+      "count": 51,
       "label_zh": "新模型"
     }
   ]
