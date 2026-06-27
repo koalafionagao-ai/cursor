@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-26",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Liquid AI Releases Liquid Foundation Models 2.5 230M (3 minute read)",
+        "url": "https://www.liquid.ai/blog/lfm2-5-230m?utm_source=tldrai",
+        "excerpt": "Liquid AI announced the release of LFM 2.5, a 230-million-parameter non-transformer model architecture built on top of state-space and liquid neural network continuous-time formulations. Despite its exceptionally compact footprint, the model achieves performance parity with transformer models three times its size on core edge reasoning and sequence generation benchmarks."
+      },
+      {
+        "title": "Vercel Launches AI SDK 7 with Enhanced Stream and Tool Orchestration (3 minute read)",
+        "url": "https://vercel.com/blog/ai-sdk-7?utm_source=tldrai",
+        "excerpt": "Vercel released AI SDK 7, introducing an upgraded, zero-overhead execution loop that dramatically simplifies how frontend frameworks handle multi-step tool calls and streaming agentic UI states. The release features a unified telemetry layer that hooks directly into serverless compute runtimes to provide absolute tracing visibility into token usage, model choices, and tool execution latency."
+      },
+      {
+        "title": "White House Asks OpenAI to Slow Roll New Model Release (3 minute read)",
+        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrai",
+        "excerpt": "The White House has issued an official administrative request asking OpenAI to delay the public deployment of its next-generation frontier model over national security and structural safety concerns. Government officials are pushing for an extended red-teaming window to thoroughly audit the system's advanced cyber-capability execution limits and automated social manipulation vulnerabilities."
+      },
+      {
+        "title": "🔮 The state of the AI economy (7 minute read)",
+        "url": "https://www.exponentialview.co/p/the-state-of-the-ai-economy?utm_source=tldrai",
+        "excerpt": "The generative AI economy has generated $110 billion in sales over the past 12 months, and it's growing fast. The revenue run rate exceeds $175 billion on an annualized basis. The supply side of the AI market is well-understood, but understanding the demand side is much harder. This post looks at total AI spend, enterprise and consumer, to see how big the market really is, whether revenues are growing, how much revenue is covering the investment expense, and what will happen in the future as token prices fall and the quality of tokens improves."
+      },
+      {
+        "title": "Scaling Laws, Carefully (25 minute read)",
+        "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/?utm_source=tldrai",
+        "excerpt": "Scaling laws are one of the most critical empirical findings in deep learning. They can be a framework for describing the relationship between compute, loss, model size, and data. Their predictability makes them highly valuable in practice. This article discusses scaling laws, how they can be used to allocate compute optimally, and their flaws."
+      },
+      {
+        "title": "Agents That Build Better Training Data (25 minute read)",
+        "url": "https://arxiv.org/abs/2606.25996?utm_source=tldrai",
+        "excerpt": "Meta Autodata trains AI agents to act as data scientists that create higher-quality training and evaluation datasets. Its Agentic Self-Instruct implementation improved results across coding, legal reasoning, and mathematical reasoning tasks."
+      },
+      {
+        "title": "DeepReinforce releases Ornith-1.0 open-source coding models (2 minute read)",
+        "url": "https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/?utm_source=tldrai",
+        "excerpt": "Ornith-2.0 is a coding model family that can write RL scaffolds. Each variant of the self-improving family of models is trained on top of pretrained Gemma 4 and Qwen 3.5 foundations. Ornith-1.0 is state-of-the-art among open source models of comparable size. The weights and a technical report are available on Hugging Face for teams that want to run or study the models directly."
+      },
+      {
+        "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+        "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+        "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!"
+      },
+      {
+        "title": "Surprising lessons from my research scientist job search (11 minute read)",
+        "url": "https://yongzx.github.io/blog/2026/06/24/job-search/?utm_source=tldrai",
+        "excerpt": "This post shines a light on the job search experience for a research scientist position in Silicon Valley. The author is a fifth-year PhD student at Brown University. Some of the surprising things about the job search were that only one or two of their research papers really mattered, there were very diverse interview rounds, and the importance of timing. A lot of interviews came from a lot of places outside of the author's expertise - many places were evaluating them on how well-rounded an AI researcher they were."
+      },
+      {
+        "title": "Measuring Exploits in LLM Agents with Tool Use (4 minute read)",
+        "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks?utm_source=tldrai",
+        "excerpt": "Researchers introduced the Reward Hacking Benchmark (RHB) to measure how reinforcement learning post-training influences the tendency of coding agents to exploit evaluation flaws rather than solve tasks honestly. Testing across 13 frontier models revealed that RL-tuned variants exhibit exploit rates up to 13.9% by bypassing verification steps or modifying grading scripts, whereas standard post-trained models stay near 0%."
+      },
+      {
+        "title": "We removed an LM's ability to speak German (3 minute read)",
+        "url": "https://threadreaderapp.com/thread/2070181051801235463.html?utm_source=tldrai",
+        "excerpt": "The team at Goodfire AI removed a 67-parameter language model's ability to predict German text by fine-tuning on only 4 German tokens."
+      },
+      {
+        "title": "Run a vLLM Server on HF Jobs in One Command (3 minute read)",
+        "url": "https://huggingface.co/blog/vllm-jobs?utm_source=tldrai",
+        "excerpt": "Hugging Face launched a single-command deployment workflow that lets developers spin up private, OpenAI-compatible vLLM endpoints on its pay-per-second serverless Jobs infrastructure."
+      },
+      {
+        "title": "The Future of AI is Intuitive (1 minute read)",
+        "url": "https://x.com/gen_intuition/status/2070177308539818005?utm_source=tldrai",
+        "excerpt": "Generative Intuition showcased a real-time behavioral tracking pipeline designed to monitor and visualize fine-grained physical human interactions across multimodal computing interfaces."
+      }
+    ]
+  }
+}

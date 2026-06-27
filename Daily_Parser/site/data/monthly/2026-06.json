@@ -172,9 +172,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "total": 16,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 525,
+  "item_count": 541,
   "items": [
     {
       "id": "TM-01",
@@ -14649,6 +14657,441 @@
       ],
       "category_tag": "cat:app",
       "date": "2026-06-25"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6的三个版本：Sol、Terra和Luna",
+        "en": "OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government"
+      },
+      "summary": {
+        "zh": "OpenAI向约20家公司限量预览了GPT-5.6的三个版本，并向美国政府披露了参与者。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUwMTkzNSwiZXhwIjoxNzgzMTA2NzM1LCJhcnRpY2xlSWQiOiJUSDkzSDFLSVAzSjYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.tMgR1CJ2UJJv1tyON5v-40myXIGGf02kVBVoLCTlCP0",
+      "title": {
+        "zh": "苹果高管Paul Meade离职加入OpenAI，负责AI设备开发",
+        "en": "Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices"
+      },
+      "summary": {
+        "zh": "Paul Meade此前负责苹果Vision Pro和智能眼镜项目。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "apple"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "apple"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.hyperdimensional.co/p/what-should-be-done",
+      "title": {
+        "zh": "美国联邦AI政策从自由化转向更严格和不透明的趋势",
+        "en": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors"
+      },
+      "summary": {
+        "zh": "文章探讨了如何通过独立审计等方式改进当前的AI政策。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow",
+      "title": {
+        "zh": "加州推出AI驱动失业预警工具",
+        "en": "California launches a tool designed to be an “early warning system” for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims"
+      },
+      "summary": {
+        "zh": "该工具将AI暴露度与失业保险申请数据关联，用于预测大规模失业风险。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-employees-moving-beyond-chat-to-agents/5262499",
+      "title": {
+        "zh": "OpenAI报告97.9%的员工正在使用Codex",
+        "en": "OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer Codex usage is up 137x for individuals and 12x within OpenAI"
+      },
+      "summary": {
+        "zh": "自2025年8月以来，非开发者对Codex的使用增长了137倍。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "codex"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "codex"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/anthropics-mythos-spooked-deepseek-prompting-7-4-billion-fundraising",
+      "title": {
+        "zh": "DeepSeek因竞争压力筹集74亿美元资金",
+        "en": "Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest"
+      },
+      "summary": {
+        "zh": "CEO梁文峰意识到公司需要巨额资金以应对竞争，促成了此次融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling",
+      "title": {
+        "zh": "Warp完成6000万美元B轮融资",
+        "en": "Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M"
+      },
+      "summary": {
+        "zh": "Warp是一家利用AI自动化薪资合规和员工管理的初创公司，总融资额达8500万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/",
+      "title": {
+        "zh": "Tim Sweeney谈跨平台游戏社交系统与AI挑战",
+        "en": "Q&A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI's PR challenges, the state of AAA game development, and more"
+      },
+      "summary": {
+        "zh": "访谈涵盖了Unreal Engine 6、AAA游戏开发现状及AI的公关挑战等话题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:other",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.liquid.ai/blog/lfm2-5-230m?utm_source=tldrai",
+      "title": {
+        "zh": "Liquid AI发布LFM 2.5模型",
+        "en": "Liquid AI Releases Liquid Foundation Models 2.5 230M (3 minute read)"
+      },
+      "summary": {
+        "zh": "这是一种基于液体神经网络的非Transformer架构，性能与大三倍的Transformer模型相当。",
+        "en": "Liquid AI announced the release of LFM 2.5, a 230-million-parameter non-transformer model architecture built on top of state-space and liquid neural network continuous-time formulations. Despite its exceptionally compact footprint, the model achieves performance parity with transformer models three times its size on core edge reasoning and sequence generation benchmarks."
+      },
+      "tags": [
+        "cat:model",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://vercel.com/blog/ai-sdk-7?utm_source=tldrai",
+      "title": {
+        "zh": "Vercel发布AI SDK 7，简化多步骤工具调用",
+        "en": "Vercel Launches AI SDK 7 with Enhanced Stream and Tool Orchestration (3 minute read)"
+      },
+      "summary": {
+        "zh": "新版本引入零开销执行循环和统一遥测层，提升前端框架处理复杂任务的能力。",
+        "en": "Vercel released AI SDK 7, introducing an upgraded, zero-overhead execution loop that dramatically simplifies how frontend frameworks handle multi-step tool calls and streaming agentic UI states. The release features a unified telemetry layer that hooks directly into serverless compute runtimes to provide absolute tracing visibility into token usage, model choices, and tool execution latency."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "ide"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "ide"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrai",
+      "title": {
+        "zh": "白宫要求 OpenAI 推迟新模型发布",
+        "en": "White House Asks OpenAI to Slow Roll New Model Release (3 minute read)"
+      },
+      "summary": {
+        "zh": "白宫因国家安全和结构性安全问题，要求 OpenAI 推迟其下一代前沿模型的公开部署，并延长红队测试时间以审查系统的潜在漏洞。",
+        "en": "The White House has issued an official administrative request asking OpenAI to delay the public deployment of its next-generation frontier model over national security and structural safety concerns. Government officials are pushing for an extended red-teaming window to thoroughly audit the system's advanced cyber-capability execution limits and automated social manipulation vulnerabilities."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.exponentialview.co/p/the-state-of-the-ai-economy?utm_source=tldrai",
+      "title": {
+        "zh": "生成式 AI 经济现状",
+        "en": "🔮 The state of the AI economy (7 minute read)"
+      },
+      "summary": {
+        "zh": "生成式 AI 经济过去 12 个月创造了 1100 亿美元的销售额，年化收入超过 1750 亿美元。文章分析了 AI 市场的供需情况及未来趋势。",
+        "en": "The generative AI economy has generated $110 billion in sales over the past 12 months, and it's growing fast. The revenue run rate exceeds $175 billion on an annualized basis. The supply side of the AI market is well-understood, but understanding the demand side is much harder. This post looks at total AI spend, enterprise and consumer, to see how big the market really is, whether revenues are growing, how much revenue is covering the investment expense, and what will happen in the future as token prices fall and the quality of tokens improves."
+      },
+      "tags": [
+        "cat:business",
+        "enterprise",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise",
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/?utm_source=tldrai",
+      "title": {
+        "zh": "深度学习中的扩展定律",
+        "en": "Scaling Laws, Carefully (25 minute read)"
+      },
+      "summary": {
+        "zh": "扩展定律是深度学习中关键的经验发现，文章探讨了其在计算分配中的应用及其局限性。",
+        "en": "Scaling laws are one of the most critical empirical findings in deep learning. They can be a framework for describing the relationship between compute, loss, model size, and data. Their predictability makes them highly valuable in practice. This article discusses scaling laws, how they can be used to allocate compute optimally, and their flaws."
+      },
+      "tags": [
+        "cat:tech",
+        "training",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "training",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2606.25996?utm_source=tldrai",
+      "title": {
+        "zh": "Meta 推出改进训练数据的 AI 代理",
+        "en": "Agents That Build Better Training Data (25 minute read)"
+      },
+      "summary": {
+        "zh": "Meta Autodata 通过 Agentic Self-Instruct 实现，提升了编码、法律推理和数学推理任务的结果。",
+        "en": "Meta Autodata trains AI agents to act as data scientists that create higher-quality training and evaluation datasets. Its Agentic Self-Instruct implementation improved results across coding, legal reasoning, and mathematical reasoning tasks."
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "agent",
+        "rag"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "agent",
+        "rag"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks?utm_source=tldrai",
+      "title": {
+        "zh": "通过工具使用测量 LLM 代理的漏洞",
+        "en": "Measuring Exploits in LLM Agents with Tool Use (4 minute read)"
+      },
+      "summary": {
+        "zh": "研究人员推出 Reward Hacking Benchmark (RHB)，揭示强化学习后训练的模型在任务评估中可能存在的漏洞利用倾向。",
+        "en": "Researchers introduced the Reward Hacking Benchmark (RHB) to measure how reinforcement learning post-training influences the tendency of coding agents to exploit evaluation flaws rather than solve tasks honestly. Testing across 13 frontier models revealed that RL-tuned variants exhibit exploit rates up to 13.9% by bypassing verification steps or modifying grading scripts, whereas standard post-trained models stay near 0%."
+      },
+      "tags": [
+        "cat:tech",
+        "benchmark",
+        "coding",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "benchmark",
+        "coding",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/vllm-jobs?utm_source=tldrai",
+      "title": {
+        "zh": "Hugging Face 推出一键部署 vLLM 服务",
+        "en": "Run a vLLM Server on HF Jobs in One Command (3 minute read)"
+      },
+      "summary": {
+        "zh": "Hugging Face 推出单命令部署工作流，支持开发者在其无服务器 Jobs 基础设施上快速部署私有 vLLM 端点。",
+        "en": "Hugging Face launched a single-command deployment workflow that lets developers spin up private, OpenAI-compatible vLLM endpoints on its pay-per-second serverless Jobs infrastructure."
+      },
+      "tags": [
+        "cat:app",
+        "huggingface",
+        "api",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "huggingface",
+        "api",
+        "open-weights"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-26"
     }
   ],
   "tag_index": {
@@ -14873,7 +15316,11 @@
       "2026-06-25:TM-07",
       "2026-06-25:TM-28",
       "2026-06-25:TL-01",
-      "2026-06-25:TL-14"
+      "2026-06-25:TL-14",
+      "2026-06-26:TM-02",
+      "2026-06-26:TM-07",
+      "2026-06-26:TM-11",
+      "2026-06-26:TL-03"
     ],
     "sam-altman": [
       "2026-06-01:TM-04",
@@ -14905,7 +15352,9 @@
       "2026-06-18:TM-43",
       "2026-06-23:TM-05",
       "2026-06-23:TM-14",
-      "2026-06-24:TL-13"
+      "2026-06-24:TL-13",
+      "2026-06-26:TM-09",
+      "2026-06-26:TM-10"
     ],
     "google": [
       "2026-06-01:TM-05",
@@ -15056,7 +15505,10 @@
       "2026-06-25:TM-27",
       "2026-06-25:TM-28",
       "2026-06-25:TM-40",
-      "2026-06-25:TL-13"
+      "2026-06-25:TL-13",
+      "2026-06-26:TM-14",
+      "2026-06-26:TM-22",
+      "2026-06-26:TL-04"
     ],
     "policy": [
       "2026-06-01:TM-09",
@@ -15126,7 +15578,10 @@
       "2026-06-25:TM-07",
       "2026-06-25:TM-19",
       "2026-06-25:TM-39",
-      "2026-06-25:TM-53"
+      "2026-06-25:TM-53",
+      "2026-06-26:TM-09",
+      "2026-06-26:TM-10",
+      "2026-06-26:TL-03"
     ],
     "robotics": [
       "2026-06-01:TM-11",
@@ -15172,7 +15627,8 @@
       "2026-06-16:TL-06",
       "2026-06-17:TL-06",
       "2026-06-25:TM-14",
-      "2026-06-25:TL-06"
+      "2026-06-25:TL-06",
+      "2026-06-26:TL-05"
     ],
     "intel": [
       "2026-06-01:TM-13",
@@ -15238,7 +15694,8 @@
       "2026-06-19:TL-12",
       "2026-06-25:TM-14",
       "2026-06-25:TL-04",
-      "2026-06-25:TL-08"
+      "2026-06-25:TL-08",
+      "2026-06-26:TL-10"
     ],
     "microsoft": [
       "2026-06-01:TM-20",
@@ -15278,7 +15735,9 @@
       "2026-06-15:TL-06",
       "2026-06-15:TL-07",
       "2026-06-16:TL-07",
-      "2026-06-25:TM-17"
+      "2026-06-25:TM-17",
+      "2026-06-26:TL-05",
+      "2026-06-26:TL-10"
     ],
     "runway": [
       "2026-06-01:TM-22"
@@ -15384,7 +15843,11 @@
       "2026-06-25:TM-28",
       "2026-06-25:TM-40",
       "2026-06-25:TL-02",
-      "2026-06-25:TL-13"
+      "2026-06-25:TL-13",
+      "2026-06-26:TM-14",
+      "2026-06-26:TM-22",
+      "2026-06-26:TL-01",
+      "2026-06-26:TL-04"
     ],
     "energy": [
       "2026-06-01:TM-23",
@@ -15416,7 +15879,8 @@
       "2026-06-09:TL-04",
       "2026-06-15:TM-09",
       "2026-06-16:TL-16",
-      "2026-06-18:TL-02"
+      "2026-06-18:TL-02",
+      "2026-06-26:TL-12"
     ],
     "pricing": [
       "2026-06-01:TM-46",
@@ -15504,7 +15968,9 @@
       "2026-06-25:TL-04",
       "2026-06-25:TL-08",
       "2026-06-25:TL-09",
-      "2026-06-25:TL-15"
+      "2026-06-25:TL-15",
+      "2026-06-26:TL-02",
+      "2026-06-26:TL-06"
     ],
     "autonomous-driving": [
       "2026-06-01:TM-52",
@@ -15530,7 +15996,8 @@
       "2026-06-11:TL-02",
       "2026-06-12:TL-11",
       "2026-06-16:TM-11",
-      "2026-06-17:TL-01"
+      "2026-06-17:TL-01",
+      "2026-06-26:TL-12"
     ],
     "claude": [
       "2026-06-01:TL-05",
@@ -15604,7 +16071,8 @@
       "2026-06-17:TM-46",
       "2026-06-18:TM-17",
       "2026-06-18:TM-32",
-      "2026-06-23:TL-03"
+      "2026-06-23:TL-03",
+      "2026-06-26:TL-04"
     ],
     "gpt": [
       "2026-06-01:TL-17",
@@ -15613,7 +16081,8 @@
       "2026-06-22:TM-10",
       "2026-06-23:TL-02",
       "2026-06-25:TM-05",
-      "2026-06-25:TL-14"
+      "2026-06-25:TL-14",
+      "2026-06-26:TM-02"
     ],
     "safety": [
       "2026-06-01:TL-17",
@@ -15667,7 +16136,8 @@
       "2026-06-24:TM-06",
       "2026-06-24:TL-04",
       "2026-06-25:TM-05",
-      "2026-06-25:TL-10"
+      "2026-06-25:TL-10",
+      "2026-06-26:TL-03"
     ],
     "perplexity": [
       "2026-06-02:TM-17",
@@ -15696,7 +16166,8 @@
       "2026-06-24:TM-20",
       "2026-06-24:TL-13",
       "2026-06-25:TM-35",
-      "2026-06-25:TM-37"
+      "2026-06-25:TM-37",
+      "2026-06-26:TL-06"
     ],
     "oracle": [
       "2026-06-02:TM-27",
@@ -15716,7 +16187,8 @@
     ],
     "ide": [
       "2026-06-02:TM-47",
-      "2026-06-04:TM-19"
+      "2026-06-04:TM-19",
+      "2026-06-26:TL-02"
     ],
     "alibaba": [
       "2026-06-02:TL-01",
@@ -15764,7 +16236,8 @@
       "2026-06-12:TL-01",
       "2026-06-17:TL-05",
       "2026-06-22:TM-11",
-      "2026-06-23:TM-04"
+      "2026-06-23:TM-04",
+      "2026-06-26:TM-11"
     ],
     "video-gen": [
       "2026-06-02:TL-06",
@@ -15903,7 +16376,8 @@
       "2026-06-15:TL-12",
       "2026-06-15:TL-17",
       "2026-06-17:TL-06",
-      "2026-06-18:TL-13"
+      "2026-06-18:TL-13",
+      "2026-06-26:TL-10"
     ],
     "apple": [
       "2026-06-07:TM-04",
@@ -15914,7 +16388,8 @@
       "2026-06-09:TL-02",
       "2026-06-14:TM-02",
       "2026-06-18:TM-07",
-      "2026-06-25:TM-04"
+      "2026-06-25:TM-04",
+      "2026-06-26:TM-07"
     ],
     "tim-cook": [
       "2026-06-07:TM-04"
@@ -15959,7 +16434,8 @@
       "2026-06-10:TL-04",
       "2026-06-19:TL-02",
       "2026-06-23:TL-05",
-      "2026-06-24:TL-15"
+      "2026-06-24:TL-15",
+      "2026-06-26:TL-06"
     ],
     "cohere": [
       "2026-06-10:TL-07"
@@ -15988,7 +16464,8 @@
       "2026-06-24:TL-01"
     ],
     "huggingface": [
-      "2026-06-15:TL-10"
+      "2026-06-15:TL-10",
+      "2026-06-26:TL-12"
     ],
     "deepseek": [
       "2026-06-15:TL-20",
@@ -16126,7 +16603,10 @@
       "2026-06-25:TM-03",
       "2026-06-25:TM-37",
       "2026-06-25:TL-01",
-      "2026-06-25:TL-06"
+      "2026-06-25:TL-06",
+      "2026-06-26:TL-02",
+      "2026-06-26:TL-05",
+      "2026-06-26:TL-10"
     ],
     "cat:business": [
       "2026-06-01:TM-02",
@@ -16329,7 +16809,10 @@
       "2026-06-25:TM-40",
       "2026-06-25:TL-10",
       "2026-06-25:TL-12",
-      "2026-06-25:TL-13"
+      "2026-06-25:TL-13",
+      "2026-06-26:TM-14",
+      "2026-06-26:TM-22",
+      "2026-06-26:TL-04"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -16449,7 +16932,11 @@
       "2026-06-25:TM-19",
       "2026-06-25:TM-39",
       "2026-06-25:TM-43",
-      "2026-06-25:TL-02"
+      "2026-06-25:TL-02",
+      "2026-06-26:TM-07",
+      "2026-06-26:TM-09",
+      "2026-06-26:TM-31",
+      "2026-06-26:TL-03"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -16502,7 +16989,9 @@
       "2026-06-24:TL-10",
       "2026-06-25:TL-04",
       "2026-06-25:TL-09",
-      "2026-06-25:TL-14"
+      "2026-06-25:TL-14",
+      "2026-06-26:TM-02",
+      "2026-06-26:TL-01"
     ],
     "cat:app": [
       "2026-06-01:TM-46",
@@ -16576,37 +17065,41 @@
       "2026-06-25:TM-53",
       "2026-06-25:TL-03",
       "2026-06-25:TL-08",
-      "2026-06-25:TL-15"
+      "2026-06-25:TL-15",
+      "2026-06-26:TM-10",
+      "2026-06-26:TM-11",
+      "2026-06-26:TL-06",
+      "2026-06-26:TL-12"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 101
+      "count": 105
     },
     {
       "tag": "funding",
-      "count": 96
+      "count": 99
     },
     {
       "tag": "agent",
-      "count": 73
+      "count": 75
     },
     {
       "tag": "policy",
-      "count": 68
+      "count": 71
+    },
+    {
+      "tag": "openai",
+      "count": 67
     },
     {
       "tag": "anthropic",
       "count": 63
     },
     {
-      "tag": "openai",
-      "count": 63
-    },
-    {
       "tag": "safety",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "google",
@@ -16622,18 +17115,22 @@
     },
     {
       "tag": "coding",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "data-center",
       "count": 28
     },
     {
+      "tag": "regulation",
+      "count": 23
+    },
+    {
       "tag": "claude",
       "count": 22
     },
     {
-      "tag": "regulation",
+      "tag": "enterprise",
       "count": 21
     },
     {
@@ -16641,12 +17138,8 @@
       "count": 20
     },
     {
-      "tag": "enterprise",
-      "count": 20
-    },
-    {
       "tag": "meta",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "ipo",
@@ -16673,12 +17166,16 @@
       "count": 14
     },
     {
-      "tag": "multimodal",
+      "tag": "reasoning",
+      "count": 13
+    },
+    {
+      "tag": "open-weights",
       "count": 12
     },
     {
-      "tag": "reasoning",
-      "count": 11
+      "tag": "multimodal",
+      "count": 12
     },
     {
       "tag": "pricing",
@@ -16686,10 +17183,6 @@
     },
     {
       "tag": "autonomous-driving",
-      "count": 11
-    },
-    {
-      "tag": "open-weights",
       "count": 11
     },
     {
@@ -16710,22 +17203,30 @@
     },
     {
       "tag": "apple",
-      "count": 9
+      "count": 10
     },
     {
       "tag": "training",
-      "count": 8
+      "count": 9
     },
     {
       "tag": "codex",
+      "count": 9
+    },
+    {
+      "tag": "benchmark",
+      "count": 9
+    },
+    {
+      "tag": "api",
+      "count": 8
+    },
+    {
+      "tag": "gpt",
       "count": 8
     },
     {
       "tag": "amazon",
-      "count": 8
-    },
-    {
-      "tag": "benchmark",
       "count": 8
     },
     {
@@ -16734,14 +17235,6 @@
     },
     {
       "tag": "image-gen",
-      "count": 7
-    },
-    {
-      "tag": "api",
-      "count": 7
-    },
-    {
-      "tag": "gpt",
       "count": 7
     },
     {
@@ -16773,6 +17266,10 @@
       "count": 5
     },
     {
+      "tag": "rag",
+      "count": 5
+    },
+    {
       "tag": "mistral",
       "count": 5
     },
@@ -16797,10 +17294,6 @@
       "count": 4
     },
     {
-      "tag": "rag",
-      "count": 4
-    },
-    {
       "tag": "intel",
       "count": 3
     },
@@ -16810,6 +17303,10 @@
     },
     {
       "tag": "salesforce",
+      "count": 3
+    },
+    {
+      "tag": "ide",
       "count": 3
     },
     {
@@ -16842,10 +17339,6 @@
     },
     {
       "tag": "oracle",
-      "count": 2
-    },
-    {
-      "tag": "ide",
       "count": 2
     },
     {
@@ -16893,6 +17386,10 @@
       "count": 2
     },
     {
+      "tag": "huggingface",
+      "count": 2
+    },
+    {
       "tag": "databricks",
       "count": 2
     },
@@ -16922,10 +17419,6 @@
     },
     {
       "tag": "cohere",
-      "count": 1
-    },
-    {
-      "tag": "huggingface",
       "count": 1
     },
     {
@@ -16960,27 +17453,27 @@
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 201,
+      "count": 204,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 118,
+      "count": 122,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 83,
+      "count": 86,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:app",
-      "count": 72,
+      "count": 76,
       "label_zh": "新应用"
     },
     {
       "tag": "cat:model",
-      "count": 51,
+      "count": 53,
       "label_zh": "新模型"
     }
   ]

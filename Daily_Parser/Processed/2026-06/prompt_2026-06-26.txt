@@ -1,0 +1,196 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing
+Tweets:
+  - Author: @kevinbankston
+    Text: Okayyyy. So... —Why now? —What companies and why? —What if anything has actually changed in terms of cyber risk? —Why not Fable? And finally... —WHY ALWAYS ON FRIDAY AFTERNOONS?!?
+    Link ID: TM-01-TW-01
+  - Author: @beffjezos
+    Text: US startups need Fable and 5.6 to stay competitive. We need to accelerate these approval timelines.
+    Link ID: TM-01-TW-02
+  - Author: @kimmonismus
+    Text: Bloomberg says Commerce Secretary Howard Lutnick is making progress on security concerns that triggered the curbs, according to people familiar with the talks.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government
+Tweets:
+  - Author: @sama
+    Text: Good new first: Sol is a smart, efficient, and a significant step forward.  It is the same price as GPT-5.5.  Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price.  Bad news: at the request of the US government, it is launching today in limited preview instead of the open access launch we were planning on.  We are working with the government to get to general availability as fast as we can.
+    Link ID: TM-02-TW-01
+  - Author: @mweinbach
+    Text: GPT 5.6 comes in three sizes: Sol, Terra, Luna at 3 prices. Sol is priced at $5/30 per 1M Terra is $2.50/15 per 1M Luna is $1/6 per 1M Terra matches GPT 5.5 at half the price, and Sol will be available on Cerebras at 750 tok/s [image]
+    Link ID: TM-02-TW-02
+  - Author: @yuchenj_uw
+    Text: best case: OSS surpasses Mythos, and the gov stops banning GPT-5.6/Fable. worst case: OSS surpasses Mythos, and then decides to stop being open source.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: GPT-5.6 Sol matches Mythos Preview on ExploitBench, adds Ultra mode with subagents for complex workflows, and max reasoning for deep problem-solving
+    Link ID: TM-02-SUB-01
+  - Title: OpenAI hopes to make GPT-5.6 generally available in the coming weeks and says “this kind of government access process” should not become the long-term default
+    Link ID: TM-02-SUB-02
+  - Title: OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets
+    Link ID: TM-02-SUB-03
+---
+ID: TM-03
+Title: Sources: Apple's 14" and 16" OLED touch-screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design
+Tweets:
+  - Author: @vadimyuryev
+    Text: Sweet! It makes total sense, since Apple already has the chips in stock. They're much less expensive than TSMC 2nm chips. This will allow them to launch MacBook Ultra this year. People will upgrade for the redesign and features, not the chips which are already powerful enough.
+    Link ID: TM-03-TW-01
+---
+ID: TM-04
+Title: SoftBank's stock fell 12.53% after a report that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI's debut had buoyed Softbank's stock
+Sub Items:
+  - Title: Shares of Japanese NAND flash maker Kioxia slid 12% on Friday after a report that OpenAI was considering delaying its IPO sparked a selloff in AI-related shares
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: President Trump threatens to impose a 100% tariff on any country that imposes a digital services tax on US companies
+---
+ID: TM-06
+Title: Sources: during SpaceX's IPO roadshow, COO Gwynne Shotwell told investors that it may launch a Starlink mobile service and build its own terrestrial US network
+---
+ID: TM-07
+Title: Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices
+---
+ID: TM-08
+Title: Italy is investigating Microsoft 365's price hike, saying Microsoft did not adequately inform users that it was integrating AI tools like Copilot into the suite
+---
+
+[CATEGORY: ARTIFICIAL INTELLIFGENCE]
+ID: TM-09
+Title: How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors
+---
+ID: TM-10
+Title: California launches a tool designed to be an “early warning system” for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims
+---
+ID: TM-11
+Title: OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer Codex usage is up 137x for individuals and 12x within OpenAI
+---
+ID: TM-12
+Title: OpenAI appoints ex-Uber India head Prabhjeet Singh as its first managing director for India, to scale its presence in its second-largest market after the US
+---
+ID: TM-13
+Title: AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged
+---
+ID: TM-14
+Title: Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest
+---
+ID: TM-15
+Title: Despite the “DeepMind mafia” pulling billions into London AI startups, none of Demis Hassabis' former lieutenants is building a homegrown UK frontier AI model
+---
+ID: TM-16
+Title: How AI-native law firms use “management services organization” structures to access capital historically barred from US law firms, including PE and VC funds
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-17
+Title: A study of 408 teens in Australia finds 80%+ were still using social media three months after the ban came into force, citing inadequate age verification checks
+---
+ID: TM-18
+Title: Sources: Meta lobbyists are urging California lawmakers to exempt social media platforms from legislation that would increase penalties in child-harm cases
+---
+
+[CATEGORY: PREDICTION MARKETS]
+ID: TM-19
+Title: Sources: Zuckerberg urged execs to explore Polymarket and Kalshi partnerships, as the Arena prediction app targets 100M monthly active “predictors” aged 18-34
+---
+ID: TM-20
+Title: Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when the company was valued at ~$2B; Kalshi is now worth $22B+
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-21
+Title: Utah-based ecommerce tech company Redo raised an $81M Series B at a $1.25B valuation led by Smash Capital, with participation from Pelion and Cervin
+---
+ID: TM-22
+Title: Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M
+---
+ID: TM-23
+Title: Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-24
+Title: Binance tells EU customers that it will stop providing services for them from July 1, after Greece rejected its application for a bloc-wide license last week
+---
+ID: TM-25
+Title: Sources: Russian hackers were behind a 2025 ransomware attack on Jaguar Land Rover that used “mind-blowing” encryption and cost UK's economy an estimated $2.5B
+---
+ID: TM-26
+Title: The FTC fast-tracks approval for SpaceX to acquire Mesh, which raised a $50M Series A in February to make high-efficiency optical transceivers for data centers
+---
+ID: TM-27
+Title: Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega
+---
+ID: TM-28
+Title: Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers
+---
+ID: TM-29
+Title: Sources: Revolut told new hires they'll have to work in office at least three days a week from next year, retreating from its long-held remote-first approach
+---
+ID: TM-30
+Title: Oracle's stock fell 19% this week, the steepest weekly drop since a 20% plunge in August 2001, amid concerns about its debt load and AI investments
+---
+ID: TM-31
+Title: Q&A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI's PR challenges, the state of AAA game development, and more
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Liquid AI Releases Liquid Foundation Models 2.5 230M (3 minute read)
+Excerpt: Liquid AI announced the release of LFM 2.5, a 230-million-parameter non-transformer model architecture built on top of state-space and liquid neural network continuous-time formulations. Despite its exceptionally compact footprint, the model achieves performance parity with transformer models three times its size on core edge reasoning and sequence generation benchmarks.
+---
+ID: TL-02
+Title: Vercel Launches AI SDK 7 with Enhanced Stream and Tool Orchestration (3 minute read)
+Excerpt: Vercel released AI SDK 7, introducing an upgraded, zero-overhead execution loop that dramatically simplifies how frontend frameworks handle multi-step tool calls and streaming agentic UI states. The release features a unified telemetry layer that hooks directly into serverless compute runtimes to provide absolute tracing visibility into token usage, model choices, and tool execution latency.
+---
+ID: TL-03
+Title: White House Asks OpenAI to Slow Roll New Model Release (3 minute read)
+Excerpt: The White House has issued an official administrative request asking OpenAI to delay the public deployment of its next-generation frontier model over national security and structural safety concerns. Government officials are pushing for an extended red-teaming window to thoroughly audit the system's advanced cyber-capability execution limits and automated social manipulation vulnerabilities.
+---
+ID: TL-04
+Title: 🔮 The state of the AI economy (7 minute read)
+Excerpt: The generative AI economy has generated $110 billion in sales over the past 12 months, and it's growing fast. The revenue run rate exceeds $175 billion on an annualized basis. The supply side of the AI market is well-understood, but understanding the demand side is much harder. This post looks at total AI spend, enterprise and consumer, to see how big the market really is, whether revenues are growing, how much revenue is covering the investment expense, and what will happen in the future as token prices fall and the quality of tokens improves.
+---
+ID: TL-05
+Title: Scaling Laws, Carefully (25 minute read)
+Excerpt: Scaling laws are one of the most critical empirical findings in deep learning. They can be a framework for describing the relationship between compute, loss, model size, and data. Their predictability makes them highly valuable in practice. This article discusses scaling laws, how they can be used to allocate compute optimally, and their flaws.
+---
+ID: TL-06
+Title: Agents That Build Better Training Data (25 minute read)
+Excerpt: Meta Autodata trains AI agents to act as data scientists that create higher-quality training and evaluation datasets. Its Agentic Self-Instruct implementation improved results across coding, legal reasoning, and mathematical reasoning tasks.
+---
+ID: TL-07
+Title: DeepReinforce releases Ornith-1.0 open-source coding models (2 minute read)
+Excerpt: Ornith-2.0 is a coding model family that can write RL scaffolds. Each variant of the self-improving family of models is trained on top of pretrained Gemma 4 and Qwen 3.5 foundations. Ornith-1.0 is state-of-the-art among open source models of comparable size. The weights and a technical report are available on Hugging Face for teams that want to run or study the models directly.
+---
+ID: TL-08
+Title: TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)
+Excerpt: 500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!
+---
+ID: TL-09
+Title: Surprising lessons from my research scientist job search (11 minute read)
+Excerpt: This post shines a light on the job search experience for a research scientist position in Silicon Valley. The author is a fifth-year PhD student at Brown University. Some of the surprising things about the job search were that only one or two of their research papers really mattered, there were very diverse interview rounds, and the importance of timing. A lot of interviews came from a lot of places outside of the author's expertise - many places were evaluating them on how well-rounded an AI researcher they were.
+---
+ID: TL-10
+Title: Measuring Exploits in LLM Agents with Tool Use (4 minute read)
+Excerpt: Researchers introduced the Reward Hacking Benchmark (RHB) to measure how reinforcement learning post-training influences the tendency of coding agents to exploit evaluation flaws rather than solve tasks honestly. Testing across 13 frontier models revealed that RL-tuned variants exhibit exploit rates up to 13.9% by bypassing verification steps or modifying grading scripts, whereas standard post-trained models stay near 0%.
+---
+ID: TL-11
+Title: We removed an LM's ability to speak German (3 minute read)
+Excerpt: The team at Goodfire AI removed a 67-parameter language model's ability to predict German text by fine-tuning on only 4 German tokens.
+---
+ID: TL-12
+Title: Run a vLLM Server on HF Jobs in One Command (3 minute read)
+Excerpt: Hugging Face launched a single-command deployment workflow that lets developers spin up private, OpenAI-compatible vLLM endpoints on its pay-per-second serverless Jobs infrastructure.
+---
+ID: TL-13
+Title: The Future of AI is Intuitive (1 minute read)
+Excerpt: Generative Intuition showcased a real-time behavioral tracking pipeline designed to monitor and visualize fine-grained physical human interactions across multimodal computing interfaces.
+---

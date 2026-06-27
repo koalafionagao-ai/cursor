@@ -1,0 +1,438 @@
+{
+  "date": "2026-06-26",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 16,
+    "by_category": {
+      "cat:model": 2,
+      "cat:other": 4,
+      "cat:app": 4,
+      "cat:business": 3,
+      "cat:tech": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6的三个版本：Sol、Terra和Luna",
+        "en": "OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government"
+      },
+      "summary": {
+        "zh": "OpenAI向约20家公司限量预览了GPT-5.6的三个版本，并向美国政府披露了参与者。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUwMTkzNSwiZXhwIjoxNzgzMTA2NzM1LCJhcnRpY2xlSWQiOiJUSDkzSDFLSVAzSjYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.tMgR1CJ2UJJv1tyON5v-40myXIGGf02kVBVoLCTlCP0",
+      "title": {
+        "zh": "苹果高管Paul Meade离职加入OpenAI，负责AI设备开发",
+        "en": "Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices"
+      },
+      "summary": {
+        "zh": "Paul Meade此前负责苹果Vision Pro和智能眼镜项目。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "apple"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "apple"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.hyperdimensional.co/p/what-should-be-done",
+      "title": {
+        "zh": "美国联邦AI政策从自由化转向更严格和不透明的趋势",
+        "en": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors"
+      },
+      "summary": {
+        "zh": "文章探讨了如何通过独立审计等方式改进当前的AI政策。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow",
+      "title": {
+        "zh": "加州推出AI驱动失业预警工具",
+        "en": "California launches a tool designed to be an “early warning system” for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims"
+      },
+      "summary": {
+        "zh": "该工具将AI暴露度与失业保险申请数据关联，用于预测大规模失业风险。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-employees-moving-beyond-chat-to-agents/5262499",
+      "title": {
+        "zh": "OpenAI报告97.9%的员工正在使用Codex",
+        "en": "OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer Codex usage is up 137x for individuals and 12x within OpenAI"
+      },
+      "summary": {
+        "zh": "自2025年8月以来，非开发者对Codex的使用增长了137倍。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "codex"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "codex"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/anthropics-mythos-spooked-deepseek-prompting-7-4-billion-fundraising",
+      "title": {
+        "zh": "DeepSeek因竞争压力筹集74亿美元资金",
+        "en": "Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest"
+      },
+      "summary": {
+        "zh": "CEO梁文峰意识到公司需要巨额资金以应对竞争，促成了此次融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling",
+      "title": {
+        "zh": "Warp完成6000万美元B轮融资",
+        "en": "Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M"
+      },
+      "summary": {
+        "zh": "Warp是一家利用AI自动化薪资合规和员工管理的初创公司，总融资额达8500万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/",
+      "title": {
+        "zh": "Tim Sweeney谈跨平台游戏社交系统与AI挑战",
+        "en": "Q&A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI's PR challenges, the state of AAA game development, and more"
+      },
+      "summary": {
+        "zh": "访谈涵盖了Unreal Engine 6、AAA游戏开发现状及AI的公关挑战等话题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.liquid.ai/blog/lfm2-5-230m?utm_source=tldrai",
+      "title": {
+        "zh": "Liquid AI发布LFM 2.5模型",
+        "en": "Liquid AI Releases Liquid Foundation Models 2.5 230M (3 minute read)"
+      },
+      "summary": {
+        "zh": "这是一种基于液体神经网络的非Transformer架构，性能与大三倍的Transformer模型相当。",
+        "en": "Liquid AI announced the release of LFM 2.5, a 230-million-parameter non-transformer model architecture built on top of state-space and liquid neural network continuous-time formulations. Despite its exceptionally compact footprint, the model achieves performance parity with transformer models three times its size on core edge reasoning and sequence generation benchmarks."
+      },
+      "tags": [
+        "cat:model",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://vercel.com/blog/ai-sdk-7?utm_source=tldrai",
+      "title": {
+        "zh": "Vercel发布AI SDK 7，简化多步骤工具调用",
+        "en": "Vercel Launches AI SDK 7 with Enhanced Stream and Tool Orchestration (3 minute read)"
+      },
+      "summary": {
+        "zh": "新版本引入零开销执行循环和统一遥测层，提升前端框架处理复杂任务的能力。",
+        "en": "Vercel released AI SDK 7, introducing an upgraded, zero-overhead execution loop that dramatically simplifies how frontend frameworks handle multi-step tool calls and streaming agentic UI states. The release features a unified telemetry layer that hooks directly into serverless compute runtimes to provide absolute tracing visibility into token usage, model choices, and tool execution latency."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "ide"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "ide"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrai",
+      "title": {
+        "zh": "白宫要求 OpenAI 推迟新模型发布",
+        "en": "White House Asks OpenAI to Slow Roll New Model Release (3 minute read)"
+      },
+      "summary": {
+        "zh": "白宫因国家安全和结构性安全问题，要求 OpenAI 推迟其下一代前沿模型的公开部署，并延长红队测试时间以审查系统的潜在漏洞。",
+        "en": "The White House has issued an official administrative request asking OpenAI to delay the public deployment of its next-generation frontier model over national security and structural safety concerns. Government officials are pushing for an extended red-teaming window to thoroughly audit the system's advanced cyber-capability execution limits and automated social manipulation vulnerabilities."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.exponentialview.co/p/the-state-of-the-ai-economy?utm_source=tldrai",
+      "title": {
+        "zh": "生成式 AI 经济现状",
+        "en": "🔮 The state of the AI economy (7 minute read)"
+      },
+      "summary": {
+        "zh": "生成式 AI 经济过去 12 个月创造了 1100 亿美元的销售额，年化收入超过 1750 亿美元。文章分析了 AI 市场的供需情况及未来趋势。",
+        "en": "The generative AI economy has generated $110 billion in sales over the past 12 months, and it's growing fast. The revenue run rate exceeds $175 billion on an annualized basis. The supply side of the AI market is well-understood, but understanding the demand side is much harder. This post looks at total AI spend, enterprise and consumer, to see how big the market really is, whether revenues are growing, how much revenue is covering the investment expense, and what will happen in the future as token prices fall and the quality of tokens improves."
+      },
+      "tags": [
+        "cat:business",
+        "enterprise",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise",
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/?utm_source=tldrai",
+      "title": {
+        "zh": "深度学习中的扩展定律",
+        "en": "Scaling Laws, Carefully (25 minute read)"
+      },
+      "summary": {
+        "zh": "扩展定律是深度学习中关键的经验发现，文章探讨了其在计算分配中的应用及其局限性。",
+        "en": "Scaling laws are one of the most critical empirical findings in deep learning. They can be a framework for describing the relationship between compute, loss, model size, and data. Their predictability makes them highly valuable in practice. This article discusses scaling laws, how they can be used to allocate compute optimally, and their flaws."
+      },
+      "tags": [
+        "cat:tech",
+        "training",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "training",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2606.25996?utm_source=tldrai",
+      "title": {
+        "zh": "Meta 推出改进训练数据的 AI 代理",
+        "en": "Agents That Build Better Training Data (25 minute read)"
+      },
+      "summary": {
+        "zh": "Meta Autodata 通过 Agentic Self-Instruct 实现，提升了编码、法律推理和数学推理任务的结果。",
+        "en": "Meta Autodata trains AI agents to act as data scientists that create higher-quality training and evaluation datasets. Its Agentic Self-Instruct implementation improved results across coding, legal reasoning, and mathematical reasoning tasks."
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "agent",
+        "rag"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "agent",
+        "rag"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks?utm_source=tldrai",
+      "title": {
+        "zh": "通过工具使用测量 LLM 代理的漏洞",
+        "en": "Measuring Exploits in LLM Agents with Tool Use (4 minute read)"
+      },
+      "summary": {
+        "zh": "研究人员推出 Reward Hacking Benchmark (RHB)，揭示强化学习后训练的模型在任务评估中可能存在的漏洞利用倾向。",
+        "en": "Researchers introduced the Reward Hacking Benchmark (RHB) to measure how reinforcement learning post-training influences the tendency of coding agents to exploit evaluation flaws rather than solve tasks honestly. Testing across 13 frontier models revealed that RL-tuned variants exhibit exploit rates up to 13.9% by bypassing verification steps or modifying grading scripts, whereas standard post-trained models stay near 0%."
+      },
+      "tags": [
+        "cat:tech",
+        "benchmark",
+        "coding",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "benchmark",
+        "coding",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/vllm-jobs?utm_source=tldrai",
+      "title": {
+        "zh": "Hugging Face 推出一键部署 vLLM 服务",
+        "en": "Run a vLLM Server on HF Jobs in One Command (3 minute read)"
+      },
+      "summary": {
+        "zh": "Hugging Face 推出单命令部署工作流，支持开发者在其无服务器 Jobs 基础设施上快速部署私有 vLLM 端点。",
+        "en": "Hugging Face launched a single-command deployment workflow that lets developers spin up private, OpenAI-compatible vLLM endpoints on its pay-per-second serverless Jobs infrastructure."
+      },
+      "tags": [
+        "cat:app",
+        "huggingface",
+        "api",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "huggingface",
+        "api",
+        "open-weights"
+      ],
+      "category_tag": "cat:app"
+    }
+  ]
+}

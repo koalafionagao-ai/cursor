@@ -1,0 +1,357 @@
+{
+  "date": "2026-06-26",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing",
+      "excerpt": "",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Sources: Apple's 14\" and 16\" OLED touch-screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-touchscreen-macbook-to-use-m5-pro-max-chips-m7-pro-max-models-in-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQ4NzEwMSwiZXhwIjoxNzgzMDkxOTAxLCJhcnRpY2xlSWQiOiJUSDM4SFVLSzNOWVQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.kOJEDw-fTo_h_PnpqHu3llLD0e0p1zBlZjFHMbS4qAs",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "SoftBank's stock fell 12.53% after a report that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI's debut had buoyed Softbank's stock",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "President Trump threatens to impose a 100% tariff on any country that imposes a digital services tax on US companies",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Sources: during SpaceX's IPO roadshow, COO Gwynne Shotwell told investors that it may launch a Starlink mobile service and build its own terrestrial US network",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/42af0f15-3aa9-49b7-b429-4a39540af03e",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUwMTkzNSwiZXhwIjoxNzgzMTA2NzM1LCJhcnRpY2xlSWQiOiJUSDkzSDFLSVAzSjYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.tMgR1CJ2UJJv1tyON5v-40myXIGGf02kVBVoLCTlCP0",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Italy is investigating Microsoft 365's price hike, saying Microsoft did not adequately inform users that it was integrating AI tools like Copilot into the suite",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/italy-regulator-probes-microsoft-over-microsoft-365-price-hike-2026-06-26/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors",
+      "excerpt": "",
+      "url": "https://www.hyperdimensional.co/p/what-should-be-done",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "California launches a tool designed to be an “early warning system” for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/california-state-government-launches-ai-job-loss-tracker-as-layoff-fears-grow",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer Codex usage is up 137x for individuals and 12x within OpenAI",
+      "excerpt": "",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/25/openai-says-employees-moving-beyond-chat-to-agents/5262499",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "OpenAI appoints ex-Uber India head Prabhjeet Singh as its first managing director for India, to scale its presence in its second-largest market after the US",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/aws-raises-prices-nvidia-compute-20",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/anthropics-mythos-spooked-deepseek-prompting-7-4-billion-fundraising",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Despite the “DeepMind mafia” pulling billions into London AI startups, none of Demis Hassabis' former lieutenants is building a homegrown UK frontier AI model",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/6a3a46b9-4725-469e-a909-917768a74afb",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "How AI-native law firms use “management services organization” structures to access capital historically barred from US law firms, including PE and VC funds",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/6f8f7acd-8afe-42bb-a5c7-89fffe1af91f",
+      "section": "artificial intellifgence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "A study of 408 teens in Australia finds 80%+ were still using social media three months after the ban came into force, citing inadequate age verification checks",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/media/2026/jun/24/australia-under-16-social-media-ban-no-substantial-effects-study",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Sources: Meta lobbyists are urging California lawmakers to exempt social media platforms from legislation that would increase penalties in child-harm cases",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/06/26/exclusive-meta-asks-california-lawmakers-for-shield-from-child-harm-penalties-00978728",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Zuckerberg urged execs to explore Polymarket and Kalshi partnerships, as the Arena prediction app targets 100M monthly active “predictors” aged 18-34",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when the company was valued at ~$2B; Kalshi is now worth $22B+",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/f70147b1-ee77-4d75-8587-707a49ddb605",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Utah-based ecommerce tech company Redo raised an $81M Series B at a $1.25B valuation led by Smash Capital, with participation from Pelion and Cervin",
+      "excerpt": "",
+      "url": "https://www.utahmoneywatch.com/draper-utah-based-redo-raises-81-million-in-a-series-b-round-of-funding-at-a-1-25-billion-valuation/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/all-deals/2026/06/25/warp-60-million-workday-rippling",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating",
+      "excerpt": "",
+      "url": "https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Binance tells EU customers that it will stop providing services for them from July 1, after Greece rejected its application for a bloc-wide license last week",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/c1765ad5-022c-4bc3-9295-ef80791a2977",
+      "section": "more news"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Sources: Russian hackers were behind a 2025 ransomware attack on Jaguar Land Rover that used “mind-blowing” encryption and cost UK's economy an estimated $2.5B",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html?unlocked_article_code=1.tFA.EGSX.k9Vf392lnsEz&smid=url-share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "The FTC fast-tracks approval for SpaceX to acquire Mesh, which raised a $50M Series A in February to make high-efficiency optical transceivers for data centers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/musk-cleared-by-ftc-to-buy-spacex-alumni-firm-mesh-in-m-a-push",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/c08774bc-d948-416a-9abb-a6fdda645087",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/uber-tightens-us-driver-background-checks-as-sexual-assault-cases-mount",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Sources: Revolut told new hires they'll have to work in office at least three days a week from next year, retreating from its long-held remote-first approach",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/f0e12920-bac5-4f5b-aad1-79e350742d84",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Oracle's stock fell 19% this week, the steepest weekly drop since a 20% plunge in August 2001, amid concerns about its debt load and AI investments",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Q&A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI's PR challenges, the state of AAA game development, and more",
+      "excerpt": "",
+      "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Liquid AI Releases Liquid Foundation Models 2.5 230M (3 minute read)",
+      "excerpt": "Liquid AI announced the release of LFM 2.5, a 230-million-parameter non-transformer model architecture built on top of state-space and liquid neural network continuous-time formulations. Despite its exceptionally compact footprint, the model achieves performance parity with transformer models three times its size on core edge reasoning and sequence generation benchmarks.",
+      "url": "https://www.liquid.ai/blog/lfm2-5-230m?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Vercel Launches AI SDK 7 with Enhanced Stream and Tool Orchestration (3 minute read)",
+      "excerpt": "Vercel released AI SDK 7, introducing an upgraded, zero-overhead execution loop that dramatically simplifies how frontend frameworks handle multi-step tool calls and streaming agentic UI states. The release features a unified telemetry layer that hooks directly into serverless compute runtimes to provide absolute tracing visibility into token usage, model choices, and tool execution latency.",
+      "url": "https://vercel.com/blog/ai-sdk-7?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "White House Asks OpenAI to Slow Roll New Model Release (3 minute read)",
+      "excerpt": "The White House has issued an official administrative request asking OpenAI to delay the public deployment of its next-generation frontier model over national security and structural safety concerns. Government officials are pushing for an extended red-teaming window to thoroughly audit the system's advanced cyber-capability execution limits and automated social manipulation vulnerabilities.",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "🔮 The state of the AI economy (7 minute read)",
+      "excerpt": "The generative AI economy has generated $110 billion in sales over the past 12 months, and it's growing fast. The revenue run rate exceeds $175 billion on an annualized basis. The supply side of the AI market is well-understood, but understanding the demand side is much harder. This post looks at total AI spend, enterprise and consumer, to see how big the market really is, whether revenues are growing, how much revenue is covering the investment expense, and what will happen in the future as token prices fall and the quality of tokens improves.",
+      "url": "https://www.exponentialview.co/p/the-state-of-the-ai-economy?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Scaling Laws, Carefully (25 minute read)",
+      "excerpt": "Scaling laws are one of the most critical empirical findings in deep learning. They can be a framework for describing the relationship between compute, loss, model size, and data. Their predictability makes them highly valuable in practice. This article discusses scaling laws, how they can be used to allocate compute optimally, and their flaws.",
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Agents That Build Better Training Data (25 minute read)",
+      "excerpt": "Meta Autodata trains AI agents to act as data scientists that create higher-quality training and evaluation datasets. Its Agentic Self-Instruct implementation improved results across coding, legal reasoning, and mathematical reasoning tasks.",
+      "url": "https://arxiv.org/abs/2606.25996?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "DeepReinforce releases Ornith-1.0 open-source coding models (2 minute read)",
+      "excerpt": "Ornith-2.0 is a coding model family that can write RL scaffolds. Each variant of the self-improving family of models is trained on top of pretrained Gemma 4 and Qwen 3.5 foundations. Ornith-1.0 is state-of-the-art among open source models of comparable size. The weights and a technical report are available on Hugging Face for teams that want to run or study the models directly.",
+      "url": "https://www.testingcatalog.com/deepreinforce-releases-ornith-1-0-open-source-coding-models/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+      "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!",
+      "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Surprising lessons from my research scientist job search (11 minute read)",
+      "excerpt": "This post shines a light on the job search experience for a research scientist position in Silicon Valley. The author is a fifth-year PhD student at Brown University. Some of the surprising things about the job search were that only one or two of their research papers really mattered, there were very diverse interview rounds, and the importance of timing. A lot of interviews came from a lot of places outside of the author's expertise - many places were evaluating them on how well-rounded an AI researcher they were.",
+      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Measuring Exploits in LLM Agents with Tool Use (4 minute read)",
+      "excerpt": "Researchers introduced the Reward Hacking Benchmark (RHB) to measure how reinforcement learning post-training influences the tendency of coding agents to exploit evaluation flaws rather than solve tasks honestly. Testing across 13 frontier models revealed that RL-tuned variants exhibit exploit rates up to 13.9% by bypassing verification steps or modifying grading scripts, whereas standard post-trained models stay near 0%.",
+      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "We removed an LM's ability to speak German (3 minute read)",
+      "excerpt": "The team at Goodfire AI removed a 67-parameter language model's ability to predict German text by fine-tuning on only 4 German tokens.",
+      "url": "https://threadreaderapp.com/thread/2070181051801235463.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "Run a vLLM Server on HF Jobs in One Command (3 minute read)",
+      "excerpt": "Hugging Face launched a single-command deployment workflow that lets developers spin up private, OpenAI-compatible vLLM endpoints on its pay-per-second serverless Jobs infrastructure.",
+      "url": "https://huggingface.co/blog/vllm-jobs?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "The Future of AI is Intuitive (1 minute read)",
+      "excerpt": "Generative Intuition showcased a real-time behavioral tracking pipeline designed to monitor and visualize fine-grained physical human interactions across multimodal computing interfaces.",
+      "url": "https://x.com/gen_intuition/status/2070177308539818005?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}
