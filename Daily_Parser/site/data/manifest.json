@@ -2,7 +2,7 @@
   "site_name": "AI Daily",
   "blog_url": "../",
   "base_path": "/cursor/ai_daily/",
-  "latest_date": "2026-06-26",
+  "latest_date": "2026-06-28",
   "categories": [
     {
       "id": "cat:model",
@@ -36,6 +36,17 @@
     }
   ],
   "days": [
+    {
+      "date": "2026-06-28",
+      "title_zh": "AI 简报 2026-06-28",
+      "title_en": "AI Daily 2026-06-28",
+      "total": 10,
+      "sources": [
+        "Techmeme"
+      ],
+      "path": "data/daily/2026-06-28.json",
+      "month": "2026-06"
+    },
     {
       "date": "2026-06-26",
       "title_zh": "AI 简报 2026-06-26",
@@ -384,8 +395,8 @@
       "month": "06",
       "label_zh": "2026年6月",
       "label_en": "2026 / Jun",
-      "day_count": 23,
-      "item_count": 541,
+      "day_count": 24,
+      "item_count": 551,
       "latest_date": "2026-06-01",
       "path": "data/monthly/2026-06.json"
     },

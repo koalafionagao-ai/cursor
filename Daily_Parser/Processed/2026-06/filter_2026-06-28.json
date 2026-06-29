@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-28",
+  "threshold": 7.0,
+  "total": 30,
+  "kept": 10,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及安全漏洞检测的模型进展，具有行业影响力"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于行政管理的消息，信息量有限"
+    },
+    {
+      "id": "TM-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "揭示了谷歌与Meta之间的合作障碍，影响AI项目进展"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及调查信息"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及芯片采购的消息，但与AI关联不强"
+    },
+    {
+      "id": "TM-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于微软高管的个人资料，信息量一般"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "对AI数据中心的看法，反映行业观点但信息量有限"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及企业软件行业的竞争动态，值得关注"
+    },
+    {
+      "id": "TM-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "关于GPT-5.6的系统卡信息，影响模型发布进程"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于监管透明度的讨论，反映行业担忧"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "分析AI对就业市场的影响，具有一定深度"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于中国科技公司裁员的消息，反映行业趋势"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "巴西采用AI进行足球人才评估，展示AI应用潜力"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于硅谷焦虑的观察，信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI对2026年中期选举的影响，具有社会和政治意义"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于芯片测试工具的消息，信息量有限"
+    },
+    {
+      "id": "TM-17",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于芯片包装的分析，行业相关但信息量一般"
+    },
+    {
+      "id": "TM-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于职业学校的报道，信息量有限"
+    },
+    {
+      "id": "TM-19",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及社交媒体法律"
+    },
+    {
+      "id": "TM-20",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及广告法律"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于体育片段的讨论，信息量有限"
+    },
+    {
+      "id": "TM-22",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及Netflix政策"
+    },
+    {
+      "id": "TM-23",
+      "score": 8.0,
+      "keep": true,
+      "reason": "百度芯片单位计划IPO，具有行业影响力"
+    },
+    {
+      "id": "TM-24",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于中国市场IPO的动态，反映行业趋势"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于SpaceX与Charter的合作讨论，信息量一般"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及法律纠纷"
+    },
+    {
+      "id": "TM-27",
+      "score": 8.0,
+      "keep": true,
+      "reason": "与 Nvidia 合作建设数据中心，涉及 AI 基础设施的重大投资"
+    },
+    {
+      "id": "TM-28",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及苹果的法律诉讼，信息量有限且与 AI 关联不强"
+    },
+    {
+      "id": "TM-29",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于加密货币交易所的收购，信息量一般，未直接涉及 AI"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于地震预警系统的应用，虽有技术价值但信息较常规"
+    }
+  ]
+}

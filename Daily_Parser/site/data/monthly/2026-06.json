@@ -180,9 +180,16 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-28",
+      "total": 10,
+      "sources": [
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 541,
+  "item_count": 551,
   "items": [
     {
       "id": "TM-01",
@@ -15092,6 +15099,278 @@
       ],
       "category_tag": "cat:app",
       "date": "2026-06-26"
+    },
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2?st=FRKgap&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "研究称Z.ai的GLM-5.2在发现安全漏洞方面可媲美最新的美国模型",
+        "en": "Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models"
+      },
+      "summary": {
+        "zh": "批评者质疑美国在限制中国开源模型方面的宽松态度。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "search"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "search"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+      "title": {
+        "zh": "消息称谷歌未能满足Meta对Gemini容量的需求，导致其AI项目受阻",
+        "en": "Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "meta",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "meta",
+        "gemini"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/salesforce-employees-worry-anthropics-invasion-slack",
+      "title": {
+        "zh": "消息称Salesforce员工担忧Anthropic的Claude Tag可能影响Slackbot业务",
+        "en": "Sources: Salesforce staff worry Anthropic's Claude Tag could cannibalize Slackbot and give the AI firm more leverage over the enterprise software industry"
+      },
+      "summary": {
+        "zh": "此举可能增强Anthropic在企业软件行业的影响力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "salesforce",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "salesforce",
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+      "title": {
+        "zh": "GPT-5.6系统卡显示其低于大多数高风险用例，可无延迟发布",
+        "en": "GPT-5.6 system card indicates Sol is well below the level of most worrisome Mythos use cases, suggesting all GPT-5.6 versions could be released without delay"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/27/what-is-ai-impact-entry-level-jobs-stanford-adp-canaries-brynjolfsson-richardson/",
+      "title": {
+        "zh": "分析显示：AI高暴露职业中22至25岁员工就业率每年下降3.8%",
+        "en": "An analysis of US payroll data across 730+ occupations: employment among workers ages 22 to 25 in highly AI-exposed jobs is now shrinking by 3.8% per year"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html?unlocked_article_code=1.tlA.8oeR.JLXaav9U3I42&smid=url-share",
+      "title": {
+        "zh": "巴西采用AI驱动的球员选拔应用，通过分析视频片段评估球员",
+        "en": "Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "video-gen"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-26/silicon-valley-money-drives-ai-s-growing-role-in-2026-us-elections?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzOTY5MSwiZXhwIjoxNzgzMTQ0NDkxLCJhcnRpY2xlSWQiOiJUSDhUUFdOM04wOTMwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.PeVOZiL_38lVQigWGRTEm-MOWekE_o8C0XWjB0pntY0",
+      "title": {
+        "zh": "AI如何影响2026年美国中期选举，公众对数据中心扩张的不满加剧",
+        "en": "How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers"
+      },
+      "summary": {
+        "zh": "AI行业成为最大的资金支持者之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "data-center",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "data-center",
+        "funding"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/baidus-chip-unit-asked-ipo-investors-buy-semiconductors",
+      "title": {
+        "zh": "消息称百度芯片部门昆仑芯计划在香港IPO，目标估值500亿美元",
+        "en": "Sources: Baidu's chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment"
+      },
+      "summary": {
+        "zh": "公司要求投资者购买相当于其IPO投资3-7倍的芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "baidu",
+        "chip",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "baidu",
+        "chip",
+        "ipo"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/transactional/chinese-ai-chip-firms-are-driving-an-onshore-ipo-rebound-2026-06-26/",
+      "title": {
+        "zh": "LSEG：今年中国大陆科技公司通过上市筹资31亿美元，同比增长5倍",
+        "en": "LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs"
+      },
+      "summary": {
+        "zh": "AI和芯片公司推动了境内IPO的增长。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ipo",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia",
+      "title": {
+        "zh": "澳大利亚Firmus与Nvidia合作在印尼巴淡岛建设首个数据中心",
+        "en": "Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne"
+      },
+      "summary": {
+        "zh": "360 MW Nvidia DSX AI工厂园区由DayOne开发。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-28"
     }
   ],
   "tag_index": {
@@ -15131,7 +15410,8 @@
       "2026-06-24:TM-43",
       "2026-06-24:TL-06",
       "2026-06-24:TL-17",
-      "2026-06-25:TL-06"
+      "2026-06-25:TL-06",
+      "2026-06-28:TM-27"
     ],
     "chip": [
       "2026-06-01:TM-01",
@@ -15167,7 +15447,9 @@
       "2026-06-25:TM-39",
       "2026-06-25:TM-40",
       "2026-06-25:TM-43",
-      "2026-06-25:TL-01"
+      "2026-06-25:TL-01",
+      "2026-06-28:TM-23",
+      "2026-06-28:TM-24"
     ],
     "anthropic": [
       "2026-06-01:TM-02",
@@ -15232,7 +15514,8 @@
       "2026-06-25:TM-07",
       "2026-06-25:TL-02",
       "2026-06-25:TL-10",
-      "2026-06-25:TL-13"
+      "2026-06-25:TL-13",
+      "2026-06-28:TM-08"
     ],
     "ipo": [
       "2026-06-01:TM-02",
@@ -15251,7 +15534,9 @@
       "2026-06-18:TM-29",
       "2026-06-19:TM-22",
       "2026-06-22:TM-31",
-      "2026-06-23:TM-04"
+      "2026-06-23:TM-04",
+      "2026-06-28:TM-23",
+      "2026-06-28:TM-24"
     ],
     "openai": [
       "2026-06-01:TM-04",
@@ -15320,7 +15605,8 @@
       "2026-06-26:TM-02",
       "2026-06-26:TM-07",
       "2026-06-26:TM-11",
-      "2026-06-26:TL-03"
+      "2026-06-26:TL-03",
+      "2026-06-28:TM-09"
     ],
     "sam-altman": [
       "2026-06-01:TM-04",
@@ -15407,7 +15693,8 @@
       "2026-06-25:TM-48",
       "2026-06-25:TL-02",
       "2026-06-25:TL-03",
-      "2026-06-25:TL-12"
+      "2026-06-25:TL-12",
+      "2026-06-28:TM-03"
     ],
     "funding": [
       "2026-06-01:TM-05",
@@ -15508,7 +15795,8 @@
       "2026-06-25:TL-13",
       "2026-06-26:TM-14",
       "2026-06-26:TM-22",
-      "2026-06-26:TL-04"
+      "2026-06-26:TL-04",
+      "2026-06-28:TM-15"
     ],
     "policy": [
       "2026-06-01:TM-09",
@@ -15581,7 +15869,9 @@
       "2026-06-25:TM-53",
       "2026-06-26:TM-09",
       "2026-06-26:TM-10",
-      "2026-06-26:TL-03"
+      "2026-06-26:TL-03",
+      "2026-06-28:TM-11",
+      "2026-06-28:TM-15"
     ],
     "robotics": [
       "2026-06-01:TM-11",
@@ -15663,7 +15953,9 @@
       "2026-06-19:TL-10",
       "2026-06-25:TM-43",
       "2026-06-25:TL-01",
-      "2026-06-25:TL-12"
+      "2026-06-25:TL-12",
+      "2026-06-28:TM-15",
+      "2026-06-28:TM-27"
     ],
     "coding": [
       "2026-06-01:TM-16",
@@ -16021,7 +16313,8 @@
       "2026-06-18:TL-01",
       "2026-06-18:TL-04",
       "2026-06-23:TM-03",
-      "2026-06-24:TL-02"
+      "2026-06-24:TL-02",
+      "2026-06-28:TM-08"
     ],
     "xai": [
       "2026-06-01:TL-09",
@@ -16049,7 +16342,8 @@
       "2026-06-18:TL-01",
       "2026-06-18:TL-04",
       "2026-06-25:TL-02",
-      "2026-06-25:TL-03"
+      "2026-06-25:TL-03",
+      "2026-06-28:TM-03"
     ],
     "enterprise": [
       "2026-06-01:TL-10",
@@ -16082,7 +16376,8 @@
       "2026-06-23:TL-02",
       "2026-06-25:TM-05",
       "2026-06-25:TL-14",
-      "2026-06-26:TM-02"
+      "2026-06-26:TM-02",
+      "2026-06-28:TM-09"
     ],
     "safety": [
       "2026-06-01:TL-17",
@@ -16167,7 +16462,8 @@
       "2026-06-24:TL-13",
       "2026-06-25:TM-35",
       "2026-06-25:TM-37",
-      "2026-06-26:TL-06"
+      "2026-06-26:TL-06",
+      "2026-06-28:TM-03"
     ],
     "oracle": [
       "2026-06-02:TM-27",
@@ -16183,7 +16479,8 @@
     "salesforce": [
       "2026-06-02:TM-35",
       "2026-06-15:TM-06",
-      "2026-06-17:TM-49"
+      "2026-06-17:TM-49",
+      "2026-06-28:TM-08"
     ],
     "ide": [
       "2026-06-02:TM-47",
@@ -16242,14 +16539,16 @@
     "video-gen": [
       "2026-06-02:TL-06",
       "2026-06-23:TM-06",
-      "2026-06-23:TL-03"
+      "2026-06-23:TL-03",
+      "2026-06-28:TM-13"
     ],
     "search": [
       "2026-06-02:TL-07",
       "2026-06-03:TM-05",
       "2026-06-04:TM-46",
       "2026-06-05:TM-10",
-      "2026-06-16:TL-02"
+      "2026-06-16:TL-02",
+      "2026-06-28:TM-01"
     ],
     "chatgpt": [
       "2026-06-03:TM-14",
@@ -16317,7 +16616,8 @@
     "baidu": [
       "2026-06-03:TM-57",
       "2026-06-08:TM-43",
-      "2026-06-15:TM-17"
+      "2026-06-15:TM-17",
+      "2026-06-28:TM-23"
     ],
     "azure-openai": [
       "2026-06-03:TL-01",
@@ -16812,7 +17112,11 @@
       "2026-06-25:TL-13",
       "2026-06-26:TM-14",
       "2026-06-26:TM-22",
-      "2026-06-26:TL-04"
+      "2026-06-26:TL-04",
+      "2026-06-28:TM-08",
+      "2026-06-28:TM-23",
+      "2026-06-28:TM-24",
+      "2026-06-28:TM-27"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -16936,7 +17240,10 @@
       "2026-06-26:TM-07",
       "2026-06-26:TM-09",
       "2026-06-26:TM-31",
-      "2026-06-26:TL-03"
+      "2026-06-26:TL-03",
+      "2026-06-28:TM-03",
+      "2026-06-28:TM-11",
+      "2026-06-28:TM-15"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -16991,7 +17298,9 @@
       "2026-06-25:TL-09",
       "2026-06-25:TL-14",
       "2026-06-26:TM-02",
-      "2026-06-26:TL-01"
+      "2026-06-26:TL-01",
+      "2026-06-28:TM-01",
+      "2026-06-28:TM-09"
     ],
     "cat:app": [
       "2026-06-01:TM-46",
@@ -17069,7 +17378,8 @@
       "2026-06-26:TM-10",
       "2026-06-26:TM-11",
       "2026-06-26:TL-06",
-      "2026-06-26:TL-12"
+      "2026-06-26:TL-12",
+      "2026-06-28:TM-13"
     ]
   },
   "tag_stats": [
@@ -17079,7 +17389,7 @@
     },
     {
       "tag": "funding",
-      "count": 99
+      "count": 100
     },
     {
       "tag": "agent",
@@ -17087,15 +17397,15 @@
     },
     {
       "tag": "policy",
-      "count": 71
+      "count": 73
     },
     {
       "tag": "openai",
-      "count": 67
+      "count": 68
     },
     {
       "tag": "anthropic",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "safety",
@@ -17103,23 +17413,23 @@
     },
     {
       "tag": "google",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "nvidia",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "chip",
-      "count": 34
+      "count": 36
+    },
+    {
+      "tag": "data-center",
+      "count": 30
     },
     {
       "tag": "coding",
       "count": 30
-    },
-    {
-      "tag": "data-center",
-      "count": 28
     },
     {
       "tag": "regulation",
@@ -17127,10 +17437,14 @@
     },
     {
       "tag": "claude",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "enterprise",
+      "count": 21
+    },
+    {
+      "tag": "meta",
       "count": 21
     },
     {
@@ -17138,12 +17452,8 @@
       "count": 20
     },
     {
-      "tag": "meta",
-      "count": 20
-    },
-    {
       "tag": "ipo",
-      "count": 17
+      "count": 19
     },
     {
       "tag": "gpu",
@@ -17158,12 +17468,12 @@
       "count": 15
     },
     {
-      "tag": "chatgpt",
+      "tag": "gemini",
       "count": 15
     },
     {
-      "tag": "gemini",
-      "count": 14
+      "tag": "chatgpt",
+      "count": 15
     },
     {
       "tag": "reasoning",
@@ -17210,6 +17520,10 @@
       "count": 9
     },
     {
+      "tag": "gpt",
+      "count": 9
+    },
+    {
       "tag": "codex",
       "count": 9
     },
@@ -17219,10 +17533,6 @@
     },
     {
       "tag": "api",
-      "count": 8
-    },
-    {
-      "tag": "gpt",
       "count": 8
     },
     {
@@ -17246,6 +17556,10 @@
       "count": 6
     },
     {
+      "tag": "search",
+      "count": 6
+    },
+    {
       "tag": "tencent",
       "count": 6
     },
@@ -17255,10 +17569,6 @@
     },
     {
       "tag": "bytedance",
-      "count": 5
-    },
-    {
-      "tag": "search",
       "count": 5
     },
     {
@@ -17290,7 +17600,19 @@
       "count": 4
     },
     {
+      "tag": "salesforce",
+      "count": 4
+    },
+    {
+      "tag": "video-gen",
+      "count": 4
+    },
+    {
       "tag": "palantir",
+      "count": 4
+    },
+    {
+      "tag": "baidu",
       "count": 4
     },
     {
@@ -17302,19 +17624,7 @@
       "count": 3
     },
     {
-      "tag": "salesforce",
-      "count": 3
-    },
-    {
       "tag": "ide",
-      "count": 3
-    },
-    {
-      "tag": "video-gen",
-      "count": 3
-    },
-    {
-      "tag": "baidu",
       "count": 3
     },
     {
@@ -17453,12 +17763,12 @@
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 204,
+      "count": 208,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 122,
+      "count": 125,
       "label_zh": "其它"
     },
     {
@@ -17468,12 +17778,12 @@
     },
     {
       "tag": "cat:app",
-      "count": 76,
+      "count": 77,
       "label_zh": "新应用"
     },
     {
       "tag": "cat:model",
-      "count": 53,
+      "count": 55,
       "label_zh": "新模型"
     }
   ]

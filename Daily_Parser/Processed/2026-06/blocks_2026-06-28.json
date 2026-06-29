@@ -1,0 +1,245 @@
+{
+  "date": "2026-06-28",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2?st=FRKgap&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Sources: the CFTC began an extensive investigation of Polymarket earlier this year; the agency's former acting head killed a separate investigation in July 2025",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/26/us/politics/cftc-investigating-polymarket-trump.html?unlocked_article_code=1.tVA.wT1g.rmKb1KiUdloG&smid=nytcore-android-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft's consolidated Copilot team efforts to catch up with OpenAI and Anthropic",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/27/microsoft-copilot-boss-jacob-andreou-tapped-by-satya-nadella-to-save-ai-strategy/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Masayoshi Son questioned Musk's orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2?st=JDyDwZ",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: Salesforce staff worry Anthropic's Claude Tag could cannibalize Slackbot and give the AI firm more leverage over the enterprise software industry",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/salesforce-employees-worry-anthropics-invasion-slack",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "GPT-5.6 system card indicates Sol is well below the level of most worrisome Mythos use cases, suggesting all GPT-5.6 versions could be released without delay",
+      "excerpt": "",
+      "url": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "An analysis of US payroll data across 730+ occupations: employment among workers ages 22 to 25 in highly AI-exposed jobs is now shrinking by 3.8% per year",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/06/27/what-is-ai-impact-entry-level-jobs-stanford-adp-canaries-brynjolfsson-richardson/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers' concerns of being replaced by AI",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3358519/chinas-tech-firms-adapt-ai-era-workers-worry-theyll-be-optimised-out-job",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html?unlocked_article_code=1.tlA.8oeR.JLXaav9U3I42&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzMjY0MiwiZXhwIjoxNzgzMTM3NDQyLCJhcnRpY2xlSWQiOiJUSDhDWUZLSVVQUzQwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.Ki1RROjbzFVqlXR1nfze5sahC7lLwemqdmSYAoeRW8c",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-06-26/silicon-valley-money-drives-ai-s-growing-role-in-2026-us-elections?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzOTY5MSwiZXhwIjoxNzgzMTQ0NDkxLCJhcnRpY2xlSWQiOiJUSDhUUFdOM04wOTMwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.PeVOZiL_38lVQigWGRTEm-MOWekE_o8C0XWjB0pntY0",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Source: Intel has promised to deliver SpaceX and Apple a toolkit this fall to test its 14A node before they make final commitments to produce chips with Intel",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html?unlocked_article_code=1.tFA.bG8W.pzrA8C3VNnhN&smid=url-share",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "A look at advanced chip packaging, now more reliant on TSMC and its partners in Taiwan than ever, and the efforts to address this bottleneck in the US",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html?unlocked_article_code=1.tFA.pyxP.r40d3mMILWfp",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "A look at South Korea's four vocational “meister” schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html?unlocked_article_code=1.tFA.4Zuc.Yq29Llb6pGuo&smid=nytcore-ios-share",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2203358/australia-doubles-maximum-penalty-social-media-ban/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Streaming services must comply with a California law that bans playing ads louder than the content being watched from July 1, but its implementation is unclear",
+      "excerpt": "",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html",
+      "section": "streaming"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles",
+      "excerpt": "",
+      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "section": "streaming"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Sources: Baidu's chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/baidus-chip-unit-asked-ipo-investors-buy-semiconductors",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/chinese-ai-chip-firms-are-driving-an-onshore-ipo-rebound-2026-06-26/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/spacex-charter-discussed-mobile-phone-partnership-in-us?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUxNzk2NywiZXhwIjoxNzgzMTIyNzY3LCJhcnRpY2xlSWQiOiJUSDk0MFZUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFMzk0MDI4OTkwRDk0MUEzOUQwNDA3QUQyNDYzNzNBNiJ9.jXH-SnEbposo_p1XdrSNO_nyG-kdEM1NvOX0B3Ot9O8",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Apple's appeal to a London Court of Appeal ruling begins Monday at the UK Supreme Court; the ruling required it to pay $502M for using Optis' wireless patents",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Japanese financial giant SBI agrees to acquire Bitbank, a top 10 Japanese crypto exchange by trading activity, for ~$289M, with the deal set to close in October",
+      "excerpt": "",
+      "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Google's Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html?unlocked_article_code=1.tVA.jUhY.iORlqNQ-lgQ5&smid=nytcore-ios-share",
+      "section": "more news"
+    }
+  ]
+}

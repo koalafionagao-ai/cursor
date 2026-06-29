@@ -1,0 +1,149 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models
+Tweets:
+  - Author: @davidsacks
+    Text: A year ago, President Trump declared that America was in a global AI race and that the way to win it was to be pro-innovation, pro-infrastructure, pro-energy, and pro-export. President Trump was exactly right; we deviate from that strategy at our peril. [image]
+    Link ID: TM-01-TW-01
+  - Author: @kimmonismus
+    Text: Supposedly, “a new model from” from zAI is said to be at least as strong as Fable5 in cybersecurity-related aspects.  I did some research and only came across a Wall Street Journal article, which, however, does not refer to a new model, but to GLM 5.2 as a relatively new model that was released recently.  So either GLM 5.2 is stronger than people think, or the news being circulated is misleading.  According to WSJ, Zhipu AI's GLM-5.2 can match top US models in some bug-finding scenarios, and China's 360 Security says its new Tulongfeng tool is comparable to Anthropic's Mythos.
+    Link ID: TM-01-TW-02
+  - Author: @pmarca
+    Text: Many smart people/AI insiders are saying GLM-5.2 is the first Chinese AI model to match and often beat the American big lab public AI models with no compromises. Incredible timing given current events.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Tokyo-based Sakana AI's Fugu and China-based 360's cybersecurity model Tulongfeng claim to rival Anthropic's banned Mythos and Fable 5 amid the US export ban
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week
+Tweets:
+  - Author: @kimmonismus
+    Text: Small reminder, friends: Fable 5 was technically only included in the subscription tier until June 22. Next week, we'll find out what kind of solution they've come up with for that.
+    Link ID: TM-02-TW-01
+  - Author: @andrewcurran_
+    Text: I think both Fable 5 and GPT-5.6 get approved for general release next week, and for use outside of the United States as well...I doubt they will approve one model and not the other, because doing so would be seen as incredibly anti-competitive.  Fable and GPT-5.6 will probably receive the same clearance, probably on the same day.  I also doubt they want to restrict sales outside the US, because that would be seen as anti-business and would trigger a major backlash against American closed-source AI.
+    Link ID: TM-02-TW-02
+  - Author: @deryatr_
+    Text: I never felt good about Dario Amodei, but I still tried to give him the benefit of the doubt & even declared him as one of my AI heroes. It seems my original intuition was correct. But, due to my intense AI optimism, I didn't think he would end up being this damaging. I was wrong
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5
+    Link ID: TM-02-SUB-01
+  - Title: Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech
+    Link ID: TM-02-SUB-02
+---
+ID: TM-03
+Title: Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects
+Tweets:
+  - Author: @jukan05
+    Text: Google reportedly limited Meta's use of Gemini due to a shortage of compute resources. — FT Google is in a position where it can't sell Gemini to Meta as freely as it might want to. Compute remains power, and the scarcest resource in AI. [image]
+    Link ID: TM-03-TW-01
+  - Author: @garymarcus
+    Text: wild.
+    Link ID: TM-03-TW-02
+  - Author: @aleabitoreddit
+    Text: Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... And why Gemini got super nerfed.  $GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints.  Google's CEO said from last earnings computing power restrictions prevented Google Cloud from taking on more customer needs and made the department's backlog nearly double the previous quarter.  This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed, and especially so if they can't rely on one another.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Sources: the CFTC began an extensive investigation of Polymarket earlier this year; the agency's former acting head killed a separate investigation in July 2025
+Sub Items:
+  - Title: Polymarket says its annualized revenue is now $1B+; Dune Analytics: daily volume on Polymarket's US platform rose from ~$50M in mid-May to $200M+ by June 20
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Sources: Apple is lobbying the Trump admin for clearance to buy memory chips from US-blacklisted Chinese company CXMT to ease pressure from rising chip prices
+---
+ID: TM-06
+Title: A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft's consolidated Copilot team efforts to catch up with OpenAI and Anthropic
+---
+ID: TM-07
+Title: Masayoshi Son questioned Musk's orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-08
+Title: Sources: Salesforce staff worry Anthropic's Claude Tag could cannibalize Slackbot and give the AI firm more leverage over the enterprise software industry
+Sub Items:
+  - Title: A look at a thriving underground economy for Claude access in China, including “transfer station” sites that buy API tokens abroad and distribute them to users
+    Link ID: TM-08-SUB-01
+---
+ID: TM-09
+Title: GPT-5.6 system card indicates Sol is well below the level of most worrisome Mythos use cases, suggesting all GPT-5.6 versions could be released without delay
+---
+ID: TM-10
+Title: AI executives and lobbyists say they are seeking regulatory clarity from the Trump administration but are wary of pressing for answers, fearing retaliation
+---
+ID: TM-11
+Title: An analysis of US payroll data across 730+ occupations: employment among workers ages 22 to 25 in highly AI-exposed jobs is now shrinking by 3.8% per year
+---
+ID: TM-12
+Title: Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers' concerns of being replaced by AI
+---
+ID: TM-13
+Title: Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more
+---
+ID: TM-14
+Title: The rapid pace of AI progress has created a pervasive fear of missing out across Silicon Valley, fueling anxiety among founders, executives, employees, and VCs
+---
+ID: TM-15
+Title: How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-16
+Title: Source: Intel has promised to deliver SpaceX and Apple a toolkit this fall to test its 14A node before they make final commitments to produce chips with Intel
+---
+ID: TM-17
+Title: A look at advanced chip packaging, now more reliant on TSMC and its partners in Taiwan than ever, and the efforts to address this bottleneck in the US
+---
+ID: TM-18
+Title: A look at South Korea's four vocational “meister” schools that train students to work in semiconductor manufacturing, leading to jobs at Samsung and SK Hynix
+---
+
+[CATEGORY: REGULATION]
+ID: TM-19
+Title: Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers
+---
+ID: TM-20
+Title: Streaming services must comply with a California law that bans playing ads louder than the content being watched from July 1, but its implementation is unclear
+---
+
+[CATEGORY: STREAMING]
+ID: TM-21
+Title: Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue
+---
+ID: TM-22
+Title: Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-23
+Title: Sources: Baidu's chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment
+---
+ID: TM-24
+Title: LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-25
+Title: Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider
+---
+ID: TM-26
+Title: Insurance tech startup Corgi denies accusations that it used Papermark's open source software code to develop its software and present it as its own
+---
+ID: TM-27
+Title: Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne
+---
+ID: TM-28
+Title: Apple's appeal to a London Court of Appeal ruling begins Monday at the UK Supreme Court; the ruling required it to pay $502M for using Optis' wireless patents
+---
+ID: TM-29
+Title: Japanese financial giant SBI agrees to acquire Bitbank, a top 10 Japanese crypto exchange by trading activity, for ~$289M, with the deal set to close in October
+---
+ID: TM-30
+Title: Google's Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck
+---

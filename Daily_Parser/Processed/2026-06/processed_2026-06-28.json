@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-28",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 10,
+    "by_category": {
+      "cat:model": 2,
+      "cat:other": 3,
+      "cat:business": 4,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2?st=FRKgap&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "研究称Z.ai的GLM-5.2在发现安全漏洞方面可媲美最新的美国模型",
+        "en": "Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models"
+      },
+      "summary": {
+        "zh": "批评者质疑美国在限制中国开源模型方面的宽松态度。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "search"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+      "title": {
+        "zh": "消息称谷歌未能满足Meta对Gemini容量的需求，导致其AI项目受阻",
+        "en": "Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "meta",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/salesforce-employees-worry-anthropics-invasion-slack",
+      "title": {
+        "zh": "消息称Salesforce员工担忧Anthropic的Claude Tag可能影响Slackbot业务",
+        "en": "Sources: Salesforce staff worry Anthropic's Claude Tag could cannibalize Slackbot and give the AI firm more leverage over the enterprise software industry"
+      },
+      "summary": {
+        "zh": "此举可能增强Anthropic在企业软件行业的影响力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "salesforce",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-09",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://thezvi.substack.com/p/gpt-56-the-system-card",
+      "title": {
+        "zh": "GPT-5.6系统卡显示其低于大多数高风险用例，可无延迟发布",
+        "en": "GPT-5.6 system card indicates Sol is well below the level of most worrisome Mythos use cases, suggesting all GPT-5.6 versions could be released without delay"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/06/27/what-is-ai-impact-entry-level-jobs-stanford-adp-canaries-brynjolfsson-richardson/",
+      "title": {
+        "zh": "分析显示：AI高暴露职业中22至25岁员工就业率每年下降3.8%",
+        "en": "An analysis of US payroll data across 730+ occupations: employment among workers ages 22 to 25 in highly AI-exposed jobs is now shrinking by 3.8% per year"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/24/world/americas/brazil-soccer-ai-scout-fc-santos.html?unlocked_article_code=1.tlA.8oeR.JLXaav9U3I42&smid=url-share",
+      "title": {
+        "zh": "巴西采用AI驱动的球员选拔应用，通过分析视频片段评估球员",
+        "en": "Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-26/silicon-valley-money-drives-ai-s-growing-role-in-2026-us-elections?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjUzOTY5MSwiZXhwIjoxNzgzMTQ0NDkxLCJhcnRpY2xlSWQiOiJUSDhUUFdOM04wOTMwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.PeVOZiL_38lVQigWGRTEm-MOWekE_o8C0XWjB0pntY0",
+      "title": {
+        "zh": "AI如何影响2026年美国中期选举，公众对数据中心扩张的不满加剧",
+        "en": "How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers"
+      },
+      "summary": {
+        "zh": "AI行业成为最大的资金支持者之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "data-center",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/baidus-chip-unit-asked-ipo-investors-buy-semiconductors",
+      "title": {
+        "zh": "消息称百度芯片部门昆仑芯计划在香港IPO，目标估值500亿美元",
+        "en": "Sources: Baidu's chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment"
+      },
+      "summary": {
+        "zh": "公司要求投资者购买相当于其IPO投资3-7倍的芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "baidu",
+        "chip",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/transactional/chinese-ai-chip-firms-are-driving-an-onshore-ipo-rebound-2026-06-26/",
+      "title": {
+        "zh": "LSEG：今年中国大陆科技公司通过上市筹资31亿美元，同比增长5倍",
+        "en": "LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs"
+      },
+      "summary": {
+        "zh": "AI和芯片公司推动了境内IPO的增长。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia",
+      "title": {
+        "zh": "澳大利亚Firmus与Nvidia合作在印尼巴淡岛建设首个数据中心",
+        "en": "Australia-based Firmus partners with Nvidia to build its first data center in Batam, Indonesia; the 360 MW Nvidia DSX AI factory campus is developed with DayOne"
+      },
+      "summary": {
+        "zh": "360 MW Nvidia DSX AI工厂园区由DayOne开发。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
