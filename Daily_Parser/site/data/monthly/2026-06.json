@@ -187,9 +187,17 @@
       "sources": [
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "total": 28,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 551,
+  "item_count": 579,
   "items": [
     {
       "id": "TM-01",
@@ -15371,6 +15379,771 @@
       ],
       "category_tag": "cat:business",
       "date": "2026-06-28"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6",
+      "title": {
+        "zh": "韩国三星和SK海力士计划投资约5900亿美元建设新芯片综合体",
+        "en": "South Korea, Samsung, and SK Hynix say they plan to invest ~$590B to build a new chip complex, including four chipmaking plants and a chip packaging cluster"
+      },
+      "summary": {
+        "zh": "包括四个芯片制造厂和一个芯片封装集群。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "samsung",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "samsung",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://9to5mac.com/2026/06/29/whatsapp-username-reservations-are-now-open-heres-how-to-claim-yours/",
+      "title": {
+        "zh": "WhatsApp全球推出用户名预留功能",
+        "en": "WhatsApp rolls out username reservations globally, allowing users to claim a unique name before the privacy-focused feature launches later this year"
+      },
+      "summary": {
+        "zh": "用户可在隐私功能正式上线前抢先注册独特用户名。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek",
+      "title": {
+        "zh": "DeepSeek推出DSpark框架，加速AI推理高达85%",
+        "en": "DeepSeek details DSpark, a speculative decoding framework for its V4 models, saying it speeds up AI inference by up to 85% and was tested on Gemma and Qwen"
+      },
+      "summary": {
+        "zh": "该框架已在Gemma和Qwen模型上测试。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "deepseek",
+        "qwen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "deepseek",
+        "qwen"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/internal-docs-show-meta-putting-limits-claude-codex-fearing-distillation",
+      "title": {
+        "zh": "内部文件：Meta限制工程师使用Claude Code和Codex",
+        "en": "Internal documents: Meta is placing strict limits on how engineers in its applied AI division can use Claude Code and Codex, fearing inadvertent distillation"
+      },
+      "summary": {
+        "zh": "Meta担心无意中泄露模型的蒸馏信息。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "claude-code",
+        "codex",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "claude-code",
+        "codex",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/06/29/exclusive-newsom-anthropic-ink-deal-to-expand-government-use-00979584",
+      "title": {
+        "zh": "加州与Anthropic达成协议，以50%折扣推广Claude产品",
+        "en": "California strikes a deal with Anthropic to expand the use of Claude products across state agencies and local governments at a 50% discount"
+      },
+      "summary": {
+        "zh": "协议将扩大Claude产品在州政府和地方政府中的使用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "claude",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "policy"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/amazon-pay-anthropic-technology-new-deal",
+      "title": {
+        "zh": "消息称亚马逊考虑使用OpenAI和自家Nova模型以降低成本",
+        "en": "Sources: Amazon is weighing using OpenAI's and its own Nova models to cut costs after Anthropic raised prices for using its models in Amazon products"
+      },
+      "summary": {
+        "zh": "因Anthropic提高了其模型在亚马逊产品中的使用价格。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "amazon",
+        "openai",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon",
+        "openai",
+        "anthropic"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/the-taser-ceo-who-says-ai-is-the-future-of-policing-4311d23c?st=JRQZYz",
+      "title": {
+        "zh": "Axon CEO Rick Smith访谈：从泰瑟枪制造商到警务软件公司",
+        "en": "An interview with Axon CEO Rick Smith, who transformed the Taser maker into a policing software company, as its revenue from AI policing tools rises 700%+ YoY"
+      },
+      "summary": {
+        "zh": "公司AI警务工具收入同比增长超过700%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/cfo-journal/inside-consultants-messy-shift-from-hourly-billing-7bd9b802?st=CtWuNj&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "AI推动咨询公司从按小时计费转向固定费用或结果导向定价",
+        "en": "AI is forcing consulting firms to shift from hourly billing to fixed-fee or outcome-based pricing, a transition proving slow and difficult for the industry"
+      },
+      "summary": {
+        "zh": "这一转型对行业来说进展缓慢且充满挑战。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "pricing"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "pricing"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/31448605-a987-43a6-ad1e-0062e0889d06",
+      "title": {
+        "zh": "英国押注IT和AI以应对经济和生产力增长放缓",
+        "en": "How the UK is betting on IT and AI to combat slow economic and productivity growth, including moving beyond the Golden Triangle of London, Oxford, and Cambridge"
+      },
+      "summary": {
+        "zh": "计划超越伦敦、牛津和剑桥的“黄金三角”区域。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "title": {
+        "zh": "AI排行榜提供商Arena年化收入达1亿美元",
+        "en": "AI leaderboard provider Arena says it hit $100M in annualized run-rate revenue eight months after launching AI Evaluations, which offers performance analytics"
+      },
+      "summary": {
+        "zh": "推出八个月后，其AI评估服务实现了这一里程碑。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "benchmark"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "benchmark"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications",
+      "title": {
+        "zh": "Rocket Lab计划以80亿美元收购Iridium，整合发射服务与卫星通信网络以对抗SpaceX",
+        "en": "Rocket Lab plans to acquire Iridium for $8B and combine Rocket Lab's launch services with Iridium's satellite-based communications network to rival SpaceX"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/autos-transportation/chinas-momenta-seeks-up-751-million-hong-kong-ipo-boost-autonomous-driving-rd-2026-06-29/",
+      "title": {
+        "zh": "上海初创公司Momenta计划在香港IPO，目标融资7.511亿美元",
+        "en": "Shanghai-based Momenta, whose driver-assist tech is used by Toyota, Mercedes, and Audi in China, files for an IPO in Hong Kong, seeking to raise up to $751.1M"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ipo",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-06-25/apptronik-s-humanoid-robots-walk-but-ceo-jeff-cardenas-isn-t-bragging-yet?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwMDMzOCwiZXhwIjoxNzgzMDA1MTM4LCJhcnRpY2xlSWQiOiJUSDZTMEhLR0lGUjMwMCIsImJjb25uZWN0SWQiOiJCODE3M0JCRUY0QzI0MTlFQTBGNEJCRjJDOTFDODJCNCJ9.zlHngzbIQi43xBePRBuDh8m4CMHVLxn-k3-gIu29FFU",
+      "title": {
+        "zh": "人形机器人制造商Apptronik融资约10亿美元，估值约50亿美元",
+        "en": "Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik's Apollo robots in its factories"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "robotics"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-births-two-robot-unicorns-as-sector-funding-stays-strong",
+      "title": {
+        "zh": "中国机器人初创公司AI² Robotics融资约7.36亿美元，估值约29亿美元",
+        "en": "Chinese robotics startup AI² Robotics raised ~$736M at a ~$2.9B valuation; Alibaba-backed X Square Robot raised an undisclosed amount at a ~$2.9B valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "alibaba",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "alibaba",
+        "robotics"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-32",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/pro/private-equity/summit-partners-leads-a-200-million-bet-on-quantifinds-ai-tech-d9bf819f",
+      "title": {
+        "zh": "Quantifind融资2亿美元，助力银行打击金融犯罪",
+        "en": "Quantifind, whose AI products help banks combat financial crimes such as money laundering, raised $200M led by Summit Partners"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-34",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/06/29/exclusive-agentic-coding-startup-baz-brings-code-reviews-planning-stage-extends-seed-funding-17m/",
+      "title": {
+        "zh": "Baz发布Baz Planner，利用四个AI代理分析代码规划阶段，并将种子轮融资扩大至1700万美元",
+        "en": "Baz releases Baz Planner, which uses four specialized AI agents to analyze code at the planning stage, and extends its seed funding by $9M to $17M"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "startup",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-38",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.nextplatform.com/hpc/2026/06/25/a-deep-dive-on-chinas-lineshine-all-cpu-exaflops-class-supercomputer/5262439",
+      "title": {
+        "zh": "学术论文与会议材料深入解析中国全CPU LineShine，搭载定制304核Arm CPU与HBM，登顶Top500",
+        "en": "Academic papers and conference materials offer a deep dive into China's all-CPU LineShine, which pairs custom 304-core Arm CPUs with HBM to top the Top500"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "chip",
+        "gpu",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "gpu",
+        "training"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TM-39",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
+      "title": {
+        "zh": "2023年第二季度美国有13家估值超10亿美元的创业公司通过IPO或收购退出，为2021年市场高峰以来最多",
+        "en": "In Q2, there were thirteen $1B+ US venture-backed startup exits, either through acquisition or IPO, the most exits since the 2021 market peak"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "ipo",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "ipo",
+        "acquisition"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://deploymentsafety.openai.com/gpt-5-6-preview?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI推出GPT-5.6预览版，包含Sol、Terra和Luna模型",
+        "en": "GPT-5.6 Sol, Terra, and Luna (39 minute read)"
+      },
+      "summary": {
+        "zh": "Sol为旗舰模型，系统卡描述了更强的网络与生物安全测试、新的安全措施，并在全面发布前提供有限预览。",
+        "en": "OpenAI introduced GPT-5.6 Preview, a family of models named Sol, Terra, and Luna, with Sol positioned as the flagship model. The system card describes stronger cyber and bio safety testing, new safeguards, and a limited preview before broader availability."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "safety"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html?utm_source=tldrai",
+      "title": {
+        "zh": "谷歌限制Meta对Gemini计算资源的使用",
+        "en": "Google Limiting Meta's Gemini Use (2 minute read)"
+      },
+      "summary": {
+        "zh": "据报道，Meta请求的计算资源超出谷歌可提供范围，导致部分内部AI项目延迟，并迫使员工更高效使用AI资源。",
+        "en": "Google reportedly limited Meta's access to Gemini capacity after Meta requested more compute than Google could provide. The shortfall was said to have delayed some internal Meta AI projects and pushed staff to use AI tokens more efficiently."
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "meta",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "meta",
+        "gemini"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://x.com/elonmusk/status/2071184354756477041?utm_source=tldrai",
+      "title": {
+        "zh": "马斯克宣布Grok 4.5进入私测阶段",
+        "en": "Musk Says Grok 4.5 Entered Private Beta (1 minute read)"
+      },
+      "summary": {
+        "zh": "Grok 4.5基于1.5T V9基础模型，并在补充训练中加入了Cursor数据。早期评估结果接近或超过Opus，强化学习仍在持续优化模型。",
+        "en": "Elon Musk said Grok 4.5 was in private beta at SpaceX and Tesla. The model is based on a 1.5T V9 foundation model with Cursor data added during supplemental training. Early evaluations were near or above Opus, with reinforcement learning still improving the model."
+      },
+      "tags": [
+        "cat:model",
+        "tesla",
+        "grok",
+        "elon-musk"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tesla",
+        "grok",
+        "elon-musk"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.dwarkesh.com/p/the-next-paradigm?utm_source=tldrai",
+      "title": {
+        "zh": "下一代AI范式：从RLVR到真正的持续学习",
+        "en": "The Next Paradigm (7 minute read)"
+      },
+      "summary": {
+        "zh": "AI实验室正在尝试通过RLVR扩展到数百万任务以实现通用人工智能，但在缺乏确定性模拟器的领域遇到了瓶颈。真正的持续学习需要超越临时的上下文记忆，转向模型权重的更新。",
+        "en": "AI labs are betting that scaling reinforcement learning from verifiable rewards (RLVR) across millions of diverse tasks will achieve artificial general intelligence, but this paradigm hits a wall in domains that lack deterministic simulators. True continual learning requires moving past temporary in-context memory and shifting back into the model's weights themselves."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://gwern.net/lean-scaling?utm_source=tldrai",
+      "title": {
+        "zh": "Lean编程语言的扩展规律",
+        "en": "Lean Software Scaling Laws (17 minute read)"
+      },
+      "summary": {
+        "zh": "尽管Lean语言在现有代码库上的基线常数和总损失较差，但其扩展能力更强，可能在全球范围内提升程序的正确性，从而值得大规模投资。",
+        "en": "Codebases and programming languages will eventually become easier for AI models to understand, fix, and write. The Lean programming language has a worse baseline constant and total loss on existing code bases compared to other languages, but better scaling components. This implies that implementations in Lean could eventually win and deliver large benefits in program correctness at global scale. This may justify large-scale investments in rewriting existing codebases in Lean or paying for new Lean code."
+      },
+      "tags": [
+        "cat:tech",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "coding"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2606.21795?utm_source=tldrai",
+      "title": {
+        "zh": "奖励模型可能过于敏感：Meta的研究",
+        "en": "Reward Models Can Be Too Sensitive (22 minute read)"
+      },
+      "summary": {
+        "zh": "Meta研究发现奖励模型可能对同样好的响应过度反应，导致奖励机制被滥用。论文提出通过蒙特卡洛Dropout将奖励聚类为更安全的离散信号。",
+        "en": "Meta studied how reward models can overreact to equally good responses, leading reinforcement learning toward reward hacking. The paper proposes measuring both discriminative ability and specificity, then using Monte Carlo dropout to cluster rewards into safer discrete signals."
+      },
+      "tags": [
+        "cat:tech",
+        "meta",
+        "safety",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "safety",
+        "alignment"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2606.26907?utm_source=tldrai",
+      "title": {
+        "zh": "Qwen-Image-Agent改进文本到图像生成",
+        "en": "Qwen Image Agent (12 minute read)"
+      },
+      "summary": {
+        "zh": "Qwen-Image-Agent通过规划、推理、搜索、记忆和用户反馈改进了文本到图像生成，并引入IA-Bench测试代理图像生成能力。",
+        "en": "Qwen-Image-Agent improved text-to-image generation by planning, reasoning, searching, using memory, and incorporating feedback to fill in missing user context. The work also introduced IA-Bench to test agentic image generation across planning, reasoning, search, and memory."
+      },
+      "tags": [
+        "cat:app",
+        "qwen",
+        "agent",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "qwen",
+        "agent",
+        "image-gen"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/?utm_source=tldrai",
+      "title": {
+        "zh": "Google通过冻结多Token预测加速Gemini Nano模型",
+        "en": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction (10 minute read)"
+      },
+      "summary": {
+        "zh": "Google为移动设备开发了新的架构，将多Token预测功能集成到Gemini Nano v3模型中，解决了边缘计算的效率瓶颈。",
+        "en": "Models like Gemini Nano and Gemma make it possible to have powerful large language models right in your pocket. Delivering these models on mobile was a significant challenge. Google built a new architecture that retrofits Multi-Token Prediction onto existing 'frozen' Gemini Nano v3 models to overcome the bottleneck. The new architectural components were designed to maximize efficiency gains specifically for mobile environments. This article shows how Google's research team tackled the unique, extreme constraints of edge computing."
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "gemini",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "multimodal"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers/?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Code将每位工程师的效率提升至三倍",
+        "en": "Claude Code turned every engineer into three. Now companies need more product thinkers (8 minute read)"
+      },
+      "summary": {
+        "zh": "AI编码代理显著提高了工程效率，将瓶颈从代码编写转移到产品决策上，强调具备技术与产品思维的工程师的重要性。",
+        "en": "AI coding agents have dramatically increased engineering output, shifting the bottleneck from writing code to deciding what to build. As software development becomes more automated, engineers who combine strong technical fundamentals with product judgment, customer insight, and code review skills are becoming increasingly valuable."
+      },
+      "tags": [
+        "cat:app",
+        "claude-code",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "claude-code",
+        "coding"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.lesswrong.com/posts/M39Z2CvyfaxZdaxR4/agents-as-webs-of-beliefs?utm_source=tldrai",
+      "title": {
+        "zh": "基于信念网络的智能代理框架",
+        "en": "Agents as Webs of Beliefs (11 minute read)"
+      },
+      "summary": {
+        "zh": "提出了一种将智能代理建模为信念网络的框架，认为推理、规划和决策源于局部一致的信念网络，提供了构建更强大AI代理的替代基础。",
+        "en": "A proposed framework models intelligent agents as interconnected webs of beliefs, where beliefs, goals, and actions emerge from the same underlying structure instead of being treated separately. The approach argues that reasoning, planning, and decision-making arise from maintaining locally consistent belief networks, offering an alternative foundation for building more capable AI agents."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-06-29"
     }
   ],
   "tag_index": {
@@ -15449,7 +16222,9 @@
       "2026-06-25:TM-43",
       "2026-06-25:TL-01",
       "2026-06-28:TM-23",
-      "2026-06-28:TM-24"
+      "2026-06-28:TM-24",
+      "2026-06-29:TM-03",
+      "2026-06-29:TM-38"
     ],
     "anthropic": [
       "2026-06-01:TM-02",
@@ -15515,7 +16290,9 @@
       "2026-06-25:TL-02",
       "2026-06-25:TL-10",
       "2026-06-25:TL-13",
-      "2026-06-28:TM-08"
+      "2026-06-28:TM-08",
+      "2026-06-29:TM-12",
+      "2026-06-29:TM-14"
     ],
     "ipo": [
       "2026-06-01:TM-02",
@@ -15536,7 +16313,9 @@
       "2026-06-22:TM-31",
       "2026-06-23:TM-04",
       "2026-06-28:TM-23",
-      "2026-06-28:TM-24"
+      "2026-06-28:TM-24",
+      "2026-06-29:TM-28",
+      "2026-06-29:TM-39"
     ],
     "openai": [
       "2026-06-01:TM-04",
@@ -15606,7 +16385,9 @@
       "2026-06-26:TM-07",
       "2026-06-26:TM-11",
       "2026-06-26:TL-03",
-      "2026-06-28:TM-09"
+      "2026-06-28:TM-09",
+      "2026-06-29:TM-14",
+      "2026-06-29:TL-01"
     ],
     "sam-altman": [
       "2026-06-01:TM-04",
@@ -15694,7 +16475,9 @@
       "2026-06-25:TL-02",
       "2026-06-25:TL-03",
       "2026-06-25:TL-12",
-      "2026-06-28:TM-03"
+      "2026-06-28:TM-03",
+      "2026-06-29:TL-02",
+      "2026-06-29:TL-10"
     ],
     "funding": [
       "2026-06-01:TM-05",
@@ -15871,7 +16654,9 @@
       "2026-06-26:TM-10",
       "2026-06-26:TL-03",
       "2026-06-28:TM-11",
-      "2026-06-28:TM-15"
+      "2026-06-28:TM-15",
+      "2026-06-29:TM-12",
+      "2026-06-29:TM-18"
     ],
     "robotics": [
       "2026-06-01:TM-11",
@@ -15888,7 +16673,9 @@
       "2026-06-18:TM-12",
       "2026-06-22:TM-27",
       "2026-06-22:TM-31",
-      "2026-06-25:TM-50"
+      "2026-06-25:TM-50",
+      "2026-06-29:TM-30",
+      "2026-06-29:TM-31"
     ],
     "gpu": [
       "2026-06-01:TM-12",
@@ -15907,7 +16694,8 @@
       "2026-06-24:TM-33",
       "2026-06-24:TM-43",
       "2026-06-24:TL-17",
-      "2026-06-25:TL-01"
+      "2026-06-25:TL-01",
+      "2026-06-29:TM-38"
     ],
     "training": [
       "2026-06-01:TM-12",
@@ -15918,7 +16706,8 @@
       "2026-06-17:TL-06",
       "2026-06-25:TM-14",
       "2026-06-25:TL-06",
-      "2026-06-26:TL-05"
+      "2026-06-26:TL-05",
+      "2026-06-29:TM-38"
     ],
     "intel": [
       "2026-06-01:TM-13",
@@ -15987,7 +16776,10 @@
       "2026-06-25:TM-14",
       "2026-06-25:TL-04",
       "2026-06-25:TL-08",
-      "2026-06-26:TL-10"
+      "2026-06-26:TL-10",
+      "2026-06-29:TM-34",
+      "2026-06-29:TL-07",
+      "2026-06-29:TL-12"
     ],
     "microsoft": [
       "2026-06-01:TM-20",
@@ -16029,7 +16821,9 @@
       "2026-06-16:TL-07",
       "2026-06-25:TM-17",
       "2026-06-26:TL-05",
-      "2026-06-26:TL-10"
+      "2026-06-26:TL-10",
+      "2026-06-29:TL-06",
+      "2026-06-29:TL-13"
     ],
     "runway": [
       "2026-06-01:TM-22"
@@ -16139,7 +16933,13 @@
       "2026-06-26:TM-14",
       "2026-06-26:TM-22",
       "2026-06-26:TL-01",
-      "2026-06-26:TL-04"
+      "2026-06-26:TL-04",
+      "2026-06-29:TM-16",
+      "2026-06-29:TM-30",
+      "2026-06-29:TM-31",
+      "2026-06-29:TM-32",
+      "2026-06-29:TM-34",
+      "2026-06-29:TM-39"
     ],
     "energy": [
       "2026-06-01:TM-23",
@@ -16154,7 +16954,8 @@
       "2026-06-04:TL-05",
       "2026-06-15:TL-08",
       "2026-06-23:TL-08",
-      "2026-06-24:TL-09"
+      "2026-06-24:TL-09",
+      "2026-06-29:TL-09"
     ],
     "quantum": [
       "2026-06-01:TM-45",
@@ -16185,7 +16986,8 @@
       "2026-06-12:TM-11",
       "2026-06-12:TM-12",
       "2026-06-16:TL-16",
-      "2026-06-19:TL-01"
+      "2026-06-19:TL-01",
+      "2026-06-29:TM-17"
     ],
     "agent": [
       "2026-06-01:TM-52",
@@ -16262,7 +17064,11 @@
       "2026-06-25:TL-09",
       "2026-06-25:TL-15",
       "2026-06-26:TL-02",
-      "2026-06-26:TL-06"
+      "2026-06-26:TL-06",
+      "2026-06-29:TM-34",
+      "2026-06-29:TL-06",
+      "2026-06-29:TL-09",
+      "2026-06-29:TL-13"
     ],
     "autonomous-driving": [
       "2026-06-01:TM-52",
@@ -16275,7 +17081,8 @@
       "2026-06-19:TM-22",
       "2026-06-21:TM-15",
       "2026-06-22:TM-19",
-      "2026-06-25:TM-50"
+      "2026-06-25:TM-50",
+      "2026-06-29:TM-28"
     ],
     "open-weights": [
       "2026-06-01:TL-02",
@@ -16314,7 +17121,8 @@
       "2026-06-18:TL-04",
       "2026-06-23:TM-03",
       "2026-06-24:TL-02",
-      "2026-06-28:TM-08"
+      "2026-06-28:TM-08",
+      "2026-06-29:TM-12"
     ],
     "xai": [
       "2026-06-01:TL-09",
@@ -16326,7 +17134,8 @@
       "2026-06-01:TL-09",
       "2026-06-02:TL-06",
       "2026-06-18:TL-01",
-      "2026-06-23:TL-15"
+      "2026-06-23:TL-15",
+      "2026-06-29:TL-03"
     ],
     "gemini": [
       "2026-06-01:TL-10",
@@ -16343,7 +17152,9 @@
       "2026-06-18:TL-04",
       "2026-06-25:TL-02",
       "2026-06-25:TL-03",
-      "2026-06-28:TM-03"
+      "2026-06-28:TM-03",
+      "2026-06-29:TL-02",
+      "2026-06-29:TL-10"
     ],
     "enterprise": [
       "2026-06-01:TL-10",
@@ -16377,7 +17188,8 @@
       "2026-06-25:TM-05",
       "2026-06-25:TL-14",
       "2026-06-26:TM-02",
-      "2026-06-28:TM-09"
+      "2026-06-28:TM-09",
+      "2026-06-29:TL-01"
     ],
     "safety": [
       "2026-06-01:TL-17",
@@ -16432,7 +17244,10 @@
       "2026-06-24:TL-04",
       "2026-06-25:TM-05",
       "2026-06-25:TL-10",
-      "2026-06-26:TL-03"
+      "2026-06-26:TL-03",
+      "2026-06-29:TM-11",
+      "2026-06-29:TL-01",
+      "2026-06-29:TL-08"
     ],
     "perplexity": [
       "2026-06-02:TM-17",
@@ -16463,7 +17278,11 @@
       "2026-06-25:TM-35",
       "2026-06-25:TM-37",
       "2026-06-26:TL-06",
-      "2026-06-28:TM-03"
+      "2026-06-28:TM-03",
+      "2026-06-29:TM-08",
+      "2026-06-29:TM-11",
+      "2026-06-29:TL-02",
+      "2026-06-29:TL-08"
     ],
     "oracle": [
       "2026-06-02:TM-27",
@@ -16497,7 +17316,8 @@
       "2026-06-23:TL-03",
       "2026-06-24:TM-11",
       "2026-06-25:TL-09",
-      "2026-06-25:TL-10"
+      "2026-06-25:TL-10",
+      "2026-06-29:TM-31"
     ],
     "qwen": [
       "2026-06-02:TL-01",
@@ -16509,7 +17329,9 @@
       "2026-06-17:TL-03",
       "2026-06-18:TL-04",
       "2026-06-25:TL-06",
-      "2026-06-25:TL-09"
+      "2026-06-25:TL-09",
+      "2026-06-29:TM-10",
+      "2026-06-29:TL-09"
     ],
     "multimodal": [
       "2026-06-02:TL-01",
@@ -16523,7 +17345,8 @@
       "2026-06-10:TL-01",
       "2026-06-15:TL-09",
       "2026-06-17:TM-36",
-      "2026-06-18:TL-06"
+      "2026-06-18:TL-06",
+      "2026-06-29:TL-10"
     ],
     "codex": [
       "2026-06-02:TL-02",
@@ -16534,7 +17357,8 @@
       "2026-06-17:TL-05",
       "2026-06-22:TM-11",
       "2026-06-23:TM-04",
-      "2026-06-26:TM-11"
+      "2026-06-26:TM-11",
+      "2026-06-29:TM-11"
     ],
     "video-gen": [
       "2026-06-02:TL-06",
@@ -16586,7 +17410,8 @@
       "2026-06-19:TM-20",
       "2026-06-24:TM-02",
       "2026-06-24:TM-17",
-      "2026-06-24:TM-18"
+      "2026-06-24:TM-18",
+      "2026-06-29:TM-39"
     ],
     "open-source": [
       "2026-06-03:TM-42",
@@ -16659,7 +17484,8 @@
       "2026-06-17:TM-26",
       "2026-06-18:TM-23",
       "2026-06-25:TM-07",
-      "2026-06-25:TL-12"
+      "2026-06-25:TL-12",
+      "2026-06-29:TM-14"
     ],
     "satya-nadella": [
       "2026-06-04:TM-57",
@@ -16677,7 +17503,8 @@
       "2026-06-15:TL-17",
       "2026-06-17:TL-06",
       "2026-06-18:TL-13",
-      "2026-06-26:TL-10"
+      "2026-06-26:TL-10",
+      "2026-06-29:TM-19"
     ],
     "apple": [
       "2026-06-07:TM-04",
@@ -16742,11 +17569,14 @@
     ],
     "claude-code": [
       "2026-06-10:TL-08",
-      "2026-06-19:TL-07"
+      "2026-06-19:TL-07",
+      "2026-06-29:TM-11",
+      "2026-06-29:TL-12"
     ],
     "samsung": [
       "2026-06-11:TM-39",
-      "2026-06-17:TM-41"
+      "2026-06-17:TM-41",
+      "2026-06-29:TM-03"
     ],
     "llama": [
       "2026-06-11:TL-04",
@@ -16772,7 +17602,8 @@
       "2026-06-16:TM-10",
       "2026-06-22:TM-13",
       "2026-06-24:TL-10",
-      "2026-06-25:TL-06"
+      "2026-06-25:TL-06",
+      "2026-06-29:TM-10"
     ],
     "cursor": [
       "2026-06-16:TM-01"
@@ -16792,14 +17623,16 @@
     "alignment": [
       "2026-06-16:TL-09",
       "2026-06-19:TL-04",
-      "2026-06-24:TL-04"
+      "2026-06-24:TL-04",
+      "2026-06-29:TL-08"
     ],
     "demis-hassabis": [
       "2026-06-17:TM-01",
       "2026-06-19:TM-01"
     ],
     "tesla": [
-      "2026-06-17:TM-41"
+      "2026-06-17:TM-41",
+      "2026-06-29:TL-03"
     ],
     "amd": [
       "2026-06-17:TM-41"
@@ -16817,6 +17650,9 @@
     ],
     "notion": [
       "2026-06-25:TM-11"
+    ],
+    "elon-musk": [
+      "2026-06-29:TL-03"
     ]
   },
   "category_index": {
@@ -16906,7 +17742,14 @@
       "2026-06-25:TL-06",
       "2026-06-26:TL-02",
       "2026-06-26:TL-05",
-      "2026-06-26:TL-10"
+      "2026-06-26:TL-10",
+      "2026-06-29:TM-10",
+      "2026-06-29:TM-38",
+      "2026-06-29:TL-06",
+      "2026-06-29:TL-07",
+      "2026-06-29:TL-08",
+      "2026-06-29:TL-10",
+      "2026-06-29:TL-13"
     ],
     "cat:business": [
       "2026-06-01:TM-02",
@@ -17116,7 +17959,18 @@
       "2026-06-28:TM-08",
       "2026-06-28:TM-23",
       "2026-06-28:TM-24",
-      "2026-06-28:TM-27"
+      "2026-06-28:TM-27",
+      "2026-06-29:TM-03",
+      "2026-06-29:TM-12",
+      "2026-06-29:TM-14",
+      "2026-06-29:TM-17",
+      "2026-06-29:TM-19",
+      "2026-06-29:TM-25",
+      "2026-06-29:TM-28",
+      "2026-06-29:TM-30",
+      "2026-06-29:TM-31",
+      "2026-06-29:TM-32",
+      "2026-06-29:TM-39"
     ],
     "cat:other": [
       "2026-06-01:TM-04",
@@ -17243,7 +18097,11 @@
       "2026-06-26:TL-03",
       "2026-06-28:TM-03",
       "2026-06-28:TM-11",
-      "2026-06-28:TM-15"
+      "2026-06-28:TM-15",
+      "2026-06-29:TM-11",
+      "2026-06-29:TM-16",
+      "2026-06-29:TM-18",
+      "2026-06-29:TL-02"
     ],
     "cat:model": [
       "2026-06-01:TM-16",
@@ -17300,7 +18158,9 @@
       "2026-06-26:TM-02",
       "2026-06-26:TL-01",
       "2026-06-28:TM-01",
-      "2026-06-28:TM-09"
+      "2026-06-28:TM-09",
+      "2026-06-29:TL-01",
+      "2026-06-29:TL-03"
     ],
     "cat:app": [
       "2026-06-01:TM-46",
@@ -17379,13 +18239,17 @@
       "2026-06-26:TM-11",
       "2026-06-26:TL-06",
       "2026-06-26:TL-12",
-      "2026-06-28:TM-13"
+      "2026-06-28:TM-13",
+      "2026-06-29:TM-08",
+      "2026-06-29:TM-34",
+      "2026-06-29:TL-09",
+      "2026-06-29:TL-12"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 105
+      "count": 111
     },
     {
       "tag": "funding",
@@ -17393,58 +18257,62 @@
     },
     {
       "tag": "agent",
-      "count": 75
+      "count": 79
     },
     {
       "tag": "policy",
-      "count": 73
+      "count": 75
     },
     {
       "tag": "openai",
-      "count": 68
+      "count": 70
     },
     {
       "tag": "anthropic",
-      "count": 64
+      "count": 66
     },
     {
       "tag": "safety",
-      "count": 53
+      "count": 56
     },
     {
       "tag": "google",
-      "count": 52
+      "count": 54
+    },
+    {
+      "tag": "chip",
+      "count": 38
     },
     {
       "tag": "nvidia",
       "count": 37
     },
     {
-      "tag": "chip",
-      "count": 36
+      "tag": "coding",
+      "count": 33
     },
     {
       "tag": "data-center",
       "count": 30
     },
     {
-      "tag": "coding",
-      "count": 30
+      "tag": "meta",
+      "count": 25
+    },
+    {
+      "tag": "claude",
+      "count": 24
     },
     {
       "tag": "regulation",
       "count": 23
     },
     {
-      "tag": "claude",
-      "count": 23
-    },
-    {
-      "tag": "enterprise",
+      "tag": "ipo",
       "count": 21
     },
     {
-      "tag": "meta",
+      "tag": "enterprise",
       "count": 21
     },
     {
@@ -17452,11 +18320,15 @@
       "count": 20
     },
     {
-      "tag": "ipo",
-      "count": 19
+      "tag": "gpu",
+      "count": 18
     },
     {
-      "tag": "gpu",
+      "tag": "robotics",
+      "count": 17
+    },
+    {
+      "tag": "gemini",
       "count": 17
     },
     {
@@ -17464,11 +18336,7 @@
       "count": 17
     },
     {
-      "tag": "robotics",
-      "count": 15
-    },
-    {
-      "tag": "gemini",
+      "tag": "reasoning",
       "count": 15
     },
     {
@@ -17476,27 +18344,31 @@
       "count": 15
     },
     {
-      "tag": "reasoning",
+      "tag": "multimodal",
       "count": 13
+    },
+    {
+      "tag": "pricing",
+      "count": 12
+    },
+    {
+      "tag": "autonomous-driving",
+      "count": 12
     },
     {
       "tag": "open-weights",
       "count": 12
     },
     {
-      "tag": "multimodal",
+      "tag": "qwen",
       "count": 12
     },
     {
-      "tag": "pricing",
-      "count": 11
-    },
-    {
-      "tag": "autonomous-driving",
-      "count": 11
-    },
-    {
       "tag": "acquisition",
+      "count": 12
+    },
+    {
+      "tag": "alibaba",
       "count": 11
     },
     {
@@ -17504,11 +18376,19 @@
       "count": 11
     },
     {
-      "tag": "alibaba",
+      "tag": "training",
       "count": 10
     },
     {
-      "tag": "qwen",
+      "tag": "gpt",
+      "count": 10
+    },
+    {
+      "tag": "codex",
+      "count": 10
+    },
+    {
+      "tag": "benchmark",
       "count": 10
     },
     {
@@ -17516,35 +18396,19 @@
       "count": 10
     },
     {
-      "tag": "training",
+      "tag": "amazon",
       "count": 9
     },
     {
-      "tag": "gpt",
-      "count": 9
-    },
-    {
-      "tag": "codex",
-      "count": 9
-    },
-    {
-      "tag": "benchmark",
-      "count": 9
+      "tag": "image-gen",
+      "count": 8
     },
     {
       "tag": "api",
       "count": 8
     },
     {
-      "tag": "amazon",
-      "count": 8
-    },
-    {
       "tag": "sam-altman",
-      "count": 7
-    },
-    {
-      "tag": "image-gen",
       "count": 7
     },
     {
@@ -17568,6 +18432,14 @@
       "count": 6
     },
     {
+      "tag": "deepseek",
+      "count": 6
+    },
+    {
+      "tag": "grok",
+      "count": 5
+    },
+    {
       "tag": "bytedance",
       "count": 5
     },
@@ -17584,19 +18456,11 @@
       "count": 5
     },
     {
-      "tag": "deepseek",
-      "count": 5
-    },
-    {
       "tag": "energy",
       "count": 4
     },
     {
       "tag": "xai",
-      "count": 4
-    },
-    {
-      "tag": "grok",
       "count": 4
     },
     {
@@ -17613,6 +18477,14 @@
     },
     {
       "tag": "baidu",
+      "count": 4
+    },
+    {
+      "tag": "claude-code",
+      "count": 4
+    },
+    {
+      "tag": "alignment",
       "count": 4
     },
     {
@@ -17636,11 +18508,11 @@
       "count": 3
     },
     {
-      "tag": "browser",
+      "tag": "samsung",
       "count": 3
     },
     {
-      "tag": "alignment",
+      "tag": "browser",
       "count": 3
     },
     {
@@ -17680,14 +18552,6 @@
       "count": 2
     },
     {
-      "tag": "claude-code",
-      "count": 2
-    },
-    {
-      "tag": "samsung",
-      "count": 2
-    },
-    {
       "tag": "llama",
       "count": 2
     },
@@ -17705,6 +18569,10 @@
     },
     {
       "tag": "demis-hassabis",
+      "count": 2
+    },
+    {
+      "tag": "tesla",
       "count": 2
     },
     {
@@ -17740,10 +18608,6 @@
       "count": 1
     },
     {
-      "tag": "tesla",
-      "count": 1
-    },
-    {
       "tag": "amd",
       "count": 1
     },
@@ -17758,32 +18622,36 @@
     {
       "tag": "notion",
       "count": 1
+    },
+    {
+      "tag": "elon-musk",
+      "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 208,
+      "count": 219,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 125,
+      "count": 129,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 86,
+      "count": 93,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:app",
-      "count": 77,
+      "count": 81,
       "label_zh": "新应用"
     },
     {
       "tag": "cat:model",
-      "count": 55,
+      "count": 57,
       "label_zh": "新模型"
     }
   ]
