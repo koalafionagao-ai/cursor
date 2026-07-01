@@ -1,0 +1,609 @@
+{
+  "date": "2026-06-30",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 23,
+    "by_category": {
+      "cat:model": 5,
+      "cat:business": 8,
+      "cat:app": 5,
+      "cat:other": 1,
+      "cat:tech": 4
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": {
+        "zh": "Anthropic发布Claude Sonnet 5，性能接近Opus 4.8且价格更低",
+        "en": "Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work"
+      },
+      "summary": {
+        "zh": "新模型在代理任务上表现显著优于Sonnet 4.6。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-04",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+      "title": {
+        "zh": "Google推出Nano Banana 2 Lite和Gemini Omni Flash",
+        "en": "Google launches Nano Banana 2 Lite, a low cost text-to-image model that delivers outputs in four seconds, and rolls out Gemini Omni Flash to developers"
+      },
+      "summary": {
+        "zh": "Nano Banana 2 Lite是一款低成本文本生成图像模型，输出时间仅需4秒；Gemini Omni Flash面向开发者开放。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/chinas-meituan-says-new-ai-model-trained-domestic-chips-2026-06-30/",
+      "title": {
+        "zh": "美团开源LongCat-2.0，拥有1.6万亿参数",
+        "en": "Meituan open-sources LongCat-2.0, a 1.6T-parameter model that it says was trained on a 50K-chip cluster of domestic Chinese processors, without giving details"
+      },
+      "summary": {
+        "zh": "该模型使用5万颗国产芯片集群进行训练，但未透露具体细节。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "chip",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "open-source"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "title": {
+        "zh": "AWS成立AI专注的前置部署工程师团队，投入10亿美元资源",
+        "en": "AWS launches an internal organization for AI-focused forward-deployed engineers, backed by $1B in resources, following OpenAI and others in launching FDE teams"
+      },
+      "summary": {
+        "zh": "此举效仿OpenAI等公司，旨在推动AI技术的前沿应用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "amazon",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "title": {
+        "zh": "Anthropic推出Claude Science，整合60+科学数据库和工具包",
+        "en": "Anthropic launches Claude Science, an AI workbench that uses existing Claude models like Opus 4.8 to integrate 60+ scientific databases and specialized toolkits"
+      },
+      "summary": {
+        "zh": "该AI工作台基于现有Claude模型（如Opus 4.8）开发。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/8026eac6-16ad-467d-b8c3-c48c5af684e6",
+      "title": {
+        "zh": "研究显示AI投入最多的美国公司员工增长更快",
+        "en": "A study of 22K US companies shows those spending most heavily on AI are adding workers faster than peers, but most gains are among tech companies and startups"
+      },
+      "summary": {
+        "zh": "但增长主要集中在科技公司和初创企业。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion",
+      "title": {
+        "zh": "施耐德电气31亿美元收购工业AI公司Cognite",
+        "en": "Schneider Electric agrees to buy industrial AI company Cognite in a $3.1B all-cash deal, and plans to combine Cognite with its industrial software company Aveva"
+      },
+      "summary": {
+        "zh": "计划将Cognite与其工业软件公司Aveva合并。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/06/30/aikido-acquires-root-patch-open-source-without-forced-upgrades/",
+      "title": {
+        "zh": "网络安全公司Aikido Security收购Root",
+        "en": "Cybersecurity company Aikido Security acquires Root, which has raised about $37.6M and develops an AI platform for securing open-source components"
+      },
+      "summary": {
+        "zh": "Root开发了用于保护开源组件的AI平台，曾筹集约3760万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/ai-chip-startup-etched-says-jane-street-tsmc-linked-vc-invested",
+      "title": {
+        "zh": "AI推理初创公司Etched融资8亿美元，签订10亿美元销售合同",
+        "en": "AI inference startup Etched raised $800M from investors including Jane Street and a TSMC-linked venture firm, and says it has signed sales contracts worth $1B"
+      },
+      "summary": {
+        "zh": "投资方包括Jane Street和与台积电相关的风险投资公司。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/ai-video-startup-talks-quadruple-valuation-5-billion",
+      "title": {
+        "zh": "AI视频初创公司Higgsfield计划融资3亿至5亿美元",
+        "en": "Sources: AI video startup Higgsfield is in talks to raise $300M to $500M at a $5B pre-money valuation, more than 4x its valuation in a January 2026 round"
+      },
+      "summary": {
+        "zh": "融资后估值将达50亿美元，是2026年1月估值的4倍以上。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "title": {
+        "zh": "AI 编程初创公司 8090 完成 1.35 亿美元 A 轮融资，由 Salesforce Ventures 领投",
+        "en": "AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO"
+      },
+      "summary": {
+        "zh": "创始人 Chamath Palihapitiya 宣布将担任公司 CEO。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "salesforce",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "salesforce",
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-35",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/befb7f34-9357-492b-a40b-2132d3256bcc",
+      "title": {
+        "zh": "酒店、旅行社推出在线工具和忠诚计划应对 AI 旅行代理竞争",
+        "en": "Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-37",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html",
+      "title": {
+        "zh": "Grindr CEO George Arison 谈如何将公司转型为“AI 原生公司”",
+        "en": "Q&A with Grindr CEO George Arison on turning Grindr into an “AI-native company”, “impos[ing]” AI on staff, facing “opposition”, using AI as a CEO, and more"
+      },
+      "summary": {
+        "zh": "包括在员工中推广 AI 的挑战，以及作为 CEO 使用 AI 的经验。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://cursor.com/blog/ios-mobile-app?utm_source=tldrai",
+      "title": {
+        "zh": "Cursor for iOS：随时随地管理项目的移动应用",
+        "en": "Build from anywhere with Cursor for iOS (4 minute read)"
+      },
+      "summary": {
+        "zh": "该应用支持通过云或本地代理管理项目，适用于事件处理、客户问题解决等工作流。",
+        "en": "Cursor for iOS, now in public beta, allows developers to manage projects from anywhere using cloud or local agents. Launch or control agents via the mobile app, receive updates through Live Activities, and merge PRs on the go. This app supports workflows such as incident handling, resolving customer issues, and acting on user feedback efficiently."
+      },
+      "tags": [
+        "cat:app",
+        "startup",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini 个性化 AI 图像生成功能在美国免费开放",
+        "en": "Gemini's personalized AI image generation is now free for US users (2 minute read)"
+      },
+      "summary": {
+        "zh": "用户可通过 AI 模型的偏好理解生成图像，未来将推出更多功能更新。",
+        "en": "All eligible users in the US can now access the Nano Banana-powered image generation feature within the Gemini app for free. The feature can generate images based on the AI model's understanding of users' likes and preferences without users having to specify them in the prompt. Personal Intelligence is an opt-in feature and users can decide which apps Gemini can access. Google has several updates for the Gemini app planned, including a new 'Daily Brief' feature, a revamped interface, access to the AI video model Gemini Omni, and a personal AI agent called Gemini Spark."
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "image-gen"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://cognition.com/blog/devin-fusion?utm_source=tldrai",
+      "title": {
+        "zh": "Devin Fusion：混合模型架构降低成本并提升性能",
+        "en": "Devin Fusion (8 minute read)"
+      },
+      "summary": {
+        "zh": "通过双代理架构优化任务处理，集成 Fable 5 后成本降低 41%。",
+        "en": "Devin Fusion is a multi-model harness from Cognition that mixes frontier and cost-effective models, reducing expenses by 35% on the FrontierCode benchmark while maintaining top-tier performance. This system uses dual-agent architecture with a main agent and a sidekick for dynamic model routing, optimizing task handling and avoiding costly cache misses. Fable 5 integration further enhances efficiency, achieving a 41% reduction in cost, promising advancements as models evolve."
+      },
+      "tags": [
+        "cat:tech",
+        "startup",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "multimodal"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.tanayj.com/p/rl-beyond-the-verifiable?utm_source=tldrai",
+      "title": {
+        "zh": "强化学习的下一步：超越可验证领域",
+        "en": "RL Beyond the Verifiable (8 minute read)"
+      },
+      "summary": {
+        "zh": "探讨可验证性限制及当前有效技术，以及相关公司如何应对挑战。",
+        "en": "RL in verifiable areas is clearly working. The next big leap will come from approaches that help bring the same achievements to things that are harder to verify. This article looks at why verifiability is a constraint, the techniques that are working now, and the companies attacking the problem."
+      },
+      "tags": [
+        "cat:tech",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/vipulved/status/2071404852908081211?utm_source=tldrai",
+      "title": {
+        "zh": "代币经济：AI 从封闭系统向模块化生态系统的转变",
+        "en": "The Economy of Tokens (10 minute read)"
+      },
+      "summary": {
+        "zh": "开放权重模型通过标准化接口与封闭系统竞争，降低成本并加速创新。",
+        "en": "AI is transitioning from closed, vertically integrated systems to a modular ecosystem supported by standardized interfaces like Transformer architecture and inference APIs. This architectural disaggregation enables open-weights models to compete effectively with closed systems, significantly reducing costs while accelerating innovation across the entire stack."
+      },
+      "tags": [
+        "cat:tech",
+        "open-source",
+        "api"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "api"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85?utm_source=tldrai",
+      "title": {
+        "zh": "DeepSeek 开源 DSpark 框架，加速 LLM 推理达 85%",
+        "en": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% (18 minute read)"
+      },
+      "summary": {
+        "zh": "DSpark 通过预测路径并快速验证，提升大语言模型的推理速度。",
+        "en": "DSpark is a system designed to make large language models answer faster without changing what the underlying model is trying to say. Most AI models write one small chunk of text at a time. DSpark acts as a scout that runs a few steps ahead, guesses the likely path, and lets the larger model quickly check which steps are safe. When guesses are good, the model moves faster, but if they are weak, DSpark tries not to waste time checking them."
+      },
+      "tags": [
+        "cat:tech",
+        "deepseek",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "deepseek",
+        "inference"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/allenai/discoformer?utm_source=tldrai",
+      "title": {
+        "zh": "DiScoFormer：跨分布估计密度和得分的单一 Transformer 模型",
+        "en": "DiScoFormer: One transformer for density and score, across distributions (5 minute read)"
+      },
+      "summary": {
+        "zh": "在高维数据中超越传统核密度估计，显著提升生成建模和贝叶斯推断的准确性。",
+        "en": "DiScoFormer, a transformer model, estimates both density and score from data in a single pass without retraining, surpassing classical kernel density estimation (KDE) in accuracy, especially in high dimensions. Utilizing cross-attention, it adapts to new data distributions on the spot, improving accuracy for generative modeling and Bayesian inference. Trained with Gaussian Mixture Models, DiScoFormer reduces score error by 6.5x and density error by more than 37x over KDE in 100 dimensions."
+      },
+      "tags": [
+        "cat:model",
+        "inference",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "inference",
+        "training"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://thenextweb.com/news/google-cloud-science-ai-models-sandboxaq?utm_source=tldrai",
+      "title": {
+        "zh": "Google Cloud 推出科学专用 AI 模型",
+        "en": "Google Cloud will sell specialist AI models built for science (4 minute read)"
+      },
+      "summary": {
+        "zh": "Google 将通过 Google Cloud 提供 SandboxAQ 的科学专用 AI 模型，这些模型专注于药物发现、材料科学和半导体制造领域。",
+        "en": "Google will start offering specialist AI models from SandboxAQ through Google Cloud. SandboxAQ's large quantitative models are trained on scientific equations and laboratory data. The addition of these models will widen enterprise and research access to AI built for drug discovery, materials science, and semiconductor manufacturing. Researchers can combine the models with Gemini, using the language model for reasoning and interface and the quantitative model for the underlying science."
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "enterprise"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.implicator.ai/sakana-fugu-launches-with-93-2-livecodebench-score-after-claude-ban/?utm_source=tldrai",
+      "title": {
+        "zh": "Sakana Fugu 发布 Fugu Ultra 模型，LiveCodeBench 得分 93.2",
+        "en": "Sakana Fugu Launches With 93.2 LiveCodeBench Score After Claude Ban (3 minute read)"
+      },
+      "summary": {
+        "zh": "Fugu Ultra 模型在 LiveCodeBench 上击败 Fable，起价为每百万输入 token 5 美元。",
+        "en": "Fugu Ultra beat Fable on LiveCodeBench and starts at $5 per million input tokens."
+      },
+      "tags": [
+        "cat:model",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "claude"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://x.com/MistralDevs/status/2071625939444744521?utm_source=tldrai",
+      "title": {
+        "zh": "30 分钟内构建文档处理工作流",
+        "en": "Build a document processing workflow in 30 minutes (3 minute read)"
+      },
+      "summary": {
+        "zh": "Mistral Workflows 是一个耐用且容错的编排平台，专为执行和监控多代理 AI 流水线而设计。",
+        "en": "Mistral Workflows is a durable and fault-tolerant orchestration platform tailored for executing and monitoring multi-agent AI pipelines."
+      },
+      "tags": [
+        "cat:app",
+        "mistral",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    }
+  ]
+}

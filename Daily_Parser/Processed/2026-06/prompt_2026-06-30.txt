@@ -1,0 +1,224 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday
+Tweets:
+  - Author: @howardlutnick
+    Text: Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America's leadership in AI.
+    Link ID: TM-01-TW-01
+  - Author: @sophiacai99
+    Text: Commerce has alerted Anthropic, which says it will begin restoring access tomorrow.
+    Link ID: TM-01-TW-02
+  - Author: @theo
+    Text: They're making us wait another day???
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work
+Tweets:
+  - Author: @simonw
+    Text: Notes (and a Pelican) on Claude Sonnet 5 - the new tokenizer makes it ~1.4x more expensive for English, ~1.33x more expensive for Spanish but roughly the same price for Simplified Mandarin
+    Link ID: TM-02-TW-01
+  - Author: @levie
+    Text: We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval, our agentic benchmark that puts models through real enterprise document work end-to-end.  Sonnet 5 holds frontier-class quality on complex multi-step work and pulls ahead of Sonnet 4.6 in several core enterprise domains like Energy (+4.7pp), Retail (+4.4pp), and Professional Services (+2.6pp), and other spaces where unstructured data is heavily complex
+    Link ID: TM-02-TW-02
+  - Author: @kimmonismus
+    Text: Here is my first assessment of Sonnet 5...Unfortunately, it is weaker than Opus 4.8 across all evals.  Why they nevertheless labeled the latest Sonnet 5 iteration with a “5”, even though “4.8” would have been more fitting, is beyond me.  Normally, major version jumps in particular signal a significant leap in capability.  Be that as it may: Sonnet 5 is good, but worse than expected.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Claude Sonnet 5 costs $2 per 1M input tokens and $10 per 1M output tokens through August 31, after which prices rise to $3 and $15, respectively
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Visa, Mastercard, Stripe, BlackRock, Coinbase, and 140+ companies join Open Standard to launch Open USD, a stablecoin that shares earnings from its reserves
+Tweets:
+  - Author: @lorenzoark
+    Text: Every year we get our consortium style initiative around a stablecoin, we have seen this with Diem, Global dollar and now Open USD. While the set of players here is obviously potent, I remain highly skeptical any of these initiatives can hit scale. A few thoughts on OpenUSD:
+    Link ID: TM-03-TW-01
+  - Author: @dwr
+    Text: Few thoughts on OUSD - The 140+ initial partners have a **massive** amount of distribution outside of crypto... - OUSD brings together some of the largest payments companies and Tier 1 crypto exchanges, giving it best-in-class global on/off ramps from Day 1.  On/off ramp support is make or break for making a stablecoin a viable payment rail...None of this would be possible without GENIUS.  Turns out regulatory clarity gives enterprises confidence to make long-term investments in new infrastructure.
+    Link ID: TM-03-TW-02
+  - Author: @malekanoms
+    Text: We are now entering the “logo spray and pray” phase of stablecoin adoption.  On the one hand, great to see as a validation of the thesis.  On the other, likely overly optimistic...The one question I'd ask every participant to judge their seriousness: how will stablecoins benefit their bottom line?  When will those benefits show up in their earnings?  And if the answer is “save or make us money, soon” then I'd ask “who is the loser?”
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Google launches Nano Banana 2 Lite, a low cost text-to-image model that delivers outputs in four seconds, and rolls out Gemini Omni Flash to developers
+---
+ID: TM-05
+Title: Meituan open-sources LongCat-2.0, a 1.6T-parameter model that it says was trained on a 50K-chip cluster of domestic Chinese processors, without giving details
+---
+ID: TM-06
+Title: The UK CMA proposes requiring Apple and Google to relax UK developer payment “steering” rules, and Apple to open NFC; Google says it “already made the changes”
+---
+ID: TM-07
+Title: AWS launches an internal organization for AI-focused forward-deployed engineers, backed by $1B in resources, following OpenAI and others in launching FDE teams
+---
+ID: TM-08
+Title: SCOTUS agrees to hear Apple's appeal of a 2025 contempt ruling in its Epic case after a district judge found Apple violated an order to make App Store changes
+---
+ID: TM-09
+Title: Australia's ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them
+---
+ID: TM-10
+Title: Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Anthropic launches Claude Science, an AI workbench that uses existing Claude models like Opus 4.8 to integrate 60+ scientific databases and specialized toolkits
+---
+ID: TM-12
+Title: Source: OpenAI engineers earlier this month told some colleagues they had figured out a way to more than halve the cost of inference
+---
+ID: TM-13
+Title: A study of 22K US companies shows those spending most heavily on AI are adding workers faster than peers, but most gains are among tech companies and startups
+---
+ID: TM-14
+Title: As OpenAI and Anthropic prepare to go public, San Francisco tech workers making six figures say they cannot compete with the new AI elite and may have to leave
+---
+ID: TM-15
+Title: The DOD seeks to recruit engineers experienced in frontier AI, machine learning and automation, and data systems, to embed them “down to the unit level”
+---
+ID: TM-16
+Title: AI and vibe coding fuel a surge in game releases; ATTN Economy says 181K mobile games launched in six months to May, up 118% on iOS and 73% on Android YoY
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-17
+Title: An Indonesian court sentences Gojek co-founder and ex-education minister Nadiem Makarim to 10 years in prison for power abuses over a Chromebook contract
+---
+ID: TM-18
+Title: Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants
+---
+ID: TM-19
+Title: Almost 1,700 UK investors sue Binance and Changpeng Zhao for at least £150M, alleging Binance sold them risky derivative products without regulatory approval
+---
+
+[CATEGORY: M&A]
+ID: TM-20
+Title: Schneider Electric agrees to buy industrial AI company Cognite in a $3.1B all-cash deal, and plans to combine Cognite with its industrial software company Aveva
+---
+ID: TM-21
+Title: Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app
+---
+ID: TM-22
+Title: Cybersecurity company Aikido Security acquires Root, which has raised about $37.6M and develops an AI platform for securing open-source components
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-23
+Title: Filing: President Trump reports $1.4B+ in income from his family's crypto ventures in 2025, including $500M+ from WLF and $635M from the sale of his $TRUMP coin
+---
+ID: TM-24
+Title: The UK FCA unveils the updated version of its crypto regulatory framework, after softening proposed rules that critics said risked holding the UK back
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-25
+Title: AI inference startup Etched raised $800M from investors including Jane Street and a TSMC-linked venture firm, and says it has signed sales contracts worth $1B
+---
+ID: TM-26
+Title: Sources: AI video startup Higgsfield is in talks to raise $300M to $500M at a $5B pre-money valuation, more than 4x its valuation in a January 2026 round
+---
+ID: TM-27
+Title: AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO
+---
+ID: TM-28
+Title: Ottawa-based Dominion Dynamics, which is building software, sensors, and drones to autonomously monitor the Arctic, raised a CA$139M Series A led by Georgian
+---
+ID: TM-29
+Title: Omen AI, which provides real-time coolant health monitoring for data centers, raised a $31M Series A led by Nava Ventures, bringing its total funding to $41.5M
+---
+ID: TM-30
+Title: Dubai- and London-based 1001, which uses AI to improve aviation, port, and energy infrastructure efficiency in the Gulf, raised $30M led by Lux Capital
+---
+ID: TM-31
+Title: Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV
+---
+ID: TM-32
+Title: MDOTM, which makes AI software for asset and wealth managers, raised $27M led by Expedition Growth Capital, bringing its total funding to $36.5M
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-33
+Title: Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere
+---
+ID: TM-34
+Title: How Spain's LaLiga uses nationwide IP blocking to combat illegal sports streams, impacting an estimated 550K+ domains, putting it in conflict with Cloudflare
+---
+ID: TM-35
+Title: Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents
+---
+ID: TM-36
+Title: Filings: Microsoft's Ireland hub generated $47B in pretax profits for FY 2025, or 38.1% of its global total; new EU rules require country-by-country reporting
+---
+ID: TM-37
+Title: Q&A with Grindr CEO George Arison on turning Grindr into an “AI-native company”, “impos[ing]” AI on staff, facing “opposition”, using AI as a CEO, and more
+---
+ID: TM-38
+Title: Sources: Microsoft plans to announce job cuts next week affecting less than 2.5% of its 220,000-person workforce, including roles in sales, consulting, and Xbox
+---
+ID: TM-39
+Title: Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units
+---
+ID: TM-40
+Title: Sources: Kalshi agreed to pay $20M to sponsor the World Cup knockouts, after initially balking at FIFA's $150M asking price, alongside ADI Predictstreet
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Build from anywhere with Cursor for iOS (4 minute read)
+Excerpt: Cursor for iOS, now in public beta, allows developers to manage projects from anywhere using cloud or local agents. Launch or control agents via the mobile app, receive updates through Live Activities, and merge PRs on the go. This app supports workflows such as incident handling, resolving customer issues, and acting on user feedback efficiently.
+---
+ID: TL-02
+Title: Gemini's personalized AI image generation is now free for US users (2 minute read)
+Excerpt: All eligible users in the US can now access the Nano Banana-powered image generation feature within the Gemini app for free. The feature can generate images based on the AI model's understanding of users' likes and preferences without users having to specify them in the prompt. Personal Intelligence is an opt-in feature and users can decide which apps Gemini can access. Google has several updates for the Gemini app planned, including a new 'Daily Brief' feature, a revamped interface, access to the AI video model Gemini Omni, and a personal AI agent called Gemini Spark.
+---
+ID: TL-03
+Title: Devin Fusion (8 minute read)
+Excerpt: Devin Fusion is a multi-model harness from Cognition that mixes frontier and cost-effective models, reducing expenses by 35% on the FrontierCode benchmark while maintaining top-tier performance. This system uses dual-agent architecture with a main agent and a sidekick for dynamic model routing, optimizing task handling and avoiding costly cache misses. Fable 5 integration further enhances efficiency, achieving a 41% reduction in cost, promising advancements as models evolve.
+---
+ID: TL-04
+Title: RL Beyond the Verifiable (8 minute read)
+Excerpt: RL in verifiable areas is clearly working. The next big leap will come from approaches that help bring the same achievements to things that are harder to verify. This article looks at why verifiability is a constraint, the techniques that are working now, and the companies attacking the problem.
+---
+ID: TL-05
+Title: The Economy of Tokens (10 minute read)
+Excerpt: AI is transitioning from closed, vertically integrated systems to a modular ecosystem supported by standardized interfaces like Transformer architecture and inference APIs. This architectural disaggregation enables open-weights models to compete effectively with closed systems, significantly reducing costs while accelerating innovation across the entire stack.
+---
+ID: TL-06
+Title: RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades (1 minute read)
+Excerpt: RoadmapBench evaluates long-horizon coding tasks, spanning multiple files and languages, grounded in real version upgrades across 17 repositories. The benchmark tests 115 tasks, requiring agents to implement functionalities with a median modification of 3,700 lines across 51 files.
+---
+ID: TL-07
+Title: DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% (18 minute read)
+Excerpt: DSpark is a system designed to make large language models answer faster without changing what the underlying model is trying to say. Most AI models write one small chunk of text at a time. DSpark acts as a scout that runs a few steps ahead, guesses the likely path, and lets the larger model quickly check which steps are safe. When guesses are good, the model moves faster, but if they are weak, DSpark tries not to waste time checking them.
+---
+ID: TL-08
+Title: DiScoFormer: One transformer for density and score, across distributions (5 minute read)
+Excerpt: DiScoFormer, a transformer model, estimates both density and score from data in a single pass without retraining, surpassing classical kernel density estimation (KDE) in accuracy, especially in high dimensions. Utilizing cross-attention, it adapts to new data distributions on the spot, improving accuracy for generative modeling and Bayesian inference. Trained with Gaussian Mixture Models, DiScoFormer reduces score error by 6.5x and density error by more than 37x over KDE in 100 dimensions.
+---
+ID: TL-09
+Title: Salesforce employees are confused about why the company is promoting a competitor inside Slack (3 minute read)
+Excerpt: Salesforce helped promote Claude Tag when it launched. This caused some confusion among employees, as Slack has its own Slackbot and Agentforce platform - which runs on Claude. Claude Tag offers a parallel experience inside the same platform. Salesforce expects to spend $300 million on Anthropic tokens this year, and it holds roughly a 1% stake in Anthropic, so it has financial reasons to promote Claude Tag despite the competitive tension.
+---
+ID: TL-10
+Title: Google Cloud will sell specialist AI models built for science (4 minute read)
+Excerpt: Google will start offering specialist AI models from SandboxAQ through Google Cloud. SandboxAQ's large quantitative models are trained on scientific equations and laboratory data. The addition of these models will widen enterprise and research access to AI built for drug discovery, materials science, and semiconductor manufacturing. Researchers can combine the models with Gemini, using the language model for reasoning and interface and the quantitative model for the underlying science.
+---
+ID: TL-11
+Title: Sakana Fugu Launches With 93.2 LiveCodeBench Score After Claude Ban (3 minute read)
+Excerpt: Fugu Ultra beat Fable on LiveCodeBench and starts at $5 per million input tokens.
+---
+ID: TL-12
+Title: What happens when you run a CUDA kernel (35 minute read)
+Excerpt: This post follows a kernel from the code down to the warps, and back up to the answer.
+---
+ID: TL-13
+Title: Build a document processing workflow in 30 minutes (3 minute read)
+Excerpt: Mistral Workflows is a durable and fault-tolerant orchestration platform tailored for executing and monitoring multi-agent AI pipelines.
+---

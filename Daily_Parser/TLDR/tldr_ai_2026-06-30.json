@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-30",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Build from anywhere with Cursor for iOS (4 minute read)",
+        "url": "https://cursor.com/blog/ios-mobile-app?utm_source=tldrai",
+        "excerpt": "Cursor for iOS, now in public beta, allows developers to manage projects from anywhere using cloud or local agents. Launch or control agents via the mobile app, receive updates through Live Activities, and merge PRs on the go. This app supports workflows such as incident handling, resolving customer issues, and acting on user feedback efficiently."
+      },
+      {
+        "title": "Gemini's personalized AI image generation is now free for US users (2 minute read)",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/?utm_source=tldrai",
+        "excerpt": "All eligible users in the US can now access the Nano Banana-powered image generation feature within the Gemini app for free. The feature can generate images based on the AI model's understanding of users' likes and preferences without users having to specify them in the prompt. Personal Intelligence is an opt-in feature and users can decide which apps Gemini can access. Google has several updates for the Gemini app planned, including a new 'Daily Brief' feature, a revamped interface, access to the AI video model Gemini Omni, and a personal AI agent called Gemini Spark."
+      },
+      {
+        "title": "Devin Fusion (8 minute read)",
+        "url": "https://cognition.com/blog/devin-fusion?utm_source=tldrai",
+        "excerpt": "Devin Fusion is a multi-model harness from Cognition that mixes frontier and cost-effective models, reducing expenses by 35% on the FrontierCode benchmark while maintaining top-tier performance. This system uses dual-agent architecture with a main agent and a sidekick for dynamic model routing, optimizing task handling and avoiding costly cache misses. Fable 5 integration further enhances efficiency, achieving a 41% reduction in cost, promising advancements as models evolve."
+      },
+      {
+        "title": "RL Beyond the Verifiable (8 minute read)",
+        "url": "https://www.tanayj.com/p/rl-beyond-the-verifiable?utm_source=tldrai",
+        "excerpt": "RL in verifiable areas is clearly working. The next big leap will come from approaches that help bring the same achievements to things that are harder to verify. This article looks at why verifiability is a constraint, the techniques that are working now, and the companies attacking the problem."
+      },
+      {
+        "title": "The Economy of Tokens (10 minute read)",
+        "url": "https://x.com/vipulved/status/2071404852908081211?utm_source=tldrai",
+        "excerpt": "AI is transitioning from closed, vertically integrated systems to a modular ecosystem supported by standardized interfaces like Transformer architecture and inference APIs. This architectural disaggregation enables open-weights models to compete effectively with closed systems, significantly reducing costs while accelerating innovation across the entire stack."
+      },
+      {
+        "title": "RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades (1 minute read)",
+        "url": "https://arxiv.org/abs/2605.15846?utm_source=tldrai",
+        "excerpt": "RoadmapBench evaluates long-horizon coding tasks, spanning multiple files and languages, grounded in real version upgrades across 17 repositories. The benchmark tests 115 tasks, requiring agents to implement functionalities with a median modification of 3,700 lines across 51 files."
+      },
+      {
+        "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85% (18 minute read)",
+        "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85?utm_source=tldrai",
+        "excerpt": "DSpark is a system designed to make large language models answer faster without changing what the underlying model is trying to say. Most AI models write one small chunk of text at a time. DSpark acts as a scout that runs a few steps ahead, guesses the likely path, and lets the larger model quickly check which steps are safe. When guesses are good, the model moves faster, but if they are weak, DSpark tries not to waste time checking them."
+      },
+      {
+        "title": "DiScoFormer: One transformer for density and score, across distributions (5 minute read)",
+        "url": "https://huggingface.co/blog/allenai/discoformer?utm_source=tldrai",
+        "excerpt": "DiScoFormer, a transformer model, estimates both density and score from data in a single pass without retraining, surpassing classical kernel density estimation (KDE) in accuracy, especially in high dimensions. Utilizing cross-attention, it adapts to new data distributions on the spot, improving accuracy for generative modeling and Bayesian inference. Trained with Gaussian Mixture Models, DiScoFormer reduces score error by 6.5x and density error by more than 37x over KDE in 100 dimensions."
+      },
+      {
+        "title": "Salesforce employees are confused about why the company is promoting a competitor inside Slack (3 minute read)",
+        "url": "https://thenextweb.com/news/salesforce-employees-anthropic-claude-tag-slack-tension?utm_source=tldrai",
+        "excerpt": "Salesforce helped promote Claude Tag when it launched. This caused some confusion among employees, as Slack has its own Slackbot and Agentforce platform - which runs on Claude. Claude Tag offers a parallel experience inside the same platform. Salesforce expects to spend $300 million on Anthropic tokens this year, and it holds roughly a 1% stake in Anthropic, so it has financial reasons to promote Claude Tag despite the competitive tension."
+      },
+      {
+        "title": "Google Cloud will sell specialist AI models built for science (4 minute read)",
+        "url": "https://thenextweb.com/news/google-cloud-science-ai-models-sandboxaq?utm_source=tldrai",
+        "excerpt": "Google will start offering specialist AI models from SandboxAQ through Google Cloud. SandboxAQ's large quantitative models are trained on scientific equations and laboratory data. The addition of these models will widen enterprise and research access to AI built for drug discovery, materials science, and semiconductor manufacturing. Researchers can combine the models with Gemini, using the language model for reasoning and interface and the quantitative model for the underlying science."
+      },
+      {
+        "title": "Sakana Fugu Launches With 93.2 LiveCodeBench Score After Claude Ban (3 minute read)",
+        "url": "https://www.implicator.ai/sakana-fugu-launches-with-93-2-livecodebench-score-after-claude-ban/?utm_source=tldrai",
+        "excerpt": "Fugu Ultra beat Fable on LiveCodeBench and starts at $5 per million input tokens."
+      },
+      {
+        "title": "What happens when you run a CUDA kernel (35 minute read)",
+        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/?utm_source=tldrai",
+        "excerpt": "This post follows a kernel from the code down to the warps, and back up to the answer."
+      },
+      {
+        "title": "Build a document processing workflow in 30 minutes (3 minute read)",
+        "url": "https://x.com/MistralDevs/status/2071625939444744521?utm_source=tldrai",
+        "excerpt": "Mistral Workflows is a durable and fault-tolerant orchestration platform tailored for executing and monitoring multi-agent AI pipelines."
+      }
+    ]
+  }
+}

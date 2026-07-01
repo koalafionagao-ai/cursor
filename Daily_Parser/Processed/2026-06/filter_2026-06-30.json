@@ -1,0 +1,326 @@
+{
+  "date": "2026-06-30",
+  "threshold": 7.0,
+  "total": 53,
+  "kept": 23,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 5.0,
+      "keep": false,
+      "reason": "信息量有限，主要是关于出口管制的恢复，缺乏深度分析"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新模型发布，性能提升且价格更低，具有产品洞察价值"
+    },
+    {
+      "id": "TM-03",
+      "score": 6.0,
+      "keep": false,
+      "reason": "稳定币的推出涉及多个大公司，但信息较为常规"
+    },
+    {
+      "id": "TM-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新模型发布，具有成本效益和技术更新，值得关注"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "开源大型模型发布，具有一定的技术和市场影响力"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "政策提案信息较为常规，缺乏直接的行业影响"
+    },
+    {
+      "id": "TM-07",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AWS大规模投资AI团队，显示行业趋势和竞争格局变化"
+    },
+    {
+      "id": "TM-08",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律诉讼信息"
+    },
+    {
+      "id": "TM-09",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法律诉讼信息，虽涉及大公司但与AI关联不强"
+    },
+    {
+      "id": "TM-10",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是政治和商业活动信息"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新AI工具发布，整合多个数据库，具有应用潜力"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "成本降低的消息有一定价值，但信息量有限"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "研究显示AI投资对就业的影响，具有行业洞察价值"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于行业竞争的观察，但信息较为常规"
+    },
+    {
+      "id": "TM-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "DOD招聘信息，显示对AI人才的需求，但信息量有限"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "游戏发布数量激增，但信息较为常规，缺乏深度分析"
+    },
+    {
+      "id": "TM-17",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律判决信息"
+    },
+    {
+      "id": "TM-18",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律和商业活动信息"
+    },
+    {
+      "id": "TM-19",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律诉讼信息"
+    },
+    {
+      "id": "TM-20",
+      "score": 8.0,
+      "keep": true,
+      "reason": "大型收购事件，涉及工业AI，具有行业影响力"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是商业活动信息"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "收购事件涉及AI平台，具有一定的市场影响力"
+    },
+    {
+      "id": "TM-23",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是政治和商业活动信息"
+    },
+    {
+      "id": "TM-24",
+      "score": 6.0,
+      "keep": false,
+      "reason": "政策更新信息，虽涉及加密货币但与AI关联不强"
+    },
+    {
+      "id": "TM-25",
+      "score": 9.0,
+      "keep": true,
+      "reason": "融资信息显示AI初创公司的市场潜力和投资者信心"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Higgsfield的融资规模和估值变化引人关注，显示出AI视频领域的投资热度。"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.5,
+      "keep": true,
+      "reason": "8090的融资和创始人担任CEO的消息表明了AI编码领域的活跃和潜力。"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Dominion Dynamics的融资信息提供了关于北极监测技术的市场动态，但缺乏更深层次的行业洞察。"
+    },
+    {
+      "id": "TM-29",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Omen AI的融资信息较为常规，未能突出其在AI领域的独特性。"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "1001的融资显示了AI在基础设施效率提升中的应用，但信息量有限。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Nebex的融资信息较为常规，未能提供显著的行业洞察。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "MDOTM的融资信息较为常规，未能突出其在AI领域的独特性。"
+    },
+    {
+      "id": "TM-33",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Google关闭Tenor API的消息与AI关系较弱，信息量不足。"
+    },
+    {
+      "id": "TM-34",
+      "score": 6.0,
+      "keep": false,
+      "reason": "LaLiga的IP封锁措施与AI相关，但主要关注法律和商业策略，信息量有限。"
+    },
+    {
+      "id": "TM-35",
+      "score": 7.0,
+      "keep": true,
+      "reason": "旅游行业对AI旅行代理的反应显示了市场竞争的变化，值得关注。"
+    },
+    {
+      "id": "TM-36",
+      "score": 6.0,
+      "keep": false,
+      "reason": "微软的财务报告提供了行业背景，但缺乏直接的AI相关信息。"
+    },
+    {
+      "id": "TM-37",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Grindr CEO关于AI转型的访谈提供了对AI应用的深刻见解。"
+    },
+    {
+      "id": "TM-38",
+      "score": 4.0,
+      "keep": false,
+      "reason": "微软的裁员消息与AI关系较弱，信息量不足。"
+    },
+    {
+      "id": "TM-39",
+      "score": 4.0,
+      "keep": false,
+      "reason": "中国智能手机制造商的出货量调整与AI关系较弱，信息量不足。"
+    },
+    {
+      "id": "TM-40",
+      "score": 0.0,
+      "keep": false,
+      "reason": "Kalshi的赞助消息与AI关系较弱，信息量不足。"
+    },
+    {
+      "id": "TL-01",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Cursor for iOS的发布为开发者提供了新的工具，具有实用价值。"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Gemini的个性化AI图像生成功能的免费推出显示了AI应用的普及和用户体验的提升。"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Devin Fusion的多模型架构展示了AI在成本和性能优化方面的创新。"
+    },
+    {
+      "id": "TL-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于可验证强化学习的讨论提供了对未来研究方向的洞察。"
+    },
+    {
+      "id": "TL-05",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AI生态系统的转变和模块化架构的讨论具有深远的行业影响。"
+    },
+    {
+      "id": "TL-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "RoadmapBench的评估工具为长时间编码任务提供了新的视角，但信息量有限。"
+    },
+    {
+      "id": "TL-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "DSpark框架的开源将显著提升LLM推理速度，具有重要的技术价值。"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "DiScoFormer模型的创新在生成建模和贝叶斯推断中具有重要应用潜力。"
+    },
+    {
+      "id": "TL-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Salesforce内部对竞争对手的推广引发员工困惑，反映了市场竞争的复杂性。"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Google Cloud推出专门的科学AI模型，拓宽了AI在科研领域的应用。"
+    },
+    {
+      "id": "TL-11",
+      "score": 7.5,
+      "keep": true,
+      "reason": "新模型发布并展示了性能优势，值得关注"
+    },
+    {
+      "id": "TL-12",
+      "score": 5.5,
+      "keep": false,
+      "reason": "技术细节深入，但信息量相对常规"
+    },
+    {
+      "id": "TL-13",
+      "score": 8.0,
+      "keep": true,
+      "reason": "提供了实用的产品洞察，适合从业者参考"
+    }
+  ]
+}
