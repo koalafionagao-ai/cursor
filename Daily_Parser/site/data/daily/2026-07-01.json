@@ -1,0 +1,679 @@
+{
+  "date": "2026-07-01",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 25,
+    "by_category": {
+      "cat:business": 10,
+      "cat:tech": 4,
+      "cat:other": 6,
+      "cat:app": 2,
+      "cat:model": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+      "title": {
+        "zh": "消息称Meta计划推出云基础设施业务，与AWS、Azure和Google Cloud竞争",
+        "en": "Sources: Meta plans a cloud infrastructure business that will sell access to AI compute and models, to compete with AWS, Azure, and Google Cloud; META jumps 9%"
+      },
+      "summary": {
+        "zh": "META股价因此上涨9%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "google"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "google"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-04",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b?st=z9P7nX&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "消息称SpaceX向投资者展示搭载xAI技术的手持设备原型",
+        "en": "Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone"
+      },
+      "summary": {
+        "zh": "该设备配备专有操作系统、Snapdragon芯片，设计比iPhone更纤薄。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "xai",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "xai",
+        "chip"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/07/01/palantir-billionaire-alex-karp-calls-ai-industry-effing-insane-in-heated-interview/",
+      "title": {
+        "zh": "Alex Karp批评美国对AI实验室的军事技术依赖，称其“极其疯狂”",
+        "en": "Alex Karp calls US reliance on AI labs for military tech “effing insane”, pans AI fees for businesses, and touts Palantir's Nvidia Nemotron deal for US agencies"
+      },
+      "summary": {
+        "zh": "他还批评企业AI收费，并推介Palantir与Nvidia的Nemotron合作协议。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "palantir",
+        "nvidia",
+        "chip",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "palantir",
+        "nvidia",
+        "chip",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china",
+      "title": {
+        "zh": "日本承诺五年内向Noetra财团投资约61.6亿美元开发AI基础模型",
+        "en": "Japan commits up to ~$6.16B over five years to Noetra, a consortium led by SoftBank, Honda, NEC, and Sony, to develop a domestic AI foundation model by 2027"
+      },
+      "summary": {
+        "zh": "该财团由软银、本田、NEC和索尼领导，目标是在2027年前完成开发。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "softbank",
+        "sony"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "softbank",
+        "sony"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "title": {
+        "zh": "中美AI模型能力的快速提升正在改变工作场所的AI使用方式",
+        "en": "How the rapid rise in US- and China-made AI model abilities is leading to both a transformation in AI use at work, and sudden lurches in policies and markets"
+      },
+      "summary": {
+        "zh": "这一趋势也导致政策和市场的突然变化。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/",
+      "title": {
+        "zh": "联合国小组警告AI能力超越科学理解，称其潜在益处巨大",
+        "en": "A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the “potential benefits of AI are enormous”, and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever",
+      "title": {
+        "zh": "阿布扎比的MGX筹集490亿美元AI基金，计划每年部署100亿美元",
+        "en": "Abu Dhabi-based MGX raised a $49B AI-focused fund, exceeding its $45B target, and plans to deploy as much as $10B annually from the fund over the next few years"
+      },
+      "summary": {
+        "zh": "该基金超出原定450亿美元目标，未来几年将重点投资AI领域。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/transactional/softbank-renews-talks-10-billion-loan-against-openai-stake-adds-concessions-2026-07-01/",
+      "title": {
+        "zh": "消息称软银重启以OpenAI股份为抵押的100亿美元贷款谈判",
+        "en": "Sources: SoftBank has reopened talks for a $10B loan backed by its OpenAI stake and is offering to guarantee repayment if OpenAI collateral proves insufficient"
+      },
+      "summary": {
+        "zh": "软银表示若OpenAI抵押品不足，将提供还款担保。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "softbank",
+        "openai",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "softbank",
+        "openai",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html",
+      "title": {
+        "zh": "Together AI完成8亿美元融资，估值达83亿美元",
+        "en": "Together AI, which offers access to open-source models, raised $800M led by Saudi Aramco's Prosperity7 at an $8.3B valuation, taking its total funding to $1.3B"
+      },
+      "summary": {
+        "zh": "本轮融资由沙特阿美旗下Prosperity7领投，总融资额达13亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "open-source",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds",
+      "title": {
+        "zh": "Twelve Labs完成1亿美元B轮融资并与AWS达成合作",
+        "en": "Twelve Labs, which is building AI models to make video searchable and understandable, raised a $100M Series B co-led by NEA and Naver, and signs an AWS deal"
+      },
+      "summary": {
+        "zh": "该公司致力于构建可搜索和理解视频的AI模型，本轮融资由NEA和Naver共同领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "video-gen",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "video-gen",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "title": {
+        "zh": "Venice AI 融资 6500 万美元，估值达 10 亿美元",
+        "en": "Venice AI, which offers access to 200+ AI models while allowing users to retain their privacy, raised a $65M Series A led by Dragonfly at a $1B valuation"
+      },
+      "summary": {
+        "zh": "Venice AI 提供访问 200 多种 AI 模型的服务，同时保护用户隐私。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/asia-pacific/startup-oxmiq-raises-35-million-build-chip-architecture-lower-cost-ai-2026-07-01/",
+      "title": {
+        "zh": "Oxmiq 融资 3500 万美元，计划整合 GPU、CPU 和张量引擎",
+        "en": "Oxmiq, which aims to combine GPUs, CPUs, and a tensor engine into a single block of IP that it can license, raised $35M led by Samsung Catalyst Fund and Fudomo"
+      },
+      "summary": {
+        "zh": "由 Samsung Catalyst Fund 和 Fudomo 领投，Oxmiq 致力于将 GPU、CPU 和张量引擎整合为单一 IP 模块进行授权。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-36",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china",
+      "title": {
+        "zh": "UBTech 推出 U1 仿人机器人，售价约 17650 美元",
+        "en": "Chinese robot maker UBTech launches U1, a line of humanoid robots for personal companionship with lifelike silicone skin and emotional AI, priced from ~$17,650"
+      },
+      "summary": {
+        "zh": "U1 是一款用于个人陪伴的仿人机器人，配备逼真的硅胶皮肤和情感 AI。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "robotics",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics",
+        "startup"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china",
+      "title": {
+        "zh": "字节跳动在巴西投资 390 亿美元建设数据中心",
+        "en": "ByteDance is building a ~$39B data center complex with a 1GW capacity in a free-trade zone in Brazil's Ceará, set to be its largest facility outside of China"
+      },
+      "summary": {
+        "zh": "该数据中心位于巴西塞阿拉自由贸易区，容量达 1GW，将成为字节跳动在中国以外最大的设施。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "bytedance",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "bytedance",
+        "data-center"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-42",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/dc7b4dfb-b279-4740-ae71-862a9e267aa9",
+      "title": {
+        "zh": "中国车企加速研发本土 AI 芯片以实现芯片自给自足",
+        "en": "BYD, Nio, and other Chinese carmakers are rushing to design and use more locally developed chips with AI functions, as China keeps pushing chip self-sufficiency"
+      },
+      "summary": {
+        "zh": "比亚迪、蔚来等车企正加速设计和使用更多本土开发的 AI 功能芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "chip",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Science：科学家的 AI 工作台",
+        "en": "Claude Science, an AI Workbench for Scientists (4 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 推出 Claude Science，集成多种科学工具，支持 3D 蛋白质结构、基因组浏览器轨迹和化学结构的本地渲染。",
+        "en": "Anthropic has announced Claude Science, an AI workbench app available in beta for Pro, Max, Team, and Enterprise users on macOS and Linux. The workbench integrates fragmented scientific tools into a single environment, natively rendering 3D protein structures, genome browser tracks, and chemical structures."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/?utm_source=tldrai",
+      "title": {
+        "zh": "Google 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+        "en": "Nano Banana 2 Lite (6 minute read)"
+      },
+      "summary": {
+        "zh": "Nano Banana 2 Lite 是 Google 最快、最具成本效益的 Gemini 图像生成模型，同时推出的 Gemini Omni Flash 支持视频生成和对话式编辑。",
+        "en": "Google released Nano Banana 2 Lite, its fastest and most cost-efficient Gemini Image model, alongside Gemini Omni Flash for video generation and conversational editing. The models are available through AI Studio, the Gemini API, and Google's enterprise and consumer products."
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "gemini",
+        "image-gen",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "image-gen",
+        "video-gen"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 推出 Claude Sonnet 5 模型",
+        "en": "Claude Sonnet 5 (4 minute read)"
+      },
+      "summary": {
+        "zh": "Claude Sonnet 5 提供更强的规划、工具使用、编码和知识工作能力，性能接近 Opus 4.8。",
+        "en": "Anthropic has introduced Claude Sonnet 5, a lower-cost Sonnet model with stronger agentic performance in planning, tool use, coding, and knowledge work. Its capabilities were described as approaching Opus 4.8 while improving substantially over Sonnet 4.6."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable?utm_source=tldrai",
+      "title": {
+        "zh": "为什么专业化是不可避免的",
+        "en": "Why Specialization Is Inevitable (4 minute read)"
+      },
+      "summary": {
+        "zh": "文章探讨了领域专用 AI 模型为何在资源有限的情况下优于通用模型的原因。",
+        "en": "Domain-specialized AI models consistently outperform generalized ones because finite resources require concentrated capacity. This pattern aligns across optimization mathematics, biological evolution, market competition, and machine learning, proving that universal generality is structurally inefficient under resource constraints."
+      },
+      "tags": [
+        "cat:other",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "reasoning"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction?utm_source=tldrai",
+      "title": {
+        "zh": "深入了解 Thinking Machines 的交互模型",
+        "en": "Inside Thinking Machines' Interaction Models (17 minute read)"
+      },
+      "summary": {
+        "zh": "Thinking Machines 专注于人机协作的 AI 研究，计划推出支持持续交互的模型研究预览。",
+        "en": "Thinking Machines is an AI research lab focused on human-AI collaboration. It believes that real work benefits from continuous collaboration, where the human clarifies, redirects, and gives feedback as a model goes along. This requires an interface that supports that instead of treating the human as someone who hands off a task and walks away. Thinking Machines' interaction models make interactivity a part of the model itself. The company plans to open a limited research preview in the coming months, with a wider release later this year."
+      },
+      "tags": [
+        "cat:tech",
+        "startup",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "agent"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/meituan-launches-longcat-2-0-1-6t-parameter-model-on-apis/?utm_source=tldrai",
+      "title": {
+        "zh": "美团发布LongCat-2.0：1.6万亿参数模型",
+        "en": "Meituan launches LongCat-2.0 1.6T parameter model on APIs (2 minute read)"
+      },
+      "summary": {
+        "zh": "该模型专为代理编码、多步骤工作流和长上下文处理设计，是OpenRouter上热门模型“Owl Alpha”的引擎。",
+        "en": "Meituan has officially launched LongCat-2.0, a massive 1.6 trillion-parameter Mixture-of-Experts model tailored specifically for agentic coding, multi-step workflows, and long-context processing. Notably, the model was unmasked as the engine behind \"Owl Alpha,\" a highly popular stealth model on OpenRouter that recently ranked in the top three by global daily volume."
+      },
+      "tags": [
+        "cat:model",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://openai.com/index/introducing-genebench-pro/?utm_source=tldrai",
+      "title": {
+        "zh": "GeneBench-Pro：评估AI代理在科学判断中的表现",
+        "en": "GeneBench-Pro: Scientific Judgment in AI Agents (9 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI推出的基准测试，评估AI在基因组学和定量生物学等研究任务中的表现。",
+        "en": "OpenAI's GeneBench-Pro is a benchmark that evaluates how AI agents handle ambiguity, revise assumptions, and choose analysis paths in computational biology. It focuses on research-level tasks across genomics, quantitative biology, and translational medicine."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "benchmark",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "benchmark",
+        "agent"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training/?utm_source=tldrai",
+      "title": {
+        "zh": "Miles：大规模LLM强化学习后训练的PyTorch框架",
+        "en": "Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training (14 minute read)"
+      },
+      "summary": {
+        "zh": "Miles简化了大规模LLM强化学习后训练的构建、复现和操作，同时保持核心训练器的可定制性。",
+        "en": "Miles is a framework for large-scale LLM RL post-training. It makes frontier-scale LLM RL easier to build, reproduce, and operate. RL post-training has become a distributed systems problem as models have become larger and run across more distributed and specialized hardware. Miles makes large-scale LLM RL training more composable, reproducible, and easier to scale while keeping the core trainer small enough for researchers and infrastructure teams to customize."
+      },
+      "tags": [
+        "cat:tech",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "training"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://x.com/binghuip/status/2070756087998152855?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI研究：LLM解决数学前沿问题的能力",
+        "en": "Recent OpenAI research has demonstrated the ability of LLMs to solve frontier problems in mathematics (1 minute read)"
+      },
+      "summary": {
+        "zh": "研究人员设计了一个证明-验证工作流，使用GPT-5.5 Pro和Claude Opus 4.7解决数学前沿问题，取得了强劲成果。",
+        "en": "Researchers set out to find out how good frontier LLMs are at doing frontier theory research. They designed a prover-verifier workflow that used GPT-5.5 Pro as the solver and Claude Opus 4.7 as the verifier. This workflow was stress-tested on open problems from areas with very different levels of familiarity. The results were surprisingly strong and the system resolved a list of open questions."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "gpt",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "reasoning"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-15",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic启动AI药物研发计划，进军医疗领域",
+        "en": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic将专注于开发AI工具，用于发现传统制药公司不关注的被忽视疾病的治疗方法。",
+        "en": "Anthropic is starting an internal drug discovery program to develop AI tools designed for drugmakers. The company will focus on discovering treatments for neglected diseases that traditional biopharmaceutical companies wouldn't consider attractive targets. It is unclear what Anthropic will do if it finds any promising drug candidates."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic"
+      ],
+      "category_tag": "cat:business"
+    }
+  ]
+}

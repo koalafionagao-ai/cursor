@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-01",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: Meta plans a cloud infrastructure business that will sell access to AI compute and models, to compete with AWS, Azure, and Google Cloud; META jumps 9%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+        "tweets": [
+          {
+            "author": "@compound248",
+            "text": "@ComputeAlpha Thoughts: 1) If Meta is a major cloud business, and it has too much capacity, we've already invalidated that premise 2) You do NOT want to be the last player expanding capacity when demand growth slows (or, gasp, stops), as your excess will be largest at exactly the worst time",
+            "url": "https://x.com/compound248/status/2072452306809851940"
+          },
+          {
+            "author": "@benhylak",
+            "text": "ai companies don't die, they just start selling compute",
+            "url": "https://x.com/benhylak/status/2072380720211963942"
+          },
+          {
+            "author": "@firstadopter",
+            "text": "“developing plans” I guess we won't know if this is an incremental positive or negative to the AI theme until we get a Meta annual capex outlook update on their Q2 earnings call. (Will they raise capex or cut capex?)",
+            "url": "https://x.com/firstadopter/status/2072309904597987620"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic says access to Claude Fable 5 and Mythos 5 is now restored and it is drafting a jailbreak severity standard with Amazon, Microsoft, Google, and others",
+        "excerpt": "",
+        "url": "https://www.anthropic.com/news/redeploying-fable-5",
+        "tweets": [
+          {
+            "author": "@emollick",
+            "text": "It would be good to have an official government statement about the risks they saw in Fable, how they are viewing defensive preparations in light of coming open weights Mythos-class models, & whether the worries are state actors, independent hackers, etc It's important to know",
+            "url": "https://x.com/emollick/status/2072392345128239475"
+          },
+          {
+            "author": "@shashj",
+            "text": "“Our testing confirmed that many less capable models—including Claude Opus 4.8, GPT-5.5, and Kimi K2.7—could identify the same vulnerabilities as Fable 5 did in the report.  When it came to the demonstration of how to exploit the single vulnerability, every model we tested could produce the same demonstration as Fable 5”",
+            "url": "https://x.com/shashj/status/2072242562392305921"
+          },
+          {
+            "author": "@levie",
+            "text": "Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next.  What we have now is the initial precedent for what frontier model releases (or at least those that have significant coding and cyber capabilities) could look like going forward.  This would presumably apply to bio and other categories of risk that have been identified by AI safety groups",
+            "url": "https://x.com/levie/status/2072172275017879829"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Anthropic says “some routine tasks like coding and debugging” on Fable 5 “will fall back to Opus 4.8” in “the near term” as it works to “reduce false positives”",
+            "url": "https://x.com/anthropicai/status/2072163884430229756"
+          },
+          {
+            "title": "[Thread] the now-lifted US export controls on Anthropic models created uncertainty, are an own goal, and will push service providers toward Chinese AI models",
+            "url": "https://x.com/alexstamos/status/2072182629370327335"
+          },
+          {
+            "title": "Letter: the US says Anthropic “agreed to proactively detect and address security risks” of Fable 5 and Mythos 5; a source says Anthropic developed a “safeguard”",
+            "url": "https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b"
+          }
+        ]
+      },
+      {
+        "title": "Sony says all new PlayStation games will only be sold in digital formats from January 2028, as digital media preference “significantly outpaces physical discs”",
+        "excerpt": "",
+        "url": "https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing",
+        "tweets": [
+          {
+            "author": "@omegaproyt",
+            "text": "Announcing that you're no longer producing physical games at the same time as announcing that you're shutting down a digital storefront is quite the choice",
+            "url": "https://x.com/omegaproyt/status/2072295003691393083"
+          },
+          {
+            "author": "@kalaelizabeth",
+            "text": "You'll pay the same price as before except now you won't own shit! No discs, just empty boxes with codes. When playstation removes your games from the catalog like they are in the process of doing with 500 paid movies you'll get nothing. You'll own nothing.",
+            "url": "https://x.com/kalaelizabeth/status/2072294423266836587"
+          },
+          {
+            "author": "@stephentotilo",
+            "text": "In 2016, less than 3 of every 10 PS4 game purchases were made digitally. By this year, it was nearly 8 of 10 for PS4/5 That shift likely showed Sony it could do this, drop the cost of making/shipping discs, improve software profit margins, maybe de-emphasize a next-gen disc drive [image]",
+            "url": "https://x.com/stephentotilo/status/2072312118305542342"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sony says it will close the virtual PlayStation 3 store in select markets in 2026 before closing PS3 and PS Vita stores “in all other countries” in July 2027",
+            "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down"
+          }
+        ]
+      },
+      {
+        "title": "Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b?st=z9P7nX&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internet pioneer Vint Cerf, who has served as Google's VP and Chief Internet Evangelist since 2005, plans to step down from his role next week and retire",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta introduces a $20/month Meta One Premium tier for its glasses and limits the glasses' Conversation Focus feature to three hours per month for free users",
+        "excerpt": "",
+        "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Anthropic says it is rolling back a covert Claude Code tracking feature that identifies users based in China or affiliated with Chinese AI labs, after backlash",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/anthropic-backtracks-spyware-targeting-chinese-users-controversy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alex Karp calls US reliance on AI labs for military tech “effing insane”, pans AI fees for businesses, and touts Palantir's Nvidia Nemotron deal for US agencies",
+        "excerpt": "",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/07/01/palantir-billionaire-alex-karp-calls-ai-industry-effing-insane-in-heated-interview/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Japan commits up to ~$6.16B over five years to Noetra, a consortium led by SoftBank, Honda, NEC, and Sony, to develop a domestic AI foundation model by 2027",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How the rapid rise in US- and China-made AI model abilities is leading to both a transformation in AI use at work, and sudden lurches in policies and markets",
+        "excerpt": "",
+        "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the “potential benefits of AI are enormous”, and more",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/un-report-sees-enormous-potential-benefits-big-risks-ai-2026-07-01/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Vimeo owner Bending Spoons raised $1.68B after selling 57.97M shares at $29 each, valuing it at ~$18.4B, in one of 2026's largest US IPOs by a European company",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo"
+          }
+        ]
+      },
+      {
+        "title": "Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/finance/uber-backed-limes-shares-rise-nasdaq-debut-2026-07-01/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Lime owner Neutron Holdings raised $174M in its US IPO, selling 6.68M shares at $25 each, the midpoint of its marketed range, giving Lime a $1.6B market value",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share"
+          }
+        ]
+      },
+      {
+        "title": "Wayve files to sell shares on the London Stock Exchange's new Private Securities Market, the first major company to test it, and let staff sell $85M in shares",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/wayve-files-for-share-sale-on-london-bourse-s-new-private-market",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "Stockholm's Patent and Market Court orders Google to pay nearly $2B to Klarna's PriceRunner in a dispute over abuse of power in the shopping comparison market",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/google-ordered-to-pay-klarna-nearly-2-billion-in-antitrust-suit",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alibaba and its US payment processor AUS agree to pay $600M to resolve DOJ allegations that they failed to prevent illegal sales of drugs and other products",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/alibaba-aus-merchant-services-pay-600-million-resolve-alleged-illegal-2026-07-01/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US sentences Guo Wengui, a self-exiled billionaire Chinese tycoon who defrauded 1,000+ people worldwide out of hundreds of millions, to 30 years in prison",
+        "excerpt": "",
+        "url": "https://apnews.com/article/guo-wengui-chinese-businessman-fraud-3deb06c17c5640a5d63f0e2c72286ac8",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "venture capital": [
+      {
+        "title": "Abu Dhabi-based MGX raised a $49B AI-focused fund, exceeding its $45B target, and plans to deploy as much as $10B annually from the fund over the next few years",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: SoftBank has reopened talks for a $10B loan backed by its OpenAI stake and is offering to guarantee repayment if OpenAI collateral proves insufficient",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/softbank-renews-talks-10-billion-loan-against-openai-stake-adds-concessions-2026-07-01/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "personnel changes": [
+      {
+        "title": "Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company, and names Denise Moreno as CMO",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/01/meta-alex-schultz-chief-data-officer",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Uber dismissed two leaders at its AI data labeling business as part of a broader leadership transition at the unit, which it says is “seeing strong momentum”",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Together AI, which offers access to open-source models, raised $800M led by Saudi Aramco's Prosperity7 at an $8.3B valuation, taking its total funding to $1.3B",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "LeapXpert, which lets companies and sports franchises monitor staff business chats via apps like WhatsApp for compliance, raised $180M led by Riverwood Capital",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/06/30/leapxpert-180-million-sports-finance-prediction-market-compliance",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Twelve Labs, which is building AI models to make video searchable and understandable, raised a $100M Series B co-led by NEA and Naver, and signs an AWS deal",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+",
+        "excerpt": "",
+        "url": "https://www.bizjournals.com/triangle/news/2026/06/30/durham-ai-firm-raises-95m-hires.html?page=all",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Venice AI, which offers access to 200+ AI models while allowing users to retain their privacy, raised a $65M Series A led by Dragonfly at a $1B valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "B2B sales workspace startup Aligned raised a $60M Series B led by PeakSpan Capital, taking its total funding to $73.8M, and says it has 1,000+ customers",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/01/sales-startup-aligned-enterprise-software",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Oxmiq, which aims to combine GPUs, CPUs, and a tensor engine into a single block of IP that it can license, raised $35M led by Samsung Catalyst Fund and Fudomo",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/startup-oxmiq-raises-35-million-build-chip-architecture-lower-cost-ai-2026-07-01/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Pie, a startup that uses AI to optimize marketing for brick-and-mortar small businesses, emerges from stealth with a $19.5M Series A led by Lightspeed",
+        "excerpt": "",
+        "url": "https://www.inc.com/lisa-bonos/two-ex-toast-engineers-just-raised-19-5-million-to-solve-a-problem-most-small-businesses-dont-know-they-have/91367470",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "A researcher says a vulnerability in Apple's Hide My Email tool lets anyone see a user's real email address; first reported in June 2025, Apple has not fixed it",
+        "excerpt": "",
+        "url": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections",
+        "excerpt": "",
+        "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjRmOEljak1IR1IiLCJwIjoiL3JlcG9ydC85NjAxNzMvbWljcm9zb2Z0LXhib3gtZGlzYy10by1kaWdpdGFsLWZlYXR1cmUtcGh5c2ljYWwtZ2FtZS1jb2xsZWN0aW9uIiwiZXhwIjoxNzgzMzU5Njk2LCJpYXQiOjE3ODI5Mjc2OTZ9.oIfTRukq2XbJkjjtGK4EYmJ6Qm5KXSejNZwdcWqWf9U&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SpaceX cuts Starlink's monthly prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Leaked Apple supplier docs show iPhone 18 Pro and Pro Max may use Qualcomm modems in the US and Apple's own C2 chips elsewhere, A20 Pro packaging tech, and more",
+        "excerpt": "",
+        "url": "https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tim Cook and EU tech chief Henna Virkkunen held “constructive” talks on June 30; sources: they discussed how Apple can launch Siri AI in the EU and avoid fines",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple is working on new iPad Pros and an entry-level 14\" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzOTExOCwiZXhwIjoxNzgzNTQzOTE4LCJhcnRpY2xlSWQiOiJUSDM4SjhUOTZPU0owMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.Whw0tQOHQJ2qtIH7i1qAWNRHVT-TVl8Tyx5zr-AmQbs",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chinese robot maker UBTech launches U1, a line of humanoid robots for personal companionship with lifelike silicone skin and emotional AI, priced from ~$17,650",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3358884/ubtechs-lifelike-humanoid-robots-built-companionship-arriving-homes-across-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Taiwanese authorities detain two Super Micro staff and an Albatron manager after a raid of Super Micro's local offices this week over Nvidia shipments to China",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/taiwan-detains-super-micro-workers-probing-smuggling-of-nvidia-chips-to-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Getty Images says it will terminate its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/getty-images-plans-to-end-shutterstock-deal-after-u-k-imposes-conditions-6e831dc4?st=MFb6gs&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How a new Amazon-built transatlantic fiber-optic link in Ireland is symbolic of the country's AI ambitions, but also of its chronic lack of defense spending",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ByteDance is building a ~$39B data center complex with a 1GW capacity in a free-trade zone in Brazil's Ceará, set to be its largest facility outside of China",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Manifest, an annual prediction markets convention where many purists worry that Kalshi and Polymarket are undermining the tech's public good prospects",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-06-30/kalshi-s-polymarket-s-successes-worry-longtime-prediction-market-bettors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjgxNzIwMiwiZXhwIjoxNzgzNDIyMDAyLCJhcnRpY2xlSWQiOiJUSEZUMEtWVFRDWlAwMCIsImJjb25uZWN0SWQiOiJEQUU0N0RGNDlFMjA0RjY5OTkzM0I3MjE4QURDODJGQyJ9.Zueo7BS4R8MQBP2XgmyK8ze-ildePUPFNXAy4RSf2zI",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "BYD, Nio, and other Chinese carmakers are rushing to design and use more locally developed chips with AI functions, as China keeps pushing chip self-sufficiency",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/dc7b4dfb-b279-4740-ae71-862a9e267aa9",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised in April 2025 against using the app, raising US recordkeeping concerns",
+        "excerpt": "",
+        "url": "https://www.theatlantic.com/national-security/2026/06/trump-administration-signal-chat-marco-rubio/687735/?gift=nHf7iWmpOKBdlkwz68mfUDv4vu2y71hLoc8Kud40xdY&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "South Korean government data: the country's exports grew 70.9% YoY in June to $102.25B, an all-time monthly high, anchored by a record $44.82B in chip shipments",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/economy/south-korean-exports-hit-monthly-high-on-booming-ai-chip-demand",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 44
+  }
+}

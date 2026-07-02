@@ -1,0 +1,380 @@
+{
+  "date": "2026-07-01",
+  "threshold": 7.0,
+  "total": 62,
+  "kept": 25,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta计划推出云基础设施业务，直接与AWS等竞争，具有战略意义。"
+    },
+    {
+      "id": "TM-02",
+      "score": 6.0,
+      "keep": false,
+      "reason": "恢复Claude Fable 5和Mythos 5的访问，信息量一般。"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是游戏销售模式的变化。"
+    },
+    {
+      "id": "TM-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "SpaceX展示新设备原型，涉及AI技术，值得关注。"
+    },
+    {
+      "id": "TM-05",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI无关，主要是个人职业变动。"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta推出新付费层，信息量一般。"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "撤回Claude Code跟踪功能，反映行业动态。"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Alex Karp对AI军事技术的看法引发关注，涉及行业政策。"
+    },
+    {
+      "id": "TM-09",
+      "score": 9.0,
+      "keep": true,
+      "reason": "日本投资AI基础模型，具有重大政策和行业影响。"
+    },
+    {
+      "id": "TM-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "分析美中AI模型能力的快速上升对市场的影响，具有深度洞察。"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "UN警告AI能力超出科学理解，具有重要的行业警示。"
+    },
+    {
+      "id": "TM-12",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要是IPO相关信息，与AI关系不大。"
+    },
+    {
+      "id": "TM-13",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关，主要是公司上市信息。"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "首次测试新市场的公司，信息量一般。"
+    },
+    {
+      "id": "TM-15",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI无关，主要是法律纠纷。"
+    },
+    {
+      "id": "TM-16",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI无关，主要是法律和财务问题。"
+    },
+    {
+      "id": "TM-17",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI无关，主要是个人法律问题。"
+    },
+    {
+      "id": "TM-18",
+      "score": 9.0,
+      "keep": true,
+      "reason": "MGX筹集巨额AI基金，具有重大行业影响。"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "SoftBank与OpenAI的贷款谈判，涉及行业融资动态。"
+    },
+    {
+      "id": "TM-20",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta任命首位首席数据官，涉及公司战略调整。"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Uber内部领导变动，信息量一般。"
+    },
+    {
+      "id": "TM-22",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Together AI获得大额融资，显示市场对开源模型的关注。"
+    },
+    {
+      "id": "TM-23",
+      "score": 6.0,
+      "keep": false,
+      "reason": "LeapXpert融资信息，涉及合规监控，具有一定行业价值。"
+    },
+    {
+      "id": "TM-24",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Twelve Labs融资并签署AWS协议，显示市场需求。"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Higharc融资信息，涉及AI在建筑行业的应用。"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.5,
+      "keep": true,
+      "reason": "Venice AI的融资和隐私保护功能对行业有重要影响"
+    },
+    {
+      "id": "TM-27",
+      "score": 5.5,
+      "keep": false,
+      "reason": "融资信息较常规，缺乏产品创新细节"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Oxmiq的技术整合和融资值得关注"
+    },
+    {
+      "id": "TM-29",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Pie的市场定位和融资信息较常规"
+    },
+    {
+      "id": "TM-30",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及安全漏洞"
+    },
+    {
+      "id": "TM-31",
+      "score": 4.5,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及游戏功能"
+    },
+    {
+      "id": "TM-32",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及价格调整"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "信息量一般，主要涉及供应链"
+    },
+    {
+      "id": "TM-34",
+      "score": 6.5,
+      "keep": false,
+      "reason": "苹果与欧盟的对话可能影响AI政策"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.0,
+      "keep": false,
+      "reason": "产品更新信息较常规，缺乏创新"
+    },
+    {
+      "id": "TM-36",
+      "score": 7.5,
+      "keep": true,
+      "reason": "UBTech的情感AI机器人具有市场潜力"
+    },
+    {
+      "id": "TM-37",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及Nvidia的供应链问题，可能影响行业"
+    },
+    {
+      "id": "TM-38",
+      "score": 5.5,
+      "keep": false,
+      "reason": "合并终止信息较常规，缺乏深度分析"
+    },
+    {
+      "id": "TM-39",
+      "score": 6.0,
+      "keep": false,
+      "reason": "亚马逊的光纤链接与AI发展相关"
+    },
+    {
+      "id": "TM-40",
+      "score": 8.0,
+      "keep": true,
+      "reason": "ByteDance的数据中心建设对行业有重大影响"
+    },
+    {
+      "id": "TM-41",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及会议"
+    },
+    {
+      "id": "TM-42",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国车企在AI芯片自给自足方面的努力值得关注"
+    },
+    {
+      "id": "TM-43",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及记录保存问题"
+    },
+    {
+      "id": "TM-44",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及出口数据"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Claude Science的推出为科学家提供了重要工具"
+    },
+    {
+      "id": "TL-02",
+      "score": 6.5,
+      "keep": false,
+      "reason": "出口管制解除对AI模型的可用性有积极影响"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Nano Banana 2 Lite的发布对图像生成领域有重要意义"
+    },
+    {
+      "id": "TL-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Claude Sonnet 5的性能提升对AI应用有重大影响"
+    },
+    {
+      "id": "TL-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "探讨GPU效率的文章对技术从业者有一定价值"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于专业化AI模型的讨论对行业发展有启示"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.5,
+      "keep": true,
+      "reason": "探讨人机协作的新交互模型，具有产品洞察价值。"
+    },
+    {
+      "id": "TL-08",
+      "score": 5.5,
+      "keep": false,
+      "reason": "讨论AI在数学领域的进展，信息量一般。"
+    },
+    {
+      "id": "TL-09",
+      "score": 8.5,
+      "keep": true,
+      "reason": "Meituan发布新模型，具有重要的技术更新和应用价值。"
+    },
+    {
+      "id": "TL-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenAI推出新基准，关注AI在生物学领域的应用。"
+    },
+    {
+      "id": "TL-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Miles框架简化大规模LLM RL后训练，具有技术应用价值。"
+    },
+    {
+      "id": "TL-12",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI研究展示LLM在数学前沿问题上的能力，具有重大意义。"
+    },
+    {
+      "id": "TL-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Claude Code的隐私问题引发关注，信息量适中。"
+    },
+    {
+      "id": "TL-14",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息，与AI发展关系不大。"
+    },
+    {
+      "id": "TL-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic启动AI药物发现项目，加入医疗领域竞争，值得关注。"
+    },
+    {
+      "id": "TL-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Base44推出新模型，信息量较少。"
+    },
+    {
+      "id": "TL-17",
+      "score": 3.0,
+      "keep": false,
+      "reason": "关于ChatGPT用户成本的调整，信息价值有限。"
+    },
+    {
+      "id": "TL-18",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Etched估值信息，缺乏深度和相关性。"
+    }
+  ]
+}

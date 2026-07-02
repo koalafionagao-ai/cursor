@@ -1,0 +1,271 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: Meta plans a cloud infrastructure business that will sell access to AI compute and models, to compete with AWS, Azure, and Google Cloud; META jumps 9%
+Tweets:
+  - Author: @compound248
+    Text: @ComputeAlpha Thoughts: 1) If Meta is a major cloud business, and it has too much capacity, we've already invalidated that premise 2) You do NOT want to be the last player expanding capacity when demand growth slows (or, gasp, stops), as your excess will be largest at exactly the worst time
+    Link ID: TM-01-TW-01
+  - Author: @benhylak
+    Text: ai companies don't die, they just start selling compute
+    Link ID: TM-01-TW-02
+  - Author: @firstadopter
+    Text: “developing plans” I guess we won't know if this is an incremental positive or negative to the AI theme until we get a Meta annual capex outlook update on their Q2 earnings call. (Will they raise capex or cut capex?)
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Anthropic says access to Claude Fable 5 and Mythos 5 is now restored and it is drafting a jailbreak severity standard with Amazon, Microsoft, Google, and others
+Tweets:
+  - Author: @emollick
+    Text: It would be good to have an official government statement about the risks they saw in Fable, how they are viewing defensive preparations in light of coming open weights Mythos-class models, & whether the worries are state actors, independent hackers, etc It's important to know
+    Link ID: TM-02-TW-01
+  - Author: @shashj
+    Text: “Our testing confirmed that many less capable models—including Claude Opus 4.8, GPT-5.5, and Kimi K2.7—could identify the same vulnerabilities as Fable 5 did in the report.  When it came to the demonstration of how to exploit the single vulnerability, every model we tested could produce the same demonstration as Fable 5”
+    Link ID: TM-02-TW-02
+  - Author: @levie
+    Text: Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next.  What we have now is the initial precedent for what frontier model releases (or at least those that have significant coding and cyber capabilities) could look like going forward.  This would presumably apply to bio and other categories of risk that have been identified by AI safety groups
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Anthropic says “some routine tasks like coding and debugging” on Fable 5 “will fall back to Opus 4.8” in “the near term” as it works to “reduce false positives”
+    Link ID: TM-02-SUB-01
+  - Title: [Thread] the now-lifted US export controls on Anthropic models created uncertainty, are an own goal, and will push service providers toward Chinese AI models
+    Link ID: TM-02-SUB-02
+  - Title: Letter: the US says Anthropic “agreed to proactively detect and address security risks” of Fable 5 and Mythos 5; a source says Anthropic developed a “safeguard”
+    Link ID: TM-02-SUB-03
+---
+ID: TM-03
+Title: Sony says all new PlayStation games will only be sold in digital formats from January 2028, as digital media preference “significantly outpaces physical discs”
+Tweets:
+  - Author: @omegaproyt
+    Text: Announcing that you're no longer producing physical games at the same time as announcing that you're shutting down a digital storefront is quite the choice
+    Link ID: TM-03-TW-01
+  - Author: @kalaelizabeth
+    Text: You'll pay the same price as before except now you won't own shit! No discs, just empty boxes with codes. When playstation removes your games from the catalog like they are in the process of doing with 500 paid movies you'll get nothing. You'll own nothing.
+    Link ID: TM-03-TW-02
+  - Author: @stephentotilo
+    Text: In 2016, less than 3 of every 10 PS4 game purchases were made digitally. By this year, it was nearly 8 of 10 for PS4/5 That shift likely showed Sony it could do this, drop the cost of making/shipping discs, improve software profit margins, maybe de-emphasize a next-gen disc drive [image]
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Sony says it will close the virtual PlayStation 3 store in select markets in 2026 before closing PS3 and PS Vita stores “in all other countries” in July 2027
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone
+---
+ID: TM-05
+Title: Internet pioneer Vint Cerf, who has served as Google's VP and Chief Internet Evangelist since 2005, plans to step down from his role next week and retire
+---
+ID: TM-06
+Title: Meta introduces a $20/month Meta One Premium tier for its glasses and limits the glasses' Conversation Focus feature to three hours per month for free users
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-07
+Title: Anthropic says it is rolling back a covert Claude Code tracking feature that identifies users based in China or affiliated with Chinese AI labs, after backlash
+---
+ID: TM-08
+Title: Alex Karp calls US reliance on AI labs for military tech “effing insane”, pans AI fees for businesses, and touts Palantir's Nvidia Nemotron deal for US agencies
+---
+ID: TM-09
+Title: Japan commits up to ~$6.16B over five years to Noetra, a consortium led by SoftBank, Honda, NEC, and Sony, to develop a domestic AI foundation model by 2027
+---
+ID: TM-10
+Title: How the rapid rise in US- and China-made AI model abilities is leading to both a transformation in AI use at work, and sudden lurches in policies and markets
+---
+ID: TM-11
+Title: A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the “potential benefits of AI are enormous”, and more
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-12
+Title: Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO
+Sub Items:
+  - Title: Vimeo owner Bending Spoons raised $1.68B after selling 57.97M shares at $29 each, valuing it at ~$18.4B, in one of 2026's largest US IPOs by a European company
+    Link ID: TM-12-SUB-01
+---
+ID: TM-13
+Title: Lime's shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO
+Sub Items:
+  - Title: Lime owner Neutron Holdings raised $174M in its US IPO, selling 6.68M shares at $25 each, the midpoint of its marketed range, giving Lime a $1.6B market value
+    Link ID: TM-13-SUB-01
+---
+ID: TM-14
+Title: Wayve files to sell shares on the London Stock Exchange's new Private Securities Market, the first major company to test it, and let staff sell $85M in shares
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-15
+Title: Stockholm's Patent and Market Court orders Google to pay nearly $2B to Klarna's PriceRunner in a dispute over abuse of power in the shopping comparison market
+---
+ID: TM-16
+Title: Alibaba and its US payment processor AUS agree to pay $600M to resolve DOJ allegations that they failed to prevent illegal sales of drugs and other products
+---
+ID: TM-17
+Title: The US sentences Guo Wengui, a self-exiled billionaire Chinese tycoon who defrauded 1,000+ people worldwide out of hundreds of millions, to 30 years in prison
+---
+
+[CATEGORY: VENTURE CAPITAL]
+ID: TM-18
+Title: Abu Dhabi-based MGX raised a $49B AI-focused fund, exceeding its $45B target, and plans to deploy as much as $10B annually from the fund over the next few years
+---
+ID: TM-19
+Title: Sources: SoftBank has reopened talks for a $10B loan backed by its OpenAI stake and is offering to guarantee repayment if OpenAI collateral proves insufficient
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-20
+Title: Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company, and names Denise Moreno as CMO
+---
+ID: TM-21
+Title: Uber dismissed two leaders at its AI data labeling business as part of a broader leadership transition at the unit, which it says is “seeing strong momentum”
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-22
+Title: Together AI, which offers access to open-source models, raised $800M led by Saudi Aramco's Prosperity7 at an $8.3B valuation, taking its total funding to $1.3B
+---
+ID: TM-23
+Title: LeapXpert, which lets companies and sports franchises monitor staff business chats via apps like WhatsApp for compliance, raised $180M led by Riverwood Capital
+---
+ID: TM-24
+Title: Twelve Labs, which is building AI models to make video searchable and understandable, raised a $100M Series B co-led by NEA and Naver, and signs an AWS deal
+---
+ID: TM-25
+Title: Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+
+---
+ID: TM-26
+Title: Venice AI, which offers access to 200+ AI models while allowing users to retain their privacy, raised a $65M Series A led by Dragonfly at a $1B valuation
+---
+ID: TM-27
+Title: B2B sales workspace startup Aligned raised a $60M Series B led by PeakSpan Capital, taking its total funding to $73.8M, and says it has 1,000+ customers
+---
+ID: TM-28
+Title: Oxmiq, which aims to combine GPUs, CPUs, and a tensor engine into a single block of IP that it can license, raised $35M led by Samsung Catalyst Fund and Fudomo
+---
+ID: TM-29
+Title: Pie, a startup that uses AI to optimize marketing for brick-and-mortar small businesses, emerges from stealth with a $19.5M Series A led by Lightspeed
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-30
+Title: A researcher says a vulnerability in Apple's Hide My Email tool lets anyone see a user's real email address; first reported in June 2025, Apple has not fixed it
+---
+ID: TM-31
+Title: Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections
+---
+ID: TM-32
+Title: SpaceX cuts Starlink's monthly prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers
+---
+ID: TM-33
+Title: Leaked Apple supplier docs show iPhone 18 Pro and Pro Max may use Qualcomm modems in the US and Apple's own C2 chips elsewhere, A20 Pro packaging tech, and more
+---
+ID: TM-34
+Title: Tim Cook and EU tech chief Henna Virkkunen held “constructive” talks on June 30; sources: they discussed how Apple can launch Siri AI in the EU and avoid fines
+---
+ID: TM-35
+Title: Sources: Apple is working on new iPad Pros and an entry-level 14" MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027
+---
+ID: TM-36
+Title: Chinese robot maker UBTech launches U1, a line of humanoid robots for personal companionship with lifelike silicone skin and emotional AI, priced from ~$17,650
+---
+ID: TM-37
+Title: Taiwanese authorities detain two Super Micro staff and an Albatron manager after a raid of Super Micro's local offices this week over Nvidia shipments to China
+---
+ID: TM-38
+Title: Getty Images says it will terminate its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business
+---
+ID: TM-39
+Title: How a new Amazon-built transatlantic fiber-optic link in Ireland is symbolic of the country's AI ambitions, but also of its chronic lack of defense spending
+---
+ID: TM-40
+Title: ByteDance is building a ~$39B data center complex with a 1GW capacity in a free-trade zone in Brazil's Ceará, set to be its largest facility outside of China
+---
+ID: TM-41
+Title: A look at Manifest, an annual prediction markets convention where many purists worry that Kalshi and Polymarket are undermining the tech's public good prospects
+---
+ID: TM-42
+Title: BYD, Nio, and other Chinese carmakers are rushing to design and use more locally developed chips with AI functions, as China keeps pushing chip self-sufficiency
+---
+ID: TM-43
+Title: FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised in April 2025 against using the app, raising US recordkeeping concerns
+---
+ID: TM-44
+Title: South Korean government data: the country's exports grew 70.9% YoY in June to $102.25B, an all-time monthly high, anchored by a record $44.82B in chip shipments
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Claude Science, an AI Workbench for Scientists (4 minute read)
+Excerpt: Anthropic has announced Claude Science, an AI workbench app available in beta for Pro, Max, Team, and Enterprise users on macOS and Linux. The workbench integrates fragmented scientific tools into a single environment, natively rendering 3D protein structures, genome browser tracks, and chemical structures.
+---
+ID: TL-02
+Title: The Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 (1 minute read)
+Excerpt: Anthropic has received notice that the export controls on Claude Fable 5 and Mythos 5 have been lifted. The company will start restoring access tomorrow. Another update is expected soon.
+---
+ID: TL-03
+Title: Nano Banana 2 Lite (6 minute read)
+Excerpt: Google released Nano Banana 2 Lite, its fastest and most cost-efficient Gemini Image model, alongside Gemini Omni Flash for video generation and conversational editing. The models are available through AI Studio, the Gemini API, and Google's enterprise and consumer products.
+---
+ID: TL-04
+Title: Claude Sonnet 5 (4 minute read)
+Excerpt: Anthropic has introduced Claude Sonnet 5, a lower-cost Sonnet model with stronger agentic performance in planning, tool use, coding, and knowledge work. Its capabilities were described as approaching Opus 4.8 while improving substantially over Sonnet 4.6.
+---
+ID: TL-05
+Title: Popping the GPU Bubble (17 minute read)
+Excerpt: AI models typically produce one token at a time - you can't compute the third token before you have the second. The GPU does most of the heavy lifting, but there is also some work that needs to be done by the CPU. GPU bubbles occur when the GPU sits idle in a loop waiting for the GPU to complete its job. This article looks at how to hide these bubbles using a technique called pipeline decoding, which involves starting the GPU work on the next token while the CPU is still finishing the last one.
+---
+ID: TL-06
+Title: Why Specialization Is Inevitable (4 minute read)
+Excerpt: Domain-specialized AI models consistently outperform generalized ones because finite resources require concentrated capacity. This pattern aligns across optimization mathematics, biological evolution, market competition, and machine learning, proving that universal generality is structurally inefficient under resource constraints.
+---
+ID: TL-07
+Title: Inside Thinking Machines' Interaction Models (17 minute read)
+Excerpt: Thinking Machines is an AI research lab focused on human-AI collaboration. It believes that real work benefits from continuous collaboration, where the human clarifies, redirects, and gives feedback as a model goes along. This requires an interface that supports that instead of treating the human as someone who hands off a task and walks away. Thinking Machines' interaction models make interactivity a part of the model itself. The company plans to open a limited research preview in the coming months, with a wider release later this year.
+---
+ID: TL-08
+Title: AI and the future of math (2 minute read)
+Excerpt: In this podcast interview with Dwarkesh Patel, 3Blue1Brown creator Grant Sanderson discusses how AI's rapid, uneven progress in mathematics provides a roadmap for how it will transform the broader economy. Sanderson notes that while AI can rapidly brute-force fields like geometry, it still struggles with playful combinatorics problems that require deep conceptual creativity.
+---
+ID: TL-09
+Title: Meituan launches LongCat-2.0 1.6T parameter model on APIs (2 minute read)
+Excerpt: Meituan has officially launched LongCat-2.0, a massive 1.6 trillion-parameter Mixture-of-Experts model tailored specifically for agentic coding, multi-step workflows, and long-context processing. Notably, the model was unmasked as the engine behind "Owl Alpha," a highly popular stealth model on OpenRouter that recently ranked in the top three by global daily volume.
+---
+ID: TL-10
+Title: GeneBench-Pro: Scientific Judgment in AI Agents (9 minute read)
+Excerpt: OpenAI's GeneBench-Pro is a benchmark that evaluates how AI agents handle ambiguity, revise assumptions, and choose analysis paths in computational biology. It focuses on research-level tasks across genomics, quantitative biology, and translational medicine.
+---
+ID: TL-11
+Title: Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training (14 minute read)
+Excerpt: Miles is a framework for large-scale LLM RL post-training. It makes frontier-scale LLM RL easier to build, reproduce, and operate. RL post-training has become a distributed systems problem as models have become larger and run across more distributed and specialized hardware. Miles makes large-scale LLM RL training more composable, reproducible, and easier to scale while keeping the core trainer small enough for researchers and infrastructure teams to customize.
+---
+ID: TL-12
+Title: Recent OpenAI research has demonstrated the ability of LLMs to solve frontier problems in mathematics (1 minute read)
+Excerpt: Researchers set out to find out how good frontier LLMs are at doing frontier theory research. They designed a prover-verifier workflow that used GPT-5.5 Pro as the solver and Claude Opus 4.7 as the verifier. This workflow was stress-tested on open problems from areas with very different levels of familiarity. The results were surprisingly strong and the system resolved a list of open questions.
+---
+ID: TL-13
+Title: Claude Code Is Quietly Fingerprinting China-Linked API Routers (8 minute read)
+Excerpt: Claude Code fingerprints custom API routing inside model context. While Anthropic has real reasons to care about unofficial Claude routers, the implementation is not transparent. Its technique makes a line of model context look semantically neutral while using punctuation to carry routing metadata. It almost crosses the line into becoming spyware.
+---
+ID: TL-14
+Title: TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)
+Excerpt: Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!
+---
+ID: TL-15
+Title: Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare (3 minute read)
+Excerpt: Anthropic is starting an internal drug discovery program to develop AI tools designed for drugmakers. The company will focus on discovering treatments for neglected diseases that traditional biopharmaceutical companies wouldn't consider attractive targets. It is unclear what Anthropic will do if it finds any promising drug candidates.
+---
+ID: TL-16
+Title: Vibe-coding platform Base44 launches own model as AI startups seek defensibility (6 minute read)
+Excerpt: Base44 aims to eventually outperform frontier models.
+---
+ID: TL-17
+Title: OpenAI reportedly cut response costs for guest ChatGPT users by more than half (1 minute read)
+Excerpt: Guest users can only access a limited set of features, so it is unclear whether the performance gains will carry over to the full product.
+---
+ID: TL-18
+Title: Nvidia competitor Etched hits $5B valuation (2 minute read)
+Excerpt: Etched has already booked $1 billion in contract orders for full systems powered by its chip.
+---
