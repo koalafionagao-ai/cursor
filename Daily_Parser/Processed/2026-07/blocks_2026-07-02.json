@@ -1,0 +1,469 @@
+{
+  "date": "2026-07-02",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Sources: OpenAI has discussed giving a 5% stake to the US government, seeking to clear political obstacles by securing buy-in from the Trump administration",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b?accessToken=zwAAAZ8huxJJkc98gD6rjoBEMdOah-lDvwDgCw.MEUCIFybCUQd5ShFQcZrADBvB9ITU5BRO1ph9qG6iMshNM_sAiEA3bKOe8-WbDQhVwmoAtZaOWffgc63zDtg4oHexlcZVS8&sharetype=gift&token=0d9debdd-2ada-4e87-a74e-66db9f0221dd",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Microsoft invests $2.5B and forms the Microsoft Frontier Company to embed 6,000 forward-deployed engineers with customers to help deploy AI systems",
+      "excerpt": "",
+      "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android's market power should stand",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Sources: Apple told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from a forecast of 7M to 8M, and 80M iPhones in total across new models",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Filings: Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day he unveiled his AI action plan",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&smid=url-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: Palmer Luckey's Erebor Bank is in talks to raise money at an $8B+ valuation, up from $4.35B in 2025; its deposits are up from $1.1B in March to $4.05B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/palmer-luckey-s-erebor-bank-eyes-at-least-8-billion-valuation",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Nvidia promises to financially backstop young cloud providers, like Firmus and Sharon AI, by renting back unused GPUs, in exchange for a share of their revenues",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked",
+      "excerpt": "",
+      "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Z.ai launches ZCode, an “Agentic Development Environment” purpose-built for its GLM-5.2 model; Z.ai's GLM Coding Plan tiers range from $16.20 to $144 per month",
+      "excerpt": "",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Internal memo: Tesla plans to impose a $200-per-week limit for staff's AI spending beginning July 6; the tally excludes beta versions of xAI products",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/tesla-caps-employee-ai-spend-200-per-week-adoption-push",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "At a town hall, Mark Zuckerberg said Meta's AI agent development has not accelerated as expected and its reorganization was not as “clean” as it could have been",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD's Emil Michael and how Anthropic's relationship with DOD soured",
+      "excerpt": "",
+      "url": "https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd?st=dEDUZz",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring coding tools and AI agents dubbed AutoPilot",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/microsoft-memo-details-ai-app-overhaul-earn-right-exist",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "German software giant SAP says it's encouraging workers to invent new, more valuable jobs aided by AI, to try to avoid layoffs; SAP cut nearly 10K staff in 2024",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html?unlocked_article_code=1.ulA.FGZt.VxL32ZdmHEsJ&smid=nytcore-ios-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Sam Altman proposes a “US-led international forum” to establish AI standards, provide analysis of capabilities and risks, and make AI models available to allies",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca?accessToken=zwAAAZ8jqdiQkc8MLhB39lhLPdOQQGAmFclhyg.MEUCIQDTUiIL0UYEaoE25S4euqGkhgOMxJn4r27SftiGoI39NQIgM8b4a3IiQ8df8aq_EQ7mIljhjCUr7FFPC0kYZkxEgcU&sharetype=gift&token=2b1a04f5-7679-4c10-a83a-d4de72e18f47",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "An EU draft proposal dated June 30 shows the bloc is weighing weaker climate impact rules for gas-powered data centers, after heavy lobbying from tech groups",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/21358a9a-b93b-443c-8a68-6fed89c8b3a6",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog is up 55% YoY to 64K",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/f2b02e7d-c3ca-42d0-a575-ea1f62550900",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/fintech-deals/2026/07/02/crypto-payments-mesh-funding-round",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/quantum-systems-more-than-doubles-valuation-to-8-billion-in-new-round",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Tripo AI, which is developing 3D foundation models and world models for use in games, raised $150M, a month after it said it raised $200M",
+      "excerpt": "",
+      "url": "https://gamesbeat.com/tripo-ai-raises-150m-for-genai-tools-for-gaming-a-month-after-its-previous-200m-raise/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "CarbonSix, which is developing AI automation and robotic intelligence tech for manufacturing, raised a $40M Series A co-led by DSC Investment and LB Investment",
+      "excerpt": "",
+      "url": "https://www.finsmes.com/2026/07/carbonsix-raises-40m-in-series-a-funding.html",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed",
+      "excerpt": "",
+      "url": "https://tech.eu/2026/07/02/stirlingx-secures-20m-series-a-to-expand-sovereign-intelligence-platform/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Sources: data center operator Switch seeks a ~$2B funding round valuing it at ~$50B, including debt, led by a $400M investment from a16z, ahead of a 2027 IPO",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/data-center-firm-switch-seeks-2-billion-in-funding-round",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Amazon's emissions rose 16% YoY in 2025, driven by data center construction and delivery fuel, while Google's “ambition-based” emissions jumped 18% YoY in 2025",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzMjk3MiwiZXhwIjoxNzgzNTM3NzcyLCJhcnRpY2xlSWQiOiJUSElGQkJLSVVQVUMwMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.1uq0UK38jkTF2Q0aiMNqqnGiskdqRbIWrqAgPcRgo2k",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by around 2030",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "X launches Live Studio, an updated livestreaming hub within Creator Studio with a simplified desktop setup, chat control options, thumbnail uploads, and more",
+      "excerpt": "",
+      "url": "https://www.socialmediatoday.com/news/x-launches-livestream-studio-to-streamline-live-broadcasts/824300/",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban",
+      "excerpt": "",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M monthly micro-drama viewers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/sharechat-india-s-meta-rival-plans-400-million-ipo-next-year",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzNzEyNywiZXhwIjoxNzgzNTQxOTI3LCJhcnRpY2xlSWQiOiJUSEVRUTNLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FuF6awzVXEizz_5Wz3mQJyaU0R5PPc8T4fo6aUH9Z-c",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Amazon says Leo now has 396 satellites in low-Earth orbit, following a July 1 launch, which is “enough to support continuous service across initial latitudes”",
+      "excerpt": "",
+      "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater",
+      "excerpt": "",
+      "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5,000+ startups",
+      "excerpt": "",
+      "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks",
+      "excerpt": "",
+      "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+      "section": "more news"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Indian IT company Persistent Systems offers to acquire its Germany-based peer Nagarro for $1.45B; Indian IT companies are ramping up M&A as AI reshapes growth",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/technology/indian-it-firms-ramp-up-acquisitions-as-ai-reshapes-growth",
+      "section": "more news"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MjQ3NywiZXhwIjoxNzgzNTc3Mjc3LCJhcnRpY2xlSWQiOiJUSElMMEtLSVAzSjQwMCIsImJjb25uZWN0SWQiOiI0NjFFOUQ2MTU1RDM0RjcxOTZBMTk0OTg2MTk3NUM3OSJ9.HYRyAigt2YC00yG9q9og2BqrLqTXjRC0cfIGETIxIrQ",
+      "section": "more news"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "Spotify removed 500K+ streams of Malcolm Todd's Earrings after a 70% surge in 24 hours sent it to #1 on Spotify USA and coincided with suspicious Kalshi wagers",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/2e10851c-9f47-410d-b46e-2a617118b05a",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Google might be testing Gemini Flash upgrade on LM Arena (2 minute read)",
+      "excerpt": "Google is testing a new Gemini Flash upgrade on LM Arena, reportedly offering incremental improvements over the current Flash version. Despite no official confirmation, past Arena tests have often preceded public launches, drawing attention to potential new labels like \"Gemini 3.6 Flash\" or \"Gemini 4 Flash.\" The Flash tier attracts interest due to its importance for everyday users and cost-conscious developers, handling most free and pay-as-you-go traffic faster than pricier Pro models.",
+      "url": "https://www.testingcatalog.com/google-might-be-testing-gemini-flash-upgrade-on-lm-arena/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power (3 minute read)",
+      "excerpt": "Meta Platforms is developing an internal cloud infrastructure initiative to sell access to its surplus AI computing power and hosted models to external developers. This strategic pivot aims to generate a new revenue stream from the company's massive multi-billion-dollar investments in data centers and chips, directly challenging dominant hyperscalers like Amazon Web Services, Microsoft Azure, and Google Cloud.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MTY0NiwiZXhwIjoxNzgzNTc2NDQ2LCJhcnRpY2xlSWQiOiJUSEVOTzNUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.JdV2iInClRiKWZeNwiRnBwLP9ejcOSYmI1fPZwd0AuA&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Continual Harness: An Efficient Self-Improving Agent on ARC-AGI-3 (3 minute read)",
+      "excerpt": "The ARC-AGI-3 benchmark tests agents' ability to form and update an internal world model through ongoing learning. Continual Harness aims to efficiently enhance agents' self-improvement capabilities on this challenging IQ test.",
+      "url": "https://x.com/sethkarten/status/2072034978112889328?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "The Winning Essays for the Big Questions About AI (23 minute read)",
+      "excerpt": "Dwarkesh Patel posted some big questions about AI a couple of months ago and received 600 essay submissions for the contest. The three winners of the competition were Jassi Pannu, an Assistant Professor at Johns Hopkins University; Ege Erdil, the co-founder of Mechanize; and Michael Li, a Master of Public Policy candidate at Harvard Kennedy School. The full essays are available in the post.",
+      "url": "https://www.dwarkesh.com/p/blog-prize-winners?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Autoresearch: The feedback loop behind self-improving agents (11 minute read)",
+      "excerpt": "Autoresearch involves building an 'outer loop' where agents help maintain and improve the primary system using feedback signals, evals, and human input to make progress over time. One of the startups building infrastructure for these self-improving systems is Introspection. This post features an interview with Introspection's co-founder and CEO, Roland Gavrilescu. The discussion covers the shift from agent harnesses to feedback loops, the role of the open-source Pi framework, and why autonomous software factories must first learn from humans.",
+      "url": "https://www.latent.space/p/autoresearch-introspection?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "PorTAL: Portable Task Adapters for LLMs (3 minute read)",
+      "excerpt": "PorTAL is an innovative architecture designed to decouple task fine-tuning from specific base model weights. As the accelerating cadence of foundation model releases creates a compounding financial and engineering burden to re-tune capabilities from scratch, PorTAL offers a way to pay for task adaptation once and amortize it across all future models.",
+      "url": "https://x.com/RampLabs/status/2072381992285647280?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "ZCode (1 minute read)",
+      "excerpt": "ZCode is now available on macOS, Windows, and Linux. It combines the best AI agents with existing tools so developers can plan, code, review, and deploy without friction. GLM-5.2 is tuned for ZCode, making agentic coding faster and steadier. GLM Coding Plan subscribers now have 1.5x usage quota in ZCode.",
+      "url": "https://x.com/Zai_org/status/2072349453361557898?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Learning to Replicate Expert Judgment in Financial Tasks (14 minute read)",
+      "excerpt": "Frontier models struggle with relatively simple financial tasks. Custom models fine-tuned on high-quality proprietary datasets labeled by expert investors perform better. They are also substantially cheaper. Models of the future will probably feature differentiated intelligence - organizations will have custom models tuned to their specific needs that outperform frontier models.",
+      "url": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)",
+      "excerpt": "Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!",
+      "url": "mailto:ai@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment (4 minute read)",
+      "excerpt": "A joint study by Ramp and Revelio Labs analyzed the relationship between firm-level generative AI investments and employment outcomes across over 21,000 companies in the US. The research reveals that companies with high-intensity AI spending grew their overall headcount by 10.2 percent and entry-level positions by 12 percent over the two years following adoption.",
+      "url": "https://ramp.com/data/ai-jobs-impact?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Redeploying Fable 5 (18 minute read)",
+      "excerpt": "Claude Fable 5 and Mythos 5 have been redeployed. Fable 5 will be included for up to 50% of weekly usage limits until July 7, after which it will be available via usage credits. Mythos 5 has been restored for some organizations in the US. Anthropic is continuing to coordinate with the US government to expand Mythos access to the broader set of domestic and international partners in the Glasswing program.",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "Product Shape is the Moat (3 minute read)",
+      "excerpt": "Application layer AI companies cannot build sustainable moats against model providers through simple technical adjustments like fine tuning or model routing.",
+      "url": "https://x.com/scottastevenson/status/2072336746327458178?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure (5 minute read)",
+      "excerpt": "The proposal is part of a larger arrangement under which the US government would hold 5% of each of the leading US AI developers through a sovereign wealth fund vehicle.",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "How OpenAI Delivers Low-Latency Voice AI for 900M Users (17 minute read)",
+      "excerpt": "This article looks at how OpenAI uses WebRTC to run voice for its 900 million users.",
+      "url": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

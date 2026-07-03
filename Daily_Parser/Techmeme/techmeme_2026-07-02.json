@@ -1,0 +1,379 @@
+{
+  "date": "2026-07-02",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: OpenAI has discussed giving a 5% stake to the US government, seeking to clear political obstacles by securing buy-in from the Trump administration",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b?accessToken=zwAAAZ8huxJJkc98gD6rjoBEMdOah-lDvwDgCw.MEUCIFybCUQd5ShFQcZrADBvB9ITU5BRO1ph9qG6iMshNM_sAiEA3bKOe8-WbDQhVwmoAtZaOWffgc63zDtg4oHexlcZVS8&sharetype=gift&token=0d9debdd-2ada-4e87-a74e-66db9f0221dd",
+        "tweets": [
+          {
+            "author": "@thestalwart",
+            "text": "I don't know about this path. Rather than equity stakes, why not make companies pay ~20% of all pre-tax income to the federal government? And then instead of exercising shareholder influence, politicians and regulators could set rules on corporate conduct across industries.",
+            "url": "https://x.com/thestalwart/status/2072649035027267972"
+          },
+          {
+            "author": "@deanwball",
+            "text": "There are two broad ways this can work: 1. You divide this 5% over all US households, handing each a direct stake. 2. You give the stake directly to the government. (1) is fine. (2) is probably ruinous, akin to inviting rats to live and reproduce in the walls of your house.",
+            "url": "https://x.com/deanwball/status/2072637496295329901"
+          },
+          {
+            "author": "@andrewcurran_",
+            "text": "Anthropic is not having any discussions with the White House about a potential government stake. The source in the NOTUS report from a month ago similarly went out of their way to say that the admin was having these kinds of discussions with everyone 𝘦𝘹𝘤𝘦𝘱𝘵 Anthropic. [image]",
+            "url": "https://x.com/andrewcurran_/status/2072769221956866129"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft invests $2.5B and forms the Microsoft Frontier Company to embed 6,000 forward-deployed engineers with customers to help deploy AI systems",
+        "excerpt": "",
+        "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/",
+        "tweets": [
+          {
+            "author": "@satyanadella",
+            "text": "The future of the firm is a learning loop in which human capital and token capital compound.  With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its knowledge, workflows, and judgment into its own AI systems that continuously improve.",
+            "url": "https://x.com/satyanadella/status/2072708957077176563"
+          },
+          {
+            "author": "@edzitron",
+            "text": "our new management consultancy army will extend the known universe of Microsoft unified support services to leave clients billed with so many different SKUs that they'll need new kinds of math...that's the “Microsoft Way”",
+            "url": "https://x.com/edzitron/status/2072800903543832940"
+          },
+          {
+            "author": "@patrickmoorhead",
+            "text": "Enterprise AI is hard and getting it wrong or not doing it could end you.  Losing your IP to a frontier model that uses your data and methods to then turn around and compete with you could be the end of a company too.  The middle ground is to have an arbiter, yes that you pay, that has access to all models, frontier to vertical, large to small, harnesses, access to the enterprise data without hijacking it.  The pragmatic part is that huge companies like Microsoft sometimes need focus to speed up and that's what Satya's doing here.  What hasn't been comprehended yet is how to light up the capability where the data sits today which is on-prem.  That's unclear.",
+            "url": "https://x.com/patrickmoorhead/status/2072765134968402176"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
+        "tweets": [
+          {
+            "author": "@whitehouse",
+            "text": "THE GOLDEN AGE 💸 @MicronTech announces huge investment in Trump Accounts! “This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary!” - President Donald J. Trump [image]",
+            "url": "https://x.com/whitehouse/status/2072358208744702383"
+          },
+          {
+            "author": "@jonahlupton",
+            "text": "Good take... Michael Dell made a big donation to Trump accounts and then several months later $DELL won a big government contract. I would expect a big announcement in the next couple months that benefits $MU, very likely has to do with import controls/taxes on Chinese memory.",
+            "url": "https://x.com/jonahlupton/status/2072386621870088196"
+          },
+          {
+            "author": "@mr_derivatives",
+            "text": "$MU Trump posted this about Micron.trying to pamp it. Stock: no reaction lol [image]",
+            "url": "https://x.com/mr_derivatives/status/2072365341381169544"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android's market power should stand",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/google-loses-eu-court-fight-over-4-1-billion-android-fine",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from a forecast of 7M to 8M, and 80M iPhones in total across new models",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filings: Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day he unveiled his AI action plan",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html?unlocked_article_code=1.uVA.MIkb.09sjYfuX5frT&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Palmer Luckey's Erebor Bank is in talks to raise money at an $8B+ valuation, up from $4.35B in 2025; its deposits are up from $1.1B in March to $4.05B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/palmer-luckey-s-erebor-bank-eyes-at-least-8-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia promises to financially backstop young cloud providers, like Firmus and Sharon AI, by renting back unused GPUs, in exchange for a share of their revenues",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked",
+        "excerpt": "",
+        "url": "https://www.nbcnews.com/tech/tech-news/cloudflare-sets-ai-crawler-deadline-separate-search-blocked-rcna352446",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Z.ai launches ZCode, an “Agentic Development Environment” purpose-built for its GLM-5.2 model; Z.ai's GLM Coding Plan tiers range from $16.20 to $144 per month",
+        "excerpt": "",
+        "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal memo: Tesla plans to impose a $200-per-week limit for staff's AI spending beginning July 6; the tally excludes beta versions of xAI products",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/tesla-caps-employee-ai-spend-200-per-week-adoption-push",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "At a town hall, Mark Zuckerberg said Meta's AI agent development has not accelerated as expected and its reorganization was not as “clean” as it could have been",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD's Emil Michael and how Anthropic's relationship with DOD soured",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd?st=dEDUZz",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring coding tools and AI agents dubbed AutoPilot",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/microsoft-memo-details-ai-app-overhaul-earn-right-exist",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "German software giant SAP says it's encouraging workers to invent new, more valuable jobs aided by AI, to try to avoid layoffs; SAP cut nearly 10K staff in 2024",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html?unlocked_article_code=1.ulA.FGZt.VxL32ZdmHEsJ&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sam Altman proposes a “US-led international forum” to establish AI standards, provide analysis of capabilities and risks, and make AI models available to allies",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca?accessToken=zwAAAZ8jqdiQkc8MLhB39lhLPdOQQGAmFclhyg.MEUCIQDTUiIL0UYEaoE25S4euqGkhgOMxJn4r27SftiGoI39NQIgM8b4a3IiQ8df8aq_EQ7mIljhjCUr7FFPC0kYZkxEgcU&sharetype=gift&token=2b1a04f5-7679-4c10-a83a-d4de72e18f47",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An EU draft proposal dated June 30 shows the bloc is weighing weaker climate impact rules for gas-powered data centers, after heavy lobbying from tech groups",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/21358a9a-b93b-443c-8a68-6fed89c8b3a6",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog is up 55% YoY to 64K",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/f2b02e7d-c3ca-42d0-a575-ea1f62550900",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/fintech-deals/2026/07/02/crypto-payments-mesh-funding-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/quantum-systems-more-than-doubles-valuation-to-8-billion-in-new-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tripo AI, which is developing 3D foundation models and world models for use in games, raised $150M, a month after it said it raised $200M",
+        "excerpt": "",
+        "url": "https://gamesbeat.com/tripo-ai-raises-150m-for-genai-tools-for-gaming-a-month-after-its-previous-200m-raise/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CarbonSix, which is developing AI automation and robotic intelligence tech for manufacturing, raised a $40M Series A co-led by DSC Investment and LB Investment",
+        "excerpt": "",
+        "url": "https://www.finsmes.com/2026/07/carbonsix-raises-40m-in-series-a-funding.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/07/02/stirlingx-secures-20m-series-a-to-expand-sovereign-intelligence-platform/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Sources: data center operator Switch seeks a ~$2B funding round valuing it at ~$50B, including debt, led by a $400M investment from a16z, ahead of a 2027 IPO",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/data-center-firm-switch-seeks-2-billion-in-funding-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon's emissions rose 16% YoY in 2025, driven by data center construction and delivery fuel, while Google's “ambition-based” emissions jumped 18% YoY in 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzMjk3MiwiZXhwIjoxNzgzNTM3NzcyLCJhcnRpY2xlSWQiOiJUSElGQkJLSVVQVUMwMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.1uq0UK38jkTF2Q0aiMNqqnGiskdqRbIWrqAgPcRgo2k",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by around 2030",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "X launches Live Studio, an updated livestreaming hub within Creator Studio with a simplified desktop setup, chat control options, thumbnail uploads, and more",
+        "excerpt": "",
+        "url": "https://www.socialmediatoday.com/news/x-launches-livestream-studio-to-streamline-live-broadcasts/824300/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban",
+        "excerpt": "",
+        "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M monthly micro-drama viewers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-02/sharechat-india-s-meta-rival-plans-400-million-ipo-next-year",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjkzNzEyNywiZXhwIjoxNzgzNTQxOTI3LCJhcnRpY2xlSWQiOiJUSEVRUTNLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FuF6awzVXEizz_5Wz3mQJyaU0R5PPc8T4fo6aUH9Z-c",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon says Leo now has 396 satellites in low-Earth orbit, following a July 1 launch, which is “enough to support continuous service across initial latitudes”",
+        "excerpt": "",
+        "url": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?st=EqVyz4&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5,000+ startups",
+        "excerpt": "",
+        "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks",
+        "excerpt": "",
+        "url": "https://therecord.media/teen-suspect-in-scattered-spider-hacks-extradited-to-us",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Indian IT company Persistent Systems offers to acquire its Germany-based peer Nagarro for $1.45B; Indian IT companies are ramping up M&A as AI reshapes growth",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/indian-it-firms-ramp-up-acquisitions-as-ai-reshapes-growth",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MjQ3NywiZXhwIjoxNzgzNTc3Mjc3LCJhcnRpY2xlSWQiOiJUSElMMEtLSVAzSjQwMCIsImJjb25uZWN0SWQiOiI0NjFFOUQ2MTU1RDM0RjcxOTZBMTk0OTg2MTk3NUM3OSJ9.HYRyAigt2YC00yG9q9og2BqrLqTXjRC0cfIGETIxIrQ",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Spotify removed 500K+ streams of Malcolm Todd's Earrings after a 70% surge in 24 hours sent it to #1 on Spotify USA and coincided with suspicious Kalshi wagers",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/2e10851c-9f47-410d-b46e-2a617118b05a",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 44
+  }
+}

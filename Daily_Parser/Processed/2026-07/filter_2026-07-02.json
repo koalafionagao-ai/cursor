@@ -1,0 +1,356 @@
+{
+  "date": "2026-07-02",
+  "threshold": 7.0,
+  "total": 58,
+  "kept": 23,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要涉及政治和股权问题"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "微软投资和新公司的成立将推动AI系统的部署，具有重要的行业影响"
+    },
+    {
+      "id": "TM-03",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及股市和政治"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及谷歌的市场权力问题，但与AI直接关系不大"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "主要涉及苹果的产品计划，缺乏AI相关信息"
+    },
+    {
+      "id": "TM-06",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及个人投资和政治行动计划"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic开发定制AI芯片的消息具有潜在的技术影响"
+    },
+    {
+      "id": "TM-08",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及融资和估值问题"
+    },
+    {
+      "id": "TM-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia支持年轻云服务商的举措将促进AI生态系统的发展"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Cloudflare的截止日期对AI公司有影响，但信息量有限"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Z.ai推出新开发环境，可能影响AI开发者的工作方式"
+    },
+    {
+      "id": "TM-12",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及公司内部支出政策"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta的AI开发进展缓慢，提供了一些行业洞察但信息量有限"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Anthropic与DOD的关系问题提供了一些行业背景，但信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "微软合并其Copilot产品的举措可能会影响市场竞争和用户体验"
+    },
+    {
+      "id": "TM-16",
+      "score": 7.0,
+      "keep": true,
+      "reason": "ElevenLabs的融资消息显示出市场对AI初创公司的关注"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "SAP鼓励员工利用AI创造新工作，信息量一般但有一定价值"
+    },
+    {
+      "id": "TM-18",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Sam Altman提议建立国际AI标准论坛，具有重大的行业影响"
+    },
+    {
+      "id": "TM-19",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及气候政策和技术游说"
+    },
+    {
+      "id": "TM-20",
+      "score": 5.0,
+      "keep": false,
+      "reason": "AI辅助的就业索赔增加对法律系统的影响，信息量一般"
+    },
+    {
+      "id": "TM-21",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Crusoe的融资消息显示出市场对AI基础设施的强烈需求"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Kling AI的融资显示出市场对AI视频生成技术的关注"
+    },
+    {
+      "id": "TM-23",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及加密支付和融资问题"
+    },
+    {
+      "id": "TM-24",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要涉及无人机和融资问题"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Tripo AI的融资消息显示出对3D模型开发的关注，但信息量一般"
+    },
+    {
+      "id": "TM-26",
+      "score": 7.5,
+      "keep": true,
+      "reason": "制造业AI自动化技术融资，值得关注的融资动态"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.5,
+      "keep": true,
+      "reason": "防御和关键基础设施领域的数据智能系统融资，具有行业意义"
+    },
+    {
+      "id": "TM-28",
+      "score": 5.5,
+      "keep": false,
+      "reason": "数据中心融资信息，但缺乏直接与AI相关的内容"
+    },
+    {
+      "id": "TM-29",
+      "score": 4.5,
+      "keep": false,
+      "reason": "与AI关系不大，主要关注公司排放数据"
+    },
+    {
+      "id": "TM-30",
+      "score": 8.5,
+      "keep": true,
+      "reason": "SoftBank推出AI芯片和云服务，具有战略意义"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "更新内容常规，缺乏深度产品洞察"
+    },
+    {
+      "id": "TM-32",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是社会调查结果"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "IPO计划信息常规，缺乏AI相关性"
+    },
+    {
+      "id": "TM-34",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是公司上市信息"
+    },
+    {
+      "id": "TM-35",
+      "score": 6.0,
+      "keep": false,
+      "reason": "苹果与中国半导体制造商的谈判，涉及技术供应链"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "卫星数量更新常规，缺乏AI相关性"
+    },
+    {
+      "id": "TM-37",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是市场投资者情况"
+    },
+    {
+      "id": "TM-38",
+      "score": 9.0,
+      "keep": true,
+      "reason": "全球VC融资创纪录，OpenAI和Anthropic占比高，影响深远"
+    },
+    {
+      "id": "TM-39",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律案件信息"
+    },
+    {
+      "id": "TM-40",
+      "score": 7.0,
+      "keep": true,
+      "reason": "印度IT公司收购计划，反映AI行业的并购趋势"
+    },
+    {
+      "id": "TM-41",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律和用户投诉问题"
+    },
+    {
+      "id": "TM-42",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是金融产品信息"
+    },
+    {
+      "id": "TM-43",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是音乐流媒体平台的操作"
+    },
+    {
+      "id": "TM-44",
+      "score": 6.5,
+      "keep": false,
+      "reason": "亚马逊SVP访谈，涉及AI设备设计，具有一定洞察"
+    },
+    {
+      "id": "TL-01",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Google测试新升级，可能影响用户体验和开发者"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Meta计划云业务，挑战主要云服务商，具有战略意义"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "自我改进代理的研究，涉及AI领域的重要测试"
+    },
+    {
+      "id": "TL-04",
+      "score": 5.0,
+      "keep": false,
+      "reason": "AI相关的论文竞赛结果，信息量有限"
+    },
+    {
+      "id": "TL-05",
+      "score": 8.0,
+      "keep": true,
+      "reason": "自我改进代理的反馈循环研究，具有技术洞察"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.5,
+      "keep": true,
+      "reason": "创新架构PorTAL，解决任务适应性问题，具有应用价值"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.5,
+      "keep": true,
+      "reason": "ZCode的发布和GLM-5.2的调优为开发者提供了更高效的编码体验，值得关注。"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.5,
+      "keep": true,
+      "reason": "定制模型在金融任务中的表现优于前沿模型，显示出未来AI模型的差异化趋势。"
+    },
+    {
+      "id": "TL-09",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI行业发展无关，信息量过少。"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "研究揭示了AI投资与公司就业结果之间的关系，具有重要的行业洞察。"
+    },
+    {
+      "id": "TL-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Fable 5和Mythos 5的重新部署信息较为常规，缺乏重大变化。"
+    },
+    {
+      "id": "TL-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨了应用层AI公司如何建立可持续竞争优势，具有一定的产品洞察。"
+    },
+    {
+      "id": "TL-13",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI与美国政府的提案可能影响行业格局，具有战略意义。"
+    },
+    {
+      "id": "TL-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于OpenAI语音AI的技术实现，信息量一般。"
+    }
+  ]
+}

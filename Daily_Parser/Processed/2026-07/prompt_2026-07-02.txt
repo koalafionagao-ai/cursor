@@ -1,0 +1,237 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: OpenAI has discussed giving a 5% stake to the US government, seeking to clear political obstacles by securing buy-in from the Trump administration
+Tweets:
+  - Author: @thestalwart
+    Text: I don't know about this path. Rather than equity stakes, why not make companies pay ~20% of all pre-tax income to the federal government? And then instead of exercising shareholder influence, politicians and regulators could set rules on corporate conduct across industries.
+    Link ID: TM-01-TW-01
+  - Author: @deanwball
+    Text: There are two broad ways this can work: 1. You divide this 5% over all US households, handing each a direct stake. 2. You give the stake directly to the government. (1) is fine. (2) is probably ruinous, akin to inviting rats to live and reproduce in the walls of your house.
+    Link ID: TM-01-TW-02
+  - Author: @andrewcurran_
+    Text: Anthropic is not having any discussions with the White House about a potential government stake. The source in the NOTUS report from a month ago similarly went out of their way to say that the admin was having these kinds of discussions with everyone 𝘦𝘹𝘤𝘦𝘱𝘵 Anthropic. [image]
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Microsoft invests $2.5B and forms the Microsoft Frontier Company to embed 6,000 forward-deployed engineers with customers to help deploy AI systems
+Tweets:
+  - Author: @satyanadella
+    Text: The future of the firm is a learning loop in which human capital and token capital compound.  With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its knowledge, workflows, and judgment into its own AI systems that continuously improve.
+    Link ID: TM-02-TW-01
+  - Author: @edzitron
+    Text: our new management consultancy army will extend the known universe of Microsoft unified support services to leave clients billed with so many different SKUs that they'll need new kinds of math...that's the “Microsoft Way”
+    Link ID: TM-02-TW-02
+  - Author: @patrickmoorhead
+    Text: Enterprise AI is hard and getting it wrong or not doing it could end you.  Losing your IP to a frontier model that uses your data and methods to then turn around and compete with you could be the end of a company too.  The middle ground is to have an arbiter, yes that you pay, that has access to all models, frontier to vertical, large to small, harnesses, access to the enterprise data without hijacking it.  The pragmatic part is that huge companies like Microsoft sometimes need focus to speed up and that's what Satya's doing here.  What hasn't been comprehended yet is how to light up the capability where the data sits today which is on-prem.  That's unclear.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states
+Tweets:
+  - Author: @whitehouse
+    Text: THE GOLDEN AGE 💸 @MicronTech announces huge investment in Trump Accounts! “This is the BIGGEST CORPORATE Investment of its kind, and will help jumpstart the American Dream for these fabulous children as we celebrate America's 250th Anniversary!” - President Donald J. Trump [image]
+    Link ID: TM-03-TW-01
+  - Author: @jonahlupton
+    Text: Good take... Michael Dell made a big donation to Trump accounts and then several months later $DELL won a big government contract. I would expect a big announcement in the next couple months that benefits $MU, very likely has to do with import controls/taxes on Chinese memory.
+    Link ID: TM-03-TW-02
+  - Author: @mr_derivatives
+    Text: $MU Trump posted this about Micron.trying to pamp it. Stock: no reaction lol [image]
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: The European Court of Justice rules that Google's earlier defeat against a €4.1B European Commission penalty over abusing Android's market power should stand
+---
+ID: TM-05
+Title: Sources: Apple told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from a forecast of 7M to 8M, and 80M iPhones in total across new models
+---
+ID: TM-06
+Title: Filings: Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day he unveiled his AI action plan
+---
+ID: TM-07
+Title: Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip
+---
+ID: TM-08
+Title: Sources: Palmer Luckey's Erebor Bank is in talks to raise money at an $8B+ valuation, up from $4.35B in 2025; its deposits are up from $1.1B in March to $4.05B
+---
+ID: TM-09
+Title: Nvidia promises to financially backstop young cloud providers, like Firmus and Sharon AI, by renting back unused GPUs, in exchange for a share of their revenues
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked
+---
+ID: TM-11
+Title: Z.ai launches ZCode, an “Agentic Development Environment” purpose-built for its GLM-5.2 model; Z.ai's GLM Coding Plan tiers range from $16.20 to $144 per month
+---
+ID: TM-12
+Title: Internal memo: Tesla plans to impose a $200-per-week limit for staff's AI spending beginning July 6; the tally excludes beta versions of xAI products
+---
+ID: TM-13
+Title: At a town hall, Mark Zuckerberg said Meta's AI agent development has not accelerated as expected and its reorganization was not as “clean” as it could have been
+---
+ID: TM-14
+Title: Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD's Emil Michael and how Anthropic's relationship with DOD soured
+---
+ID: TM-15
+Title: Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring coding tools and AI agents dubbed AutoPilot
+---
+ID: TM-16
+Title: Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February
+---
+ID: TM-17
+Title: German software giant SAP says it's encouraging workers to invent new, more valuable jobs aided by AI, to try to avoid layoffs; SAP cut nearly 10K staff in 2024
+---
+ID: TM-18
+Title: Sam Altman proposes a “US-led international forum” to establish AI standards, provide analysis of capabilities and risks, and make AI models available to allies
+---
+ID: TM-19
+Title: An EU draft proposal dated June 30 shows the bloc is weighing weaker climate impact rules for gas-powered data centers, after heavy lobbying from tech groups
+---
+ID: TM-20
+Title: UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog is up 55% YoY to 64K
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-21
+Title: Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October
+---
+ID: TM-22
+Title: Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B
+---
+ID: TM-23
+Title: Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation
+---
+ID: TM-24
+Title: Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation
+---
+ID: TM-25
+Title: Tripo AI, which is developing 3D foundation models and world models for use in games, raised $150M, a month after it said it raised $200M
+---
+ID: TM-26
+Title: CarbonSix, which is developing AI automation and robotic intelligence tech for manufacturing, raised a $40M Series A co-led by DSC Investment and LB Investment
+---
+ID: TM-27
+Title: UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-28
+Title: Sources: data center operator Switch seeks a ~$2B funding round valuing it at ~$50B, including debt, led by a $400M investment from a16z, ahead of a 2027 IPO
+---
+ID: TM-29
+Title: Amazon's emissions rose 16% YoY in 2025, driven by data center construction and delivery fuel, while Google's “ambition-based” emissions jumped 18% YoY in 2025
+---
+ID: TM-30
+Title: SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by around 2030
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-31
+Title: X launches Live Studio, an updated livestreaming hub within Creator Studio with a simplified desktop setup, chat control options, thumbnail uploads, and more
+---
+ID: TM-32
+Title: A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-33
+Title: India-based short video app ShareChat's parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M monthly micro-drama viewers
+---
+ID: TM-34
+Title: Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-35
+Title: Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China
+---
+ID: TM-36
+Title: Amazon says Leo now has 396 satellites in low-Earth orbit, following a July 1 launch, which is “enough to support continuous service across initial latitudes”
+---
+ID: TM-37
+Title: Nansen: about two-thirds of Trump's memecoin investors are currently in the red, and 85% of World Liberty's $WLFI buyers on the secondary market are underwater
+---
+ID: TM-38
+Title: Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5,000+ startups
+---
+ID: TM-39
+Title: The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks
+---
+ID: TM-40
+Title: Indian IT company Persistent Systems offers to acquire its Germany-based peer Nagarro for $1.45B; Indian IT companies are ramping up M&A as AI reshapes growth
+---
+ID: TM-41
+Title: Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs
+---
+ID: TM-42
+Title: A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world's largest single-stock leveraged ETF
+---
+ID: TM-43
+Title: Spotify removed 500K+ streams of Malcolm Todd's Earrings after a 70% surge in 24 hours sent it to #1 on Spotify USA and coincided with suspicious Kalshi wagers
+---
+ID: TM-44
+Title: An interview with Amazon SVP of Devices Panos Panay on designing custom chips for Echo and Fire TV devices, experimenting with AI-enabled gadgets, and more
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Google might be testing Gemini Flash upgrade on LM Arena (2 minute read)
+Excerpt: Google is testing a new Gemini Flash upgrade on LM Arena, reportedly offering incremental improvements over the current Flash version. Despite no official confirmation, past Arena tests have often preceded public launches, drawing attention to potential new labels like "Gemini 3.6 Flash" or "Gemini 4 Flash." The Flash tier attracts interest due to its importance for everyday users and cost-conscious developers, handling most free and pay-as-you-go traffic faster than pricier Pro models.
+---
+ID: TL-02
+Title: Meta Is Planning a Cloud Business to Sell AI Computing Power (3 minute read)
+Excerpt: Meta Platforms is developing an internal cloud infrastructure initiative to sell access to its surplus AI computing power and hosted models to external developers. This strategic pivot aims to generate a new revenue stream from the company's massive multi-billion-dollar investments in data centers and chips, directly challenging dominant hyperscalers like Amazon Web Services, Microsoft Azure, and Google Cloud.
+---
+ID: TL-03
+Title: Continual Harness: An Efficient Self-Improving Agent on ARC-AGI-3 (3 minute read)
+Excerpt: The ARC-AGI-3 benchmark tests agents' ability to form and update an internal world model through ongoing learning. Continual Harness aims to efficiently enhance agents' self-improvement capabilities on this challenging IQ test.
+---
+ID: TL-04
+Title: The Winning Essays for the Big Questions About AI (23 minute read)
+Excerpt: Dwarkesh Patel posted some big questions about AI a couple of months ago and received 600 essay submissions for the contest. The three winners of the competition were Jassi Pannu, an Assistant Professor at Johns Hopkins University; Ege Erdil, the co-founder of Mechanize; and Michael Li, a Master of Public Policy candidate at Harvard Kennedy School. The full essays are available in the post.
+---
+ID: TL-05
+Title: Autoresearch: The feedback loop behind self-improving agents (11 minute read)
+Excerpt: Autoresearch involves building an 'outer loop' where agents help maintain and improve the primary system using feedback signals, evals, and human input to make progress over time. One of the startups building infrastructure for these self-improving systems is Introspection. This post features an interview with Introspection's co-founder and CEO, Roland Gavrilescu. The discussion covers the shift from agent harnesses to feedback loops, the role of the open-source Pi framework, and why autonomous software factories must first learn from humans.
+---
+ID: TL-06
+Title: PorTAL: Portable Task Adapters for LLMs (3 minute read)
+Excerpt: PorTAL is an innovative architecture designed to decouple task fine-tuning from specific base model weights. As the accelerating cadence of foundation model releases creates a compounding financial and engineering burden to re-tune capabilities from scratch, PorTAL offers a way to pay for task adaptation once and amortize it across all future models.
+---
+ID: TL-07
+Title: ZCode (1 minute read)
+Excerpt: ZCode is now available on macOS, Windows, and Linux. It combines the best AI agents with existing tools so developers can plan, code, review, and deploy without friction. GLM-5.2 is tuned for ZCode, making agentic coding faster and steadier. GLM Coding Plan subscribers now have 1.5x usage quota in ZCode.
+---
+ID: TL-08
+Title: Learning to Replicate Expert Judgment in Financial Tasks (14 minute read)
+Excerpt: Frontier models struggle with relatively simple financial tasks. Custom models fine-tuned on high-quality proprietary datasets labeled by expert investors perform better. They are also substantially cheaper. Models of the future will probably feature differentiated intelligence - organizations will have custom models tuned to their specific needs that outperform frontier models.
+---
+ID: TL-09
+Title: TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)
+Excerpt: Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!
+---
+ID: TL-10
+Title: A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment (4 minute read)
+Excerpt: A joint study by Ramp and Revelio Labs analyzed the relationship between firm-level generative AI investments and employment outcomes across over 21,000 companies in the US. The research reveals that companies with high-intensity AI spending grew their overall headcount by 10.2 percent and entry-level positions by 12 percent over the two years following adoption.
+---
+ID: TL-11
+Title: Redeploying Fable 5 (18 minute read)
+Excerpt: Claude Fable 5 and Mythos 5 have been redeployed. Fable 5 will be included for up to 50% of weekly usage limits until July 7, after which it will be available via usage credits. Mythos 5 has been restored for some organizations in the US. Anthropic is continuing to coordinate with the US government to expand Mythos access to the broader set of domestic and international partners in the Glasswing program.
+---
+ID: TL-12
+Title: Product Shape is the Moat (3 minute read)
+Excerpt: Application layer AI companies cannot build sustainable moats against model providers through simple technical adjustments like fine tuning or model routing.
+---
+ID: TL-13
+Title: OpenAI proposes 5% stake to Trump administration to ease Washington pressure (5 minute read)
+Excerpt: The proposal is part of a larger arrangement under which the US government would hold 5% of each of the leading US AI developers through a sovereign wealth fund vehicle.
+---
+ID: TL-14
+Title: How OpenAI Delivers Low-Latency Voice AI for 900M Users (17 minute read)
+Excerpt: This article looks at how OpenAI uses WebRTC to run voice for its 900 million users.
+---

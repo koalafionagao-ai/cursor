@@ -1,0 +1,631 @@
+{
+  "date": "2026-07-02",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 23,
+    "by_category": {
+      "cat:business": 12,
+      "cat:tech": 3,
+      "cat:app": 3,
+      "cat:other": 3,
+      "cat:model": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.geekwire.com/2026/microsoft-announces-2-5b-frontier-company-to-embed-ai-engineers-inside-customers/",
+      "title": {
+        "zh": "微软投资25亿美元成立Microsoft Frontier Company，部署6000名工程师协助客户实施AI系统",
+        "en": "Microsoft invests $2.5B and forms the Microsoft Frontier Company to embed 6,000 forward-deployed engineers with customers to help deploy AI systems"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+      "title": {
+        "zh": "消息称Anthropic正在开发定制AI服务器芯片，并与三星进行初步制造讨论",
+        "en": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "chip"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues",
+      "title": {
+        "zh": "Nvidia承诺支持新兴云服务商，通过租回未使用的GPU换取收入分成",
+        "en": "Nvidia promises to financially backstop young cloud providers, like Firmus and Sharon AI, by renting back unused GPUs, in exchange for a share of their revenues"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "gpu",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "gpu",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "title": {
+        "zh": "Z.ai推出ZCode，为其GLM-5.2模型量身打造的“智能代理开发环境”",
+        "en": "Z.ai launches ZCode, an “Agentic Development Environment” purpose-built for its GLM-5.2 model; Z.ai's GLM Coding Plan tiers range from $16.20 to $144 per month"
+      },
+      "summary": {
+        "zh": "Z.ai的GLM编码计划分层价格从16.20美元到144美元每月不等。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/microsoft-memo-details-ai-app-overhaul-earn-right-exist",
+      "title": {
+        "zh": "微软将合并消费者和企业版Copilot聊天机器人，推出包含编码工具和AI代理的AutoPilot应用",
+        "en": "Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring coding tools and AI agents dubbed AutoPilot"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "microsoft",
+        "copilot",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "copilot",
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+      "title": {
+        "zh": "消息称ElevenLabs计划进行员工股份二级出售，估值或达220亿美元",
+        "en": "Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February"
+      },
+      "summary": {
+        "zh": "该公司在今年2月的估值为110亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca?accessToken=zwAAAZ8jqdiQkc8MLhB39lhLPdOQQGAmFclhyg.MEUCIQDTUiIL0UYEaoE25S4euqGkhgOMxJn4r27SftiGoI39NQIgM8b4a3IiQ8df8aq_EQ7mIljhjCUr7FFPC0kYZkxEgcU&sharetype=gift&token=2b1a04f5-7679-4c10-a83a-d4de72e18f47",
+      "title": {
+        "zh": "Sam Altman提议建立“由美国主导的国际论坛”以制定AI标准",
+        "en": "Sam Altman proposes a “US-led international forum” to establish AI standards, provide analysis of capabilities and risks, and make AI models available to allies"
+      },
+      "summary": {
+        "zh": "该论坛将分析AI能力与风险，并向盟友提供AI模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "sam-altman",
+        "policy",
+        "regulation",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "sam-altman",
+        "policy",
+        "regulation",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+      "title": {
+        "zh": "消息称Crusoe正在进行约30亿美元的融资谈判，估值或达300亿美元",
+        "en": "Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October"
+      },
+      "summary": {
+        "zh": "该公司在10月的估值约为100亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+      "title": {
+        "zh": "快手AI视频生成子公司Kling AI完成20亿美元融资，估值达150亿美元",
+        "en": "Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B"
+      },
+      "summary": {
+        "zh": "融资轮可能扩展至30亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "video-gen",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "video-gen",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.finsmes.com/2026/07/carbonsix-raises-40m-in-series-a-funding.html",
+      "title": {
+        "zh": "CarbonSix完成4000万美元A轮融资，专注于制造业AI自动化与机器人智能技术",
+        "en": "CarbonSix, which is developing AI automation and robotic intelligence tech for manufacturing, raised a $40M Series A co-led by DSC Investment and LB Investment"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "robotics",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "robotics",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://tech.eu/2026/07/02/stirlingx-secures-20m-series-a-to-expand-sovereign-intelligence-platform/",
+      "title": {
+        "zh": "英国StirlingX完成2000万美元A轮融资，专注国防和关键基础设施数据智能系统",
+        "en": "UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity",
+      "title": {
+        "zh": "软银及其电信子公司推出SB Neo，计划提供AI芯片和云服务",
+        "en": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by around 2030"
+      },
+      "summary": {
+        "zh": "目标到2030年在美国提供10GW容量。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "softbank",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "softbank",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "title": {
+        "zh": "2026年上半年全球风投融资达5100亿美元，OpenAI和Anthropic占43%",
+        "en": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5,000+ startups"
+      },
+      "summary": {
+        "zh": "第二季度，风投向5000多家初创公司投资了2050亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "anthropic",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/business/technology/indian-it-firms-ramp-up-acquisitions-as-ai-reshapes-growth",
+      "title": {
+        "zh": "印度Persistent Systems拟14.5亿美元收购德国Nagarro",
+        "en": "Indian IT company Persistent Systems offers to acquire its Germany-based peer Nagarro for $1.45B; Indian IT companies are ramping up M&A as AI reshapes growth"
+      },
+      "summary": {
+        "zh": "印度IT公司加速并购，以应对AI驱动的增长变革。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mjk3MTY0NiwiZXhwIjoxNzgzNTc2NDQ2LCJhcnRpY2xlSWQiOiJUSEVOTzNUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.JdV2iInClRiKWZeNwiRnBwLP9ejcOSYmI1fPZwd0AuA&utm_source=tldrai",
+      "title": {
+        "zh": "Meta计划推出云业务，向外部开发者出售AI计算能力",
+        "en": "Meta Is Planning a Cloud Business to Sell AI Computing Power (3 minute read)"
+      },
+      "summary": {
+        "zh": "此举旨在通过数据中心和芯片投资开辟新收入来源，挑战AWS、Azure和Google Cloud。",
+        "en": "Meta Platforms is developing an internal cloud infrastructure initiative to sell access to its surplus AI computing power and hosted models to external developers. This strategic pivot aims to generate a new revenue stream from the company's massive multi-billion-dollar investments in data centers and chips, directly challenging dominant hyperscalers like Amazon Web Services, Microsoft Azure, and Google Cloud."
+      },
+      "tags": [
+        "cat:business",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://x.com/sethkarten/status/2072034978112889328?utm_source=tldrai",
+      "title": {
+        "zh": "Continual Harness：提升ARC-AGI-3基准测试中智能体的自我改进能力",
+        "en": "Continual Harness: An Efficient Self-Improving Agent on ARC-AGI-3 (3 minute read)"
+      },
+      "summary": {
+        "zh": "",
+        "en": "The ARC-AGI-3 benchmark tests agents' ability to form and update an internal world model through ongoing learning. Continual Harness aims to efficiently enhance agents' self-improvement capabilities on this challenging IQ test."
+      },
+      "tags": [
+        "cat:model",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.latent.space/p/autoresearch-introspection?utm_source=tldrai",
+      "title": {
+        "zh": "Autoresearch：基于反馈循环的自我改进智能体",
+        "en": "Autoresearch: The feedback loop behind self-improving agents (11 minute read)"
+      },
+      "summary": {
+        "zh": "探讨了从智能体工具到反馈循环的转变，以及开源Pi框架的作用。",
+        "en": "Autoresearch involves building an 'outer loop' where agents help maintain and improve the primary system using feedback signals, evals, and human input to make progress over time. One of the startups building infrastructure for these self-improving systems is Introspection. This post features an interview with Introspection's co-founder and CEO, Roland Gavrilescu. The discussion covers the shift from agent harnesses to feedback loops, the role of the open-source Pi framework, and why autonomous software factories must first learn from humans."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "open-source"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/RampLabs/status/2072381992285647280?utm_source=tldrai",
+      "title": {
+        "zh": "PorTAL：为LLM设计的便携任务适配器",
+        "en": "PorTAL: Portable Task Adapters for LLMs (3 minute read)"
+      },
+      "summary": {
+        "zh": "PorTAL通过解耦任务微调与基础模型权重，降低了模型更新的财务和工程成本。",
+        "en": "PorTAL is an innovative architecture designed to decouple task fine-tuning from specific base model weights. As the accelerating cadence of foundation model releases creates a compounding financial and engineering burden to re-tune capabilities from scratch, PorTAL offers a way to pay for task adaptation once and amortize it across all future models."
+      },
+      "tags": [
+        "cat:tech",
+        "fine-tuning",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "fine-tuning",
+        "open-source"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://x.com/Zai_org/status/2072349453361557898?utm_source=tldrai",
+      "title": {
+        "zh": "ZCode现已支持macOS、Windows和Linux",
+        "en": "ZCode (1 minute read)"
+      },
+      "summary": {
+        "zh": "结合AI智能体与现有工具，提升开发者的编码效率。",
+        "en": "ZCode is now available on macOS, Windows, and Linux. It combines the best AI agents with existing tools so developers can plan, code, review, and deploy without friction. GLM-5.2 is tuned for ZCode, making agentic coding faster and steadier. GLM Coding Plan subscribers now have 1.5x usage quota in ZCode."
+      },
+      "tags": [
+        "cat:app",
+        "coding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "coding",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/?utm_source=tldrai",
+      "title": {
+        "zh": "在金融任务中学习复制专家判断",
+        "en": "Learning to Replicate Expert Judgment in Financial Tasks (14 minute read)"
+      },
+      "summary": {
+        "zh": "定制模型在高质量专有数据集上微调后表现优于前沿模型，且成本更低。",
+        "en": "Frontier models struggle with relatively simple financial tasks. Custom models fine-tuned on high-quality proprietary datasets labeled by expert investors perform better. They are also substantially cheaper. Models of the future will probably feature differentiated intelligence - organizations will have custom models tuned to their specific needs that outperform frontier models."
+      },
+      "tags": [
+        "cat:model",
+        "fine-tuning",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "fine-tuning",
+        "enterprise"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://ramp.com/data/ai-jobs-impact?utm_source=tldrai",
+      "title": {
+        "zh": "AI 对就业影响的新视角：企业级 AI 投资与劳动力调整",
+        "en": "A New Look at AI's Impact on Jobs: Firm-Level AI Spending and Workforce Adjustment (4 minute read)"
+      },
+      "summary": {
+        "zh": "Ramp 和 Revelio Labs 的联合研究分析了企业级生成式 AI 投资与美国 21,000 多家公司就业结果之间的关系。研究显示，高强度 AI 投资的公司在采用后两年内整体员工人数增长了 10.2%，入门级职位增长了 12%。",
+        "en": "A joint study by Ramp and Revelio Labs analyzed the relationship between firm-level generative AI investments and employment outcomes across over 21,000 companies in the US. The research reveals that companies with high-intensity AI spending grew their overall headcount by 10.2 percent and entry-level positions by 12 percent over the two years following adoption."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://x.com/scottastevenson/status/2072336746327458178?utm_source=tldrai",
+      "title": {
+        "zh": "产品形态是护城河",
+        "en": "Product Shape is the Moat (3 minute read)"
+      },
+      "summary": {
+        "zh": "应用层 AI 公司无法通过简单的技术调整（如微调或模型路由）对模型提供商建立可持续的护城河。",
+        "en": "Application layer AI companies cannot build sustainable moats against model providers through simple technical adjustments like fine tuning or model routing."
+      },
+      "tags": [
+        "cat:other",
+        "fine-tuning",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "fine-tuning",
+        "open-source"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI 提议向特朗普政府提供 5% 股权以缓解华盛顿压力",
+        "en": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure (5 minute read)"
+      },
+      "summary": {
+        "zh": "该提议是更大安排的一部分，根据该安排，美国政府将通过主权财富基金工具持有每家领先美国 AI 开发商 5% 的股份。",
+        "en": "The proposal is part of a larger arrangement under which the US government would hold 5% of each of the leading US AI developers through a sovereign wealth fund vehicle."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:business"
+    }
+  ]
+}
