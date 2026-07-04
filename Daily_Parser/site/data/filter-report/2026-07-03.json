@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-03",
+  "threshold": 7.0,
+  "total": 29,
+  "kept": 13,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 6.0,
+      "keep": false,
+      "reason": "阿里巴巴内部禁止使用Claude模型，涉及安全问题，具有一定行业影响。"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta的Watermelon模型与GPT-5.5相匹配，表明其在AI领域的竞争力。"
+    },
+    {
+      "id": "TM-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta可能利用其计算能力进行多项战略布局，值得关注。"
+    },
+    {
+      "id": "TM-04",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI关系不大，涉及不当内容的报道。"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "对AI监管的观点讨论，信息量有限。"
+    },
+    {
+      "id": "TM-06",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及法律问题的报道。"
+    },
+    {
+      "id": "TM-07",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及数据泄露的报道。"
+    },
+    {
+      "id": "TM-08",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，回顾BitTorrent的历史。"
+    },
+    {
+      "id": "TM-09",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及法律调查的报道。"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于芯片价格和供应的警告，可能影响AI硬件市场。"
+    },
+    {
+      "id": "TM-11",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及数据中心建设的报道。"
+    },
+    {
+      "id": "TM-12",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及商业关系的报道。"
+    },
+    {
+      "id": "TM-13",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，涉及投资的报道。"
+    },
+    {
+      "id": "TM-14",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国量化基金的增长与AI采用相关，值得关注。"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic准备IPO，涉及重要的行业动态。"
+    },
+    {
+      "id": "TL-01",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic与三星讨论芯片合作，可能影响其计算能力。"
+    },
+    {
+      "id": "TL-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta的Watermelon模型在基准测试中表现突出，显示其技术进步。"
+    },
+    {
+      "id": "TL-03",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于SGLang开发的文章，提供了技术洞察。"
+    },
+    {
+      "id": "TL-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "探讨自动研究的应用，具有一定的技术价值。"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Seed2.0模型卡提供了关于复杂任务的评估方法，值得关注。"
+    },
+    {
+      "id": "TL-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "残余上下文扩散语言模型的研究，可能推动模型性能提升。"
+    },
+    {
+      "id": "TL-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Laguna XS 2.1模型的发布，展示了在特定任务上的显著改进。"
+    },
+    {
+      "id": "TL-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Devin Security Swarm提供了新的安全漏洞检测方法，具有实用价值。"
+    },
+    {
+      "id": "TL-09",
+      "score": 0.0,
+      "keep": false,
+      "reason": "招聘信息，与AI无关。"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Woodside Energy利用AI提升工业效率，展示了AI在实际应用中的潜力。"
+    },
+    {
+      "id": "TL-11",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AI硬件的重大进展，标志着行业的关键转变。"
+    },
+    {
+      "id": "TL-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于CursorBench的常规更新，信息量有限。"
+    },
+    {
+      "id": "TL-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "测试AI系统的新挑战，具有一定的信息量。"
+    },
+    {
+      "id": "TL-14",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Claude Enterprise的新功能更新，提供了管理使用和成本的洞察。"
+    }
+  ]
+}

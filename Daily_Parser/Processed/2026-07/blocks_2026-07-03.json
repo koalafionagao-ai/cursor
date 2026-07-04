@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-03",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Sources: Alibaba banned Claude Code internally and asked its employees to remove all Claude models from their work computers due to Anthropic security concerns",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/alibaba-bans-employees-using-claude",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Sources: Alexandr Wang said Meta's model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an “order of magnitude more compute than Avocado”",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal",
+      "excerpt": "",
+      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be?triedRedirect=true",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Instagram has been running ads promoting child sexual abuse material in India, with terms like “rape video” and “child video” and linking to Telegram channels",
+      "excerpt": "",
+      "url": "https://www.bbc.com/news/articles/cvgm4e0316zo",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "An interview with Sriram Krishnan, who says “there will not be an FDA for AI” under Trump, blames the AI backlash on the industry's “doomer” messaging, and more",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Filing: GoDaddy challenges a New Delhi court ruling requiring domain sellers to stop offering privacy by default, saying it could expose website owners globally",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/worlds-biggest-domain-seller-fears-indias-fake-site-crackdown-could-damage-2026-07-03/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "India's IT secretary said the country is investigating a data breach at Apple supplier Tata, which exposed files that included photos of iPhone 18 Pro models",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/india/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets-2026-07-03/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "A look back at BitTorrent, launched by Bram Cohen 25 years ago, and how media piracy fueled its growth while its architecture shielded it from legal liability",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Texas Attorney General Ken Paxton opens an investigation into StubHub following complaints of last-minute ticket cancellations for FIFA World Cup 2026 matches",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/stubhub-probed-by-texas-over-fifa-world-cup-ticket-cancellations",
+      "section": "more news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Letter to Scott Bessent: chip group SEMI, which includes Micron and Samsung, warns that US intervention in chip pricing or capacity would worsen chip shortages",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market",
+      "section": "more news"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Blackstone's QTS abandons plans to build its portion of a 2,100-acre data center campus in Virginia, after years of organized opposition and legal challenges",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/blackstone-s-qts-abandons-massive-data-center-in-virginia",
+      "section": "more news"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "How Jeff Bezos' changing relationship with President Trump has helped Amazon and Blue Origin, such as more federal contracts awarded during Trump's second term",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/jeff-bezos-donald-trump-relationship-7e6a742e?st=SHNRtW&reflink=article_copyURL_share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Pitch document: Chris Larsen, Palmer Luckey, and others invested undisclosed amounts in APEC, a derivatives exchange founded by Senator Kirsten Gillibrand's son",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/07/02/gillibrand-son-crypto-fund-investors-00985811",
+      "section": "more news"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders",
+      "section": "more news"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Sources: Anthropic's bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google's acquisition of Wiz and ServiceNow's Armis deal",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/freshfields-anthropic-win-squeeze-lime-returns",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Anthropic Exploring a Samsung Chip Partnership (2 minute read)",
+      "excerpt": "Anthropic reportedly discussed a custom AI chip collaboration with Samsung as it looked to diversify its compute stack. The company said chips from Google, Amazon, and Nvidia remained central to its hardware strategy.",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Meta's Watermelon Matches GPT-5.5 Benchmarks (3 minute read)",
+      "excerpt": "Meta's superintelligence chief, Alexandr Wang, says that the company's upcoming model has caught up with OpenAI's GPT-5.5 on closely followed AI benchmarks. Codenamed Watermelon, the model is still in training. The model reportedly uses an order of magnitude more compute than Muse Spark. Meta has not given a timeline for Watermelon.",
+      "url": "https://letsdatascience.com/news/metas-watermelon-matches-gpt-55-benchmarks-76a9460e?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Agent-Assisted SGLang Development (18 minute read)",
+      "excerpt": "The SGLang team outlined how agent workflows are being turned into reusable SKILL.md files, benchmark contracts, review loops, and production debugging playbooks. The post frames agent value around procedural engineering knowledge that can be executed, tested, and reviewed.",
+      "url": "https://www.lmsys.org/blog/2026-07-02-agent-assisted-sglang-development?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Autoresearch, Claude, and Constrained Optimization (13 minute read)",
+      "excerpt": "Many folks claim to be able to use AI to do the work of dozens of people. This researcher used autoresearch to work on a problem where the path from unknown to success is a clear, gradient optimization. The researcher found the auto-research/loop style of work makes sense for problems with a robust, measurable, and well-constrained metric to optimize. However, finding a problem with these factors is often tricky.",
+      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Seed2.0 Model Card (72 minute read)",
+      "excerpt": "Seed2.0 focused on long-tail knowledge, complex instruction following, reasoning, visual understanding, and search for real-world tasks. The model card described an evaluation-driven approach built around user needs and complex usage scenarios.",
+      "url": "https://arxiv.org/abs/2607.00248?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Residual Context Diffusion Language Models (2 minute read)",
+      "excerpt": "State-of-the-art block-wise Diffusion Large Language Models (dLLMs) rely on a remasking mechanism that decodes only the most confident tokens and discards the rest. Recycling computation from the discarded tokens is beneficial, as these tokens retain contextual information useful for subsequent decoding iterations. Residual Context Diffusion is a module that converts these discarded token representations into contextual residuals and injects them back for the next denoising step. It consistently improves frontier dLLMs in terms of accuracy with minimal extra computation overhead across a wide range of benchmarks.",
+      "url": "https://machinelearning.apple.com/research/residual-context-diffusion?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Introducing Laguna XS 2.1 (5 minute read)",
+      "excerpt": "Laguna XS 2.1 is a 33B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, showing a 5.4-point improvement on SWE-bench Multilingual to 63.1%. It supports various platforms and offers three quantized checkpoints for resource-efficient deployment. Licensed under OpenMDW-1.1, it enables open model distribution and is available for download on Hugging Face or via API.",
+      "url": "https://poolside.ai/blog/introducing-laguna-xs-2-1?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Introducing Devin Security Swarm (3 minute read)",
+      "excerpt": "Devin Security Swarm is a cost-effective and accurate way to find security vulnerabilities in complex codebases. It uses a new architecture for whole-codebase reasoning called Agentic MapReduce. Devin maps relevant signals across a repository, fans out focused agents over bounded shards, reduces their findings to one report, then verifies serious vulnerabilities in isolated sandboxes before marking them confirmed. Cognition has published extensive documentation and technical materials about Agentic MapReduce.",
+      "url": "https://threadreaderapp.com/thread/2072368168182432109.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)",
+      "excerpt": "Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!",
+      "url": "mailto:ai@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Teaching AI to run with the turbines (22 minute read)",
+      "excerpt": "Woodside Energy leverages AI to enhance operational efficiency by integrating agentic AI systems in complex industrial workflows, particularly in LNG plant startups through their \"Startup Advisor\". These AI tools, built upon years of investment in predictive analytics and machine learning, augment human expertise rather than replace it.",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "The Hardware Coup: Why AI Hardware Just Changed Forever (3 minute read)",
+      "excerpt": "In late June, AI hardware saw massive advancements with custom chips transitioning from concepts to actual products. OpenAI, Etched, Amazon, and SambaNova led these significant developments, marking a pivotal shift in the industry. These innovations promise to enhance AI processing capabilities and efficiency.",
+      "url": "https://x.com/ai/status/2072658811823763479?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "CursorBench 3.1 (2 minute read)",
+      "excerpt": "CursorBench evaluates agents on ambiguous, multi-file tasks from real Cursor sessions.",
+      "url": "https://cursor.com/evals?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "The Ramanujan Challenge for AI (1 minute read)",
+      "excerpt": "The Ramanujan Challenge for AI is designed to test whether AI systems can move from a concrete formula to a valid proof or symbolic derivation.",
+      "url": "https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "New analytics and cost controls are available for Claude Enterprise (3 minute read)",
+      "excerpt": "Claude Enterprise introduces enhanced admin analytics, model-level entitlements, and spend alerts to better manage usage and costs.",
+      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

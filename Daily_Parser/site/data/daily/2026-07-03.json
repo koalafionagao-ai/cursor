@@ -1,0 +1,352 @@
+{
+  "date": "2026-07-03",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 13,
+    "by_category": {
+      "cat:model": 4,
+      "cat:business": 4,
+      "cat:tech": 3,
+      "cat:app": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
+      "title": {
+        "zh": "Meta的Watermelon模型性能接近GPT-5.5",
+        "en": "Sources: Alexandr Wang said Meta's model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an “order of magnitude more compute than Avocado”"
+      },
+      "summary": {
+        "zh": "Alexandr Wang透露，Meta正在训练的代号为Watermelon的模型性能接近GPT-5.5，并使用了比Avocado多一个数量级的计算资源。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be?triedRedirect=true",
+      "title": {
+        "zh": "Meta可能将计算资源用于自有模型、广告扩展等",
+        "en": "Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal"
+      },
+      "summary": {
+        "zh": "Meta可能将计算资源用于自有模型、广告扩展、类似SpaceX的云服务交易以及托管第三方模型，并可能接近与Anthropic达成合作。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders",
+      "title": {
+        "zh": "中国量化基金热潮：资产管理规模一年内翻倍",
+        "en": "A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption"
+      },
+      "summary": {
+        "zh": "随着AI的快速普及，中国量化基金的资产管理规模在不到一年内翻倍，达到约3840亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "api"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "api"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/freshfields-anthropic-win-squeeze-lime-returns",
+      "title": {
+        "zh": "Anthropic聘请英国律师事务所为IPO提供咨询",
+        "en": "Sources: Anthropic's bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google's acquisition of Wiz and ServiceNow's Armis deal"
+      },
+      "summary": {
+        "zh": "消息称，Anthropic的银行家已聘请英国律师事务所Freshfields为其IPO提供咨询，该事务所曾为谷歌收购Wiz和ServiceNow收购Armis提供法律服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "ipo"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic探索与三星的芯片合作",
+        "en": "Anthropic Exploring a Samsung Chip Partnership (2 minute read)"
+      },
+      "summary": {
+        "zh": "据报道，Anthropic正在与三星讨论定制AI芯片的合作，以实现计算堆栈的多样化，同时仍将谷歌、亚马逊和Nvidia的芯片作为其硬件战略的核心。",
+        "en": "Anthropic reportedly discussed a custom AI chip collaboration with Samsung as it looked to diversify its compute stack. The company said chips from Google, Amazon, and Nvidia remained central to its hardware strategy."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "samsung",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "samsung",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://letsdatascience.com/news/metas-watermelon-matches-gpt-55-benchmarks-76a9460e?utm_source=tldrai",
+      "title": {
+        "zh": "Meta的Watermelon模型性能达到GPT-5.5基准",
+        "en": "Meta's Watermelon Matches GPT-5.5 Benchmarks (3 minute read)"
+      },
+      "summary": {
+        "zh": "Meta的超智能负责人Alexandr Wang表示，公司即将推出的代号为Watermelon的模型在AI基准测试中已赶上OpenAI的GPT-5.5。该模型仍在训练中，使用的计算资源比Muse Spark多一个数量级。",
+        "en": "Meta's superintelligence chief, Alexandr Wang, says that the company's upcoming model has caught up with OpenAI's GPT-5.5 on closely followed AI benchmarks. Codenamed Watermelon, the model is still in training. The model reportedly uses an order of magnitude more compute than Muse Spark. Meta has not given a timeline for Watermelon."
+      },
+      "tags": [
+        "cat:model",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://arxiv.org/abs/2607.00248?utm_source=tldrai",
+      "title": {
+        "zh": "Seed2.0模型卡发布",
+        "en": "Seed2.0 Model Card (72 minute read)"
+      },
+      "summary": {
+        "zh": "Seed2.0专注于长尾知识、复杂指令执行、推理、视觉理解和现实任务的搜索，采用以用户需求和复杂使用场景为中心的评估驱动方法。",
+        "en": "Seed2.0 focused on long-tail knowledge, complex instruction following, reasoning, visual understanding, and search for real-world tasks. The model card described an evaluation-driven approach built around user needs and complex usage scenarios."
+      },
+      "tags": [
+        "cat:model",
+        "reasoning",
+        "search"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "reasoning",
+        "search"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://machinelearning.apple.com/research/residual-context-diffusion?utm_source=tldrai",
+      "title": {
+        "zh": "残差上下文扩散语言模型提升dLLM性能",
+        "en": "Residual Context Diffusion Language Models (2 minute read)"
+      },
+      "summary": {
+        "zh": "残差上下文扩散模块通过回收被丢弃的标记表示，将其转化为上下文残差并注入下一步去噪过程，在多个基准测试中以最小的额外计算开销显著提升了dLLM的准确性。",
+        "en": "State-of-the-art block-wise Diffusion Large Language Models (dLLMs) rely on a remasking mechanism that decodes only the most confident tokens and discards the rest. Recycling computation from the discarded tokens is beneficial, as these tokens retain contextual information useful for subsequent decoding iterations. Residual Context Diffusion is a module that converts these discarded token representations into contextual residuals and injects them back for the next denoising step. It consistently improves frontier dLLMs in terms of accuracy with minimal extra computation overhead across a wide range of benchmarks."
+      },
+      "tags": [
+        "cat:tech",
+        "benchmark",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "benchmark",
+        "coding"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://poolside.ai/blog/introducing-laguna-xs-2-1?utm_source=tldrai",
+      "title": {
+        "zh": "Laguna XS 2.1模型发布",
+        "en": "Introducing Laguna XS 2.1 (5 minute read)"
+      },
+      "summary": {
+        "zh": "Laguna XS 2.1是一个33B参数的专家混合模型，优化用于代理编码和长周期任务，在SWE-bench多语言测试中提高了5.4分，支持多种平台并提供三种量化检查点。",
+        "en": "Laguna XS 2.1 is a 33B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, showing a 5.4-point improvement on SWE-bench Multilingual to 63.1%. It supports various platforms and offers three quantized checkpoints for resource-efficient deployment. Licensed under OpenMDW-1.1, it enables open model distribution and is available for download on Hugging Face or via API."
+      },
+      "tags": [
+        "cat:model",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://threadreaderapp.com/thread/2072368168182432109.html?utm_source=tldrai",
+      "title": {
+        "zh": "Devin Security Swarm：高效发现代码漏洞的新架构",
+        "en": "Introducing Devin Security Swarm (3 minute read)"
+      },
+      "summary": {
+        "zh": "Devin Security Swarm通过Agentic MapReduce架构以低成本高精度发现复杂代码库中的安全漏洞，并通过隔离沙箱验证严重漏洞后进行标记。",
+        "en": "Devin Security Swarm is a cost-effective and accurate way to find security vulnerabilities in complex codebases. It uses a new architecture for whole-codebase reasoning called Agentic MapReduce. Devin maps relevant signals across a repository, fans out focused agents over bounded shards, reduces their findings to one report, then verifies serious vulnerabilities in isolated sandboxes before marking them confirmed. Cognition has published extensive documentation and technical materials about Agentic MapReduce."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/?utm_source=tldrai",
+      "title": {
+        "zh": "Woodside Energy利用AI优化LNG工厂启动流程",
+        "en": "Teaching AI to run with the turbines (22 minute read)"
+      },
+      "summary": {
+        "zh": "Woodside Energy通过集成代理型AI系统提升复杂工业工作流程的效率，特别是在LNG工厂启动中使用“Startup Advisor”工具。这些AI工具基于多年的预测分析和机器学习投资，旨在增强人类专业能力而非取代。",
+        "en": "Woodside Energy leverages AI to enhance operational efficiency by integrating agentic AI systems in complex industrial workflows, particularly in LNG plant startups through their \"Startup Advisor\". These AI tools, built upon years of investment in predictive analytics and machine learning, augment human expertise rather than replace it."
+      },
+      "tags": [
+        "cat:app",
+        "agent",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "enterprise"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/ai/status/2072658811823763479?utm_source=tldrai",
+      "title": {
+        "zh": "AI硬件的革命性进展：定制芯片的崛起",
+        "en": "The Hardware Coup: Why AI Hardware Just Changed Forever (3 minute read)"
+      },
+      "summary": {
+        "zh": "AI硬件领域迎来重大突破，定制芯片从概念走向实际产品。OpenAI、Etched、Amazon和SambaNova引领了这一变革，显著提升了AI处理能力和效率。",
+        "en": "In late June, AI hardware saw massive advancements with custom chips transitioning from concepts to actual products. OpenAI, Etched, Amazon, and SambaNova led these significant developments, marking a pivotal shift in the industry. These innovations promise to enhance AI processing capabilities and efficiency."
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "chip",
+        "gpu"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chip",
+        "gpu"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-14",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Enterprise推出新分析与成本控制功能",
+        "en": "New analytics and cost controls are available for Claude Enterprise (3 minute read)"
+      },
+      "summary": {
+        "zh": "Claude Enterprise新增管理员分析、模型级权限和消费提醒功能，以更好地管理使用和成本。",
+        "en": "Claude Enterprise introduces enhanced admin analytics, model-level entitlements, and spend alerts to better manage usage and costs."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "enterprise"
+      ],
+      "category_tag": "cat:app"
+    }
+  ]
+}
