@@ -4,6 +4,7 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 
 | Brief date | Status | Published | Steps | Anomalies | Log |
 |------------|--------|-----------|-------|-----------|-----|
+| `2026-07-04` | warning | — | 6 | techmeme_fetcher: No Techmeme newsletter matched for target date; tldr_fetcher: No TLDR RSS entries matched for target date; merge_cleaner: skipped — Both Techmeme and TLDR sources empty; merge aborted; filter_scorer: skipped — Missing input file: blocks_2026-07-04.json; enrich: skipped — Missing blocks file for 2026-07-04; build_site_data: skipped — Missing processed_2026-07-04.json | [2026-07-04](2026-07/2026-07-04.md) |
 | `2026-07-03` | warning | 13 | 6 | filter_scorer: Only 13 items kept (expected >= 15 after enrich); enrich: Published 13 items (expected >= 15); build_site_data: Synced 13 items to site (expected >= 15); Low published volume: 13 items (expected >= 15) | [2026-07-03](2026-07/2026-07-03.md) |
 | `2026-07-02` | success | 23 | 6 | — | [2026-07-02](2026-07/2026-07-02.md) |
 | `2026-07-01` | success | 25 | 6 | — | [2026-07-01](2026-07/2026-07-01.md) |
@@ -31,4 +32,4 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 | `2026-06-09` | success | 25 | 6 | — | [2026-06-09](2026-06/2026-06-09.md) |
 | `2026-06-08` | success | 28 | 6 | — | [2026-06-08](2026-06/2026-06-08.md) |
 
-_Latest brief date: `2026-07-03`_
+_Latest brief date: `2026-07-04`_
