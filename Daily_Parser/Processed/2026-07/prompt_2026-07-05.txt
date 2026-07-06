@@ -1,0 +1,106 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Analysis: ~1M $TRUMP retail buyers lost a combined $3.81B, while ~500K mostly-early wallets captured $4B in gains, a textbook memecoin wealth transfer
+Tweets:
+  - Author: @kenvogel
+    Text: Nearly 1m people who bought Trump's memecoin have lost a total of $3.81b through the end of June. Trump, meanwhile, made $636m from the coin last year, because he collected returns whenever anyone traded it, as he repeatedly pushed his followers to do.
+    Link ID: TM-01-TW-01
+  - Author: @davidfrum
+    Text: When the Trump meme coin launched, I assumed that buyers were “in on the con,” that buyers were mostly laundering bribes to Trump. But no, it turns out Trump found and scammed many thousands of people sadly gullible enough to entrust savings to the planet's most notorious crook.
+    Link ID: TM-01-TW-02
+  - Author: @senblumenthal
+    Text: He profiteered from the Presidency—false pitches, foreign money, stifled enforcement, reduced regulation & more. He owes them, legally & morally.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement
+Tweets:
+  - Author: @josh_benadiva
+    Text: Anyone who gets this understands that this is a dystopian view into the future. We do a bunch of tasks to train AI... Until the AI becomes good enough to where it doesn't need us anymore to train it. Does this mean we were the mechanical Turks all along?
+    Link ID: TM-02-TW-01
+  - Author: @seanfenlon
+    Text: WOW end on an era :-O I can't even express in words how much Mechanical Turk captured my imagination of all things requiring human-only capability for automation in the early 2000s when it was released.  My best use case was paying Turks to type in high value keywords as domain names (e.g., cheapcarinsurance dot com) as fast as they could.  I would then register the top mis-spelled domains for free type in traffic 😎👍
+    Link ID: TM-02-TW-02
+  - Author: @jamesekaplan
+    Text: Amazon really blew an 18 yr lead on Mercor
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Official data shows Hong Kong accounted for 50%+ of China's $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago
+---
+ID: TM-04
+Title: India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days
+---
+ID: TM-05
+Title: Chainalysis: addresses linked to Iran, Russia, North Korea, and other US-sanctioned entities received $100B+ in crypto last year, almost 8x the amount in 2024
+---
+ID: TM-06
+Title: Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028
+---
+ID: TM-07
+Title: Source calls UK- and OpenAI-touted plans in 2025 for Stargate's ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms
+---
+ID: TM-08
+Title: Bending Spoons' Nasdaq IPO caps its 50+ deals across 10+ years that transformed the Italian startup into a highly leveraged internet company with ~$4.4B in debt
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum
+---
+ID: TM-10
+Title: How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting
+---
+ID: TM-11
+Title: ByteDance's Doubao and Alibaba's Qwen will disable humanlike and user-created agents before July 15, as China's anthropomorphic AI interaction rules take effect
+---
+ID: TM-12
+Title: Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement
+---
+ID: TM-13
+Title: A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs
+---
+ID: TM-14
+Title: Q&A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-15
+Title: A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al., who was awarded $6M in damages in a landmark LA jury trial over social media addiction
+---
+ID: TM-16
+Title: Indonesia's enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-17
+Title: Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A
+---
+ID: TM-18
+Title: Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M
+---
+ID: TM-19
+Title: NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures
+---
+ID: TM-20
+Title: Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-21
+Title: Sources: Uber halts plans to launch food delivery in five of the seven European countries it had targeted for expansion as it pursues a Delivery Hero takeover
+---
+ID: TM-22
+Title: Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays
+---
+ID: TM-23
+Title: Tesla rolls out its Robotaxi service without a safety monitor in Miami, its fifth city, as it aims to expand to a dozen US states by the end of 2026
+---
+ID: TM-24
+Title: A look at the troubled rollout of the EU's automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays
+---
+ID: TM-25
+Title: Data centers offer US a chance to get ahead in the next key technologies and to build domestic supply chains based on demand rather than subsidies and tariffs
+---

@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-05",
+  "threshold": 7.0,
+  "total": 25,
+  "kept": 11,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要讨论加密货币和财富转移"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AWS 机械土耳其服务的退役可能影响众多依赖该平台的开发者和企业"
+    },
+    {
+      "id": "TM-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于中国芯片进口的数据，信息量一般，未涉及 AI 相关内容"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要涉及版权和社交媒体监管"
+    },
+    {
+      "id": "TM-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及加密货币和制裁实体，信息量一般，未直接关联 AI"
+    },
+    {
+      "id": "TM-06",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Micron 的工厂扩张与 AI 需求直接相关，具有重要行业影响"
+    },
+    {
+      "id": "TM-07",
+      "score": 3.0,
+      "keep": false,
+      "reason": "主要讨论 PR 行动，未涉及 AI 相关内容"
+    },
+    {
+      "id": "TM-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 IPO 的常规报道，信息量一般，未涉及 AI 相关内容"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨高收入家庭如何利用 AI 教育，具有产品洞察价值"
+    },
+    {
+      "id": "TM-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "ByteDance 的视频生成器在好莱坞的进展，值得关注的应用更新"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国对人形 AI 的新规影响行业发展，值得关注"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 Midjourney 的诉讼，信息量一般，未直接关联 AI 发展"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨 LLM 的伦理挑战，具有一定的行业洞察价值"
+    },
+    {
+      "id": "TM-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "关于 Apple 硅芯片的 Q&A，涉及未来 AI 发展方向，值得关注"
+    },
+    {
+      "id": "TM-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要讨论社交媒体成瘾的法律案件"
+    },
+    {
+      "id": "TM-16",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要讨论社交媒体监管问题"
+    },
+    {
+      "id": "TM-17",
+      "score": 8.0,
+      "keep": true,
+      "reason": "dConstruct Robotics 的融资与 AI 相关，值得关注的技术更新"
+    },
+    {
+      "id": "TM-18",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 MEMS 芯片的融资，信息量一般，未直接关联 AI"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "LinqAlpha 的融资与 AI 市场研究工具相关，值得关注"
+    },
+    {
+      "id": "TM-20",
+      "score": 8.0,
+      "keep": true,
+      "reason": "EquiLibre 的融资与 AI 量化对冲基金相关，具有行业影响"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要讨论 Uber 的扩张计划"
+    },
+    {
+      "id": "TM-22",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 iPhone 折叠机型的常规报道，信息量一般，未涉及 AI 相关内容"
+    },
+    {
+      "id": "TM-23",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Tesla 无监控的 Robotaxi 服务推出，具有重大行业影响"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 EU 生物识别系统的常规报道，信息量一般，未涉及 AI 相关内容"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于数据中心的讨论，信息量一般，未直接关联 AI"
+    }
+  ]
+}
