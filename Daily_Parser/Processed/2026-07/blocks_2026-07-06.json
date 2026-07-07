@@ -1,0 +1,421 @@
+{
+  "date": "2026-07-06",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Microsoft's Xbox unit plans to cut 3,200 jobs over the next year, including 1,600 on Monday, and divest up to five studios, including Ninja Theory, in a “reset”",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzM0NDcyNSwiZXhwIjoxNzgzOTQ5NTI1LCJhcnRpY2xlSWQiOiJUSFI5TDNSS1YyVUIwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.GkKCpYChItTAK0DnHlnx9gDO4R_U7cjUu8jLzfs63dU",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Broadcom agrees to expand its Apple partnership through 2031 to develop and supply custom chips; in 2023, the companies announced a multibillion-dollar 5G deal",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/broadcom-apple-extend-chip-partnership-through-2031-2026-07-06/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "SK Hynix launches a US share sale on the Nasdaq to raise ~$28B, selling 17.79M new shares; the final listing price is due Thursday before trading starts Friday",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules",
+      "excerpt": "",
+      "url": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill",
+      "excerpt": "",
+      "url": "https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "xAI rebrands to SpaceXAI and debuts a new logo",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Doc: a draft US Treasury Department report is set to warn about the AI market's risks, likening key aspects to the dotcom bubble bursting in the early 2000s",
+      "excerpt": "",
+      "url": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Claude Opus 4.8 and Sonnet 5 seem worse at tool calling than older models, likely as post-training optimized them primarily for Claude Code-like environments",
+      "excerpt": "",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output",
+      "excerpt": "",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Tencent releases Hy3, a 295B-parameter model that it says is competitive with GLM-5.1 and 5.2, under the Apache 2.0 license, following a preview launch in April",
+      "excerpt": "",
+      "url": "https://venturebeat.com/ai/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren's stock is up nearly 150% since its January Hong Kong IPO",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/exclusive-mercor-hit-2-billion-gross-annualized-revenue",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "AI-driven drops in labor income and gains in capital income could hit Ireland's tax base, with 6%+ of its workforce in tech and heavy exposure to US companies",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Some US voters are using AI tools as nonpartisan researchers, seeing them as a viable alternative to traditional news coverage, voter guides, and social media",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html?unlocked_article_code=1.vFA.TTCt.7KuPI81ZZaDz&smid=url-share",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Reddit says its AI-powered content moderation systems caught 25K “spammy posts and comments” per day in Q1, reducing users' exposure to such content by 20% YoY",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "A look at Threads and an interview with Head of Threads Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with a community focus",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html?unlocked_article_code=1.vVA.W4vS.Tucz3-UC2QnY&smid=url-share",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Researchers document JadePuffer, the first known “agentic ransomware”, which adapts in real time by retrying steps to execute an end-to-end extortion operation",
+      "excerpt": "",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Filing: Strategy sold 3,588 bitcoin for ~$216M between June 29 and July 5 to replenish its USD reserve; its holdings have an $11.4B paper loss at current prices",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: the US considers housing the Strategic Bitcoin Reserve at Commerce instead of Treasury amid concerns over Treasury's legal authority to manage it",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "BonkDAO, which oversees the Bonk memecoin, says it was the target of a “malicious governance proposal” that resulted in a loss of $20M worth of Bonk tokens",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Ripple secures CASP authorization from Luxembourg's financial regulator, making it fully MiCA-compliant to offer crypto services across 30 EEA countries",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "An interview with Agility Robotics CEO Peggy Johnson on why the startup is going public via a SPAC, the physical layer as its core advantage, safety, and more",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "section": "robotics"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Nvidia, Neura Robotics, and others are building safety systems for humanoid robots to minimize risks, like the consequences of a bipedal robot losing stability",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123?st=GviKRc&reflink=desktopwebshare_permalink",
+      "section": "robotics"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/brookfield-s-data-center-firm-csquare-seeks-1-35-billion-in-ipo",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/semiconductor-software-company-syntiant-corp-files-us-ipo-2026-07-06/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Shenzhen-based Even Realities, which makes smart glasses without cameras, raised a $150M pre-Series B led by Meituan and Tencent",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/06/bespoke-labs-training-ai-agents",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/tencent-seeks-to-sell-up-to-1-6-billion-stake-in-kuaishou",
+      "section": "more news"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/softbank-altimeter-d1-invest-thrive-holdings-2-billion-financing",
+      "section": "more news"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question his strategy",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/advertising-technology-firm-criteo-attracts-vista-equity-backed-takeover-offer",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "A US federal judge orders the DOD to shield Alibaba from a law that caused its lobbyists to drop it as a client while she weighs the measure's constitutionality",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/alibaba-gets-reprieve-from-lobbying-ban-tied-to-pentagon-s-curbs",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "A profile of Samsung union leader Choi Seung-ho, who helped win a ~$26B bonus package for chip employees, as he tries to resolve the rift over bonus gaps",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-07-05/samsung-s-ai-bonus-deal-a-short-lived-victory-for-millennial-union-leader",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "ByteDance set to launch Seedance 2.5 with 3-minute AI video output (2 minute read)",
+      "excerpt": "ByteDance is rumored to be launching its Dreamina Seedance 2.5 model on July 9. Availability is expected across Dreamina, CapCut, and other ByteDance partner platforms. The new model can output 180-second-long videos, but it is unclear whether it can keep character identity, motion, camera logic, and prompt intent stable.",
+      "url": "https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Alibaba Reportedly Restricted Claude Code (1 minute read)",
+      "excerpt": "Alibaba reportedly planned to prohibit employee use of Claude Code from July 10 after classifying it as high-risk software. Employees were instead directed toward Alibaba's Qoder tool amid Anthropic's efforts to prevent unauthorized access and model distillation.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "OpenAI might be preparing GPT-5.6 for next week's release (2 minute read)",
+      "excerpt": "OpenAI has moved GPT-5.6 into a narrow preview, splitting it into three tiers: Sol, Terra, and Luna. A notable change includes a new reasoning-effort control slider and an \"ultra\" mode for handling complex tasks. The release has implications for Codex users, amid Anthropic's Fable 5 changes, while broad access depends on US government review approvals.",
+      "url": "https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Closing the Verification Loop (14 minute read)",
+      "excerpt": "Agents have made building cheap, but the cost just moved to verifying whether things actually work. The verification loop is the distance between a claim and its proof. Most teams close this loop with humans, but agents are starting to outpace humans. Compound Engineering is a plugin with skills for coding agents. This post discusses how /ce-dogfood, a skill within Compound Engineering, closes the loop and the persona strategy that gives it eyes.",
+      "url": "https://thinkroom.kieranklaassen.com/d/njrS5TJhis?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Clouded Judgement 7.3.26 - The End of Compute Scarcity? Not So Fast (14 minute read)",
+      "excerpt": "Meta and SpaceX selling compute capacity could mean that there's excess compute capacity that two of the largest buyers no longer need. This may result in downward capex revisions for the hyperscalers. It's possible demand simply isn't there for what's being built with AI. However, this is unlikely, as anyone willing to sell capacity finds buyers immediately.",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-7326-the-end-of?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers (5 minute read)",
+      "excerpt": "Pace Layers is a framework for organizing fields and categories by how fast they change. Each layer is a differently paced component that is functionally different from the others and operates somewhat independently, but each layer influences and responds to the layers closest to it in a way that makes the whole system resilient. This post applies the Pace Layers framework to the AI ecosystem to help readers process its dynamics.",
+      "url": "https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "jamesob's guide to running SOTA LLMs locally (12 minute read)",
+      "excerpt": "This guide discusses the hardware used to run SOTA AI models locally and how to run speech-to-text (STT) locally. It also provides a ready-to-run configuration for running models within Docker containers. A budget of $2,000 can get you a setup that runs Qwen and good STT. $40,000 can get you a machine that can run almost-Opus-level models.",
+      "url": "https://github.com/jamesob/local-llm?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "A Field Guide to Fable: Finding Your Unknowns (12 minute read)",
+      "excerpt": "The difference between the map and the territory is the unknown. When Claude runs into an unknown, it needs to make a decision based on its best guess. The more work that is done, the more unknowns Claude might run into. This post discusses how to use Claude to help discover unknowns. Discovering your unknowns before starting a project is a cheap way to find out what you didn't know before it gets expensive to fix.",
+      "url": "https://x.com/trq212/status/2073100352921215386?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Open Source AI Gap Map (Website)",
+      "excerpt": "The Gap Map maps out the open-source AI stack so people can collectively build what's missing. The current open source AI stack is seriously robust, but fragmented, duplicative, and hard to see as a coherent whole. The Gap Map helps people identify where to build new, where to invest in capability, and where to open up the tools. It is an invitation for greater collaboration and coordination across the space.",
+      "url": "https://map.currentai.org/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Own the Loop: A Field Guide to Agent Harnesses (5 minute read)",
+      "excerpt": "As coding models commoditize, the real differentiator is the harness: the control loop that manages tools, workflows, orchestration, and model routing. Vendor-native harnesses offer the best performance today, but owning a portable, model-agnostic loop may become the more durable advantage as models evolve and costs fall.",
+      "url": "https://x.com/aparnadhinak/status/2073079029624943040?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "A brief history of distillation in AI (4 minute read)",
+      "excerpt": "Distillation started as a way to compress large models into smaller, cheaper ones, but has evolved into a core post-training technique for transferring instruction-following and reasoning abilities from frontier models. Methods used by DeepSeek, Qwen, and GLM now sit at the center of both open model development and ongoing disputes over whether training on proprietary model outputs constitutes unauthorized copying.",
+      "url": "https://x.com/SergioPaniego/status/2073066275819991472?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "Leanstral (12 minute read)",
+      "excerpt": "Leanstral is an open-source 119B-parameter theorem-proving and code-verification agent built on Mistral's general-purpose coding framework.",
+      "url": "https://github.com/mistralai/LeanstralSafeVerify/blob/main/LeanstralReport.pdf?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Let Fable use its own judgement rather than dictating how it should work (2 minute read)",
+      "excerpt": "It's better to tell Fable to use its own judgment when deciding to write tests and when choosing other models for smaller tasks.",
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Google tests new Gemini Inbox section for Workspace triage (2 minute read)",
+      "excerpt": "Google is testing a new dedicated inbox section within the Gemini app for Business and Workspace users.",
+      "url": "https://www.testingcatalog.com/google-tests-new-gemini-inbox-section-for-workspace-triage/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

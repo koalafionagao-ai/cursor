@@ -1,0 +1,221 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Microsoft's Xbox unit plans to cut 3,200 jobs over the next year, including 1,600 on Monday, and divest up to five studios, including Ninja Theory, in a “reset”
+Tweets:
+  - Author: @asha_shar
+    Text: This is an important email I sent today to all employees at XBOX: Team, We are beginning the most significant restructure in XBOX history.  After careful consideration, I've made the difficult decision to reduce our team by approximately 3,200 throughout FY27.  This will include approximately 1,600 role eliminations today, and in addition, four studios will leave XBOX to new management.
+    Link ID: TM-01-TW-01
+  - Author: @stephentotilo
+    Text: Four studios being divested (Compulsion, Undead Labs, DoubleFine, Ninja Theory) account for around 350 of the job cuts, I'm told. Arkane could add 100+ more While the fate of those studios will draw a lot of attention, the lion's share of the 3,200 cuts are outside those teams
+    Link ID: TM-01-TW-02
+  - Author: @paultassi
+    Text: I think the main problem with Xbox going forward is going to be what's not addressed in today's announcement, that it has to turn around its core console business and there is still no coherent path to do so.  That is arguably its most important strategy component now (expanding console adoption is the biggest potential way to expand Game Pass), which comes after two bad generations, unlike its competitors also dealing with hardware issues.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027
+    Link ID: TM-01-SUB-01
+  - Title: Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year
+    Link ID: TM-01-SUB-02
+  - Title: Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Broadcom agrees to expand its Apple partnership through 2031 to develop and supply custom chips; in 2023, the companies announced a multibillion-dollar 5G deal
+Tweets:
+  - Author: @markgurman
+    Text: Apple and Broadcom have announced an extended partnership that runs through 2031. All signs point to this being related to Apple's first chips developed specifically for AI servers.
+    Link ID: TM-02-TW-01
+  - Author: @aktiehedonist
+    Text: Apple is around 20% of Broadcom revenue, and despite designing more silicon in-house, they still rely on Broadcom for key wireless/RF/connectivity components.  To me this is another reminder of the Broadcom model: get deeply embedded with the most demanding customers, then stay there for multiple generations.
+    Link ID: TM-02-TW-02
+---
+ID: TM-03
+Title: SK Hynix launches a US share sale on the Nasdaq to raise ~$28B, selling 17.79M new shares; the final listing price is due Thursday before trading starts Friday
+Tweets:
+  - Author: @trendspider
+    Text: Leopold Aschenbrenner's hedge fund has indicated interest in purchasing shares of SK Hynix at IPO $SKHY 👀 Situational Awareness Partners LP, along with 2 other firms, have indicated an interest in purchasing up to an aggregate of $7B, representing ~25% of the total offering. [image]
+    Link ID: TM-03-TW-01
+---
+ID: TM-04
+Title: Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules
+---
+ID: TM-05
+Title: SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture
+---
+ID: TM-06
+Title: Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027
+---
+ID: TM-07
+Title: Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B
+---
+ID: TM-08
+Title: Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill
+---
+ID: TM-09
+Title: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: xAI rebrands to SpaceXAI and debuts a new logo
+---
+ID: TM-11
+Title: Doc: a draft US Treasury Department report is set to warn about the AI market's risks, likening key aspects to the dotcom bubble bursting in the early 2000s
+---
+ID: TM-12
+Title: Claude Opus 4.8 and Sonnet 5 seem worse at tool calling than older models, likely as post-training optimized them primarily for Claude Code-like environments
+---
+ID: TM-13
+Title: Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output
+---
+ID: TM-14
+Title: Tencent releases Hy3, a 295B-parameter model that it says is competitive with GLM-5.1 and 5.2, under the Apache 2.0 license, following a preview launch in April
+---
+ID: TM-15
+Title: Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren's stock is up nearly 150% since its January Hong Kong IPO
+---
+ID: TM-16
+Title: Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis
+---
+ID: TM-17
+Title: AI-driven drops in labor income and gains in capital income could hit Ireland's tax base, with 6%+ of its workforce in tech and heavy exposure to US companies
+---
+ID: TM-18
+Title: Some US voters are using AI tools as nonpartisan researchers, seeing them as a viable alternative to traditional news coverage, voter guides, and social media
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-19
+Title: Reddit says its AI-powered content moderation systems caught 25K “spammy posts and comments” per day in Q1, reducing users' exposure to such content by 20% YoY
+---
+ID: TM-20
+Title: A look at Threads and an interview with Head of Threads Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with a community focus
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-21
+Title: Researchers document JadePuffer, the first known “agentic ransomware”, which adapts in real time by retrying steps to execute an end-to-end extortion operation
+---
+ID: TM-22
+Title: Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-23
+Title: Filing: Strategy sold 3,588 bitcoin for ~$216M between June 29 and July 5 to replenish its USD reserve; its holdings have an $11.4B paper loss at current prices
+---
+ID: TM-24
+Title: Sources: the US considers housing the Strategic Bitcoin Reserve at Commerce instead of Treasury amid concerns over Treasury's legal authority to manage it
+---
+ID: TM-25
+Title: BonkDAO, which oversees the Bonk memecoin, says it was the target of a “malicious governance proposal” that resulted in a loss of $20M worth of Bonk tokens
+---
+ID: TM-26
+Title: Ripple secures CASP authorization from Luxembourg's financial regulator, making it fully MiCA-compliant to offer crypto services across 30 EEA countries
+---
+
+[CATEGORY: ROBOTICS]
+ID: TM-27
+Title: An interview with Agility Robotics CEO Peggy Johnson on why the startup is going public via a SPAC, the physical layer as its core advantage, safety, and more
+---
+ID: TM-28
+Title: Nvidia, Neura Robotics, and others are building safety systems for humanoid robots to minimize risks, like the consequences of a bipedal robot losing stability
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-29
+Title: Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation
+---
+ID: TM-30
+Title: Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-31
+Title: Shenzhen-based Even Realities, which makes smart glasses without cameras, raised a $150M pre-Series B led by Meituan and Tencent
+---
+ID: TM-32
+Title: AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-33
+Title: A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade
+---
+ID: TM-34
+Title: Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B
+---
+ID: TM-35
+Title: How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question his strategy
+---
+ID: TM-36
+Title: Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks
+---
+ID: TM-37
+Title: A US federal judge orders the DOD to shield Alibaba from a law that caused its lobbyists to drop it as a client while she weighs the measure's constitutionality
+---
+ID: TM-38
+Title: A profile of Samsung union leader Choi Seung-ho, who helped win a ~$26B bonus package for chip employees, as he tries to resolve the rift over bonus gaps
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: ByteDance set to launch Seedance 2.5 with 3-minute AI video output (2 minute read)
+Excerpt: ByteDance is rumored to be launching its Dreamina Seedance 2.5 model on July 9. Availability is expected across Dreamina, CapCut, and other ByteDance partner platforms. The new model can output 180-second-long videos, but it is unclear whether it can keep character identity, motion, camera logic, and prompt intent stable.
+---
+ID: TL-02
+Title: Alibaba Reportedly Restricted Claude Code (1 minute read)
+Excerpt: Alibaba reportedly planned to prohibit employee use of Claude Code from July 10 after classifying it as high-risk software. Employees were instead directed toward Alibaba's Qoder tool amid Anthropic's efforts to prevent unauthorized access and model distillation.
+---
+ID: TL-03
+Title: OpenAI might be preparing GPT-5.6 for next week's release (2 minute read)
+Excerpt: OpenAI has moved GPT-5.6 into a narrow preview, splitting it into three tiers: Sol, Terra, and Luna. A notable change includes a new reasoning-effort control slider and an "ultra" mode for handling complex tasks. The release has implications for Codex users, amid Anthropic's Fable 5 changes, while broad access depends on US government review approvals.
+---
+ID: TL-04
+Title: Closing the Verification Loop (14 minute read)
+Excerpt: Agents have made building cheap, but the cost just moved to verifying whether things actually work. The verification loop is the distance between a claim and its proof. Most teams close this loop with humans, but agents are starting to outpace humans. Compound Engineering is a plugin with skills for coding agents. This post discusses how /ce-dogfood, a skill within Compound Engineering, closes the loop and the persona strategy that gives it eyes.
+---
+ID: TL-05
+Title: Clouded Judgement 7.3.26 - The End of Compute Scarcity? Not So Fast (14 minute read)
+Excerpt: Meta and SpaceX selling compute capacity could mean that there's excess compute capacity that two of the largest buyers no longer need. This may result in downward capex revisions for the hyperscalers. It's possible demand simply isn't there for what's being built with AI. However, this is unlikely, as anyone willing to sell capacity finds buyers immediately.
+---
+ID: TL-06
+Title: Understanding the Dynamics of the AI Ecosystem with Pace Layers (5 minute read)
+Excerpt: Pace Layers is a framework for organizing fields and categories by how fast they change. Each layer is a differently paced component that is functionally different from the others and operates somewhat independently, but each layer influences and responds to the layers closest to it in a way that makes the whole system resilient. This post applies the Pace Layers framework to the AI ecosystem to help readers process its dynamics.
+---
+ID: TL-07
+Title: jamesob's guide to running SOTA LLMs locally (12 minute read)
+Excerpt: This guide discusses the hardware used to run SOTA AI models locally and how to run speech-to-text (STT) locally. It also provides a ready-to-run configuration for running models within Docker containers. A budget of $2,000 can get you a setup that runs Qwen and good STT. $40,000 can get you a machine that can run almost-Opus-level models.
+---
+ID: TL-08
+Title: A Field Guide to Fable: Finding Your Unknowns (12 minute read)
+Excerpt: The difference between the map and the territory is the unknown. When Claude runs into an unknown, it needs to make a decision based on its best guess. The more work that is done, the more unknowns Claude might run into. This post discusses how to use Claude to help discover unknowns. Discovering your unknowns before starting a project is a cheap way to find out what you didn't know before it gets expensive to fix.
+---
+ID: TL-09
+Title: Open Source AI Gap Map (Website)
+Excerpt: The Gap Map maps out the open-source AI stack so people can collectively build what's missing. The current open source AI stack is seriously robust, but fragmented, duplicative, and hard to see as a coherent whole. The Gap Map helps people identify where to build new, where to invest in capability, and where to open up the tools. It is an invitation for greater collaboration and coordination across the space.
+---
+ID: TL-10
+Title: Own the Loop: A Field Guide to Agent Harnesses (5 minute read)
+Excerpt: As coding models commoditize, the real differentiator is the harness: the control loop that manages tools, workflows, orchestration, and model routing. Vendor-native harnesses offer the best performance today, but owning a portable, model-agnostic loop may become the more durable advantage as models evolve and costs fall.
+---
+ID: TL-11
+Title: A brief history of distillation in AI (4 minute read)
+Excerpt: Distillation started as a way to compress large models into smaller, cheaper ones, but has evolved into a core post-training technique for transferring instruction-following and reasoning abilities from frontier models. Methods used by DeepSeek, Qwen, and GLM now sit at the center of both open model development and ongoing disputes over whether training on proprietary model outputs constitutes unauthorized copying.
+---
+ID: TL-12
+Title: Leanstral (12 minute read)
+Excerpt: Leanstral is an open-source 119B-parameter theorem-proving and code-verification agent built on Mistral's general-purpose coding framework.
+---
+ID: TL-13
+Title: Let Fable use its own judgement rather than dictating how it should work (2 minute read)
+Excerpt: It's better to tell Fable to use its own judgment when deciding to write tests and when choosing other models for smaller tasks.
+---
+ID: TL-14
+Title: Google tests new Gemini Inbox section for Workspace triage (2 minute read)
+Excerpt: Google is testing a new dedicated inbox section within the Gemini app for Business and Workspace users.
+---

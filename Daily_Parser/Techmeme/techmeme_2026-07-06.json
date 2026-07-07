@@ -1,0 +1,339 @@
+{
+  "date": "2026-07-06",
+  "sections": {
+    "top news": [
+      {
+        "title": "Microsoft's Xbox unit plans to cut 3,200 jobs over the next year, including 1,600 on Monday, and divest up to five studios, including Ninja Theory, in a “reset”",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzM0NDcyNSwiZXhwIjoxNzgzOTQ5NTI1LCJhcnRpY2xlSWQiOiJUSFI5TDNSS1YyVUIwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.GkKCpYChItTAK0DnHlnx9gDO4R_U7cjUu8jLzfs63dU",
+        "tweets": [
+          {
+            "author": "@asha_shar",
+            "text": "This is an important email I sent today to all employees at XBOX: Team, We are beginning the most significant restructure in XBOX history.  After careful consideration, I've made the difficult decision to reduce our team by approximately 3,200 throughout FY27.  This will include approximately 1,600 role eliminations today, and in addition, four studios will leave XBOX to new management.",
+            "url": "https://x.com/asha_shar/status/2074124008795369482"
+          },
+          {
+            "author": "@stephentotilo",
+            "text": "Four studios being divested (Compulsion, Undead Labs, DoubleFine, Ninja Theory) account for around 350 of the job cuts, I'm told. Arkane could add 100+ more While the fate of those studios will draw a lot of attention, the lion's share of the 3,200 cuts are outside those teams",
+            "url": "https://x.com/stephentotilo/status/2074133835487343049"
+          },
+          {
+            "author": "@paultassi",
+            "text": "I think the main problem with Xbox going forward is going to be what's not addressed in today's announcement, that it has to turn around its core console business and there is still no coherent path to do so.  That is arguably its most important strategy component now (expanding console adoption is the biggest potential way to expand Game Pass), which comes after two bad generations, unlike its competitors also dealing with hardware issues.",
+            "url": "https://x.com/paultassi/status/2074153553212424329"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027",
+            "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjF6dlc3Vmw1VTQiLCJwIjoiL25ld3MvOTYxNTI4L21pY3Jvc29mdC1sYXlvZmZzLWp1bHktMjAyNi1zYWxlcy14Ym94IiwiZXhwIjoxNzgzNzc2NjMyLCJpYXQiOjE3ODMzNDQ2MzJ9.HkCv3K6oLW-VWU0GRiIAGHen5yS8Di1QBdL2CKGz1ow&utm_medium=gift-link"
+          },
+          {
+            "title": "Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year",
+            "url": "https://www.wsj.com/tech/microsoft-layoffs-xbox-59e7f6df?st=PDtsc4&reflink=desktopwebshare_permalink"
+          },
+          {
+            "title": "Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft",
+            "url": "https://gamesbeat.com/xbox-appoints-helen-chiang-as-new-chief-operating-officer-amid-restructure/"
+          }
+        ]
+      },
+      {
+        "title": "Broadcom agrees to expand its Apple partnership through 2031 to develop and supply custom chips; in 2023, the companies announced a multibillion-dollar 5G deal",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/broadcom-apple-extend-chip-partnership-through-2031-2026-07-06/",
+        "tweets": [
+          {
+            "author": "@markgurman",
+            "text": "Apple and Broadcom have announced an extended partnership that runs through 2031. All signs point to this being related to Apple's first chips developed specifically for AI servers.",
+            "url": "https://x.com/markgurman/status/2074139309058208093"
+          },
+          {
+            "author": "@aktiehedonist",
+            "text": "Apple is around 20% of Broadcom revenue, and despite designing more silicon in-house, they still rely on Broadcom for key wireless/RF/connectivity components.  To me this is another reminder of the Broadcom model: get deeply embedded with the most demanding customers, then stay there for multiple generations.",
+            "url": "https://x.com/aktiehedonist/status/2074116198212465118"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "SK Hynix launches a US share sale on the Nasdaq to raise ~$28B, selling 17.79M new shares; the final listing price is due Thursday before trading starts Friday",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-launch-28-billion-us-listing-ride-global-ai-wave-2026-07-06/",
+        "tweets": [
+          {
+            "author": "@trendspider",
+            "text": "Leopold Aschenbrenner's hedge fund has indicated interest in purchasing shares of SK Hynix at IPO $SKHY 👀 Situational Awareness Partners LP, along with 2 other firms, have indicated an interest in purchasing up to an aggregate of $7B, representing ~25% of the total offering. [image]",
+            "url": "https://x.com/trendspider/status/2074259595925864502"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill",
+        "excerpt": "",
+        "url": "https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/us-supreme-court-wont-block-texas-app-store-age-verification-law-2026-07-06/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "xAI rebrands to SpaceXAI and debuts a new logo",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Doc: a draft US Treasury Department report is set to warn about the AI market's risks, likening key aspects to the dotcom bubble bursting in the early 2000s",
+        "excerpt": "",
+        "url": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Claude Opus 4.8 and Sonnet 5 seem worse at tool calling than older models, likely as post-training optimized them primarily for Claude Code-like environments",
+        "excerpt": "",
+        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output",
+        "excerpt": "",
+        "url": "https://www.anthropic.com/research/global-workspace",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tencent releases Hy3, a 295B-parameter model that it says is competitive with GLM-5.1 and 5.2, under the Apache 2.0 license, following a preview launch in April",
+        "excerpt": "",
+        "url": "https://venturebeat.com/ai/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren's stock is up nearly 150% since its January Hong Kong IPO",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/exclusive-mercor-hit-2-billion-gross-annualized-revenue",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI-driven drops in labor income and gains in capital income could hit Ireland's tax base, with 6%+ of its workforce in tech and heavy exposure to US companies",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Some US voters are using AI tools as nonpartisan researchers, seeing them as a viable alternative to traditional news coverage, voter guides, and social media",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html?unlocked_article_code=1.vFA.TTCt.7KuPI81ZZaDz&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Reddit says its AI-powered content moderation systems caught 25K “spammy posts and comments” per day in Q1, reducing users' exposure to such content by 20% YoY",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Threads and an interview with Head of Threads Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with a community focus",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html?unlocked_article_code=1.vVA.W4vS.Tucz3-UC2QnY&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Researchers document JadePuffer, the first known “agentic ransomware”, which adapts in real time by retrying steps to execute an end-to-end extortion operation",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Filing: Strategy sold 3,588 bitcoin for ~$216M between June 29 and July 5 to replenish its USD reserve; its holdings have an $11.4B paper loss at current prices",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/407217/strategy-bitcoin-digital-energy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the US considers housing the Strategic Bitcoin Reserve at Commerce instead of Treasury amid concerns over Treasury's legal authority to manage it",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "BonkDAO, which oversees the Bonk memecoin, says it was the target of a “malicious governance proposal” that resulted in a loss of $20M worth of Bonk tokens",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ripple secures CASP authorization from Luxembourg's financial regulator, making it fully MiCA-compliant to offer crypto services across 30 EEA countries",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "robotics": [
+      {
+        "title": "An interview with Agility Robotics CEO Peggy Johnson on why the startup is going public via a SPAC, the physical layer as its core advantage, safety, and more",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia, Neura Robotics, and others are building safety systems for humanoid robots to minimize risks, like the consequences of a bipedal robot losing stability",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123?st=GviKRc&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/brookfield-s-data-center-firm-csquare-seeks-1-35-billion-in-ipo",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/semiconductor-software-company-syntiant-corp-files-us-ipo-2026-07-06/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Shenzhen-based Even Realities, which makes smart glasses without cameras, raised a $150M pre-Series B led by Meituan and Tencent",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/06/bespoke-labs-training-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/tencent-seeks-to-sell-up-to-1-6-billion-stake-in-kuaishou",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/softbank-altimeter-d1-invest-thrive-holdings-2-billion-financing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question his strategy",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-06/advertising-technology-firm-criteo-attracts-vista-equity-backed-takeover-offer",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US federal judge orders the DOD to shield Alibaba from a law that caused its lobbyists to drop it as a client while she weighs the measure's constitutionality",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-05/alibaba-gets-reprieve-from-lobbying-ban-tied-to-pentagon-s-curbs",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Samsung union leader Choi Seung-ho, who helped win a ~$26B bonus package for chip employees, as he tries to resolve the rift over bonus gaps",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-07-05/samsung-s-ai-bonus-deal-a-short-lived-victory-for-millennial-union-leader",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 38
+  }
+}

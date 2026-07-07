@@ -1,0 +1,546 @@
+{
+  "date": "2026-07-06",
+  "sources": [
+    "SemiAnalysis",
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 20,
+    "by_category": {
+      "cat:other": 7,
+      "cat:business": 4,
+      "cat:tech": 4,
+      "cat:model": 4,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "SemiAnalysis",
+      "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "title": {
+        "zh": "Nvidia因PCB制造问题推迟Kyber NVL144至2028，并取消NVL72x2架构",
+        "en": "SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+      "title": {
+        "zh": "Anthropic签署20年租约使用肯塔基州TeraWulf数据中心",
+        "en": "Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027"
+      },
+      "summary": {
+        "zh": "该数据中心计划于2027年下半年开始供电，容量约为400MW。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "data-center"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/",
+      "title": {
+        "zh": "伊利诺伊州通过AI公司年度安全审计法案",
+        "en": "Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill"
+      },
+      "summary": {
+        "zh": "OpenAI和Anthropic支持的SB 315法案要求对主要AI公司进行年度第三方安全审计。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "anthropic",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "policy",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.notus.org/economy/treasury-internal-report-warning-dangers-ai-bubble",
+      "title": {
+        "zh": "美国财政部草案警告AI市场风险",
+        "en": "Doc: a draft US Treasury Department report is set to warn about the AI market's risks, likening key aspects to the dotcom bubble bursting in the early 2000s"
+      },
+      "summary": {
+        "zh": "报告将AI市场的某些关键方面与2000年代初互联网泡沫破裂相提并论。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "title": {
+        "zh": "Anthropic研究人员详解Claude中的J-space神经模式",
+        "en": "Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output"
+      },
+      "summary": {
+        "zh": "J-space是一组小型神经模式，可揭示模型内部未输出的思维。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "alignment"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/ai/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "title": {
+        "zh": "腾讯发布2950亿参数模型Hy3，采用Apache 2.0协议",
+        "en": "Tencent releases Hy3, a 295B-parameter model that it says is competitive with GLM-5.1 and 5.2, under the Apache 2.0 license, following a preview launch in April"
+      },
+      "summary": {
+        "zh": "Hy3被认为可与GLM-5.1和5.2竞争，继4月预览版发布后正式推出。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "tencent",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent",
+        "open-weights"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom",
+      "title": {
+        "zh": "上海AI芯片公司壁仞科技融资约8.925亿美元以提升GPU产能",
+        "en": "Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren's stock is up nearly 150% since its January Hong Kong IPO"
+      },
+      "summary": {
+        "zh": "壁仞科技自1月香港IPO以来股价已上涨近150%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "gpu",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "gpu",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "title": {
+        "zh": "研究人员记录首个“智能勒索软件”JadePuffer",
+        "en": "Researchers document JadePuffer, the first known “agentic ransomware”, which adapts in real time by retrying steps to execute an end-to-end extortion operation"
+      },
+      "summary": {
+        "zh": "JadePuffer能够实时调整操作步骤，完成端到端的勒索操作。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "safety"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/us-cyber-agency-is-using-anthropics-mythos-audit-government-code-sources-say-2026-07-06/",
+      "title": {
+        "zh": "CISA使用Mythos审计政府代码库，发现大量漏洞",
+        "en": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "safety",
+        "policy"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/the-quest-to-make-humanoid-robots-safe-enough-for-humans-4887c123?st=GviKRc&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Nvidia与Neura Robotics等公司开发人形机器人安全系统",
+        "en": "Nvidia, Neura Robotics, and others are building safety systems for humanoid robots to minimize risks, like the consequences of a bipedal robot losing stability"
+      },
+      "summary": {
+        "zh": "旨在降低双足机器人失去稳定性等风险的安全系统正在研发中。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "robotics",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "robotics",
+        "safety"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/technology/semiconductor-software-company-syntiant-corp-files-us-ipo-2026-07-06/",
+      "title": {
+        "zh": "Syntiant申请美国IPO，报告显示三个月内净亏损2090万美元，收入6450万美元",
+        "en": "Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "ipo"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-32",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/06/bespoke-labs-training-ai-agents",
+      "title": {
+        "zh": "AI代理训练平台Bespoke Labs完成4000万美元融资，称资金可支撑近两年运营",
+        "en": "AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-35",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066",
+      "title": {
+        "zh": "孙正义如何以AI为核心重塑软银：公司市值较净资产折价约50%",
+        "en": "How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question his strategy"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "softbank"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "softbank"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/bytedance-set-to-launch-seedance-2-5-with-3-minute-ai-video-output/?utm_source=tldrai",
+      "title": {
+        "zh": "字节跳动将推出支持3分钟AI视频生成的Seedance 2.5",
+        "en": "ByteDance set to launch Seedance 2.5 with 3-minute AI video output (2 minute read)"
+      },
+      "summary": {
+        "zh": "新模型预计将上线Dreamina、剪映等平台，但尚不清楚是否能稳定保持角色身份、动作和镜头逻辑。",
+        "en": "ByteDance is rumored to be launching its Dreamina Seedance 2.5 model on July 9. Availability is expected across Dreamina, CapCut, and other ByteDance partner platforms. The new model can output 180-second-long videos, but it is unclear whether it can keep character identity, motion, camera logic, and prompt intent stable."
+      },
+      "tags": [
+        "cat:model",
+        "bytedance",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "bytedance",
+        "video-gen"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/openai-might-be-preparing-gpt-5-6-for-next-weeks-release/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI或将于下周发布GPT-5.6，新增推理控制滑块和“超高”模式",
+        "en": "OpenAI might be preparing GPT-5.6 for next week's release (2 minute read)"
+      },
+      "summary": {
+        "zh": "GPT-5.6分为Sol、Terra和Luna三个版本，可能对Codex用户和政府审批产生影响。",
+        "en": "OpenAI has moved GPT-5.6 into a narrow preview, splitting it into three tiers: Sol, Terra, and Luna. A notable change includes a new reasoning-effort control slider and an \"ultra\" mode for handling complex tasks. The release has implications for Codex users, amid Anthropic's Fable 5 changes, while broad access depends on US government review approvals."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "reasoning"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html?utm_source=tldrai",
+      "title": {
+        "zh": "用Pace Layers框架理解AI生态系统动态",
+        "en": "Understanding the Dynamics of the AI Ecosystem with Pace Layers (5 minute read)"
+      },
+      "summary": {
+        "zh": "Pace Layers框架通过不同变化速度的层次组织领域，帮助读者理解AI生态系统的动态。",
+        "en": "Pace Layers is a framework for organizing fields and categories by how fast they change. Each layer is a differently paced component that is functionally different from the others and operates somewhat independently, but each layer influences and responds to the layers closest to it in a way that makes the whole system resilient. This post applies the Pace Layers framework to the AI ecosystem to help readers process its dynamics."
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://github.com/jamesob/local-llm?utm_source=tldrai",
+      "title": {
+        "zh": "jamesob的本地运行SOTA LLMs指南",
+        "en": "jamesob's guide to running SOTA LLMs locally (12 minute read)"
+      },
+      "summary": {
+        "zh": "指南涵盖硬件配置、Docker容器运行模型，以及不同预算下的设备选择。",
+        "en": "This guide discusses the hardware used to run SOTA AI models locally and how to run speech-to-text (STT) locally. It also provides a ready-to-run configuration for running models within Docker containers. A budget of $2,000 can get you a setup that runs Qwen and good STT. $40,000 can get you a machine that can run almost-Opus-level models."
+      },
+      "tags": [
+        "cat:app",
+        "coding",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "coding",
+        "open-source"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://map.currentai.org/?utm_source=tldrai",
+      "title": {
+        "zh": "开源AI Gap Map：构建和协作的指南",
+        "en": "Open Source AI Gap Map (Website)"
+      },
+      "summary": {
+        "zh": "Gap Map帮助识别开源AI堆栈中的空白，促进工具开发和协作。",
+        "en": "The Gap Map maps out the open-source AI stack so people can collectively build what's missing. The current open source AI stack is seriously robust, but fragmented, duplicative, and hard to see as a coherent whole. The Gap Map helps people identify where to build new, where to invest in capability, and where to open up the tools. It is an invitation for greater collaboration and coordination across the space."
+      },
+      "tags": [
+        "cat:other",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://x.com/aparnadhinak/status/2073079029624943040?utm_source=tldrai",
+      "title": {
+        "zh": "掌控循环：代理控制环的实用指南",
+        "en": "Own the Loop: A Field Guide to Agent Harnesses (5 minute read)"
+      },
+      "summary": {
+        "zh": "随着编码模型的普及，控制环成为差异化关键，便携的模型无关控制环可能更具长期优势。",
+        "en": "As coding models commoditize, the real differentiator is the harness: the control loop that manages tools, workflows, orchestration, and model routing. Vendor-native harnesses offer the best performance today, but owning a portable, model-agnostic loop may become the more durable advantage as models evolve and costs fall."
+      },
+      "tags": [
+        "cat:other",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "coding"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://github.com/mistralai/LeanstralSafeVerify/blob/main/LeanstralReport.pdf?utm_source=tldrai",
+      "title": {
+        "zh": "Leanstral：基于Mistral框架的开源119B参数定理证明与代码验证代理",
+        "en": "Leanstral (12 minute read)"
+      },
+      "summary": {
+        "zh": "",
+        "en": "Leanstral is an open-source 119B-parameter theorem-proving and code-verification agent built on Mistral's general-purpose coding framework."
+      },
+      "tags": [
+        "cat:model",
+        "mistral",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "coding"
+      ],
+      "category_tag": "cat:model"
+    }
+  ]
+}
