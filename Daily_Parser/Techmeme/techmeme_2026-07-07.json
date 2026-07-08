@@ -1,0 +1,341 @@
+{
+  "date": "2026-07-07",
+  "sections": {
+    "top news": [
+      {
+        "title": "Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs",
+        "excerpt": "",
+        "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+        "tweets": [
+          {
+            "author": "@alexandr_wang",
+            "text": "1/ releasing muse image today — the first image generation model from MSL. it's agentic: pairs with muse spark to reason through your prompt, search the web, and plan before it generates. people get what they meant on the first try. live now in the Meta AI app. [image]",
+            "url": "https://x.com/alexandr_wang/status/2074555909347369105"
+          },
+          {
+            "author": "@aaditsh",
+            "text": "This is being framed as an image model but it's actually @Meta's ad business in a new costume.  98% of Meta's Q1 revenue ($56.3B) comes from ads.  Advantage+ is already cutting cost per lead for advertisers.  And Muse Image goes into Advantage+ within weeks",
+            "url": "https://x.com/aaditsh/status/2074605526156026086"
+          },
+          {
+            "author": "@ml_angelopoulos",
+            "text": "Meta just released video/image models that beat Sora and Nano Banana. The narrative 6 mo ago was that @AIatMeta was unsalvageable. Now they are ahead. Video/Image is particularly strategic, given Meta's distribution to consumers (Insta, WA). Don't fuck with Zuck [image]",
+            "url": "https://x.com/ml_angelopoulos/status/2074594440413634758"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "As part of Meta's Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users",
+            "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
+          }
+        ]
+      },
+      {
+        "title": "Sources: China met with Alibaba, ByteDance, Z.ai, and others to discuss potentially limiting foreign access to advanced AI models, penalties for AI theft, more",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+        "tweets": [
+          {
+            "author": "@akarlin",
+            "text": "Europe is at the point where, if it was smart, it would negotiate the terms of its surrender to the US on maximally favorable conditions, while it still retains some leverage (mostly ASML and the Germanic machine tool building complex). This window won't remain open indefinitely.",
+            "url": "https://x.com/akarlin/status/2074474816074285539"
+          },
+          {
+            "author": "@afinetheorem",
+            "text": "Today in “US is not unique, nor is closed-source; no country will allow unrestricted use and export of frontier dual use intelligence models”. Can't stress enough for middle powers that “ensure access to frontier AI” is going to be more important than “be sovereign from US/China”",
+            "url": "https://x.com/afinetheorem/status/2074485623411417336"
+          },
+          {
+            "author": "@deanwball",
+            "text": "We don't know whether this will happen, but it's been surprising that discussions of open-weight AI broadly, and Chinese open-weight in particular, operate in an alternate reality where government security concerns don't exist, or somehow only apply to closed-weight models.",
+            "url": "https://x.com/deanwball/status/2074538178061754653"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months",
+            "url": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
+          }
+        ]
+      },
+      {
+        "title": "Anthropic expands Claude Cowork to web and mobile in beta for Max plan subscribers, and says 90%+ of Cowork usage is unrelated to software development",
+        "excerpt": "",
+        "url": "https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/",
+        "tweets": [
+          {
+            "author": "@shanumathew93",
+            "text": "Let's go! Been functional leaving laptop on at home but having this truly seamless and not dependent on leaving your laptop on at home will be excellent Picking up Cowork + Codex work from phone while you're out is epic",
+            "url": "https://x.com/shanumathew93/status/2074526199632576758"
+          },
+          {
+            "author": "@codebypoonam",
+            "text": "damn.. Claude Cowork just stopped needing your laptop open. hand it a task at your desk, close the laptop, and it keeps working. scheduled tasks now run even with your computer completely off. set client prep for 6am.  Claude reads your threads, builds the brief, drafts the follow-up, and leaves it unsent for you to review. when it needs your judgment, the question comes to your phone. now on mobile, web, and desktop. same session, any device.",
+            "url": "https://x.com/codebypoonam/status/2074537192597450932"
+          },
+          {
+            "author": "@claudeai",
+            "text": "Scheduled tasks now run even with your computer off. Set client prep for 6am, and Claude works through the threads and transcripts, builds the brief, and leaves the follow-up drafted but unsent. When a decision needs your judgment, the question comes to your phone.",
+            "url": "https://x.com/claudeai/status/2074525817762164891"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7",
+            "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI, Anthropic, and other top AI labs are offering startups token credits, promotions, and one-time bonuses as they battle for lasting streams of B2B revenue",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c?st=XuYpCG&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: DeepSeek is at an early stage of developing its own AI chip designed for inference, in a push that could reduce its reliance on Nvidia and Huawei chips",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Microsoft, looking to reduce AI costs, is starting to replace models from OpenAI and Anthropic with its MAI models in products like Excel and Outlook",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ0MjM2NSwiZXhwIjoxNzg0MDQ3MTY1LCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiJEQ0FGMjNFM0YyMkE0Qzk5OTM0RUMyRDEwNkM0ODc0NyJ9.o3G1Rc0_tcYioF4Awm8U44FDwiFRIsbSW630u65OvbQ",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5",
+        "excerpt": "",
+        "url": "https://9to5google.com/2026/07/07/made-by-google-2026-invite/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/samsung-to-get-jump-on-apple-s-first-foldable-launch-with-galaxy-fold-8-july-22?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ2NTUwNSwiZXhwIjoxNzg0MDcwMzA1LCJhcnRpY2xlSWQiOiJUSFRVS0tLR1pBSkowMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.jaoo3DMzk-OY8pbdTdi5YJuPuCfdyoUsNmZNqhMmxx0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Amazon is looking to raise at least $25B from a US dollar bond sale to fund its AI infrastructure investments; the size could increase based on demand",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UN Secretary-General António Guterres calls for autonomous “killer robots” to be “banned by international law”, a central issue in the US DOD-Anthropic clash",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/killer-robots-must-be-banned-u-n-secretary-general-says-00603020?st=WWSSrL&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Paris-based UMA, founded by ex-Tesla Optimus scientist Rémi Cadene and ex-Google DeepMind researcher Pierre Sermanet, demos its Northstar AI humanoid robot",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/exclusive-spacexai-plans-launch-new-model-cursor-soon-wednesday",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "European banking watchdogs ECB and ESRB warn that frontier AI models pose “systemic risks to the financial system”, and give lenders four months to prepare",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Survey: Chinese companies plan to allocate 46% of their AI accelerator budget to domestic products in the next 12 months, up from 30% today, a shift from Nvidia",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/chinese-firms-leave-nvidia-for-local-ai-suppliers-survey-shows",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alibaba's Qwen models, introduced in 2023, have made it an AI powerhouse, but the company has yet to turn their global popularity into a profitable business",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Coinbase secures UK FCA authorization to offer investment services, enabling it to expand into derivatives and equities trading, its largest UK expansion yet",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/407410/coinbase-secures-uk-investment-services-license-to-add-derivatives-and-equities-trading",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Keyfactor, which manages billions of machine identities for more than 2,500 client organizations, raised $1B+ led by Summit Partners",
+        "excerpt": "",
+        "url": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Munich-based nuclear fusion startup Proxima Fusion raised €411M led by trading firm XTX and UK-based East X at a €2.4B valuation, with participation from Google",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Norm, which runs an AI law firm that provides AI-powered legal services to clients alongside human lawyers, raised $120M led by Khosla at a $1.2B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Super.com, which offers a savings app for lower-income consumers, raised a $65M Series D led by TPG at a $1.2B valuation and says it is profitable",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/07/the-1-2-billion-startup-become-amazon-prime-for-savings/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "EDX Markets, an institutional cryptocurrency trading platform, raised a $76M Series C led by SBI Holdings",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tangos, which uses AI to conduct financial crime investigations at scale, raised a $20M seed led by Red Dot",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/07/07/tangos-grabs-20m-funding-take-bad-guys-automating-financial-crime-investigations/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK-based AI infrastructure startup Nscale secures a $900M line of credit to expand its data center buildout across Europe, the US, and Asia-Pacific",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?st=TaoTjS&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Counterpoint: China smartphone sales fell 13% YoY during the 618 shopping festival as brands raised prices to offset memory costs; Honor fell 33% and Xiaomi 24%",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/china-smartphone-sales-drop-13-during-618-festival-memory-costs-limit-discounts-2026-07-07/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Netflix signs deals with Penske Media, Condé Nast, Hearst, People, and other publishers to carry a range of programming from 2 to 20+ minutes, starting August 3",
+        "excerpt": "",
+        "url": "https://variety.com/2026/tv/news/netflix-variety-how-well-do-they-know-video-licensing-1236803102/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google launches “platform properties” in the Google Search Console, letting creators and website owners see which search terms lead to their social platforms",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Study: 50 test accounts created in Australia across nine platforms were never asked to verify their age, despite the Australian law mandating a ban on under-16s",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/australias-teen-social-media-ban-fails-clear-first-hurdle-age-checks-says-study-2026-07-07/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Solos unveils the AirGo A6 camera-less smart glasses, cutting the weight to 19g from the AirGo A5's 36g to 40g, and V2 privacy accessories like a clip-on shield",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "WiseTech co-founder Richard White steps down as chair amid a police investigation over claims he exploited a woman's immigration status for sex; WTC jumps 5%+",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/wisetech-shares-jump-after-billionaire-white-steps-down-as-chair",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for governor of California",
+        "excerpt": "",
+        "url": "https://sfstandard.com/2026/07/06/rachel-whetstone-steve-hilton-wife-california-governor/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation's CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html?unlocked_article_code=1.vVA.gZA-.PAbQQ2fojTj8&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources detail Xbox's big reset after its Game Pass strategy failed; Xbox spent nearly $80B on content deals, but gamers prefer to stick with a handful of games",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ0MTQ5NiwiZXhwIjoxNzg0MDQ2Mjk2LCJhcnRpY2xlSWQiOiJUSFJPNVNUOTZPU0wwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.pMbt4znt88aoSYKf-Vt1xxM2iZlpT-ehYpDmvBB-kJk",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-07/apple-supplier-luxshare-prices-3-1-billion-hk-listing-at-top",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 5,
+    "news_count": 37
+  }
+}

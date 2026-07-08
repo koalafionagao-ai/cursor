@@ -1,0 +1,225 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs
+Tweets:
+  - Author: @alexandr_wang
+    Text: 1/ releasing muse image today — the first image generation model from MSL. it's agentic: pairs with muse spark to reason through your prompt, search the web, and plan before it generates. people get what they meant on the first try. live now in the Meta AI app. [image]
+    Link ID: TM-01-TW-01
+  - Author: @aaditsh
+    Text: This is being framed as an image model but it's actually @Meta's ad business in a new costume.  98% of Meta's Q1 revenue ($56.3B) comes from ads.  Advantage+ is already cutting cost per lead for advertisers.  And Muse Image goes into Advantage+ within weeks
+    Link ID: TM-01-TW-02
+  - Author: @ml_angelopoulos
+    Text: Meta just released video/image models that beat Sora and Nano Banana. The narrative 6 mo ago was that @AIatMeta was unsalvageable. Now they are ahead. Video/Image is particularly strategic, given Meta's distribution to consumers (Insta, WA). Don't fuck with Zuck [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: As part of Meta's Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: Sources: China met with Alibaba, ByteDance, Z.ai, and others to discuss potentially limiting foreign access to advanced AI models, penalties for AI theft, more
+Tweets:
+  - Author: @akarlin
+    Text: Europe is at the point where, if it was smart, it would negotiate the terms of its surrender to the US on maximally favorable conditions, while it still retains some leverage (mostly ASML and the Germanic machine tool building complex). This window won't remain open indefinitely.
+    Link ID: TM-02-TW-01
+  - Author: @afinetheorem
+    Text: Today in “US is not unique, nor is closed-source; no country will allow unrestricted use and export of frontier dual use intelligence models”. Can't stress enough for middle powers that “ensure access to frontier AI” is going to be more important than “be sovereign from US/China”
+    Link ID: TM-02-TW-02
+  - Author: @deanwball
+    Text: We don't know whether this will happen, but it's been surprising that discussions of open-weight AI broadly, and Chinese open-weight in particular, operate in an alternate reality where government security concerns don't exist, or somehow only apply to closed-weight models.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months
+    Link ID: TM-02-SUB-01
+---
+ID: TM-03
+Title: Anthropic expands Claude Cowork to web and mobile in beta for Max plan subscribers, and says 90%+ of Cowork usage is unrelated to software development
+Tweets:
+  - Author: @shanumathew93
+    Text: Let's go! Been functional leaving laptop on at home but having this truly seamless and not dependent on leaving your laptop on at home will be excellent Picking up Cowork + Codex work from phone while you're out is epic
+    Link ID: TM-03-TW-01
+  - Author: @codebypoonam
+    Text: damn.. Claude Cowork just stopped needing your laptop open. hand it a task at your desk, close the laptop, and it keeps working. scheduled tasks now run even with your computer completely off. set client prep for 6am.  Claude reads your threads, builds the brief, drafts the follow-up, and leaves it unsent for you to review. when it needs your judgment, the question comes to your phone. now on mobile, web, and desktop. same session, any device.
+    Link ID: TM-03-TW-02
+  - Author: @claudeai
+    Text: Scheduled tasks now run even with your computer off. Set client prep for 6am, and Claude works through the threads and transcripts, builds the brief, and leaves the follow-up drafted but unsent. When a decision needs your judgment, the question comes to your phone.
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: OpenAI, Anthropic, and other top AI labs are offering startups token credits, promotions, and one-time bonuses as they battle for lasting streams of B2B revenue
+---
+ID: TM-05
+Title: Sources: DeepSeek is at an early stage of developing its own AI chip designed for inference, in a push that could reduce its reliance on Nvidia and Huawei chips
+---
+ID: TM-06
+Title: Sources: Microsoft, looking to reduce AI costs, is starting to replace models from OpenAI and Anthropic with its MAI models in products like Excel and Outlook
+---
+ID: TM-07
+Title: Google announces a Pixel event on August 12 in NYC, where it is expected to launch Pixel 11 series of phones and Pixel Watch 5
+---
+ID: TM-08
+Title: Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design
+---
+ID: TM-09
+Title: Sources: Amazon is looking to raise at least $25B from a US dollar bond sale to fund its AI infrastructure investments; the size could increase based on demand
+---
+ID: TM-10
+Title: UN Secretary-General António Guterres calls for autonomous “killer robots” to be “banned by international law”, a central issue in the US DOD-Anthropic clash
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Paris-based UMA, founded by ex-Tesla Optimus scientist Rémi Cadene and ex-Google DeepMind researcher Pierre Sermanet, demos its Northstar AI humanoid robot
+---
+ID: TM-12
+Title: OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years
+---
+ID: TM-13
+Title: Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency
+---
+ID: TM-14
+Title: Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city
+---
+ID: TM-15
+Title: European banking watchdogs ECB and ESRB warn that frontier AI models pose “systemic risks to the financial system”, and give lenders four months to prepare
+---
+ID: TM-16
+Title: Survey: Chinese companies plan to allocate 46% of their AI accelerator budget to domestic products in the next 12 months, up from 30% today, a shift from Nvidia
+---
+ID: TM-17
+Title: Alibaba's Qwen models, introduced in 2023, have made it an AI powerhouse, but the company has yet to turn their global popularity into a profitable business
+---
+
+[CATEGORY: CRYPTOCURRENCY]
+ID: TM-18
+Title: Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it
+---
+ID: TM-19
+Title: Coinbase secures UK FCA authorization to offer investment services, enabling it to expand into derivatives and equities trading, its largest UK expansion yet
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-20
+Title: Keyfactor, which manages billions of machine identities for more than 2,500 client organizations, raised $1B+ led by Summit Partners
+---
+ID: TM-21
+Title: Munich-based nuclear fusion startup Proxima Fusion raised €411M led by trading firm XTX and UK-based East X at a €2.4B valuation, with participation from Google
+---
+ID: TM-22
+Title: Norm, which runs an AI law firm that provides AI-powered legal services to clients alongside human lawyers, raised $120M led by Khosla at a $1.2B valuation
+---
+ID: TM-23
+Title: Super.com, which offers a savings app for lower-income consumers, raised a $65M Series D led by TPG at a $1.2B valuation and says it is profitable
+---
+ID: TM-24
+Title: EDX Markets, an institutional cryptocurrency trading platform, raised a $76M Series C led by SBI Holdings
+---
+ID: TM-25
+Title: Tangos, which uses AI to conduct financial crime investigations at scale, raised a $20M seed led by Red Dot
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-26
+Title: Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T
+---
+ID: TM-27
+Title: UK-based AI infrastructure startup Nscale secures a $900M line of credit to expand its data center buildout across Europe, the US, and Asia-Pacific
+---
+ID: TM-28
+Title: Counterpoint: China smartphone sales fell 13% YoY during the 618 shopping festival as brands raised prices to offset memory costs; Honor fell 33% and Xiaomi 24%
+---
+ID: TM-29
+Title: Netflix signs deals with Penske Media, Condé Nast, Hearst, People, and other publishers to carry a range of programming from 2 to 20+ minutes, starting August 3
+---
+ID: TM-30
+Title: Google launches “platform properties” in the Google Search Console, letting creators and website owners see which search terms lead to their social platforms
+---
+ID: TM-31
+Title: Study: 50 test accounts created in Australia across nine platforms were never asked to verify their age, despite the Australian law mandating a ban on under-16s
+---
+ID: TM-32
+Title: Solos unveils the AirGo A6 camera-less smart glasses, cutting the weight to 19g from the AirGo A5's 36g to 40g, and V2 privacy accessories like a clip-on shield
+---
+ID: TM-33
+Title: WiseTech co-founder Richard White steps down as chair amid a police investigation over claims he exploited a woman's immigration status for sex; WTC jumps 5%+
+---
+ID: TM-34
+Title: A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for governor of California
+---
+ID: TM-35
+Title: A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation's CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats
+---
+ID: TM-36
+Title: Sources detail Xbox's big reset after its Game Pass strategy failed; Xbox spent nearly $80B on content deals, but gamers prefer to stick with a handful of games
+---
+ID: TM-37
+Title: Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Broadcom, Apple Extend Tie-Up to 2031 With New Custom Chips (2 minute read)
+Excerpt: Broadcom and Apple have expanded their partnership through to 2031. The companies are working together to develop application-specific integrated circuit (ASIC) silicon for multiple generations of Apple products. ASIC chips are increasingly vital to the development of components for processing artificial intelligence-related tasks. Apple plans to deploy its advanced AI servers as early as 2027.
+---
+ID: TL-02
+Title: A global workspace in language models (26 minute read)
+Excerpt: Anthropic's new research paper introduces the concept of "J-space" in language models, revealed as internal neural patterns playing a unique role in Claude's processing. Emerging during training without explicit design, the J-space allows Claude to internally reason, modulate thoughts, and solve multi-step problems, distinguishing them from automatic processes. These patterns enable the monitoring of internal thoughts for AI misbehavior and provide insights into AI consciousness, suggesting a tangible distinction between deliberate and automatic decisions.
+---
+ID: TL-03
+Title: Everyone Is Wrong About Open Source AI in the Enterprise (3 minute read)
+Excerpt: Decagon runs roughly 90% of its workloads on open-source models because small, heavily fine-tuned models deliver the latency and task-specific performance required for customer service agents. Most enterprise AI use cases remain early-stage, so companies favor frontier models that maximize flexibility and intelligence. As deployments mature and workflows stabilize, many production workloads will likely migrate from closed models to specialized open-source alternatives.
+---
+ID: TL-04
+Title: Continual Learning for Agents (3 minute read)
+Excerpt: Most production agents run on closed frontier models, so developers cannot update model weights and must focus instead on harness-level and context-level continual learning. To achieve this at Replit, the team built ViBench to evaluate functional app-building success from natural-language specs alongside Telescope, an automated system that clusters production failure traces into actionable issue groups.
+---
+ID: TL-05
+Title: A Stargate for Data (6 minute read)
+Excerpt: Data Labs are projected to surpass $100B/year in data spend by 2030 as demand shifts from compute-limited to data-limited regimes. The bottleneck now lies in collecting private, high-quality datasets, as public internet data becomes insufficient for AI training needs. This scarcity positions data as a strategic asset pivotal to economic and scientific progress, potentially spurring efforts to cultivate new data sources akin to major compute investments.
+---
+ID: TL-06
+Title: Hy3 (1 minute read)
+Excerpt: Hy3 is a 295-billion-parameter Mixture-of-Experts model with 21 billion active parameters and 3.8 billion MTP layer parameters. Developed by Tencent, Hy3 outperforms similar-sized models and rivals flagship open-source models with two to five times more parameters. The full-sized model is available on Hugging Face. It is available for free on OpenRouter until July 21.
+---
+ID: TL-07
+Title: Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm (13 minute read)
+Excerpt: Training state-of-the-art large language models with billions of parameters requires distributed training across hundreds or thousands of GPUs. At this scale, hardware failures are expected. PyTorch Monarch enables elastic, fault-tolerant distributed training on AMD GPUs. This post shows how Monarch dynamically recovers from node failures without halting the entire job and why this represents a significant step toward stable large-scale AI infrastructure.
+---
+ID: TL-08
+Title: Getting started with loops (11 minute read)
+Excerpt: Loops are agents that repeat cycles of work until a stop condition is met. They can be categorized based on how they are triggered, how they are stopped, what Claude Code primitive is used, and what type of task is appropriate for each. This post covers the main loop types, when to use each, and how to maintain code quality while managing token usage.
+---
+ID: TL-09
+Title: PACE: A Proxy for Agentic Capability Evaluation (2 minute read)
+Excerpt: PACE framework predicts costly agentic LLM benchmark performance using a small subset of atomic evaluation instances, achieving high accuracy at a fraction of the cost. It uses a regression model with selected instances from non-agentic benchmarks to predict scores on agentic benchmarks. PACE reduces evaluation costs by over 99% while maintaining a mean absolute error under 4%, aiding model development and selection.
+---
+ID: TL-10
+Title: TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)
+Excerpt: Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!
+---
+ID: TL-11
+Title: xAI Is Dead. Long Live SpaceXAI (2 minute read)
+Excerpt: xAI has rebranded to SpaceXAI. The rebranding brings new clarity to the business. The AI division is critical to Elon Musk's narrative about SpaceX's future. In this story, space infrastructure and exploration are inextricably linked to AI.
+---
+ID: TL-12
+Title: State of CLI Coding Agents, Mid-2026 (37 minute read)
+Excerpt: Claude Code, Codex CLI, and Omp are close enough in result quality that it wouldn't make sense to rank them. They can all read a serious repository, form a plan, edit across files, run checks, recover from failures, and land production-shaped patches. However, they differ in task clarity, repository hygiene, permissions, and whether the harness exposes the right tool at the right moment. OpenCode produces lower-quality results, but it tries the hardest to be good with every model.
+---
+ID: TL-13
+Title: Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta (3 minute read)
+Excerpt: Even Realities Technology, founded by ex-Apple exec Will Wang, has reached unicorn status thanks to a $150 million funding round led by Tencent and Meituan.
+---
+ID: TL-14
+Title: What The New 100x Agentic Engineer Looks Like In The Era Of Fable & GPT 5.6 (35 minute read)
+Excerpt: There are levels to the art of agentic engineering that result in outlier agentic engineers with orders of magnitude more productivity than the median.
+---
+ID: TL-15
+Title: TeraWulf shares surge on $19B Anthropic AI infrastructure lease deal (2 minute read)
+Excerpt: Initial capacity is expected to come online in the second half of next year, with a full buildout targeted for 2028.
+---

@@ -1,0 +1,599 @@
+{
+  "date": "2026-07-07",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 22,
+    "by_category": {
+      "cat:model": 2,
+      "cat:other": 5,
+      "cat:app": 1,
+      "cat:business": 11,
+      "cat:tech": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "title": {
+        "zh": "Meta推出Muse Image和Muse Video生成模型",
+        "en": "Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs"
+      },
+      "summary": {
+        "zh": "Meta在Meta AI、Instagram和WhatsApp中推出Muse Image，并预览了来自其超级智能实验室的首个媒体生成模型Muse Video。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+      "title": {
+        "zh": "消息称中国与多家科技公司讨论限制AI模型外部访问",
+        "en": "Sources: China met with Alibaba, ByteDance, Z.ai, and others to discuss potentially limiting foreign access to advanced AI models, penalties for AI theft, more"
+      },
+      "summary": {
+        "zh": "中国与阿里巴巴、字节跳动、Z.ai等公司讨论限制外国访问先进AI模型的可能性，并探讨AI盗窃的惩罚措施等。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "alibaba",
+        "bytedance"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "alibaba",
+        "bytedance"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/",
+      "title": {
+        "zh": "Anthropic扩展Claude Cowork至网页和移动端",
+        "en": "Anthropic expands Claude Cowork to web and mobile in beta for Max plan subscribers, and says 90%+ of Cowork usage is unrelated to software development"
+      },
+      "summary": {
+        "zh": "Anthropic宣布在Max计划订阅者中测试Claude Cowork的网页和移动端版本，并表示90%以上的使用与软件开发无关。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-04",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/ai-giants-are-handing-out-tons-of-free-computing-power-to-grab-startup-share-c00a5c5c?st=XuYpCG&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "顶级AI实验室争夺B2B收入，向初创公司提供激励",
+        "en": "OpenAI, Anthropic, and other top AI labs are offering startups token credits, promotions, and one-time bonuses as they battle for lasting streams of B2B revenue"
+      },
+      "summary": {
+        "zh": "OpenAI、Anthropic等顶级AI实验室向初创公司提供代币积分、促销和一次性奖金，以争夺长期的B2B收入来源。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "anthropic",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ0MjM2NSwiZXhwIjoxNzg0MDQ3MTY1LCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiJEQ0FGMjNFM0YyMkE0Qzk5OTM0RUMyRDEwNkM0ODc0NyJ9.o3G1Rc0_tcYioF4Awm8U44FDwiFRIsbSW630u65OvbQ",
+      "title": {
+        "zh": "消息称微软用自家MAI模型替代OpenAI和Anthropic模型",
+        "en": "Sources: Microsoft, looking to reduce AI costs, is starting to replace models from OpenAI and Anthropic with its MAI models in products like Excel and Outlook"
+      },
+      "summary": {
+        "zh": "微软为降低AI成本，开始在Excel和Outlook等产品中用其MAI模型替代OpenAI和Anthropic的模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "microsoft",
+        "openai",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "openai",
+        "anthropic"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
+      "title": {
+        "zh": "亚马逊计划通过美元债券筹资至少250亿美元",
+        "en": "Sources: Amazon is looking to raise at least $25B from a US dollar bond sale to fund its AI infrastructure investments; the size could increase based on demand"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "amazon",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/killer-robots-must-be-banned-u-n-secretary-general-says-00603020?st=WWSSrL&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "联合国秘书长呼吁禁止“杀手机器人”",
+        "en": "UN Secretary-General António Guterres calls for autonomous “killer robots” to be “banned by international law”, a central issue in the US DOD-Anthropic clash"
+      },
+      "summary": {
+        "zh": "联合国秘书长安东尼奥·古特雷斯呼吁通过国际法禁止“杀手机器人”，这是美国国防部与Anthropic冲突的核心问题之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
+      "title": {
+        "zh": "Anthropic计划扩展纽约团队至1000人",
+        "en": "Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city"
+      },
+      "summary": {
+        "zh": "Anthropic计划租赁曼哈顿一栋16层大楼，并在今年将其纽约团队规模扩大至1000人。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/304cdbb9-c161-4e40-af4d-6df1d2ff5363",
+      "title": {
+        "zh": "欧洲银行监管机构警告前沿AI模型的系统性风险",
+        "en": "European banking watchdogs ECB and ESRB warn that frontier AI models pose “systemic risks to the financial system”, and give lenders four months to prepare"
+      },
+      "summary": {
+        "zh": "欧洲央行和欧洲系统性风险委员会警告前沿AI模型对金融系统的系统性风险，并要求贷款机构在四个月内做好准备。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+      "title": {
+        "zh": "Keyfactor完成10亿美元融资",
+        "en": "Keyfactor, which manages billions of machine identities for more than 2,500 client organizations, raised $1B+ led by Summit Partners"
+      },
+      "summary": {
+        "zh": "Keyfactor为超过2500家客户组织管理数十亿机器身份，此次融资由Summit Partners领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation",
+      "title": {
+        "zh": "慕尼黑核聚变初创公司Proxima Fusion融资4.11亿欧元，估值24亿欧元",
+        "en": "Munich-based nuclear fusion startup Proxima Fusion raised €411M led by trading firm XTX and UK-based East X at a €2.4B valuation, with participation from Google"
+      },
+      "summary": {
+        "zh": "由交易公司XTX和英国East X领投，Google参与。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-legal-startup-norm-valued-at-1-2-billion-in-funding-round",
+      "title": {
+        "zh": "AI法律服务公司Norm融资1.2亿美元，估值12亿美元",
+        "en": "Norm, which runs an AI law firm that provides AI-powered legal services to clients alongside human lawyers, raised $120M led by Khosla at a $1.2B valuation"
+      },
+      "summary": {
+        "zh": "由Khosla领投，Norm结合AI与人类律师提供法律服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?st=TaoTjS&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "英国AI基础设施初创公司Nscale获得9亿美元信贷额度",
+        "en": "UK-based AI infrastructure startup Nscale secures a $900M line of credit to expand its data center buildout across Europe, the US, and Asia-Pacific"
+      },
+      "summary": {
+        "zh": "资金将用于扩展其在欧洲、美国和亚太地区的数据中心建设。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "data-center"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzM5NTM0NywiZXhwIjoxNzg0MDAwMTQ3LCJhcnRpY2xlSWQiOiJUSFI1UVBUOTZPU00wMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.ebpJwMkftUwRe24BKeLvUdXxuQuyf5n3mqDml4NLxXk&utm_source=tldrai",
+      "title": {
+        "zh": "博通与苹果延长合作至2031年，共同开发定制芯片",
+        "en": "Broadcom, Apple Extend Tie-Up to 2031 With New Custom Chips (2 minute read)"
+      },
+      "summary": {
+        "zh": "合作涉及多代苹果产品的ASIC芯片开发，支持AI相关任务处理。",
+        "en": "Broadcom and Apple have expanded their partnership through to 2031. The companies are working together to develop application-specific integrated circuit (ASIC) silicon for multiple generations of Apple products. ASIC chips are increasingly vital to the development of components for processing artificial intelligence-related tasks. Apple plans to deploy its advanced AI servers as early as 2027."
+      },
+      "tags": [
+        "cat:business",
+        "apple",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/research/global-workspace?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic研究揭示语言模型中的“J空间”概念",
+        "en": "A global workspace in language models (26 minute read)"
+      },
+      "summary": {
+        "zh": "J空间是Claude内部神经模式，支持推理、调节思维和解决多步问题。",
+        "en": "Anthropic's new research paper introduces the concept of \"J-space\" in language models, revealed as internal neural patterns playing a unique role in Claude's processing. Emerging during training without explicit design, the J-space allows Claude to internally reason, modulate thoughts, and solve multi-step problems, distinguishing them from automatic processes. These patterns enable the monitoring of internal thoughts for AI misbehavior and provide insights into AI consciousness, suggesting a tangible distinction between deliberate and automatic decisions."
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://x.com/thejessezhang/status/2074154325933424861?utm_source=tldrai",
+      "title": {
+        "zh": "企业AI中的开源模型：现状与未来趋势",
+        "en": "Everyone Is Wrong About Open Source AI in the Enterprise (3 minute read)"
+      },
+      "summary": {
+        "zh": "企业AI部署初期倾向于使用开源模型，未来可能转向专用开源替代方案。",
+        "en": "Decagon runs roughly 90% of its workloads on open-source models because small, heavily fine-tuned models deliver the latency and task-specific performance required for customer service agents. Most enterprise AI use cases remain early-stage, so companies favor frontier models that maximize flexibility and intelligence. As deployments mature and workflows stabilize, many production workloads will likely migrate from closed models to specialized open-source alternatives."
+      },
+      "tags": [
+        "cat:business",
+        "open-source",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://x.com/willdepue/status/2074178395462848800?utm_source=tldrai",
+      "title": {
+        "zh": "数据成为战略资产：数据实验室支出预计2030年超1000亿美元",
+        "en": "A Stargate for Data (6 minute read)"
+      },
+      "summary": {
+        "zh": "随着AI训练对高质量私有数据需求增加，数据收集成为关键瓶颈。",
+        "en": "Data Labs are projected to surpass $100B/year in data spend by 2030 as demand shifts from compute-limited to data-limited regimes. The bottleneck now lies in collecting private, high-quality datasets, as public internet data becomes insufficient for AI training needs. This scarcity positions data as a strategic asset pivotal to economic and scientific progress, potentially spurring efforts to cultivate new data sources akin to major compute investments."
+      },
+      "tags": [
+        "cat:business",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "data-center"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/?utm_source=tldrai",
+      "title": {
+        "zh": "腾讯发布2950亿参数Mixture-of-Experts模型Hy3",
+        "en": "Hy3 (1 minute read)"
+      },
+      "summary": {
+        "zh": "Hy3性能超越同类模型，可免费在OpenRouter上使用至7月21日。",
+        "en": "Hy3 is a 295-billion-parameter Mixture-of-Experts model with 21 billion active parameters and 3.8 billion MTP layer parameters. Developed by Tencent, Hy3 outperforms similar-sized models and rivals flagship open-source models with two to five times more parameters. The full-sized model is available on Hugging Face. It is available for free on OpenRouter until July 21."
+      },
+      "tags": [
+        "cat:model",
+        "tencent",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent",
+        "open-weights"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/?utm_source=tldrai",
+      "title": {
+        "zh": "PyTorch Monarch支持AMD GPU上的弹性分布式训练",
+        "en": "Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm (13 minute read)"
+      },
+      "summary": {
+        "zh": "Monarch实现了在硬件故障情况下动态恢复，提升大规模AI基础设施稳定性。",
+        "en": "Training state-of-the-art large language models with billions of parameters requires distributed training across hundreds or thousands of GPUs. At this scale, hardware failures are expected. PyTorch Monarch enables elastic, fault-tolerant distributed training on AMD GPUs. This post shows how Monarch dynamically recovers from node failures without halting the entire job and why this represents a significant step toward stable large-scale AI infrastructure."
+      },
+      "tags": [
+        "cat:tech",
+        "amd",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amd",
+        "training"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://huggingface.co/papers/2607.02032?utm_source=tldrai",
+      "title": {
+        "zh": "PACE框架：代理能力评估的高效代理",
+        "en": "PACE: A Proxy for Agentic Capability Evaluation (2 minute read)"
+      },
+      "summary": {
+        "zh": "通过少量评估实例预测代理基准性能，降低99%以上评估成本。",
+        "en": "PACE framework predicts costly agentic LLM benchmark performance using a small subset of atomic evaluation instances, achieving high accuracy at a fraction of the cost. It uses a regression model with selected instances from non-agentic benchmarks to predict scores on agentic benchmarks. PACE reduces evaluation costs by over 99% while maintaining a mean absolute error under 4%, aiding model development and selection."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "benchmark"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "benchmark"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/06/apple-veteran-takes-on-meta-with-1-billion-smart-glasses-maker.html?utm_source=tldrai",
+      "title": {
+        "zh": "苹果前高管创立的中国智能眼镜公司成独角兽，腾讯和美团领投",
+        "en": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta (3 minute read)"
+      },
+      "summary": {
+        "zh": "由前苹果高管王威创立的Even Realities Technology通过腾讯和美团领投的1.5亿美元融资，成功跻身独角兽行列。",
+        "en": "Even Realities Technology, founded by ex-Apple exec Will Wang, has reached unicorn status thanks to a $150 million funding round led by Tencent and Meituan."
+      },
+      "tags": [
+        "cat:business",
+        "tencent",
+        "meta",
+        "apple",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent",
+        "meta",
+        "apple",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-14",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://x.com/systematicls/status/2074142558595207435?utm_source=tldrai",
+      "title": {
+        "zh": "Fable与GPT 5.6时代的100倍生产力工程师画像",
+        "en": "What The New 100x Agentic Engineer Looks Like In The Era Of Fable & GPT 5.6 (35 minute read)"
+      },
+      "summary": {
+        "zh": "探讨了在代理工程领域中，如何培养出生产力远超平均水平的顶尖工程师。",
+        "en": "There are levels to the art of agentic engineering that result in outlier agentic engineers with orders of magnitude more productivity than the median."
+      },
+      "tags": [
+        "cat:other",
+        "agent",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "gpt"
+      ],
+      "category_tag": "cat:other"
+    }
+  ]
+}
