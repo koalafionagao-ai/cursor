@@ -1,0 +1,272 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to “handle difficult, long-running” legal, finance, and coding tasks
+Tweets:
+  - Author: @elonmusk
+    Text: Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster.  The combination of capability, faster speed and lower cost is what makes it competitive.  We are closing the loop on real-world usefulness, not benchmarks.  Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.
+    Link ID: TM-01-TW-01
+  - Author: @bridgemindai
+    Text: New CursorBench results just dropped and Grok 4.5 is the story. #3 overall at 66.7%.  Right behind Fable 5 Max at 70.5%.  Now look at the cost column.  Fable 5 Max: $17.32 per task Grok 4.5 High: $1.51 per task That is Fable level performance at roughly 1/10th the cost.  And it beats Fable 5 High and Opus 4.8 Max outright.  The intelligence war just became a price war.
+    Link ID: TM-01-TW-02
+  - Author: @zephyr_z9
+    Text: Testing Grok 4.5 Won't be surprised if Elon cancels the Anthropic & Google agreements and gets back the compute xAI is bacc
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: OpenAI says it will launch GPT-5.6 Sol, along with Terra and Luna, publicly on Thursday; a source says the US Department of Commerce approved a broad rollout
+Tweets:
+  - Author: @synthwavedd
+    Text: - GPT-5.6 will be the final model in the 5.x series.  GPT-6 is slated to launch in about a month, earlier than expected, and possibly even later this month - GPT-6 will be based on a new, significantly larger pretrain (versus the ~4T 5.5/5.6 ‘Spud’ base) - There is lots of excitement at OpenAI over this new base, which they believe will be much better able to compete with both Fable 5 and upcoming 5.1, targeting a similar release window
+    Link ID: TM-02-TW-01
+  - Author: @emollick
+    Text: My big takeaway is that both Sol & Fable represent jumps over previous models and have opened a large gap with the next-best AIs. People will have preferences for one or the other, but if you doing any work where better intelligence matters, those two models are your only choices
+    Link ID: TM-02-TW-02
+  - Author: @thdxr
+    Text: i've never hyped a model release, we're generally conservative with how we use these things but gpt-5.6 has had a massive impact on our team, we're using 5x the tokens as we used to it's not even smarter than fable or anything, but it's just so reliable and fun to use
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time
+    Link ID: TM-02-SUB-01
+  - Title: OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users
+    Link ID: TM-02-SUB-02
+---
+ID: TM-03
+Title: Apple reaches a deal with Broadcom worth $30B+ to make 15B+ chips in the US over the next five years, Apple's largest as part of its $600B US investment pledge
+Tweets:
+  - Author: @tim_cook
+    Text: We're proud to expand our work with Broadcom with a new agreement to produce billions more chips in the US! It's our largest ever American Manufacturing Program commitment and an important step in our work to build an end-to-end silicon supply chain in the US.
+    Link ID: TM-03-TW-01
+  - Author: @patrickmoorhead
+    Text: Broadcom nearly walked away from Apple and the smartphone wireless market when Apple started hard negotiating. How things have changed now that the chip providers have the upper hand. No, Apple isn't jacking around Micron anymore either. And is now friends with Nvidia.
+    Link ID: TM-03-TW-02
+  - Author: @presssec
+    Text: The Trump Effect: “Apple announced Wednesday it is investing more than $30 billion in chip manufacturing in the U.S. The investment, in partnership with Broadcom, is set to produce 15 billion chips, creating hundreds of U.S. jobs.”
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Sources: Meta is testing AI glasses that continuously record audio and take photos every few seconds, letting users query or recall what they saw or heard
+Sub Items:
+  - Title: Meta says it will update its smart glasses with a new feature that disables the camera when it detects that someone tampered with the device's privacy LED light
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: The EU General Court dismisses Apple's legal challenges against its designation as a DMA “gatekeeper” for its App Store and iOS; Apple filed the case in 2024
+---
+ID: TM-06
+Title: Sources: Jeff Bezos' Blue Origin is raising $10B at a $130B pre-money valuation, its first outside funding round, including $4B from Coatue and $2B from Bezos
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-07
+Title: Sources: China plans to let some of its biggest AI companies buy a small number of Nvidia's H200 chips to offset a domestic computing shortage in recent months
+---
+ID: TM-08
+Title: China's CNVD says it found “security backdoor vulnerabilities” in Claude Code that can be used to send info like “user location and identity to remote servers”
+---
+ID: TM-09
+Title: Mistral launches Robostral Navigate, a hardware-agnostic robotics navigation model trained via simulation that uses a single camera and basic language prompts
+---
+ID: TM-10
+Title: Sources: MiniMax is working on a 2.7T-parameter model internally called M3 Pro, which it could release as early as Q3 as open source; M3 has 428B parameters
+---
+ID: TM-11
+Title: OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark
+---
+ID: TM-12
+Title: Internal documents: Amazon is working on an Alexa project, codenamed Moonraker, to handle more complex, multistep tasks, projecting $100M+ in GPU costs in 2026
+---
+
+[CATEGORY: REGULATION]
+ID: TM-13
+Title: US lawmakers are weighing strategies to curb US companies' growing adoption of Chinese AI models, as an ongoing House Committee investigation probes the risks
+---
+ID: TM-14
+Title: France's competition watchdog orders Meta to negotiate in good faith with news organizations over copyright payments, after two groups filed complaints in 2025
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-15
+Title: Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct
+---
+ID: TM-16
+Title: CPUs are now at the center of the AI race as Nvidia, Qualcomm, MediaTek, Arm, Google, Amazon, Chinese players, and others take on Intel and AMD in data centers
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-17
+Title: Sources: Apple begins testing CXMT's DRAM chips for devices sold in China; Apple's interest thrusts CXMT and CXMT's state-owned shareholders into the spotlight
+---
+ID: TM-18
+Title: Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with a chip rival
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-19
+Title: China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range
+---
+ID: TM-20
+Title: GM-backed Chinese autonomous driving company Momenta saw a muted trading debut in its Hong Kong IPO, up 2.8% to value the company at ~$9B, after raising $751M
+---
+ID: TM-21
+Title: Filing: Chinese AI model maker Z.ai is seeking to raise ~$4B from the sale of 19.8M shares at ~$202 to ~$216 each, after its Hong Kong stock soared 1,400%+ YTD
+---
+ID: TM-22
+Title: SK Hynix's IPO prospectus analysis, as it seeks to raise ~$28B on the Nasdaq: highly leveraged to HBM, deep and broad China ties, and health and safety concerns
+---
+
+[CATEGORY: M&A]
+ID: TM-23
+Title: The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro
+---
+ID: TM-24
+Title: Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-25
+Title: Chip startup SambaNova raised a $1B Series F led by General Atlantic at an $11B valuation and signs JPMorgan as a customer to deploy its chips for in-house AI
+---
+ID: TM-26
+Title: Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second
+---
+ID: TM-27
+Title: Oratomic, which is developing quantum computing hardware and software, raised a $300M Series A led by ARCH Venture Partners, Spark Capital, and Khosla Ventures
+---
+ID: TM-28
+Title: Paris-based Skello, which provides AI-powered HR tools for frontline workforce management, raised €200M led by Bridgepoint to support its European expansion
+---
+ID: TM-29
+Title: Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation
+---
+ID: TM-30
+Title: Kaon AI, which builds personalized story worlds using its AI-based FlowGPT and Emochi tools, raised $60M from B Capital and others, and says Emochi has 2M DAUs
+---
+ID: TM-31
+Title: Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures
+---
+ID: TM-32
+Title: Israeli startup Velocity, which helps place targeted ads on consumer and B2B AI platforms, raised a $27M seed led by NFX and Red Dot, and serves 20 clients
+---
+ID: TM-33
+Title: Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture
+---
+ID: TM-34
+Title: Lisbon-based Bizay, a customized products marketplace for SMBs, raised a $55M Series D led by Indico, as it aims to accelerate its US expansion
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-35
+Title: Nvidia lost ~$1T in market value in less than two months, dropping 16% from its May all-time-high, trading at 18x forward earnings, its lowest level since 2019
+Sub Items:
+  - Title: South Korea's Kospi index is down 20%+ from its record high in June, falling 5%+ on Wednesday; Samsung and SK Hynix fell 5%+ amid long-term chip deal concerns
+    Link ID: TM-35-SUB-01
+---
+ID: TM-36
+Title: Crypto VC firm Paradigm raised $1.2B, its fourth fund, to invest in areas outside of crypto, like AI and robotics; Paradigm had $11.9B in AUM at the end of 2025
+---
+ID: TM-37
+Title: Former GitHub CEO Thomas Dohmke's Entire launches a decentralized Git network to handle high coding agent traffic, with servers in the US, the EU, and Australia
+---
+ID: TM-38
+Title: DuckDuckGo updates its browser for iOS, Windows, and macOS to block most video ads by default, including those on YouTube, based on uBlockOrigin's filter lists
+---
+ID: TM-39
+Title: The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years
+---
+ID: TM-40
+Title: Omdia expects a 22%+ YoY drop in global shipments for <$400 smartphones in 2026 amid soaring DRAM and NAND prices; Q1 memory costs were nearly 60% of materials
+---
+ID: TM-41
+Title: Palantir insiders and investors fear the company's enthusiastic embrace of President Trump's policies could drive away corporate clients and engineering talent
+---
+ID: TM-42
+Title: A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market
+---
+ID: TM-43
+Title: A look at effective altruism's fall after SBF's arrest and how the soon-to-be rich from upcoming AI IPOs give the movement a chance to return larger than ever
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps (2 minute read)
+Excerpt: Microsoft is starting to replace OpenAI and Anthropic's models with its own in software products like Excel and Outlook. The move shows that the company is making progress in its efforts to build competitive AI models at a lower cost. Microsoft uses massive quantities of tokens in its products. It gets a lot of its tokens at a discount, but those deals are set to expire soon, and Microsoft is working to make sure it isn't stuck paying whoever the leading AI labs decide to charge.
+---
+ID: TL-02
+Title: Claude Cowork on Mobile and Web (1 minute read)
+Excerpt: Anthropic announced that Claude Cowork sessions and files would become accessible across web and mobile, allowing long-running tasks to continue without an open computer. Beta access began rolling out to Max users, with additional plans to follow.
+---
+ID: TL-03
+Title: GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday (1 minute read)
+Excerpt: OpenAI is releasing GPT-5.6 Sol, Terra, and Luna tomorrow. It is currently expanding preview access globally. Sol is the flagship model. Terra is a balanced model for everyday work. Luna is a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost.
+---
+ID: TL-04
+Title: Facing US export controls, China's DeepSeek plans to make its own chips (2 minute read)
+Excerpt: DeepSeek is planning to enter the silicon business. The company has been meeting with potential partners in the hardware and silicon space for the past year and has been hiring engineers for the project. It is focusing on data center chips for inference, likely to reduce its reliance on both Huawei and Nvidia. Developing its own chip could give the company an advantage in a market where data center access is likely to remain constrained.
+---
+ID: TL-05
+Title: Harness Engineering for Self-Improvement (28 minute read)
+Excerpt: Recursive self-improvement (RSI) is when ultraintelligent machines can design better machines to improve themselves and surpass humans in all intellectual activities. The feedback loop in modern AI involves models improving the training pipeline and deployment system, which enables better successor models with improved performance. A harness is the system surrounding a base model that orchestrates execution and decides how a model thinks and plans, calls tools and acts, perceives and manages context, stores artifacts, and evaluates results. This post looks at the research around harness engineering and how it contributes to RSI.
+---
+ID: TL-06
+Title: MiniMax M3: How Sparse Attention Makes Long-Horizon Agents Practical (11 minute read)
+Excerpt: Long-horizon tasks are demanding because the context never stops growing. The longer an agent works, the more expensive each step becomes. MiniMax Sparse Attention changes what the model reads at each step, which results in predictable cost at any length and cheap long context with minimal quality cost. It makes long context cheap and fast enough to sit inside iterative systems that need to keep state over time.
+---
+ID: TL-07
+Title: No Space Like J-Space (54 minute read)
+Excerpt: The 'J-space' is the area of conscious access where things are available for a model to do what humans could call conscious reasoning. It is named after an interpretability technique called the Jacobian Lens, which computes, for each layer, the average causal effect of changes in the residual stream of a model's eventual outputs, averaged across a wide variety of contexts. This allows researchers to trace what concepts are associated with each layer as the model proceeds through. The J-space and J-lens are remarkably effective tools and mark a major advance in our understanding of LLMs.
+---
+ID: TL-08
+Title: Reducing Doom Loops with Final Token Preference Optimization (12 minute read)
+Excerpt: Repetitive degeneration is a common failure mode during inference. Antidoom training is a technique that repairs the degenerative repetitive behavior commonly seen after training. It selectively targets the problematic tokens that begin loops to achieve the near-complete elimination of repetitive loops.
+---
+ID: TL-09
+Title: Gemma 4 Technical Report (17 minute read)
+Excerpt: Gemma 4 introduces a new generation of open-weight multimodal language models featuring dense and Mixture-of-Experts architectures, with parameters ranging from 2.3B to 31B. It enhances computational efficiency and reasoning via innovations like a thinking mode, long-context efficiency, and a unified encoder-free architecture. These models achieve performance comparable to larger models across various benchmarks and are available under an Apache 2.0 license for widespread adoption.
+---
+ID: TL-10
+Title: Introducing Muse Image: Image Generation Built for Your World (4 minute read)
+Excerpt: Meta launched Muse Image, an AI-powered model for generating high-quality visuals, now available in Meta AI and integrated with Instagram and WhatsApp. Users can create images using simple prompts, utilize AI effects on Instagram, or redesign rooms with real products via Facebook Marketplace. Soon available globally, Muse Image is free for general use, with more advanced options included in Meta's subscription plans.
+---
+ID: TL-11
+Title: Expanding Managed Agents in Gemini API: background tasks, remote MCP, and more (2 minute read)
+Excerpt: Google has announced new capabilities for Managed Agents in Gemini API, including background execution, remote MCP server integration, custom function calling, and refreshing credentials across interactions. Users still call a single endpoint, and Gemini handles reasoning, code execution, package installation, file management, and web information, all inside an isolated cloud sandbox. The updates turn managed agents into asynchronous workers that operate inside real development environments without blocking applications.
+---
+ID: TL-12
+Title: Microsoft's Real AI Strategy Is Not the Chatbot (8 minute read)
+Excerpt: Microsoft aims to vertically integrate the enterprise AI chain, controlling the path from customer interaction to cloud services. This strategy extends beyond its chatbot initiatives.
+---
+ID: TL-13
+Title: TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)
+Excerpt: Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!
+---
+ID: TL-14
+Title: Claude Fable 5 promotional access (7 minute read)
+Excerpt: Anthropic is offering access to Claude Fable 5 at no extra cost until July 12. The promotion is available on Pro, Max, Team, and premium seats on seat-based Enterprise plans. Up to 50% of users' weekly subscription limits can be used on Claude Fable 5 during the promotional period. After reaching the limit, users can continue using Fable 5 with usage credits or switch to another model and keep working within their remaining limits.
+---
+ID: TL-15
+Title: Building a Moat: Self Learning Agents (12 minute read)
+Excerpt: Self-learning agents should combine agent traces with in-browser user activity to capture both AI failures and human corrections. CopilotKit uses the AG-UI protocol to turn these interactions into procedural and episodic memory, allowing agents to improve over time while keeping learning scoped by user, team, or application.
+---
+ID: TL-16
+Title: GPT-Realtime-2.1-mini is now available in the API (1 minute read)
+Excerpt: GPT-Realtime-2.1-mini brings reasoning and tool use to OpenAI's Realtime mini lineup at the same cost as GPT-Realtime-mini.
+---
+ID: TL-17
+Title: Why Alignment Evals Need Calibration (8 minute read)
+Excerpt: Current alignment benchmarks may overstate safety because models can recognize evaluation settings, game scoring rules, or conceal sleeper behaviors.
+---
+ID: TL-18
+Title: Agents Work Better with Conventional CLIs (12 minute read)
+Excerpt: Microsoft tested whether agents performed better when command-line arguments were replaced by a single JSON payload.
+---
+ID: TL-19
+Title: SpaceX and Cursor are set to release their first jointly developed AI model as soon as Wednesday (1 minute read)
+Excerpt: The model is expected to be competitive with Anthropic's Opus 4.8 and OpenAI's GPT-5.5 in some respects.
+---

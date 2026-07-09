@@ -1,0 +1,829 @@
+{
+  "date": "2026-07-08",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 31,
+    "by_category": {
+      "cat:model": 7,
+      "cat:business": 12,
+      "cat:other": 2,
+      "cat:app": 3,
+      "cat:tech": 7
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+      "title": {
+        "zh": "SpaceXAI推出Grok 4.5，专注于复杂任务的首个合作模型",
+        "en": "SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to “handle difficult, long-running” legal, finance, and coding tasks"
+      },
+      "summary": {
+        "zh": "该模型与Cursor合作开发，旨在处理复杂、长期的法律、金融和编程任务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "grok",
+        "cursor"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "grok",
+        "cursor"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
+      "title": {
+        "zh": "OpenAI将发布GPT-5.6 Sol及Terra和Luna",
+        "en": "OpenAI says it will launch GPT-5.6 Sol, along with Terra and Luna, publicly on Thursday; a source says the US Department of Commerce approved a broad rollout"
+      },
+      "summary": {
+        "zh": "美国商务部已批准其广泛推出，计划于周四公开发布。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/china-plans-let-top-ai-firms-buy-limited-amount-nvidia-h200-chips",
+      "title": {
+        "zh": "消息称中国允许部分AI公司购买少量Nvidia H200芯片",
+        "en": "Sources: China plans to let some of its biggest AI companies buy a small number of Nvidia's H200 chips to offset a domestic computing shortage in recent months"
+      },
+      "summary": {
+        "zh": "此举旨在缓解近期国内计算资源短缺问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/china-says-it-has-found-security-vulnerabilities-in-anthropics-claude-code-5ecf05dc?st=D3sLJ5&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "中国CNVD发现Claude Code存在安全后门漏洞",
+        "en": "China's CNVD says it found “security backdoor vulnerabilities” in Claude Code that can be used to send info like “user location and identity to remote servers”"
+      },
+      "summary": {
+        "zh": "漏洞可能被用于将用户位置信息和身份发送至远程服务器。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "claude",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
+      "title": {
+        "zh": "Mistral推出Robostral Navigate机器人导航模型",
+        "en": "Mistral launches Robostral Navigate, a hardware-agnostic robotics navigation model trained via simulation that uses a single camera and basic language prompts"
+      },
+      "summary": {
+        "zh": "该模型通过模拟训练，可使用单摄像头和基本语言提示进行导航。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "mistral",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "robotics"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/briefings/exclusive-chinas-minimax-plans-launch-2-7-trillion-parameter-model",
+      "title": {
+        "zh": "MiniMax开发M3 Pro模型，或将于Q3开源发布",
+        "en": "Sources: MiniMax is working on a 2.7T-parameter model internally called M3 Pro, which it could release as early as Q3 as open source; M3 has 428B parameters"
+      },
+      "summary": {
+        "zh": "M3 Pro拥有2.7万亿参数，而M3模型则有4280亿参数。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.businessinsider.com/amazon-moonraker-project-alexa-agentic-cost-2026-7",
+      "title": {
+        "zh": "亚马逊开发代号为Moonraker的Alexa项目",
+        "en": "Internal documents: Amazon is working on an Alexa project, codenamed Moonraker, to handle more complex, multistep tasks, projecting $100M+ in GPU costs in 2026"
+      },
+      "summary": {
+        "zh": "该项目旨在处理更复杂的多步骤任务，预计2026年GPU成本将超1亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "amazon"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+      "title": {
+        "zh": "美国立法者考虑限制企业采用中国AI模型",
+        "en": "US lawmakers are weighing strategies to curb US companies' growing adoption of Chinese AI models, as an ongoing House Committee investigation probes the risks"
+      },
+      "summary": {
+        "zh": "众议院委员会正在调查相关风险并制定应对策略。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://asia.nikkei.com/business/technology/tech-asia/why-cpus-are-now-at-the-center-of-the-ai-race",
+      "title": {
+        "zh": "CPU成为AI竞赛核心，众多公司挑战Intel和AMD",
+        "en": "CPUs are now at the center of the AI race as Nvidia, Qualcomm, MediaTek, Arm, Google, Amazon, Chinese players, and others take on Intel and AMD in data centers"
+      },
+      "summary": {
+        "zh": "Nvidia、Qualcomm、MediaTek、Arm、Google等公司纷纷加入数据中心CPU竞争。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/nvidias-new-hedge-chip-competitors-partner",
+      "title": {
+        "zh": "Nvidia与d-Matrix合作推出新系统以支持AI模型",
+        "en": "Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with a chip rival"
+      },
+      "summary": {
+        "zh": "这是Nvidia与芯片竞争对手合作的最新案例。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.culpium.com/p/what-sk-hynixs-ipo-prospectus-doesnt",
+      "title": {
+        "zh": "SK海力士计划在纳斯达克上市，目标融资约280亿美元",
+        "en": "SK Hynix's IPO prospectus analysis, as it seeks to raise ~$28B on the Nasdaq: highly leveraged to HBM, deep and broad China ties, and health and safety concerns"
+      },
+      "summary": {
+        "zh": "公司高度依赖HBM技术，与中国有深厚广泛的联系，同时面临健康和安全问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ipo",
+        "chip"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
+      "title": {
+        "zh": "OpenAI Deployment Company收购应用AI公司Northslope",
+        "en": "The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro"
+      },
+      "summary": {
+        "zh": "这是继收购Tomoro之后的第二次收购，Northslope由前Palantir员工创立。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "acquisition",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "acquisition",
+        "startup"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation",
+      "title": {
+        "zh": "芯片初创公司SambaNova完成10亿美元F轮融资",
+        "en": "Chip startup SambaNova raised a $1B Series F led by General Atlantic at an $11B valuation and signs JPMorgan as a customer to deploy its chips for in-house AI"
+      },
+      "summary": {
+        "zh": "由General Atlantic领投，估值达110亿美元，并签约摩根大通部署其AI芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "chip",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+      "title": {
+        "zh": "AI芯片初创公司Positron计划分两阶段融资7.5亿美元",
+        "en": "Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second"
+      },
+      "summary": {
+        "zh": "第一阶段估值35亿美元，第二阶段估值约50亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "chip",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
+      "title": {
+        "zh": "量子计算公司Oratomic完成3亿美元A轮融资",
+        "en": "Oratomic, which is developing quantum computing hardware and software, raised a $300M Series A led by ARCH Venture Partners, Spark Capital, and Khosla Ventures"
+      },
+      "summary": {
+        "zh": "由ARCH Venture Partners、Spark Capital和Khosla Ventures领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "quantum",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "quantum",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/",
+      "title": {
+        "zh": "法国Skello完成2亿欧元融资，支持欧洲扩张",
+        "en": "Paris-based Skello, which provides AI-powered HR tools for frontline workforce management, raised €200M led by Bridgepoint to support its European expansion"
+      },
+      "summary": {
+        "zh": "Skello提供基于AI的前线员工管理HR工具，此轮融资由Bridgepoint领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-29",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "title": {
+        "zh": "Prime Intellect完成1.3亿美元A轮融资，估值10亿美元",
+        "en": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation"
+      },
+      "summary": {
+        "zh": "公司帮助企业通过提供计算能力和专业工具构建自己的AI代理。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "agent",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
+      "title": {
+        "zh": "加密风投公司Paradigm筹集12亿美元新基金，投资AI和机器人领域",
+        "en": "Crypto VC firm Paradigm raised $1.2B, its fourth fund, to invest in areas outside of crypto, like AI and robotics; Paradigm had $11.9B in AUM at the end of 2025"
+      },
+      "summary": {
+        "zh": "这是其第四支基金，截至2025年底管理资产达119亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "robotics"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ4MTQxMywiZXhwIjoxNzg0MDg2MjEzLCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.tDeXozGASNAknSz1gQAtbZc1vwcInOVUzsNcxsZisbs&utm_source=tldrai",
+      "title": {
+        "zh": "微软在部分应用中用自研AI替代OpenAI和Anthropic模型",
+        "en": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps (2 minute read)"
+      },
+      "summary": {
+        "zh": "微软在Excel和Outlook等产品中逐步替换外部AI模型，降低成本并减少对外部供应商的依赖。",
+        "en": "Microsoft is starting to replace OpenAI and Anthropic's models with its own in software products like Excel and Outlook. The move shows that the company is making progress in its efforts to build competitive AI models at a lower cost. Microsoft uses massive quantities of tokens in its products. It gets a lot of its tokens at a discount, but those deals are set to expire soon, and Microsoft is working to make sure it isn't stuck paying whoever the leading AI labs decide to charge."
+      },
+      "tags": [
+        "cat:tech",
+        "microsoft",
+        "openai",
+        "anthropic",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "openai",
+        "anthropic",
+        "gpt"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://claude.com/blog/cowork-web-mobile/?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Cowork现已支持网页和移动端",
+        "en": "Claude Cowork on Mobile and Web (1 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic宣布Claude Cowork的会话和文件功能可在网页和移动端访问，测试版已向Max用户开放。",
+        "en": "Anthropic announced that Claude Cowork sessions and files would become accessible across web and mobile, allowing long-running tasks to continue without an open computer. Beta access began rolling out to Max users, with additional plans to follow."
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://x.com/OpenAI/status/2074704958419792299?utm_source=tldrai",
+      "title": {
+        "zh": "GPT-5.6 Sol、Terra 和 Luna 即将发布",
+        "en": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday (1 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI 将推出 GPT-5.6 Sol、Terra 和 Luna，其中 Sol 是旗舰模型，Terra 性能与 GPT-5.5 相当但成本更低，Luna 则以低成本提供强大能力。",
+        "en": "OpenAI is releasing GPT-5.6 Sol, Terra, and Luna tomorrow. It is currently expanding preview access globally. Sol is the flagship model. Terra is a balanced model for everyday work. Luna is a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/?utm_source=tldrai",
+      "title": {
+        "zh": "DeepSeek 面对出口管制计划自研芯片",
+        "en": "Facing US export controls, China's DeepSeek plans to make its own chips (2 minute read)"
+      },
+      "summary": {
+        "zh": "DeepSeek 正计划进入芯片业务，专注于数据中心推理芯片，以减少对华为和 Nvidia 的依赖。",
+        "en": "DeepSeek is planning to enter the silicon business. The company has been meeting with potential partners in the hardware and silicon space for the past year and has been hiring engineers for the project. It is focusing on data center chips for inference, likely to reduce its reliance on both Huawei and Nvidia. Developing its own chip could give the company an advantage in a market where data center access is likely to remain constrained."
+      },
+      "tags": [
+        "cat:business",
+        "deepseek",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "deepseek",
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/?utm_source=tldrai",
+      "title": {
+        "zh": "自我改进的工程方法",
+        "en": "Harness Engineering for Self-Improvement (28 minute read)"
+      },
+      "summary": {
+        "zh": "探讨递归自我改进（RSI）及其在现代 AI 中的实现，重点介绍围绕基础模型的“控制系统”如何提升模型性能。",
+        "en": "Recursive self-improvement (RSI) is when ultraintelligent machines can design better machines to improve themselves and surpass humans in all intellectual activities. The feedback loop in modern AI involves models improving the training pipeline and deployment system, which enables better successor models with improved performance. A harness is the system surrounding a base model that orchestrates execution and decides how a model thinks and plans, calls tools and acts, perceives and manages context, stores artifacts, and evaluates results. This post looks at the research around harness engineering and how it contributes to RSI."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/omarsar0/status/2074494774292148726?utm_source=tldrai",
+      "title": {
+        "zh": "MiniMax M3：稀疏注意力让长时间任务更高效",
+        "en": "MiniMax M3: How Sparse Attention Makes Long-Horizon Agents Practical (11 minute read)"
+      },
+      "summary": {
+        "zh": "MiniMax 稀疏注意力通过优化模型读取方式，降低长时间任务的计算成本，同时保持质量。",
+        "en": "Long-horizon tasks are demanding because the context never stops growing. The longer an agent works, the more expensive each step becomes. MiniMax Sparse Attention changes what the model reads at each step, which results in predictable cost at any length and cheap long context with minimal quality cost. It makes long context cheap and fast enough to sit inside iterative systems that need to keep state over time."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/TheZvi/status/2074612488956424412?utm_source=tldrai",
+      "title": {
+        "zh": "J 空间：理解大语言模型的新工具",
+        "en": "No Space Like J-Space (54 minute read)"
+      },
+      "summary": {
+        "zh": "J 空间和 J 镜头是研究大语言模型的新方法，能够追踪模型各层的概念关联，显著提升对模型的理解。",
+        "en": "The 'J-space' is the area of conscious access where things are available for a model to do what humans could call conscious reasoning. It is named after an interpretability technique called the Jacobian Lens, which computes, for each layer, the average causal effect of changes in the residual stream of a model's eventual outputs, averaged across a wide variety of contexts. This allows researchers to trace what concepts are associated with each layer as the model proceeds through. The J-space and J-lens are remarkably effective tools and mark a major advance in our understanding of LLMs."
+      },
+      "tags": [
+        "cat:tech",
+        "reasoning",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "reasoning",
+        "alignment"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://arxiv.org/html/2607.02770v1?utm_source=tldrai",
+      "title": {
+        "zh": "Gemma 4 技术报告",
+        "en": "Gemma 4 Technical Report (17 minute read)"
+      },
+      "summary": {
+        "zh": "Gemma 4 是新一代开源多模态语言模型，采用创新架构，性能媲美更大模型，并提供 Apache 2.0 许可。",
+        "en": "Gemma 4 introduces a new generation of open-weight multimodal language models featuring dense and Mixture-of-Experts architectures, with parameters ranging from 2.3B to 31B. It enhances computational efficiency and reasoning via innovations like a thinking mode, long-context efficiency, and a unified encoder-free architecture. These models achieve performance comparable to larger models across various benchmarks and are available under an Apache 2.0 license for widespread adoption."
+      },
+      "tags": [
+        "cat:model",
+        "open-source",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "multimodal"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/?utm_source=tldrai",
+      "title": {
+        "zh": "Meta 推出 Muse Image 图像生成工具",
+        "en": "Introducing Muse Image: Image Generation Built for Your World (4 minute read)"
+      },
+      "summary": {
+        "zh": "Meta 发布 Muse Image，可生成高质量图像，并集成至 Instagram 和 WhatsApp，支持简单提示词生成和房间设计等功能。",
+        "en": "Meta launched Muse Image, an AI-powered model for generating high-quality visuals, now available in Meta AI and integrated with Instagram and WhatsApp. Users can create images using simple prompts, utilize AI effects on Instagram, or redesign rooms with real products via Facebook Marketplace. Soon available globally, Muse Image is free for general use, with more advanced options included in Meta's subscription plans."
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "image-gen"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini API 扩展托管代理功能",
+        "en": "Expanding Managed Agents in Gemini API: background tasks, remote MCP, and more (2 minute read)"
+      },
+      "summary": {
+        "zh": "Google 为 Gemini API 的托管代理新增后台任务、远程 MCP 集成等功能，使其成为异步工作者，适应真实开发环境。",
+        "en": "Google has announced new capabilities for Managed Agents in Gemini API, including background execution, remote MCP server integration, custom function calling, and refreshing credentials across interactions. Users still call a single endpoint, and Gemini handles reasoning, code execution, package installation, file management, and web information, all inside an isolated cloud sandbox. The updates turn managed agents into asynchronous workers that operate inside real development environments without blocking applications."
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://x.com/PasserLabs/status/2074551327380627525?utm_source=tldrai",
+      "title": {
+        "zh": "微软的真实 AI 战略并非聊天机器人",
+        "en": "Microsoft's Real AI Strategy Is Not the Chatbot (8 minute read)"
+      },
+      "summary": {
+        "zh": "微软的 AI 战略旨在垂直整合企业 AI 链条，从客户交互到云服务，超越聊天机器人领域。",
+        "en": "Microsoft aims to vertically integrate the enterprise AI chain, controlling the path from customer interaction to cloud services. This strategy extends beyond its chatbot initiatives."
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-15",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/ataiiam/status/2074501252268937703?utm_source=tldrai",
+      "title": {
+        "zh": "构建护城河：自学习代理",
+        "en": "Building a Moat: Self Learning Agents (12 minute read)"
+      },
+      "summary": {
+        "zh": "探讨如何通过结合代理轨迹和用户活动，利用 AG-UI 协议实现自学习代理的持续改进。",
+        "en": "Self-learning agents should combine agent traces with in-browser user activity to capture both AI failures and human corrections. CopilotKit uses the AG-UI protocol to turn these interactions into procedural and episodic memory, allowing agents to improve over time while keeping learning scoped by user, team, or application."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "reasoning"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-19",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://threadreaderapp.com/thread/2074621759891132710.html?utm_source=tldrai",
+      "title": {
+        "zh": "SpaceX与Cursor将发布首个联合开发的AI模型",
+        "en": "SpaceX and Cursor are set to release their first jointly developed AI model as soon as Wednesday (1 minute read)"
+      },
+      "summary": {
+        "zh": "该模型预计在某些方面可与Anthropic的Opus 4.8和OpenAI的GPT-5.5竞争。",
+        "en": "The model is expected to be competitive with Anthropic's Opus 4.8 and OpenAI's GPT-5.5 in some respects."
+      },
+      "tags": [
+        "cat:model",
+        "opus",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "opus",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    }
+  ]
+}

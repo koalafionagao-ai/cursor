@@ -1,0 +1,501 @@
+{
+  "date": "2026-07-08",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to “handle difficult, long-running” legal, finance, and coding tasks",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "OpenAI says it will launch GPT-5.6 Sol, along with Terra and Luna, publicly on Thursday; a source says the US Department of Commerce approved a broad rollout",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Apple reaches a deal with Broadcom worth $30B+ to make 15B+ chips in the US over the next five years, Apple's largest as part of its $600B US investment pledge",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/apple-to-spend-30-billion-on-u-s-made-chips-from-broadcom-aaf23490?st=tU4BCQ&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Sources: Meta is testing AI glasses that continuously record audio and take photos every few seconds, letting users query or recall what they saw or heard",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a?accessToken=zwAAAZ_YJQmGk888DsxYYwtNdNOKvbF-tzEWz9PBCsWyALpHwdOF26Z1TieU5tOsKCRQkahFl9OPYJ5u9BaGWgE.MEQCIB2b3OCIMLFrpWhGxDYz9DxrTdNEvkCqkHgxHSZ7eAURAiATRpXOmuOoglt3vQttZICH1eZrWbqu1_0nZpd0oh4tdQ&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "The EU General Court dismisses Apple's legal challenges against its designation as a DMA “gatekeeper” for its App Store and iOS; Apple filed the case in 2024",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/eu-court-rejects-apples-challenge-against-eu-rules-reining-big-tech-2026-07-08/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Sources: Jeff Bezos' Blue Origin is raising $10B at a $130B pre-money valuation, its first outside funding round, including $4B from Coatue and $2B from Bezos",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: China plans to let some of its biggest AI companies buy a small number of Nvidia's H200 chips to offset a domestic computing shortage in recent months",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/china-plans-let-top-ai-firms-buy-limited-amount-nvidia-h200-chips",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "China's CNVD says it found “security backdoor vulnerabilities” in Claude Code that can be used to send info like “user location and identity to remote servers”",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/china-says-it-has-found-security-vulnerabilities-in-anthropics-claude-code-5ecf05dc?st=D3sLJ5&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Mistral launches Robostral Navigate, a hardware-agnostic robotics navigation model trained via simulation that uses a single camera and basic language prompts",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Sources: MiniMax is working on a 2.7T-parameter model internally called M3 Pro, which it could release as early as Q3 as open source; M3 has 428B parameters",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/exclusive-chinas-minimax-plans-launch-2-7-trillion-parameter-model",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark",
+      "excerpt": "",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Internal documents: Amazon is working on an Alexa project, codenamed Moonraker, to handle more complex, multistep tasks, projecting $100M+ in GPU costs in 2026",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/amazon-moonraker-project-alexa-agentic-cost-2026-7",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "US lawmakers are weighing strategies to curb US companies' growing adoption of Chinese AI models, as an ongoing House Committee investigation probes the risks",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "France's competition watchdog orders Meta to negotiate in good faith with news organizations over copyright payments, after two groups filed complaints in 2025",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/french-watchdog-orders-meta-to-negotiate-in-news-copyright-case",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "CPUs are now at the center of the AI race as Nvidia, Qualcomm, MediaTek, Arm, Google, Amazon, Chinese players, and others take on Intel and AMD in data centers",
+      "excerpt": "",
+      "url": "https://asia.nikkei.com/business/technology/tech-asia/why-cpus-are-now-at-the-center-of-the-ai-race",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Sources: Apple begins testing CXMT's DRAM chips for devices sold in China; Apple's interest thrusts CXMT and CXMT's state-owned shareholders into the spotlight",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/f4ac5c92-03be-4499-b16a-017a7e9ee228?accessToken=zwAAAZ8_atgCkdP0rFySA75EmdOxagF6fp7iKA.MEUCIHM82iMuLvoUyyokiYT3bU7DHVF4w0y_mTg3gL8zkmaHAiEA0aZUW2F_tkgaNCCLkunPgIG6njiXVz7bE6ua6yFs1CE&sharetype=gift&token=550c3444-a9fe-4594-ac66-1959c3a44f48&syn-25a6b1a6=1",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with a chip rival",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/nvidias-new-hedge-chip-competitors-partner",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-nexchip-raise-890-million-hong-kong-share-sale-2026-07-08/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "GM-backed Chinese autonomous driving company Momenta saw a muted trading debut in its Hong Kong IPO, up 2.8% to value the company at ~$9B, after raising $751M",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/autos/gm-backed-momenta-makes-muted-hong-kong-debut-after-751-million-ipo-ff6e1bee?st=1sybBg&reflink=desktopwebshare_permalink",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Filing: Chinese AI model maker Z.ai is seeking to raise ~$4B from the sale of 19.8M shares at ~$202 to ~$216 each, after its Hong Kong stock soared 1,400%+ YTD",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-firm-zhipu-to-sell-4-billion-of-shares-after-1-500-rally",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "SK Hynix's IPO prospectus analysis, as it seeks to raise ~$28B on the Nasdaq: highly leveraged to HBM, deep and broad China ties, and health and safety concerns",
+      "excerpt": "",
+      "url": "https://www.culpium.com/p/what-sk-hynixs-ipo-prospectus-doesnt",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "The OpenAI Deployment Company agrees to acquire Northslope, an applied AI company founded by ex-Palantir employees, its second acquisition after buying Tomoro",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/resmed-sell-software-business-matrixcare-490-million-2026-07-07/",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Chip startup SambaNova raised a $1B Series F led by General Atlantic at an $11B valuation and signs JPMorgan as a customer to deploy its chips for in-house AI",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Oratomic, which is developing quantum computing hardware and software, raised a $300M Series A led by ARCH Venture Partners, Spark Capital, and Khosla Ventures",
+      "excerpt": "",
+      "url": "https://thequantuminsider.com/2026/07/07/oratomic-raises-300-million-series-a/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Paris-based Skello, which provides AI-powered HR tools for frontline workforce management, raised €200M led by Bridgepoint to support its European expansion",
+      "excerpt": "",
+      "url": "https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Kaon AI, which builds personalized story worlds using its AI-based FlowGPT and Emochi tools, raised $60M from B Capital and others, and says Emochi has 2M DAUs",
+      "excerpt": "",
+      "url": "https://variety.com/2026/digital/news/ai-startup-kaon-ai-raises-60-million-funding-round-1236803914/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures",
+      "excerpt": "",
+      "url": "https://www.tectonicdefense.com/exclusive-arkenstone-emerges-with-35m-to-build-defense-techs-back-office/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Israeli startup Velocity, which helps place targeted ads on consumer and B2B AI platforms, raised a $27M seed led by NFX and Red Dot, and serves 20 clients",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/08/adtech-velocity-monetize-ai-software",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/byylhojqze",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Lisbon-based Bizay, a customized products marketplace for SMBs, raised a $55M Series D led by Indico, as it aims to accelerate its US expansion",
+      "excerpt": "",
+      "url": "https://tech.eu/2026/07/07/bizay-secures-55m-to-fuel-us-growth-and-industry-consolidation/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Nvidia lost ~$1T in market value in less than two months, dropping 16% from its May all-time-high, trading at 18x forward earnings, its lowest level since 2019",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Crypto VC firm Paradigm raised $1.2B, its fourth fund, to invest in areas outside of crypto, like AI and robotics; Paradigm had $11.9B in AUM at the end of 2025",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Former GitHub CEO Thomas Dohmke's Entire launches a decentralized Git network to handle high coding agent traffic, with servers in the US, the EU, and Australia",
+      "excerpt": "",
+      "url": "https://www.zdnet.com/article/githubs-former-ceo-launches-a-distributed-git-network-built-for-the-agentic-coding-age/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "DuckDuckGo updates its browser for iOS, Windows, and macOS to block most video ads by default, including those on YouTube, based on uBlockOrigin's filter lists",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2209932/duckduckgo-browser-can-now-block-video-ads-including-youtubes/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Omdia expects a 22%+ YoY drop in global shipments for <$400 smartphones in 2026 amid soaring DRAM and NAND prices; Q1 memory costs were nearly 60% of materials",
+      "excerpt": "",
+      "url": "https://omdia.tech.informa.com/blogs/2026/july/global-smartphones-priced-below-400-dollars-will-decline-by-22percent-as-memory-costs-soar",
+      "section": "more news"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Palantir insiders and investors fear the company's enthusiastic embrace of President Trump's policies could drive away corporate clients and engineering talent",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/21038b20-646e-4773-a473-110c2d62ab15?accessToken=zwAAAZ9AfRT3kc8hA4sgZG5Hc9OkcxEMLWKrFQ.MEUCIAPJe3FIwITNVEOXcs8JA5R7UxffR2BRLUvWtTXMVD7JAiEAqHvahKI97k4VdqiB0v_1efJfTYWrel82g1OxgGcL5ek&sharetype=gift&token=609e0ffd-5a78-41bf-a155-d4f74bd4bb87",
+      "section": "more news"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "A look at effective altruism's fall after SBF's arrest and how the soon-to-be rich from upcoming AI IPOs give the movement a chance to return larger than ever",
+      "excerpt": "",
+      "url": "https://nymag.com/intelligencer/article/artificial-intelligence-anthropic-ipo-effective-altruism-comeback.html",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps (2 minute read)",
+      "excerpt": "Microsoft is starting to replace OpenAI and Anthropic's models with its own in software products like Excel and Outlook. The move shows that the company is making progress in its efforts to build competitive AI models at a lower cost. Microsoft uses massive quantities of tokens in its products. It gets a lot of its tokens at a discount, but those deals are set to expire soon, and Microsoft is working to make sure it isn't stuck paying whoever the leading AI labs decide to charge.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQ4MTQxMywiZXhwIjoxNzg0MDg2MjEzLCJhcnRpY2xlSWQiOiJUSEkzR1FLSkg2VjcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.tDeXozGASNAknSz1gQAtbZc1vwcInOVUzsNcxsZisbs&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Claude Cowork on Mobile and Web (1 minute read)",
+      "excerpt": "Anthropic announced that Claude Cowork sessions and files would become accessible across web and mobile, allowing long-running tasks to continue without an open computer. Beta access began rolling out to Max users, with additional plans to follow.",
+      "url": "https://claude.com/blog/cowork-web-mobile/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday (1 minute read)",
+      "excerpt": "OpenAI is releasing GPT-5.6 Sol, Terra, and Luna tomorrow. It is currently expanding preview access globally. Sol is the flagship model. Terra is a balanced model for everyday work. Luna is a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost.",
+      "url": "https://x.com/OpenAI/status/2074704958419792299?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips (2 minute read)",
+      "excerpt": "DeepSeek is planning to enter the silicon business. The company has been meeting with potential partners in the hardware and silicon space for the past year and has been hiring engineers for the project. It is focusing on data center chips for inference, likely to reduce its reliance on both Huawei and Nvidia. Developing its own chip could give the company an advantage in a market where data center access is likely to remain constrained.",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Harness Engineering for Self-Improvement (28 minute read)",
+      "excerpt": "Recursive self-improvement (RSI) is when ultraintelligent machines can design better machines to improve themselves and surpass humans in all intellectual activities. The feedback loop in modern AI involves models improving the training pipeline and deployment system, which enables better successor models with improved performance. A harness is the system surrounding a base model that orchestrates execution and decides how a model thinks and plans, calls tools and acts, perceives and manages context, stores artifacts, and evaluates results. This post looks at the research around harness engineering and how it contributes to RSI.",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "MiniMax M3: How Sparse Attention Makes Long-Horizon Agents Practical (11 minute read)",
+      "excerpt": "Long-horizon tasks are demanding because the context never stops growing. The longer an agent works, the more expensive each step becomes. MiniMax Sparse Attention changes what the model reads at each step, which results in predictable cost at any length and cheap long context with minimal quality cost. It makes long context cheap and fast enough to sit inside iterative systems that need to keep state over time.",
+      "url": "https://x.com/omarsar0/status/2074494774292148726?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "No Space Like J-Space (54 minute read)",
+      "excerpt": "The 'J-space' is the area of conscious access where things are available for a model to do what humans could call conscious reasoning. It is named after an interpretability technique called the Jacobian Lens, which computes, for each layer, the average causal effect of changes in the residual stream of a model's eventual outputs, averaged across a wide variety of contexts. This allows researchers to trace what concepts are associated with each layer as the model proceeds through. The J-space and J-lens are remarkably effective tools and mark a major advance in our understanding of LLMs.",
+      "url": "https://x.com/TheZvi/status/2074612488956424412?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Reducing Doom Loops with Final Token Preference Optimization (12 minute read)",
+      "excerpt": "Repetitive degeneration is a common failure mode during inference. Antidoom training is a technique that repairs the degenerative repetitive behavior commonly seen after training. It selectively targets the problematic tokens that begin loops to achieve the near-complete elimination of repetitive loops.",
+      "url": "https://www.liquid.ai/blog/antidoom?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Gemma 4 Technical Report (17 minute read)",
+      "excerpt": "Gemma 4 introduces a new generation of open-weight multimodal language models featuring dense and Mixture-of-Experts architectures, with parameters ranging from 2.3B to 31B. It enhances computational efficiency and reasoning via innovations like a thinking mode, long-context efficiency, and a unified encoder-free architecture. These models achieve performance comparable to larger models across various benchmarks and are available under an Apache 2.0 license for widespread adoption.",
+      "url": "https://arxiv.org/html/2607.02770v1?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Introducing Muse Image: Image Generation Built for Your World (4 minute read)",
+      "excerpt": "Meta launched Muse Image, an AI-powered model for generating high-quality visuals, now available in Meta AI and integrated with Instagram and WhatsApp. Users can create images using simple prompts, utilize AI effects on Instagram, or redesign rooms with real products via Facebook Marketplace. Soon available globally, Muse Image is free for general use, with more advanced options included in Meta's subscription plans.",
+      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP, and more (2 minute read)",
+      "excerpt": "Google has announced new capabilities for Managed Agents in Gemini API, including background execution, remote MCP server integration, custom function calling, and refreshing credentials across interactions. Users still call a single endpoint, and Gemini handles reasoning, code execution, package installation, file management, and web information, all inside an isolated cloud sandbox. The updates turn managed agents into asynchronous workers that operate inside real development environments without blocking applications.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "Microsoft's Real AI Strategy Is Not the Chatbot (8 minute read)",
+      "excerpt": "Microsoft aims to vertically integrate the enterprise AI chain, controlling the path from customer interaction to cloud services. This strategy extends beyond its chatbot initiatives.",
+      "url": "https://x.com/PasserLabs/status/2074551327380627525?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)",
+      "excerpt": "Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!",
+      "url": "mailto:ai@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Claude Fable 5 promotional access (7 minute read)",
+      "excerpt": "Anthropic is offering access to Claude Fable 5 at no extra cost until July 12. The promotion is available on Pro, Max, Team, and premium seats on seat-based Enterprise plans. Up to 50% of users' weekly subscription limits can be used on Claude Fable 5 during the promotional period. After reaching the limit, users can continue using Fable 5 with usage credits or switch to another model and keep working within their remaining limits.",
+      "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Building a Moat: Self Learning Agents (12 minute read)",
+      "excerpt": "Self-learning agents should combine agent traces with in-browser user activity to capture both AI failures and human corrections. CopilotKit uses the AG-UI protocol to turn these interactions into procedural and episodic memory, allowing agents to improve over time while keeping learning scoped by user, team, or application.",
+      "url": "https://x.com/ataiiam/status/2074501252268937703?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "GPT-Realtime-2.1-mini is now available in the API (1 minute read)",
+      "excerpt": "GPT-Realtime-2.1-mini brings reasoning and tool use to OpenAI's Realtime mini lineup at the same cost as GPT-Realtime-mini.",
+      "url": "https://threadreaderapp.com/thread/2074255408013955466.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-17",
+      "source": "tldr",
+      "title": "Why Alignment Evals Need Calibration (8 minute read)",
+      "excerpt": "Current alignment benchmarks may overstate safety because models can recognize evaluation settings, game scoring rules, or conceal sleeper behaviors.",
+      "url": "https://www.lesswrong.com/posts/mWpo4Tu87ZSFzwFWB/calibrating-alignment-evals?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-18",
+      "source": "tldr",
+      "title": "Agents Work Better with Conventional CLIs (12 minute read)",
+      "excerpt": "Microsoft tested whether agents performed better when command-line arguments were replaced by a single JSON payload.",
+      "url": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-19",
+      "source": "tldr",
+      "title": "SpaceX and Cursor are set to release their first jointly developed AI model as soon as Wednesday (1 minute read)",
+      "excerpt": "The model is expected to be competitive with Anthropic's Opus 4.8 and OpenAI's GPT-5.5 in some respects.",
+      "url": "https://threadreaderapp.com/thread/2074621759891132710.html?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

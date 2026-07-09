@@ -1,0 +1,380 @@
+{
+  "date": "2026-07-08",
+  "threshold": 7.0,
+  "total": 62,
+  "kept": 31,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 7.5,
+      "keep": true,
+      "reason": "SpaceXAI与Cursor合作推出新模型，针对法律、金融和编码任务，具有应用潜力"
+    },
+    {
+      "id": "TM-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI即将发布GPT-5.6，获得美国商务部批准，具有重大行业影响"
+    },
+    {
+      "id": "TM-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "苹果与博通达成大额芯片交易，信息量一般"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta测试AI眼镜，具有一定的产品创新性但信息量有限"
+    },
+    {
+      "id": "TM-05",
+      "score": 5.0,
+      "keep": false,
+      "reason": "欧盟法院驳回苹果的法律挑战，属于常规法律新闻"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "蓝色起源筹集资金的消息较为常规，缺乏AI相关性"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国允许AI公司购买Nvidia芯片以缓解计算短缺，具有行业影响"
+    },
+    {
+      "id": "TM-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "中国发现Claude Code的安全漏洞，可能影响用户隐私，值得关注"
+    },
+    {
+      "id": "TM-09",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Mistral推出新型机器人导航模型，具有技术创新和应用前景"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "MiniMax内部开发新模型M3 Pro，可能对开源社区产生影响"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI发现基准测试问题，信息量一般但影响其产品信任度"
+    },
+    {
+      "id": "TM-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "亚马逊开发复杂任务的Alexa项目，显示出产品创新潜力"
+    },
+    {
+      "id": "TM-13",
+      "score": 8.0,
+      "keep": true,
+      "reason": "美国立法者考虑限制中国AI模型的使用，具有政策影响"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "法国竞争监管机构的命令属于常规法律新闻，信息量有限"
+    },
+    {
+      "id": "TM-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta在加拿大建设数据中心，属于常规商业扩展新闻"
+    },
+    {
+      "id": "TM-16",
+      "score": 9.0,
+      "keep": true,
+      "reason": "CPU在AI竞赛中的中心地位变化，影响行业格局"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "苹果测试DRAM芯片的消息较为常规，缺乏深度信息"
+    },
+    {
+      "id": "TM-18",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia与d-Matrix合作，展示了硬件整合的趋势，值得关注"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Nexchip的IPO消息较为常规，缺乏AI相关性"
+    },
+    {
+      "id": "TM-20",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Momenta的IPO表现平平，信息量有限"
+    },
+    {
+      "id": "TM-21",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Z.ai寻求融资的消息较为常规，缺乏深度信息"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "SK Hynix的IPO前景分析，涉及行业动态，值得关注"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenAI收购应用AI公司，显示出其扩展战略，具有行业影响"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "ResMed出售软件业务的消息较为常规，缺乏AI相关性"
+    },
+    {
+      "id": "TM-25",
+      "score": 8.0,
+      "keep": true,
+      "reason": "SambaNova融资和客户签约，显示出市场需求和技术应用前景"
+    },
+    {
+      "id": "TM-26",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Positron的融资规模和估值变化显示出AI芯片领域的活跃投资情况。"
+    },
+    {
+      "id": "TM-27",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Oratomic的融资表明量子计算硬件和软件领域的投资热潮。"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Skello的融资支持其AI人力资源工具在欧洲的扩展，显示出AI应用的市场需求。"
+    },
+    {
+      "id": "TM-29",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Prime Intellect的融资和估值反映了AI代理构建领域的增长潜力。"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Kaon AI的融资和用户数据虽有信息量，但整体较为常规。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Arkenstone Defense的种子轮融资信息量有限，偏常规。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Velocity的融资信息较少，且与AI的直接关联不强。"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Alta的融资信息量一般，未显示出显著的行业影响。"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Bizay的融资信息较为常规，未能突出行业变化。"
+    },
+    {
+      "id": "TM-35",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Nvidia的市场价值波动虽引人关注，但信息量相对有限。"
+    },
+    {
+      "id": "TM-36",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Paradigm的融资显示出对AI和机器人领域的投资兴趣，值得关注。"
+    },
+    {
+      "id": "TM-37",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Entire的新闻信息量较少，且与AI的直接关联不强。"
+    },
+    {
+      "id": "TM-38",
+      "score": 4.0,
+      "keep": false,
+      "reason": "DuckDuckGo的更新信息较为常规，且与AI关联不强。"
+    },
+    {
+      "id": "TM-39",
+      "score": 5.0,
+      "keep": false,
+      "reason": "FTC与John Deere的和解信息较为常规，未能突出行业变化。"
+    },
+    {
+      "id": "TM-40",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Omdia的市场预测信息量有限，且与AI关联不强。"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Palantir的内部担忧信息量一般，未显示出显著的行业影响。"
+    },
+    {
+      "id": "TM-42",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Hesai的市场份额信息有一定价值，但整体较为常规。"
+    },
+    {
+      "id": "TM-43",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于有效利他主义的讨论信息量一般，未显示出显著的行业影响。"
+    },
+    {
+      "id": "TL-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "微软替换OpenAI和Anthropic的举动标志着AI行业竞争格局的重大变化。"
+    },
+    {
+      "id": "TL-02",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic的Claude Cowork更新显示出AI应用的持续进步。"
+    },
+    {
+      "id": "TL-03",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI发布GPT-5.6 Sol等新模型，标志着AI技术的重大进展。"
+    },
+    {
+      "id": "TL-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "DeepSeek计划自制芯片显示出对AI硬件自主权的追求，值得关注。"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于递归自我改进的讨论提供了对AI未来发展的深刻见解。"
+    },
+    {
+      "id": "TL-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "MiniMax Sparse Attention的研究为长时间任务提供了新的解决方案，具有应用潜力。"
+    },
+    {
+      "id": "TL-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "J-space的研究进展为理解LLMs提供了重要工具，具有深远影响。"
+    },
+    {
+      "id": "TL-08",
+      "score": 6.0,
+      "keep": false,
+      "reason": "介绍了一种新技术来解决推理中的重复性问题，具有一定的技术价值。"
+    },
+    {
+      "id": "TL-09",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Gemma 4发布了新一代多模态语言模型，具有重要的技术创新和广泛的应用潜力。"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta推出了新的图像生成模型，具有实用的应用场景和用户友好的功能。"
+    },
+    {
+      "id": "TL-11",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Google在Gemini API中增加了新功能，提升了开发者的使用体验。"
+    },
+    {
+      "id": "TL-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "微软的AI战略涉及企业AI链的整合，具有重要的行业影响。"
+    },
+    {
+      "id": "TL-13",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息与AI发展无关，信息量较少。"
+    },
+    {
+      "id": "TL-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "提供Claude Fable 5的促销访问，但信息较为常规。"
+    },
+    {
+      "id": "TL-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "探讨自学习代理的构建，具有一定的技术洞察。"
+    },
+    {
+      "id": "TL-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "新版本API的发布信息较为常规，缺乏重大创新。"
+    },
+    {
+      "id": "TL-17",
+      "score": 6.0,
+      "keep": false,
+      "reason": "讨论对齐评估的校准问题，具有一定的理论价值。"
+    },
+    {
+      "id": "TL-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "测试代理性能的常规研究，信息量有限。"
+    },
+    {
+      "id": "TL-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "SpaceX与Cursor合作开发AI模型，值得关注的行业动态。"
+    }
+  ]
+}
