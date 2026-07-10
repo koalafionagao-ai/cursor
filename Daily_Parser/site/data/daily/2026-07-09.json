@@ -1,0 +1,641 @@
+{
+  "date": "2026-07-09",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 23,
+    "by_category": {
+      "cat:app": 1,
+      "cat:model": 6,
+      "cat:other": 4,
+      "cat:tech": 5,
+      "cat:business": 7
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6并推出ChatGPT Work，可跨应用和文件收集上下文生成文档",
+        "en": "OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "gpt",
+        "chatgpt",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "chatgpt",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "title": {
+        "zh": "Meta发布Muse Spark 1.1，支持更高级的编码功能并实现代际飞跃",
+        "en": "Meta releases Muse Spark 1.1, capable of more advanced coding and a “step-change” from the first generation, available to US developers via a public API preview"
+      },
+      "summary": {
+        "zh": "该模型通过公共API预览向美国开发者开放。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
+      "title": {
+        "zh": "欧盟议会推进允许科技公司扫描CSAM的法案，豁免E2EE服务",
+        "en": "The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp"
+      },
+      "summary": {
+        "zh": "该法案恢复了3月被否决的提案，豁免了WhatsApp等端到端加密服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/",
+      "title": {
+        "zh": "Meta计划9月开始生产代号为Iris的自研AI芯片",
+        "en": "Memo: Meta plans to start manufacturing its in-house AI chip, codenamed Iris, from September, as part of its plan to boost its computing power to 14GW in 2027"
+      },
+      "summary": {
+        "zh": "此举是Meta计划到2027年将计算能力提升至14GW的一部分。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "meta",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone",
+      "title": {
+        "zh": "PrismML在iPhone 17 Pro上运行27B参数的Qwen 3.6模型",
+        "en": "PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple talked with PrismML about its tech"
+      },
+      "summary": {
+        "zh": "这是迄今为止在设备端运行的最大模型，消息称苹果曾与PrismML讨论其技术。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "qwen",
+        "apple",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "qwen",
+        "apple",
+        "open-weights"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/07/09/microsoft-brad-smith-washingtons-ai-policy-regulation-without-transparent-rules/",
+      "title": {
+        "zh": "微软总裁称美国AI监管缺乏透明和完整规则",
+        "en": "Microsoft President Brad Smith says the US now has AI “regulation without transparent or complete rules”, and adds that “without rules, businesses can't plan”"
+      },
+      "summary": {
+        "zh": "布拉德·史密斯表示，没有规则，企业无法进行规划。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "microsoft",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/cio-journal/the-ai-superfans-companies-count-on-to-convert-the-skeptics-5b301a90?st=enuXpB&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "企业内部推动AI采用，74%一线员工定期使用AI",
+        "en": "Companies are mobilizing internal groups of “AI champions” to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025"
+      },
+      "summary": {
+        "zh": "BCG数据显示，2025年这一比例为51%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-25",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
+      "title": {
+        "zh": "2026年上半年美国风险投资达4127亿美元，AI初创公司占86%",
+        "en": "PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds"
+      },
+      "summary": {
+        "zh": "AI初创公司融资达3559亿美元，第二季度有7笔10亿美元以上的融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://tech.eu/2026/07/09/maritime-defence-startup-kraken-technology-hits-unicorn-status/",
+      "title": {
+        "zh": "Kraken Technology完成1.75亿美元B轮融资，估值达10亿美元",
+        "en": "Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation"
+      },
+      "summary": {
+        "zh": "该公司设计和建造无人水下平台。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-29",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+      "title": {
+        "zh": "企业AI代理初创公司Lyzr筹集1亿美元B轮融资，估值约5亿美元",
+        "en": "Enterprise AI agent startup Lyzr is raising a $100M Series B at a ~$500M valuation, up from $250M in March, and says its agents ran outreach for the round"
+      },
+      "summary": {
+        "zh": "该公司表示其代理为本轮融资进行了外联工作。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "title": {
+        "zh": "Ollama完成6500万美元B轮融资，支持本地运行开源AI模型",
+        "en": "Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark"
+      },
+      "summary": {
+        "zh": "Ollama在完成由Benchmark领投的1500万美元A轮融资后，又获得了由Theory Venture领投的6500万美元B轮融资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-37",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-2026-07-09/",
+      "title": {
+        "zh": "SAP将简化客户更换服务提供商或终止合同的流程",
+        "en": "SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe"
+      },
+      "summary": {
+        "zh": "为避免可能的欧盟反垄断罚款，SAP计划在2025年9月调查后，简化客户更换竞争对手服务提供商或终止合同的流程。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/bytedance-debuts-seedream-5-0-pro-with-advanced-reasoning/?utm_source=tldrai",
+      "title": {
+        "zh": "字节跳动推出Seedream 5.0 Pro，支持多模态图像生成",
+        "en": "ByteDance debuts Seedream 5.0 Pro with advanced reasoning (2 minute read)"
+      },
+      "summary": {
+        "zh": "Seedream 5.0 Pro是一款多模态图像生成模型，支持精确编辑、多语言支持以及高级生产设计功能，目标用户包括创作者、设计师和教育者等。",
+        "en": "Seedream 5.0 Pro is a multimodal image-creation model that offers precise edits, multilingual support, and advanced production-design features. It is designed for production design work rather than one-shot image output. The model is targeted at creators, designers, marketers, educators, product teams, and developers. It supports more than 10 languages, as well as some right-to-left layouts and accents."
+      },
+      "tags": [
+        "cat:model",
+        "bytedance",
+        "image-gen",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "bytedance",
+        "image-gen",
+        "multimodal"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://openai.com/index/introducing-gpt-live/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI推出GPT-Live全双工语音模型",
+        "en": "GPT-Live (8 minute read)"
+      },
+      "summary": {
+        "zh": "GPT-Live能够同时听和说，处理自然对话线索，并在对话中无缝委派复杂任务给GPT-5.5。",
+        "en": "OpenAI introduced a full-duplex voice model that can listen and speak simultaneously, handle natural conversational cues, and delegate complex tasks to GPT-5.5 while maintaining the flow of dialogue."
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "gpt",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "voice"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://x.ai/news/grok-4-5?utm_source=tldrai",
+      "title": {
+        "zh": "SpaceXAI发布Grok 4.5，专注编码与知识工作",
+        "en": "Grok 4.5 (3 minute read)"
+      },
+      "summary": {
+        "zh": "Grok 4.5是SpaceXAI最强大的模型，专注于编码、代理任务和知识工作，与Cursor一同训练。",
+        "en": "SpaceXAI launched Grok 4.5 as its strongest model for coding, agentic tasks, and knowledge work, noting that it was trained alongside Cursor."
+      },
+      "tags": [
+        "cat:model",
+        "grok",
+        "coding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "grok",
+        "coding",
+        "agent"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.testingcatalog.com/meta-launches-muse-image-across-its-apps-and-previews-muse-video/?utm_source=tldrai",
+      "title": {
+        "zh": "Meta推出Muse Image图像生成模型",
+        "en": "Meta launches Muse Image across its apps (3 minute read)"
+      },
+      "summary": {
+        "zh": "Muse Image支持多参考合成、房间重新设计、基于提示的图像创建和编辑等功能，并在Meta AI应用、Instagram Stories和WhatsApp中上线。",
+        "en": "Muse Image is an image-generation model that can create and edit images. It is now available in the Meta AI app, Instagram Stories, and WhatsApp. The model can perform multi-reference composition, room redesigns, prompt-based image creation and editing, and more. It can draw from public Instagram photos when a user tags an account. There will be an invisible watermark in the images it generates."
+      },
+      "tags": [
+        "cat:model",
+        "meta",
+        "image-gen",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "image-gen",
+        "multimodal"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI审计SWE-Bench Pro的可靠性",
+        "en": "Auditing the Reliability of Coding Benchmarks (9 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI发现SWE-Bench Pro约30%的公共任务存在问题，指出这些缺陷可能会扭曲对编码能力、安全性和模型进展的评估。",
+        "en": "OpenAI examined SWE-Bench Pro's construction, model failures, and task metadata, concluding that roughly 30% of its public tasks were broken. The analysis showed how flawed evaluations could distort assessments of coding ability, safety, and model progress."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "benchmark",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "benchmark",
+        "coding"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use?utm_source=tldrai",
+      "title": {
+        "zh": "GRAM技术为AI模型提供双用途知识的关闭开关",
+        "en": "An off switch for dual use knowledge in AI models (8 minute read)"
+      },
+      "summary": {
+        "zh": "GRAM通过为每类双用途知识提供可移除的专用模块，使模型在训练后可以删除特定知识，从而增强模型的安全性。",
+        "en": "GRAM (Gradient-Routed Auxiliary Modules) enables the benefits of training many separately-filtered models at the cost of training only one model. It gives models dedicated, removable compartments for each category of dual-use knowledge and only updates those compartments when learning from dual-use data. It allows parts of the model's knowledge to be deleted after training, providing a stronger framework for model safety."
+      },
+      "tags": [
+        "cat:tech",
+        "safety",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "safety",
+        "alignment"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://cognition.com/blog/swe-1-7?utm_source=tldrai",
+      "title": {
+        "zh": "SWE-1.7：以更低成本实现前沿智能",
+        "en": "SWE-1.7: Frontier Intelligence at a Fraction of the Cost (22 minute read)"
+      },
+      "summary": {
+        "zh": "SWE-1.7通过改进强化学习管道的基础设施、训练稳定性和数据质量，实现了低成本的前沿智能，现已在Devin平台上线。",
+        "en": "SWE-1.7 reaches frontier-level intelligence at a much lower cost. It is the result of broad improvements across Cognition's RL pipeline, including better infrastructure, more stable training, higher-quality data, and new techniques for long-horizon tasks. The model is available now in Devin on the web, desktop, and CLI. This post contains details on the infrastructure, algorithms, and data work behind the model."
+      },
+      "tags": [
+        "cat:model",
+        "startup",
+        "reasoning",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "reasoning",
+        "training"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents?utm_source=tldrai",
+      "title": {
+        "zh": "NVIDIA强调开放与合成数据对AI代理开发的重要性",
+        "en": "Data for Agents (6 minute read)"
+      },
+      "summary": {
+        "zh": "NVIDIA通过Nemotron数据集展示了开放和合成数据在增强推理和工具使用能力方面的重要作用，促进AI系统的透明性和可重复性。",
+        "en": "NVIDIA underscores the importance of open and synthetic data for developing robust AI agents, highlighting its use in the Nemotron datasets for enhancing capabilities like reasoning and tool use. Open datasets contribute to AI system transparency and reproducibility, allowing developers to inspect and understand agent behavior."
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "agent",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "agent",
+        "data-center"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://x.com/rebeccakaden/status/2074862363874844903?utm_source=tldrai",
+      "title": {
+        "zh": "边缘数据：AI如何解锁物理世界的数据价值",
+        "en": "Data At The Edge (9 minute read)"
+      },
+      "summary": {
+        "zh": "AI通过结合廉价传感器、机器人技术和多模态模型，正在解锁物理世界中的宝贵数据集。这些数据飞轮可能推动基础设施、医疗保健和工业自动化领域的新一代AI商业模式。",
+        "en": "AI is unlocking valuable datasets from the physical world by combining cheaper sensors, robotics, and multimodal models. New data flywheels around infrastructure, healthcare, and industrial automation could create the next generation of enduring AI businesses."
+      },
+      "tags": [
+        "cat:business",
+        "robotics",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics",
+        "multimodal"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://thenextweb.com/news/openai-northslope-acquisition-enterprise-ai-deployment?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI收购Northslope，将工程师嵌入企业",
+        "en": "OpenAI buys Northslope to put its engineers inside your business (2 minute read)"
+      },
+      "summary": {
+        "zh": "通过收购应用AI公司Northslope，OpenAI增加了数百名前线部署工程师。",
+        "en": "The purchase of Northslope, an applied-AI firm, adds hundreds of forward-deployed engineers to OpenAI's ranks."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-14",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://mistral.ai/news/robostral-navigate/?utm_source=tldrai",
+      "title": {
+        "zh": "Robostral Navigate：单摄像头AI导航模型",
+        "en": "Robostral Navigate: single-camera AI navigation (5 minute read)"
+      },
+      "summary": {
+        "zh": "Mistral推出的Robostral Navigate是一款8B参数的AI模型，能够让机器人使用单个RGB摄像头自主导航环境。",
+        "en": "Mistral's Robostral Navigate is an 8B AI model that enables robots to autonomously navigate environments using a single RGB camera."
+      },
+      "tags": [
+        "cat:model",
+        "mistral",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "mistral",
+        "robotics"
+      ],
+      "category_tag": "cat:model"
+    }
+  ]
+}

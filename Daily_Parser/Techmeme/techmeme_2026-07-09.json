@@ -1,0 +1,364 @@
+{
+  "date": "2026-07-09",
+  "sections": {
+    "top news": [
+      {
+        "title": "OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+        "tweets": [
+          {
+            "author": "@sama",
+            "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
+            "url": "https://x.com/sama/status/2075267201058426944"
+          },
+          {
+            "author": "@andrewcurran_",
+            "text": "Quote from OpenAI on the livestream. ‘Already, Sol has been transforming our research program. As one example, GPT-5.6-Sol autonomously post-trained GPT-5.6-Luna.’",
+            "url": "https://x.com/andrewcurran_/status/2075273510331785658"
+          },
+          {
+            "author": "@gregkamradt",
+            "text": "GPT-5.6 Sol demonstrated the first material score (7.8%) on ARC-AGI-3 we've seen It was the first model to actually beat an ARC-AGI-3 public game (FT09) It is a step level improvement over what we've seen",
+            "url": "https://x.com/gregkamradt/status/2075271806861361291"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6",
+            "url": "https://openai.com/index/gpt-5-6"
+          },
+          {
+            "title": "OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work",
+            "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/"
+          },
+          {
+            "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app",
+            "url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/"
+          }
+        ]
+      },
+      {
+        "title": "Meta releases Muse Spark 1.1, capable of more advanced coding and a “step-change” from the first generation, available to US developers via a public API preview",
+        "excerpt": "",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+        "tweets": [
+          {
+            "author": "@finkd",
+            "text": "(1) Today we're releasing Muse Spark 1.1 — a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.",
+            "url": "https://x.com/finkd/status/2075218444056707458"
+          },
+          {
+            "author": "@emollick",
+            "text": "It seems like SpaceX/Grok and Meta/Muse have started to keep pace in the near-frontier category while also introducing a new category of cheap, fast & closed specialized coding models. Both were tied with the Big Three at some point, fell behind, but may have started to return.",
+            "url": "https://x.com/emollick/status/2075254468912812206"
+          },
+          {
+            "author": "@gergelyorosz",
+            "text": "This model looks impressive on paper. However, Meta has no history in dev tools, save for shutting down tools devs loved and used (Parse, 2013) It will take more than a single release to gain developer trust, and love. It takes years. I wonder if Meta will persist that long?",
+            "url": "https://x.com/gergelyorosz/status/2075232663514800158"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Meta prices Muse Spark 1.1 at $1.25/1M input tokens and $4.25/1M output tokens; Alexandr Wang says improving coding and agentic performance was a key focus",
+            "url": "https://www.axios.com/2026/07/09/meta-ai-spark-model-update-developer"
+          },
+          {
+            "title": "Meta launches a Meta Model API, which Mark Zuckerberg says will have “aggressive and attractive” pricing at ~25% of the cost of OpenAI's and Anthropic's models",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzYxMzQ0OCwiZXhwIjoxNzg0MjE4MjQ4LCJhcnRpY2xlSWQiOiJUSFZDVENSS1YyVTYwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.O5sxV2QajBiyISnu5AVyVUdWWGQtozl0yeCNAbc5JJQ"
+          }
+        ]
+      },
+      {
+        "title": "Fidji Simo says she has decided to leave her full-time role at OpenAI and transition to being a part-time adviser after her medical condition worsened",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=R4LTYy&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@fidjissimo",
+            "text": "I love building.  My work has always given me a deep sense of purpose.  OpenAI in particular felt like a role that my entire career had been building toward, which made this decision even harder.  But what I'm learning now is that grit and endurance are not the only skills required to have impact over decades.  Sometimes the harder thing is to stop, listen, and trust that taking care of yourself today makes it possible to contribute for much longer tomorrow.",
+            "url": "https://x.com/fidjissimo/status/2075353170927304861"
+          },
+          {
+            "author": "@sama",
+            "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person. we all wish her the best for a speedy recovery. this sucks.",
+            "url": "https://x.com/sama/status/2075354679031067058"
+          },
+          {
+            "author": "@amir",
+            "text": "This change has been the assumption for some time, Fidji just made it official. Revenue chief Denise Dresser has gotten a lot of airtime and responsibility in the interim",
+            "url": "https://x.com/amir/status/2075354222737117692"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp",
+        "excerpt": "",
+        "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Micron raises its US capex commitment to $250B through 2035, adding $50B for New York, Idaho, Virginia, and other projects, and invests $500M in GlobalWafers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/micron-boosts-us-spending-to-250-billion-amid-memory-demand",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI",
+        "excerpt": "",
+        "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: Meta plans to start manufacturing its in-house AI chip, codenamed Iris, from September, as part of its plan to boost its computing power to 14GW in 2027",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Anthropic debuts a “reflection” dashboard in beta for Free, Pro, and Max users with memory turned on, to track their Claude activity over 1, 3, 6, or 12 months",
+        "excerpt": "",
+        "url": "http://anthropic.com/news/reflect-with-claude",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans “when sufficient capacity allows”",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bun's creator says he rewrote Bun from Zig to Rust using a Claude Fable 5 prerelease version in 11 days, noting it would've taken three engineers “about a year”",
+        "excerpt": "",
+        "url": "https://bun.com/blog/bun-in-rust",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple talked with PrismML about its tech",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: AI contractor marketplace Mercor is discussing raising new funds at a roughly $20B valuation, less than a year after raising money at a $10B valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A",
+            "url": "https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/"
+          }
+        ]
+      },
+      {
+        "title": "Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft President Brad Smith says the US now has AI “regulation without transparent or complete rules”, and adds that “without rules, businesses can't plan”",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/09/microsoft-brad-smith-washingtons-ai-policy-regulation-without-transparent-rules/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cognition releases SWE-1.7, trained from Kimi K2.7 and available in Devin at 1,000 tokens/second, claiming it nears frontier-level intelligence at a lower cost",
+        "excerpt": "",
+        "url": "https://cognition.com/blog/swe-1-7",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6%",
+        "excerpt": "",
+        "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years",
+        "excerpt": "",
+        "url": "https://as.ft.com/r/4efe7e50-cc3d-4240-aa24-2f1de0b05772",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Companies are mobilizing internal groups of “AI champions” to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025",
+        "excerpt": "",
+        "url": "https://www.wsj.com/cio-journal/the-ai-superfans-companies-count-on-to-convert-the-skeptics-5b301a90?st=enuXpB&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Interpol and law enforcement agencies arrest 5,811 suspects and seize $293M in an operation combating social engineering scams and fraud across 97 countries",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US cybersecurity and data resilience company Rubrik plans to invest $500M+ in the UK over the next five years and establish its European headquarters in London",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/rubrik-unveils-500-million-uk-investment-names-london-european-hq-2026-07-09/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "personnel changes": [
+      {
+        "title": "Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/coinbases-top-attorney-who-has-led-cryptos-washington-fight-step-down-2026-07-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Sonos' layoffs include some top design and product executives, like VP of Design Dana Krieger; CEO Tom Conrad says the changes reduce management layers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-08/sonos-loses-top-design-and-product-executives-in-recent-layoffs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzU0MDY1MCwiZXhwIjoxNzg0MTQ1NDUwLCJhcnRpY2xlSWQiOiJUSFQ5M0ZLSzNOWUEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.IffRcC_iMb8tD1Z8TyWJrcbV45yUED1OGqi2m7mxV1M",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "venture capital": [
+      {
+        "title": "PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany's $3.2B, and France's $2.4B",
+        "excerpt": "",
+        "url": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Filings: Grubhub parent Wonder is raising hundreds of millions of dollars at a $9B valuation; a source says founder Marc Lore indicated he will contribute $200M",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/marc-lores-wonder-ties-9-billion-valuation-fundraise-future-ipo",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/07/09/maritime-defence-startup-kraken-technology-hits-unicorn-status/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Enterprise AI agent startup Lyzr is raising a $100M Series B at a ~$500M valuation, up from $250M in March, and says its agents ran outreach for the round",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Databento, which sells financial data feeds, raised a $97M Series B led by NEA, taking its total funding to $127M, and says it is “profitable every month”",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/media/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-e1eb28f6?st=S1LJye&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Leaked renders via Android Headlines show the Samsung Galaxy Z Flip 8, Z Fold 8, Watch 9, and Watch Ultra 2; the Galaxy Z Fold 8 is likely the new wide foldable",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "India scraps import duties on some parts used to make devices like phones until March 31, 2029, removing 7.5% and 5% levies, which might help Apple and Xiaomi",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/india-removes-import-duty-some-electronics-smartphone-parts-2026-07-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple supplier Luxshare fell in its Hong Kong trading debut, closing down 1.6%, after raising ~$3.1B in the city's biggest listing in 2026 so far",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Shanghai-based GPU maker Iluvatar CoreX raised ~$902M in a Hong Kong share sale; the company's stock has soared 257% since its January IPO, which raised ~$473M",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-08/iluvatar-corex-seeks-to-raise-850-million-after-stock-rally",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-2026-07-09/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Internal DOJ memo: attorneys on crypto cases should expect less cooperation from Binance, which is adding asset freeze requirements; Binance denies any changes",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/binance-cooperate-less-crypto-cases-justice-department-warns-staff-memo",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 38
+  }
+}

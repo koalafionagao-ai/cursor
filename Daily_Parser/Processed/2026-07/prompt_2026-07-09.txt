@@ -1,0 +1,242 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows
+Tweets:
+  - Author: @sama
+    Text: we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna
+    Link ID: TM-01-TW-01
+  - Author: @andrewcurran_
+    Text: Quote from OpenAI on the livestream. ‘Already, Sol has been transforming our research program. As one example, GPT-5.6-Sol autonomously post-trained GPT-5.6-Luna.’
+    Link ID: TM-01-TW-02
+  - Author: @gregkamradt
+    Text: GPT-5.6 Sol demonstrated the first material score (7.8%) on ARC-AGI-3 we've seen It was the first model to actually beat an ARC-AGI-3 public game (FT09) It is a step level improvement over what we've seen
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6
+    Link ID: TM-01-SUB-01
+  - Title: OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work
+    Link ID: TM-01-SUB-02
+  - Title: OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Meta releases Muse Spark 1.1, capable of more advanced coding and a “step-change” from the first generation, available to US developers via a public API preview
+Tweets:
+  - Author: @finkd
+    Text: (1) Today we're releasing Muse Spark 1.1 — a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.
+    Link ID: TM-02-TW-01
+  - Author: @emollick
+    Text: It seems like SpaceX/Grok and Meta/Muse have started to keep pace in the near-frontier category while also introducing a new category of cheap, fast & closed specialized coding models. Both were tied with the Big Three at some point, fell behind, but may have started to return.
+    Link ID: TM-02-TW-02
+  - Author: @gergelyorosz
+    Text: This model looks impressive on paper. However, Meta has no history in dev tools, save for shutting down tools devs loved and used (Parse, 2013) It will take more than a single release to gain developer trust, and love. It takes years. I wonder if Meta will persist that long?
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Meta prices Muse Spark 1.1 at $1.25/1M input tokens and $4.25/1M output tokens; Alexandr Wang says improving coding and agentic performance was a key focus
+    Link ID: TM-02-SUB-01
+  - Title: Meta launches a Meta Model API, which Mark Zuckerberg says will have “aggressive and attractive” pricing at ~25% of the cost of OpenAI's and Anthropic's models
+    Link ID: TM-02-SUB-02
+---
+ID: TM-03
+Title: Fidji Simo says she has decided to leave her full-time role at OpenAI and transition to being a part-time adviser after her medical condition worsened
+Tweets:
+  - Author: @fidjissimo
+    Text: I love building.  My work has always given me a deep sense of purpose.  OpenAI in particular felt like a role that my entire career had been building toward, which made this decision even harder.  But what I'm learning now is that grit and endurance are not the only skills required to have impact over decades.  Sometimes the harder thing is to stop, listen, and trust that taking care of yourself today makes it possible to contribute for much longer tomorrow.
+    Link ID: TM-03-TW-01
+  - Author: @sama
+    Text: i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person. we all wish her the best for a speedy recovery. this sucks.
+    Link ID: TM-03-TW-02
+  - Author: @amir
+    Text: This change has been the assumption for some time, Fidji just made it official. Revenue chief Denise Dresser has gotten a lot of airtime and responsibility in the interim
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed
+---
+ID: TM-05
+Title: The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp
+---
+ID: TM-06
+Title: Micron raises its US capex commitment to $250B through 2035, adding $50B for New York, Idaho, Virginia, and other projects, and invests $500M in GlobalWafers
+---
+ID: TM-07
+Title: Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI
+---
+ID: TM-08
+Title: Memo: Meta plans to start manufacturing its in-house AI chip, codenamed Iris, from September, as part of its plan to boost its computing power to 14GW in 2027
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: Anthropic debuts a “reflection” dashboard in beta for Free, Pro, and Max users with memory turned on, to track their Claude activity over 1, 3, 6, or 12 months
+---
+ID: TM-10
+Title: Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans “when sufficient capacity allows”
+---
+ID: TM-11
+Title: Bun's creator says he rewrote Bun from Zig to Rust using a Claude Fable 5 prerelease version in 11 days, noting it would've taken three engineers “about a year”
+---
+ID: TM-12
+Title: PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple talked with PrismML about its tech
+---
+ID: TM-13
+Title: Sources: AI contractor marketplace Mercor is discussing raising new funds at a roughly $20B valuation, less than a year after raising money at a $10B valuation
+Sub Items:
+  - Title: Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A
+    Link ID: TM-13-SUB-01
+---
+ID: TM-14
+Title: Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows
+---
+ID: TM-15
+Title: Microsoft President Brad Smith says the US now has AI “regulation without transparent or complete rules”, and adds that “without rules, businesses can't plan”
+---
+ID: TM-16
+Title: Cognition releases SWE-1.7, trained from Kimi K2.7 and available in Devin at 1,000 tokens/second, claiming it nears frontier-level intelligence at a lower cost
+---
+ID: TM-17
+Title: Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads
+---
+ID: TM-18
+Title: A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6%
+---
+ID: TM-19
+Title: The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years
+---
+ID: TM-20
+Title: Companies are mobilizing internal groups of “AI champions” to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-21
+Title: Interpol and law enforcement agencies arrest 5,811 suspects and seize $293M in an operation combating social engineering scams and fraud across 97 countries
+---
+ID: TM-22
+Title: US cybersecurity and data resilience company Rubrik plans to invest $500M+ in the UK over the next five years and establish its European headquarters in London
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-23
+Title: Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel
+---
+ID: TM-24
+Title: Sources: Sonos' layoffs include some top design and product executives, like VP of Design Dana Krieger; CEO Tom Conrad says the changes reduce management layers
+---
+
+[CATEGORY: VENTURE CAPITAL]
+ID: TM-25
+Title: PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds
+---
+ID: TM-26
+Title: European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany's $3.2B, and France's $2.4B
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-27
+Title: Filings: Grubhub parent Wonder is raising hundreds of millions of dollars at a $9B valuation; a source says founder Marc Lore indicated he will contribute $200M
+---
+ID: TM-28
+Title: Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation
+---
+ID: TM-29
+Title: Enterprise AI agent startup Lyzr is raising a $100M Series B at a ~$500M valuation, up from $250M in March, and says its agents ran outreach for the round
+---
+ID: TM-30
+Title: Databento, which sells financial data feeds, raised a $97M Series B led by NEA, taking its total funding to $127M, and says it is “profitable every month”
+---
+ID: TM-31
+Title: Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-32
+Title: Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock
+---
+ID: TM-33
+Title: Leaked renders via Android Headlines show the Samsung Galaxy Z Flip 8, Z Fold 8, Watch 9, and Watch Ultra 2; the Galaxy Z Fold 8 is likely the new wide foldable
+---
+ID: TM-34
+Title: India scraps import duties on some parts used to make devices like phones until March 31, 2029, removing 7.5% and 5% levies, which might help Apple and Xiaomi
+---
+ID: TM-35
+Title: Apple supplier Luxshare fell in its Hong Kong trading debut, closing down 1.6%, after raising ~$3.1B in the city's biggest listing in 2026 so far
+---
+ID: TM-36
+Title: Shanghai-based GPU maker Iluvatar CoreX raised ~$902M in a Hong Kong share sale; the company's stock has soared 257% since its January IPO, which raised ~$473M
+---
+ID: TM-37
+Title: SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe
+---
+ID: TM-38
+Title: Internal DOJ memo: attorneys on crypto cases should expect less cooperation from Binance, which is adding asset freeze requirements; Binance denies any changes
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: ByteDance debuts Seedream 5.0 Pro with advanced reasoning (2 minute read)
+Excerpt: Seedream 5.0 Pro is a multimodal image-creation model that offers precise edits, multilingual support, and advanced production-design features. It is designed for production design work rather than one-shot image output. The model is targeted at creators, designers, marketers, educators, product teams, and developers. It supports more than 10 languages, as well as some right-to-left layouts and accents.
+---
+ID: TL-02
+Title: GPT-Live (8 minute read)
+Excerpt: OpenAI introduced a full-duplex voice model that can listen and speak simultaneously, handle natural conversational cues, and delegate complex tasks to GPT-5.5 while maintaining the flow of dialogue.
+---
+ID: TL-03
+Title: Grok 4.5 (3 minute read)
+Excerpt: SpaceXAI launched Grok 4.5 as its strongest model for coding, agentic tasks, and knowledge work, noting that it was trained alongside Cursor.
+---
+ID: TL-04
+Title: Meta launches Muse Image across its apps (3 minute read)
+Excerpt: Muse Image is an image-generation model that can create and edit images. It is now available in the Meta AI app, Instagram Stories, and WhatsApp. The model can perform multi-reference composition, room redesigns, prompt-based image creation and editing, and more. It can draw from public Instagram photos when a user tags an account. There will be an invisible watermark in the images it generates.
+---
+ID: TL-05
+Title: Auditing the Reliability of Coding Benchmarks (9 minute read)
+Excerpt: OpenAI examined SWE-Bench Pro's construction, model failures, and task metadata, concluding that roughly 30% of its public tasks were broken. The analysis showed how flawed evaluations could distort assessments of coding ability, safety, and model progress.
+---
+ID: TL-06
+Title: A Taxonomy of Self-evolving Agents (15 minute read)
+Excerpt: Shilong Liu proposes a taxonomy that classifies self-evolving agents into three categories: artifact optimization, harness self-improvement, and model learning. The framework distinguishes whether evolution occurs in outputs, agent infrastructure, or model weights, providing a common language for emerging agent research.
+---
+ID: TL-07
+Title: An off switch for dual use knowledge in AI models (8 minute read)
+Excerpt: GRAM (Gradient-Routed Auxiliary Modules) enables the benefits of training many separately-filtered models at the cost of training only one model. It gives models dedicated, removable compartments for each category of dual-use knowledge and only updates those compartments when learning from dual-use data. It allows parts of the model's knowledge to be deleted after training, providing a stronger framework for model safety.
+---
+ID: TL-08
+Title: SWE-1.7: Frontier Intelligence at a Fraction of the Cost (22 minute read)
+Excerpt: SWE-1.7 reaches frontier-level intelligence at a much lower cost. It is the result of broad improvements across Cognition's RL pipeline, including better infrastructure, more stable training, higher-quality data, and new techniques for long-horizon tasks. The model is available now in Devin on the web, desktop, and CLI. This post contains details on the infrastructure, algorithms, and data work behind the model.
+---
+ID: TL-09
+Title: Data for Agents (6 minute read)
+Excerpt: NVIDIA underscores the importance of open and synthetic data for developing robust AI agents, highlighting its use in the Nemotron datasets for enhancing capabilities like reasoning and tool use. Open datasets contribute to AI system transparency and reproducibility, allowing developers to inspect and understand agent behavior.
+---
+ID: TL-10
+Title: SambaNova hits $11 billion valuation as investors back Nvidia chip challengers (4 minute read)
+Excerpt: SambaNova has raised $1 billion in financing at a valuation of $11 billion. Its inference chip business is scaling fast, and the capital will allow it to really accelerate the deployment of the racks that customers want. The company sells its latest chip as part of a server unit that can be deployed in data centers. It is strongly considering an IPO in 2027.
+---
+ID: TL-11
+Title: Data At The Edge (9 minute read)
+Excerpt: AI is unlocking valuable datasets from the physical world by combining cheaper sensors, robotics, and multimodal models. New data flywheels around infrastructure, healthcare, and industrial automation could create the next generation of enduring AI businesses.
+---
+ID: TL-12
+Title: TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)
+Excerpt: Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!
+---
+ID: TL-13
+Title: OpenAI buys Northslope to put its engineers inside your business (2 minute read)
+Excerpt: The purchase of Northslope, an applied-AI firm, adds hundreds of forward-deployed engineers to OpenAI's ranks.
+---
+ID: TL-14
+Title: Robostral Navigate: single-camera AI navigation (5 minute read)
+Excerpt: Mistral's Robostral Navigate is an 8B AI model that enables robots to autonomously navigate environments using a single RGB camera.
+---
+ID: TL-15
+Title: You're not ambitious enough with Claude (11 minute read)
+Excerpt: Claude delivers the most leverage when used for high-impact work rather than routine automation.
+---
+ID: TL-16
+Title: Google Photos Added AI-Powered Video Remixing (1 minute read)
+Excerpt: Google Photos has introduced a Gemini Omni-powered tool that can quickly relight clips, replace backgrounds, and apply artistic styles such as watercolor, sketchbook, and oil painting.
+---

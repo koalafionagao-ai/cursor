@@ -1,0 +1,332 @@
+{
+  "date": "2026-07-09",
+  "threshold": 7.0,
+  "total": 54,
+  "kept": 23,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI发布新模型和ChatGPT Work，具有重要行业影响力"
+    },
+    {
+      "id": "TM-02",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Meta发布新版本Muse Spark，增强编码能力，值得关注"
+    },
+    {
+      "id": "TM-03",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI无关的个人职业变动信息"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关的市场融资信息"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "欧盟推进重要立法，影响技术公司和AI监管"
+    },
+    {
+      "id": "TM-06",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关的资本支出信息"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "美联储成立新技术影响小组，涉及AI领域"
+    },
+    {
+      "id": "TM-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta计划制造自家AI芯片，提升计算能力，具有战略意义"
+    },
+    {
+      "id": "TM-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Anthropic推出新功能，提升用户体验，值得关注"
+    },
+    {
+      "id": "TM-10",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规的计费模式更新，信息量有限"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "开发者使用AI工具重写代码，展示AI应用潜力"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "PrismML在手机上运行大型模型，技术突破值得关注"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资讨论信息，缺乏具体细节和影响"
+    },
+    {
+      "id": "TM-14",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Character.AI推出新产品，展示AI在娱乐领域的应用"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "微软高层对AI监管的看法，影响行业政策方向"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "常规的产品更新，信息量有限"
+    },
+    {
+      "id": "TM-17",
+      "score": 6.0,
+      "keep": false,
+      "reason": "谷歌扩展广告透明度，涉及AI工具的应用"
+    },
+    {
+      "id": "TM-18",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI相关的教育问题，信息量有限"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "数据中心需求上升，行业趋势信息"
+    },
+    {
+      "id": "TM-20",
+      "score": 7.0,
+      "keep": true,
+      "reason": "企业内部推动AI采用，反映行业发展趋势"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关的执法行动信息"
+    },
+    {
+      "id": "TM-22",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI无关的投资计划信息"
+    },
+    {
+      "id": "TM-23",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI无关的公司人事变动信息"
+    },
+    {
+      "id": "TM-24",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI无关的公司裁员信息"
+    },
+    {
+      "id": "TM-25",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI初创公司融资占比高，反映行业投资趋势"
+    },
+    {
+      "id": "TM-26",
+      "score": 5.0,
+      "keep": false,
+      "reason": "信息量一般，主要是关于融资数据的常规报道"
+    },
+    {
+      "id": "TM-27",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息常规，缺乏产品或技术洞察"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.0,
+      "keep": true,
+      "reason": "涉及自主海洋平台的融资，具有一定的行业关注度"
+    },
+    {
+      "id": "TM-29",
+      "score": 7.0,
+      "keep": true,
+      "reason": "企业AI代理初创公司融资，显示出市场对AI应用的持续兴趣"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "常规融资信息，虽有盈利声明但缺乏深度分析"
+    },
+    {
+      "id": "TM-31",
+      "score": 7.0,
+      "keep": true,
+      "reason": "支持开发者的AI模型融资，反映出AI工具市场的活跃"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Netflix的内部担忧，信息量有限，缺乏深度分析"
+    },
+    {
+      "id": "TM-33",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与AI无关，主要是关于手机和手表的泄露信息"
+    },
+    {
+      "id": "TM-34",
+      "score": 6.0,
+      "keep": false,
+      "reason": "政策变动可能影响行业，但信息量一般"
+    },
+    {
+      "id": "TM-35",
+      "score": 4.0,
+      "keep": false,
+      "reason": "股价波动信息，缺乏与AI相关的深度内容"
+    },
+    {
+      "id": "TM-36",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及GPU制造商但缺乏技术洞察"
+    },
+    {
+      "id": "TM-37",
+      "score": 8.0,
+      "keep": true,
+      "reason": "SAP政策变动可能影响行业竞争格局，值得关注"
+    },
+    {
+      "id": "TM-38",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Binance的内部备忘录，信息量有限"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新模型发布，具有多模态图像生成能力，值得关注"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI发布全双工语音模型，具有重要技术进展"
+    },
+    {
+      "id": "TL-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "SpaceXAI推出新模型，显示出在编码和知识工作方面的进展"
+    },
+    {
+      "id": "TL-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta推出新图像生成模型，具有广泛应用潜力"
+    },
+    {
+      "id": "TL-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "对编码基准的审计分析，揭示了模型评估中的问题"
+    },
+    {
+      "id": "TL-06",
+      "score": 6.0,
+      "keep": false,
+      "reason": "提出自我进化代理的分类法，具有一定的学术价值"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新技术为模型安全提供框架，具有重要意义"
+    },
+    {
+      "id": "TL-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新模型以更低成本实现前沿智能，具有行业影响力"
+    },
+    {
+      "id": "TL-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "强调开放和合成数据对AI代理发展的重要性，具有应用价值"
+    },
+    {
+      "id": "TL-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息常规，涉及芯片行业但缺乏深度分析"
+    },
+    {
+      "id": "TL-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI在物理世界数据解锁方面的应用，具有行业前景"
+    },
+    {
+      "id": "TL-12",
+      "score": 0.0,
+      "keep": false,
+      "reason": "招聘信息，与AI发展无关"
+    },
+    {
+      "id": "TL-13",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI收购Northslope，增强工程师团队，具有战略意义。"
+    },
+    {
+      "id": "TL-14",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Mistral推出单摄像头AI导航模型，具有创新应用潜力。"
+    },
+    {
+      "id": "TL-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于Claude的使用建议，信息量一般。"
+    },
+    {
+      "id": "TL-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Google Photos的AI视频重混功能更新，属于常规产品更新。"
+    }
+  ]
+}

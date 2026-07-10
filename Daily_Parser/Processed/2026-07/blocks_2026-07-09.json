@@ -1,0 +1,437 @@
+{
+  "date": "2026-07-09",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Meta releases Muse Spark 1.1, capable of more advanced coding and a “step-change” from the first generation, available to US developers via a public API preview",
+      "excerpt": "",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Fidji Simo says she has decided to leave her full-time role at OpenAI and transition to being a part-time adviser after her medical condition worsened",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=R4LTYy&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp",
+      "excerpt": "",
+      "url": "https://www.politico.eu/article/europes-conservatives-revive-zombie-bill-child-abuse-scanning/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Micron raises its US capex commitment to $250B through 2035, adding $50B for New York, Idaho, Virginia, and other projects, and invests $500M in GlobalWafers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/micron-boosts-us-spending-to-250-billion-amid-memory-demand",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI",
+      "excerpt": "",
+      "url": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Memo: Meta plans to start manufacturing its in-house AI chip, codenamed Iris, from September, as part of its plan to boost its computing power to 14GW in 2027",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/meta-put-ai-chip-into-production-september-it-looks-double-computing-capacity-2026-07-09/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Anthropic debuts a “reflection” dashboard in beta for Free, Pro, and Max users with memory turned on, to track their Claude activity over 1, 3, 6, or 12 months",
+      "excerpt": "",
+      "url": "http://anthropic.com/news/reflect-with-claude",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans “when sufficient capacity allows”",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Bun's creator says he rewrote Bun from Zig to Rust using a Claude Fable 5 prerelease version in 11 days, noting it would've taken three engineers “about a year”",
+      "excerpt": "",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple talked with PrismML about its tech",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Sources: AI contractor marketplace Mercor is discussing raising new funds at a roughly $20B valuation, less than a year after raising money at a $10B valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Microsoft President Brad Smith says the US now has AI “regulation without transparent or complete rules”, and adds that “without rules, businesses can't plan”",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/09/microsoft-brad-smith-washingtons-ai-policy-regulation-without-transparent-rules/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Cognition releases SWE-1.7, trained from Kimi K2.7 and available in Devin at 1,000 tokens/second, claiming it nears frontier-level intelligence at a lower cost",
+      "excerpt": "",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6%",
+      "excerpt": "",
+      "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years",
+      "excerpt": "",
+      "url": "https://as.ft.com/r/4efe7e50-cc3d-4240-aa24-2f1de0b05772",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Companies are mobilizing internal groups of “AI champions” to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025",
+      "excerpt": "",
+      "url": "https://www.wsj.com/cio-journal/the-ai-superfans-companies-count-on-to-convert-the-skeptics-5b301a90?st=enuXpB&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Interpol and law enforcement agencies arrest 5,811 suspects and seize $293M in an operation combating social engineering scams and fraud across 97 countries",
+      "excerpt": "",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "US cybersecurity and data resilience company Rubrik plans to invest $500M+ in the UK over the next five years and establish its European headquarters in London",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/rubrik-unveils-500-million-uk-investment-names-london-european-hq-2026-07-09/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/coinbases-top-attorney-who-has-led-cryptos-washington-fight-step-down-2026-07-09/",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: Sonos' layoffs include some top design and product executives, like VP of Design Dana Krieger; CEO Tom Conrad says the changes reduce management layers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/sonos-loses-top-design-and-product-executives-in-recent-layoffs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzU0MDY1MCwiZXhwIjoxNzg0MTQ1NDUwLCJhcnRpY2xlSWQiOiJUSFQ5M0ZLSzNOWUEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.IffRcC_iMb8tD1Z8TyWJrcbV45yUED1OGqi2m7mxV1M",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/09/pitchbook-us-venture-funding-hits-412-7b-first-half-ai-deals-dominate/",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany's $3.2B, and France's $2.4B",
+      "excerpt": "",
+      "url": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
+      "section": "venture capital"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Filings: Grubhub parent Wonder is raising hundreds of millions of dollars at a $9B valuation; a source says founder Marc Lore indicated he will contribute $200M",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/marc-lores-wonder-ties-9-billion-valuation-fundraise-future-ipo",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation",
+      "excerpt": "",
+      "url": "https://tech.eu/2026/07/09/maritime-defence-startup-kraken-technology-hits-unicorn-status/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Enterprise AI agent startup Lyzr is raising a $100M Series B at a ~$500M valuation, up from $250M in March, and says its agents ran outreach for the round",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Databento, which sells financial data feeds, raised a $97M Series B led by NEA, taking its total funding to $127M, and says it is “profitable every month”",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/media/netflix-is-exploring-live-tv-and-bundles-as-it-struggles-to-keep-viewers-hooked-e1eb28f6?st=S1LJye&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Leaked renders via Android Headlines show the Samsung Galaxy Z Flip 8, Z Fold 8, Watch 9, and Watch Ultra 2; the Galaxy Z Fold 8 is likely the new wide foldable",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "India scraps import duties on some parts used to make devices like phones until March 31, 2029, removing 7.5% and 5% levies, which might help Apple and Xiaomi",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/media-telecom/india-removes-import-duty-some-electronics-smartphone-parts-2026-07-09/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Apple supplier Luxshare fell in its Hong Kong trading debut, closing down 1.6%, after raising ~$3.1B in the city's biggest listing in 2026 so far",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Shanghai-based GPU maker Iluvatar CoreX raised ~$902M in a Hong Kong share sale; the company's stock has soared 257% since its January IPO, which raised ~$473M",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/iluvatar-corex-seeks-to-raise-850-million-after-stock-rally",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/sap-averts-eu-antitrust-fine-regulators-accept-offer-address-competition-2026-07-09/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Internal DOJ memo: attorneys on crypto cases should expect less cooperation from Binance, which is adding asset freeze requirements; Binance denies any changes",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/binance-cooperate-less-crypto-cases-justice-department-warns-staff-memo",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "ByteDance debuts Seedream 5.0 Pro with advanced reasoning (2 minute read)",
+      "excerpt": "Seedream 5.0 Pro is a multimodal image-creation model that offers precise edits, multilingual support, and advanced production-design features. It is designed for production design work rather than one-shot image output. The model is targeted at creators, designers, marketers, educators, product teams, and developers. It supports more than 10 languages, as well as some right-to-left layouts and accents.",
+      "url": "https://www.testingcatalog.com/bytedance-debuts-seedream-5-0-pro-with-advanced-reasoning/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "GPT-Live (8 minute read)",
+      "excerpt": "OpenAI introduced a full-duplex voice model that can listen and speak simultaneously, handle natural conversational cues, and delegate complex tasks to GPT-5.5 while maintaining the flow of dialogue.",
+      "url": "https://openai.com/index/introducing-gpt-live/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Grok 4.5 (3 minute read)",
+      "excerpt": "SpaceXAI launched Grok 4.5 as its strongest model for coding, agentic tasks, and knowledge work, noting that it was trained alongside Cursor.",
+      "url": "https://x.ai/news/grok-4-5?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "Meta launches Muse Image across its apps (3 minute read)",
+      "excerpt": "Muse Image is an image-generation model that can create and edit images. It is now available in the Meta AI app, Instagram Stories, and WhatsApp. The model can perform multi-reference composition, room redesigns, prompt-based image creation and editing, and more. It can draw from public Instagram photos when a user tags an account. There will be an invisible watermark in the images it generates.",
+      "url": "https://www.testingcatalog.com/meta-launches-muse-image-across-its-apps-and-previews-muse-video/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Auditing the Reliability of Coding Benchmarks (9 minute read)",
+      "excerpt": "OpenAI examined SWE-Bench Pro's construction, model failures, and task metadata, concluding that roughly 30% of its public tasks were broken. The analysis showed how flawed evaluations could distort assessments of coding ability, safety, and model progress.",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "A Taxonomy of Self-evolving Agents (15 minute read)",
+      "excerpt": "Shilong Liu proposes a taxonomy that classifies self-evolving agents into three categories: artifact optimization, harness self-improvement, and model learning. The framework distinguishes whether evolution occurs in outputs, agent infrastructure, or model weights, providing a common language for emerging agent research.",
+      "url": "https://x.com/atasteoff/status/2074800880017342665?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "An off switch for dual use knowledge in AI models (8 minute read)",
+      "excerpt": "GRAM (Gradient-Routed Auxiliary Modules) enables the benefits of training many separately-filtered models at the cost of training only one model. It gives models dedicated, removable compartments for each category of dual-use knowledge and only updates those compartments when learning from dual-use data. It allows parts of the model's knowledge to be deleted after training, providing a stronger framework for model safety.",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "SWE-1.7: Frontier Intelligence at a Fraction of the Cost (22 minute read)",
+      "excerpt": "SWE-1.7 reaches frontier-level intelligence at a much lower cost. It is the result of broad improvements across Cognition's RL pipeline, including better infrastructure, more stable training, higher-quality data, and new techniques for long-horizon tasks. The model is available now in Devin on the web, desktop, and CLI. This post contains details on the infrastructure, algorithms, and data work behind the model.",
+      "url": "https://cognition.com/blog/swe-1-7?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Data for Agents (6 minute read)",
+      "excerpt": "NVIDIA underscores the importance of open and synthetic data for developing robust AI agents, highlighting its use in the Nemotron datasets for enhancing capabilities like reasoning and tool use. Open datasets contribute to AI system transparency and reproducibility, allowing developers to inspect and understand agent behavior.",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers (4 minute read)",
+      "excerpt": "SambaNova has raised $1 billion in financing at a valuation of $11 billion. Its inference chip business is scaling fast, and the capital will allow it to really accelerate the deployment of the racks that customers want. The company sells its latest chip as part of a server unit that can be deployed in data centers. It is strongly considering an IPO in 2027.",
+      "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "Data At The Edge (9 minute read)",
+      "excerpt": "AI is unlocking valuable datasets from the physical world by combining cheaper sensors, robotics, and multimodal models. New data flywheels around infrastructure, healthcare, and industrial automation could create the next generation of enduring AI businesses.",
+      "url": "https://x.com/rebeccakaden/status/2074862363874844903?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)",
+      "excerpt": "Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!",
+      "url": "mailto:ai@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "OpenAI buys Northslope to put its engineers inside your business (2 minute read)",
+      "excerpt": "The purchase of Northslope, an applied-AI firm, adds hundreds of forward-deployed engineers to OpenAI's ranks.",
+      "url": "https://thenextweb.com/news/openai-northslope-acquisition-enterprise-ai-deployment?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Robostral Navigate: single-camera AI navigation (5 minute read)",
+      "excerpt": "Mistral's Robostral Navigate is an 8B AI model that enables robots to autonomously navigate environments using a single RGB camera.",
+      "url": "https://mistral.ai/news/robostral-navigate/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "You're not ambitious enough with Claude (11 minute read)",
+      "excerpt": "Claude delivers the most leverage when used for high-impact work rather than routine automation.",
+      "url": "https://x.com/christinexzhu/status/2074847461588267466?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "Google Photos Added AI-Powered Video Remixing (1 minute read)",
+      "excerpt": "Google Photos has introduced a Gemini Omni-powered tool that can quickly relight clips, replace backgrounds, and apply artistic styles such as watercolor, sketchbook, and oil painting.",
+      "url": "https://blog.google/products-and-platforms/products/photos/video-remix/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}
