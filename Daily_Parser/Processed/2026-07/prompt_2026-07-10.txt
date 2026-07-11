@@ -1,0 +1,226 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Apple sues OpenAI, alleging that ex-Apple employees stole “Apple's trade secrets for the benefit of OpenAI”, and says OpenAI never responded to its concerns
+Tweets:
+  - Author: @garymarcus
+    Text: reminds me of the time Greg Brockman personally downloaded YouTube videos for training purposes, as reported in NYT.
+    Link ID: TM-01-TW-01
+  - Author: @signulll
+    Text: just so that this is clear, apple is suing openai & io, the company founded by its own former chief design officer, jony ive.  you genuinely could not write an episode of the ai wars this dramatic.  that script would be rejected for being too on the nose.  can you imagine steve jobs suing jony?
+    Link ID: TM-01-TW-02
+  - Author: @alexeheath
+    Text: Apple statement: “At Apple, our teams are constantly developing breakthrough technologies to create the best products and services in the world, and protecting their work and intellectual property is something we take very seriously.  Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technologies, processes, and products.  We will always defend our teams' hard work and innovations, and we are taking all appropriate steps to do so.”
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Apple alleges that Tang Tan, OpenAI's chief hardware officer and a former Apple VP, has directed Apple staffers interviewing at OpenAI to share Apple secrets
+    Link ID: TM-01-SUB-01
+  - Title: Apple says OpenAI leadership “normalized” misconduct and OpenAI's hardware business is “rotten to its core by its illegal reliance” on stolen trade secrets
+    Link ID: TM-01-SUB-02
+  - Title: Apple claims OpenAI recruited 400+ ex-Apple employees, including an iPhone engineer who allegedly downloaded confidential hardware files before joining OpenAI
+    Link ID: TM-01-SUB-03
+  - Title: Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple's cloud file storage while employed by OpenAI
+    Link ID: TM-01-SUB-04
+  - Title: In its lawsuit, Apple chronicles in vivid detail how its former employees that went to work for OpenAI allegedly violated their confidentiality agreements
+    Link ID: TM-01-SUB-05
+  - Title: In response to Apple's trade secret theft lawsuit, OpenAI says “we have no interest in other companies' trade secrets”
+    Link ID: TM-01-SUB-06
+---
+ID: TM-02
+Title: In preliminary findings, the EU Commission said Facebook's and Instagram's “addictive design” violates the DSA, telling Meta to make changes or risk hefty fines
+Tweets:
+  - Author: @eu_commission
+    Text: In the EU, social media platforms are accountable for their addictive designs.  Our investigation of Instagram and Facebook shows Meta has not adequately assessed the risks of features such as infinite scroll, autoplay, push notifications, and recommender systems.  Meta can now exercise its right to defence before these preliminary findings are confirmed.
+    Link ID: TM-02-TW-01
+  - Author: @rubencober
+    Text: Strange that the European Commission considers that big social media platforms are not following rules for example on addictive designs and that the EU Court fines these platforms for billions.  Yet the European Commission does allow and wants to make it mandatory for these same platforms to scan all private communications of citizens.  Do you think these platforms will then magically adhere to the rules on privacy and proportionality?
+    Link ID: TM-02-TW-02
+---
+ID: TM-03
+Title: Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism
+Tweets:
+  - Author: @mikeisaac
+    Text: easy to see how “you can tag anyone's likeness by mentioning them” might go over like a fart in a crowded room if you spent any time paying attention to the sora launch unforced error
+    Link ID: TM-03-TW-01
+Sub Items:
+  - Title: Privacy advocates, CAA, and SAG-AFTRA slam Meta's Muse Image, which let users create AI images using the likenesses of people with public Instagram accounts
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: SK Hynix closed up 12.76% at $168.01 in its first day of trading on Nasdaq, after raising $26.5B in the largest ever US market debut by a foreign company
+---
+ID: TM-05
+Title: The Department of Commerce loosens export controls to the UAE, letting G42 and US companies like Apple, Meta, and xAI export AI chips to UAE without a license
+---
+ID: TM-06
+Title: OpenAI and Google sold AI services to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, reigniting calls for tighter US regulation of AI models
+---
+ID: TM-07
+Title: The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight
+---
+ID: TM-08
+Title: Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services
+---
+ID: TM-09
+Title: Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: MiniMax is looking to raise as much as $2B by selling 35.6M shares at ~$34 each and offering ~$830M in zero-coupon convertible bonds due in 2027
+Sub Items:
+  - Title: Memo: MiniMax CEO Junjie Yan tells employees he will forgo his salary until MiniMax achieves AGI and promises to allocate personal shares to employee incentives
+    Link ID: TM-10-SUB-01
+---
+ID: TM-11
+Title: Sources: Manus' investors and management are discussing unwinding Meta's $2B buyout at the same valuation, with Tencent in talks to become the largest investor
+---
+ID: TM-12
+Title: A look at Meta Superintelligence Labs' growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI
+---
+ID: TM-13
+Title: Like the Claude app it imitates, the new ChatGPT “Super App”, which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions
+---
+ID: TM-14
+Title: Malaysia Prime Minister Anwar Ibrahim plans to debut an agentic AI avatar of himself within days, which is meant to help the public navigate government services
+---
+ID: TM-15
+Title: An RIAA-led coalition representing labels and artists proposes two tags for AI content: one for entirely AI-generated songs and another for “AI-assisted” tracks
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-16
+Title: Taiwan's leading DRAM maker Nanya Technology expects its capex to exceed ~$6.2B in 2027, up ~4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY
+---
+ID: TM-17
+Title: SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030
+---
+ID: TM-18
+Title: Interviews with employees and insiders reveal how CXMT is amassing tech, funding, and state support to challenge top memory chipmakers and build local suppliers
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-19
+Title: Analysis: Alphabet, Amazon, Meta, Microsoft, and Oracle, the top spenders on new US data centers, collectively added ~$350B in debt over the past five years
+---
+ID: TM-20
+Title: Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a more than 5x return for Carlyle
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-21
+Title: A US court sentences a former ransomware negotiator to 70 months in prison for colluding with BlackCat to extort $75.3M from five of his employer's clients
+---
+ID: TM-22
+Title: Filing: college social app Fizz accuses Maveron's Jerry Lu of giving confidential info to rival Sidechat after he met with Fizz as a potential investor in 2022
+---
+ID: TM-23
+Title: A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-24
+Title: Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment
+---
+ID: TM-25
+Title: Munich-based QuantumDiamonds, which uses quantum sensors to detect chip defects, raised €91M, including €76M under the European Chips Act
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-26
+Title: CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials
+---
+ID: TM-27
+Title: Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber
+---
+ID: TM-28
+Title: Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or “cookie stuffing” to claim affiliate commissions
+---
+ID: TM-29
+Title: How television, the internet, smartphones, social media, and now generative AI are accelerating a decline in people reading longer works like books
+---
+ID: TM-30
+Title: Polymarket is seeking CFTC and NFA approval to offer margin trading in the US, which would let users bet on events with less capital upfront and attract traders
+---
+ID: TM-31
+Title: Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view
+---
+ID: TM-32
+Title: 1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give them 25 degrees of freedom of movement; human hands usually have 27
+---
+ID: TM-33
+Title: China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: OpenAI Retired Atlas (2 minute read)
+Excerpt: OpenAI shut down its Atlas browser and shifted its agentic browsing features into ChatGPT's desktop app and a Chrome extension. The decision followed a broader effort to reduce side projects while continuing to develop AI-assisted web browsing.
+---
+ID: TL-02
+Title: Muse Spark 1.1 (8 minute read)
+Excerpt: Meta introduced Muse Spark 1.1 with improved tool use, coding, computer interaction, and multimodal reasoning. The company also opened a public preview of its Meta Model API for developers.
+---
+ID: TL-03
+Title: GPT-5.6: Frontier intelligence that scales with your ambition (19 minute read)
+Excerpt: OpenAI launched GPT-5.6, featuring models Sol, Terra, and Luna, with Sol leading in intelligence and efficiency for coding, cybersecurity, and science. The models excel with fewer tokens at lower costs, with Sol notably outperforming competitors like Claude Fable 5. Enhanced capabilities include multi-agent parallel processing and improved design judgment, advancing cybersecurity and scientific research while maintaining strong safety measures.
+---
+ID: TL-04
+Title: GPT-5.6 Series (2 minute read)
+Excerpt: GPT-5.6 Sol is the standout model of the GPT-5.6 family. It is the first model to win an ARC-AGI-3 public game. The model is able to read an unfamiliar scene correctly and in the game's own vocabulary. It won the game on ARC-AGI because it correctly oriented itself in a new environment first.
+---
+ID: TL-05
+Title: GPT-5.6 Review (1 minute read)
+Excerpt: The review highlights GPT-5.6's significant advancements in language understanding and generation, outperforming its predecessors. It demonstrates improved contextual accuracy and adaptability across various applications. These enhancements could substantially impact AI-driven industries.
+---
+ID: TL-06
+Title: Evolving Windows vulnerability management to meet the speed of AI-powered discovery (9 minute read)
+Excerpt: Windows leverages AI to enhance vulnerability discovery, reduce fix times, and offer timely security updates. It uses the MDASH scanning system and dedicated cloud infrastructure to streamline identifying and fixing issues. By integrating AI into the security update process and collaborating internally and externally, Windows aims to maintain protection speed without compromising update quality.
+---
+ID: TL-07
+Title: Z.ai's Stable Asynchronous RL (13 minute read)
+Excerpt: Single-rollout Asynchronous Optimization replaces GRPO-style grouped sampling with one rollout per prompt, supported by value-model training and strict token-level clipping.
+---
+ID: TL-08
+Title: Prisma (GitHub Repo)
+Excerpt: Offers tools like Prisma Client for type-safe database queries in Node.js and TypeScript, Prisma Migrate for data modeling, and Prisma Studio for GUI database editing.
+---
+ID: TL-09
+Title: Flexible Video Diffusion (3 minute read)
+Excerpt: Flex-Forcing trains video diffusion models to switch between bidirectional and autoregressive generation through flexible temporal and denoising-step chunking. The approach improves inference speed, video quality, and long-range stability across different compute budgets.
+---
+ID: TL-10
+Title: ChatGPT Work (2 minute read)
+Excerpt: ChatGPT Work is a GPT-5.6-powered workspace that gathers context from team tools and acts across files and desktop applications. It was designed to turn fragmented project materials into finished documents, spreadsheets, and presentations.
+---
+ID: TL-11
+Title: OpenAI's No. 2 Executive to Step Down in Latest Leadership Shake-Up (4 minute read)
+Excerpt: OpenAI's Fidji Simo plans to step down from her role as a full-time executive after an extended medical leave. She will become a part-time adviser to the company. Her neuroimmune condition has worsened, and her road to recovery will take much longer than anticipated. Simo's product and business responsibilities will be divided among President Greg Brockman, CFO Sarah Friar, and Chief Strategy Officer Jason Kwon.
+---
+ID: TL-12
+Title: OpenAI may have made a fatal misstep in copyright fight with news orgs (7 minute read)
+Excerpt: News organizations suing OpenAI have accused the AI firm of repeatedly lying for years to conceal evidence of infringement that could hobble its defense. OpenAI privacy engineer Vincent Monaco has revealed that OpenAI misled the court for two years about the cost and burdens of searching ChatGPT logs. OpenAI has pretended from the earliest stages of the case that it did not have the technical ability to search large anonymized samples of ChatGPT logs when it had actually already conducted such searches prior to the start of litigation. The discovery may lead to serious sanctions against OpenAI.
+---
+ID: TL-13
+Title: Meta's new AI chips will begin production in September (4 minute read)
+Excerpt: Netta and Broadcom are working on the chip design, with TSMC set to manufacture it.
+---
+ID: TL-14
+Title: Mercor is in talks for a $20B valuation (1 minute read)
+Excerpt: AI training startup Mercor seeks to raise a round at a $20 billion valuation, doubling from its last $10 billion valuation in October.
+---
+ID: TL-15
+Title: Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic (5 minute read)
+Excerpt: Elon Musk insists that he's full of admiration for rival Anthropic.
+---
+ID: TL-16
+Title: Anthropic appoints former Fed Chair Ben Bernanke to its independent trust (3 minute read)
+Excerpt: Anthropic appointed former Fed Chair Ben Bernanke to its Long-Term Benefit Trust to help navigate AI's economic impacts.
+---
+ID: TL-17
+Title: Inviting hard questions (3 minute read)
+Excerpt: Anthropic has invited public input on AI-related concerns, conducting surveys and focus groups to understand societal hopes and fears.
+---

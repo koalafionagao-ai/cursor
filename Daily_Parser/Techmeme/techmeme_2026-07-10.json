@@ -1,0 +1,322 @@
+{
+  "date": "2026-07-10",
+  "sections": {
+    "top news": [
+      {
+        "title": "Apple sues OpenAI, alleging that ex-Apple employees stole “Apple's trade secrets for the benefit of OpenAI”, and says OpenAI never responded to its concerns",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "tweets": [
+          {
+            "author": "@garymarcus",
+            "text": "reminds me of the time Greg Brockman personally downloaded YouTube videos for training purposes, as reported in NYT.",
+            "url": "https://x.com/garymarcus/status/2075707002911621169"
+          },
+          {
+            "author": "@signulll",
+            "text": "just so that this is clear, apple is suing openai & io, the company founded by its own former chief design officer, jony ive.  you genuinely could not write an episode of the ai wars this dramatic.  that script would be rejected for being too on the nose.  can you imagine steve jobs suing jony?",
+            "url": "https://x.com/signulll/status/2075699758765642239"
+          },
+          {
+            "author": "@alexeheath",
+            "text": "Apple statement: “At Apple, our teams are constantly developing breakthrough technologies to create the best products and services in the world, and protecting their work and intellectual property is something we take very seriously.  Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technologies, processes, and products.  We will always defend our teams' hard work and innovations, and we are taking all appropriate steps to do so.”",
+            "url": "https://x.com/alexeheath/status/2075685107999096990"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Apple alleges that Tang Tan, OpenAI's chief hardware officer and a former Apple VP, has directed Apple staffers interviewing at OpenAI to share Apple secrets",
+            "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+          },
+          {
+            "title": "Apple says OpenAI leadership “normalized” misconduct and OpenAI's hardware business is “rotten to its core by its illegal reliance” on stolen trade secrets",
+            "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+          },
+          {
+            "title": "Apple claims OpenAI recruited 400+ ex-Apple employees, including an iPhone engineer who allegedly downloaded confidential hardware files before joining OpenAI",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzcyMzAyNiwiZXhwIjoxNzg0MzI3ODI2LCJhcnRpY2xlSWQiOiJUSFoxNUdLR0lGUEowMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.sn8552UuZ63H4ezps1fNvytPIYdQGwc6Jpmj5U6zEaA"
+          },
+          {
+            "title": "Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple's cloud file storage while employed by OpenAI",
+            "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft"
+          },
+          {
+            "title": "In its lawsuit, Apple chronicles in vivid detail how its former employees that went to work for OpenAI allegedly violated their confidentiality agreements",
+            "url": "https://www.theinformation.com/articles/apple-sues-openai-trade-secret-theft"
+          },
+          {
+            "title": "In response to Apple's trade secret theft lawsuit, OpenAI says “we have no interest in other companies' trade secrets”",
+            "url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/"
+          }
+        ]
+      },
+      {
+        "title": "In preliminary findings, the EU Commission said Facebook's and Instagram's “addictive design” violates the DSA, telling Meta to make changes or risk hefty fines",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+        "tweets": [
+          {
+            "author": "@eu_commission",
+            "text": "In the EU, social media platforms are accountable for their addictive designs.  Our investigation of Instagram and Facebook shows Meta has not adequately assessed the risks of features such as infinite scroll, autoplay, push notifications, and recommender systems.  Meta can now exercise its right to defence before these preliminary findings are confirmed.",
+            "url": "https://x.com/eu_commission/status/2075569614377881824"
+          },
+          {
+            "author": "@rubencober",
+            "text": "Strange that the European Commission considers that big social media platforms are not following rules for example on addictive designs and that the EU Court fines these platforms for billions.  Yet the European Commission does allow and wants to make it mandatory for these same platforms to scan all private communications of citizens.  Do you think these platforms will then magically adhere to the rules on privacy and proportionality?",
+            "url": "https://x.com/rubencober/status/2075586221624136112"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism",
+        "excerpt": "",
+        "url": "https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/",
+        "tweets": [
+          {
+            "author": "@mikeisaac",
+            "text": "easy to see how “you can tag anyone's likeness by mentioning them” might go over like a fart in a crowded room if you spent any time paying attention to the sora launch unforced error",
+            "url": "https://x.com/mikeisaac/status/2075719515728441396"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Privacy advocates, CAA, and SAG-AFTRA slam Meta's Muse Image, which let users create AI images using the likenesses of people with public Instagram accounts",
+            "url": "https://www.axios.com/2026/07/10/meta-ai-image-consent"
+          }
+        ]
+      },
+      {
+        "title": "SK Hynix closed up 12.76% at $168.01 in its first day of trading on Nasdaq, after raising $26.5B in the largest ever US market debut by a foreign company",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Department of Commerce loosens export controls to the UAE, letting G42 and US companies like Apple, Meta, and xAI export AI chips to UAE without a license",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI and Google sold AI services to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, reigniting calls for tighter US regulation of AI models",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f?accessToken=zwAAAZ9NzsN5kc9daq-hXUdFhdOqlW7AamzSDw.MEUCICanie0uNIKSSPIBX3CU1V6a8hnN9qy0Qo3kC1C2lJccAiEAn-bAxtALqnHVlIXQt4xbqyPxRNEEpzJ-Uju30rJJ-5Q&sharetype=gift&token=ab760b6f-a210-4ab4-bf5c-673915424a6c&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/uk-regulate-cloud-service-providers-microsoft-google-others-protect-financial-2026-07-10/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/stablecoin-firm-circle-gets-approval-for-coveted-us-bank-charter",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "MiniMax is looking to raise as much as $2B by selling 35.6M shares at ~$34 each and offering ~$830M in zero-coupon convertible bonds due in 2027",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Memo: MiniMax CEO Junjie Yan tells employees he will forgo his salary until MiniMax achieves AGI and promises to allocate personal shares to employee incentives",
+            "url": "https://www.theinformation.com/briefings/minimax-ceo-vows-forgo-salary-achieving-agi"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Manus' investors and management are discussing unwinding Meta's $2B buyout at the same valuation, with Tencent in talks to become the largest investor",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Meta Superintelligence Labs' growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI",
+        "excerpt": "",
+        "url": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Like the Claude app it imitates, the new ChatGPT “Super App”, which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions",
+        "excerpt": "",
+        "url": "https://spyglass.org/chatgpt-gets-to-work/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Malaysia Prime Minister Anwar Ibrahim plans to debut an agentic AI avatar of himself within days, which is meant to help the public navigate government services",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/malaysia-s-anwar-to-debut-an-ai-double-that-sounds-just-like-him?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzY2NjQwMSwiZXhwIjoxNzg0MjcxMjAxLCJhcnRpY2xlSWQiOiJUSFg2MEVLSVAzSjgwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.gnU3rG68X5p_s0oHqL4pKhl9Ou3QVuI7WUNIXblvyfk",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An RIAA-led coalition representing labels and artists proposes two tags for AI content: one for entirely AI-generated songs and another for “AI-assisted” tracks",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/record-companies-push-to-label-ai-songs-on-streaming-platforms-103aa392",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Taiwan's leading DRAM maker Nanya Technology expects its capex to exceed ~$6.2B in 2027, up ~4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/taiwanese-chipmaker-nanya-plans-6-billion-spending-2027-riding-ai-boom-2026-07-10/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Interviews with employees and insiders reveal how CXMT is amassing tech, funding, and state support to challenge top memory chipmakers and build local suppliers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-07-09/china-s-cxmt-chipmaker-eyes-ipo-to-challenge-samsung-sk-hynix-micron",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Analysis: Alphabet, Amazon, Meta, Microsoft, and Oracle, the top spenders on new US data centers, collectively added ~$350B in debt over the past five years",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a more than 5x return for Carlyle",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873?accessToken=zwAAAZ9NbsSFkdOmbB2QaCtICtOPw_t7fi8Ycw.MEQCIELZwNEHTLAcUdsQ0bxle6pqg4kY0d19whsM_zBjvF1CAiBz9pjS1vWWFeKvAO0L8eH6Ht7rS23Q45W2lfgmRYKdlw&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=438d512e-08e7-4635-8d5b-fc3577a4d98a",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "A US court sentences a former ransomware negotiator to 70 months in prison for colluding with BlackCat to extort $75.3M from five of his employer's clients",
+        "excerpt": "",
+        "url": "https://cyberscoop.com/digitalmint-ransomware-negotiator-angelo-martino-sentenced/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: college social app Fizz accuses Maveron's Jerry Lu of giving confidential info to rival Sidechat after he met with Fizz as a potential investor in 2022",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Munich-based QuantumDiamonds, which uses quantum sensors to detect chip defects, raised €91M, including €76M under the European Chips Act",
+        "excerpt": "",
+        "url": "https://thenextweb.com/news/quantumdiamonds-91m-eu-chips-act-inspection",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials",
+        "excerpt": "",
+        "url": "https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or “cookie stuffing” to claim affiliate commissions",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/gates-heir-s-shopping-app-took-credit-for-sales-it-didn-t-drive?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzY2MjI2OSwiZXhwIjoxNzg0MjY3MDY5LCJhcnRpY2xlSWQiOiJUSFhBSVBSMjRVOEMwMCIsImJjb25uZWN0SWQiOiIzMkI3NjREMjRGNDQ0OTEyQjE0Mzc1OTA4ODY4N0FFNiJ9.kKi5LhNr3z3HHirWd4XkVWwtkiY3e5a9j7-X1YROTjk&leadSource=uverify%20wall",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How television, the internet, smartphones, social media, and now generative AI are accelerating a decline in people reading longer works like books",
+        "excerpt": "",
+        "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/?gift=uP40aMSD1nXws5OJJf7PNon2RgfL5TMR77HEOKk96eg&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Polymarket is seeking CFTC and NFA approval to offer margin trading in the US, which would let users bet on events with less capital upfront and attract traders",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give them 25 degrees of freedom of movement; human hands usually have 27",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 33
+  }
+}

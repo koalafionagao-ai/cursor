@@ -1,0 +1,614 @@
+{
+  "date": "2026-07-10",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 22,
+    "by_category": {
+      "cat:other": 10,
+      "cat:app": 3,
+      "cat:business": 2,
+      "cat:tech": 4,
+      "cat:model": 3
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title": {
+        "zh": "苹果起诉OpenAI，指控前苹果员工窃取商业机密",
+        "en": "Apple sues OpenAI, alleging that ex-Apple employees stole “Apple's trade secrets for the benefit of OpenAI”, and says OpenAI never responded to its concerns"
+      },
+      "summary": {
+        "zh": "苹果指控前员工为OpenAI窃取商业机密，并表示OpenAI未回应其关切。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "apple",
+        "openai",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "openai",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+      "title": {
+        "zh": "欧盟委员会称Facebook和Instagram的“上瘾设计”违反DSA",
+        "en": "In preliminary findings, the EU Commission said Facebook's and Instagram's “addictive design” violates the DSA, telling Meta to make changes or risk hefty fines"
+      },
+      "summary": {
+        "zh": "欧盟要求Meta对其平台设计进行修改，否则将面临巨额罚款。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/",
+      "title": {
+        "zh": "美国商务部放宽对阿联酋的出口管制",
+        "en": "The Department of Commerce loosens export controls to the UAE, letting G42 and US companies like Apple, Meta, and xAI export AI chips to UAE without a license"
+      },
+      "summary": {
+        "zh": "允许G42和美国公司向阿联酋出口AI芯片，无需许可证。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "apple",
+        "meta",
+        "xai",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "meta",
+        "xai",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f?accessToken=zwAAAZ9NzsN5kc9daq-hXUdFhdOqlW7AamzSDw.MEUCICanie0uNIKSSPIBX3CU1V6a8hnN9qy0Qo3kC1C2lJccAiEAn-bAxtALqnHVlIXQt4xbqyPxRNEEpzJ-Uju30rJJ-5Q&sharetype=gift&token=ab760b6f-a210-4ab4-bf5c-673915424a6c&syn-25a6b1a6=1",
+      "title": {
+        "zh": "OpenAI和Google向阿里巴巴、百度和腾讯的子公司出售AI服务",
+        "en": "OpenAI and Google sold AI services to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, reigniting calls for tighter US regulation of AI models"
+      },
+      "summary": {
+        "zh": "此举引发了对美国加强AI模型监管的呼声。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "google",
+        "alibaba",
+        "baidu",
+        "tencent",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "google",
+        "alibaba",
+        "baidu",
+        "tencent",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/retail-consumer/uk-regulate-cloud-service-providers-microsoft-google-others-protect-financial-2026-07-10/",
+      "title": {
+        "zh": "英国将微软、谷歌、亚马逊和甲骨文列为关键金融供应商",
+        "en": "The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight"
+      },
+      "summary": {
+        "zh": "这些公司将受到直接监管。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "microsoft",
+        "google",
+        "amazon",
+        "oracle",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "google",
+        "amazon",
+        "oracle",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
+      "title": {
+        "zh": "Meta超级智能实验室的年度发展回顾",
+        "en": "A look at Meta Superintelligence Labs' growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI"
+      },
+      "summary": {
+        "zh": "包括顶级强化学习环境和计算能力的提升，可能赶超Anthropic和OpenAI。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "training",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "training",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/malaysia-s-anwar-to-debut-an-ai-double-that-sounds-just-like-him?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzY2NjQwMSwiZXhwIjoxNzg0MjcxMjAxLCJhcnRpY2xlSWQiOiJUSFg2MEVLSVAzSjgwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.gnU3rG68X5p_s0oHqL4pKhl9Ou3QVuI7WUNIXblvyfk",
+      "title": {
+        "zh": "马来西亚总理计划推出自己的AI虚拟形象",
+        "en": "Malaysia Prime Minister Anwar Ibrahim plans to debut an agentic AI avatar of himself within days, which is meant to help the public navigate government services"
+      },
+      "summary": {
+        "zh": "该虚拟形象旨在帮助公众更好地使用政府服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "agent",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "policy"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/features/2026-07-09/china-s-cxmt-chipmaker-eyes-ipo-to-challenge-samsung-sk-hynix-micron",
+      "title": {
+        "zh": "CXMT如何通过技术、资金和国家支持挑战顶级存储芯片制造商",
+        "en": "Interviews with employees and insiders reveal how CXMT is amassing tech, funding, and state support to challenge top memory chipmakers and build local suppliers"
+      },
+      "summary": {
+        "zh": "内部人士透露CXMT正在构建本地供应链。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "chip",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "title": {
+        "zh": "分析：五大科技公司在美国数据中心的巨额投资",
+        "en": "Analysis: Alphabet, Amazon, Meta, Microsoft, and Oracle, the top spenders on new US data centers, collectively added ~$350B in debt over the past five years"
+      },
+      "summary": {
+        "zh": "Alphabet、亚马逊、Meta、微软和甲骨文过去五年共增加了约3500亿美元的债务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "amazon",
+        "meta",
+        "microsoft",
+        "oracle",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "amazon",
+        "meta",
+        "microsoft",
+        "oracle",
+        "data-center"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/",
+      "title": {
+        "zh": "Oxylabs获得1.3亿美元投资，估值达36亿美元",
+        "en": "Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment"
+      },
+      "summary": {
+        "zh": "这是其首次接受外部投资，由Warburg Pincus领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
+      "title": {
+        "zh": "Xreal发布299美元A01 Plus AR眼镜，重量仅62克，配备1080p微型OLED屏幕",
+        "en": "Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-32",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "title": {
+        "zh": "1X公司推出具备25个自由度的类人机器人Neo",
+        "en": "1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give them 25 degrees of freedom of movement; human hands usually have 27"
+      },
+      "summary": {
+        "zh": "Neo的五指手部采用肌腱式驱动器，接近人类手部的27个自由度。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-33",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
+      "title": {
+        "zh": "中国五年计划首次取消城市就业目标",
+        "en": "China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement"
+      },
+      "summary": {
+        "zh": "此举反映了因AI取代就业带来的不确定性。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?utm_source=tldrai",
+      "title": {
+        "zh": "Meta推出Muse Spark 1.1，增强多模态推理与工具使用",
+        "en": "Muse Spark 1.1 (8 minute read)"
+      },
+      "summary": {
+        "zh": "同时开放Meta Model API的公开预览，供开发者使用。",
+        "en": "Meta introduced Muse Spark 1.1 with improved tool use, coding, computer interaction, and multimodal reasoning. The company also opened a public preview of its Meta Model API for developers."
+      },
+      "tags": [
+        "cat:tech",
+        "meta"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://openai.com/index/gpt-5-6/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI发布GPT-5.6，推出Sol、Terra和Luna模型",
+        "en": "GPT-5.6: Frontier intelligence that scales with your ambition (19 minute read)"
+      },
+      "summary": {
+        "zh": "Sol在编码、网络安全和科学领域表现卓越，具备多代理并行处理和改进的设计判断能力。",
+        "en": "OpenAI launched GPT-5.6, featuring models Sol, Terra, and Luna, with Sol leading in intelligence and efficiency for coding, cybersecurity, and science. The models excel with fewer tokens at lower costs, with Sol notably outperforming competitors like Claude Fable 5. Enhanced capabilities include multi-agent parallel processing and improved design judgment, advancing cybersecurity and scientific research while maintaining strong safety measures."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://arcprize.org/results/openai-gpt-5-6?utm_source=tldrai",
+      "title": {
+        "zh": "GPT-5.6 Sol模型在ARC-AGI-3游戏中表现出色",
+        "en": "GPT-5.6 Series (2 minute read)"
+      },
+      "summary": {
+        "zh": "Sol是首个在ARC-AGI-3公开游戏中获胜的模型，展现了卓越的环境适应能力。",
+        "en": "GPT-5.6 Sol is the standout model of the GPT-5.6 family. It is the first model to win an ARC-AGI-3 public game. The model is able to read an unfamiliar scene correctly and in the game's own vocabulary. It won the game on ARC-AGI because it correctly oriented itself in a new environment first."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://signals.forwardfuture.com/gpt-5-6-review/?utm_source=tldrai",
+      "title": {
+        "zh": "GPT-5.6评测：语言理解与生成能力显著提升",
+        "en": "GPT-5.6 Review (1 minute read)"
+      },
+      "summary": {
+        "zh": "在上下文准确性和适应性方面表现优异，对AI驱动行业有重大影响。",
+        "en": "The review highlights GPT-5.6's significant advancements in language understanding and generation, outperforming its predecessors. It demonstrates improved contextual accuracy and adaptability across various applications. These enhancements could substantially impact AI-driven industries."
+      },
+      "tags": [
+        "cat:model",
+        "openai",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery/?utm_source=tldrai",
+      "title": {
+        "zh": "Windows利用AI提升漏洞管理速度",
+        "en": "Evolving Windows vulnerability management to meet the speed of AI-powered discovery (9 minute read)"
+      },
+      "summary": {
+        "zh": "通过MDASH扫描系统和云基础设施，优化漏洞发现与修复流程。",
+        "en": "Windows leverages AI to enhance vulnerability discovery, reduce fix times, and offer timely security updates. It uses the MDASH scanning system and dedicated cloud infrastructure to streamline identifying and fixing issues. By integrating AI into the security update process and collaborating internally and externally, Windows aims to maintain protection speed without compromising update quality."
+      },
+      "tags": [
+        "cat:tech",
+        "microsoft"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://research.nvidia.com/labs/genair/flex-forcing/?utm_source=tldrai",
+      "title": {
+        "zh": "灵活视频扩散技术提升推理速度与视频质量",
+        "en": "Flexible Video Diffusion (3 minute read)"
+      },
+      "summary": {
+        "zh": "通过灵活的时间和降噪步骤分块，改进了视频生成的长程稳定性。",
+        "en": "Flex-Forcing trains video diffusion models to switch between bidirectional and autoregressive generation through flexible temporal and denoising-step chunking. The approach improves inference speed, video quality, and long-range stability across different compute budgets."
+      },
+      "tags": [
+        "cat:tech",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "video-gen"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://openai.com/chatgpt-work/?utm_source=tldrai",
+      "title": {
+        "zh": "ChatGPT Work：基于GPT-5.6的智能工作空间",
+        "en": "ChatGPT Work (2 minute read)"
+      },
+      "summary": {
+        "zh": "整合团队工具上下文，自动生成文档、表格和演示文稿。",
+        "en": "ChatGPT Work is a GPT-5.6-powered workspace that gathers context from team tools and acts across files and desktop applications. It was designed to turn fragmented project materials into finished documents, spreadsheets, and presentations."
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "gpt",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "gpt",
+        "chatgpt"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TL-12",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI在与新闻机构的版权诉讼中可能犯下致命错误",
+        "en": "OpenAI may have made a fatal misstep in copyright fight with news orgs (7 minute read)"
+      },
+      "summary": {
+        "zh": "新闻机构指控OpenAI多年来隐瞒侵权证据，可能导致其辩护受阻。隐私工程师透露，OpenAI曾误导法院关于搜索ChatGPT日志的技术能力。",
+        "en": "News organizations suing OpenAI have accused the AI firm of repeatedly lying for years to conceal evidence of infringement that could hobble its defense. OpenAI privacy engineer Vincent Monaco has revealed that OpenAI misled the court for two years about the cost and burdens of searching ChatGPT logs. OpenAI has pretended from the earliest stages of the case that it did not have the technical ability to search large anonymized samples of ChatGPT logs when it had actually already conducted such searches prior to the start of litigation. The discovery may lead to serious sanctions against OpenAI."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-16",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic任命前美联储主席本·伯南克为独立信托成员",
+        "en": "Anthropic appoints former Fed Chair Ben Bernanke to its independent trust (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic任命本·伯南克加入长期利益信托，以应对AI的经济影响。",
+        "en": "Anthropic appointed former Fed Chair Ben Bernanke to its Long-Term Benefit Trust to help navigate AI's economic impacts."
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "policy"
+      ],
+      "category_tag": "cat:business"
+    }
+  ]
+}

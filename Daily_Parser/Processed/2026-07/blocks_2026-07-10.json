@@ -1,0 +1,405 @@
+{
+  "date": "2026-07-10",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Apple sues OpenAI, alleging that ex-Apple employees stole “Apple's trade secrets for the benefit of OpenAI”, and says OpenAI never responded to its concerns",
+      "excerpt": "",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "In preliminary findings, the EU Commission said Facebook's and Instagram's “addictive design” violates the DSA, telling Meta to make changes or risk hefty fines",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism",
+      "excerpt": "",
+      "url": "https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "SK Hynix closed up 12.76% at $168.01 in its first day of trading on Nasdaq, after raising $26.5B in the largest ever US market debut by a foreign company",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "The Department of Commerce loosens export controls to the UAE, letting G42 and US companies like Apple, Meta, and xAI export AI chips to UAE without a license",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/middle-east/us-makes-it-easier-export-certain-military-items-ai-chips-commercial-satellites-2026-07-10/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "OpenAI and Google sold AI services to Singapore-based subsidiaries of Alibaba, Baidu, and Tencent, reigniting calls for tighter US regulation of AI models",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f?accessToken=zwAAAZ9NzsN5kc9daq-hXUdFhdOqlW7AamzSDw.MEUCICanie0uNIKSSPIBX3CU1V6a8hnN9qy0Qo3kC1C2lJccAiEAn-bAxtALqnHVlIXQt4xbqyPxRNEEpzJ-Uju30rJJ-5Q&sharetype=gift&token=ab760b6f-a210-4ab4-bf5c-673915424a6c&syn-25a6b1a6=1",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "The UK designates Microsoft, Google, Amazon, and Oracle as critical third-party financial sector suppliers, bringing them under direct regulatory oversight",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/retail-consumer/uk-regulate-cloud-service-providers-microsoft-google-others-protect-financial-2026-07-10/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/stablecoin-firm-circle-gets-approval-for-coveted-us-bank-charter",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Source: Greg Brockman will continue to oversee OpenAI's products as the company doesn't plan to hire anyone to replace Fidji Simo after she stepped down",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "MiniMax is looking to raise as much as $2B by selling 35.6M shares at ~$34 each and offering ~$830M in zero-coupon convertible bonds due in 2027",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Sources: Manus' investors and management are discussing unwinding Meta's $2B buyout at the same valuation, with Tencent in talks to become the largest investor",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "A look at Meta Superintelligence Labs' growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI",
+      "excerpt": "",
+      "url": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Like the Claude app it imitates, the new ChatGPT “Super App”, which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions",
+      "excerpt": "",
+      "url": "https://spyglass.org/chatgpt-gets-to-work/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Malaysia Prime Minister Anwar Ibrahim plans to debut an agentic AI avatar of himself within days, which is meant to help the public navigate government services",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/malaysia-s-anwar-to-debut-an-ai-double-that-sounds-just-like-him?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzY2NjQwMSwiZXhwIjoxNzg0MjcxMjAxLCJhcnRpY2xlSWQiOiJUSFg2MEVLSVAzSjgwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.gnU3rG68X5p_s0oHqL4pKhl9Ou3QVuI7WUNIXblvyfk",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "An RIAA-led coalition representing labels and artists proposes two tags for AI content: one for entirely AI-generated songs and another for “AI-assisted” tracks",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/record-companies-push-to-label-ai-songs-on-streaming-platforms-103aa392",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Taiwan's leading DRAM maker Nanya Technology expects its capex to exceed ~$6.2B in 2027, up ~4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwanese-chipmaker-nanya-plans-6-billion-spending-2027-riding-ai-boom-2026-07-10/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Interviews with employees and insiders reveal how CXMT is amassing tech, funding, and state support to challenge top memory chipmakers and build local suppliers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/features/2026-07-09/china-s-cxmt-chipmaker-eyes-ipo-to-challenge-samsung-sk-hynix-micron",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Analysis: Alphabet, Amazon, Meta, Microsoft, and Oracle, the top spenders on new US data centers, collectively added ~$350B in debt over the past five years",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a more than 5x return for Carlyle",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873?accessToken=zwAAAZ9NbsSFkdOmbB2QaCtICtOPw_t7fi8Ycw.MEQCIELZwNEHTLAcUdsQ0bxle6pqg4kY0d19whsM_zBjvF1CAiBz9pjS1vWWFeKvAO0L8eH6Ht7rS23Q45W2lfgmRYKdlw&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=438d512e-08e7-4635-8d5b-fc3577a4d98a",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "A US court sentences a former ransomware negotiator to 70 months in prison for colluding with BlackCat to extort $75.3M from five of his employer's clients",
+      "excerpt": "",
+      "url": "https://cyberscoop.com/digitalmint-ransomware-negotiator-angelo-martino-sentenced/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Filing: college social app Fizz accuses Maveron's Jerry Lu of giving confidential info to rival Sidechat after he met with Fizz as a potential investor in 2022",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/09/web-data-scraping-infrastructure-startup-oxylabs-reels-130m-first-ever-funding-round/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Munich-based QuantumDiamonds, which uses quantum sensors to detect chip defects, raised €91M, including €76M under the European Chips Act",
+      "excerpt": "",
+      "url": "https://thenextweb.com/news/quantumdiamonds-91m-eu-chips-act-inspection",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials",
+      "excerpt": "",
+      "url": "https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or “cookie stuffing” to claim affiliate commissions",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/gates-heir-s-shopping-app-took-credit-for-sales-it-didn-t-drive?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzY2MjI2OSwiZXhwIjoxNzg0MjY3MDY5LCJhcnRpY2xlSWQiOiJUSFhBSVBSMjRVOEMwMCIsImJjb25uZWN0SWQiOiIzMkI3NjREMjRGNDQ0OTEyQjE0Mzc1OTA4ODY4N0FFNiJ9.kKi5LhNr3z3HHirWd4XkVWwtkiY3e5a9j7-X1YROTjk&leadSource=uverify%20wall",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "How television, the internet, smartphones, social media, and now generative AI are accelerating a decline in people reading longer works like books",
+      "excerpt": "",
+      "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/?gift=uP40aMSD1nXws5OJJf7PNon2RgfL5TMR77HEOKk96eg&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Polymarket is seeking CFTC and NFA approval to offer margin trading in the US, which would let users bet on events with less capital upfront and attract traders",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us",
+      "section": "more news"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
+      "section": "more news"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give them 25 degrees of freedom of movement; human hands usually have 27",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "OpenAI Retired Atlas (2 minute read)",
+      "excerpt": "OpenAI shut down its Atlas browser and shifted its agentic browsing features into ChatGPT's desktop app and a Chrome extension. The decision followed a broader effort to reduce side projects while continuing to develop AI-assisted web browsing.",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Muse Spark 1.1 (8 minute read)",
+      "excerpt": "Meta introduced Muse Spark 1.1 with improved tool use, coding, computer interaction, and multimodal reasoning. The company also opened a public preview of its Meta Model API for developers.",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition (19 minute read)",
+      "excerpt": "OpenAI launched GPT-5.6, featuring models Sol, Terra, and Luna, with Sol leading in intelligence and efficiency for coding, cybersecurity, and science. The models excel with fewer tokens at lower costs, with Sol notably outperforming competitors like Claude Fable 5. Enhanced capabilities include multi-agent parallel processing and improved design judgment, advancing cybersecurity and scientific research while maintaining strong safety measures.",
+      "url": "https://openai.com/index/gpt-5-6/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "GPT-5.6 Series (2 minute read)",
+      "excerpt": "GPT-5.6 Sol is the standout model of the GPT-5.6 family. It is the first model to win an ARC-AGI-3 public game. The model is able to read an unfamiliar scene correctly and in the game's own vocabulary. It won the game on ARC-AGI because it correctly oriented itself in a new environment first.",
+      "url": "https://arcprize.org/results/openai-gpt-5-6?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "GPT-5.6 Review (1 minute read)",
+      "excerpt": "The review highlights GPT-5.6's significant advancements in language understanding and generation, outperforming its predecessors. It demonstrates improved contextual accuracy and adaptability across various applications. These enhancements could substantially impact AI-driven industries.",
+      "url": "https://signals.forwardfuture.com/gpt-5-6-review/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Evolving Windows vulnerability management to meet the speed of AI-powered discovery (9 minute read)",
+      "excerpt": "Windows leverages AI to enhance vulnerability discovery, reduce fix times, and offer timely security updates. It uses the MDASH scanning system and dedicated cloud infrastructure to streamline identifying and fixing issues. By integrating AI into the security update process and collaborating internally and externally, Windows aims to maintain protection speed without compromising update quality.",
+      "url": "https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "Z.ai's Stable Asynchronous RL (13 minute read)",
+      "excerpt": "Single-rollout Asynchronous Optimization replaces GRPO-style grouped sampling with one rollout per prompt, supported by value-model training and strict token-level clipping.",
+      "url": "https://arxiv.org/abs/2607.07508?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Prisma (GitHub Repo)",
+      "excerpt": "Offers tools like Prisma Client for type-safe database queries in Node.js and TypeScript, Prisma Migrate for data modeling, and Prisma Studio for GUI database editing.",
+      "url": "https://github.com/prisma/prisma?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Flexible Video Diffusion (3 minute read)",
+      "excerpt": "Flex-Forcing trains video diffusion models to switch between bidirectional and autoregressive generation through flexible temporal and denoising-step chunking. The approach improves inference speed, video quality, and long-range stability across different compute budgets.",
+      "url": "https://research.nvidia.com/labs/genair/flex-forcing/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "ChatGPT Work (2 minute read)",
+      "excerpt": "ChatGPT Work is a GPT-5.6-powered workspace that gathers context from team tools and acts across files and desktop applications. It was designed to turn fragmented project materials into finished documents, spreadsheets, and presentations.",
+      "url": "https://openai.com/chatgpt-work/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "OpenAI's No. 2 Executive to Step Down in Latest Leadership Shake-Up (4 minute read)",
+      "excerpt": "OpenAI's Fidji Simo plans to step down from her role as a full-time executive after an extended medical leave. She will become a part-time adviser to the company. Her neuroimmune condition has worsened, and her road to recovery will take much longer than anticipated. Simo's product and business responsibilities will be divided among President Greg Brockman, CFO Sarah Friar, and Chief Strategy Officer Jason Kwon.",
+      "url": "https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=hyj4BU&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs (7 minute read)",
+      "excerpt": "News organizations suing OpenAI have accused the AI firm of repeatedly lying for years to conceal evidence of infringement that could hobble its defense. OpenAI privacy engineer Vincent Monaco has revealed that OpenAI misled the court for two years about the cost and burdens of searching ChatGPT logs. OpenAI has pretended from the earliest stages of the case that it did not have the technical ability to search large anonymized samples of ChatGPT logs when it had actually already conducted such searches prior to the start of litigation. The discovery may lead to serious sanctions against OpenAI.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "Meta's new AI chips will begin production in September (4 minute read)",
+      "excerpt": "Netta and Broadcom are working on the chip design, with TSMC set to manufacture it.",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Mercor is in talks for a $20B valuation (1 minute read)",
+      "excerpt": "AI training startup Mercor seeks to raise a round at a $20 billion valuation, doubling from its last $10 billion valuation in October.",
+      "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic (5 minute read)",
+      "excerpt": "Elon Musk insists that he's full of admiration for rival Anthropic.",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "Anthropic appoints former Fed Chair Ben Bernanke to its independent trust (3 minute read)",
+      "excerpt": "Anthropic appointed former Fed Chair Ben Bernanke to its Long-Term Benefit Trust to help navigate AI's economic impacts.",
+      "url": "https://www.cnbc.com/2026/07/09/anthropic-fed-chair-bernanke-independent-trust.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-17",
+      "source": "tldr",
+      "title": "Inviting hard questions (3 minute read)",
+      "excerpt": "Anthropic has invited public input on AI-related concerns, conducting surveys and focus groups to understand societal hopes and fears.",
+      "url": "https://www.anthropic.com/news/hard-questions?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}
