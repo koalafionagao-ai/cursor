@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-12",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 6,
+    "by_category": {
+      "cat:other": 4,
+      "cat:business": 1,
+      "cat:model": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&leadSource=uverify%20wall",
+      "title": {
+        "zh": "苹果起诉OpenAI：硬件主管与前上司关系紧张",
+        "en": "Apple's OpenAI lawsuit follows months of simmering tensions and highlights OpenAI's hardware chief Tang Tan's strained relationship with former boss John Ternus"
+      },
+      "summary": {
+        "zh": "苹果对OpenAI提起诉讼，揭示了硬件主管唐坦与前上司John Ternus之间的紧张关系。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "apple",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-06",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+      "title": {
+        "zh": "欧盟计划年底前提议新数字规则保护消费者",
+        "en": "EU Justice Commissioner Michael McGrath says the EC is set to propose new digital rules by year-end aimed at protecting consumers from online spending traps"
+      },
+      "summary": {
+        "zh": "欧盟司法专员Michael McGrath表示，欧盟委员会将提出新数字规则，旨在保护消费者免受在线消费陷阱的影响。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+      "title": {
+        "zh": "SK海力士在美上市押注AI热潮打破存储芯片周期",
+        "en": "SK Hynix's historic US stock market listing is a bet that the AI boom is breaking the memory chip industry's decades-long boom-and-bust cycle"
+      },
+      "summary": {
+        "zh": "SK海力士在美国股市的历史性上市，旨在利用AI热潮打破存储芯片行业长期的周期性波动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "title": {
+        "zh": "分析显示四分之一长文社交媒体帖子由AI生成",
+        "en": "An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41%"
+      },
+      "summary": {
+        "zh": "对超过100万条社交媒体帖子的分析显示，约25%的250字以上长文帖子完全由AI生成，其中LinkedIn的比例高达41%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/cursor-developing-ai-agent-compete-claude-cowork",
+      "title": {
+        "zh": "Cursor开发通用AI代理Sand，挑战Claude Cowork",
+        "en": "Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork"
+      },
+      "summary": {
+        "zh": "消息称Cursor正在开发代号为Sand的通用AI代理，面向非开发者用户，支持处理邮件、文本和文档。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "cursor",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+      "title": {
+        "zh": "博科圣地利用AI聊天机器人设计武器和策划攻击",
+        "en": "How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas"
+      },
+      "summary": {
+        "zh": "极端组织博科圣地成员正在利用AI聊天机器人设计爆炸物、修复或升级武器，并策划攻击方案。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

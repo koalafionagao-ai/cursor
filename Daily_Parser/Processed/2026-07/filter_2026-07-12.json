@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-12",
+  "threshold": 7.0,
+  "total": 19,
+  "kept": 6,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 6.0,
+      "keep": false,
+      "reason": "苹果计划推出新型号的芯片，涉及重大硬件升级，但信息较常规。"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Anthropic扩展Claude Fable 5的访问权限，信息量有限。"
+    },
+    {
+      "id": "TM-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "苹果与OpenAI的诉讼揭示了行业内部的紧张关系，值得关注。"
+    },
+    {
+      "id": "TM-04",
+      "score": 5.0,
+      "keep": false,
+      "reason": "反AI运动的分析提供了一定的信息量，但较为常规。"
+    },
+    {
+      "id": "TM-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "特朗普政府对Intel的干预细节，涉及行业动态，但信息较常规。"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "欧盟计划提出新数字规则，可能影响在线消费，值得关注。"
+    },
+    {
+      "id": "TM-07",
+      "score": 5.0,
+      "keep": false,
+      "reason": "谷歌对欧盟提议的反对意见，信息量有限。"
+    },
+    {
+      "id": "TM-08",
+      "score": 8.0,
+      "keep": true,
+      "reason": "SK Hynix在美股上市与AI产业的关系，具有行业洞察价值。"
+    },
+    {
+      "id": "TM-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI安全负责人离职，反映公司内部变动，但信息较常规。"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "社交媒体上AI生成内容的分析，提供了有趣的数据洞察。"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Cursor正在开发针对非开发者的AI代理，具有市场潜力。"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI编码工具对开源项目的影响，信息量一般。"
+    },
+    {
+      "id": "TM-13",
+      "score": 9.0,
+      "keep": true,
+      "reason": "极端组织利用AI技术的报道，涉及安全和伦理问题，极具重要性。"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "软件开发职位的变化与Claude Code的关系，信息较常规。"
+    },
+    {
+      "id": "TM-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "心理学家对青少年心理健康危机的看法，与AI关联不大。"
+    },
+    {
+      "id": "TM-16",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Vendelux的融资信息，较为常规。"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "FIFA世界杯期间的市场动态，信息量有限。"
+    },
+    {
+      "id": "TM-18",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Bending Spoons的招聘过程，信息较少且与AI关联不大。"
+    },
+    {
+      "id": "TM-19",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Elliott投资者对CCC的投资动态，具有一定的行业信息。"
+    }
+  ]
+}
