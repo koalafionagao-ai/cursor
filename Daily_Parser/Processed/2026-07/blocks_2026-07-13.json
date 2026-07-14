@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-13",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Nearly 200 economists, including 15 Nobel laureates and Anthropic's Jack Clark, sign a letter titled We Must Act Now, warning of rapid AI-led job displacement",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html?unlocked_article_code=1.xVA.8iwD.8XPZrSpF01m9&smid=bs-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Meta says it will spend an extra $40B on its nearly 4,000-acre data center campus in Louisiana, aiming for 5GW+ of compute, pushing its total spend beyond $250B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "The EU blacklists Russian intelligence group members it says were responsible for spying on and hacking targets across the EU and Ukraine from as early as 2010",
+      "excerpt": "",
+      "url": "https://www.politico.eu/article/eu-sanctions-russian-cyber-spies-for-years-long-hacking/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "European Commission President Ursula von der Leyen says after the summer the bloc is set to propose a “social media start date for minors” with “gradual access”",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/b3d94d79-e045-40bd-a1f3-4df0c365ce9a",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets",
+      "excerpt": "",
+      "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Global smartphone shipments fell 11% YoY in Q2 to the lowest Q2 levels since 2013 amid the DRAM and NAND shortage; Samsung returns to #1 with a 24% market share",
+      "excerpt": "",
+      "url": "https://counterpointresearch.com/en/insights/global-smartphone-shipments-q2-2026",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Source: OpenAI still believes it is on track to unveil its first device in 2026 and release it in 2027; Apple's lawsuit may complicate hiring and supply chains",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzk0NjE5MywiZXhwIjoxNzg0NTUwOTkzLCJhcnRpY2xlSWQiOiJUSTE2U1lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.fNQ1FpHOxKa7NVvdeMc03rbciA2oUUUr44IGDEY3ZTA",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Anthropic hires Tom Blomfield, a Monzo co-founder and one of the biggest names in UK tech, to join its compute team; he is taking a leave of absence from YC",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/anthropic-hires-monzo-cofounder-tom-blomfield-ai-compute-y-combinator-2026-7",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Open-weight AI models face an existential US policy test; Anthropic is leading a regulatory capture campaign against Chinese models over distillation concerns",
+      "excerpt": "",
+      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "China says President Xi will keynote the opening ceremony of the three-day World AI Conference in Shanghai on Friday, his first appearance at the event",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/xi-to-debut-at-china-s-flagship-ai-summit-as-us-rivalry-heats-up",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "A Denmark-based research team is using quantum computers to accelerate AI for predicting proteins, showing a near-term commercial application for quantum tech",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "How museums are using AI chatbots to reach new audiences, as some researchers worry AI-generated inaccuracies and bias may undermine museums as trusted sources",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/998152e8-90cd-4d95-ae43-e07b773ab943",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Eating disorder therapists say patients are increasingly using AI chatbots, undermining their advice; AI also appears to be directing more patients to helplines",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/chatbot-advice-eating-disorder-therapy-5fe601fd?st=wPJoX6&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "A Taiwanese minister says TSMC plans two more advanced chip packaging plants in the Chiayi Science Park, with all four set to generate $9.35B+ in annual output",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-add-2-advanced-chip-packaging-plants-chiayi-taiwan-minister-says-2026-07-13/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Intel plans to invest €5B to expand chip manufacturing at its Leixlip facility in Ireland; in 2025, Intel canceled a planned €30B factory in Magdeburg, Germany",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/8bcc19e1-2101-444c-bd2e-3a4b113becec",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "SK Hynix's stock falls 15%+ in Seoul, its largest-ever decline, after a strong Nasdaq debut, as investors book profits amid its US stock valuation uncertainty",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Samsung says it now aims to begin operations at its first chipmaking plant in South Korea's Yongin by 2029, bringing the timeline forward from 2030 or 2031",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/samsung-races-add-chip-capacity-moves-plant-2029",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Q&A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia's chips and AI models for autonomous driving, lidar's usefulness for Level 4 autonomy, and more",
+      "excerpt": "",
+      "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Doc: DHS analysts twice dismissed signs of intruders inside the DHS' network, first detected in May, as harmless activity before confirming a breach in June",
+      "excerpt": "",
+      "url": "https://www.nextgov.com/cybersecurity/2026/07/dhs-network-intrusion-was-twice-ruled-false-positive-breach-confirmed/414724/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "A look back at the 2007 heist at a Verizon data center in London, underlining the importance of physical data security as cyber defenses grow more sophisticated",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html?unlocked_article_code=1.xFA.8v8l.LjDkbr5cPB8I&smid=nytcore-ios-share",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Munich-based defense tech startup Helsing raised a $1.8B Series E from Dragoneer, Iconiq, and others at an $18B valuation; Germany made €493M in orders in 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Gauntlet, which helps institutions and crypto companies allocate their digital assets, raised a $125M Series C from Japanese financial conglomerate SBI Holdings",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/09/gauntlet-defi-vault-risk-curation-tarun-chitra-sbi-holdings-fundraise/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: Nous Research, the startup behind Hermes, an open-source agent and OpenClaw rival, is raising $75M+ at a $1.5B valuation led by Robot Ventures",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "London-based Valarian, which allows companies to use US cloud providers for AI workloads but retain control of their data, raised a $50M Series A led by NEA",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/13/ai-sovereignty-cloud-valarian-50-million-nea-palantir-europe-microsoft-aws-google-defense/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Seattle-based Augmodo, whose AI-powered “Smartbadges” worn by employees track shelf inventory, raised $21M led by TQ Ventures at a $350M valuation",
+      "excerpt": "",
+      "url": "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Apple's stock is up 16% since June 25, adding ~$650B in market value and pushing shares back to record territory, as investors flee an AI stock selloff to Apple",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Microsoft announces a Windows 11 search overhaul that prioritizes local results, removes promotional web content, and more, rolling out to Windows Insiders",
+      "excerpt": "",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-announces-major-windows-11-search-overhaul-that-prioritizes-clearer-local-results-and-removes-ads",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Sources: Shein is targeting a $40B+ valuation after winning Beijing's approval for a Hong Kong IPO, set for as early as Q3; Shein canceled its US IPO in 2024",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/retail/shein-targets-over-40-billion-valuation-after-china-nod-for-ipo-6f414bbb?st=8VLyuT&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Docs: Uber lobbied for a “phased transition” to AVs, giving it an edge over self-driving developers; Uber says AV industry proposals overlook drivers' rights",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "Investigation: Western intelligence officials identify a Russian military intelligence unit in Tokyo that smuggles high-tech components for the war in Ukraine",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html?unlocked_article_code=1.xFA.U-6B.vsMsdy1pYHUY&smid=nytcore-ios-share",
+      "section": "more news"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/5b20b409-3f5c-4856-9769-aa3a8d78c786?accessToken=zwAAAZ9VzHUGkc9bILQJP1xIVtOXaao6jXjHhg.MEUCIA5Aot9Jo_SkZqjHx8Y36uXmVx-iMjGSzvJvVMw-B2FtAiEAl-1wAQ9NIUeM23zcGY9ti6TFQcwPOzk2pAeXD218ob4&sharetype=gift&token=89f595f9-ac8f-495c-8da6-485496490b9e",
+      "section": "more news"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "A look at ADI Predictstreet's rocky launch, marked by tiny trading volumes, fund withdrawal bugs, and other issues, as it tries to take on Kalshi and Polymarket",
+      "excerpt": "",
+      "url": "https://www.wsj.com/sports/soccer/fifas-prediction-market-partner-gets-off-to-rocky-start-1de44ba8?st=26Q3RB",
+      "section": "more news"
+    }
+  ]
+}

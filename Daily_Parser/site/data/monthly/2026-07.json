@@ -79,9 +79,16 @@
       "sources": [
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "total": 8,
+      "sources": [
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 196,
+  "item_count": 204,
   "items": [
     {
       "id": "TM-01",
@@ -5451,6 +5458,224 @@
       ],
       "category_tag": "cat:other",
       "date": "2026-07-12"
+    },
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html?unlocked_article_code=1.xVA.8iwD.8XPZrSpF01m9&smid=bs-share",
+      "title": {
+        "zh": "近200名经济学家联名警告AI导致的快速就业替代",
+        "en": "Nearly 200 economists, including 15 Nobel laureates and Anthropic's Jack Clark, sign a letter titled We Must Act Now, warning of rapid AI-led job displacement"
+      },
+      "summary": {
+        "zh": "包括15位诺贝尔奖得主和Anthropic的Jack Clark在内的经济学家签署了一封题为《我们必须立即行动》的公开信，警告AI可能带来的快速就业替代。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag",
+      "title": {
+        "zh": "Meta计划在路易斯安那数据中心追加400亿美元投资",
+        "en": "Meta says it will spend an extra $40B on its nearly 4,000-acre data center campus in Louisiana, aiming for 5GW+ of compute, pushing its total spend beyond $250B"
+      },
+      "summary": {
+        "zh": "Meta宣布将在其路易斯安那州占地近4000英亩的数据中心园区追加400亿美元投资，总支出将超过2500亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+      "title": {
+        "zh": "苹果发布iOS 27等系统公测版，推出全新Siri AI",
+        "en": "Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "apple",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "apple",
+        "multimodal"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+      "title": {
+        "zh": "开源AI模型面临美国政策考验，Anthropic主导监管行动",
+        "en": "Open-weight AI models face an existential US policy test; Anthropic is leading a regulatory capture campaign against Chinese models over distillation concerns"
+      },
+      "summary": {
+        "zh": "开源AI模型因蒸馏技术问题面临政策挑战，Anthropic正主导一场针对中国模型的监管行动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "open-weights",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "open-weights",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "title": {
+        "zh": "丹麦团队利用量子计算加速蛋白质预测AI",
+        "en": "A Denmark-based research team is using quantum computers to accelerate AI for predicting proteins, showing a near-term commercial application for quantum tech"
+      },
+      "summary": {
+        "zh": "丹麦研究团队展示了量子计算在蛋白质预测AI中的商业应用潜力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "quantum"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+      "title": {
+        "zh": "Nvidia汽车负责人吴新洲谈自动驾驶芯片与AI模型",
+        "en": "Q&A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia's chips and AI models for autonomous driving, lidar's usefulness for Level 4 autonomy, and more"
+      },
+      "summary": {
+        "zh": "吴新洲讨论了Nvidia在自动驾驶领域的芯片与AI模型，以及激光雷达在L4自动驾驶中的作用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "nvidia",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
+      "title": {
+        "zh": "德国防务科技初创公司Helsing完成18亿美元E轮融资",
+        "en": "Munich-based defense tech startup Helsing raised a $1.8B Series E from Dragoneer, Iconiq, and others at an $18B valuation; Germany made €493M in orders in 2026"
+      },
+      "summary": {
+        "zh": "总部位于慕尼黑的Helsing以180亿美元估值完成18亿美元融资，德国2026年订单额达4.93亿欧元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/",
+      "title": {
+        "zh": "西雅图初创公司Augmodo完成2100万美元融资",
+        "en": "Seattle-based Augmodo, whose AI-powered “Smartbadges” worn by employees track shelf inventory, raised $21M led by TQ Ventures at a $350M valuation"
+      },
+      "summary": {
+        "zh": "Augmodo开发的AI驱动“智能徽章”可追踪库存，融资由TQ Ventures领投，估值达3.5亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "enterprise"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-13"
     }
   ],
   "tag_index": {
@@ -5470,7 +5695,8 @@
       "2026-07-10:TM-05",
       "2026-07-10:TM-12",
       "2026-07-10:TM-19",
-      "2026-07-10:TL-02"
+      "2026-07-10:TL-02",
+      "2026-07-13:TM-02"
     ],
     "google": [
       "2026-07-01:TM-01",
@@ -5518,7 +5744,8 @@
       "2026-07-06:TM-28",
       "2026-07-08:TM-07",
       "2026-07-08:TM-18",
-      "2026-07-09:TL-09"
+      "2026-07-09:TL-09",
+      "2026-07-13:TM-19"
     ],
     "policy": [
       "2026-07-01:TM-08",
@@ -5547,7 +5774,9 @@
       "2026-07-10:TM-33",
       "2026-07-10:TL-12",
       "2026-07-10:TL-16",
-      "2026-07-12:TM-06"
+      "2026-07-12:TM-06",
+      "2026-07-13:TM-01",
+      "2026-07-13:TM-10"
     ],
     "softbank": [
       "2026-07-01:TM-09",
@@ -5601,7 +5830,9 @@
       "2026-07-09:TM-31",
       "2026-07-09:TL-08",
       "2026-07-10:TM-18",
-      "2026-07-10:TM-24"
+      "2026-07-10:TM-24",
+      "2026-07-13:TM-22",
+      "2026-07-13:TM-26"
     ],
     "funding": [
       "2026-07-01:TM-18",
@@ -5636,7 +5867,9 @@
       "2026-07-09:TM-29",
       "2026-07-09:TM-31",
       "2026-07-10:TM-18",
-      "2026-07-10:TM-24"
+      "2026-07-10:TM-24",
+      "2026-07-13:TM-22",
+      "2026-07-13:TM-26"
     ],
     "openai": [
       "2026-07-01:TM-19",
@@ -5715,13 +5948,15 @@
       "2026-07-08:TL-04",
       "2026-07-09:TM-08",
       "2026-07-09:TL-09",
-      "2026-07-10:TM-19"
+      "2026-07-10:TM-19",
+      "2026-07-13:TM-02"
     ],
     "autonomous-driving": [
       "2026-07-01:TM-42",
       "2026-07-05:TM-17",
       "2026-07-05:TM-23",
-      "2026-07-09:TM-28"
+      "2026-07-09:TM-28",
+      "2026-07-13:TM-19"
     ],
     "anthropic": [
       "2026-07-01:TL-01",
@@ -5742,7 +5977,9 @@
       "2026-07-07:TL-02",
       "2026-07-08:TL-01",
       "2026-07-08:TL-02",
-      "2026-07-10:TL-16"
+      "2026-07-10:TL-16",
+      "2026-07-13:TM-01",
+      "2026-07-13:TM-10"
     ],
     "claude": [
       "2026-07-01:TL-01",
@@ -5865,7 +6102,8 @@
       "2026-07-03:TL-14",
       "2026-07-07:TL-03",
       "2026-07-08:TL-12",
-      "2026-07-09:TM-20"
+      "2026-07-09:TM-20",
+      "2026-07-13:TM-26"
     ],
     "gpu": [
       "2026-07-02:TM-09",
@@ -5946,7 +6184,8 @@
       "2026-07-09:TM-12",
       "2026-07-10:TM-01",
       "2026-07-10:TM-05",
-      "2026-07-12:TM-03"
+      "2026-07-12:TM-03",
+      "2026-07-13:TM-09"
     ],
     "tesla": [
       "2026-07-05:TM-23"
@@ -5960,7 +6199,8 @@
     "open-weights": [
       "2026-07-06:TM-14",
       "2026-07-07:TL-06",
-      "2026-07-09:TM-12"
+      "2026-07-09:TM-12",
+      "2026-07-13:TM-10"
     ],
     "mistral": [
       "2026-07-06:TL-12",
@@ -5979,7 +6219,8 @@
       "2026-07-12:TM-11"
     ],
     "quantum": [
-      "2026-07-08:TM-27"
+      "2026-07-08:TM-27",
+      "2026-07-13:TM-12"
     ],
     "deepseek": [
       "2026-07-08:TL-04"
@@ -5988,7 +6229,8 @@
       "2026-07-08:TL-09",
       "2026-07-09:TL-01",
       "2026-07-09:TL-04",
-      "2026-07-09:TL-11"
+      "2026-07-09:TL-11",
+      "2026-07-13:TM-09"
     ],
     "opus": [
       "2026-07-08:TL-19"
@@ -6080,7 +6322,10 @@
       "2026-07-09:TL-13",
       "2026-07-10:TM-24",
       "2026-07-10:TL-16",
-      "2026-07-12:TM-08"
+      "2026-07-12:TM-08",
+      "2026-07-13:TM-02",
+      "2026-07-13:TM-22",
+      "2026-07-13:TM-26"
     ],
     "cat:tech": [
       "2026-07-01:TM-04",
@@ -6115,7 +6360,8 @@
       "2026-07-10:TM-32",
       "2026-07-10:TL-02",
       "2026-07-10:TL-06",
-      "2026-07-10:TL-09"
+      "2026-07-10:TL-09",
+      "2026-07-13:TM-12"
     ],
     "cat:other": [
       "2026-07-01:TM-08",
@@ -6162,7 +6408,10 @@
       "2026-07-12:TM-03",
       "2026-07-12:TM-06",
       "2026-07-12:TM-10",
-      "2026-07-12:TM-13"
+      "2026-07-12:TM-13",
+      "2026-07-13:TM-01",
+      "2026-07-13:TM-10",
+      "2026-07-13:TM-19"
     ],
     "cat:app": [
       "2026-07-01:TM-36",
@@ -6182,7 +6431,8 @@
       "2026-07-09:TM-01",
       "2026-07-10:TM-14",
       "2026-07-10:TM-31",
-      "2026-07-10:TL-10"
+      "2026-07-10:TL-10",
+      "2026-07-13:TM-09"
     ],
     "cat:model": [
       "2026-07-01:TL-03",
@@ -6222,19 +6472,19 @@
   "tag_stats": [
     {
       "tag": "funding",
-      "count": 33
+      "count": 35
     },
     {
       "tag": "startup",
-      "count": 31
+      "count": 33
+    },
+    {
+      "tag": "policy",
+      "count": 29
     },
     {
       "tag": "agent",
       "count": 28
-    },
-    {
-      "tag": "policy",
-      "count": 27
     },
     {
       "tag": "openai",
@@ -6246,11 +6496,11 @@
     },
     {
       "tag": "anthropic",
-      "count": 19
+      "count": 21
     },
     {
       "tag": "meta",
-      "count": 16
+      "count": 17
     },
     {
       "tag": "gpt",
@@ -6273,6 +6523,10 @@
       "count": 10
     },
     {
+      "tag": "data-center",
+      "count": 10
+    },
+    {
       "tag": "coding",
       "count": 10
     },
@@ -6281,31 +6535,27 @@
       "count": 9
     },
     {
-      "tag": "data-center",
+      "tag": "microsoft",
       "count": 9
     },
     {
-      "tag": "microsoft",
-      "count": 9
+      "tag": "nvidia",
+      "count": 8
     },
     {
       "tag": "claude",
       "count": 8
     },
     {
-      "tag": "google",
-      "count": 7
-    },
-    {
-      "tag": "nvidia",
-      "count": 7
-    },
-    {
       "tag": "enterprise",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "apple",
+      "count": 8
+    },
+    {
+      "tag": "google",
       "count": 7
     },
     {
@@ -6317,15 +6567,19 @@
       "count": 6
     },
     {
+      "tag": "autonomous-driving",
+      "count": 5
+    },
+    {
       "tag": "amazon",
       "count": 5
     },
     {
-      "tag": "softbank",
-      "count": 4
+      "tag": "multimodal",
+      "count": 5
     },
     {
-      "tag": "autonomous-driving",
+      "tag": "softbank",
       "count": 4
     },
     {
@@ -6349,7 +6603,7 @@
       "count": 4
     },
     {
-      "tag": "multimodal",
+      "tag": "open-weights",
       "count": 4
     },
     {
@@ -6370,10 +6624,6 @@
     },
     {
       "tag": "alibaba",
-      "count": 3
-    },
-    {
-      "tag": "open-weights",
       "count": 3
     },
     {
@@ -6398,6 +6648,10 @@
     },
     {
       "tag": "cursor",
+      "count": 2
+    },
+    {
+      "tag": "quantum",
       "count": 2
     },
     {
@@ -6445,10 +6699,6 @@
       "count": 1
     },
     {
-      "tag": "quantum",
-      "count": 1
-    },
-    {
       "tag": "deepseek",
       "count": 1
     },
@@ -6472,17 +6722,17 @@
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 68,
+      "count": 71,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 45,
+      "count": 48,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 33,
+      "count": 34,
       "label_zh": "新技术"
     },
     {
@@ -6492,7 +6742,7 @@
     },
     {
       "tag": "cat:app",
-      "count": 18,
+      "count": 19,
       "label_zh": "新应用"
     }
   ]

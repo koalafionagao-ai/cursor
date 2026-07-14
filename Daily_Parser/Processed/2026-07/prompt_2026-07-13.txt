@@ -1,0 +1,141 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Nearly 200 economists, including 15 Nobel laureates and Anthropic's Jack Clark, sign a letter titled We Must Act Now, warning of rapid AI-led job displacement
+Tweets:
+  - Author: @erikbryn
+    Text: Here's our statement on AI and the economy... 1.  AI may become radically more powerful over the next 10 years.  2. This could drive an unprecedented transformation of our economy, larger than the Industrial Revolution, but unfolding over a vastly shorter time frame.  It could bring risks, including large-scale job displacement, as well as opportunities such as major gains in living standards.  3. Economists, policymakers and technology leaders must act now to understand the economics of transformative AI and to build the incentives, guardrails, and institutions needed to steer AI in a direction that complements humans and benefits society.
+    Link ID: TM-01-TW-01
+  - Author: @dacemoglumit
+    Text: ...Finally and most importantly, I wholeheartedly agree with the ending: “to build the incentives, guardrails, and institutions needed to steer AI in a direction that complements humans and benefits society.”  This is what I have been arguing for over a decade now.  Good AI needs to complement humans, and this requires a redirection, because the current focus on AGI is, in all but name, an agenda for displacing humans from meaningful work.  That's why steering AI must be a first priority.
+    Link ID: TM-01-TW-02
+  - Author: @anecdotal
+    Text: I get the intention but the last thing young people need is pronouncements about awareness and the need to take things seriously. They need roadmaps and specifics and for instances. They assume AI will transform everything and assumed that grownups were already in the room.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Meta says it will spend an extra $40B on its nearly 4,000-acre data center campus in Louisiana, aiming for 5GW+ of compute, pushing its total spend beyond $250B
+Tweets:
+  - Author: @lagovjefflandry
+    Text: We are writing the greatest chapter in Louisiana's history. Today, @Meta announced they are expanding its Richland Parish investment to more than $50 billion. This means more jobs, better infrastructure, stronger communities, and a more prosperous Louisiana! Louisiana is home [image]
+    Link ID: TM-02-TW-01
+  - Author: @ckcapitalxx
+    Text: Everyone's worry is on AI capex slowdown.  This shows it's nowhere near done.  $META just expanded its Louisiana data center to 5GW, taking the announced investment from $10B to over $50B.  Same day, Morgan Stanley puts hyperscaler capex at $1.2 trillion in 2027 and $1.4 trillion in 2028.  A month ago the market panicked that Meta had too much compute.  Now they're 5x-ing a single campus.  Capex isn't slowing down.
+    Link ID: TM-02-TW-02
+  - Author: @firstadopter
+    Text: Morgan Stanley: “We are raising '27/'28 total hyperscaler capex (ex-SPCX, included for first time) by 9%/10%, now modeling ~$1.2tr/$1.4tr of '27/'28 capex” [image]
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: The EU blacklists Russian intelligence group members it says were responsible for spying on and hacking targets across the EU and Ukraine from as early as 2010
+Tweets:
+  - Author: @kajakallas
+    Text: We're sanctioning Russia at speed and scale.  Today's measures, together with the upcoming 21st sanctions package, will add 250 individuals and entities to the Russia sanctions regime.  This is our biggest round of individual designations since Moscow's 2022 full-scale invasion, and includes also the EU's largest-ever cyber sanctions package.  The financial backbone of Russia's war machine is the main target.  Every measure weakens Moscow's ability to wage war.
+    Link ID: TM-03-TW-01
+---
+ID: TM-04
+Title: European Commission President Ursula von der Leyen says after the summer the bloc is set to propose a “social media start date for minors” with “gradual access”
+---
+ID: TM-05
+Title: A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets
+---
+ID: TM-06
+Title: Global smartphone shipments fell 11% YoY in Q2 to the lowest Q2 levels since 2013 amid the DRAM and NAND shortage; Samsung returns to #1 with a 24% market share
+---
+ID: TM-07
+Title: Source: OpenAI still believes it is on track to unveil its first device in 2026 and release it in 2027; Apple's lawsuit may complicate hiring and supply chains
+---
+ID: TM-08
+Title: Anthropic hires Tom Blomfield, a Monzo co-founder and one of the biggest names in UK tech, to join its compute team; he is taking a leave of absence from YC
+---
+ID: TM-09
+Title: Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: Open-weight AI models face an existential US policy test; Anthropic is leading a regulatory capture campaign against Chinese models over distillation concerns
+Sub Items:
+  - Title: Sources: US officials estimate unauthorized distillation costs US AI labs up to $6B/year; US AI labs told the White House it could become an existential threat
+    Link ID: TM-10-SUB-01
+  - Title: Sources: Trump admin and industry groups have discussed streamlining releases of US open models of equal or lesser capability than leading Chinese open models
+    Link ID: TM-10-SUB-02
+---
+ID: TM-11
+Title: China says President Xi will keynote the opening ceremony of the three-day World AI Conference in Shanghai on Friday, his first appearance at the event
+---
+ID: TM-12
+Title: A Denmark-based research team is using quantum computers to accelerate AI for predicting proteins, showing a near-term commercial application for quantum tech
+---
+ID: TM-13
+Title: How museums are using AI chatbots to reach new audiences, as some researchers worry AI-generated inaccuracies and bias may undermine museums as trusted sources
+---
+ID: TM-14
+Title: Eating disorder therapists say patients are increasingly using AI chatbots, undermining their advice; AI also appears to be directing more patients to helplines
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-15
+Title: A Taiwanese minister says TSMC plans two more advanced chip packaging plants in the Chiayi Science Park, with all four set to generate $9.35B+ in annual output
+---
+ID: TM-16
+Title: Intel plans to invest €5B to expand chip manufacturing at its Leixlip facility in Ireland; in 2025, Intel canceled a planned €30B factory in Magdeburg, Germany
+---
+ID: TM-17
+Title: SK Hynix's stock falls 15%+ in Seoul, its largest-ever decline, after a strong Nasdaq debut, as investors book profits amid its US stock valuation uncertainty
+---
+ID: TM-18
+Title: Samsung says it now aims to begin operations at its first chipmaking plant in South Korea's Yongin by 2029, bringing the timeline forward from 2030 or 2031
+---
+ID: TM-19
+Title: Q&A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia's chips and AI models for autonomous driving, lidar's usefulness for Level 4 autonomy, and more
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-20
+Title: Doc: DHS analysts twice dismissed signs of intruders inside the DHS' network, first detected in May, as harmless activity before confirming a breach in June
+---
+ID: TM-21
+Title: A look back at the 2007 heist at a Verizon data center in London, underlining the importance of physical data security as cyber defenses grow more sophisticated
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-22
+Title: Munich-based defense tech startup Helsing raised a $1.8B Series E from Dragoneer, Iconiq, and others at an $18B valuation; Germany made €493M in orders in 2026
+---
+ID: TM-23
+Title: Gauntlet, which helps institutions and crypto companies allocate their digital assets, raised a $125M Series C from Japanese financial conglomerate SBI Holdings
+---
+ID: TM-24
+Title: Sources: Nous Research, the startup behind Hermes, an open-source agent and OpenClaw rival, is raising $75M+ at a $1.5B valuation led by Robot Ventures
+---
+ID: TM-25
+Title: London-based Valarian, which allows companies to use US cloud providers for AI workloads but retain control of their data, raised a $50M Series A led by NEA
+---
+ID: TM-26
+Title: Seattle-based Augmodo, whose AI-powered “Smartbadges” worn by employees track shelf inventory, raised $21M led by TQ Ventures at a $350M valuation
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-27
+Title: Apple's stock is up 16% since June 25, adding ~$650B in market value and pushing shares back to record territory, as investors flee an AI stock selloff to Apple
+---
+ID: TM-28
+Title: Microsoft announces a Windows 11 search overhaul that prioritizes local results, removes promotional web content, and more, rolling out to Windows Insiders
+---
+ID: TM-29
+Title: Sources: Shein is targeting a $40B+ valuation after winning Beijing's approval for a Hong Kong IPO, set for as early as Q3; Shein canceled its US IPO in 2024
+---
+ID: TM-30
+Title: Docs: Uber lobbied for a “phased transition” to AVs, giving it an edge over self-driving developers; Uber says AV industry proposals overlook drivers' rights
+---
+ID: TM-31
+Title: Investigation: Western intelligence officials identify a Russian military intelligence unit in Tokyo that smuggles high-tech components for the war in Ukraine
+---
+ID: TM-32
+Title: A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months
+---
+ID: TM-33
+Title: A look at ADI Predictstreet's rocky launch, marked by tiny trading volumes, fund withdrawal bugs, and other issues, as it tries to take on Kalshi and Polymarket
+---

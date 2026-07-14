@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-13",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 8,
+    "by_category": {
+      "cat:other": 3,
+      "cat:business": 3,
+      "cat:app": 1,
+      "cat:tech": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html?unlocked_article_code=1.xVA.8iwD.8XPZrSpF01m9&smid=bs-share",
+      "title": {
+        "zh": "近200名经济学家联名警告AI导致的快速就业替代",
+        "en": "Nearly 200 economists, including 15 Nobel laureates and Anthropic's Jack Clark, sign a letter titled We Must Act Now, warning of rapid AI-led job displacement"
+      },
+      "summary": {
+        "zh": "包括15位诺贝尔奖得主和Anthropic的Jack Clark在内的经济学家签署了一封题为《我们必须立即行动》的公开信，警告AI可能带来的快速就业替代。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag",
+      "title": {
+        "zh": "Meta计划在路易斯安那数据中心追加400亿美元投资",
+        "en": "Meta says it will spend an extra $40B on its nearly 4,000-acre data center campus in Louisiana, aiming for 5GW+ of compute, pushing its total spend beyond $250B"
+      },
+      "summary": {
+        "zh": "Meta宣布将在其路易斯安那州占地近4000英亩的数据中心园区追加400亿美元投资，总支出将超过2500亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-09",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+      "title": {
+        "zh": "苹果发布iOS 27等系统公测版，推出全新Siri AI",
+        "en": "Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "apple",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+      "title": {
+        "zh": "开源AI模型面临美国政策考验，Anthropic主导监管行动",
+        "en": "Open-weight AI models face an existential US policy test; Anthropic is leading a regulatory capture campaign against Chinese models over distillation concerns"
+      },
+      "summary": {
+        "zh": "开源AI模型因蒸馏技术问题面临政策挑战，Anthropic正主导一场针对中国模型的监管行动。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "open-weights",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "title": {
+        "zh": "丹麦团队利用量子计算加速蛋白质预测AI",
+        "en": "A Denmark-based research team is using quantum computers to accelerate AI for predicting proteins, showing a near-term commercial application for quantum tech"
+      },
+      "summary": {
+        "zh": "丹麦研究团队展示了量子计算在蛋白质预测AI中的商业应用潜力。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+      "title": {
+        "zh": "Nvidia汽车负责人吴新洲谈自动驾驶芯片与AI模型",
+        "en": "Q&A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia's chips and AI models for autonomous driving, lidar's usefulness for Level 4 autonomy, and more"
+      },
+      "summary": {
+        "zh": "吴新洲讨论了Nvidia在自动驾驶领域的芯片与AI模型，以及激光雷达在L4自动驾驶中的作用。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "nvidia",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
+      "title": {
+        "zh": "德国防务科技初创公司Helsing完成18亿美元E轮融资",
+        "en": "Munich-based defense tech startup Helsing raised a $1.8B Series E from Dragoneer, Iconiq, and others at an $18B valuation; Germany made €493M in orders in 2026"
+      },
+      "summary": {
+        "zh": "总部位于慕尼黑的Helsing以180亿美元估值完成18亿美元融资，德国2026年订单额达4.93亿欧元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/",
+      "title": {
+        "zh": "西雅图初创公司Augmodo完成2100万美元融资",
+        "en": "Seattle-based Augmodo, whose AI-powered “Smartbadges” worn by employees track shelf inventory, raised $21M led by TQ Ventures at a $350M valuation"
+      },
+      "summary": {
+        "zh": "Augmodo开发的AI驱动“智能徽章”可追踪库存，融资由TQ Ventures领投，估值达3.5亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
