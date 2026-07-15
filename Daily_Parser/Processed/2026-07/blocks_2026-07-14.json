@@ -1,0 +1,405 @@
+{
+  "date": "2026-07-14",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Demis Hassabis proposes a US-based Standards Body for “Frontier-class” AI, modeled after FINRA; labs would share models for review up to 30 days before release",
+      "excerpt": "",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "New York Governor Kathy Hochul signs a moratorium blocking new environmental permits for data centers over 50MW for up to one year, the first state to do so",
+      "excerpt": "",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 25%",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as a humanlike AI companion",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "The European Commission proposes exempting wearable tech from rules requiring removable batteries, clearing a hurdle for Meta's smart glasses, after US pressure",
+      "excerpt": "",
+      "url": "https://www.politico.eu/article/eu-relaxes-rules-meta-glasses-us-pressure/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Google Images launches a Pinterest-like redesign with a browsable, dynamic gallery of images, and adds a way for users to create AI images in Search",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Anthropic research based on ~310K anonymized Claude conversations shows how Claude expresses different values and behaviors across model versions and languages",
+      "excerpt": "",
+      "url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Anthropic announces a new Claude for Teachers initiative, as part of which it will provide K-12 teachers in the US free access to premium Claude features",
+      "excerpt": "",
+      "url": "https://9to5mac.com/2026/07/14/anthropic-is-giving-teachers-free-access-to-premium-claude-features-details-here/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Nikita Bier says X made a “tweak to boost visibility of your posts to your mutuals”, or those who users follow back, to avoid replies becoming a “battleground”",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Researcher: SpaceXAI's Grok Build CLI uploaded user repos to a Google Cloud Storage bucket; uploads have now stopped and Musk says prior uploads will be deleted",
+      "excerpt": "",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Anthropic faces ridicule and criticism for an ad titled “There's hope in hard questions” that unsettled viewers with weird graveyard imagery and doomer-ist tone",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "eMarketer: chatbots like ChatGPT and Google AI Mode will make <$1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue in 2026 and $100B by 2030",
+      "excerpt": "",
+      "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Researchers detail “context bombing”, where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90%",
+      "excerpt": "",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "A look at AI world models, including how they work, what they can do, and what's still unsettled, as startups led by tech leaders like Yann LeCun raise billions",
+      "excerpt": "",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Sources: Nvidia has cut its Asian authorized AI chip clients by 50%+ and intensified due diligence in Singapore, Malaysia, and Japan to prevent China diversions",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
+      "section": "ai processors"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "AI startup Reflection says it has signed a $1B+ deal to secure computing capacity from Nebius, including access to Nvidia chips, following a deal with SpaceX",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/ai-startup-reflection-signs-over-1-billion-computing-deal-with-nebius-2026-07-14/",
+      "section": "ai processors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Chinese startup DFSX launches an AI chip that it claims uses a fully domestic supply chain and can rival 4nm chips depite being built on a 14nm process",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/chinese-ai-startup-dfsx-releases-chip-to-take-on-the-west-ffc71526?st=ormsSo&reflink=desktopwebshare_permalink",
+      "section": "ai processors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Analysis: xAI has installed far more gas turbines without US permits at Colossus 2 than it has publicly acknowledged, impacting Black neighborhoods the hardest",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/americas/pollution-musks-unpermitted-xai-power-project-hits-hardest-black-communities-2026-07-14/",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas when it becomes operational in 2029",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/e9db6384-b295-4ab2-96bf-55025db9ee1d",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "OpenAI says it is “not aware of any evidence” that Apple's lawsuit alleging trade-secret theft has merit, adding that it believes in fair competition",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/apple-wins-dismissal-lawsuit-over-child-sexual-abuse-material-icloud-2026-07-14/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Hachette, Elsevier, Cengage Learning, and author Scott Turow sue Google for allegedly using millions of copyrighted books and articles to build AI models",
+      "excerpt": "",
+      "url": "https://www.thewrap.com/industry-news/tech/hachette-scott-turow-google-gemini-ai-copyright-lawsuit/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "The Trump administration launches the “Gold Eagle” federal clearinghouse for sharing AI cyber threat information between the government and private sector",
+      "excerpt": "",
+      "url": "https://cyberscoop.com/trump-gold-eagle-ai-cyber-clearinghouse/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/uk-plans-default-midnight-social-media-curfew-16-17-year-olds-2026-07-14/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "OpenAI has struck a partnership with Kalshi to show FIFA World Cup prediction market data in ChatGPT search results, its first deal with a prediction market",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+      "section": "prediction markets"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Sources: data center operator Switch has hired investment banks for a US IPO that could raise up to $10B and value it at $80B, set for as soon as Q4",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/data-center-firm-switch-taps-banks-ipo-that-could-value-it-up-80-billion-sources-2026-07-14/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Filing: Chinese chipmaker CXMT is seeking to raise ~$9.8B in an IPO on Shanghai's chip-heavy STAR Board, pricing 6.69B shares at ~$1.28 each",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/cxmt-prices-shanghai-star-board-ipo-at-8-66-yuan-per-share",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Sources: DeepSeek has started planning for an IPO in China and may file as soon as this year, allowing it to debut in 2027",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "In the wake of China's “embodied AI” push, there's an urgency among China's 100+ humanoid startups to launch IPOs; LimX Dynamics raised $200M in a pre-IPO round",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Sources: DeepSeek is in preliminary talks with new investors about raising funds at a ~$71B valuation, after raising ~$7B at a ~$52B valuation at the end of May",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/6deb470e-d152-43a2-be0d-cc1fde4f3db8?accessToken=zwAAAZ9gG5B7kc9t60cO0VJDotO-Dcwf3k89uA.MEQCIEqvmQEfK2bYeFjFJp2Fu5-nn_A3p-kXc-48TpxTwEMoAiAfqTPxeg9IDY8a_igNysPaBxpy67NqlfX7FXRI5SIJ_Q&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=bfc519b9-f653-45ea-a813-8598547f09b5",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "AI drug design startup Chai Discovery raised $400M led by Index at a $3.8B valuation, as it pitches its models as AI infrastructure for pharmaceutical companies",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Seattle-based Brinc Drones, which makes 911 response drones, raised $125M led by Motorola Solutions, bringing its total funding to more than $280M",
+      "excerpt": "",
+      "url": "https://www.geekwire.com/2026/motorola-leads-125m-round-for-brinc-fueling-911-drone-expansion-amid-u-s-import-crackdown/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Flex, which offers AI-based payment tools, credit, and more to mid-sized companies, raised a $70M Series B1 led by Halo Fund, a source says at a $1.2B valuation",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/ai-finance-startup-flex-doubles-valuation-about-12-billion-source-says-2026-07-14/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product",
+      "excerpt": "",
+      "url": "https://www.washingtonpost.com/business/2026/07/14/this-tech-start-up-is-hiring-local-reporters-feeding-their-work-ai/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Custom AI chip design startup TYLsemi raised $43M in early-stage funding led by Matter Venture Partners to build modular chips thanks to packaging tech advances",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/14/custom-ai-chip-design-startup-tylsemi-launches-43m-early-stage-funding/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Velocity, a stablecoin treasury and settlement platform, raised a $38M Series A led by Dragonfly and FirstMark, bringing its total funding to around $50M",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/408242/dragonfly-firstmark-series-a-stablecoin-velocity-coinbase-ripple-capital-one-ventures",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Overtone, a “voice- and audio-forward” dating service founded by Hinge creator Justin McLeod that uses AI to make “highly curated introductions”, raised $18M",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding",
+      "excerpt": "",
+      "url": "https://www.upstartsmedia.com/p/deep-dive-adapter-launches-ai-cognition",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "China's smartphone shipments fell 4.3% YoY to 66M units in Q2, the fifth consecutive quarter of decline, amid a memory shortage; Huawei and Apple grew shipments",
+      "excerpt": "",
+      "url": "https://www.idc.com/resource-center/blog/china-smartphone-market-decline-q2-2026/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "Spotify launches Talk to Spotify, letting users create playlists and more via voice, rolling out in beta to Premium users age 18+ in the US, Ireland, and Sweden",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Sources and telecom data: a coordinated campaign of SS7 pings was used to track the locations of US personnel during the US-led strikes on Iran in late February",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/44351c74-03c8-45ab-823b-5805c0daca5f",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of €11.2B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/uber-is-said-to-be-in-advanced-talks-on-delivery-hero-takeover",
+      "section": "more news"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "Survey: 57% of US women and 47% of men ages 18 to 29 say they get health and wellness information from influencers; women say they see such content more often",
+      "excerpt": "",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/13/nearly-6-in-10-young-women-get-health-and-wellness-information-from-influencers/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-48",
+      "source": "techmeme",
+      "title": "Discount airline Frontier partners with SpaceX to offer Wi-Fi for the first time from early 2027, as it targets customers willing to pay more for premium travel",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/airlines/frontier-airlines-a-wi-fi-holdout-is-partnering-with-spacexs-starlink-0916676a?st=KpnAp6&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-49",
+      "source": "techmeme",
+      "title": "Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-50",
+      "source": "techmeme",
+      "title": "The European Commission approves €659M in German state aid to support four first-of-a-kind chip facilities in Germany, saying they will strengthen EU autonomy",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/eu-approves-659-million-german-aid-four-chip-plants-2026-07-14/",
+      "section": "more news"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Demis Hassabis proposes a US-based Standards Body for “Frontier-class” AI, modeled after FINRA; labs would share models for review up to 30 days before release
+Tweets:
+  - Author: @chamath
+    Text: As usual, Demis is quite well reasoned and his framework is very reasonable. Especially considering that the alternative seems to be the “Pull Up The Ladder Framework” from the other guys, I would suggest we adopt Demis' version.
+    Link ID: TM-01-TW-01
+  - Author: @humanharlan
+    Text: The timing of this is a little suspicious.  Six weeks ago, it would have been helpful to post a better-than-nothing plan for pre-deployment testing, because six weeks ago is when the White House was having an internal fight over that exact topic.  But posting it now, just five days after the release of AI 2040?  With no mention of AI 2040, or the stronger and much more detailed plans it contains?
+    Link ID: TM-01-TW-02
+  - Author: @satyanadella
+    Text: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: New York Governor Kathy Hochul signs a moratorium blocking new environmental permits for data centers over 50MW for up to one year, the first state to do so
+Tweets:
+  - Author: @govkathyhochul
+    Text: AI data centers are reshaping our future. No one gets to build that future by asking New Yorkers to sacrifice theirs. Today, I'm taking action. [video]
+    Link ID: TM-02-TW-01
+  - Author: @aoc
+    Text: Thank you for your leadership, @GovKathyHochul. A data center moratorium gives lawmakers time to put strong protections in place and guarantee AI benefits all of us, not just a powerful few.
+    Link ID: TM-02-TW-02
+  - Author: @taylorlorenz
+    Text: The way a lot of ppl on the left have framed these moratoriums is as a bargaining tool, (we are going to threaten bans, but only to get what we want). But then you have voters on board w a ban & you didn't get any of the tradeoffs u claim u wanted. So what have u really achieved?
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 25%
+Tweets:
+  - Author: @benbajarin
+    Text: MS note, per IBM. Generally I am highly uninterested in $IBM, however, this time, there is very interesting signals for infra-compute trends. [image]
+    Link ID: TM-03-TW-01
+  - Author: @kakashiii111
+    Text: “...we did not anticipate the magnitude of the capex reprioritization.” Remember this sentence. It's going to be used by some company CEOs in the near future.
+    Link ID: TM-03-TW-02
+  - Author: @saraeisen
+    Text: I spoke to IBM CEO Arvind Krishna about the warning today and here's what he told me: “A few large capex deals paused near the end of the quarter.  It's not widespread.  It's mainframe and the software associated with it....Mythos is making people pause to say, wait how much do I need to spend on cyber?  They're pausing on new deals until they know...We don't see our software being disrupted by ai at all.”
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Cybersecurity stocks rallied on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers; CrowdStrike jumped 12%, Okta rose 11%
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as a humanlike AI companion
+---
+ID: TM-05
+Title: The European Commission proposes exempting wearable tech from rules requiring removable batteries, clearing a hurdle for Meta's smart glasses, after US pressure
+---
+ID: TM-06
+Title: Google Images launches a Pinterest-like redesign with a browsable, dynamic gallery of images, and adds a way for users to create AI images in Search
+---
+ID: TM-07
+Title: Anthropic research based on ~310K anonymized Claude conversations shows how Claude expresses different values and behaviors across model versions and languages
+---
+ID: TM-08
+Title: Anthropic announces a new Claude for Teachers initiative, as part of which it will provide K-12 teachers in the US free access to premium Claude features
+---
+ID: TM-09
+Title: Nikita Bier says X made a “tweak to boost visibility of your posts to your mutuals”, or those who users follow back, to avoid replies becoming a “battleground”
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: Researcher: SpaceXAI's Grok Build CLI uploaded user repos to a Google Cloud Storage bucket; uploads have now stopped and Musk says prior uploads will be deleted
+---
+ID: TM-11
+Title: Anthropic faces ridicule and criticism for an ad titled “There's hope in hard questions” that unsettled viewers with weird graveyard imagery and doomer-ist tone
+---
+ID: TM-12
+Title: PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech
+---
+ID: TM-13
+Title: eMarketer: chatbots like ChatGPT and Google AI Mode will make <$1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue in 2026 and $100B by 2030
+---
+ID: TM-14
+Title: Researchers detail “context bombing”, where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90%
+---
+ID: TM-15
+Title: A look at AI world models, including how they work, what they can do, and what's still unsettled, as startups led by tech leaders like Yann LeCun raise billions
+---
+
+[CATEGORY: AI PROCESSORS]
+ID: TM-16
+Title: Sources: Nvidia has cut its Asian authorized AI chip clients by 50%+ and intensified due diligence in Singapore, Malaysia, and Japan to prevent China diversions
+Sub Items:
+  - Title: A Trump administration official says a “trivial” number of Nvidia's H200 chips were shipped to China after winning a US license, without offering specifics
+    Link ID: TM-16-SUB-01
+---
+ID: TM-17
+Title: AI startup Reflection says it has signed a $1B+ deal to secure computing capacity from Nebius, including access to Nvidia chips, following a deal with SpaceX
+---
+ID: TM-18
+Title: Chinese startup DFSX launches an AI chip that it claims uses a fully domestic supply chain and can rival 4nm chips depite being built on a 14nm process
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-19
+Title: Analysis: xAI has installed far more gas turbines without US permits at Colossus 2 than it has publicly acknowledged, impacting Black neighborhoods the hardest
+---
+ID: TM-20
+Title: Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas when it becomes operational in 2029
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-21
+Title: OpenAI says it is “not aware of any evidence” that Apple's lawsuit alleging trade-secret theft has merit, adding that it believes in fair competition
+Sub Items:
+  - Title: OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach
+    Link ID: TM-21-SUB-01
+---
+ID: TM-22
+Title: A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company
+---
+ID: TM-23
+Title: Hachette, Elsevier, Cengage Learning, and author Scott Turow sue Google for allegedly using millions of copyrighted books and articles to build AI models
+---
+
+[CATEGORY: REGULATION]
+ID: TM-24
+Title: The Trump administration launches the “Gold Eagle” federal clearinghouse for sharing AI cyber threat information between the government and private sector
+---
+ID: TM-25
+Title: The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default
+---
+
+[CATEGORY: PREDICTION MARKETS]
+ID: TM-26
+Title: Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory
+---
+ID: TM-27
+Title: OpenAI has struck a partnership with Kalshi to show FIFA World Cup prediction market data in ChatGPT search results, its first deal with a prediction market
+---
+
+[CATEGORY: PUBLIC LISTINGS]
+ID: TM-28
+Title: Sources: data center operator Switch has hired investment banks for a US IPO that could raise up to $10B and value it at $80B, set for as soon as Q4
+---
+ID: TM-29
+Title: Filing: Chinese chipmaker CXMT is seeking to raise ~$9.8B in an IPO on Shanghai's chip-heavy STAR Board, pricing 6.69B shares at ~$1.28 each
+---
+ID: TM-30
+Title: Sources: DeepSeek has started planning for an IPO in China and may file as soon as this year, allowing it to debut in 2027
+---
+ID: TM-31
+Title: In the wake of China's “embodied AI” push, there's an urgency among China's 100+ humanoid startups to launch IPOs; LimX Dynamics raised $200M in a pre-IPO round
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-32
+Title: Sources: DeepSeek is in preliminary talks with new investors about raising funds at a ~$71B valuation, after raising ~$7B at a ~$52B valuation at the end of May
+---
+ID: TM-33
+Title: Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+
+---
+ID: TM-34
+Title: AI drug design startup Chai Discovery raised $400M led by Index at a $3.8B valuation, as it pitches its models as AI infrastructure for pharmaceutical companies
+---
+ID: TM-35
+Title: Seattle-based Brinc Drones, which makes 911 response drones, raised $125M led by Motorola Solutions, bringing its total funding to more than $280M
+---
+ID: TM-36
+Title: TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M
+---
+ID: TM-37
+Title: Flex, which offers AI-based payment tools, credit, and more to mid-sized companies, raised a $70M Series B1 led by Halo Fund, a source says at a $1.2B valuation
+---
+ID: TM-38
+Title: A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product
+---
+ID: TM-39
+Title: Custom AI chip design startup TYLsemi raised $43M in early-stage funding led by Matter Venture Partners to build modular chips thanks to packaging tech advances
+---
+ID: TM-40
+Title: Velocity, a stablecoin treasury and settlement platform, raised a $38M Series A led by Dragonfly and FirstMark, bringing its total funding to around $50M
+---
+ID: TM-41
+Title: Overtone, a “voice- and audio-forward” dating service founded by Hinge creator Justin McLeod that uses AI to make “highly curated introductions”, raised $18M
+---
+ID: TM-42
+Title: Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-43
+Title: China's smartphone shipments fell 4.3% YoY to 66M units in Q2, the fifth consecutive quarter of decline, amid a memory shortage; Huawei and Apple grew shipments
+---
+ID: TM-44
+Title: Spotify launches Talk to Spotify, letting users create playlists and more via voice, rolling out in beta to Premium users age 18+ in the US, Ireland, and Sweden
+---
+ID: TM-45
+Title: Sources and telecom data: a coordinated campaign of SS7 pings was used to track the locations of US personnel during the US-led strikes on Iran in late February
+---
+ID: TM-46
+Title: Sources: Uber is in advanced talks to acquire Delivery Hero in a deal valuing the German food-delivery company well above its recent market value of €11.2B
+---
+ID: TM-47
+Title: Survey: 57% of US women and 47% of men ages 18 to 29 say they get health and wellness information from influencers; women say they see such content more often
+---
+ID: TM-48
+Title: Discount airline Frontier partners with SpaceX to offer Wi-Fi for the first time from early 2027, as it targets customers willing to pay more for premium travel
+---
+ID: TM-49
+Title: Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits
+---
+ID: TM-50
+Title: The European Commission approves €659M in German state aid to support four first-of-a-kind chip facilities in Germany, saying they will strengthen EU autonomy
+---

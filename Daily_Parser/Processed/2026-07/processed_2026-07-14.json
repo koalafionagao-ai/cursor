@@ -1,0 +1,423 @@
+{
+  "date": "2026-07-14",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 19,
+    "by_category": {
+      "cat:other": 5,
+      "cat:app": 3,
+      "cat:model": 1,
+      "cat:tech": 2,
+      "cat:business": 8
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "title": {
+        "zh": "Demis Hassabis提议在美国设立“前沿级”AI标准机构",
+        "en": "Demis Hassabis proposes a US-based Standards Body for “Frontier-class” AI, modeled after FINRA; labs would share models for review up to 30 days before release"
+      },
+      "summary": {
+        "zh": "该机构将以FINRA为模型，要求实验室在发布前最多30天共享模型以供审查。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "demis-hassabis",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-04",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI",
+      "title": {
+        "zh": "消息称OpenAI首款设备将是一款无屏幕智能音箱",
+        "en": "Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as a humanlike AI companion"
+      },
+      "summary": {
+        "zh": "该设备配备摄像头和传感器，旨在作为类人AI伴侣。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-06",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "title": {
+        "zh": "Google图片推出类似Pinterest的全新设计",
+        "en": "Google Images launches a Pinterest-like redesign with a browsable, dynamic gallery of images, and adds a way for users to create AI images in Search"
+      },
+      "summary": {
+        "zh": "新设计包括可浏览的动态图片库，并新增用户在搜索中创建AI图片的功能。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "image-gen",
+        "search"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-08",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://9to5mac.com/2026/07/14/anthropic-is-giving-teachers-free-access-to-premium-claude-features-details-here/",
+      "title": {
+        "zh": "Anthropic推出Claude for Teachers计划",
+        "en": "Anthropic announces a new Claude for Teachers initiative, as part of which it will provide K-12 teachers in the US free access to premium Claude features"
+      },
+      "summary": {
+        "zh": "该计划为美国K-12教师免费提供Claude高级功能的访问权限。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "title": {
+        "zh": "PrismML发布Bonsai 27B模型，支持苹果设备原生运行",
+        "en": "PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech"
+      },
+      "summary": {
+        "zh": "该模型基于Qwen3.6 27B，PrismML CEO称苹果正在评估该技术。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "qwen",
+        "apple"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "title": {
+        "zh": "研究人员详解“上下文轰炸”技术",
+        "en": "Researchers detail “context bombing”, where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90%"
+      },
+      "summary": {
+        "zh": "通过提示注入触发攻击者LLM的防护机制，可将AI攻击成功率降低约90%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "safety",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "title": {
+        "zh": "深入探讨AI世界模型：工作原理、能力与未解问题",
+        "en": "A look at AI world models, including how they work, what they can do, and what's still unsettled, as startups led by tech leaders like Yann LeCun raise billions"
+      },
+      "summary": {
+        "zh": "包括由Yann LeCun等技术领袖领导的初创公司如何筹集数十亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "yann-lecun",
+        "startup",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-16",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
+      "title": {
+        "zh": "消息称Nvidia削减亚洲AI芯片授权客户50%以上",
+        "en": "Sources: Nvidia has cut its Asian authorized AI chip clients by 50%+ and intensified due diligence in Singapore, Malaysia, and Japan to prevent China diversions"
+      },
+      "summary": {
+        "zh": "并加强在新加坡、马来西亚和日本的尽职调查，以防止芯片流向中国。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "chip",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/ai-startup-reflection-signs-over-1-billion-computing-deal-with-nebius-2026-07-14/",
+      "title": {
+        "zh": "AI初创公司Reflection签署超10亿美元计算能力协议",
+        "en": "AI startup Reflection says it has signed a $1B+ deal to secure computing capacity from Nebius, including access to Nvidia chips, following a deal with SpaceX"
+      },
+      "summary": {
+        "zh": "协议包括获得Nvidia芯片的使用权，此前该公司已与SpaceX达成合作。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "nvidia"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/chinese-ai-startup-dfsx-releases-chip-to-take-on-the-west-ffc71526?st=ormsSo&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "中国初创公司DFSX推出完全国产AI芯片",
+        "en": "Chinese startup DFSX launches an AI chip that it claims uses a fully domestic supply chain and can rival 4nm chips depite being built on a 14nm process"
+      },
+      "summary": {
+        "zh": "该芯片基于14nm工艺制造，但声称可媲美4nm芯片性能。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "startup",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-23",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.thewrap.com/industry-news/tech/hachette-scott-turow-google-gemini-ai-copyright-lawsuit/",
+      "title": {
+        "zh": "Hachette等出版社起诉谷歌涉嫌使用受版权保护的书籍和文章训练AI模型",
+        "en": "Hachette, Elsevier, Cengage Learning, and author Scott Turow sue Google for allegedly using millions of copyrighted books and articles to build AI models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-24",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://cyberscoop.com/trump-gold-eagle-ai-cyber-clearinghouse/",
+      "title": {
+        "zh": "特朗普政府推出“金鹰”AI网络威胁信息共享平台",
+        "en": "The Trump administration launches the “Gold Eagle” federal clearinghouse for sharing AI cyber threat information between the government and private sector"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+      "title": {
+        "zh": "OpenAI与Kalshi合作在ChatGPT中显示世界杯预测市场数据",
+        "en": "OpenAI has struck a partnership with Kalshi to show FIFA World Cup prediction market data in ChatGPT search results, its first deal with a prediction market"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "chatgpt",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-31",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+      "title": {
+        "zh": "中国“具身AI”浪潮推动百余家人形机器人初创公司筹备IPO",
+        "en": "In the wake of China's “embodied AI” push, there's an urgency among China's 100+ humanoid startups to launch IPOs; LimX Dynamics raised $200M in a pre-IPO round"
+      },
+      "summary": {
+        "zh": "LimX Dynamics在IPO前融资2亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "title": {
+        "zh": "阿里巴巴支持的新加坡视频生成初创公司PixVerse完成4.39亿美元C轮融资",
+        "en": "Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+"
+      },
+      "summary": {
+        "zh": "公司估值超过20亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "alibaba",
+        "video-gen",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-34",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html",
+      "title": {
+        "zh": "AI药物设计初创公司Chai Discovery完成4亿美元融资，估值38亿美元",
+        "en": "AI drug design startup Chai Discovery raised $400M led by Index at a $3.8B valuation, as it pitches its models as AI infrastructure for pharmaceutical companies"
+      },
+      "summary": {
+        "zh": "由Index领投，公司定位为制药行业的AI基础设施。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.washingtonpost.com/business/2026/07/14/this-tech-start-up-is-hiring-local-reporters-feeding-their-work-ai/",
+      "title": {
+        "zh": "State Affairs获Founders Fund支持，融资7000万美元打造AI驱动的新闻终端",
+        "en": "A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product"
+      },
+      "summary": {
+        "zh": "其AI基于76名员工的报道训练，目标类似彭博终端。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-42",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.upstartsmedia.com/p/deep-dive-adapter-launches-ai-cognition",
+      "title": {
+        "zh": "Adapter从隐身模式中亮相，融资1780万美元提供AI数据控制基础设施",
+        "en": "Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-50",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/eu-approves-659-million-german-aid-four-chip-plants-2026-07-14/",
+      "title": {
+        "zh": "欧盟批准德国6.59亿欧元国家援助支持四个芯片设施建设",
+        "en": "The European Commission approves €659M in German state aid to support four first-of-a-kind chip facilities in Germany, saying they will strengthen EU autonomy"
+      },
+      "summary": {
+        "zh": "此举旨在加强欧盟的自主权。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

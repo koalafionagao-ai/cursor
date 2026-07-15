@@ -1,0 +1,308 @@
+{
+  "date": "2026-07-14",
+  "threshold": 7.0,
+  "total": 50,
+  "kept": 19,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "提出建立美国前沿AI标准机构，具有重要行业影响力"
+    },
+    {
+      "id": "TM-02",
+      "score": 6.0,
+      "keep": false,
+      "reason": "纽约州对数据中心的环境许可实施禁令，影响行业发展"
+    },
+    {
+      "id": "TM-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "IBM财报低于预期，反映市场变化但信息量有限"
+    },
+    {
+      "id": "TM-04",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenAI推出新设备，可能改变人机交互方式"
+    },
+    {
+      "id": "TM-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "欧盟提议豁免可穿戴设备电池要求，影响Meta产品"
+    },
+    {
+      "id": "TM-06",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Google Images推出新设计和AI图像生成，提升用户体验"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Anthropic研究展示Claude模型的价值和行为差异，提供产品洞察"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Anthropic为教师提供Claude高级功能，支持教育领域应用"
+    },
+    {
+      "id": "TM-09",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是社交媒体功能调整"
+    },
+    {
+      "id": "TM-10",
+      "score": 5.0,
+      "keep": false,
+      "reason": "SpaceXAI的用户数据上传事件，涉及隐私问题但信息量有限"
+    },
+    {
+      "id": "TM-11",
+      "score": 4.0,
+      "keep": false,
+      "reason": "广告引发争议，信息价值较低"
+    },
+    {
+      "id": "TM-12",
+      "score": 8.0,
+      "keep": true,
+      "reason": "PrismML推出新模型，可能影响Apple设备的AI应用"
+    },
+    {
+      "id": "TM-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于聊天机器人广告收入的预测，提供市场趋势信息"
+    },
+    {
+      "id": "TM-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "研究展示防御性提示注入技术，提升AI安全性"
+    },
+    {
+      "id": "TM-15",
+      "score": 7.0,
+      "keep": true,
+      "reason": "分析AI世界模型的现状，提供行业洞察"
+    },
+    {
+      "id": "TM-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Nvidia加强对亚洲客户的审查，影响全球供应链"
+    },
+    {
+      "id": "TM-17",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AI初创公司签署重大计算能力协议，显示行业投资趋势"
+    },
+    {
+      "id": "TM-18",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国初创公司推出新AI芯片，可能影响市场竞争"
+    },
+    {
+      "id": "TM-19",
+      "score": 5.0,
+      "keep": false,
+      "reason": "分析xAI的环境影响，信息量有限"
+    },
+    {
+      "id": "TM-20",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Google与太阳能项目达成协议，涉及可再生能源投资"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "OpenAI回应苹果诉讼，信息量有限"
+    },
+    {
+      "id": "TM-22",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是法律案件信息"
+    },
+    {
+      "id": "TM-23",
+      "score": 8.0,
+      "keep": true,
+      "reason": "出版商起诉Google，涉及版权和AI模型构建的法律问题"
+    },
+    {
+      "id": "TM-24",
+      "score": 7.0,
+      "keep": true,
+      "reason": "特朗普政府启动AI网络威胁信息共享，具有政策影响"
+    },
+    {
+      "id": "TM-25",
+      "score": 5.0,
+      "keep": false,
+      "reason": "英国政府提议社交媒体限制，信息量有限"
+    },
+    {
+      "id": "TM-26",
+      "score": 6.0,
+      "keep": false,
+      "reason": "提供了关于AI计算成本的新工具信息，但缺乏重大行业影响"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.5,
+      "keep": true,
+      "reason": "OpenAI与Kalshi的合作将增强ChatGPT的功能，具有产品洞察价值"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Switch计划IPO的信息有一定价值，但属于常规融资消息"
+    },
+    {
+      "id": "TM-29",
+      "score": 6.0,
+      "keep": false,
+      "reason": "CXMT的IPO计划提供了市场动态，但信息较为常规"
+    },
+    {
+      "id": "TM-30",
+      "score": 5.0,
+      "keep": false,
+      "reason": "DeepSeek的IPO计划信息较少，缺乏行业影响力"
+    },
+    {
+      "id": "TM-31",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国 humanoid 初创企业的IPO热潮反映了行业趋势，值得关注"
+    },
+    {
+      "id": "TM-32",
+      "score": 6.0,
+      "keep": false,
+      "reason": "DeepSeek的融资消息有一定信息量，但缺乏重大行业影响"
+    },
+    {
+      "id": "TM-33",
+      "score": 7.0,
+      "keep": true,
+      "reason": "PixVerse的融资信息显示了视频生成领域的活跃度，值得关注"
+    },
+    {
+      "id": "TM-34",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Chai Discovery的融资和估值信息显示了AI在制药行业的应用潜力"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Brinc Drones的融资信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "TerraFirma的融资信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-37",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Flex的融资信息有一定价值，但属于常规融资消息"
+    },
+    {
+      "id": "TM-38",
+      "score": 7.0,
+      "keep": true,
+      "reason": "State Affairs的融资和AI应用展示了市场需求，值得关注"
+    },
+    {
+      "id": "TM-39",
+      "score": 6.0,
+      "keep": false,
+      "reason": "TYLsemi的融资信息有一定价值，但缺乏重大行业影响"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Velocity的融资信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Overtone的融资信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-42",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Adapter的融资和产品定位显示了AI基础设施的需求，值得关注"
+    },
+    {
+      "id": "TM-43",
+      "score": 5.0,
+      "keep": false,
+      "reason": "中国智能手机出货量下降的信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-44",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Spotify的新功能信息有一定价值，但缺乏重大行业影响"
+    },
+    {
+      "id": "TM-45",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，信息量不足，属于常规报道"
+    },
+    {
+      "id": "TM-46",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Uber的收购谈判信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-47",
+      "score": 4.0,
+      "keep": false,
+      "reason": "调查结果与AI关系较弱，信息量不足，属于常规报道"
+    },
+    {
+      "id": "TM-48",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Frontier与SpaceX的合作信息较为常规，缺乏行业影响力"
+    },
+    {
+      "id": "TM-49",
+      "score": 4.0,
+      "keep": false,
+      "reason": "社交网络访问数据与AI关系较弱，信息量不足，属于常规报道"
+    },
+    {
+      "id": "TM-50",
+      "score": 8.0,
+      "keep": true,
+      "reason": "欧盟对芯片设施的支持将影响行业格局，具有重要政策意义"
+    }
+  ]
+}
