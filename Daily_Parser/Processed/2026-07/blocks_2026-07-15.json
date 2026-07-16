@@ -1,0 +1,445 @@
+{
+  "date": "2026-07-15",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Sources: Stripe and PE firm Advent have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday's close, valuing it at $53B+; PYPL jumps 17.2%",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area",
+      "excerpt": "",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "China says Apple Intelligence has been registered for use on iPhones in the country; the service will integrate Alibaba's Qwen and may add Baidu's AI features",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/apple-intelligence-ai-service-registered-with-chinas-cyberspace-regulator-2026-07-15/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "ASML reports Q2 net sales of €9.3B, above €8.8B est., a €2.9B net profit, above €2.6B est., and raises its 2026 net sales forecast from €36B-€40B to €43B-€45B",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "IBM's stock closed down 25.21% on Tuesday, sinking more than its previous worst day of October 19, 1987, after reporting preliminary Q2 results below estimates",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "A group of 26 current and former employees sues Meta for allegedly using AI in layoffs in May to unfairly target workers with disabilities or on protected leave",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/meta-workers-accuse-it-of-using-ai-to-conduct-discriminatory-layoffs-bbb59963?st=J9dL9h&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "OpenAI launches Codex Micro, a $230 desktop keypad built in collaboration with keyboard maker Work Louder, with backlit keys, a rotary knob, and a tiny joystick",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/07/15/openai-keyboard-codex-agents",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "China enacts rules forbidding companionship chatbots from encouraging emotional reliance, banning virtual relationships with minors, and more",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/china-wants-more-babiesso-its-cracking-down-on-chatbot-love-affairs-65cd6c82?st=zuKTMx&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment",
+      "excerpt": "",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Anthropic, Blackstone, and Hellman & Friedman's $1.5B AI implementation company, announced in May, launches with the name “Ode with Anthropic” and 100 engineers",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users",
+      "excerpt": "",
+      "url": "https://www.forbes.com/sites/marcochiappetta/2026/07/15/cadence-expands-ai-agents-with-aurastack-for-pcb-and-advanced-chip-packaging/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Sources: DeepSeek's annualized revenue recently reached $400M to $500M as it seeks to raise ~$7.4B at a ~$74B valuation, up from ~$50B after raising ~$7B in May",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Nokia plans to sell its AI-driven RAN platform, developed with Nvidia, to mobile operators by 2027, aiming for a 100% increase in spectrum efficiency by 2028",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/nokia-to-sell-nvidia-powered-ai-mobile-network-gear-from-2027",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "section": "policy"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Uber and Waymo are engaged in a DC lobbying battle over AV legislation, with Uber supporting a hybrid human-robotaxi model and Waymo pushing for pure robotaxis",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-07-15/uber-and-waymo-are-sparring-the-robotaxi-future-has-arrived",
+      "section": "policy"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI's “reverse federalism” strategy for common state rules",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
+      "section": "policy"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Gavin Newsom is tempering his pro-tech instincts with economic populism ahead of a likely presidential bid, proposing giving Americans equity in AI companies",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/07/15/newsoms-populist-turn-on-tech-00997048",
+      "section": "policy"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Apple is looking to acquire chip companies to boost its AI server efforts, as it struggles with AI server chip upgrades and M2 Ultra server performance",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/apple-hunts-ai-chip-acquisitions",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "The UAE gained expanded US AI chip access after aiding the US in the Iran war, letting G42 buy freely for at least nine months; G42 plans to become a US company",
+      "excerpt": "",
+      "url": "https://www.wsj.com/world/middle-east/uae-ai-chips-iran-war-26c10d77?st=aqms3m&reflink=desktopwebshare_permalink",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Coinbase's Jesse Pollak says Jordan Fish, aka “Cobie”, will now lead the Base app team after acknowledging some of Base's bets on social features fell short",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Dave Brown, AWS SVP of Compute, AI, and Platform, is leaving the company after 19 years for a new job; he is a member of the S-team that advises CEO Andy Jassy",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/amazon-aws-executive-ceo-advisor-dave-brown-leave-after-19-years-2026-07-15/",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/microsofts-new-security-chief-replaces-top-execs-force-ai-overhaul",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be “evaluated on a case-by-case basis”, and more",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "section": "advertising"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "How TikTok Shop sellers are using AI creators and AI twins to boost affiliate sales; eMarketer: US sales on TikTok Shop will grow 48% YoY to $23.41B in 2026",
+      "excerpt": "",
+      "url": "https://www.wsj.com/cmo-today/ai-videos-are-flooding-tiktok-shop-c86a88e0",
+      "section": "advertising"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Monitoring Analytics: PJM's recent electricity auction is expected to add $6.3B to customers' bills in 13 states and DC through 2029 due to data center demands",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html?unlocked_article_code=1.x1A.veya.E08V0yrXCYHw&smid=url-share",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Sources: multiple GOP governors and large utilities are expected to join Trump's pledge for data center developers to cover their energy use and infrastructure",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/07/14/gop-governors-utilities-join-trump-data-center-pledge-00998098",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Daniel Ek's Neko Health, which offers AI-based full-body scans, raised $700M co-led by Lightspeed and O.G. Venture Partners, sources say at a ~$7B valuation",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html?unlocked_article_code=1.x1A.7d69.epx5apQsdAIL&smid=url-share",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Sources: OpenAI researcher Miles Wang is leaving to launch a startup developing AI models for drug discovery, and is in talks to raise ~$200M at a $2B valuation",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Indian AI coding startup Emergent raised a $130M Series C at a $1.5B post-money valuation, up from $300M in January, bringing its total funding raised to $230M",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "MA-based Walden Robotics, a Toyota robotics spin-off that has started selling humanoid robots, emerges from stealth with a ~$300M seed at a $1.1B valuation",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/fintech-deals/2026/07/15/lumin-digital-banking-funding-light-street",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Spectro Cloud, an AI infrastucture company helping manage token costs, raised a $100M Series D from AMD, LG, others at a $1B+ valuation, up from $750M in 2024",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/all-deals/2026/07/15/spectro-cloud-billion-valuation-ai-model-switching",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "American Growth Insurance, which aims to acquire struggling independent insurance firms and transform them using AI, raised almost $70M",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Israel-based Oak, which is building an AI-native identity access management system, comes out of stealth with a $60M seed",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Israel-based Hemispheric, whose AI model can analyze brain activity measured non-invasively and turn it into quantitative metrics for diagnoses, raised $52M",
+      "excerpt": "",
+      "url": "https://en.globes.co.il/en/article-neuroai-diagnostic-co-hemispheric-raises-52m-1001549435",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Neo Security, a cybersecurity startup founded by ex-SentinelOne execs and currently in stealth, raised $50M+, after a $25M seed in 2025 led by a16z and Merlin",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/s1ukhnnvzg",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Amsterdam-based Monumental, which develops autonomous robotics and software for the construction industry, raised a $32M Series B led by Khosla Ventures",
+      "excerpt": "",
+      "url": "https://tech.eu/2026/07/15/monumental-secures-32m-series-b-to-accelerate-construction-automation/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Rime, which helps companies field calls using AI voice models trained on conversational data it records in a studio, raised a $24M Series A led by M13",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "NYC-based Hadrius, which provides AI-native compliance tools for financial services, raised a $22M Series A led by CRV with participation from Y Combinator",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/fintech-deals/2026/07/14/hadrius-22m-series-a-crv",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Miami-based Cyclops, which sells an infrastructure platform that bundles crypto and stablecoin services to payments companies, raised a $20M Series A",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/15/exclusive-cyclops-20-million-payment-companies-settlement-stablecoins/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "Source: OnePlus will begin to cease operations in the US and Europe as early as this week and Realme will exit China as part of a restructuring by parent Oppo",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDEyOTQwNiwiZXhwIjoxNzg0NzM0MjA2LCJhcnRpY2xlSWQiOiJUSTdWQkNLSVVQUzcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.nLDRSXHgqlPetEYHmhkG8H7TvCo-EI777cHbzLhoCsY",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "Court filing: Google says it is ready to add third-party app stores within Google Play in the US on July 22, as Google and Epic withdraw their settlement motion",
+      "excerpt": "",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/c5a880f1-aa6a-4336-b499-3ab95cf37857",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "Apple raises its AppleCare+ prices for Macs and iPads by $0.50 per month and $5 per year; the increases are exclusively for new sign-ups",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-monthly-prices-by-50-cents-in-latest-increase?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDE0MDU1OSwiZXhwIjoxNzg0NzQ1MzU5LCJhcnRpY2xlSWQiOiJUSTg5NzBUOU5KTFQwMCIsImJjb25uZWN0SWQiOiI0RTgyMTM3RjkxMzA0NUY2ODRGM0VENTU3MzM5MDQyRiJ9.5ALlGGEg2iI_onci8x6EA3ja2q1mJDhLEI0s1wVf4ug",
+      "section": "more news"
+    },
+    {
+      "id": "TM-48",
+      "source": "techmeme",
+      "title": "Samsung unveils a new Flex Titanium foldable display that is slimmer, more durable, and less prone to creasing, debuting in its upcoming Galaxy Z Fold 8 series",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables",
+      "section": "more news"
+    },
+    {
+      "id": "TM-49",
+      "source": "techmeme",
+      "title": "Hyundai's South Korea auto workers have gone on a partial strike over wages, AI, and the prospect of it deploying Boston Dynamics' humanoid robot in factories",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1",
+      "section": "more news"
+    },
+    {
+      "id": "TM-50",
+      "source": "techmeme",
+      "title": "India pledges $13.3B to boost domestic chipmaking, building on a $10B incentive program from 2021 that attracted investments from companies like Micron and Tata",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/india-unveils-13-3-billion-fund-to-advance-chipmaking-push",
+      "section": "more news"
+    },
+    {
+      "id": "TM-51",
+      "source": "techmeme",
+      "title": "Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025's $34.6B funding",
+      "excerpt": "",
+      "url": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-52",
+      "source": "techmeme",
+      "title": "Hinge adds Friend's Take, a feature that lets daters enlist up to 10 close contacts to share written feedback, photos, voice notes, or videos on their profiles",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/hinge-debuts-friend-s-take-feature-letting-inner-circle-leave-testimonials",
+      "section": "more news"
+    },
+    {
+      "id": "TM-53",
+      "source": "techmeme",
+      "title": "Source: CoreWeave is exploring using financial derivatives as a potential hedge against a future drop in memory and storage chip prices, but hasn't hedged yet",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/ai-cloud-company-coreweave-explores-wall-street-playbook-hedge-memory-chip-price-2026-07-14/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-54",
+      "source": "techmeme",
+      "title": "Sources: Oracle leads the race to sell “air-gapped” cloud services to Japan that the US says are key to secure intelligence sharing between Tokyo and its allies",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/c8d32323-1d06-4470-8375-2ee6dd42749e",
+      "section": "more news"
+    },
+    {
+      "id": "TM-55",
+      "source": "techmeme",
+      "title": "A profile of PsiQuantum, which has raised $1B in 2025, is building a quantum computer with GlobalFoundries-made photonic chips, and is highly regarded by DARPA",
+      "excerpt": "",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "section": "more news"
+    }
+  ]
+}

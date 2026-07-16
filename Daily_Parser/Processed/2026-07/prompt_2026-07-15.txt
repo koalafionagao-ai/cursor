@@ -1,0 +1,219 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: Stripe and PE firm Advent have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday's close, valuing it at $53B+; PYPL jumps 17.2%
+Tweets:
+  - Author: @dadiomov
+    Text: Every experience I've had across Stripe and PayPal suggests that it would be a monstrously difficult culture clash to attempt to combine.  Smart to have Advent involved in operating it at arms' length.  But it does beg the question of what parts of PayPal would go “into” Stripe to make it all worthwhile.
+    Link ID: TM-01-TW-01
+  - Author: @jason
+    Text: A Startup Is Trying to Buy PayPal — Craziest Deal of 2026!
+    Link ID: TM-01-TW-02
+  - Author: @iankar_
+    Text: Stripe buying PayPal and taking it private would be great. Put it out of its misery. Would give a huge boost to Stripe for in store payments and consumer via Venmo.
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area
+Tweets:
+  - Author: @natolambert
+    Text: Pretty detailed safety section of model card, I found this interesting and practical: “Across all areas, we concluded that Inkling did not present risk of material uplift beyond what's already available in the open-weight ecosystem.”
+    Link ID: TM-02-TW-01
+  - Author: @mweinbach
+    Text: This model is interesting because it's the seemingly best base for a full scale post train/RL run for specific workloads or generalization. Helps that it's audio/image/text in! I'd be curious to see a proper model built off this or how Thinking Machine customers use it
+    Link ID: TM-02-TW-02
+  - Author: @designarena
+    Text: BREAKING: Inkling by @thinkymachines is 9th overall on Agentic Web App Arena by Design Arena with an Elo of 1257 It's an open-weight model in the same performance band as Claude Opus 4.6 by @AnthropicAI and Gemini 3.5 Flash by @GoogleDeepMind This makes Inkling the highest-ranking US-based open-weight model for agentic workloads, achieving frontier-level performance Congrats to the @thinkymachines team for this achievement!
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: China says Apple Intelligence has been registered for use on iPhones in the country; the service will integrate Alibaba's Qwen and may add Baidu's AI features
+Tweets:
+  - Author: @markgurman
+    Text: After two years of regulatory delays, Apple Intelligence was finally approved by the Chinese government. No word yet on when a launch will happen - but Apple could flick this on server-side. This is separate from Siri AI.
+    Link ID: TM-03-TW-01
+  - Author: @stocksavvyshay
+    Text: $AAPL on-device AI has reportedly received approval for iPhones in China. $BABA says Qwen will power Apple Intelligence across iOS, iPadOS, macOS and visionOS for Chinese users. [image]
+    Link ID: TM-03-TW-02
+---
+ID: TM-04
+Title: ASML reports Q2 net sales of €9.3B, above €8.8B est., a €2.9B net profit, above €2.6B est., and raises its 2026 net sales forecast from €36B-€40B to €43B-€45B
+Sub Items:
+  - Title: ASML says Intel has decided to use ASML's next-gen High NA EUV machines to make some of its flagship Panther Lake laptop chips; a High NA machine costs ~$400M
+    Link ID: TM-04-SUB-01
+  - Title: Sources: ASML has discussed raising prices for its EUV systems with TSMC and plans to charge 10% more for its DUV systems; TSMC is resisting ASML's price plans
+    Link ID: TM-04-SUB-02
+---
+ID: TM-05
+Title: AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms
+---
+ID: TM-06
+Title: IBM's stock closed down 25.21% on Tuesday, sinking more than its previous worst day of October 19, 1987, after reporting preliminary Q2 results below estimates
+---
+ID: TM-07
+Title: A group of 26 current and former employees sues Meta for allegedly using AI in layoffs in May to unfairly target workers with disabilities or on protected leave
+---
+ID: TM-08
+Title: OpenAI launches Codex Micro, a $230 desktop keypad built in collaboration with keyboard maker Work Louder, with backlit keys, a rotary knob, and a tiny joystick
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: China enacts rules forbidding companionship chatbots from encouraging emotional reliance, banning virtual relationships with minors, and more
+Sub Items:
+  - Title: As China's rules for humanlike AI interaction take effect, many users are bemoaning the loss of the virtual companions they had created on Chinese AI platforms
+    Link ID: TM-09-SUB-01
+---
+ID: TM-10
+Title: OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment
+---
+ID: TM-11
+Title: Anthropic, Blackstone, and Hellman & Friedman's $1.5B AI implementation company, announced in May, launches with the name “Ode with Anthropic” and 100 engineers
+---
+ID: TM-12
+Title: Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users
+---
+ID: TM-13
+Title: Sources: DeepSeek's annualized revenue recently reached $400M to $500M as it seeks to raise ~$7.4B at a ~$74B valuation, up from ~$50B after raising ~$7B in May
+---
+ID: TM-14
+Title: Nokia plans to sell its AI-driven RAN platform, developed with Nvidia, to mobile operators by 2027, aiming for a 100% increase in spectrum efficiency by 2028
+---
+
+[CATEGORY: POLICY]
+ID: TM-15
+Title: OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future
+---
+ID: TM-16
+Title: Uber and Waymo are engaged in a DC lobbying battle over AV legislation, with Uber supporting a hybrid human-robotaxi model and Waymo pushing for pure robotaxis
+---
+ID: TM-17
+Title: How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI's “reverse federalism” strategy for common state rules
+---
+ID: TM-18
+Title: Gavin Newsom is tempering his pro-tech instincts with economic populism ahead of a likely presidential bid, proposing giving Americans equity in AI companies
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-19
+Title: Sources: Apple is looking to acquire chip companies to boost its AI server efforts, as it struggles with AI server chip upgrades and M2 Ultra server performance
+---
+ID: TM-20
+Title: The UAE gained expanded US AI chip access after aiding the US in the Iran war, letting G42 buy freely for at least nine months; G42 plans to become a US company
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-21
+Title: Coinbase's Jesse Pollak says Jordan Fish, aka “Cobie”, will now lead the Base app team after acknowledging some of Base's bets on social features fell short
+---
+ID: TM-22
+Title: Dave Brown, AWS SVP of Compute, AI, and Platform, is leaving the company after 19 years for a new job; he is a member of the S-team that advises CEO Andy Jassy
+---
+ID: TM-23
+Title: Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more
+---
+
+[CATEGORY: ADVERTISING]
+ID: TM-24
+Title: Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be “evaluated on a case-by-case basis”, and more
+---
+ID: TM-25
+Title: How TikTok Shop sellers are using AI creators and AI twins to boost affiliate sales; eMarketer: US sales on TikTok Shop will grow 48% YoY to $23.41B in 2026
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-26
+Title: Monitoring Analytics: PJM's recent electricity auction is expected to add $6.3B to customers' bills in 13 states and DC through 2029 due to data center demands
+---
+ID: TM-27
+Title: Sources: multiple GOP governors and large utilities are expected to join Trump's pledge for data center developers to cover their energy use and infrastructure
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-28
+Title: Daniel Ek's Neko Health, which offers AI-based full-body scans, raised $700M co-led by Lightspeed and O.G. Venture Partners, sources say at a ~$7B valuation
+---
+ID: TM-29
+Title: Sources: OpenAI researcher Miles Wang is leaving to launch a startup developing AI models for drug discovery, and is in talks to raise ~$200M at a $2B valuation
+---
+ID: TM-30
+Title: Indian AI coding startup Emergent raised a $130M Series C at a $1.5B post-money valuation, up from $300M in January, bringing its total funding raised to $230M
+---
+ID: TM-31
+Title: MA-based Walden Robotics, a Toyota robotics spin-off that has started selling humanoid robots, emerges from stealth with a ~$300M seed at a $1.1B valuation
+---
+ID: TM-32
+Title: Lumin Digital, which provides cloud-based digital banking software to banks and credit unions, raised more than $115M at a $1.6B post-money valuation
+---
+ID: TM-33
+Title: Spectro Cloud, an AI infrastucture company helping manage token costs, raised a $100M Series D from AMD, LG, others at a $1B+ valuation, up from $750M in 2024
+---
+ID: TM-34
+Title: American Growth Insurance, which aims to acquire struggling independent insurance firms and transform them using AI, raised almost $70M
+---
+ID: TM-35
+Title: Israel-based Oak, which is building an AI-native identity access management system, comes out of stealth with a $60M seed
+---
+ID: TM-36
+Title: Israel-based Hemispheric, whose AI model can analyze brain activity measured non-invasively and turn it into quantitative metrics for diagnoses, raised $52M
+---
+ID: TM-37
+Title: Neo Security, a cybersecurity startup founded by ex-SentinelOne execs and currently in stealth, raised $50M+, after a $25M seed in 2025 led by a16z and Merlin
+---
+ID: TM-38
+Title: InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital
+---
+ID: TM-39
+Title: Amsterdam-based Monumental, which develops autonomous robotics and software for the construction industry, raised a $32M Series B led by Khosla Ventures
+---
+ID: TM-40
+Title: Rime, which helps companies field calls using AI voice models trained on conversational data it records in a studio, raised a $24M Series A led by M13
+---
+ID: TM-41
+Title: NYC-based Hadrius, which provides AI-native compliance tools for financial services, raised a $22M Series A led by CRV with participation from Y Combinator
+---
+ID: TM-42
+Title: Miami-based Cyclops, which sells an infrastructure platform that bundles crypto and stablecoin services to payments companies, raised a $20M Series A
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-43
+Title: Source: OnePlus will begin to cease operations in the US and Europe as early as this week and Realme will exit China as part of a restructuring by parent Oppo
+---
+ID: TM-44
+Title: Court filing: Google says it is ready to add third-party app stores within Google Play in the US on July 22, as Google and Epic withdraw their settlement motion
+---
+ID: TM-45
+Title: Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers
+---
+ID: TM-46
+Title: SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27
+---
+ID: TM-47
+Title: Apple raises its AppleCare+ prices for Macs and iPads by $0.50 per month and $5 per year; the increases are exclusively for new sign-ups
+---
+ID: TM-48
+Title: Samsung unveils a new Flex Titanium foldable display that is slimmer, more durable, and less prone to creasing, debuting in its upcoming Galaxy Z Fold 8 series
+---
+ID: TM-49
+Title: Hyundai's South Korea auto workers have gone on a partial strike over wages, AI, and the prospect of it deploying Boston Dynamics' humanoid robot in factories
+---
+ID: TM-50
+Title: India pledges $13.3B to boost domestic chipmaking, building on a $10B incentive program from 2021 that attracted investments from companies like Micron and Tata
+---
+ID: TM-51
+Title: Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025's $34.6B funding
+---
+ID: TM-52
+Title: Hinge adds Friend's Take, a feature that lets daters enlist up to 10 close contacts to share written feedback, photos, voice notes, or videos on their profiles
+---
+ID: TM-53
+Title: Source: CoreWeave is exploring using financial derivatives as a potential hedge against a future drop in memory and storage chip prices, but hasn't hedged yet
+---
+ID: TM-54
+Title: Sources: Oracle leads the race to sell “air-gapped” cloud services to Japan that the US says are key to secure intelligence sharing between Tokyo and its allies
+---
+ID: TM-55
+Title: A profile of PsiQuantum, which has raised $1B in 2025, is building a quantum computer with GlobalFoundries-made photonic chips, and is highly regarded by DARPA
+---

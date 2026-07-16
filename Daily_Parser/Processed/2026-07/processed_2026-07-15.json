@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-15",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 20,
+    "by_category": {
+      "cat:model": 1,
+      "cat:other": 4,
+      "cat:tech": 1,
+      "cat:business": 12,
+      "cat:app": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "title": {
+        "zh": "Thinking Machines Lab 推出开放权重 MoE 模型 Inkling，拥有9750亿总参数和41亿活跃参数",
+        "en": "Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area"
+      },
+      "summary": {
+        "zh": "该模型旨在广泛适用，而非针对单一领域进行优化。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-05",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127",
+      "title": {
+        "zh": "AI 倡导者担忧纽约暂停新数据中心的政策可能促使更多州实施限制",
+        "en": "AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms"
+      },
+      "summary": {
+        "zh": "民主党可能在中期选举中利用这一议题推动更多州级限制。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/china-wants-more-babiesso-its-cracking-down-on-chatbot-love-affairs-65cd6c82?st=zuKTMx&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "中国出台规定禁止陪伴型聊天机器人鼓励情感依赖",
+        "en": "China enacts rules forbidding companionship chatbots from encouraging emotional reliance, banning virtual relationships with minors, and more"
+      },
+      "summary": {
+        "zh": "新规还禁止与未成年人建立虚拟关系等行为。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": {
+        "zh": "OpenAI 详细介绍 GPT-Red：内部自动化红队模型",
+        "en": "OpenAI details GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery so it can fix bugs before wider deployment"
+      },
+      "summary": {
+        "zh": "该模型可扩展提示注入漏洞的发现，以便在更广泛部署前修复问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "gpt",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "title": {
+        "zh": "Anthropic、Blackstone 和 Hellman & Friedman 推出 AI 实施公司“Ode with Anthropic”",
+        "en": "Anthropic, Blackstone, and Hellman & Friedman's $1.5B AI implementation company, announced in May, launches with the name “Ode with Anthropic” and 100 engineers"
+      },
+      "summary": {
+        "zh": "该公司于5月宣布成立，现已正式启动，拥有100名工程师。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/marcochiappetta/2026/07/15/cadence-expands-ai-agents-with-aurastack-for-pcb-and-advanced-chip-packaging/",
+      "title": {
+        "zh": "Cadence 推出 AuraStack AI 超级代理平台",
+        "en": "Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users"
+      },
+      "summary": {
+        "zh": "该平台用于 PCB 和先进芯片封装设计，早期用户包括 Nvidia、台积电和施耐德电气。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans",
+      "title": {
+        "zh": "消息称 DeepSeek 年化收入已达4亿至5亿美元",
+        "en": "Sources: DeepSeek's annualized revenue recently reached $400M to $500M as it seeks to raise ~$7.4B at a ~$74B valuation, up from ~$50B after raising ~$7B in May"
+      },
+      "summary": {
+        "zh": "公司正寻求以约740亿美元估值融资约74亿美元，此前5月估值约为500亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "deepseek",
+        "funding",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/nokia-to-sell-nvidia-powered-ai-mobile-network-gear-from-2027",
+      "title": {
+        "zh": "诺基亚计划到2027年向移动运营商销售其 AI 驱动的 RAN 平台",
+        "en": "Nokia plans to sell its AI-driven RAN platform, developed with Nvidia, to mobile operators by 2027, aiming for a 100% increase in spectrum efficiency by 2028"
+      },
+      "summary": {
+        "zh": "该平台由诺基亚与 Nvidia 联合开发，目标是到2028年将频谱效率提高100%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
+      "title": {
+        "zh": "Anthropic 推动州级 AI 安全法案，与 OpenAI 的“反向联邦主义”策略形成对比",
+        "en": "How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI's “reverse federalism” strategy for common state rules"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/apple-hunts-ai-chip-acquisitions",
+      "title": {
+        "zh": "消息称苹果计划收购芯片公司以提升其 AI 服务器能力",
+        "en": "Sources: Apple is looking to acquire chip companies to boost its AI server efforts, as it struggles with AI server chip upgrades and M2 Ultra server performance"
+      },
+      "summary": {
+        "zh": "苹果在 AI 服务器芯片升级和 M2 Ultra 服务器性能方面面临挑战。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "apple",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/world/middle-east/uae-ai-chips-iran-war-26c10d77?st=aqms3m&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "阿联酋因协助美国对伊朗战争获得扩展的美国AI芯片访问权限",
+        "en": "The UAE gained expanded US AI chip access after aiding the US in the Iran war, letting G42 buy freely for at least nine months; G42 plans to become a US company"
+      },
+      "summary": {
+        "zh": "G42公司在未来至少九个月内可自由购买芯片，并计划成为一家美国公司。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "chip",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/microsofts-new-security-chief-replaces-top-execs-force-ai-overhaul",
+      "title": {
+        "zh": "微软安全主管优先发展AI工具并进行高层重组",
+        "en": "Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more"
+      },
+      "summary": {
+        "zh": "Hayete Gallot自2月上任以来，裁减数百个岗位并替换了多名高管。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-25",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/cmo-today/ai-videos-are-flooding-tiktok-shop-c86a88e0",
+      "title": {
+        "zh": "TikTok Shop卖家利用AI创作者和AI双胞胎提升销售",
+        "en": "How TikTok Shop sellers are using AI creators and AI twins to boost affiliate sales; eMarketer: US sales on TikTok Shop will grow 48% YoY to $23.41B in 2026"
+      },
+      "summary": {
+        "zh": "预计到2026年，TikTok Shop在美国的销售额将同比增长48%，达到234.1亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "bytedance"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html?unlocked_article_code=1.x1A.7d69.epx5apQsdAIL&smid=url-share",
+      "title": {
+        "zh": "Neko Health完成7亿美元融资，估值约70亿美元",
+        "en": "Daniel Ek's Neko Health, which offers AI-based full-body scans, raised $700M co-led by Lightspeed and O.G. Venture Partners, sources say at a ~$7B valuation"
+      },
+      "summary": {
+        "zh": "Daniel Ek创立的Neko Health提供基于AI的全身扫描服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-29",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "title": {
+        "zh": "OpenAI研究员离职创立AI药物研发初创公司",
+        "en": "Sources: OpenAI researcher Miles Wang is leaving to launch a startup developing AI models for drug discovery, and is in talks to raise ~$200M at a $2B valuation"
+      },
+      "summary": {
+        "zh": "Miles Wang计划筹集约2亿美元，估值达20亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "title": {
+        "zh": "印度AI编程初创公司Emergent完成1.3亿美元C轮融资",
+        "en": "Indian AI coding startup Emergent raised a $130M Series C at a $1.5B post-money valuation, up from $300M in January, bringing its total funding raised to $230M"
+      },
+      "summary": {
+        "zh": "公司估值从1月的3亿美元增长至15亿美元，总融资额达2.3亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/all-deals/2026/07/15/spectro-cloud-billion-valuation-ai-model-switching",
+      "title": {
+        "zh": "Spectro Cloud完成1亿美元D轮融资，估值超10亿美元",
+        "en": "Spectro Cloud, an AI infrastucture company helping manage token costs, raised a $100M Series D from AMD, LG, others at a $1B+ valuation, up from $750M in 2024"
+      },
+      "summary": {
+        "zh": "该公司专注于帮助管理AI代币成本，投资方包括AMD和LG。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "amd",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://en.globes.co.il/en/article-neuroai-diagnostic-co-hemispheric-raises-52m-1001549435",
+      "title": {
+        "zh": "以色列Hemispheric公司融资5200万美元开发脑活动分析AI模型",
+        "en": "Israel-based Hemispheric, whose AI model can analyze brain activity measured non-invasively and turn it into quantitative metrics for diagnoses, raised $52M"
+      },
+      "summary": {
+        "zh": "该模型可通过非侵入性方式分析脑活动并生成定量诊断指标。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-54",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/c8d32323-1d06-4470-8375-2ee6dd42749e",
+      "title": {
+        "zh": "甲骨文领跑向日本提供“隔离云”服务的竞争",
+        "en": "Sources: Oracle leads the race to sell “air-gapped” cloud services to Japan that the US says are key to secure intelligence sharing between Tokyo and its allies"
+      },
+      "summary": {
+        "zh": "美国认为此类服务对东京及其盟友的情报共享安全至关重要。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "oracle",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-55",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "title": {
+        "zh": "PsiQuantum致力于构建基于光子芯片的量子计算机",
+        "en": "A profile of PsiQuantum, which has raised $1B in 2025, is building a quantum computer with GlobalFoundries-made photonic chips, and is highly regarded by DARPA"
+      },
+      "summary": {
+        "zh": "该公司已筹集10亿美元资金，并受到DARPA的高度评价。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "quantum",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
