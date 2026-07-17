@@ -1,0 +1,350 @@
+{
+  "date": "2026-07-16",
+  "threshold": 7.0,
+  "total": 57,
+  "kept": 19,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "重磅模型发布，参数量巨大，可能影响行业竞争格局。"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "欧盟对谷歌的决策可能影响AI助手和搜索引擎的市场竞争。"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是收购消息。"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是财报信息。"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是财报信息。"
+    },
+    {
+      "id": "TM-06",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是产品更新。"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌在交付重要AI模型上延迟，可能影响市场竞争。"
+    },
+    {
+      "id": "TM-08",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是公司运营决策。"
+    },
+    {
+      "id": "TM-09",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是API发布信息。"
+    },
+    {
+      "id": "TM-10",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及AI估值的投资信息，但信息量有限。"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "开源工具发布，可能对开发者有一定影响。"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "谷歌在AI模式下的应用更新，值得关注。"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌对NotebookLM的重命名和功能更新，具有产品洞察。"
+    },
+    {
+      "id": "TM-14",
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌视频编辑器的更新，增加了用户生成内容的能力。"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "DeepMind与Isomorphic Labs的合作，涉及重要的公共健康应用。"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于GPT-5.6的问题说明，涉及用户安全和产品改进。"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Roblox的新功能更新，信息量有限。"
+    },
+    {
+      "id": "TM-18",
+      "score": 6.0,
+      "keep": false,
+      "reason": "DoorDash推出的AI代理功能，值得关注。"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta在青少年心理健康方面的新举措，具有社会影响。"
+    },
+    {
+      "id": "TM-20",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta的监督委员会对AI模型的评估，可能影响行业标准。"
+    },
+    {
+      "id": "TM-21",
+      "score": 9.0,
+      "keep": true,
+      "reason": "多个国家签署AI合作协议，可能影响全球AI政策。"
+    },
+    {
+      "id": "TM-22",
+      "score": 7.0,
+      "keep": true,
+      "reason": "1Password与Claude的集成，提升了用户安全性。"
+    },
+    {
+      "id": "TM-23",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于AI生成内容的报道，信息量有限。"
+    },
+    {
+      "id": "TM-24",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI高管的安全措施，反映行业环境变化。"
+    },
+    {
+      "id": "TM-25",
+      "score": 7.0,
+      "keep": true,
+      "reason": "xAI针对用户的诉讼案例，具有法律和伦理意义。"
+    },
+    {
+      "id": "TM-26",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及美国政府对研究人员签证的裁决，具有一定的政策影响。"
+    },
+    {
+      "id": "TM-27",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于个人政治捐款的报道，信息量有限。"
+    },
+    {
+      "id": "TM-28",
+      "score": 8.0,
+      "keep": true,
+      "reason": "三位AI领域领军人物就监管框架达成共识，具有行业影响力。"
+    },
+    {
+      "id": "TM-29",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于黑客事件的报道，信息量较常规。"
+    },
+    {
+      "id": "TM-30",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及网络攻击的法律后果，具有一定的行业关注度。"
+    },
+    {
+      "id": "TM-31",
+      "score": 9.0,
+      "keep": true,
+      "reason": "Nvidia发布新模型，可能对机器人和AI代理的应用产生重大影响。"
+    },
+    {
+      "id": "TM-32",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于学校试点人形机器人教师的报道，信息量有限。"
+    },
+    {
+      "id": "TM-33",
+      "score": 8.0,
+      "keep": true,
+      "reason": "现代汽车收购波士顿动力的股份，可能改变行业格局。"
+    },
+    {
+      "id": "TM-34",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于Elon Musk收购的报道，信息与AI关联性较弱。"
+    },
+    {
+      "id": "TM-35",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于PayPal的收购传闻，信息量较常规。"
+    },
+    {
+      "id": "TM-36",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Fireworks融资信息显示其在AI芯片和开源模型领域的快速增长。"
+    },
+    {
+      "id": "TM-37",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Grubhub母公司融资的常规报道，信息量有限。"
+    },
+    {
+      "id": "TM-38",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Crypto.com融资信息，信息量较常规。"
+    },
+    {
+      "id": "TM-39",
+      "score": 7.0,
+      "keep": true,
+      "reason": "UK初创公司融资信息，显示出AI领域的投资活跃度。"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Alpaca融资的常规报道，信息量有限。"
+    },
+    {
+      "id": "TM-41",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Fora融资信息显示其在旅行代理和AI工具结合的潜力。"
+    },
+    {
+      "id": "TM-42",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Microagi融资信息显示其在机器人训练领域的投资情况。"
+    },
+    {
+      "id": "TM-43",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Sable融资信息显示其在AI代理领域的创新应用。"
+    },
+    {
+      "id": "TM-44",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Bunkerhill Health融资信息显示其在医院管理中的AI应用。"
+    },
+    {
+      "id": "TM-45",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Runta融资信息显示其在AI风险管理领域的潜力。"
+    },
+    {
+      "id": "TM-46",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Applied Computing融资信息，信息量较常规。"
+    },
+    {
+      "id": "TM-47",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Beacon Security融资信息，信息量有限。"
+    },
+    {
+      "id": "TM-48",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Self Inspection融资信息，信息量较常规。"
+    },
+    {
+      "id": "TM-49",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Ofcom对TikTok的调查可能影响其运营，具有一定关注度。"
+    },
+    {
+      "id": "TM-50",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Csquare IPO信息，信息量较常规。"
+    },
+    {
+      "id": "TM-51",
+      "score": 8.0,
+      "keep": true,
+      "reason": "欧盟接受X的计划，涉及重要的透明度义务和数据访问，具有政策影响力"
+    },
+    {
+      "id": "TM-52",
+      "score": 5.0,
+      "keep": false,
+      "reason": "新产品发布，但与AI关联不强，信息量有限"
+    },
+    {
+      "id": "TM-53",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Visa推出稳定币平台，可能影响金融行业的稳定币使用"
+    },
+    {
+      "id": "TM-54",
+      "score": 4.0,
+      "keep": false,
+      "reason": "股票波动和公司内部问题，信息价值较低"
+    },
+    {
+      "id": "TM-55",
+      "score": 5.0,
+      "keep": false,
+      "reason": "延迟发射和融资计划，信息量一般"
+    },
+    {
+      "id": "TM-56",
+      "score": 6.0,
+      "keep": false,
+      "reason": "新功能发布，涉及AI工具，但整体信息量有限"
+    },
+    {
+      "id": "TM-57",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关联不强，主要涉及执法行动，信息价值较低"
+    }
+  ]
+}

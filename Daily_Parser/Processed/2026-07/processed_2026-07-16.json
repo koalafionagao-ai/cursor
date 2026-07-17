@@ -1,0 +1,426 @@
+{
+  "date": "2026-07-16",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 19,
+    "by_category": {
+      "cat:model": 3,
+      "cat:other": 6,
+      "cat:app": 4,
+      "cat:tech": 1,
+      "cat:business": 5
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "title": {
+        "zh": "Moonshot AI发布Kimi K3模型，参数量达2.8万亿，计划7月27日公开模型权重",
+        "en": "Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT-5.5, and plans to release model weights by July 27"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "opus",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "title": {
+        "zh": "欧盟根据DMA发布两项决定，要求谷歌向竞争对手AI助手和搜索引擎提供可比数据访问权限",
+        "en": "The EU issues two decisions under the DMA that order Google to provide rival AI assistants and search engines comparable access to Android and some Search data"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "google",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-07",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDI0MjMxOSwiZXhwIjoxNzg0ODQ3MTE5LCJhcnRpY2xlSWQiOiJUSUE1MDNLR1pBSVQwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.pWIAuL0_h_6DQZGx7zQCLX1Qywek_SHGb-999GpRQF8",
+      "title": {
+        "zh": "消息称谷歌在推出Gemini 3.5 Pro上落后数月，正在努力提升其能力，特别是编程方面",
+        "en": "Sources: Google is months behind schedule on delivering Gemini 3.5 Pro as it tries to improve its capabilities, particularly in coding; GOOG closes down 4.43%"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "gemini",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "title": {
+        "zh": "谷歌将NotebookLM更名为Gemini Notebook，并推出更新支持本地代码编写与执行",
+        "en": "Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "title": {
+        "zh": "谷歌更新AI视频编辑器Vids，新增Gemini Omni和自定义数字头像功能",
+        "en": "Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/16/google-deepmind-biosecurity-safety",
+      "title": {
+        "zh": "Google DeepMind与Isomorphic Labs启动生物韧性计划，利用AI模型进行病原体监测和疫苗设计",
+        "en": "Google DeepMind and Isomorphic Labs launch a bioresilience program to leverage AI models for pathogen surveillance, vaccine design, and outbreak responses"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "google",
+        "deepmind",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "title": {
+        "zh": "Meta将通知家长其青少年子女是否与Meta AI讨论自杀或自残，并在必要时联系紧急服务",
+        "en": "Meta will now notify parents if their teen discusses suicide or self-harm with Meta AI and will contact emergency services if a user might be at risk of suicide"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/",
+      "title": {
+        "zh": "Meta监督委员会首次评估LLM，称顶级AI模型可能限制言论自由",
+        "en": "Meta's Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-21",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/",
+      "title": {
+        "zh": "中国、俄罗斯等30国签署协议，在上海成立世界人工智能合作组织",
+        "en": "China, Russia, Belarus, Serbia, Cuba, Brazil, Venezuela, and 22 other countries sign an agreement to create the World AI Cooperation Organization in Shanghai"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/",
+      "title": {
+        "zh": "1Password推出Claude集成，支持macOS用户无需显示密码或2FA代码即可登录网站",
+        "en": "1Password launches a new Claude integration for macOS that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "claude",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-25",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/",
+      "title": {
+        "zh": "xAI起诉南卡罗来纳州男子涉嫌使用Grok生成CSAM",
+        "en": "xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users"
+      },
+      "summary": {
+        "zh": "这是AI公司首次对用户提起此类诉讼之一。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "xai",
+        "grok",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+      "title": {
+        "zh": "Demis Hassabis、Sam Altman和Dario Amodei就AI监管框架发表不同意见",
+        "en": "Demis Hassabis, Sam Altman, and Dario Amodei published memos in recent weeks that agree on an AI regulatory framework but disagree on the US government's role"
+      },
+      "summary": {
+        "zh": "三位AI领军人物近期发表备忘录，尽管对AI监管框架达成一致，但对美国政府的角色存在分歧。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "sam-altman",
+        "dario-amodei",
+        "demis-hassabis",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-31",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "title": {
+        "zh": "Nvidia发布Cosmos 3 Edge，用于实时感知和导航的世界模型",
+        "en": "Nvidia unveils Cosmos 3 Edge, a world model for robots and AI agents to perceive and navigate physical environments in real time, after Cosmos 3's debut in May"
+      },
+      "summary": {
+        "zh": "继5月发布Cosmos 3后，Nvidia推出了适用于机器人和AI代理的新模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "nvidia",
+        "agent",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/hyundai-motor-group-make-boston-dynamics-wholly-owned-with-purchase-softbank-2026-07-16/",
+      "title": {
+        "zh": "现代汽车将收购波士顿动力剩余股份，成为全资子公司",
+        "en": "Hyundai says it will make Boston Dynamics a wholly owned subsidiary by acquiring SoftBank's ~10% stake; Hyundai acquired an 80% stake in Boston Dynamics in 2021"
+      },
+      "summary": {
+        "zh": "现代汽车计划收购软银持有的约10%股份，此前已在2021年收购了80%的股份。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+      "title": {
+        "zh": "Fireworks融资15亿美元，估值达175亿美元",
+        "en": "Fireworks, which helps developers access AI chips and open-source models, raised $1.5B at a $17.5B valuation and says it has exceeded $1B in annualized revenue"
+      },
+      "summary": {
+        "zh": "该公司帮助开发者访问AI芯片和开源模型，年化收入已超过10亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-39",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/briefings/exclusive-humanoid-uk-based-robot-maker-becomes-unicorn",
+      "title": {
+        "zh": "英国机器人初创公司Humanoid完成1.5亿美元A轮融资",
+        "en": "Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September"
+      },
+      "summary": {
+        "zh": "融资前估值12亿美元，计划在9月前再筹集8000万至1亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-43",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/",
+      "title": {
+        "zh": "Sable融资4500万美元开发网站AI代理Aiden",
+        "en": "Sable, which is building an AI agent named Aiden that lives on a company's website to run live product demos and more, raised $45M from Sequoia and 8VC"
+      },
+      "summary": {
+        "zh": "Aiden可在公司网站上运行实时产品演示等功能，投资方包括Sequoia和8VC。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-51",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/eu-accepts-action-plan-by-elon-musks-x-become-more-transparent-2026-07-15/",
+      "title": {
+        "zh": "欧盟接受X的DSA透明度计划，给予六个月实施时间",
+        "en": "The EU accepts X's plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine"
+      },
+      "summary": {
+        "zh": "此前X因未能满足DSA要求被罚款1.2亿欧元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-53",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/",
+      "title": {
+        "zh": "Visa推出Visa Stablecoin Platform，支持稳定币使用",
+        "en": "Visa debuts the Visa Stablecoin Platform, an internal system to help its network of ~15K financial institutions and 200M+ merchants more easily use stablecoins"
+      },
+      "summary": {
+        "zh": "该平台旨在帮助其网络中的金融机构和商户更便捷地使用稳定币。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "visa",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

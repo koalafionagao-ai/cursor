@@ -1,0 +1,498 @@
+{
+  "date": "2026-07-16",
+  "sections": {
+    "top news": [
+      {
+        "title": "Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT-5.5, and plans to release model weights by July 27",
+        "excerpt": "",
+        "url": "https://www.kimi.com/blog/kimi-k3",
+        "tweets": [
+          {
+            "author": "@emostaque",
+            "text": "US labs gonna end up distilling Chinese models",
+            "url": "https://x.com/emostaque/status/2077823571389202841"
+          },
+          {
+            "author": "@tszzl",
+            "text": "the era of the chinese labs being far behind is over, Kimi is at least on par with the modern public frontier models. people have to think differently now without any competitive margin built in",
+            "url": "https://x.com/tszzl/status/2077827974452461871"
+          },
+          {
+            "author": "@yuchenj_uw",
+            "text": "> Kimi K3 ranks only behind Claude Fable 5 Max and GPT-5.6 Sol Max, and surpasses Claude Opus 4.8 Max's score of 1600. I'm super excited for Kimi K3 to be open-sourced! [image]",
+            "url": "https://x.com/yuchenj_uw/status/2077777217170661608"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Kimi-K3 is now #1 on the Frontend Code Arena benchmark, surpassing Claude Fable 5; the model scored 88.3 on Terminal Bench 2.1, only below GPT-5.6 Sol's 88.8",
+            "url": "https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
+          }
+        ]
+      },
+      {
+        "title": "The EU issues two decisions under the DMA that order Google to provide rival AI assistants and search engines comparable access to Android and some Search data",
+        "excerpt": "",
+        "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+        "tweets": [
+          {
+            "author": "@hennavirkkunen",
+            "text": "Today, we issued 2 sets of binding specification measures to Google under the DMA. With these measures, we aim to support innovation & diversity in the EU by enabling fair competition in the markets for AI assistants on Android devices & search engines.  [image]",
+            "url": "https://x.com/hennavirkkunen/status/2077787409270419707"
+          },
+          {
+            "author": "@glenngabe",
+            "text": "Grab the popcorn.  This will be interesting :) I see Google using cybersecurity risks as a reason to not share.  We'll see",
+            "url": "https://x.com/glenngabe/status/2077799843536199888"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates",
+        "tweets": [
+          {
+            "author": "@niklasoestberg",
+            "text": "After 15 years of incredibly hard work, we're partnering with Uber in a transaction valuing Delivery Hero at €13bn! 🚀 Very proud of what the team has built, and excited for the future. [image]",
+            "url": "https://x.com/niklasoestberg/status/2077852353970012198"
+          },
+          {
+            "author": "@capexandchill",
+            "text": "Dara confirmed Uber will continue to invest in organic growth, autonomous tech, and stock buybacks.  Some interesting aspects to Delivery Hero is their advertising business is highly developed, representing roughly 3% of its GMV, which is a higher penetration rate than Uber's current advertising business.  Uber plans to utilize Delivery Hero's advertising team and technology to optimize and expand its own high-margin ad tech division.  [video]",
+            "url": "https://x.com/capexandchill/status/2077746779735359715"
+          },
+          {
+            "author": "@_balaji_km",
+            "text": "Our offer to acquire Delivery Hero exceeds the very high bar we set for M&A: a business that's ~10% of Uber's market cap, but adds ~20% to our trips and Gross Bookings and drives significant accretion post close.  For Delivery, the transaction is transformational, roughly doubling our trip volumes and increasing GBs by nearly 50%.",
+            "url": "https://x.com/_balaji_km/status/2077783609491251588"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "TSMC reports Q2 revenue up 36% YoY to ~$39.45B, net income up 77.4% YoY to ~$21.9B, both above est., and says chips 7nm or smaller were 77% of its wafer revenue",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "A US official says TSMC plans to spend an additional $100B to build four US chip plants, bringing its total pledge to $265B as part of a broader US-Taiwan deal",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-to-spend-265-billion-on-us-buildout-in-key-trump-deal"
+          },
+          {
+            "title": "TSMC raises its 2026 capex projection from $52B-$56B to $60B-$64B and its revenue growth projection in USD from 30%+ to 40%+ YoY, citing “the AI megatrend”",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-16/tsmc-beats-lofty-estimates-in-latest-sign-of-sustained-ai-demand"
+          }
+        ]
+      },
+      {
+        "title": "Netflix reports Q2 revenue up 13% YoY to $12.56B, vs. $12.59B est., and says it will give fewer engagement updates starting in 2027; NFLX drops 7%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Netflix says roughly 300 titles used generative AI this year, mostly in post-production, “to deliver higher quality output more quickly and at a lower cost”",
+            "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Apple is preparing new iPads, including an iPad mini with an OLED screen by October and refreshed entry-level iPads and iPad Airs for 2027",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDIwODU0NiwiZXhwIjoxNzg0ODEzMzQ2LCJhcnRpY2xlSWQiOiJUSTgxNjJUOU5KTFQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.KgsDWvP8alKrMtxKe0WkaOPhZjAJ8t0MN4E3BoQvtgQ",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Google is months behind schedule on delivering Gemini 3.5 Pro as it tries to improve its capabilities, particularly in coding; GOOG closes down 4.43%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDI0MjMxOSwiZXhwIjoxNzg0ODQ3MTE5LCJhcnRpY2xlSWQiOiJUSUE1MDNLR1pBSVQwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.pWIAuL0_h_6DQZGx7zQCLX1Qywek_SHGb-999GpRQF8",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OnePlus confirms it will no longer operate in North America or Europe but will keep operating in China, while Realme, another Oppo sub-brand, will exit China",
+        "excerpt": "",
+        "url": "https://www.cnet.com/tech/mobile/oneplus-pulls-out-of-us-and-europe/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Trump Media plans to launch the Truth API on August 1, providing real-time data from trending Truth Social accounts to news organizations and trading firms",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/16/truth-social-license-data-wall-street",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: a Chinese luggage maker says a fund in which it invested deployed ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/chinese-filing-implies-deepseek-valuation-around-52-billion-2026-07-16/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash",
+        "excerpt": "",
+        "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDIxNzg3OCwiZXhwIjoxNzg0ODIyNjc4LCJhcnRpY2xlSWQiOiJUSTlKVU1LR0NURlQwMCIsImJjb25uZWN0SWQiOiJBOEY5RUY2Rjk0NjM0Mzk4QjZBMUMxMzlFOTg2N0U4OCJ9.ZrjywGq7-W8hVQKPYi6dnJ_8juilJfbJXItfC67tblg"
+          }
+        ]
+      },
+      {
+        "title": "Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively",
+        "excerpt": "",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google DeepMind and Isomorphic Labs launch a bioresilience program to leverage AI models for pathogen surveillance, vaccine design, and outbreak responses",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/16/google-deepmind-biosecurity-safety",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk",
+        "excerpt": "",
+        "url": "https://x.com/thsottiaux/status/2077630111499882637",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox's models and open-source models",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta will now notify parents if their teen discusses suicide or self-harm with Meta AI and will contact emergency services if a user might be at risk of suicide",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta's Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "China, Russia, Belarus, Serbia, Cuba, Brazil, Venezuela, and 22 other countries sign an agreement to create the World AI Cooperation Organization in Shanghai",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/twenty-nine-countries-sign-agreement-establish-global-ai-cooperation-body-2026-07-16/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "1Password launches a new Claude integration for macOS that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive “authors” proliferate",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html?unlocked_article_code=1.yFA.goGV.PyjHouzlY6S3&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May",
+        "excerpt": "",
+        "url": "https://www.wsj.com/us-news/the-ai-backlash-has-tech-executives-fearing-for-their-lives-30c43972?st=ZZ1qD6&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-grok-user-over-sexualized-deepfakes-2026-07-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo",
+        "excerpt": "",
+        "url": "https://www.techdirt.com/2026/07/15/rubio-wanted-to-ban-censors-from-entering-the-us-a-court-says-hes-the-one-censoring/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "Filings: Dario Amodei gave $1M in May to Public First, a super PAC advocating for AI safety regulations, seemingly his first seven-figure political donation",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/07/16/anthropics-ceo-gives-1-million-to-super-pac-amid-feud-of-ai-big-money-groups-01000461",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Demis Hassabis, Sam Altman, and Dario Amodei published memos in recent weeks that agree on an AI regulatory framework but disagree on the US government's role",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "A hacker claims to have accessed Suno's user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack",
+        "excerpt": "",
+        "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The UK sentences two Scattered Spider members, who pled guilty to an August 2024 Transport for London cyberattack, to five and a half years in prison",
+        "excerpt": "",
+        "url": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "robotics": [
+      {
+        "title": "Nvidia unveils Cosmos 3 Edge, a world model for robots and AI agents to perceive and navigate physical environments in real time, after Cosmos 3's debut in May",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes",
+        "excerpt": "",
+        "url": "https://mashable.com/tech/new-york-school-testing-robot-teacher",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Hyundai says it will make Boston Dynamics a wholly owned subsidiary by acquiring SoftBank's ~10% stake; Hyundai acquired an 80% stake in Boston Dynamics in 2021",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/hyundai-motor-group-make-boston-dynamics-wholly-owned-with-purchase-softbank-2026-07-16/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Elon Musk quietly bought Jacksonville, Florida-based APR Energy, which runs mobile gas and diesel turbines like those in Colossus 2, for an implied ~$1B",
+        "excerpt": "",
+        "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: PayPal's board sees Stripe and PE firm Advent International's $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/paypal-board-sees-stripe-advent-offer-inadequate-sources-say-2026-07-16/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Fireworks, which helps developers access AI chips and open-source models, raised $1.5B at a $17.5B valuation and says it has exceeded $1B in annualized revenue",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/16/exclusive-marc-lore-says-wonder-is-gearing-up-for-an-ipo-650-million-9-billion-valuation-cathie-wood-grubhub-food-delivery/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Crypto.com raised $400M from Citadel Securities in its first institutional funding round, valuing the Singapore-based crypto exchange at $20B",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/exclusive-humanoid-uk-based-robot-maker-becomes-unicorn",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Alpaca, which offers brokerage and financial infrastructure, raised $135M in equity and $300M in debt, following a $150M Series D in January",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/broker-alpaca-raises-435-million-explores-prime-broking-entry",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Munich-based Microagi, which collects factory and household data to train humanoid robots, raised $55M led by Hummingbird in Germany's largest ever seed round",
+        "excerpt": "",
+        "url": "https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sable, which is building an AI agent named Aiden that lives on a company's website to run live product demos and more, raised $45M from Sequoia and 8VC",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/16/ai-employee-that-convinced-sequoia-to-invest-45-million-in-sable-shaun-maguire/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bunkerhill Health, which uses AI agents for hospital tasks like managing wait times, raised a $25M Series B led by Khosla, bringing its total funding to $55M",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/16/bunkerhill-health-raises-55-million-ai-agents-work-inside-hospitals/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Runta, which provides isolated sandboxes and guardrails for AI agents to prevent operational risks, raised a $20M seed led by a16z at a $100M+ valuation",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/andreessen-horowitz-backs-startup-aiming-parent-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Applied Computing, which is developing AI models for energy operations, raised $20M led by KBR, with participation from Databricks Ventures",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/07/16/applied-computing-lands-20m-to-expand-foundation-ai-for-energy/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Beacon Security, which offers an agentic security platform, raised a $13M seed and says it has “tens” of large enterprise customers including Cerebras",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/16/beacon-security-13-million-seed",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Ofcom opens an investigation into TikTok over Online Safety Act compliance, citing doubts about the effectiveness of age inference in determining users' ages",
+        "excerpt": "",
+        "url": "https://www.politico.eu/article/ofcom-investigates-tiktok-over-child-safety-measures/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Ofcom report: daily VPN users in the UK jumped to 2.2M, up from 1.2M before the introduction of laws enforcing age limits on pornography sites in July 2025",
+            "url": "https://www.ft.com/content/f2f77b53-f141-43b0-9ce4-94cf49819fba"
+          }
+        ]
+      },
+      {
+        "title": "Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/americas/brookfield-backed-csquare-prices-ipo-21-per-share-bloomberg-news-reports-2026-07-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The EU accepts X's plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/eu-accepts-action-plan-by-elon-musks-x-become-more-transparent-2026-07-15/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Vital Signals launches the $399 Signal Ring, which it says provides systolic and diastolic blood pressure readings as accurately as a traditional arm cuff",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-07-16/vital-signals-announces-399-signal-ring-that-gives-blood-pressure-readings?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDE5OTk4NSwiZXhwIjoxNzg0ODA0Nzg1LCJhcnRpY2xlSWQiOiJUSTlMOEtLSVVQUzIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eggs4rtcYwvIi8St_6NDmssTHxJuy2fkQulocDaWLHo",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Visa debuts the Visa Stablecoin Platform, an internal system to help its network of ~15K financial institutions and 200M+ merchants more easily use stablecoins",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/16/exclusive-visa-new-platform-stablecoin-services-200-million-merchants/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Ocado's stock drops 13%+, hitting a 13-year low, after it failed to show tangible progress in talks to secure new US partners for its warehouse automation tech",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/uks-ocado-says-talking-multiple-potential-partners-us-2026-07-16/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: AST SpaceMobile delays the launch of its satellite-to-phone service to 2027 after the Blue Origin mishap and plans to raise $1B in convertible notes",
+        "excerpt": "",
+        "url": "https://www.pcmag.com/news/ast-spacemobile-delays-service-launch-to-2027-eyes-acquisitions",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Beehiiv launches Community, which lets subscribers chat with each other, adds programmatic ads and an AI tool that helps creators manage their audiences",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/dhs-seizes-30-000-mobile-sim-cards-in-effort-to-stop-phone-fraud",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 57
+  }
+}

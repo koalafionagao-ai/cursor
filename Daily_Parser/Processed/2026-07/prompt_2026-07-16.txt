@@ -1,0 +1,234 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT-5.5, and plans to release model weights by July 27
+Tweets:
+  - Author: @emostaque
+    Text: US labs gonna end up distilling Chinese models
+    Link ID: TM-01-TW-01
+  - Author: @tszzl
+    Text: the era of the chinese labs being far behind is over, Kimi is at least on par with the modern public frontier models. people have to think differently now without any competitive margin built in
+    Link ID: TM-01-TW-02
+  - Author: @yuchenj_uw
+    Text: > Kimi K3 ranks only behind Claude Fable 5 Max and GPT-5.6 Sol Max, and surpasses Claude Opus 4.8 Max's score of 1600. I'm super excited for Kimi K3 to be open-sourced! [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Kimi-K3 is now #1 on the Frontend Code Arena benchmark, surpassing Claude Fable 5; the model scored 88.3 on Terminal Bench 2.1, only below GPT-5.6 Sol's 88.8
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: The EU issues two decisions under the DMA that order Google to provide rival AI assistants and search engines comparable access to Android and some Search data
+Tweets:
+  - Author: @hennavirkkunen
+    Text: Today, we issued 2 sets of binding specification measures to Google under the DMA. With these measures, we aim to support innovation & diversity in the EU by enabling fair competition in the markets for AI assistants on Android devices & search engines.  [image]
+    Link ID: TM-02-TW-01
+  - Author: @glenngabe
+    Text: Grab the popcorn.  This will be interesting :) I see Google using cybersecurity risks as a reason to not share.  We'll see
+    Link ID: TM-02-TW-02
+---
+ID: TM-03
+Title: Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake
+Tweets:
+  - Author: @niklasoestberg
+    Text: After 15 years of incredibly hard work, we're partnering with Uber in a transaction valuing Delivery Hero at €13bn! 🚀 Very proud of what the team has built, and excited for the future. [image]
+    Link ID: TM-03-TW-01
+  - Author: @capexandchill
+    Text: Dara confirmed Uber will continue to invest in organic growth, autonomous tech, and stock buybacks.  Some interesting aspects to Delivery Hero is their advertising business is highly developed, representing roughly 3% of its GMV, which is a higher penetration rate than Uber's current advertising business.  Uber plans to utilize Delivery Hero's advertising team and technology to optimize and expand its own high-margin ad tech division.  [video]
+    Link ID: TM-03-TW-02
+  - Author: @_balaji_km
+    Text: Our offer to acquire Delivery Hero exceeds the very high bar we set for M&A: a business that's ~10% of Uber's market cap, but adds ~20% to our trips and Gross Bookings and drives significant accretion post close.  For Delivery, the transaction is transformational, roughly doubling our trip volumes and increasing GBs by nearly 50%.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: TSMC reports Q2 revenue up 36% YoY to ~$39.45B, net income up 77.4% YoY to ~$21.9B, both above est., and says chips 7nm or smaller were 77% of its wafer revenue
+Sub Items:
+  - Title: A US official says TSMC plans to spend an additional $100B to build four US chip plants, bringing its total pledge to $265B as part of a broader US-Taiwan deal
+    Link ID: TM-04-SUB-01
+  - Title: TSMC raises its 2026 capex projection from $52B-$56B to $60B-$64B and its revenue growth projection in USD from 30%+ to 40%+ YoY, citing “the AI megatrend”
+    Link ID: TM-04-SUB-02
+---
+ID: TM-05
+Title: Netflix reports Q2 revenue up 13% YoY to $12.56B, vs. $12.59B est., and says it will give fewer engagement updates starting in 2027; NFLX drops 7%+ after hours
+Sub Items:
+  - Title: Netflix says roughly 300 titles used generative AI this year, mostly in post-production, “to deliver higher quality output more quickly and at a lower cost”
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: Sources: Apple is preparing new iPads, including an iPad mini with an OLED screen by October and refreshed entry-level iPads and iPad Airs for 2027
+---
+ID: TM-07
+Title: Sources: Google is months behind schedule on delivering Gemini 3.5 Pro as it tries to improve its capabilities, particularly in coding; GOOG closes down 4.43%
+---
+ID: TM-08
+Title: OnePlus confirms it will no longer operate in North America or Europe but will keep operating in China, while Realme, another Oppo sub-brand, will exit China
+---
+ID: TM-09
+Title: Trump Media plans to launch the Truth API on August 1, providing real-time data from trending Truth Social accounts to news organizations and trading firms
+---
+ID: TM-10
+Title: Filing: a Chinese luggage maker says a fund in which it invested deployed ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash
+Sub Items:
+  - Title: Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls
+    Link ID: TM-11-SUB-01
+---
+ID: TM-12
+Title: Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music
+---
+ID: TM-13
+Title: Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively
+---
+ID: TM-14
+Title: Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording
+---
+ID: TM-15
+Title: Google DeepMind and Isomorphic Labs launch a bioresilience program to leverage AI models for pathogen surveillance, vaccine design, and outbreak responses
+---
+ID: TM-16
+Title: After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk
+---
+ID: TM-17
+Title: Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox's models and open-source models
+---
+ID: TM-18
+Title: DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada
+---
+ID: TM-19
+Title: Meta will now notify parents if their teen discusses suicide or self-harm with Meta AI and will contact emergency services if a user might be at risk of suicide
+---
+ID: TM-20
+Title: Meta's Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta
+---
+ID: TM-21
+Title: China, Russia, Belarus, Serbia, Cuba, Brazil, Venezuela, and 22 other countries sign an agreement to create the World AI Cooperation Organization in Shanghai
+---
+ID: TM-22
+Title: 1Password launches a new Claude integration for macOS that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code
+---
+ID: TM-23
+Title: An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive “authors” proliferate
+---
+ID: TM-24
+Title: AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-25
+Title: xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users
+---
+ID: TM-26
+Title: A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo
+---
+
+[CATEGORY: REGULATION]
+ID: TM-27
+Title: Filings: Dario Amodei gave $1M in May to Public First, a super PAC advocating for AI safety regulations, seemingly his first seven-figure political donation
+---
+ID: TM-28
+Title: Demis Hassabis, Sam Altman, and Dario Amodei published memos in recent weeks that agree on an AI regulatory framework but disagree on the US government's role
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-29
+Title: A hacker claims to have accessed Suno's user info and source code, showing how it scraped music; Suno says no sensitive info was compromised in a November hack
+---
+ID: TM-30
+Title: The UK sentences two Scattered Spider members, who pled guilty to an August 2024 Transport for London cyberattack, to five and a half years in prison
+---
+
+[CATEGORY: ROBOTICS]
+ID: TM-31
+Title: Nvidia unveils Cosmos 3 Edge, a world model for robots and AI agents to perceive and navigate physical environments in real time, after Cosmos 3's debut in May
+---
+ID: TM-32
+Title: A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes
+---
+
+[CATEGORY: M&A]
+ID: TM-33
+Title: Hyundai says it will make Boston Dynamics a wholly owned subsidiary by acquiring SoftBank's ~10% stake; Hyundai acquired an 80% stake in Boston Dynamics in 2021
+---
+ID: TM-34
+Title: Filing: Elon Musk quietly bought Jacksonville, Florida-based APR Energy, which runs mobile gas and diesel turbines like those in Colossus 2, for an implied ~$1B
+---
+ID: TM-35
+Title: Source: PayPal's board sees Stripe and PE firm Advent International's $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-36
+Title: Fireworks, which helps developers access AI chips and open-source models, raised $1.5B at a $17.5B valuation and says it has exceeded $1B in annualized revenue
+---
+ID: TM-37
+Title: Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027
+---
+ID: TM-38
+Title: Crypto.com raised $400M from Citadel Securities in its first institutional funding round, valuing the Singapore-based crypto exchange at $20B
+---
+ID: TM-39
+Title: Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September
+---
+ID: TM-40
+Title: Alpaca, which offers brokerage and financial infrastructure, raised $135M in equity and $300M in debt, following a $150M Series D in January
+---
+ID: TM-41
+Title: Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures
+---
+ID: TM-42
+Title: Munich-based Microagi, which collects factory and household data to train humanoid robots, raised $55M led by Hummingbird in Germany's largest ever seed round
+---
+ID: TM-43
+Title: Sable, which is building an AI agent named Aiden that lives on a company's website to run live product demos and more, raised $45M from Sequoia and 8VC
+---
+ID: TM-44
+Title: Bunkerhill Health, which uses AI agents for hospital tasks like managing wait times, raised a $25M Series B led by Khosla, bringing its total funding to $55M
+---
+ID: TM-45
+Title: Runta, which provides isolated sandboxes and guardrails for AI agents to prevent operational risks, raised a $20M seed led by a16z at a $100M+ valuation
+---
+ID: TM-46
+Title: London-based Applied Computing, which is developing AI models for energy operations, raised $20M led by KBR, with participation from Databricks Ventures
+---
+ID: TM-47
+Title: Beacon Security, which offers an agentic security platform, raised a $13M seed and says it has “tens” of large enterprise customers including Cerebras
+---
+ID: TM-48
+Title: San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-49
+Title: Ofcom opens an investigation into TikTok over Online Safety Act compliance, citing doubts about the effectiveness of age inference in determining users' ages
+Sub Items:
+  - Title: Ofcom report: daily VPN users in the UK jumped to 2.2M, up from 1.2M before the introduction of laws enforcing age limits on pornography sites in July 2025
+    Link ID: TM-49-SUB-01
+---
+ID: TM-50
+Title: Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B
+---
+ID: TM-51
+Title: The EU accepts X's plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine
+---
+ID: TM-52
+Title: Vital Signals launches the $399 Signal Ring, which it says provides systolic and diastolic blood pressure readings as accurately as a traditional arm cuff
+---
+ID: TM-53
+Title: Visa debuts the Visa Stablecoin Platform, an internal system to help its network of ~15K financial institutions and 200M+ merchants more easily use stablecoins
+---
+ID: TM-54
+Title: Ocado's stock drops 13%+, hitting a 13-year low, after it failed to show tangible progress in talks to secure new US partners for its warehouse automation tech
+---
+ID: TM-55
+Title: Filing: AST SpaceMobile delays the launch of its satellite-to-phone service to 2027 after the Blue Origin mishap and plans to raise $1B in convertible notes
+---
+ID: TM-56
+Title: Beehiiv launches Community, which lets subscribers chat with each other, adds programmatic ads and an AI tool that helps creators manage their audiences
+---
+ID: TM-57
+Title: US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud
+---
