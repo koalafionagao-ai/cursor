@@ -1,0 +1,136 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years
+Tweets:
+  - Author: @mikeisaac
+    Text: imo can be read a few ways: meta is “overbuilding” data centers somewhat now for the future, but it doesnt have the demand that Anthropic does, so it leases compute until/IF that demand comes later —SpaceX did the same (other read is meta giving up, but i highly doubt that)
+    Link ID: TM-01-TW-01
+  - Author: @patrickmoorhead
+    Text: There's a long line of failed past $META B2B attempts.  The past doesn't always dictate the future but it's a good signal the culture doesn't fit.  Bringing a guy like Dave Brown in, similar to when Google brought in TK could be the difference-maker as long as they give Dave time, resources and autonomy.  Oh and enterprises are still pissed about the Llama rug-pull.  An easier route to start would be neocloud capabilities.
+    Link ID: TM-01-TW-02
+  - Author: @garymarcus
+    Text: basically this is meta shifting from frontier models to cloud provision, similar to xAI. scale is not all you need.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: Dave Brown, the outgoing SVP of AWS Compute, AI, and Platform, will join Meta in the coming weeks, where he will work on Meta's data center build-out
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an “injustice”
+Tweets:
+  - Author: @ablinken
+    Text: China understands that leadership in AI is not just about building the most capable models.  It is about shaping the rules, norms, and institutions that will govern how AI is developed and used around the world.  Xi Jinping's remarks today at the World Artificial Intelligence Conference in Shanghai are an important reminder that Beijing intends to lead on both fronts.  Beijing is moving with purpose, bringing nearly 30 countries along with it as signatories to a new China-backed AI organization, giving it a growing platform to shape international standards and extend its influence around the world.
+    Link ID: TM-02-TW-01
+  - Author: @adamthierer
+    Text: Xi's speech on AI strategy makes it clear that it's all about diffusion first / fastest for China.  Open sourcing is crucial component of that strategy.  Xi knows that means dominance for Chinese AI stack globally over U.S. if they can get the world hooked on their stack first vs America's.  Meanwhile, America imposes arbitrary model bans at federal level (and flirts with open source restrictions) while state governments pursue data center bans and 1,800+ other AI laws.  😒
+    Link ID: TM-02-TW-02
+  - Author: @signulll
+    Text: kinda hilarious xi is doing what zuck set out to do.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC
+Tweets:
+  - Author: @ldrogen
+    Text: Didn't the Supreme Court just rule that agencies basically couldn't make rules without Congress explicitly passing laws, and they want to just set up a whole agency to do exactly that?
+    Link ID: TM-03-TW-01
+Sub Items:
+  - Title: Source: Demis Hassabis plans to hold meetings with US policymakers in Washington next week about his proposed US-based Standards Body for “Frontier-class” AI
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, directing them to preserve documents and meet with its lawyers
+---
+ID: TM-05
+Title: The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high
+Sub Items:
+  - Title: US stocks of chip, memory, and storage makers fell sharply on Thursday; SNDK closed down 12.63%, STX 10%, Western Digital 9.15%, Intel 5.84%, and Micron 5.65%
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: Kimi K3 hype shouldn't alarm the US about “losing the AI race” to China; K3 is a good model but not frontier-level and likely lacks dangerous cyber capabilities
+Sub Items:
+  - Title: Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers
+    Link ID: TM-06-SUB-01
+---
+ID: TM-07
+Title: Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models
+---
+ID: TM-08
+Title: Sources: Apple and the DOJ are in early discussions about settling a 2024 antitrust lawsuit alleging that Apple violated antitrust laws
+---
+ID: TM-09
+Title: Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, citing rising licensing costs
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: San Francisco sends legal notices to Apple and Google, demanding they take down 13 AI apps used to make deepfake nude images; Google says it deleted five apps
+---
+ID: TM-11
+Title: Source: Microsoft plans to release an AI security tool this month that uses models from Anthropic, OpenAI, and itself, as a cost-effective alternative to Mythos
+---
+ID: TM-12
+Title: In an internal meeting, Satya Nadella criticized Claude Fable 5 for being “editorially controlled”, saying its refusal to do “any random thing” makes no sense
+---
+ID: TM-13
+Title: Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May
+---
+ID: TM-14
+Title: Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July
+---
+ID: TM-15
+Title: Memo: MLB bans the use of league-provided dugout iPads to access GenAI to help shape in-game strategy; sources say up to a third of teams used AI in this way
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-16
+Title: ASML plans to give its ~45K employees globally a €20K bonus, issued as a share award that vests in 2030, joining other chip industry companies offering payouts
+---
+ID: TM-17
+Title: Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage's offices in connection with a potential competition law violation
+---
+ID: TM-18
+Title: AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal to use inference-specific chips as collateral
+---
+ID: TM-19
+Title: Sources: Tata plans India's first large-scale chip fab, in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-20
+Title: Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump's posts, for banks, algorithmic traders, and others
+---
+ID: TM-21
+Title: Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-22
+Title: Sources: Coatue is leading a $3B investment in Databricks that values the data analytics software startup at $188B, a 40% increase from its December valuation
+---
+ID: TM-23
+Title: Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia
+---
+ID: TM-24
+Title: Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-25
+Title: Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen's depreciation against the US dollar over the past year
+---
+ID: TM-26
+Title: Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia's PIF, Silver Lake, and Affinity
+---
+ID: TM-27
+Title: Amazon apologizes after some AWS users received bills as high as $1.5T due to “an issue with unit pricing within the estimated billing computation subsystem”
+---
+ID: TM-28
+Title: Kalshi launches a biotech pilot, starting with 13 biotech contracts offering wagers on the outcomes of late-stage clinical drug trials and regulatory decisions
+---
+ID: TM-29
+Title: The Alphabet Workers Union sends a layoff protections petition with 4,500+ signatures to Sundar Pichai, calling for guaranteed severance, buyouts, and more
+---

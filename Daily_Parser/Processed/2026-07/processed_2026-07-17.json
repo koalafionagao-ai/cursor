@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-17",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 11,
+    "by_category": {
+      "cat:business": 8,
+      "cat:other": 2,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?unlocked_article_code=1.yVA.oj_I.ZImD_hW430Uc&smid=nytcore-ios-share&referringSource=articleShare",
+      "title": {
+        "zh": "消息称Meta计划向Anthropic出租数据中心算力，交易金额或达两年100亿美元",
+        "en": "Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "anthropic",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+      "title": {
+        "zh": "习近平在世界人工智能大会上倡导开源AI，承诺帮助全球南方建设AI能力",
+        "en": "At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an “injustice”"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models",
+      "title": {
+        "zh": "消息称特朗普政府考虑设立独立监管机构审查AI模型安全性",
+        "en": "Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-07",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4?st=n4LQjz&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "消息称SpaceX正与美国国防部洽谈提供数十亿美元的数据中心容量以运行AI模型",
+        "en": "Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-11",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/briefings/exclusive-microsoft-preps-mythos-like-ai-bug-finder",
+      "title": {
+        "zh": "消息称微软计划本月发布AI安全工具，整合Anthropic、OpenAI及自家模型",
+        "en": "Source: Microsoft plans to release an AI security tool this month that uses models from Anthropic, OpenAI, and itself, as a cost-effective alternative to Mythos"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "microsoft",
+        "anthropic",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/startup-openrouter-fields-multi-billion-dollar-takeover-interest",
+      "title": {
+        "zh": "消息称OpenRouter正与大型科技公司洽谈出售事宜，估值或达数十亿美元",
+        "en": "Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+      "title": {
+        "zh": "消息称Z.ai年经常性收入达10亿美元，成为首家实现此目标的中国AI公司",
+        "en": "Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "title": {
+        "zh": "AI推理初创公司General Compute获Upper90提供的4亿美元贷款",
+        "en": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal to use inference-specific chips as collateral"
+      },
+      "summary": {
+        "zh": "这是首次以推理专用芯片作为抵押的融资交易。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "inference",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/databricks-set-to-hit-188-billion-valuation-with-new-investment-from-coatue-9eda18d6?st=BV53zW",
+      "title": {
+        "zh": "消息称Coatue领投Databricks 30亿美元融资，估值达1880亿美元",
+        "en": "Sources: Coatue is leading a $3B investment in Databricks that values the data analytics software startup at $188B, a 40% increase from its December valuation"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "databricks",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?st=Pvmy5B&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "消息称AI推理芯片初创公司Etched以约200亿美元估值筹资",
+        "en": "Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia"
+      },
+      "summary": {
+        "zh": "该公司还在另一轮由红杉资本领投的融资中以100亿美元估值筹资。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "chip",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/kalshi-launches-platform-for-bets-on-biotech-trials-drug-approvals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDIwMzYwNiwiZXhwIjoxNzg0ODA4NDA2LCJhcnRpY2xlSWQiOiJUSFhBRDZLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJDQjhERDAxRjBGMEU0MkE1QkUyREM4NEU5MUUyRDAwRSJ9.uKgT498A7dtTuo1Pwabc8TFvEKIVcfMJxwhca72r270",
+      "title": {
+        "zh": "Kalshi 推出生物科技试点项目，提供13个药物试验和监管决策的合约投注",
+        "en": "Kalshi launches a biotech pilot, starting with 13 biotech contracts offering wagers on the outcomes of late-stage clinical drug trials and regulatory decisions"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

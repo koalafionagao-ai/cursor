@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-17",
+  "threshold": 7.0,
+  "total": 29,
+  "kept": 11,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Meta与Anthropic的计算能力租赁协议可能对AI行业产生重大影响"
+    },
+    {
+      "id": "TM-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "习近平在世界人工智能大会上的讲话可能影响全球AI政策和发展方向"
+    },
+    {
+      "id": "TM-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "特朗普政府考虑设立独立监管机构可能影响AI模型的安全性和合规性"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "苹果对前员工的法律警告可能影响OpenAI的人才流动和合作关系"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "股市波动与AI行业关联不大，信息量有限"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "对K3模型的评价虽有见解，但信息较为常规"
+    },
+    {
+      "id": "TM-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "SpaceX与DOD的谈判可能为AI模型提供重要基础设施支持"
+    },
+    {
+      "id": "TM-08",
+      "score": 5.0,
+      "keep": false,
+      "reason": "苹果与DOJ的反垄断诉讼讨论信息量有限，影响较小"
+    },
+    {
+      "id": "TM-09",
+      "score": 3.0,
+      "keep": false,
+      "reason": "苹果音乐价格上涨与AI行业关联不大，信息量较少"
+    },
+    {
+      "id": "TM-10",
+      "score": 6.0,
+      "keep": false,
+      "reason": "旧金山对深度伪造应用的法律行动可能影响AI应用的合规性"
+    },
+    {
+      "id": "TM-11",
+      "score": 8.0,
+      "keep": true,
+      "reason": "微软计划发布AI安全工具，可能对市场产生重要影响"
+    },
+    {
+      "id": "TM-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "纳德拉对Claude Fable 5的批评提供了一些产品洞察，但信息量有限"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenRouter潜在出售可能影响AI市场竞争格局"
+    },
+    {
+      "id": "TM-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Z.ai实现年度收入10亿美元标志着中国AI公司的重要里程碑"
+    },
+    {
+      "id": "TM-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "MLB禁止使用AI辅助决策可能影响体育行业对AI的接受度"
+    },
+    {
+      "id": "TM-16",
+      "score": 4.0,
+      "keep": false,
+      "reason": "ASML员工奖金与AI行业关联不大，信息量有限"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "南韩对中国芯片制造商的调查可能影响行业竞争环境"
+    },
+    {
+      "id": "TM-18",
+      "score": 7.0,
+      "keep": true,
+      "reason": "General Compute获得大额贷款可能推动AI推理芯片的发展"
+    },
+    {
+      "id": "TM-19",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Tata计划建设芯片厂的信息量一般，影响较小"
+    },
+    {
+      "id": "TM-20",
+      "score": 4.0,
+      "keep": false,
+      "reason": "特朗普媒体的API收费信息与AI行业关联不大，信息量有限"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "音乐出版商与X的和解信息量有限，影响较小"
+    },
+    {
+      "id": "TM-22",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Databricks获得大额投资可能影响数据分析软件市场"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Etched的融资信息显示AI推理芯片市场的活跃度"
+    },
+    {
+      "id": "TM-24",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Valar Atomics的融资计划可能影响数据中心的能源解决方案"
+    },
+    {
+      "id": "TM-25",
+      "score": 3.0,
+      "keep": false,
+      "reason": "苹果在日本的价格上涨与AI行业关联不大，信息量有限"
+    },
+    {
+      "id": "TM-26",
+      "score": 5.0,
+      "keep": false,
+      "reason": "涉及大型收购，但与 AI 直接相关性不强"
+    },
+    {
+      "id": "TM-27",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AWS 计费问题影响用户，反映云服务的潜在风险"
+    },
+    {
+      "id": "TM-28",
+      "score": 7.5,
+      "keep": true,
+      "reason": "推出生物技术合约，涉及新兴市场和应用场景"
+    },
+    {
+      "id": "TM-29",
+      "score": 5.0,
+      "keep": false,
+      "reason": "工会活动与 AI 直接关系不大，信息量有限"
+    }
+  ]
+}

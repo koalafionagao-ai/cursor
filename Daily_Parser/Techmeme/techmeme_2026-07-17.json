@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-17",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?unlocked_article_code=1.yVA.oj_I.ZImD_hW430Uc&smid=nytcore-ios-share&referringSource=articleShare",
+        "tweets": [
+          {
+            "author": "@mikeisaac",
+            "text": "imo can be read a few ways: meta is “overbuilding” data centers somewhat now for the future, but it doesnt have the demand that Anthropic does, so it leases compute until/IF that demand comes later —SpaceX did the same (other read is meta giving up, but i highly doubt that)",
+            "url": "https://x.com/mikeisaac/status/2078158967856099575"
+          },
+          {
+            "author": "@patrickmoorhead",
+            "text": "There's a long line of failed past $META B2B attempts.  The past doesn't always dictate the future but it's a good signal the culture doesn't fit.  Bringing a guy like Dave Brown in, similar to when Google brought in TK could be the difference-maker as long as they give Dave time, resources and autonomy.  Oh and enterprises are still pissed about the Llama rug-pull.  An easier route to start would be neocloud capabilities.",
+            "url": "https://x.com/patrickmoorhead/status/2078123387168112862"
+          },
+          {
+            "author": "@garymarcus",
+            "text": "basically this is meta shifting from frontier models to cloud provision, similar to xAI. scale is not all you need.",
+            "url": "https://x.com/garymarcus/status/2078182761039606254"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: Dave Brown, the outgoing SVP of AWS Compute, AI, and Platform, will join Meta in the coming weeks, where he will work on Meta's data center build-out",
+            "url": "https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b?st=CR7VHS&reflink=desktopwebshare_permalink"
+          }
+        ]
+      },
+      {
+        "title": "At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an “injustice”",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-promotes-chinas-commitment-ai-access-speech-shanghai-conference-2026-07-17/",
+        "tweets": [
+          {
+            "author": "@ablinken",
+            "text": "China understands that leadership in AI is not just about building the most capable models.  It is about shaping the rules, norms, and institutions that will govern how AI is developed and used around the world.  Xi Jinping's remarks today at the World Artificial Intelligence Conference in Shanghai are an important reminder that Beijing intends to lead on both fronts.  Beijing is moving with purpose, bringing nearly 30 countries along with it as signatories to a new China-backed AI organization, giving it a growing platform to shape international standards and extend its influence around the world.",
+            "url": "https://x.com/ablinken/status/2078183113193103407"
+          },
+          {
+            "author": "@adamthierer",
+            "text": "Xi's speech on AI strategy makes it clear that it's all about diffusion first / fastest for China.  Open sourcing is crucial component of that strategy.  Xi knows that means dominance for Chinese AI stack globally over U.S. if they can get the world hooked on their stack first vs America's.  Meanwhile, America imposes arbitrary model bans at federal level (and flirts with open source restrictions) while state governments pursue data center bans and 1,800+ other AI laws.  😒",
+            "url": "https://x.com/adamthierer/status/2077982451016544467"
+          },
+          {
+            "author": "@signulll",
+            "text": "kinda hilarious xi is doing what zuck set out to do.",
+            "url": "https://x.com/signulll/status/2077895181530005912"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models",
+        "tweets": [
+          {
+            "author": "@ldrogen",
+            "text": "Didn't the Supreme Court just rule that agencies basically couldn't make rules without Congress explicitly passing laws, and they want to just set up a whole agency to do exactly that?",
+            "url": "https://x.com/ldrogen/status/2078250895335465278"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Source: Demis Hassabis plans to hold meetings with US policymakers in Washington next week about his proposed US-based Standards Body for “Frontier-class” AI",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models"
+          }
+        ]
+      },
+      {
+        "title": "Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, directing them to preserve documents and meet with its lawyers",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?accessToken=zwAAAZ9wEPuRkc8bjJ1SiKlCa9O6R_GBH4WRZg.MEUCIQCoSUBpIEqKek9TrcwKQBp_7afZ_jZMZYeZyFtJaoBP7QIgM1lcM_BEt-TToETRmTLPe7TiP8wTomzdyPY23n9w93g&sharetype=gift&token=586e2bac-20f5-4099-b04c-68fa85a834d4&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "US stocks of chip, memory, and storage makers fell sharply on Thursday; SNDK closed down 12.63%, STX 10%, Western Digital 9.15%, Intel 5.84%, and Micron 5.65%",
+            "url": "https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b"
+          }
+        ]
+      },
+      {
+        "title": "Kimi K3 hype shouldn't alarm the US about “losing the AI race” to China; K3 is a good model but not frontier-level and likely lacks dangerous cyber capabilities",
+        "excerpt": "",
+        "url": "https://www.transformernews.ai/p/kimi-k3-is-no-reason-for-china-panic-export-controls-xi-jingping",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers",
+            "url": "https://x.com/gavinsbaker/status/2078110934740980193"
+          }
+        ]
+      },
+      {
+        "title": "Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4?st=n4LQjz&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple and the DOJ are in early discussions about settling a 2024 antitrust lawsuit alleging that Apple violated antitrust laws",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDMwNzM0NiwiZXhwIjoxNzg0OTEyMTQ2LCJhcnRpY2xlSWQiOiJUSUJRTzdUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bMDdu17gg2nYwZAlFVuUynehI5maJLkPD1G25ykzKN4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, citing rising licensing costs",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "San Francisco sends legal notices to Apple and Google, demanding they take down 13 AI apps used to make deepfake nude images; Google says it deleted five apps",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Microsoft plans to release an AI security tool this month that uses models from Anthropic, OpenAI, and itself, as a cost-effective alternative to Mythos",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/exclusive-microsoft-preps-mythos-like-ai-bug-finder",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In an internal meeting, Satya Nadella criticized Claude Fable 5 for being “editorially controlled”, saying its refusal to do “any random thing” makes no sense",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/startup-openrouter-fields-multi-billion-dollar-takeover-interest",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: MLB bans the use of league-provided dugout iPads to access GenAI to help shape in-game strategy; sources say up to a third of teams used AI in this way",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/?campaign=18999475",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "ASML plans to give its ~45K employees globally a €20K bonus, issued as a share award that vests in 2030, joining other chip industry companies offering payouts",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage's offices in connection with a potential competition law violation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/asia-pacific/south-korea-searches-chinese-chipmaker-montage-technologys-office-competition-2026-07-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal to use inference-specific chips as collateral",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Tata plans India's first large-scale chip fab, in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-17/tata-group-resorts-to-older-tech-to-launch-its-chip-foray",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump's posts, for banks, algorithmic traders, and others",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/trump-media-pitched-100000-monthly-fee-fast-feed-us-presidents-posts-ft-reports-2026-07-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/musks-x-major-labels-end-dispute-over-music-social-media-platform-2026-07-17/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Sources: Coatue is leading a $3B investment in Databricks that values the data analytics software startup at $188B, a 40% increase from its December valuation",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/databricks-set-to-hit-188-billion-valuation-with-new-investment-from-coatue-9eda18d6?st=BV53zW",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?st=Pvmy5B&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/nuclear-startup-valar-atomics-talks-6-billion-valuation-power-milestone",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen's depreciation against the US dollar over the past year",
+        "excerpt": "",
+        "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia's PIF, Silver Lake, and Affinity",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/saudi-pif-set-win-eu-nod-electronic-arts-deal-under-subsidy-rules-sources-say-2026-07-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon apologizes after some AWS users received bills as high as $1.5T due to “an issue with unit pricing within the estimated billing computation subsystem”",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Kalshi launches a biotech pilot, starting with 13 biotech contracts offering wagers on the outcomes of late-stage clinical drug trials and regulatory decisions",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-16/kalshi-launches-platform-for-bets-on-biotech-trials-drug-approvals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDIwMzYwNiwiZXhwIjoxNzg0ODA4NDA2LCJhcnRpY2xlSWQiOiJUSFhBRDZLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJDQjhERDAxRjBGMEU0MkE1QkUyREM4NEU5MUUyRDAwRSJ9.uKgT498A7dtTuo1Pwabc8TFvEKIVcfMJxwhca72r270",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Alphabet Workers Union sends a layoff protections petition with 4,500+ signatures to Sundar Pichai, calling for guaranteed severance, buyouts, and more",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 6,
+    "news_count": 29
+  }
+}
