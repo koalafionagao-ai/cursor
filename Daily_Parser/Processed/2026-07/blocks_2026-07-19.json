@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-19",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach",
+      "excerpt": "",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it “open-weight soon”",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Moonshot AI pauses new subscriptions, saying that over the past two days Kimi K3 demand nearly passed the limit of its capacity, and also reworks its plan tiers",
+      "excerpt": "",
+      "url": "https://x.com/kimi_moonshot/status/2078855608565207130",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html?unlocked_article_code=1.y1A.plT-.cD3kDKUGV_iF&smid=nytcore-ios-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users",
+      "excerpt": "",
+      "url": "https://x.com/claudeai/status/2078302415804379218",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Grassroots org HumansFirst says it organized 142 protests across 42 US states on July 18 against what it calls the “unaccountable” buildout of data centers",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/gamestop-owns-nearly-10-ebay-sec-filing-shows-2026-07-17/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Sources: CIA operative Jonny Gannon spied on G42 to probe its China ties and helped the UAE gain expanded access to US AI chips by allaying US suspicions",
+      "excerpt": "",
+      "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8?st=qDoeX2",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Sources: Apple is piloting a system in Apple Stores called Live Notes that lets Genius Bar staff make transcripts and summaries of conversations with customers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDQ2OTYyNiwiZXhwIjoxNzg1MDc0NDI2LCJhcnRpY2xlSWQiOiJUSUZESzFSS1YyVFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IG2PBLMmU1QQByQ5dhBN_Z6f0399C-thOsFlWDfStR4",
+      "section": "top news"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025",
+      "excerpt": "",
+      "url": "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "As many companies cut AI costs by using cheaper models, some, like Shopify, go all-in on frontier models, barring engineers from using anything else",
+      "excerpt": "",
+      "url": "https://www.wsj.com/cio-journal/meet-the-companies-shelling-out-for-top-ai-models-e1fe3375?st=Jw5Cz6&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "China's National Data Administration says the country's daily AI token consumption hit 140T in March 2026, up from 100T in December 2025 and 100B in early 2024",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360956/chinas-tech-giants-fuel-rise-ai-tokens-new-corporate-currency",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Sources: China's National AI Industry Investment Fund gained voting rights in DeepSeek by joining its $7.4B round; other investors like Tencent and JD got none",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/deepseek-champions-china-s-bid-to-flood-the-world-with-cheap-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDI2NDMyNiwiZXhwIjoxNzg0ODY5MTI2LCJhcnRpY2xlSWQiOiJUSTZVRU1LSkg2VjYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.F39uhk8f7UNJ5I6EfvplSu-AhbnY062e-yTK5xKXHqE",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?accessToken=zwAAAZ9v0cDCkc9suVcL3M1G9dO0Kk0Le13jWg.MEYCIQDUUk_ROkS4sxvwh6RIvxaw-znfvHaWPhx-RFbdIuQmrQIhAPGfllW5pP_9_Nyh_DZ4a7pwghwXz5gv6XZmw3dh3Z-v&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=d7e1b744-215a-4a84-9768-1a35f16132eb&shareType=enterprise&syn-25a6b1a6=1",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "How the Trump administration shifted from a “light-touch” approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/trumps-ai-agenda-collides-reality",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "A look at AI's potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims",
+      "excerpt": "",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that's funding open, public AI infrastructure",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "China's BrainCo unveils what it says is the world's first integrated “brain-to-robot” platform that lets users control robots using an EEG headset",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360893/brainco-unveils-brain-controlled-robot-platform-chinas-world-ai-conference",
+      "section": "robotics"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Japan plans to buy 27,500 Nvidia Rubin chips to develop a domestic AI foundation model for robots, in a Noetra-led effort that includes SoftBank, Sony, and NEC",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots",
+      "section": "robotics"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding, including a recently completed Series A",
+      "excerpt": "",
+      "url": "https://fintech.global/2026/07/15/feathery-lands-30m-to-rewire-financial-services-workflows/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "London-based Risk Ledger, which helps organizations manage supply chain cyber risks, raised a £24M Series B led by Axiom Equity, taking total funding to £33.8M",
+      "excerpt": "",
+      "url": "https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona",
+      "excerpt": "",
+      "url": "https://www.geekwire.com/2026/apptio-co-founders-reunite-to-launch-enterprise-ai-startup-thira-with-21m-in-funding-led-by-madrona/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Analysis finds 60+ “jacket apps” on the App Store disguised as simple games and utilities that become gambling apps when accessed from Brazilian IP addresses",
+      "excerpt": "",
+      "url": "https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Big US pizza delivery chains are struggling as apps such as DoorDash and Uber Eats give independent pizzerias and other restaurants greater market access",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/rk71zhxeml",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "A review of Microsoft's 13-inch Surface Laptop shows 8GB of RAM is not enough for a good Windows 11 experience; PC makers have unveiled upcoming 8GB laptops",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlkyTktjVHcwZ3MiLCJwIjoiL3RlY2gvOTY2OTM3L21pY3Jvc29mdC1zdXJmYWNlLWxhcHRvcC0xMy1pbmNoLThnYi1yYW0tMjAyNi1yZXZpZXciLCJleHAiOjE3ODQ3MzIwNzUsImlhdCI6MTc4NDMwMDA3Nn0.S4TrpUbDpShs75kJD_BALFFfDRCxeJ-7kjQjDiSnLKI&utm_medium=gift-link",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Permit hurdles push up costs for AI data centers; Oracle pivoted from gas turbines to costlier fuel cells for its Project Jupiter in NM, costing billions more",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/exclusive-oracle-data-centers-face-multibillion-dollar-cost-surprises",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Alibaba open-sources its chip software, following similar plays from Huawei and Moore Threads, as Chinese GPU makers try to break the dominance of Nvidia's CUDA",
+      "excerpt": "",
+      "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO",
+      "excerpt": "",
+      "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "A profile of businessman Sebastian Rucci, whose past ventures were subject to legal probes, as he bids to build California's biggest data center, a $10B project",
+      "excerpt": "",
+      "url": "https://www.wsj.com/us-news/he-ran-a-strip-club-now-he-wants-to-build-californias-biggest-data-center-2135e916?st=c1kKfY&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    }
+  ]
+}

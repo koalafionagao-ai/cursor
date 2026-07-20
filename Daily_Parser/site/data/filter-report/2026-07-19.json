@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-19",
+  "threshold": 7.0,
+  "total": 31,
+  "kept": 13,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Hugging Face 数据泄露事件涉及内部安全和 AI 系统的实际应用，具有重要行业影响。"
+    },
+    {
+      "id": "TM-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "阿里巴巴发布的 2.4T 参数模型可能改变市场格局，值得关注。"
+    },
+    {
+      "id": "TM-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 Kimi K3 的需求和订阅暂停的信息较为常规。"
+    },
+    {
+      "id": "TM-04",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不大，主要涉及博彩数据。"
+    },
+    {
+      "id": "TM-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Claude Fable 5 的计划更新有一定信息量，但较为常规。"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "抗议活动与 AI 直接关联不强，信息量有限。"
+    },
+    {
+      "id": "TM-07",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关联不大，主要涉及股权和收购。"
+    },
+    {
+      "id": "TM-08",
+      "score": 0.0,
+      "keep": false,
+      "reason": "与 AI 关联不大，主要涉及政治和政策。"
+    },
+    {
+      "id": "TM-09",
+      "score": 7.0,
+      "keep": true,
+      "reason": "CIA 监视事件涉及国家安全与 AI 芯片的关系，值得关注。"
+    },
+    {
+      "id": "TM-10",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Apple 的新系统更新信息量一般，未涉及重大创新。"
+    },
+    {
+      "id": "TM-11",
+      "score": 7.0,
+      "keep": true,
+      "reason": "关于开放模型与封闭模型的能力差距分析，提供了有价值的行业洞察。"
+    },
+    {
+      "id": "TM-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于公司 AI 成本策略的讨论有一定信息量，但较为常规。"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于中国 AI 代币消费的数据更新信息量一般。"
+    },
+    {
+      "id": "TM-14",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国国家 AI 投资基金的投资动态可能影响行业格局，值得关注。"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI 对入门级专业服务工作的影响，涉及行业变革，具有重要意义。"
+    },
+    {
+      "id": "TM-16",
+      "score": 9.0,
+      "keep": true,
+      "reason": "特朗普政府对 AI 政策的重大转变可能影响未来行业发展，值得关注。"
+    },
+    {
+      "id": "TM-17",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 AI 在医疗保险决策中的潜在影响，信息量一般。"
+    },
+    {
+      "id": "TM-18",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Current AI 的资金支持和目标对公共 AI 基础设施的发展具有重要意义。"
+    },
+    {
+      "id": "TM-19",
+      "score": 8.0,
+      "keep": true,
+      "reason": "BrainCo 的脑控机器人平台可能引领新技术潮流，值得关注。"
+    },
+    {
+      "id": "TM-20",
+      "score": 9.0,
+      "keep": true,
+      "reason": "日本计划购买大量 Nvidia 芯片以发展国内 AI 基础模型，具有战略意义。"
+    },
+    {
+      "id": "TM-21",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Feathery 的融资信息较为常规，未涉及重大创新。"
+    },
+    {
+      "id": "TM-22",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Risk Ledger 的融资信息有一定价值，但较为常规。"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Thira 的融资和目标涉及 AI 应用，值得关注。"
+    },
+    {
+      "id": "TM-24",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于应用商店的分析与 AI 关联不强，信息量有限。"
+    },
+    {
+      "id": "TM-25",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关联不大，主要涉及市场竞争。"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Cribl收购CardinalOps，涉及AI威胁检测工具，显示出数据基础设施领域的战略整合趋势。"
+    },
+    {
+      "id": "TM-27",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于Surface Laptop的评测信息较常规，缺乏对AI从业者的直接价值。"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "讨论AI数据中心成本上升的因素，提供了一定的行业洞察。"
+    },
+    {
+      "id": "TM-29",
+      "score": 9.0,
+      "keep": true,
+      "reason": "阿里巴巴开源芯片软件，标志着中国GPU制造商在打破Nvidia主导地位方面的重要举措。"
+    },
+    {
+      "id": "TM-30",
+      "score": 5.0,
+      "keep": false,
+      "reason": "分析AI公司员工捐款行为，信息量一般，未提供深刻洞察。"
+    },
+    {
+      "id": "TM-31",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Sebastian Rucci的个人资料，信息较为常规，缺乏行业深度。"
+    }
+  ]
+}

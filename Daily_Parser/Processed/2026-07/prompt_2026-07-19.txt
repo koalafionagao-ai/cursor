@@ -1,0 +1,140 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach
+Tweets:
+  - Author: @0x4d31
+    Text: this is backwards “cyber safety”: attackers use unrestricted models, while defenders (already slower) get blocked from analysing the attack itself. “trusted access” gatekeeping only works while capability stays gated. Kimi K3 should be the wake-up call.  [image]
+    Link ID: TM-01-TW-01
+  - Author: @beffjezos
+    Text: Deceleration makes us all unsafe. If only a few “approved” orgs can have access to American frontier for Cyber defense, and little tech is left hanging/ having to use Chinese models, we are all far worse off. Enough.
+    Link ID: TM-01-TW-02
+  - Author: @brianroemmele
+    Text: ...HF deserves credit for rapid containment, transparent disclosure, and for already having self-hosted capability in place.  They also used LLM-driven detection and triage on their own side.  But the deeper signal is clear: In this AI world where both offense and defense are becoming agentic, sovereignty over your intelligence stack is no longer optional.  The organizations and individuals who can run, inspect, audit, and (when necessary) remove guardrails on their own models will have the decisive edge in understanding and responding to threats that move at machine speed.
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it “open-weight soon”
+Tweets:
+  - Author: @alibaba_qwen
+    Text: ...We believe it's one of the most powerful model available today, compatible to leading frontier AI models , second only to Fable 5.  You don't have to wait to test it.  Just now, the Qwen3.8-Max-Preview made its debut on Alibaba's Token Plan, Qoder, and QoderWork.  [image]
+    Link ID: TM-02-TW-01
+  - Author: @yuchenj_uw
+    Text: Open weights models really accelerated!  > Qwen-3.8 (2.4T), “second only to Fable 5” > Kimi-K3 (2.8T), “only behind Claude Fable 5 Max and GPT-5.6 Sol Max” > GLM-5.2 (753B): remarkably efficient and capable.  The demand we're seeing from Databricks customers is wild.  This is super exciting.
+    Link ID: TM-02-TW-02
+  - Author: @natolambert
+    Text: Qwen's biggest models have never been open weight recently.  Something is changing.  You can imagine it like... Xi: no you're not allowed to keep your best model closed anymore, we weren't succeeding enough.  A new era of competition for intelligence (if the benchmarks hold up).
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Moonshot AI pauses new subscriptions, saying that over the past two days Kimi K3 demand nearly passed the limit of its capacity, and also reworks its plan tiers
+Tweets:
+  - Author: @patrickmoorhead
+    Text: Wait, you mean that alternative models with a few superior metrics need more infrastructure to support the inference demand? No way!!!! 😉
+    Link ID: TM-03-TW-01
+  - Author: @natolambert
+    Text: Huawei about the get a blank check from the government to make inference chips
+    Link ID: TM-03-TW-02
+Sub Items:
+  - Title: Sources: Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO in as early as six months; its ARR hit $300M in June, up from $200M in April
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June
+Sub Items:
+  - Title: Prediction market political betting on insider info spreads in DC; sources: WH lawyers raised alarms over anonymous Polymarket bets on the Iran ceasefire timing
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users
+---
+ID: TM-06
+Title: Grassroots org HumansFirst says it organized 142 protests across 42 US states on July 18 against what it calls the “unaccountable” buildout of data centers
+---
+ID: TM-07
+Title: SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected
+---
+ID: TM-08
+Title: UK's incoming PM Andy Burnham is expected to scrap Keir Starmer's plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures
+---
+ID: TM-09
+Title: Sources: CIA operative Jonny Gannon spied on G42 to probe its China ties and helped the UAE gain expanded access to US AI chips by allaying US suspicions
+---
+ID: TM-10
+Title: Sources: Apple is piloting a system in Apple Stores called Live Notes that lets Genius Bar staff make transcripts and summaries of conversations with customers
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025
+---
+ID: TM-12
+Title: As many companies cut AI costs by using cheaper models, some, like Shopify, go all-in on frontier models, barring engineers from using anything else
+---
+ID: TM-13
+Title: China's National Data Administration says the country's daily AI token consumption hit 140T in March 2026, up from 100T in December 2025 and 100B in early 2024
+---
+ID: TM-14
+Title: Sources: China's National AI Industry Investment Fund gained voting rights in DeepSeek by joining its $7.4B round; other investors like Tencent and JD got none
+---
+ID: TM-15
+Title: AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles
+---
+ID: TM-16
+Title: How the Trump administration shifted from a “light-touch” approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US
+---
+ID: TM-17
+Title: A look at AI's potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims
+---
+ID: TM-18
+Title: A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that's funding open, public AI infrastructure
+---
+
+[CATEGORY: ROBOTICS]
+ID: TM-19
+Title: China's BrainCo unveils what it says is the world's first integrated “brain-to-robot” platform that lets users control robots using an EEG headset
+---
+ID: TM-20
+Title: Japan plans to buy 27,500 Nvidia Rubin chips to develop a domestic AI foundation model for robots, in a Noetra-led effort that includes SoftBank, Sony, and NEC
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-21
+Title: Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding, including a recently completed Series A
+---
+ID: TM-22
+Title: London-based Risk Ledger, which helps organizations manage supply chain cyber risks, raised a £24M Series B led by Axiom Equity, taking total funding to £33.8M
+---
+ID: TM-23
+Title: Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-24
+Title: Analysis finds 60+ “jacket apps” on the App Store disguised as simple games and utilities that become gambling apps when accessed from Brazilian IP addresses
+---
+ID: TM-25
+Title: Big US pizza delivery chains are struggling as apps such as DoorDash and Uber Eats give independent pizzerias and other restaurants greater market access
+---
+ID: TM-26
+Title: Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M
+---
+ID: TM-27
+Title: A review of Microsoft's 13-inch Surface Laptop shows 8GB of RAM is not enough for a good Windows 11 experience; PC makers have unveiled upcoming 8GB laptops
+---
+ID: TM-28
+Title: Permit hurdles push up costs for AI data centers; Oracle pivoted from gas turbines to costlier fuel cells for its Project Jupiter in NM, costing billions more
+---
+ID: TM-29
+Title: Alibaba open-sources its chip software, following similar plays from Huawei and Moore Threads, as Chinese GPU makers try to break the dominance of Nvidia's CUDA
+---
+ID: TM-30
+Title: Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO
+---
+ID: TM-31
+Title: A profile of businessman Sebastian Rucci, whose past ventures were subject to legal probes, as he bids to build California's biggest data center, a $10B project
+---

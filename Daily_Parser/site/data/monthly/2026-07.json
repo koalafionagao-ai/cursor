@@ -114,9 +114,16 @@
       "sources": [
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-07-19",
+      "total": 13,
+      "sources": [
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 273,
+  "item_count": 286,
   "items": [
     {
       "id": "TM-01",
@@ -7596,6 +7603,367 @@
       "entity_tags": [],
       "category_tag": "cat:business",
       "date": "2026-07-17"
+    },
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "title": {
+        "zh": "Hugging Face称其数据管道被具备代理能力的AI系统入侵",
+        "en": "Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach"
+      },
+      "summary": {
+        "zh": "Hugging Face表示，一个具备代理能力的AI系统入侵了其数据管道，访问了多个内部集群和凭据，但其基于AI的分诊系统检测到了此次入侵。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "huggingface",
+        "agent",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "huggingface",
+        "agent",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+      "title": {
+        "zh": "阿里巴巴推出2.4万亿参数的Qwen3.8 Max预览版",
+        "en": "Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it “open-weight soon”"
+      },
+      "summary": {
+        "zh": "阿里巴巴发布了Qwen3.8 Max预览版，号称其性能可与前沿AI模型竞争，仅次于Fable 5，并计划很快开源其权重。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "alibaba",
+        "qwen",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "alibaba",
+        "qwen",
+        "open-weights"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8?st=qDoeX2",
+      "title": {
+        "zh": "消息称CIA特工调查G42与中国的关系并协助阿联酋获取AI芯片",
+        "en": "Sources: CIA operative Jonny Gannon spied on G42 to probe its China ties and helped the UAE gain expanded access to US AI chips by allaying US suspicions"
+      },
+      "summary": {
+        "zh": "消息人士透露，CIA特工Jonny Gannon调查了G42与中国的关系，并帮助阿联酋通过缓解美国的疑虑来扩大对美国AI芯片的访问权限。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "chip"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber",
+      "title": {
+        "zh": "分析：开源模型的网络能力落后于前沿闭源模型4到7个月",
+        "en": "Analysis: recent open weight models lag frontier closed models' cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025"
+      },
+      "summary": {
+        "zh": "分析显示，近期开源权重模型在网络能力方面落后于前沿闭源模型4到7个月，这一差距比2025年大部分时间的6到10个月有所缩小。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "open-weights",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-weights",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/deepseek-champions-china-s-bid-to-flood-the-world-with-cheap-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDI2NDMyNiwiZXhwIjoxNzg0ODY5MTI2LCJhcnRpY2xlSWQiOiJUSTZVRU1LSkg2VjYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.F39uhk8f7UNJ5I6EfvplSu-AhbnY062e-yTK5xKXHqE",
+      "title": {
+        "zh": "中国国家AI产业投资基金通过加入DeepSeek的74亿美元融资获得投票权",
+        "en": "Sources: China's National AI Industry Investment Fund gained voting rights in DeepSeek by joining its $7.4B round; other investors like Tencent and JD got none"
+      },
+      "summary": {
+        "zh": "消息称，中国国家AI产业投资基金通过参与DeepSeek的74亿美元融资获得了投票权，而其他投资者如腾讯和京东则未获得。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "tencent",
+        "deepseek",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "tencent",
+        "deepseek",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?accessToken=zwAAAZ9v0cDCkc9suVcL3M1G9dO0Kk0Le13jWg.MEYCIQDUUk_ROkS4sxvwh6RIvxaw-znfvHaWPhx-RFbdIuQmrQIhAPGfllW5pP_9_Nyh_DZ4a7pwghwXz5gv6XZmw3dh3Z-v&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=d7e1b744-215a-4a84-9768-1a35f16132eb&shareType=enterprise&syn-25a6b1a6=1",
+      "title": {
+        "zh": "AI正在重塑入门级专业服务工作",
+        "en": "AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles"
+      },
+      "summary": {
+        "zh": "公司正在重新设计招聘、培训和工作文化，而不是简单地削减初级职位，AI正在改变入门级专业服务工作的面貌。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "enterprise"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/trumps-ai-agenda-collides-reality",
+      "title": {
+        "zh": "特朗普政府如何从“轻触”AI政策转向干预主义立场",
+        "en": "How the Trump administration shifted from a “light-touch” approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US"
+      },
+      "summary": {
+        "zh": "分析特朗普政府如何从宽松的AI政策转向干预主义立场，最终导致对美国顶尖AI模型的限制。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "title": {
+        "zh": "非营利组织Current AI获得4亿美元承诺资金支持",
+        "en": "A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that's funding open, public AI infrastructure"
+      },
+      "summary": {
+        "zh": "非营利组织Current AI获得包括法国1亿美元在内的多方合作伙伴的4亿美元承诺资金，用于资助开放的公共AI基础设施。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "funding",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "funding",
+        "open-source"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360893/brainco-unveils-brain-controlled-robot-platform-chinas-world-ai-conference",
+      "title": {
+        "zh": "中国BrainCo推出全球首个脑控机器人平台",
+        "en": "China's BrainCo unveils what it says is the world's first integrated “brain-to-robot” platform that lets users control robots using an EEG headset"
+      },
+      "summary": {
+        "zh": "BrainCo发布了全球首个集成的“脑控机器人”平台，用户可通过脑电图（EEG）头戴设备控制机器人。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots",
+      "title": {
+        "zh": "日本计划购买27,500颗Nvidia Rubin芯片开发AI基础模型",
+        "en": "Japan plans to buy 27,500 Nvidia Rubin chips to develop a domestic AI foundation model for robots, in a Noetra-led effort that includes SoftBank, Sony, and NEC"
+      },
+      "summary": {
+        "zh": "日本计划购买27,500颗Nvidia Rubin芯片，用于开发国内的机器人AI基础模型，此项目由Noetra牵头，软银、索尼和NEC参与。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "softbank",
+        "sony",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "softbank",
+        "sony",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.geekwire.com/2026/apptio-co-founders-reunite-to-launch-enterprise-ai-startup-thira-with-21m-in-funding-led-by-madrona/",
+      "title": {
+        "zh": "AI 创业公司 Thira 获得 2100 万美元种子轮融资，专注于开发处理后台任务的 AI 代理",
+        "en": "Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona"
+      },
+      "summary": {
+        "zh": "Thira 由 Apptio 联合创始人创立，专注于开发用于 IT 支持等后台任务的 AI 代理，融资由 Madrona 领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.calcalistech.com/ctechnews/article/rk71zhxeml",
+      "title": {
+        "zh": "数据基础设施初创公司 Cribl 收购 AI 威胁检测工具公司 CardinalOps",
+        "en": "Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M"
+      },
+      "summary": {
+        "zh": "CardinalOps 曾筹集 4000 万美元，据消息称此次收购金额约为 1 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "acquisition",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "acquisition",
+        "startup"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-19"
+    },
+    {
+      "id": "TM-29",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack",
+      "title": {
+        "zh": "阿里巴巴开源芯片软件，助力中国 GPU 厂商打破 Nvidia CUDA 的主导地位",
+        "en": "Alibaba open-sources its chip software, following similar plays from Huawei and Moore Threads, as Chinese GPU makers try to break the dominance of Nvidia's CUDA"
+      },
+      "summary": {
+        "zh": "阿里巴巴跟随华为和摩尔线程的脚步，开源其芯片软件，旨在推动中国 GPU 行业的技术自主。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "alibaba",
+        "open-source",
+        "chip",
+        "gpu"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "alibaba",
+        "open-source",
+        "chip",
+        "gpu"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-19"
     }
   ],
   "tag_index": {
@@ -7673,7 +8041,10 @@
       "2026-07-15:TM-20",
       "2026-07-15:TM-55",
       "2026-07-17:TM-18",
-      "2026-07-17:TM-23"
+      "2026-07-17:TM-23",
+      "2026-07-19:TM-09",
+      "2026-07-19:TM-20",
+      "2026-07-19:TM-29"
     ],
     "palantir": [
       "2026-07-01:TM-08"
@@ -7691,7 +8062,8 @@
       "2026-07-14:TM-17",
       "2026-07-15:TM-12",
       "2026-07-15:TM-14",
-      "2026-07-16:TM-31"
+      "2026-07-16:TM-31",
+      "2026-07-19:TM-20"
     ],
     "policy": [
       "2026-07-01:TM-08",
@@ -7735,16 +8107,20 @@
       "2026-07-16:TM-28",
       "2026-07-16:TM-51",
       "2026-07-17:TM-02",
-      "2026-07-17:TM-03"
+      "2026-07-17:TM-03",
+      "2026-07-19:TM-09",
+      "2026-07-19:TM-16"
     ],
     "softbank": [
       "2026-07-01:TM-09",
       "2026-07-01:TM-19",
       "2026-07-02:TM-30",
-      "2026-07-06:TM-35"
+      "2026-07-06:TM-35",
+      "2026-07-19:TM-20"
     ],
     "sony": [
-      "2026-07-01:TM-09"
+      "2026-07-01:TM-09",
+      "2026-07-19:TM-20"
     ],
     "safety": [
       "2026-07-01:TM-11",
@@ -7762,7 +8138,9 @@
       "2026-07-15:TM-10",
       "2026-07-15:TM-17",
       "2026-07-16:TM-15",
-      "2026-07-16:TM-19"
+      "2026-07-16:TM-19",
+      "2026-07-19:TM-01",
+      "2026-07-19:TM-11"
     ],
     "startup": [
       "2026-07-01:TM-18",
@@ -7817,7 +8195,9 @@
       "2026-07-16:TM-53",
       "2026-07-17:TM-14",
       "2026-07-17:TM-18",
-      "2026-07-17:TM-23"
+      "2026-07-17:TM-23",
+      "2026-07-19:TM-23",
+      "2026-07-19:TM-26"
     ],
     "funding": [
       "2026-07-01:TM-18",
@@ -7870,7 +8250,10 @@
       "2026-07-16:TM-43",
       "2026-07-16:TM-53",
       "2026-07-17:TM-22",
-      "2026-07-17:TM-23"
+      "2026-07-17:TM-23",
+      "2026-07-19:TM-14",
+      "2026-07-19:TM-18",
+      "2026-07-19:TM-23"
     ],
     "openai": [
       "2026-07-01:TM-19",
@@ -7918,7 +8301,9 @@
       "2026-07-07:TL-03",
       "2026-07-08:TM-10",
       "2026-07-08:TL-09",
-      "2026-07-17:TM-02"
+      "2026-07-17:TM-02",
+      "2026-07-19:TM-18",
+      "2026-07-19:TM-29"
     ],
     "video-gen": [
       "2026-07-01:TM-24",
@@ -7940,7 +8325,8 @@
       "2026-07-09:TL-11",
       "2026-07-09:TL-14",
       "2026-07-10:TM-32",
-      "2026-07-16:TM-31"
+      "2026-07-16:TM-31",
+      "2026-07-19:TM-19"
     ],
     "bytedance": [
       "2026-07-01:TM-40",
@@ -8060,7 +8446,8 @@
       "2026-07-14:TM-42",
       "2026-07-16:TM-22",
       "2026-07-16:TM-31",
-      "2026-07-16:TM-43"
+      "2026-07-16:TM-43",
+      "2026-07-19:TM-01"
     ],
     "coding": [
       "2026-07-01:TL-04",
@@ -8141,12 +8528,14 @@
       "2026-07-07:TL-03",
       "2026-07-08:TL-12",
       "2026-07-09:TM-20",
-      "2026-07-13:TM-26"
+      "2026-07-13:TM-26",
+      "2026-07-19:TM-15"
     ],
     "gpu": [
       "2026-07-02:TM-09",
       "2026-07-03:TL-11",
-      "2026-07-06:TM-15"
+      "2026-07-06:TM-15",
+      "2026-07-19:TM-29"
     ],
     "copilot": [
       "2026-07-02:TM-15"
@@ -8176,14 +8565,16 @@
       "2026-07-16:TM-25",
       "2026-07-16:TM-28",
       "2026-07-16:TM-51",
-      "2026-07-17:TM-03"
+      "2026-07-17:TM-03",
+      "2026-07-19:TM-16"
     ],
     "acquisition": [
       "2026-07-02:TM-40",
       "2026-07-08:TM-23",
       "2026-07-09:TL-13",
       "2026-07-16:TM-33",
-      "2026-07-17:TM-13"
+      "2026-07-17:TM-13",
+      "2026-07-19:TM-26"
     ],
     "fine-tuning": [
       "2026-07-02:TL-06",
@@ -8217,7 +8608,9 @@
       "2026-07-05:TM-11",
       "2026-07-07:TM-02",
       "2026-07-10:TM-06",
-      "2026-07-14:TM-33"
+      "2026-07-14:TM-33",
+      "2026-07-19:TM-02",
+      "2026-07-19:TM-29"
     ],
     "deepmind": [
       "2026-07-05:TM-13",
@@ -8251,14 +8644,17 @@
       "2026-07-06:TM-14",
       "2026-07-07:TL-06",
       "2026-07-07:TL-13",
-      "2026-07-10:TM-06"
+      "2026-07-10:TM-06",
+      "2026-07-19:TM-14"
     ],
     "open-weights": [
       "2026-07-06:TM-14",
       "2026-07-07:TL-06",
       "2026-07-09:TM-12",
       "2026-07-13:TM-10",
-      "2026-07-15:TM-02"
+      "2026-07-15:TM-02",
+      "2026-07-19:TM-02",
+      "2026-07-19:TM-11"
     ],
     "mistral": [
       "2026-07-06:TL-12",
@@ -8285,7 +8681,8 @@
     ],
     "deepseek": [
       "2026-07-08:TL-04",
-      "2026-07-15:TM-13"
+      "2026-07-15:TM-13",
+      "2026-07-19:TM-14"
     ],
     "multimodal": [
       "2026-07-08:TL-09",
@@ -8305,7 +8702,8 @@
     ],
     "qwen": [
       "2026-07-09:TM-12",
-      "2026-07-14:TM-12"
+      "2026-07-14:TM-12",
+      "2026-07-19:TM-02"
     ],
     "voice": [
       "2026-07-09:TL-02"
@@ -8336,6 +8734,9 @@
     ],
     "databricks": [
       "2026-07-17:TM-22"
+    ],
+    "huggingface": [
+      "2026-07-19:TM-01"
     ]
   },
   "category_index": {
@@ -8443,7 +8844,13 @@
       "2026-07-17:TM-18",
       "2026-07-17:TM-22",
       "2026-07-17:TM-23",
-      "2026-07-17:TM-28"
+      "2026-07-17:TM-28",
+      "2026-07-19:TM-14",
+      "2026-07-19:TM-15",
+      "2026-07-19:TM-18",
+      "2026-07-19:TM-20",
+      "2026-07-19:TM-23",
+      "2026-07-19:TM-26"
     ],
     "cat:tech": [
       "2026-07-01:TM-04",
@@ -8483,7 +8890,9 @@
       "2026-07-14:TM-14",
       "2026-07-14:TM-18",
       "2026-07-15:TM-10",
-      "2026-07-16:TM-15"
+      "2026-07-16:TM-15",
+      "2026-07-19:TM-19",
+      "2026-07-19:TM-29"
     ],
     "cat:other": [
       "2026-07-01:TM-08",
@@ -8550,7 +8959,11 @@
       "2026-07-16:TM-28",
       "2026-07-16:TM-51",
       "2026-07-17:TM-02",
-      "2026-07-17:TM-03"
+      "2026-07-17:TM-03",
+      "2026-07-19:TM-01",
+      "2026-07-19:TM-09",
+      "2026-07-19:TM-11",
+      "2026-07-19:TM-16"
     ],
     "cat:app": [
       "2026-07-01:TM-36",
@@ -8620,21 +9033,26 @@
       "2026-07-15:TM-02",
       "2026-07-16:TM-01",
       "2026-07-16:TM-07",
-      "2026-07-16:TM-31"
+      "2026-07-16:TM-31",
+      "2026-07-19:TM-02"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 53
+      "count": 55
     },
     {
       "tag": "funding",
-      "count": 51
+      "count": 54
     },
     {
       "tag": "policy",
-      "count": 42
+      "count": 44
+    },
+    {
+      "tag": "chip",
+      "count": 34
     },
     {
       "tag": "openai",
@@ -8642,11 +9060,7 @@
     },
     {
       "tag": "agent",
-      "count": 32
-    },
-    {
-      "tag": "chip",
-      "count": 31
+      "count": 33
     },
     {
       "tag": "anthropic",
@@ -8654,7 +9068,7 @@
     },
     {
       "tag": "regulation",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "meta",
@@ -8662,7 +9076,7 @@
     },
     {
       "tag": "safety",
-      "count": 16
+      "count": 18
     },
     {
       "tag": "gpt",
@@ -8674,6 +9088,10 @@
     },
     {
       "tag": "nvidia",
+      "count": 14
+    },
+    {
+      "tag": "open-source",
       "count": 13
     },
     {
@@ -8689,16 +9107,12 @@
       "count": 12
     },
     {
-      "tag": "open-source",
+      "tag": "robotics",
       "count": 11
     },
     {
       "tag": "microsoft",
       "count": 11
-    },
-    {
-      "tag": "robotics",
-      "count": 10
     },
     {
       "tag": "claude",
@@ -8709,11 +9123,11 @@
       "count": 10
     },
     {
-      "tag": "video-gen",
-      "count": 8
+      "tag": "enterprise",
+      "count": 9
     },
     {
-      "tag": "enterprise",
+      "tag": "video-gen",
       "count": 8
     },
     {
@@ -8721,8 +9135,24 @@
       "count": 7
     },
     {
+      "tag": "open-weights",
+      "count": 7
+    },
+    {
+      "tag": "acquisition",
+      "count": 6
+    },
+    {
+      "tag": "alibaba",
+      "count": 6
+    },
+    {
       "tag": "alignment",
       "count": 6
+    },
+    {
+      "tag": "softbank",
+      "count": 5
     },
     {
       "tag": "autonomous-driving",
@@ -8737,24 +9167,16 @@
       "count": 5
     },
     {
-      "tag": "acquisition",
-      "count": 5
-    },
-    {
       "tag": "amazon",
       "count": 5
     },
     {
-      "tag": "open-weights",
+      "tag": "tencent",
       "count": 5
     },
     {
       "tag": "multimodal",
       "count": 5
-    },
-    {
-      "tag": "softbank",
-      "count": 4
     },
     {
       "tag": "benchmark",
@@ -8765,23 +9187,15 @@
       "count": 4
     },
     {
+      "tag": "gpu",
+      "count": 4
+    },
+    {
       "tag": "ipo",
       "count": 4
     },
     {
-      "tag": "alibaba",
-      "count": 4
-    },
-    {
-      "tag": "tencent",
-      "count": 4
-    },
-    {
       "tag": "xai",
-      "count": 3
-    },
-    {
-      "tag": "gpu",
       "count": 3
     },
     {
@@ -8805,12 +9219,24 @@
       "count": 3
     },
     {
+      "tag": "deepseek",
+      "count": 3
+    },
+    {
       "tag": "chatgpt",
+      "count": 3
+    },
+    {
+      "tag": "qwen",
       "count": 3
     },
     {
       "tag": "oracle",
       "count": 3
+    },
+    {
+      "tag": "sony",
+      "count": 2
     },
     {
       "tag": "sam-altman",
@@ -8829,15 +9255,7 @@
       "count": 2
     },
     {
-      "tag": "deepseek",
-      "count": 2
-    },
-    {
       "tag": "opus",
-      "count": 2
-    },
-    {
-      "tag": "qwen",
       "count": 2
     },
     {
@@ -8846,10 +9264,6 @@
     },
     {
       "tag": "palantir",
-      "count": 1
-    },
-    {
-      "tag": "sony",
       "count": 1
     },
     {
@@ -8895,27 +9309,31 @@
     {
       "tag": "databricks",
       "count": 1
+    },
+    {
+      "tag": "huggingface",
+      "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 104,
+      "count": 110,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 65,
+      "count": 69,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 38,
+      "count": 40,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:model",
-      "count": 37,
+      "count": 38,
       "label_zh": "新模型"
     },
     {
