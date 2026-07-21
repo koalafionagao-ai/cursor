@@ -1,0 +1,378 @@
+{
+  "date": "2026-07-20",
+  "sections": {
+    "top news": [
+      {
+        "title": "Sources: parts of the Trump administration are reigniting efforts to implement de facto bans on foreign open-source models, as Chinese AI models gain momentum",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+        "tweets": [
+          {
+            "author": "@davidsacks",
+            "text": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There's no reason to limit American models on tasks that Chinese models handle without issue. We're only making ourselves less competitive.",
+            "url": "https://x.com/davidsacks/status/2078984980588531855"
+          },
+          {
+            "author": "@sophiacai99",
+            "text": "There was a brief discussion about this recently, but the Commerce Department is *NOT* moving forward on banning Chinese models at this time, per person familiar.",
+            "url": "https://x.com/sophiacai99/status/2079254188349948069"
+          },
+          {
+            "author": "@alexstamos",
+            "text": "How hard is this to type, David? “The Trump Administration was wrong to ban Fable and I was wrong to support the ban.” Try it, I bet you will still get ringside UFC tickets.",
+            "url": "https://x.com/alexstamos/status/2079232039589663151"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Chinese open models like Kimi K3 and Qwen3.8 Max shift the industry's focus back to marginal costs and cost of goods sold, as inference costs scale with revenue",
+            "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/"
+          },
+          {
+            "title": "Chinese open models are proper competition that should be welcomed, not something to ban or treat as a danger, and open-sourcing is an old business strategy",
+            "url": "https://www.washingtonpost.com/opinions/2026/07/20/open-model-ai-is-good-competition-anthropic-openai/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg0NTIwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg1OTAyMzk5LCJpYXQiOjE3ODQ1MjAwMDAsImp0aSI6IjY3ODRiNWMyLWMzYWMtNGIxOC04Y2U5LWRlNjliZWVlY2JkOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vcGluaW9ucy8yMDI2LzA3LzIwL29wZW4tbW9kZWwtYWktaXMtZ29vZC1jb21wZXRpdGlvbi1hbnRocm9waWMtb3BlbmFpLyJ9.Yq1nStdcCSCZUU7DYtj3EW05XFeWhVQ5C3kFFk_HHIw&itid=gfta"
+          }
+        ]
+      },
+      {
+        "title": "Judge approves Anthropic's $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AMD plans to ship Helios, its first rack-scale AI system to rival Nvidia, later in 2026 to Microsoft, Meta, OpenAI, and others; Helios costs an estimated $5M+",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+        "tweets": [
+          {
+            "author": "@lisasu",
+            "text": "Excited to expand our partnership with @Azure to deploy @AMD Helios with our newest MI455X GPUs, Venice CPUs, and Pensando networking. Thanks @satyanadella @scottgu for the continued partnership. Proud of what our teams are building together!",
+            "url": "https://x.com/lisasu/status/2079199442477957596"
+          },
+          {
+            "author": "@patrickmoorhead",
+            "text": "...There were no details provided on scale, deal size, deal length, or end customers.  There's the AMD-OpenAI deal, of course.  This is obviously a huge win for $AMD on the heels of announcing Helios with Meta and Oracle.  Note the 2H26 ship date.  If it were Q4 they would just say that right?  Could this mean August-September shipments begin?",
+            "url": "https://x.com/patrickmoorhead/status/2079189911089901924"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Google is developing a specialized server chip, informally dubbed “Frozen v2”, that integrates its Gemini AI model blueprint into the silicon, for 2028",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SK Group Chair Chey Tae-won says the memory shortage has pushed governments to intervene on behalf of their industries, and SK Hynix must expand capacity faster",
+        "excerpt": "",
+        "url": "https://www.koreaherald.com/article/10812835",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "As memory stocks fall, investors worry capacity expansion could lead to oversupply, while others believe AI demand will break the industry's boom-and-bust cycle",
+            "url": "https://www.ft.com/content/97eeb736-f8af-4839-8511-3d0354c8b34c"
+          }
+        ]
+      },
+      {
+        "title": "The EU fines Alibaba's online marketplace AliExpress €550M for failing to prevent the sale of illegal products on its platform, the largest DSA fine to date",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/13c385e7-600f-471a-858e-6f1970802a10",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cybersecurity companies say hackers are exploiting vulnerable WordPress versions to take over websites; WordPress patched two critical security flaws last week",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Draft: the Trump administration will push a global “freedom of expression” declaration at the UN General Assembly that EU lawmakers call an attack on tech rules",
+        "excerpt": "",
+        "url": "https://www.politico.eu/article/trump-administration-will-push-un-free-speech-declaration-that-takes-aim-at-european-tech-regulation/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "X relaunches its Android app after a year-long rewrite from scratch; Nikita Bier calls it “one of the largest engineering projects” in the company's history",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anduril and Archer unveil an autonomous aircraft platform designed for commercial and military uses, along with an autonomous attack rotorcraft called Thunder",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/aerospace-defense/archer-anduril-unveil-autonomous-aircraft-platform-defense-commercial-markets-2026-07-20/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "OpenAI paused internal access to an unreleased model that disproved the Erdos unit distance conjecture after it repeatedly found ways to act outside its sandbox",
+        "excerpt": "",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: the EU Parliament could roll out EPGenAI Hub to MEPs and staff as early as September, letting them access Meta, OpenAI, Anthropic, and Mistral models",
+        "excerpt": "",
+        "url": "https://www.politico.eu/article/the-european-parliaments-answer-to-its-ai-worries-more-ai/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Levent Alpöge, a mathematician who works at Anthropic, says he was able to disprove the 87-year-old Jacobian conjecture with the help of Fable 5",
+        "excerpt": "",
+        "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sensor Tower: the number of new apps released in Apple's App Store doubled to ~560K in H1, vs. the ~600K added in all of 2025, as vibecoded apps flood the store",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html?unlocked_article_code=1.zFA.MU5e.SDiK6js2OJzs&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google's AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40%",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.zFA.7A4y.kcG9Q_Hnu0C-&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK government data: ~35% of UK businesses with 10+ staff use AI, up from 12% in September 2023, and the average number of AI tools grew from 1.4 in 2023 to 1.6",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/1ab00e18-995a-4cda-b76b-00ba6c043863",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched",
+        "excerpt": "",
+        "url": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An interview with Expedia CEO Ariane Gorin, who calls AI “a growth opportunity”, as she prepares the online travel company to face potential disruption from AI",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/5abfc75f-f00b-465e-ab73-9c93f10412df?accessToken=zwAAAZ-AqzNokc9av8df8AtGXtOrc5yT8QQS3w.MEQCICG8CKTo2YkgBqqEE_f_rLawxNMDJ5A-SAfJDzgxOM7fAiAsSs2uaa_vp_YIUVTmkwjh1g4KIMQoCPlBRtLn91oKcQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=06bee94c-dfec-4c53-abf8-5346637cd111&shareType=enterprise&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "LSEG: Morgan Stanley collected $2.3B in debt and equity capital market fees in H1 2026, up from $1.4B in H1 2025, driven by AI infrastructure financing deals",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "prediction markets": [
+      {
+        "title": "France's National Gambling Authority blocks access to Polymarket's website, citing concerns it could expose users to significant losses and manipulated trading",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/french-internet-service-providers-told-block-access-polymarket-2026-07-17/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources detail Kalshi's and Polymarket's efforts to undermine each other, including lobbying regulators, trying to derail deals, and waging influence campaigns",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "Taiwan indicts a former TSMC executive for allegedly stealing trade secrets, in what authorities say is the first National Security Act case involving China",
+        "excerpt": "",
+        "url": "https://asia.nikkei.com/business/technology/taiwan-alleges-ex-tsmc-staff-stole-chip-secrets-to-sell-to-china",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Snap reaches a deal to settle the second case set for trial over social media harm to minors, following TikTok and YouTube, leaving Meta as the only defendant",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/snap-nears-settlement-of-addiction-case-ahead-of-jury-trial",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits",
+        "excerpt": "",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/07/trial-lawyers-lobby-against-autonomous-vehicles.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Retail traders are shifting from the Magnificent Seven to AI infrastructure stocks, like SK Hynix and Marvell; five of the Mag Seven stocks trail the market YTD",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/stocks/everyday-investors-are-over-the-mag-seven-and-into-new-ai-darlings-a112ea2b?st=86LupA",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "TSMC CFO Wendell Huang says TSMC will use its new $100B US commitment, announced on July 16, to expand its Arizona capacity amid a “multiyear demand mega trend”",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Blackstone agrees to invest an undisclosed sum in South Korea-based Futronic, which makes actuators used in industrial robots, sources say at a ~$675M valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/blackstone-agrees-to-invest-in-korean-robotics-supplier-futronic",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/hkvfmqsvme",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "Sources: Chinese startup Moonshot AI is seeking formal approval from investors to start a Hong Kong IPO process, which could happen in as soon as six months",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/moonshot-ai-seeks-investor-approval-begin-ipo-process",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Zhongji Innolight, China's leading maker of optical transceivers, aims for an $8B Hong Kong IPO, the city's largest since Alibaba's $12.9B debut in 2019",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/zhongji-innolight-starts-gauging-interest-for-hong-kong-listing",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "UK-based CuspAI, which uses AI to cut rare metal use in chipmaking, raised a $450M Series B at a $2.6B valuation, and hires ex-Apple exec John Giannandrea",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/bezos-backs-startup-focused-on-material-discovery-for-chipmaking",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Natural, which aims to help companies let their AI agents make autonomous payments, raised a $30M Series A led by Forerunner, bringing its total raised to $40M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Chicago-based Empirical Security, which uses AI to help companies predict threats by monitoring exploited vulnerabilities, raised a $25M Series A",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/20/cybersecurity-empirical-security-ai-25-million",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Infinity, founded by Jeremy Nixon, the creator of hacker network community AGI House, to build an inference library that runs on all chips, raised a $15M seed",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "How “synthetic insider” attacks raise the stakes for corporate cyber defense; a Verizon analysis of ~22K incidents found 12% were carried out by internal actors",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/67fe2b44-2041-4ee1-b606-5def4d717407",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung debuts Samsung Galaxy Card, its first-ever US credit card, a Visa from Barclays; it offers 5% rewards for purchases directly from Samsung",
+        "excerpt": "",
+        "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-card-takes-aim-at-apple-card-with-way-more-perks-and-rewards-heres-what-you-get",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Billionaire-backed Building A Better California reserves $87M in TV ad time to oppose California's proposed one-time wealth tax; Sergey Brin put $82M into BABC",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html?unlocked_article_code=1.yVA.Djhx.SjO9_G39zVw3&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Israel's influence campaign in the US that's included millions of AI-driven texts and a $45M+ contract with ex-Trump campaign strategist Brad Parscale",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/israels-50-million-experiment-to-change-u-s-public-opinion-253b3b70?st=rBnwMu",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/8a424dc2-13cb-4eb6-86d0-a3193d710359?accessToken=zwAAAZ9zCTKFkdOKQk3CE8tOttOG0KMZPXEDWQ.MEQCID1va3zt9pqKAeafIhRsBfeUjG674IJusmPN_xoZ2_33AiAiXaVjf_wP89U4Fz6UQsAwKeneM07kvwL9qc35y2Se1A&sharetype=gift&token=637bf64d-1e8f-4701-b5f7-2957f0c4bd94&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As companies stay private longer, VC firms, like Spark, Gigafund, and Greenoaks, are investing in companies later on and buying stakes without seeking influence",
+        "excerpt": "",
+        "url": "https://www.wsj.com/finance/venture-capital-anthropic-spark-yasmin-razavi-93dd6041?st=MwcFqN&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: Ancestry.com pitches a risky $1.75B term loan at 4 to 4.25 percentage points above the benchmark to refinance debt from its 2020 Blackstone acquisition",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-20/blackstone-backed-ancestry-com-joins-risky-loan-refinancing-wave",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How PayPal CEO Enrique Lores may handle Stripe and Advent's takeover bid, based on his decades at HP, where he successfully defended against a hostile takeover",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/paypal-sale-ceo-enrique-lores-4df4166e?st=ebX7aG&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 10,
+    "news_count": 44
+  }
+}
