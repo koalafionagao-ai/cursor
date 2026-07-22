@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-21",
+  "threshold": 7.0,
+  "total": 49,
+  "kept": 16,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及OpenAI模型的安全测试，信息量一般"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Google发布新版本Gemini，预示着AI模型的重大进展"
+    },
+    {
+      "id": "TM-03",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国考虑加强AI和芯片出口管制，可能影响行业格局"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Nvidia发布新CPU，信息量一般但有技术更新"
+    },
+    {
+      "id": "TM-05",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及社交媒体法律"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Kimi K3发布，信息量一般，关注度有限"
+    },
+    {
+      "id": "TM-07",
+      "score": 7.0,
+      "keep": true,
+      "reason": "英国政府重组，AI部长升职，可能影响政策方向"
+    },
+    {
+      "id": "TM-08",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及苹果的租赁计划"
+    },
+    {
+      "id": "TM-09",
+      "score": 5.0,
+      "keep": false,
+      "reason": "军方对AI使用的限制，信息量一般"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Poolside推出新模型，可能对开发者有吸引力"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI用户增长，信息量一般但反映市场需求"
+    },
+    {
+      "id": "TM-12",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta发布儿童故事应用，信息量一般"
+    },
+    {
+      "id": "TM-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Cisco发布新AI模型，关注安全领域的应用"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Substack与AI检测工具合作，信息量一般"
+    },
+    {
+      "id": "TM-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "对AI模型在网络安全评估中的表现进行分析，具有洞察价值"
+    },
+    {
+      "id": "TM-16",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI高管计划与政府沟通，信息量一般"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Meta开发AI模型路由器，可能影响成本结构"
+    },
+    {
+      "id": "TM-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "TSMC计划涨价，信息量一般但与芯片行业相关"
+    },
+    {
+      "id": "TM-19",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及公司财务表现"
+    },
+    {
+      "id": "TM-20",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Intel与Fortinet合作开发安全处理器，具有战略意义"
+    },
+    {
+      "id": "TM-21",
+      "score": 5.0,
+      "keep": false,
+      "reason": "韩国芯片出口数据，信息量一般但反映市场趋势"
+    },
+    {
+      "id": "TM-22",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Sony Music对AI音乐公司的版权诉讼，涉及法律问题"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "大学起诉Anthropic，涉及专利问题，可能影响行业"
+    },
+    {
+      "id": "TM-24",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要涉及法律问题"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Ant International融资信息，涉及支付行业的动态"
+    },
+    {
+      "id": "TM-26",
+      "score": 8.0,
+      "keep": true,
+      "reason": "稳定币相关的AI银行融资，具有行业影响力"
+    },
+    {
+      "id": "TM-27",
+      "score": 7.0,
+      "keep": true,
+      "reason": "机器人初创公司融资，值得关注的产品发展"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "基础设施AI系统的融资，信息量一般"
+    },
+    {
+      "id": "TM-29",
+      "score": 5.0,
+      "keep": false,
+      "reason": "GPU编排初创公司融资，信息较常规"
+    },
+    {
+      "id": "TM-30",
+      "score": 7.0,
+      "keep": true,
+      "reason": "投资者背景分析，涉及多个AI公司"
+    },
+    {
+      "id": "TM-31",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是产品更新"
+    },
+    {
+      "id": "TM-32",
+      "score": 7.0,
+      "keep": true,
+      "reason": "开源协作平台发布，促进AI与人类的互动"
+    },
+    {
+      "id": "TM-33",
+      "score": 9.0,
+      "keep": true,
+      "reason": "微软与Mistral的多亿美元合作，影响深远"
+    },
+    {
+      "id": "TM-34",
+      "score": 3.0,
+      "keep": false,
+      "reason": "安全漏洞修复，信息量较少"
+    },
+    {
+      "id": "TM-35",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是政治事件"
+    },
+    {
+      "id": "TM-36",
+      "score": 4.0,
+      "keep": false,
+      "reason": "新产品发布，信息量较少"
+    },
+    {
+      "id": "TM-37",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财务数据分析，信息较常规"
+    },
+    {
+      "id": "TM-38",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI健康助手的推出，具有一定的市场潜力"
+    },
+    {
+      "id": "TM-39",
+      "score": 5.0,
+      "keep": false,
+      "reason": "社交媒体AI审核问题，信息量一般"
+    },
+    {
+      "id": "TM-40",
+      "score": 8.0,
+      "keep": true,
+      "reason": "AI数据初创公司收入增长，反映市场趋势"
+    },
+    {
+      "id": "TM-41",
+      "score": 2.0,
+      "keep": false,
+      "reason": "政治事件，信息与AI关系不大"
+    },
+    {
+      "id": "TM-42",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenAI对新闻项目的投资，具有社会影响力"
+    },
+    {
+      "id": "TM-43",
+      "score": 5.0,
+      "keep": false,
+      "reason": "亚马逊业务增长，信息较常规"
+    },
+    {
+      "id": "TM-44",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenAI董事会成员变动，可能影响公司战略"
+    },
+    {
+      "id": "TM-45",
+      "score": 3.0,
+      "keep": false,
+      "reason": "政治任命，信息与AI关系不大"
+    },
+    {
+      "id": "TM-46",
+      "score": 2.0,
+      "keep": false,
+      "reason": "房地产相关信息，信息量较少"
+    },
+    {
+      "id": "TM-47",
+      "score": 5.0,
+      "keep": false,
+      "reason": "大公司游说支出，信息量一般"
+    },
+    {
+      "id": "TM-48",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Meta数据中心融资，涉及AI基础设施"
+    },
+    {
+      "id": "TM-49",
+      "score": 0.0,
+      "keep": false,
+      "reason": "开源项目资助信息，信息量一般"
+    }
+  ]
+}

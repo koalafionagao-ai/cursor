@@ -1,0 +1,353 @@
+{
+  "date": "2026-07-21",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 16,
+    "by_category": {
+      "cat:model": 3,
+      "cat:other": 6,
+      "cat:tech": 1,
+      "cat:business": 5,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "title": {
+        "zh": "Google发布Gemini 3.6 Flash系列并启动Gemini 4的预训练",
+        "en": "Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its “most ambitious pre-training run yet” for Gemini 4"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "gemini"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a",
+      "title": {
+        "zh": "消息称中国考虑收紧AI和芯片出口管制",
+        "en": "Sources: China is weighing tightening AI and chip export controls and is consulting leading domestic AI companies, in a bid to slow advanced tech acquisitions"
+      },
+      "summary": {
+        "zh": "中国正与国内领先AI公司协商，试图减缓先进技术的获取。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "acquisition",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bbc.com/news/articles/cz97x8k4zqzo",
+      "title": {
+        "zh": "英国首相取消科学创新与技术部并提升AI部长地位",
+        "en": "UK PM Andy Burnham abolishes the Department for Science, Innovation, and Tech and elevates UK AI Minister Kanishka Narayan, who oversees AISI, to attend cabinet"
+      },
+      "summary": {
+        "zh": "AI部长Kanishka Narayan将出席内阁会议，负责AISI事务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/07/21/american-open-source-labs-think-they-can-beat-chinas-best-ai-startups/",
+      "title": {
+        "zh": "Poolside推出Laguna S 2.1开放权重模型",
+        "en": "Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models"
+      },
+      "summary": {
+        "zh": "118B参数模型专为代理编码和长周期任务设计，竞争更大规模的开放模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "agent",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/21/cisco-open-source-ai-models-cybersecurity",
+      "title": {
+        "zh": "思科发布Antares系列开放权重AI模型",
+        "en": "Cisco releases Antares-350M and Antares-1B, two open-weight AI models to find known vulnerabilities within a codebase, and plans to release Antares-3B soon"
+      },
+      "summary": {
+        "zh": "Antares-350M和Antares-1B专注于代码漏洞检测，计划推出Antares-3B。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
+      "title": {
+        "zh": "分析：前沿AI模型在网络安全测试中尝试“作弊”",
+        "en": "Analysis: every frontier AI model tested in cybersecurity evaluations attempted to “cheat”, led by GPT-5.4 at 14.1% of tasks; Mythos cheated the least, at 7.8%"
+      },
+      "summary": {
+        "zh": "GPT-5.4在14.1%的任务中作弊，Mythos表现最佳，仅为7.8%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "gpt"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/metas-ai-incubator-developing-openrouter-rival-cut-coding-costs",
+      "title": {
+        "zh": "Meta内部AI孵化器开发AI模型路由器",
+        "en": "Documents: Meta's internal AI incubator is developing an AI model router, similar to OpenRouter's, to cut costs by sending some AI tasks to lower-cost models"
+      },
+      "summary": {
+        "zh": "类似OpenRouter，旨在通过分配任务至低成本模型来降低成本。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "meta",
+        "openrouter"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic",
+      "title": {
+        "zh": "英特尔与Fortinet合作开发安全处理器",
+        "en": "Intel and Fortinet partner to co-develop the Fortinet Security Processor 6, making Fortinet the first named external customer for the Intel 4 process node"
+      },
+      "summary": {
+        "zh": "Fortinet成为首个使用Intel 4工艺节点的外部客户。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "intel",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-23",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21/",
+      "title": {
+        "zh": "田纳西大学研究基金会起诉Anthropic涉嫌专利侵权",
+        "en": "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic"
+      },
+      "summary": {
+        "zh": "这是针对Anthropic的首例神经网络专利诉讼。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-26",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+      "title": {
+        "zh": "Augustus融资1.8亿美元打造AI原生清算银行",
+        "en": "Augustus, which is building a federally chartered “AI-native” clearing bank designed around stablecoins, raised $180M led by Tiger Global at a $1B valuation"
+      },
+      "summary": {
+        "zh": "由Tiger Global领投，估值达10亿美元，专注于稳定币。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-27",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/21/humanoid-raises-152-million-at-135-billion-valuation-europes-newest-robot-unicorn/",
+      "title": {
+        "zh": "伦敦机器人初创公司Humanoid完成1.52亿美元A轮融资，估值13.5亿美元",
+        "en": "London-based robotics startup Humanoid raised a $152M Series A led by Prime Movers Lab at a $1.35B post-money valuation, bringing its total funding to $270M"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-30",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://colossus.com/article/sarah-guo-conviction/",
+      "title": {
+        "zh": "Sarah Guo：从Greylock最年轻GP到创立Conviction的故事",
+        "en": "A profile of Sarah Guo, Greylock's youngest GP before she founded Conviction in 2022, which has since backed six of the 21 AI-native companies now worth $10B+"
+      },
+      "summary": {
+        "zh": "Conviction已支持21家AI原生公司中的6家，总估值超100亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-32",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://block.xyz/inside/introducing-buzz-where-humans-and-agents-work-together",
+      "title": {
+        "zh": "Block推出Buzz：基于Nostr协议的开源协作工作空间",
+        "en": "Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more"
+      },
+      "summary": {
+        "zh": "Buzz支持人类与AI代理共享消息、代码库、工作流等。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "open-source",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/cio-journal/microsoft-deepens-ties-with-mistral-targeting-europe-and-enterprise-ai-63da4ffa?st=sP9U4h&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "微软与Mistral达成数十亿美元合作，建设欧洲数据中心并整合Mistral模型",
+        "en": "Microsoft and Mistral sign a multibillion-dollar deal to build European data centers and integrate Mistral models into Foundry, Copilot Studio, and Azure Local"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "mistral",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-40",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/mercors-fast-growth-relies-biggest-ai-companies-documents-show",
+      "title": {
+        "zh": "Mercor在2026年上半年实现6.14亿美元收入，91%来自基础模型制造商",
+        "en": "Docs: AI data startup Mercor had $614M in gross revenue in H1 2026, up 70% from all of 2025, with ~91% from foundation model makers like OpenAI and Anthropic"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "startup",
+        "funding",
+        "openai",
+        "anthropic"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-42",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/21/openai-local-news-american-journalism-project",
+      "title": {
+        "zh": "OpenAI追加投资美国新闻项目，承诺500万美元资金和300万美元技术支持",
+        "en": "OpenAI renews its investment in the American Journalism Project by committing an additional $5M in funding and $3M in tech credits over the next two years"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

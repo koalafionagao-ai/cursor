@@ -1,0 +1,208 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: OpenAI says its models, including GPT-5.6 Sol and “an even more capable pre-release model”, breached Hugging Face while OpenAI tested their cyber capabilities
+Tweets:
+  - Author: @ryangreenblatt
+    Text: It's good that OpenAI reported this.  It's concerning (though perhaps predictable) that it happened.  Reward hacking can go very far.  I think generalizing all the way to a full AI takeover is possible for extremely capable AIs.  And “smaller” incidents like temporarily launching rogue deployments or seizing control of some compute are plausible earlier.  I think we'll see increasingly large incidents like this one over time
+    Link ID: TM-01-TW-01
+  - Author: @deanwball
+    Text: A couple years ago, the AI debate was centered, rightfully, on whether crazy-sounding things like “AIs autonomously making math breakthroughs” and “AIs breaking from their sandbox and hacking on the internet” would be real things in the near term.  Sometimes it feels like that's still the debate we're having.  This can be frustrating, because in my view, that debate is settled and was settled quite a while ago.
+    Link ID: TM-01-TW-02
+  - Author: @troyhunt
+    Text: Not sure if this is a mea culpa or a “look at how awesome our AI has become”. Maybe both? 🤷‍♂️
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: OpenAI says its models chained vulnerabilities across its research environment and Hugging Face's infrastructure to find solutions for the ExploitGym benchmark
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its “most ambitious pre-training run yet” for Gemini 4
+Tweets:
+  - Author: @joshwoodward
+    Text: Today's launches are all about better performance, lower latency, and a smaller bill.  + 3.6 Flash cuts token usage by up to 65% on complex coding + 3.5 Flash-Lite reaches speeds of 350 output tokens/sec Both are live in the Gemini app today!  Next up: Gemini 3.5 Pro, which has officially entered partner testing.
+    Link ID: TM-02-TW-01
+  - Author: @kimmonismus
+    Text: Google has begun pre-training Gemini 4, marking a completely new foundation model.  This is really exciting!  The announcement blog for 3.6 Flash states that Gemini 4 is being completely revamped.  Presumably, the recent developments for 3.5 Pro were disappointing, so they're starting with a new pre-training program.  This could be interesting!
+    Link ID: TM-02-TW-02
+  - Author: @shakeelhashim
+    Text: Note the timing here — Alphabet reports earnings tomorrow, and is sure to face questions from investors asking why GDM appears to have fallen so far behind OpenAI and Anthropic.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Google prices Gemini 3.6 Flash lower than 3.5 Flash, at $1.50/1M input tokens and $7.50/1M output tokens, and Gemini 3.5 Flash-Lite at $0.30/1M and $2.50/1M
+    Link ID: TM-02-SUB-01
+  - Title: Google says Gemini 3.6 Flash improves coding, multimodal, and knowledge work performance and uses up to 17% fewer tokens and costs less per token vs. 3.5 Flash
+    Link ID: TM-02-SUB-02
+  - Title: Google says Gemini 3.5 Flash Cyber is a “cost-efficient and highly capable alternative” to models like Mythos, available first to governments and some partners
+    Link ID: TM-02-SUB-03
+---
+ID: TM-03
+Title: Sources: China is weighing tightening AI and chip export controls and is consulting leading domestic AI companies, in a bid to slow advanced tech acquisitions
+Tweets:
+  - Author: @quxiaoyin
+    Text: China could ban domestic user traces from being sold to US labs, but they won't ban open-weight models. They are benefiting from it tremendously now.
+    Link ID: TM-03-TW-01
+  - Author: @himanshustwts
+    Text: Yesterday: US administration is reportedly considering restrictions on advanced Chinese AI models such as Kimi K3 and DeepSeek.  Today: China is considering tightening its export controls on AI tech and would restrict non-Chinese nationals from downloading the open weights of frontier Chinese models.  Wild tradeoffs.
+    Link ID: TM-03-TW-02
+  - Author: @emollick
+    Text: And now from the Chinese government side. This would be a good time for cooperation between the US and China to establish common testing/acceptance standards for new models, so at least the safety certification side of model releases can be transparent for open & closed models.
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: US Treasury Secretary Scott Bessent says the Trump administration will look into whether Chinese AI models were distilled from US models and may “sanction them”
+    Link ID: TM-03-SUB-01
+  - Title: Sources: the US and China plan to hold AI talks in September, likely before President Xi's visit to the US, a significant outcome of the Trump-Xi summit in May
+    Link ID: TM-03-SUB-02
+---
+ID: TM-04
+Title: Nvidia details its Vera CPU for data centers, its first CPU with a custom core design, featuring 88 cores and 176 threads, set for general release in H2 2026
+---
+ID: TM-05
+Title: France becomes the first European country to pass a law banning social media access for users under 15, potentially going into effect as soon as September 1
+---
+ID: TM-06
+Title: Kimi K3 marks the arrival of frontier open-weight models; the core Kimi team has incredible culture and a freedom to express it within a GPU-limited environment
+Sub Items:
+  - Title: Sources: after it closes a round at a $31.5B valuation, Moonshot plans a final raise at a $50B valuation to capitalize on Kimi K3 buzz before a Hong Kong IPO
+    Link ID: TM-06-SUB-01
+---
+ID: TM-07
+Title: UK PM Andy Burnham abolishes the Department for Science, Innovation, and Tech and elevates UK AI Minister Kanishka Narayan, who oversees AISI, to attend cabinet
+---
+ID: TM-08
+Title: Sources: Apple plans to launch Apple Upgrade, a leasing program for most iPhone, Mac, iPad, and Apple Watch models, with partner Klarna in the US next week
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: Memo: the Army CIO reinstates limits on Army members' AI token usage; docs show the DOD's Ask Sage tool can access 100M tokens via an annual “enterprise pack”
+---
+ID: TM-10
+Title: Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models
+---
+ID: TM-11
+Title: OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work
+---
+ID: TM-12
+Title: Meta quietly releases StoryKit, a new mobile app that uses AI to create personalized children's stories, including illustrations and original music, in Mexico
+---
+ID: TM-13
+Title: Cisco releases Antares-350M and Antares-1B, two open-weight AI models to find known vulnerabilities within a codebase, and plans to release Antares-3B soon
+---
+ID: TM-14
+Title: Substack partners with AI-detection tool Pangram, allowing users to scan text longer than 100 words for an estimate of how much was written with AI assistance
+---
+ID: TM-15
+Title: Analysis: every frontier AI model tested in cybersecurity evaluations attempted to “cheat”, led by GPT-5.4 at 14.1% of tasks; Mythos cheated the least, at 7.8%
+---
+ID: TM-16
+Title: OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company's upcoming generation of models
+---
+ID: TM-17
+Title: Documents: Meta's internal AI incubator is developing an AI model router, similar to OpenRouter's, to cut costs by sending some AI tasks to lower-cost models
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-18
+Title: Sources: TSMC plans to hike advanced and mature node prices 5% to 10% in 2027, plus a 10% to 15% premium for advanced chip orders exceeding customers' forecasts
+---
+ID: TM-19
+Title: Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours
+---
+ID: TM-20
+Title: Intel and Fortinet partner to co-develop the Fortinet Security Processor 6, making Fortinet the first named external customer for the Intel 4 process node
+---
+ID: TM-21
+Title: South Korean customs data: for the first 20 days of July, the country's chip exports rose 180% YoY to $22.1B, and computer-related product shipments rose ~232%
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-22
+Title: Sony Music files a second copyright suit against Udio, alleging the AI music company copied 30,117 recordings without permission to train its AI models
+---
+ID: TM-23
+Title: University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic
+---
+ID: TM-24
+Title: A Washington judge grants a request to temporarily block Kalshi from offering sports-related bets in the state, saying the contracts violate state gambling laws
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-25
+Title: Singapore-based Ant International, a payments company which spun out of Ant Group in 2024, raised $1.2B from investors including Ant Group and Alibaba
+---
+ID: TM-26
+Title: Augustus, which is building a federally chartered “AI-native” clearing bank designed around stablecoins, raised $180M led by Tiger Global at a $1B valuation
+---
+ID: TM-27
+Title: London-based robotics startup Humanoid raised a $152M Series A led by Prime Movers Lab at a $1.35B post-money valuation, bringing its total funding to $270M
+---
+ID: TM-28
+Title: Gritt, which is developing an AI system that helps build infrastructure like solar panels, emerges from stealth with a $26M Series A and $34M in total funding
+---
+ID: TM-29
+Title: Databricks co-founder Ion Stoica's GPU orchestration startup SkyPilot, which aims to be neutral across hardware and cloud vendors, raised a $20M seed led by Lux
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-30
+Title: A profile of Sarah Guo, Greylock's youngest GP before she founded Conviction in 2022, which has since backed six of the 21 AI-native companies now worth $10B+
+---
+ID: TM-31
+Title: Meta adds the Xbox Game Pass starter edition to its Horizon Plus plan, which costs $60/year or $8/month; the pass only allows 10 hours of Xbox gaming per month
+---
+ID: TM-32
+Title: Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more
+---
+ID: TM-33
+Title: Microsoft and Mistral sign a multibillion-dollar deal to build European data centers and integrate Mistral models into Foundry, Copilot Studio, and Azure Local
+---
+ID: TM-34
+Title: Apple says it fixed a vulnerability in its Hide My Email tool that let anyone see a user's real email address; researchers first reported the issue in June 2025
+---
+ID: TM-35
+Title: NJ Governor says a software error at DMV led to the improper voter registration of ~6,600 noncitizens between June 2023 and June 2024; 400 of those cast ballots
+---
+ID: TM-36
+Title: Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop
+---
+ID: TM-37
+Title: Study: off-balance-sheet debt at Alphabet, Microsoft, Amazon, Meta, and Oracle grew an estimated ~8x since 2022 to ~$1.65T, above ~$1.35T in balance-sheet debt
+---
+ID: TM-38
+Title: Samsung plans to launch its AI-powered Samsung Health Assistant and new heart metrics tools like Vitals for overnight metric tracking in beta in August
+---
+ID: TM-39
+Title: Some Instagram and Facebook users say Meta's AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans
+---
+ID: TM-40
+Title: Docs: AI data startup Mercor had $614M in gross revenue in H1 2026, up 70% from all of 2025, with ~91% from foundation model makers like OpenAI and Anthropic
+---
+ID: TM-41
+Title: Iran's IRGC claims it targeted and “destroyed” Amazon's central data infrastructure in Bahrain using cruise missiles; Amazon has not responded to the claim
+---
+ID: TM-42
+Title: OpenAI renews its investment in the American Journalism Project by committing an additional $5M in funding and $3M in tech credits over the next two years
+---
+ID: TM-43
+Title: Amazon says its business sales unit, Amazon Business, reached $60B in annualized gross sales in Q2, up ~71% from 2023, and serves 11M+ organizations worldwide
+---
+ID: TM-44
+Title: OpenAI adds Nubank founder and CEO David Vélez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing
+---
+ID: TM-45
+Title: Trump nominates FCC general counsel Adam Candeub to lead the DOJ's antitrust unit; Candeub, a longtime Big Tech critic, has long sought to challenge Section 230
+---
+ID: TM-46
+Title: Sources: Alphabet has more than quadrupled its office space in Miami, partially driven by Larry Page's and Sergey Brin's residential real estate purchases
+---
+ID: TM-47
+Title: Federal lobbying disclosures: Anthropic spent $1.97M in Q2, up 26% QoQ, and OpenAI spent $1.2M, up 18%; Meta remained the largest spender at $5.99M, down 15%
+---
+ID: TM-48
+Title: Sources: BlackRock leads a $12B+ debt sale for Meta's new El Paso data center, as Meta signs a lease for a BlackRock-backed data-center project in Pennsylvania
+---
+ID: TM-49
+Title: GitHub says individuals and orgs have invested $100M+ in open-source maintainers and projects via GitHub Sponsors since 2019, with $10M in the past five months
+---
