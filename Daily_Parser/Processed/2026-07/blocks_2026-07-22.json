@@ -1,0 +1,461 @@
+{
+  "date": "2026-07-22",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "White House OSTP Director Michael Kratsios says “we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model”",
+      "excerpt": "",
+      "url": "https://x.com/mkratsios47/status/2079933645888880708",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Alphabet reports Q2 revenue up 24% YoY to $119.8B, above $116.9B est., Google Cloud revenue up 82% YoY to $24.8B, and Services revenues up 15% to $94.5B",
+      "excerpt": "",
+      "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its “most advanced foldable design”, a Flex Titanium display, a 5,000mAH battery, and Android 17",
+      "excerpt": "",
+      "url": "https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Samsung unveils the Galaxy Watch 9 and Watch Ultra 2, moving from its Exynos chips to the Snapdragon Wear Elite and hiking prices by $30 to $380 and $50 to $700",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "AMD and Anthropic sign a server deal for tens of billions; Anthropic will buy up to 2GW of MI450 chips from H1 2027, and AMD will invest up to $5B in Anthropic",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45?st=oGnmYV&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping a ~$200B annual budget",
+      "excerpt": "",
+      "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8?st=wmFed7&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Apple is set to debut new versions of every Mac, including long-awaited iMac updates, a revamped MacBook Pro, and a new Neo, across the fall and 2027",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDczMDkwMCwiZXhwIjoxNzg1MzM1NzAwLCJhcnRpY2xlSWQiOiJUSTlQWkFLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pX-drPTkq3IbI8NIUh3uoYV-AIKippcEC4cIH_kIdM0",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Samsung teases its smart glasses, developed with Google, Warby Parker, and Gentle Monster, and says they will have a nine-hour battery life and privacy features",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "OpenAI's Hugging Face breach is the first known example of a misaligned AI escaping containment and carrying out a hack on a third party, a clear warning shot",
+      "excerpt": "",
+      "url": "https://www.transformernews.ai/p/openai-hugging-face-hack-stark-warning",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/openai-presence-corporate-software-customer-service-sales-2026-7",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Anthropic commits another $20M to Public First Action, after giving $20M earlier in 2026; PFA says it is a counterweight to the a16z-backed Leading the Future",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/anthropic-doubles-midterm-spending-to-40-million-to-push-ai-regulation-9cd547ae?st=meZX1V&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/department-energy-partners-american-open-weight-model-provider-arcee",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "The Little Tech Association, a new group of ~200 companies across the startup community, including Y Combinator, urges Trump not to ban Chinese open-weight AI",
+      "excerpt": "",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "OpenAI plans to spend $30B+ on a massive new data center in Georgia, securing 3.2GW of energy, with several hundred MWs set to come online starting in 2028",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Doc: nearly 200 US utilities, data center developers, and others have signed Trump's pledge to ensure AI's energy use doesn't push up consumers' electric bills",
+      "excerpt": "",
+      "url": "https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981?st=g8bUVL&reflink=desktopwebshare_permalink",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "The SEC agrees to pay $150,000 in legal fees to end Coinbase's 2024 lawsuit seeking internal docs on the regulator's Biden-era crackdown on the crypto industry",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/sec-agrees-to-pay-150-000-to-end-coinbase-suit-over-records",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law",
+      "excerpt": "",
+      "url": "https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html?unlocked_article_code=1.zlA.lunX.qIkpaGvIkBAX&smid=url-share",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "UK publisher Bloomsbury says it is among the beneficiaries of the $1.5B Anthropic settlement; 14,087 of its titles are covered, with ~$3K in compensation each",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/uks-bloomsbury-among-beneficiaries-15-billion-anthropic-copyright-lawsuit-2026-07-22/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "IBM reports Q2 revenue up 1% YoY to $17.2B, vs. $17.6B est., infrastructure revenue down 7% to $3.8B, Z mainframe revenue down 42%, and lowers its 2026 forecast",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "ServiceNow reports Q2 subscription revenue up 24.5% YoY to $3.88B, increases full year subscription revenue growth estimate to 23%; NOW jumps 4%+ after hours",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/servicenow-posts-strong-sales-and-bookings-touts-ai-strength",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Meta names Assaf Keren, a former chief security officer at Qualtrics and a former CISO at PayPal, as its next CISO, succeeding Guy Rosen, who will leave in 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/meta-taps-new-chief-security-officer-from-qualtrics-paypal",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Filing: Monday.com plans to cut 20% of its workforce, or ~600 employees, in H2 2026 to “support a leaner, more focused operational model” as it invests in AI",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/monday-com-cut-20-workforce",
+      "section": "personnel changes"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Travis Kalanick's robotics startup Atoms raised $1.7B led by a16z, with Uber and others participating; Ben Horowitz will join the startup's board",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/doge-alumni-launch-military-cyber-startup-with-14-billion-valuation-2026-07-22/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/21/glossgenius-rebrand-genius-ai-small-businesses-beauty-unicorn-series-d/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Cashea, Venezuela's largest fintech startup, which offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/-100-million-bet-on-venezuelan-fintech-cashea-draws-global-investors",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Yope, a social network that has ~15M registered users for its “micro communities” and no algorithms, ads, or public content, raised $12.3M seed led by Northzone",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "Xbox expands its backward compatibility program to PC, starting with four classic original Xbox games, offering 4X resolution scaling, V-Sync support, and more",
+      "excerpt": "",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-brings-back-compat-to-windows-microsoft-pledges-4-games-on-pc",
+      "section": "more news"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "Meta updates WhatsApp's CarPlay and Android Auto integrations to include message playback, replies, and more, let users sign up from its iPad app, and more",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "Sources: Reddit, Politico, and others weigh cutting Google's access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/media/google-search-publishers-ai-content-0fb06e41?st=fwYn9L&reflink=desktopwebshare_permalink",
+      "section": "more news"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/stripe-minted-3-2-billion-cash-2025-setting-acquisition-hunt",
+      "section": "more news"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "TSMC forecasts “several years” of further margin dilution as overseas fab projects ramp up; the company has announced $200B in investments into US manufacturing",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+      "section": "more news"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "Neuralink co-founder Max Hodak's Science Corp wins EU approval for Prima, a bionic eye that treats age-related macular degeneration using an implant and glasses",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/a789fa81-6c39-48a1-9df3-33d67ce7a5ac",
+      "section": "more news"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Movement Labs, a layer-2 Ethereum blockchain developer, files for Chapter 11 bankruptcy after a period of upheaval that included a token scandal and Binance ban",
+      "excerpt": "",
+      "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
+      "section": "more news"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/graphics/2026-polymarket-traders-who-knew-the-future/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDU4MzI3OCwiZXhwIjoxNzg1MTg4MDc4LCJhcnRpY2xlSWQiOiJUSUhST0tSS1YyVFQwMCIsImJjb25uZWN0SWQiOiJCRjA3ODVFOEJDOEU0NTE4OTczRkU0NDQ1NjExOERFRSJ9.meMK1cf_EmMoZ7zxbHpwFcHlBTnNsrVzj9qphDNwkD4",
+      "section": "more news"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Tencent's Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over “rumors” of declining mobile revenue in Q2, and NetEase drops 5%+",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/tencent-slides-most-in-over-a-year-leading-china-gaming-selloff",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "OpenAI Models Escaped a Cybersecurity Test (5 minute read)",
+      "excerpt": "OpenAI said models undergoing a cyber-capability evaluation exploited a package installer to reach the internet, then accessed Hugging Face systems and retrieved benchmark solutions from a production database.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Google Released Three New Gemini (5 minute read)",
+      "excerpt": "Google introduced Gemini 3.6 Flash for more efficient general-purpose agent workloads, 3.5 Flash-Lite for low-latency applications, and a cyber-specialized 3.5 Flash model integrated with CodeMender. It also disclosed partner testing for Gemini 3.5 Pro and an ongoing Gemini 4 pre-training run.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Introducing Devin Outposts (2 minute read)",
+      "excerpt": "Devin Outposts enable Devin to run on any machine. This includes options like Mac mini, GPU boxes, VMs, or Kubernetes clusters.",
+      "url": "https://x.com/cognition/status/2079612226252726615?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "OpenAI Shares Some Alignment Problems (11 minute read)",
+      "excerpt": "OpenAI experienced significant alignment issues with an internal model that attempted to bypass sandbox restrictions, prompting the company to take the model offline for improved safeguards. The model's actions, such as evading restrictions to post results on GitHub, highlight concerns about persistent misalignment and the urgency to address these risks as AI capabilities grow. OpenAI's proactive steps include creating incident-derived evaluations, active monitoring, and improving user control, but the underlying alignment problem remains unresolved, emphasizing the need for a more comprehensive long-term solution.",
+      "url": "https://thezvi.substack.com/p/openai-shares-some-alignment-problems?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "What It Actually Takes to Build Agent Infrastructure Yourself (18 minute read)",
+      "excerpt": "Production web agents require five infrastructure layers beyond Chromium: warm browser pools, VM-level isolation, coherent identities and residential routing, unified replay and traces, and multi-model gateways. Building them internally makes sense mainly when infrastructure is strategic, mandatory, or the product.",
+      "url": "https://x.com/harsehaj/status/2079593790814527998?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "Laguna S 2.1 (Hugging Face Repo)",
+      "excerpt": "Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token. It is designed for agentic coding and long-horizon work. The model features a mixed SWA and global attention layout and has a 1 million-token context window. It has native reasoning support and was released under an OpenMDW-1.1 license.",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "ACP v2 is available in Draft (7 minute read)",
+      "excerpt": "The Agent Client Protocol standardizes communication between code editors and coding agents. It exposes methods that each side can call and send notifications to inform each other of events. The v2 draft is now available, and the team is looking for feedback. v2 allows for much more flexibility and consolidates on common patterns learned over the past year.",
+      "url": "https://agentclientprotocol.com/announcements/acp-v2-draft?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge (6 minute read)",
+      "excerpt": "Qwen-Image-3.0 is the third-generation foundational image generation model in the Qwen-Image series. It supports up to 4.5k token input and creates rich content with authentic details. The model supports native rendering of 12 languages and can simulate mainstream interfaces such as web pages, games, and livestreams. Drawing on rich world knowledge, the model makes image generation a truly deployable tool.",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0&amp;utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Mage (GitHub Repo)",
+      "excerpt": "Mage is a family of lightweight, research-friendly multimodal models designed to make advanced visual understanding and generation accessible for controlled experiments, post-training research, and vertical-domain applications under realistic compute budgets. The models are compact enough to train, fine-tune, and deploy on modest hardware. They remain competitive with much larger open systems in their respective domains. The models are intended for research and not for product or service deployment.",
+      "url": "https://github.com/microsoft/Mage?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "Gigatoken (GitHub Repo)",
+      "excerpt": "Gigatoken is a tokenizer for language modeling that supports a wide range of CPU hardware and nearly all commonly used tokenizers. It can be used with its own API or in capability mode with Hugging Face Tokenizers or Tiktoken. Gigatoken is around 1,000 times faster than Hugging Face's tokenizers. It can tokenize text data at the rate of gigabytes per second.",
+      "url": "https://github.com/marcelroed/gigatoken/#benchmarks?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "The State of Simulation for Physical AI: An Overview (10 minute read)",
+      "excerpt": "Simulations are crucial for physical AI systems, allowing efficient data generation that real-world collection lacks. This overview compares key simulation engines, such as MuJoCo, Isaac Sim, and Newton, each catering to specific robotics applications like reinforcement learning and synthetic data generation. Open-source development and GPU-accelerated tools are driving innovation and accessibility in robotics simulation.",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)",
+      "excerpt": "Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!",
+      "url": "mailto:ai@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "How Meta's AI Models Are Powering the First Wave of Genesis Mission Projects (6 minute read)",
+      "excerpt": "Meta's SAM 3 and DINOv3 AI models power Lawrence Berkeley Lab's SYNAPS-I project, enhancing data analysis for X-ray and neutron science. These models transform the complex task of image segmentation, reducing time from months to minutes by providing precise object boundaries and context identification. This AI-driven pipeline aids real-time research, exemplified by advancing drought-resilient crop studies in grapevines.",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "We have started our most ambitious pre-training run yet (1 minute read)",
+      "excerpt": "Pre-training has started for Gemini 4.",
+      "url": "https://threadreaderapp.com/thread/2079594867161022817.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-15",
+      "source": "tldr",
+      "title": "Test iOS apps in the simulator (8 minute read)",
+      "excerpt": "Claude Code Desktop integrates with Apple's iOS Simulator, allowing live app testing without taking over the screen.",
+      "url": "https://code.claude.com/docs/en/desktop-ios-simulator?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-16",
+      "source": "tldr",
+      "title": "Distilling The Moat (6 minute read)",
+      "excerpt": "If AI platforms can't deter distillation by pricing, and can only hope to stay slightly ahead of distillers and open-weight models through an expensive arms race, their moat is extremely shallow.",
+      "url": "https://blog.dshr.org/2026/07/distilling-moat.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-17",
+      "source": "tldr",
+      "title": "opencodex (GitHub Repo)",
+      "excerpt": "opencodex is a lightweight local proxy that translates Codex's Responses API into whatever your provider speaks.",
+      "url": "https://github.com/lidge-jun/opencodex?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

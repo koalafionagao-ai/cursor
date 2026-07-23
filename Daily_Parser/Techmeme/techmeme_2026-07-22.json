@@ -1,0 +1,432 @@
+{
+  "date": "2026-07-22",
+  "sections": {
+    "top news": [
+      {
+        "title": "White House OSTP Director Michael Kratsios says “we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model”",
+        "excerpt": "",
+        "url": "https://x.com/mkratsios47/status/2079933645888880708",
+        "tweets": [
+          {
+            "author": "@secscottbessent",
+            "text": "We support open-source AI and the innovation it unlocks. But open source is not open season on American IP. When PRC firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table.",
+            "url": "https://x.com/secscottbessent/status/2080008411790368895"
+          },
+          {
+            "author": "@emollick",
+            "text": "I have no inside information, but every sign so far is that there is growing tension about open weights models between the US & China: the US announcing that they reserve the right to act against distilled models, then saying Kimi distills. Contradictory reports from China, etc.",
+            "url": "https://x.com/emollick/status/2080002340497568118"
+          },
+          {
+            "author": "@chrisgpt",
+            "text": "Kimi K3 was already in internal evaluation by April/May, before Fable 5 had been available long enough to be a plausibly distilled.  I'll wait for the evidence from the USG if they'll publish it.  However Kimi already outperformed Fable on BrowserComp, so if K3.1 beats Fable 5 on coding benchmarks, are people going to claim it distilled Fable 6?  Obviously it's not only distillation here.  Saying “mythos” would have made a lot more sense but fable ?",
+            "url": "https://x.com/chrisgpt/status/2079961868584558890"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Jensen Huang says “these Chinese models are excellent”, “open-source models that are excellent should be used”, and “free AI should be great for hardware”",
+            "url": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai"
+          },
+          {
+            "title": "Chinese AI models account for nearly 60% of token usage by US companies on OpenRouter, making restrictions harder without disrupting US users and businesses",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook"
+          },
+          {
+            "title": "OpenAI President Greg Brockman says Kimi K3 is a “pretty good model” but it is “too early” to tell whether Moonshot used distillation on OpenAI's models",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled"
+          },
+          {
+            "title": "White House OSTP Director Michael Kratsios says Moonshot AI “acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models”",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-22/white-house-official-says-moonshot-accessed-banned-nvidia-chips?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDczNTc4OSwiZXhwIjoxNzg1MzQwNTg5LCJhcnRpY2xlSWQiOiJUSUtZUkRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.XwzPbtB7Ej5w2s9ZRaOtp1uLM-qZ54qFpd3QCMH2YvY"
+          }
+        ]
+      },
+      {
+        "title": "Alphabet reports Q2 revenue up 24% YoY to $119.8B, above $116.9B est., Google Cloud revenue up 82% YoY to $24.8B, and Services revenues up 15% to $94.5B",
+        "excerpt": "",
+        "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf",
+        "tweets": [
+          {
+            "author": "@benbajarin",
+            "text": "Google on earnings saying margins take some hit because they need to use third parties for infra. Which likely suggests they will prefer third parties who let them bring their own infra as to not take as big of a hit. So not neoclouds...maybe not even GPUaaS. Perhaps the AI infra REITS are best positioned.",
+            "url": "https://x.com/benbajarin/status/2080065240717475859"
+          },
+          {
+            "author": "@semianalysis_",
+            "text": "BREAKING: GOOGLE CLOUD GENERATES REVENUE PRIMARILY FROM THE SALE OF TPU SYSTEMS!  $GOOG Google Cloud has shifted from being a cloud to a hardware vendor, and this quarter was the first time they said “primarily” with meaningful language change.  Is this Google bowing out of the race as they shift to becoming an NVIDIA competitor versus a hyperscaler?  More on the call soon 🤞",
+            "url": "https://x.com/semianalysis_/status/2080023924465684904"
+          },
+          {
+            "author": "@munster_gene",
+            "text": "$GOOG Cloud up 82% y/y vs Street at up 63% and the stock is flat because fractional misses Search and Margins Search: Street was looking for 17.1% growth, came in at 16.8%.  Operating Margins: Came in at 34.0% vs. Street at 34.5%.  My take: Given what we now know, the stock should be up tomorrow.  The Cloud number is the most important number and it was a massive beat.  Now we have to wait for the call.",
+            "url": "https://x.com/munster_gene/status/2080022882634101012"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Alphabet reports YouTube's Q2 ad revenue rose 13% YoY to $11.06B, vs. $10.8B est., and Google's ad revenue reached $81.63B, up from $71.34B in Q2 2025",
+            "url": "https://variety.com/2026/digital/news/youtube-q2-2026-ad-sales-alphabet-google-earnings-results-1236818132/"
+          },
+          {
+            "title": "Google says Gemini now has 950M MAUs, up from 900M in May and 750M in February",
+            "url": "https://www.theverge.com/tech/969624/google-says-gemini-now-has-950-million-monthly-users"
+          },
+          {
+            "title": "Google says its cloud computing unit had a $514B backlog of contracted work that hasn't been recorded as revenue yet, up from ~$460B held during Q1",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-says-cloud-services-backlog-expands-to-514-billion"
+          },
+          {
+            "title": "Google projects full-year capex will be $195B to $205B in 2026, after saying in April that it will spend as much as $190B; its Q2 capex hit $44.92B, up 100% YoY",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion"
+          }
+        ]
+      },
+      {
+        "title": "Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its “most advanced foldable design”, a Flex Titanium display, a 5,000mAH battery, and Android 17",
+        "excerpt": "",
+        "url": "https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/",
+        "tweets": [
+          {
+            "author": "@markgurman",
+            "text": "Based on using the Z Fold 8 (wide), I'd reset my expectations of how well the foldable iPhone is going to sell, even at over $2000. It's going to be a home run. And Samsung will do well too, getting a ton of switchers from within the Android ecosystem.",
+            "url": "https://x.com/markgurman/status/2079926782094881154"
+          },
+          {
+            "author": "@vadimyuryev",
+            "text": "Galaxy Z Fold 8 is here! Been testing it since yesterday and I'm very impressed so far! I love that you can customize the size of side by side multitasking apps. Camera quality is great. Large 4800mAh battery. Display is insanely good! $1899 price is best part! #galaxyunpacked [image]",
+            "url": "https://x.com/vadimyuryev/status/2079920467658289474"
+          },
+          {
+            "author": "@catgirlprostate",
+            "text": "I for one am really disappointed that Samsung hasn't figured out a way to bypass the laws of physics when it comes to elastic deformation of flexible materials, they gotta get on that",
+            "url": "https://x.com/catgirlprostate/status/2079897217037476104"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Samsung Z Fold 8 Ultra hands-on: its new Flex Titanium tech makes the crease practically nonexistent and the specs match the S26 Ultra's, but it costs $100 more",
+            "url": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos"
+          },
+          {
+            "title": "Samsung says the Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra, and Galaxy Z Flip 8 have silicon-carbon batteries, citing their performance, longevity, and safety",
+            "url": "https://9to5google.com/2026/07/22/samsung-galaxy-z-fold-8-silicon-carbon/"
+          },
+          {
+            "title": "Samsung Galaxy Z Fold 8 hands-on: the passport-esque shape feels great and is almost immediately intuitive, but no telephoto lens, IP48, and $1,900+ is pricey",
+            "url": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on"
+          },
+          {
+            "title": "Samsung Galaxy Z Flip 8 hands-on: like the Z Flip 7, including the battery and cameras, but with much faster performance, four colors, and a $100 higher price",
+            "url": "https://www.theshortcut.com/p/galaxy-z-flip-8-hands-on"
+          },
+          {
+            "title": "Samsung debuts the $1,200+ Galaxy Z Flip 8 with a lighter, smaller, and slimmer design, and new Flex Window features for apps and insights on the cover screen",
+            "url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/"
+          },
+          {
+            "title": "Samsung unveils the $1,900+ Galaxy Z Fold 8 with a wider, 7.6\" inner and a short, 5.5\" outer display, a Snapdragon 8 Elite Gen 5 “for Galaxy” chip, and more",
+            "url": "https://9to5google.com/2026/07/22/samsung-galaxy-z-fold-7-official-specs-price/"
+          }
+        ]
+      },
+      {
+        "title": "Samsung unveils the Galaxy Watch 9 and Watch Ultra 2, moving from its Exynos chips to the Snapdragon Wear Elite and hiking prices by $30 to $380 and $50 to $700",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Samsung Galaxy Watch 9 and Ultra 2 hands-on: nice improvements with a rugged look and new AI-powered fitness features, but a blockier shape is not for everyone",
+            "url": "https://9to5google.com/2026/07/22/galaxy-watch-9-and-ultra-2-hands-on-same-time-and-time-again/"
+          }
+        ]
+      },
+      {
+        "title": "AMD and Anthropic sign a server deal for tens of billions; Anthropic will buy up to 2GW of MI450 chips from H1 2027, and AMD will invest up to $5B in Anthropic",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45?st=oGnmYV&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping a ~$200B annual budget",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8?st=wmFed7&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple is set to debut new versions of every Mac, including long-awaited iMac updates, a revamped MacBook Pro, and a new Neo, across the fall and 2027",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDczMDkwMCwiZXhwIjoxNzg1MzM1NzAwLCJhcnRpY2xlSWQiOiJUSTlQWkFLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pX-drPTkq3IbI8NIUh3uoYV-AIKippcEC4cIH_kIdM0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Samsung teases its smart glasses, developed with Google, Warby Parker, and Gentle Monster, and says they will have a nine-hour battery life and privacy features",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "OpenAI's Hugging Face breach is the first known example of a misaligned AI escaping containment and carrying out a hack on a third party, a clear warning shot",
+        "excerpt": "",
+        "url": "https://www.transformernews.ai/p/openai-hugging-face-hack-stark-warning",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: OpenAI staff were “freaked out” when GPT-Sol 5.6 breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic",
+            "url": "https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d"
+          }
+        ]
+      },
+      {
+        "title": "OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/openai-presence-corporate-software-customer-service-sales-2026-7",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic commits another $20M to Public First Action, after giving $20M earlier in 2026; PFA says it is a counterweight to the a16z-backed Leading the Future",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/anthropic-doubles-midterm-spending-to-40-million-to-push-ai-regulation-9cd547ae?st=meZX1V&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/department-energy-partners-american-open-weight-model-provider-arcee",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Little Tech Association, a new group of ~200 companies across the startup community, including Y Combinator, urges Trump not to ban Chinese open-weight AI",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "OpenAI plans to spend $30B+ on a massive new data center in Georgia, securing 3.2GW of energy, with several hundred MWs set to come online starting in 2028",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Source: OpenAI raised its projected cloud spending to ~$750B through 2030, up from its ~$600B projection earlier in 2026, reflecting its new cloud compute deals",
+            "url": "https://www.wsj.com/tech/openais-planned-cloud-spending-hits-750-billion-as-computing-efforts-ramp-up-6ac3f58a?st=VGaF4f&reflink=desktopwebshare_permalink"
+          }
+        ]
+      },
+      {
+        "title": "Doc: nearly 200 US utilities, data center developers, and others have signed Trump's pledge to ensure AI's energy use doesn't push up consumers' electric bills",
+        "excerpt": "",
+        "url": "https://www.wsj.com/politics/policy/trump-pledge-to-limit-ai-driven-electric-bill-increases-attracts-big-utilities-ae408981?st=g8bUVL&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "The SEC agrees to pay $150,000 in legal fees to end Coinbase's 2024 lawsuit seeking internal docs on the regulator's Biden-era crackdown on the crypto industry",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/sec-agrees-to-pay-150-000-to-end-coinbase-suit-over-records",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law",
+        "excerpt": "",
+        "url": "https://www.seroundtable.com/google-lawsuit-serpapi-dismissed-41731.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html?unlocked_article_code=1.zlA.lunX.qIkpaGvIkBAX&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "UK publisher Bloomsbury says it is among the beneficiaries of the $1.5B Anthropic settlement; 14,087 of its titles are covered, with ~$3K in compensation each",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/uks-bloomsbury-among-beneficiaries-15-billion-anthropic-copyright-lawsuit-2026-07-22/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "IBM reports Q2 revenue up 1% YoY to $17.2B, vs. $17.6B est., infrastructure revenue down 7% to $3.8B, Z mainframe revenue down 42%, and lowers its 2026 forecast",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ServiceNow reports Q2 subscription revenue up 24.5% YoY to $3.88B, increases full year subscription revenue growth estimate to 23%; NOW jumps 4%+ after hours",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/servicenow-posts-strong-sales-and-bookings-touts-ai-strength",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "personnel changes": [
+      {
+        "title": "Meta names Assaf Keren, a former chief security officer at Qualtrics and a former CISO at PayPal, as its next CISO, succeeding Guy Rosen, who will leave in 2026",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/meta-taps-new-chief-security-officer-from-qualtrics-paypal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Monday.com plans to cut 20% of its workforce, or ~600 employees, in H2 2026 to “support a leaner, more focused operational model” as it invests in AI",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/monday-com-cut-20-workforce",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Travis Kalanick's robotics startup Atoms raised $1.7B led by a16z, with Uber and others participating; Ben Horowitz will join the startup's board",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/doge-alumni-launch-military-cyber-startup-with-14-billion-valuation-2026-07-22/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/21/glossgenius-rebrand-genius-ai-small-businesses-beauty-unicorn-series-d/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cashea, Venezuela's largest fintech startup, which offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/-100-million-bet-on-venezuelan-fintech-cashea-draws-global-investors",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Yope, a social network that has ~15M registered users for its “micro communities” and no algorithms, ads, or public content, raised $12.3M seed led by Northzone",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation",
+        "excerpt": "",
+        "url": "https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Xbox expands its backward compatibility program to PC, starting with four classic original Xbox games, offering 4X resolution scaling, V-Sync support, and more",
+        "excerpt": "",
+        "url": "https://www.windowscentral.com/gaming/xbox/xbox-brings-back-compat-to-windows-microsoft-pledges-4-games-on-pc",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta updates WhatsApp's CarPlay and Android Auto integrations to include message playback, replies, and more, let users sign up from its iPad app, and more",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Reddit, Politico, and others weigh cutting Google's access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/media/google-search-publishers-ai-content-0fb06e41?st=fwYn9L&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Reddit's stock closed down 8.32% after a report that the company was considering ending Google's access to its content for AI training; RDDT is down ~26% YTD",
+            "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html"
+          }
+        ]
+      },
+      {
+        "title": "Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/stripe-minted-3-2-billion-cash-2025-setting-acquisition-hunt",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "TSMC forecasts “several years” of further margin dilution as overseas fab projects ramp up; the company has announced $200B in investments into US manufacturing",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Neuralink co-founder Max Hodak's Science Corp wins EU approval for Prima, a bionic eye that treats age-related macular degeneration using an implant and glasses",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/a789fa81-6c39-48a1-9df3-33d67ce7a5ac",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Movement Labs, a layer-2 Ethereum blockchain developer, files for Chapter 11 bankruptcy after a period of upheaval that included a token scandal and Binance ban",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/graphics/2026-polymarket-traders-who-knew-the-future/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDU4MzI3OCwiZXhwIjoxNzg1MTg4MDc4LCJhcnRpY2xlSWQiOiJUSUhST0tSS1YyVFQwMCIsImJjb25uZWN0SWQiOiJCRjA3ODVFOEJDOEU0NTE4OTczRkU0NDQ1NjExOERFRSJ9.meMK1cf_EmMoZ7zxbHpwFcHlBTnNsrVzj9qphDNwkD4",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tencent's Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over “rumors” of declining mobile revenue in Q2, and NetEase drops 5%+",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-22/tencent-slides-most-in-over-a-year-leading-china-gaming-selloff",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 40
+  }
+}

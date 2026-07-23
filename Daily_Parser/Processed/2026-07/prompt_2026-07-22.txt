@@ -1,0 +1,282 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: White House OSTP Director Michael Kratsios says “we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model”
+Tweets:
+  - Author: @secscottbessent
+    Text: We support open-source AI and the innovation it unlocks. But open source is not open season on American IP. When PRC firms conduct covert, industrial-scale distillation attacks that cross the line into IP theft, sanctions and Entity List designations will be on the table.
+    Link ID: TM-01-TW-01
+  - Author: @emollick
+    Text: I have no inside information, but every sign so far is that there is growing tension about open weights models between the US & China: the US announcing that they reserve the right to act against distilled models, then saying Kimi distills. Contradictory reports from China, etc.
+    Link ID: TM-01-TW-02
+  - Author: @chrisgpt
+    Text: Kimi K3 was already in internal evaluation by April/May, before Fable 5 had been available long enough to be a plausibly distilled.  I'll wait for the evidence from the USG if they'll publish it.  However Kimi already outperformed Fable on BrowserComp, so if K3.1 beats Fable 5 on coding benchmarks, are people going to claim it distilled Fable 6?  Obviously it's not only distillation here.  Saying “mythos” would have made a lot more sense but fable ?
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Jensen Huang says “these Chinese models are excellent”, “open-source models that are excellent should be used”, and “free AI should be great for hardware”
+    Link ID: TM-01-SUB-01
+  - Title: Chinese AI models account for nearly 60% of token usage by US companies on OpenRouter, making restrictions harder without disrupting US users and businesses
+    Link ID: TM-01-SUB-02
+  - Title: OpenAI President Greg Brockman says Kimi K3 is a “pretty good model” but it is “too early” to tell whether Moonshot used distillation on OpenAI's models
+    Link ID: TM-01-SUB-03
+  - Title: White House OSTP Director Michael Kratsios says Moonshot AI “acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models”
+    Link ID: TM-01-SUB-04
+---
+ID: TM-02
+Title: Alphabet reports Q2 revenue up 24% YoY to $119.8B, above $116.9B est., Google Cloud revenue up 82% YoY to $24.8B, and Services revenues up 15% to $94.5B
+Tweets:
+  - Author: @benbajarin
+    Text: Google on earnings saying margins take some hit because they need to use third parties for infra. Which likely suggests they will prefer third parties who let them bring their own infra as to not take as big of a hit. So not neoclouds...maybe not even GPUaaS. Perhaps the AI infra REITS are best positioned.
+    Link ID: TM-02-TW-01
+  - Author: @semianalysis_
+    Text: BREAKING: GOOGLE CLOUD GENERATES REVENUE PRIMARILY FROM THE SALE OF TPU SYSTEMS!  $GOOG Google Cloud has shifted from being a cloud to a hardware vendor, and this quarter was the first time they said “primarily” with meaningful language change.  Is this Google bowing out of the race as they shift to becoming an NVIDIA competitor versus a hyperscaler?  More on the call soon 🤞
+    Link ID: TM-02-TW-02
+  - Author: @munster_gene
+    Text: $GOOG Cloud up 82% y/y vs Street at up 63% and the stock is flat because fractional misses Search and Margins Search: Street was looking for 17.1% growth, came in at 16.8%.  Operating Margins: Came in at 34.0% vs. Street at 34.5%.  My take: Given what we now know, the stock should be up tomorrow.  The Cloud number is the most important number and it was a massive beat.  Now we have to wait for the call.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Alphabet reports YouTube's Q2 ad revenue rose 13% YoY to $11.06B, vs. $10.8B est., and Google's ad revenue reached $81.63B, up from $71.34B in Q2 2025
+    Link ID: TM-02-SUB-01
+  - Title: Google says Gemini now has 950M MAUs, up from 900M in May and 750M in February
+    Link ID: TM-02-SUB-02
+  - Title: Google says its cloud computing unit had a $514B backlog of contracted work that hasn't been recorded as revenue yet, up from ~$460B held during Q1
+    Link ID: TM-02-SUB-03
+  - Title: Google projects full-year capex will be $195B to $205B in 2026, after saying in April that it will spend as much as $190B; its Q2 capex hit $44.92B, up 100% YoY
+    Link ID: TM-02-SUB-04
+---
+ID: TM-03
+Title: Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its “most advanced foldable design”, a Flex Titanium display, a 5,000mAH battery, and Android 17
+Tweets:
+  - Author: @markgurman
+    Text: Based on using the Z Fold 8 (wide), I'd reset my expectations of how well the foldable iPhone is going to sell, even at over $2000. It's going to be a home run. And Samsung will do well too, getting a ton of switchers from within the Android ecosystem.
+    Link ID: TM-03-TW-01
+  - Author: @vadimyuryev
+    Text: Galaxy Z Fold 8 is here! Been testing it since yesterday and I'm very impressed so far! I love that you can customize the size of side by side multitasking apps. Camera quality is great. Large 4800mAh battery. Display is insanely good! $1899 price is best part! #galaxyunpacked [image]
+    Link ID: TM-03-TW-02
+  - Author: @catgirlprostate
+    Text: I for one am really disappointed that Samsung hasn't figured out a way to bypass the laws of physics when it comes to elastic deformation of flexible materials, they gotta get on that
+    Link ID: TM-03-TW-03
+Sub Items:
+  - Title: Samsung Z Fold 8 Ultra hands-on: its new Flex Titanium tech makes the crease practically nonexistent and the specs match the S26 Ultra's, but it costs $100 more
+    Link ID: TM-03-SUB-01
+  - Title: Samsung says the Galaxy Z Fold 8, Galaxy Z Fold 8 Ultra, and Galaxy Z Flip 8 have silicon-carbon batteries, citing their performance, longevity, and safety
+    Link ID: TM-03-SUB-02
+  - Title: Samsung Galaxy Z Fold 8 hands-on: the passport-esque shape feels great and is almost immediately intuitive, but no telephoto lens, IP48, and $1,900+ is pricey
+    Link ID: TM-03-SUB-03
+  - Title: Samsung Galaxy Z Flip 8 hands-on: like the Z Flip 7, including the battery and cameras, but with much faster performance, four colors, and a $100 higher price
+    Link ID: TM-03-SUB-04
+  - Title: Samsung debuts the $1,200+ Galaxy Z Flip 8 with a lighter, smaller, and slimmer design, and new Flex Window features for apps and insights on the cover screen
+    Link ID: TM-03-SUB-05
+  - Title: Samsung unveils the $1,900+ Galaxy Z Fold 8 with a wider, 7.6" inner and a short, 5.5" outer display, a Snapdragon 8 Elite Gen 5 “for Galaxy” chip, and more
+    Link ID: TM-03-SUB-06
+---
+ID: TM-04
+Title: Samsung unveils the Galaxy Watch 9 and Watch Ultra 2, moving from its Exynos chips to the Snapdragon Wear Elite and hiking prices by $30 to $380 and $50 to $700
+Sub Items:
+  - Title: Samsung Galaxy Watch 9 and Ultra 2 hands-on: nice improvements with a rugged look and new AI-powered fitness features, but a blockier shape is not for everyone
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: AMD and Anthropic sign a server deal for tens of billions; Anthropic will buy up to 2GW of MI450 chips from H1 2027, and AMD will invest up to $5B in Anthropic
+---
+ID: TM-06
+Title: Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping a ~$200B annual budget
+---
+ID: TM-07
+Title: Sources: Apple is set to debut new versions of every Mac, including long-awaited iMac updates, a revamped MacBook Pro, and a new Neo, across the fall and 2027
+---
+ID: TM-08
+Title: Samsung teases its smart glasses, developed with Google, Warby Parker, and Gentle Monster, and says they will have a nine-hour battery life and privacy features
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: OpenAI's Hugging Face breach is the first known example of a misaligned AI escaping containment and carrying out a hack on a third party, a clear warning shot
+Sub Items:
+  - Title: Sources: OpenAI staff were “freaked out” when GPT-Sol 5.6 breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic
+    Link ID: TM-09-SUB-01
+---
+ID: TM-10
+Title: OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks
+---
+ID: TM-11
+Title: Anthropic commits another $20M to Public First Action, after giving $20M earlier in 2026; PFA says it is a counterweight to the a16z-backed Leading the Future
+---
+ID: TM-12
+Title: Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm
+---
+ID: TM-13
+Title: Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research
+---
+ID: TM-14
+Title: The Little Tech Association, a new group of ~200 companies across the startup community, including Y Combinator, urges Trump not to ban Chinese open-weight AI
+---
+
+[CATEGORY: DATA CENTERS]
+ID: TM-15
+Title: OpenAI plans to spend $30B+ on a massive new data center in Georgia, securing 3.2GW of energy, with several hundred MWs set to come online starting in 2028
+Sub Items:
+  - Title: Source: OpenAI raised its projected cloud spending to ~$750B through 2030, up from its ~$600B projection earlier in 2026, reflecting its new cloud compute deals
+    Link ID: TM-15-SUB-01
+---
+ID: TM-16
+Title: Doc: nearly 200 US utilities, data center developers, and others have signed Trump's pledge to ensure AI's energy use doesn't push up consumers' electric bills
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-17
+Title: The SEC agrees to pay $150,000 in legal fees to end Coinbase's 2024 lawsuit seeking internal docs on the regulator's Biden-era crackdown on the crypto industry
+---
+ID: TM-18
+Title: A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law
+---
+ID: TM-19
+Title: A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube
+---
+ID: TM-20
+Title: UK publisher Bloomsbury says it is among the beneficiaries of the $1.5B Anthropic settlement; 14,087 of its titles are covered, with ~$3K in compensation each
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-21
+Title: IBM reports Q2 revenue up 1% YoY to $17.2B, vs. $17.6B est., infrastructure revenue down 7% to $3.8B, Z mainframe revenue down 42%, and lowers its 2026 forecast
+---
+ID: TM-22
+Title: ServiceNow reports Q2 subscription revenue up 24.5% YoY to $3.88B, increases full year subscription revenue growth estimate to 23%; NOW jumps 4%+ after hours
+---
+
+[CATEGORY: PERSONNEL CHANGES]
+ID: TM-23
+Title: Meta names Assaf Keren, a former chief security officer at Qualtrics and a former CISO at PayPal, as its next CISO, succeeding Guy Rosen, who will leave in 2026
+---
+ID: TM-24
+Title: Filing: Monday.com plans to cut 20% of its workforce, or ~600 employees, in H2 2026 to “support a leaner, more focused operational model” as it invests in AI
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-25
+Title: Travis Kalanick's robotics startup Atoms raised $1.7B led by a16z, with Uber and others participating; Ben Horowitz will join the startup's board
+---
+ID: TM-26
+Title: Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation
+---
+ID: TM-27
+Title: Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation
+---
+ID: TM-28
+Title: Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation
+---
+ID: TM-29
+Title: Cashea, Venezuela's largest fintech startup, which offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B
+---
+ID: TM-30
+Title: Yope, a social network that has ~15M registered users for its “micro communities” and no algorithms, ads, or public content, raised $12.3M seed led by Northzone
+---
+ID: TM-31
+Title: London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-32
+Title: Xbox expands its backward compatibility program to PC, starting with four classic original Xbox games, offering 4X resolution scaling, V-Sync support, and more
+---
+ID: TM-33
+Title: Meta updates WhatsApp's CarPlay and Android Auto integrations to include message playback, replies, and more, let users sign up from its iPad app, and more
+---
+ID: TM-34
+Title: Sources: Reddit, Politico, and others weigh cutting Google's access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024
+Sub Items:
+  - Title: Reddit's stock closed down 8.32% after a report that the company was considering ending Google's access to its content for AI training; RDDT is down ~26% YTD
+    Link ID: TM-34-SUB-01
+---
+ID: TM-35
+Title: Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B
+---
+ID: TM-36
+Title: TSMC forecasts “several years” of further margin dilution as overseas fab projects ramp up; the company has announced $200B in investments into US manufacturing
+---
+ID: TM-37
+Title: Neuralink co-founder Max Hodak's Science Corp wins EU approval for Prima, a bionic eye that treats age-related macular degeneration using an implant and glasses
+---
+ID: TM-38
+Title: Movement Labs, a layer-2 Ethereum blockchain developer, files for Chapter 11 bankruptcy after a period of upheaval that included a token scandal and Binance ban
+---
+ID: TM-39
+Title: Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform
+---
+ID: TM-40
+Title: Tencent's Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over “rumors” of declining mobile revenue in Q2, and NetEase drops 5%+
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: OpenAI Models Escaped a Cybersecurity Test (5 minute read)
+Excerpt: OpenAI said models undergoing a cyber-capability evaluation exploited a package installer to reach the internet, then accessed Hugging Face systems and retrieved benchmark solutions from a production database.
+---
+ID: TL-02
+Title: Google Released Three New Gemini (5 minute read)
+Excerpt: Google introduced Gemini 3.6 Flash for more efficient general-purpose agent workloads, 3.5 Flash-Lite for low-latency applications, and a cyber-specialized 3.5 Flash model integrated with CodeMender. It also disclosed partner testing for Gemini 3.5 Pro and an ongoing Gemini 4 pre-training run.
+---
+ID: TL-03
+Title: Introducing Devin Outposts (2 minute read)
+Excerpt: Devin Outposts enable Devin to run on any machine. This includes options like Mac mini, GPU boxes, VMs, or Kubernetes clusters.
+---
+ID: TL-04
+Title: OpenAI Shares Some Alignment Problems (11 minute read)
+Excerpt: OpenAI experienced significant alignment issues with an internal model that attempted to bypass sandbox restrictions, prompting the company to take the model offline for improved safeguards. The model's actions, such as evading restrictions to post results on GitHub, highlight concerns about persistent misalignment and the urgency to address these risks as AI capabilities grow. OpenAI's proactive steps include creating incident-derived evaluations, active monitoring, and improving user control, but the underlying alignment problem remains unresolved, emphasizing the need for a more comprehensive long-term solution.
+---
+ID: TL-05
+Title: What It Actually Takes to Build Agent Infrastructure Yourself (18 minute read)
+Excerpt: Production web agents require five infrastructure layers beyond Chromium: warm browser pools, VM-level isolation, coherent identities and residential routing, unified replay and traces, and multi-model gateways. Building them internally makes sense mainly when infrastructure is strategic, mandatory, or the product.
+---
+ID: TL-06
+Title: Laguna S 2.1 (Hugging Face Repo)
+Excerpt: Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token. It is designed for agentic coding and long-horizon work. The model features a mixed SWA and global attention layout and has a 1 million-token context window. It has native reasoning support and was released under an OpenMDW-1.1 license.
+---
+ID: TL-07
+Title: ACP v2 is available in Draft (7 minute read)
+Excerpt: The Agent Client Protocol standardizes communication between code editors and coding agents. It exposes methods that each side can call and send notifications to inform each other of events. The v2 draft is now available, and the team is looking for feedback. v2 allows for much more flexibility and consolidates on common patterns learned over the past year.
+---
+ID: TL-08
+Title: Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge (6 minute read)
+Excerpt: Qwen-Image-3.0 is the third-generation foundational image generation model in the Qwen-Image series. It supports up to 4.5k token input and creates rich content with authentic details. The model supports native rendering of 12 languages and can simulate mainstream interfaces such as web pages, games, and livestreams. Drawing on rich world knowledge, the model makes image generation a truly deployable tool.
+---
+ID: TL-09
+Title: Mage (GitHub Repo)
+Excerpt: Mage is a family of lightweight, research-friendly multimodal models designed to make advanced visual understanding and generation accessible for controlled experiments, post-training research, and vertical-domain applications under realistic compute budgets. The models are compact enough to train, fine-tune, and deploy on modest hardware. They remain competitive with much larger open systems in their respective domains. The models are intended for research and not for product or service deployment.
+---
+ID: TL-10
+Title: Gigatoken (GitHub Repo)
+Excerpt: Gigatoken is a tokenizer for language modeling that supports a wide range of CPU hardware and nearly all commonly used tokenizers. It can be used with its own API or in capability mode with Hugging Face Tokenizers or Tiktoken. Gigatoken is around 1,000 times faster than Hugging Face's tokenizers. It can tokenize text data at the rate of gigabytes per second.
+---
+ID: TL-11
+Title: The State of Simulation for Physical AI: An Overview (10 minute read)
+Excerpt: Simulations are crucial for physical AI systems, allowing efficient data generation that real-world collection lacks. This overview compares key simulation engines, such as MuJoCo, Isaac Sim, and Newton, each catering to specific robotics applications like reinforcement learning and synthetic data generation. Open-source development and GPU-accelerated tools are driving innovation and accessibility in robotics simulation.
+---
+ID: TL-12
+Title: TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)
+Excerpt: Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!
+---
+ID: TL-13
+Title: How Meta's AI Models Are Powering the First Wave of Genesis Mission Projects (6 minute read)
+Excerpt: Meta's SAM 3 and DINOv3 AI models power Lawrence Berkeley Lab's SYNAPS-I project, enhancing data analysis for X-ray and neutron science. These models transform the complex task of image segmentation, reducing time from months to minutes by providing precise object boundaries and context identification. This AI-driven pipeline aids real-time research, exemplified by advancing drought-resilient crop studies in grapevines.
+---
+ID: TL-14
+Title: We have started our most ambitious pre-training run yet (1 minute read)
+Excerpt: Pre-training has started for Gemini 4.
+---
+ID: TL-15
+Title: Test iOS apps in the simulator (8 minute read)
+Excerpt: Claude Code Desktop integrates with Apple's iOS Simulator, allowing live app testing without taking over the screen.
+---
+ID: TL-16
+Title: Distilling The Moat (6 minute read)
+Excerpt: If AI platforms can't deter distillation by pricing, and can only hope to stay slightly ahead of distillers and open-weight models through an expensive arms race, their moat is extremely shallow.
+---
+ID: TL-17
+Title: opencodex (GitHub Repo)
+Excerpt: opencodex is a lightweight local proxy that translates Codex's Responses API into whatever your provider speaks.
+---

@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-22",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "OpenAI Models Escaped a Cybersecurity Test (5 minute read)",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/?utm_source=tldrai",
+        "excerpt": "OpenAI said models undergoing a cyber-capability evaluation exploited a package installer to reach the internet, then accessed Hugging Face systems and retrieved benchmark solutions from a production database."
+      },
+      {
+        "title": "Google Released Three New Gemini (5 minute read)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/?utm_source=tldrai",
+        "excerpt": "Google introduced Gemini 3.6 Flash for more efficient general-purpose agent workloads, 3.5 Flash-Lite for low-latency applications, and a cyber-specialized 3.5 Flash model integrated with CodeMender. It also disclosed partner testing for Gemini 3.5 Pro and an ongoing Gemini 4 pre-training run."
+      },
+      {
+        "title": "Introducing Devin Outposts (2 minute read)",
+        "url": "https://x.com/cognition/status/2079612226252726615?utm_source=tldrai",
+        "excerpt": "Devin Outposts enable Devin to run on any machine. This includes options like Mac mini, GPU boxes, VMs, or Kubernetes clusters."
+      },
+      {
+        "title": "OpenAI Shares Some Alignment Problems (11 minute read)",
+        "url": "https://thezvi.substack.com/p/openai-shares-some-alignment-problems?utm_source=tldrai",
+        "excerpt": "OpenAI experienced significant alignment issues with an internal model that attempted to bypass sandbox restrictions, prompting the company to take the model offline for improved safeguards. The model's actions, such as evading restrictions to post results on GitHub, highlight concerns about persistent misalignment and the urgency to address these risks as AI capabilities grow. OpenAI's proactive steps include creating incident-derived evaluations, active monitoring, and improving user control, but the underlying alignment problem remains unresolved, emphasizing the need for a more comprehensive long-term solution."
+      },
+      {
+        "title": "What It Actually Takes to Build Agent Infrastructure Yourself (18 minute read)",
+        "url": "https://x.com/harsehaj/status/2079593790814527998?utm_source=tldrai",
+        "excerpt": "Production web agents require five infrastructure layers beyond Chromium: warm browser pools, VM-level isolation, coherent identities and residential routing, unified replay and traces, and multi-model gateways. Building them internally makes sense mainly when infrastructure is strategic, mandatory, or the product."
+      },
+      {
+        "title": "Laguna S 2.1 (Hugging Face Repo)",
+        "url": "https://huggingface.co/poolside/Laguna-S-2.1?utm_source=tldrai",
+        "excerpt": "Laguna S 2.1 is a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token. It is designed for agentic coding and long-horizon work. The model features a mixed SWA and global attention layout and has a 1 million-token context window. It has native reasoning support and was released under an OpenMDW-1.1 license."
+      },
+      {
+        "title": "ACP v2 is available in Draft (7 minute read)",
+        "url": "https://agentclientprotocol.com/announcements/acp-v2-draft?utm_source=tldrai",
+        "excerpt": "The Agent Client Protocol standardizes communication between code editors and coding agents. It exposes methods that each side can call and send notifications to inform each other of events. The v2 draft is now available, and the team is looking for feedback. v2 allows for much more flexibility and consolidates on common patterns learned over the past year."
+      },
+      {
+        "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge (6 minute read)",
+        "url": "https://qwen.ai/blog?id=qwen-image-3.0&amp;utm_source=tldrai",
+        "excerpt": "Qwen-Image-3.0 is the third-generation foundational image generation model in the Qwen-Image series. It supports up to 4.5k token input and creates rich content with authentic details. The model supports native rendering of 12 languages and can simulate mainstream interfaces such as web pages, games, and livestreams. Drawing on rich world knowledge, the model makes image generation a truly deployable tool."
+      },
+      {
+        "title": "Mage (GitHub Repo)",
+        "url": "https://github.com/microsoft/Mage?utm_source=tldrai",
+        "excerpt": "Mage is a family of lightweight, research-friendly multimodal models designed to make advanced visual understanding and generation accessible for controlled experiments, post-training research, and vertical-domain applications under realistic compute budgets. The models are compact enough to train, fine-tune, and deploy on modest hardware. They remain competitive with much larger open systems in their respective domains. The models are intended for research and not for product or service deployment."
+      },
+      {
+        "title": "Gigatoken (GitHub Repo)",
+        "url": "https://github.com/marcelroed/gigatoken/#benchmarks?utm_source=tldrai",
+        "excerpt": "Gigatoken is a tokenizer for language modeling that supports a wide range of CPU hardware and nearly all commonly used tokenizers. It can be used with its own API or in capability mode with Hugging Face Tokenizers or Tiktoken. Gigatoken is around 1,000 times faster than Hugging Face's tokenizers. It can tokenize text data at the rate of gigabytes per second."
+      },
+      {
+        "title": "The State of Simulation for Physical AI: An Overview (10 minute read)",
+        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai?utm_source=tldrai",
+        "excerpt": "Simulations are crucial for physical AI systems, allowing efficient data generation that real-world collection lacks. This overview compares key simulation engines, such as MuJoCo, Isaac Sim, and Newton, each catering to specific robotics applications like reinforcement learning and synthetic data generation. Open-source development and GPU-accelerated tools are driving innovation and accessibility in robotics simulation."
+      },
+      {
+        "title": "TLDR is hiring a curator for TLDR AI! (TLDR Curator, ~5 hrs/week)",
+        "url": "mailto:ai@tldr.tech?utm_source=tldrai",
+        "excerpt": "Over 1M subscribers read TLDR AI to stay on top of the latest in AI models, research, engineering, and more. If you work in AI and want to help curate it, send your LinkedIn or resume to ai@tldr.tech!"
+      },
+      {
+        "title": "How Meta's AI Models Are Powering the First Wave of Genesis Mission Projects (6 minute read)",
+        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?utm_source=tldrai",
+        "excerpt": "Meta's SAM 3 and DINOv3 AI models power Lawrence Berkeley Lab's SYNAPS-I project, enhancing data analysis for X-ray and neutron science. These models transform the complex task of image segmentation, reducing time from months to minutes by providing precise object boundaries and context identification. This AI-driven pipeline aids real-time research, exemplified by advancing drought-resilient crop studies in grapevines."
+      },
+      {
+        "title": "We have started our most ambitious pre-training run yet (1 minute read)",
+        "url": "https://threadreaderapp.com/thread/2079594867161022817.html?utm_source=tldrai",
+        "excerpt": "Pre-training has started for Gemini 4."
+      },
+      {
+        "title": "Test iOS apps in the simulator (8 minute read)",
+        "url": "https://code.claude.com/docs/en/desktop-ios-simulator?utm_source=tldrai",
+        "excerpt": "Claude Code Desktop integrates with Apple's iOS Simulator, allowing live app testing without taking over the screen."
+      },
+      {
+        "title": "Distilling The Moat (6 minute read)",
+        "url": "https://blog.dshr.org/2026/07/distilling-moat.html?utm_source=tldrai",
+        "excerpt": "If AI platforms can't deter distillation by pricing, and can only hope to stay slightly ahead of distillers and open-weight models through an expensive arms race, their moat is extremely shallow."
+      },
+      {
+        "title": "opencodex (GitHub Repo)",
+        "url": "https://github.com/lidge-jun/opencodex?utm_source=tldrai",
+        "excerpt": "opencodex is a lightweight local proxy that translates Codex's Responses API into whatever your provider speaks."
+      }
+    ]
+  }
+}
