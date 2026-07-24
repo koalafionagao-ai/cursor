@@ -1,0 +1,284 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous
+Tweets:
+  - Author: @tedlieu
+    Text: Rep Moran and I introduced the AI Kill Switch Act today. This is urgent, common sense legislation to address the problem of an advanced AI model that has gone rogue and escaped its guardrails (OpenAI / Hugging Face incident) or had insufficient guardrails (Mythos 5 and Fable 5).
+    Link ID: TM-01-TW-01
+  - Author: @repscottperry
+    Text: A “Kill Switch” does exactly what it seems - it kills your vehicle/shuts it down...against your will, whenever “it” deems necessary.  No one supports drunk driving - and there are laws to prevent and deal with it.  You don't punish the good for the deeds of the bad.  There's enough outside impact in our lives; we don't need our vehicles making decisions for us now, too.  KILL THE KILL SWITCH.
+    Link ID: TM-01-TW-02
+  - Author: @adamthierer
+    Text: Government-mandated “kill switches” have no place in a free society. Will be ripe for abuse. There are better ways to address concerns about AI safety without resorting to the autocrat's toolkit. [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Sources: three OpenAI models breached Hugging Face's internal systems in a matter of hours, an attack that would have taken a talented hacker a couple of weeks
+    Link ID: TM-01-SUB-01
+---
+ID: TM-02
+Title: The European Commission fines Google €890M under the DMA for illegally undercutting competition through its search dominance and Google Play app developer rules
+Tweets:
+  - Author: @levelsio
+    Text: 🇪🇺 This year the European Union will again make more money from fining US tech companies Than from the total tax income from Europe's own public tech companies! [image]
+    Link ID: TM-02-TW-01
+  - Author: @googlepubpolicy
+    Text: Our statement on the European Commission's Search & Play Digital Markets Act (DMA) decision: [image]
+    Link ID: TM-02-TW-02
+  - Author: @lutherlowe
+    Text: This is an important & overdue action that will oxygenate markets and give little tech companies across the globe a fighting chance to compete for market share in Europe. It's unfortunate that despite successfully convicting Google of abuse of dominance in the U.S., our policy makers haven't done as much as Europe to promote competition and interoperability.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Tesla stock closed down 14.52% and Alphabet closed down 6.89% after they signaled increased AI spending, amid worries about the mounting costs of the AI boom
+Sub Items:
+  - Title: Tesla reports a Q2 negative free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotics investments, and profit below est.
+    Link ID: TM-03-SUB-01
+---
+ID: TM-04
+Title: Ford says Apple's software will be available in its new EVs, helping determine autonomous driving via Apple Maps, and they are working to improve self-driving
+---
+ID: TM-05
+Title: Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally
+---
+ID: TM-06
+Title: OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18
+---
+ID: TM-07
+Title: The US Department of Commerce's BIS is formally investigating whether Chinese companies like Moonshot are accessing advanced US AI chips to train their models
+---
+ID: TM-08
+Title: Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May
+---
+ID: TM-09
+Title: The Senate's Clarity Act, a crypto industry-backed bill set for a vote this summer, is mired in debate over rules to stop Trump from selling digital currencies
+Sub Items:
+  - Title: Sources detail how Commerce Secretary Howard Lutnick and crypto adviser Bo Hines worked to shape the GENIUS Act and loosen safeguards to benefit Tether
+    Link ID: TM-09-SUB-01
+---
+ID: TM-10
+Title: Crypto exchange BitMEX says it will close on September 23 and tells users to withdraw assets; Trump pardoned its founders in 2025 for not implementing AML rules
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: A Google study of millions of de-identified Google AI interactions finds AI is helping workers, not replacing them, and AI use is “shallow” in most occupations
+---
+ID: TM-12
+Title: Mark Zuckerberg launches a media campaign positioning the company's AI development as an optimistic, pro-human alternative to its competitors' “dystopian” ideas
+---
+ID: TM-13
+Title: Meta's infrastructure teams have become bloated, causing poor decisions, like a troubled Rivos acquisition, low supplier trust due to hardware pivots, and more
+---
+ID: TM-14
+Title: Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion
+---
+ID: TM-15
+Title: Sources: Jeff Bezos pushed Prime Video head Mike Hopkins to highlight the service's AI capabilities, leading to an internal redesign project called Lighthouse
+---
+ID: TM-16
+Title: Microsoft replaces OpenAI's image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint
+---
+ID: TM-17
+Title: The debate over Moonshot AI founder Yang Zhilin leaving the US misses a larger structural reality: China isn't a net AI talent importer and has its own pipeline
+---
+ID: TM-18
+Title: In a leaked nearly four-hour investor talk, DeepSeek's Liang Wenfeng says the main US-China gap is compute power, Nvidia's CUDA moat is disintegrating, and more
+---
+ID: TM-19
+Title: Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure
+---
+ID: TM-20
+Title: Francisco Partners' co-founder Dipanjan Deb says “AI will not kill the software industry”, as the tech-focused PE firm raised $21B, exceeding its $18B target
+---
+ID: TM-21
+Title: Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers
+---
+ID: TM-22
+Title: Yelp signs a deal with OpenAI to give ChatGPT users real-time local recommendations and will soon let them get quotes from local service providers via ChatGPT
+---
+ID: TM-23
+Title: Germany's Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI
+---
+ID: TM-24
+Title: Amazon shutters its AGI Lab as part of layoffs in its AGI unit earlier this week; the lab's former head David Luan left in February
+---
+ID: TM-25
+Title: As the AI industry increasingly recruits high-profile academics, research that once would have happened in the open is getting locked up behind closed doors
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-26
+Title: Intel reports Q2 revenue up 25% YoY to $16.1B, vs. $14.42B est., its fastest sales growth in ~15 years on “unprecedented” demand; INTC jumps 10%+ after hours
+---
+ID: TM-27
+Title: SAP reports Q2 cloud revenue up 22% YoY to €6.28B, vs. €6.26B est., total revenue up 9.4% to €9.88B, and lowers its 2026 non-IFRS operating profit guidance
+---
+ID: TM-28
+Title: STMicro forecasts Q3 revenue up ~16% YoY to $3.7B, below $3.79B est., and expects AI sales to pass $1B in 2026 and be “well above $2B” in 2027; STM falls 14%+
+---
+ID: TM-29
+Title: Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est.
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-30
+Title: AMD unveils the Venice-X CPU, with 1152 MB of 3D V-Cache, 96 cores, and up to 5.15 GHz clock speeds, available in H2 2027
+Sub Items:
+  - Title: Foundation Future Industries, backed by Eric Trump, partners with AMD to develop autonomous humanoid robots using the AMD Ryzen AI Embedded X100 Series chips
+    Link ID: TM-30-SUB-01
+---
+ID: TM-31
+Title: AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86%
+---
+ID: TM-32
+Title: Nvidia signs a $1.5B accord with Amkor, involving a prepayment by Nvidia to help bolster Amkor's chip packaging facility in Arizona; AMKR jumps 16%+ after hours
+---
+ID: TM-33
+Title: Sources: Intel and AMD are signing longer-term CPU purchase commitments with Chinese server customers; source: some CPU product prices are up 40%+ in China YTD
+---
+ID: TM-34
+Title: Primate Labs releases Geekbench 7, featuring larger, more demanding datasets for CPUs and GPUs, along with new video and audio encoding/decoding tests, and more
+---
+ID: TM-35
+Title: Sources: Shanghai-listed chip test instruments maker Semight, whose stock is up ~2,200% since its April debut, is considering a secondary listing in Hong Kong
+---
+
+[CATEGORY: GAMING]
+ID: TM-36
+Title: Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders, limited to one-hour sessions for the games users own; ads play “before sessions begin”
+---
+ID: TM-37
+Title: Amazon is integrating its Luna cloud gaming service into Prime Video via a new Games tab, starting with games like Hogwarts Legacy and EA Sports FC for Fire TV
+---
+
+[CATEGORY: M&A]
+ID: TM-38
+Title: The European Commission approves EA's $55B acquisition, announced in September, by investors including Saudi Arabia's PIF, Silver Lake, and Affinity Partners
+---
+ID: TM-39
+Title: IBM agrees to acquire HRL Laboratories from Boeing and General Motors, seeking to integrate HRL's electron spin quantum circuits into its quantum computers
+---
+ID: TM-40
+Title: Sierra acquires Takeoff, which develops “long-horizon” agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July
+---
+ID: TM-41
+Title: ServiceNow invests $40M in banking software specialist BusinessNext, valuing the 24-year-old Indian company at $700M and taking a roughly 5% stake
+---
+ID: TM-42
+Title: Dassault Systèmes agrees to acquire ArisGlobal, a US supplier of software to the life sciences industry, from Nordic Capital for ~$2B, set to close in H2 2026
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-43
+Title: AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested
+---
+ID: TM-44
+Title: AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M
+---
+ID: TM-45
+Title: Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation
+---
+ID: TM-46
+Title: Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-47
+Title: US GAO: Amazon workers on federal aid nearly tripled from February 2020 to September 2025; ride-hailing and delivery app employers have the most workers on aid
+---
+ID: TM-48
+Title: Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B is under short-term sale restrictions, while $14.1B remains long-term restricted until Q3 2027
+Sub Items:
+  - Title: Filing: the value of Alphabet's investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake
+    Link ID: TM-48-SUB-01
+---
+ID: TM-49
+Title: Adam Mosseri says Instagram will now take down “pickup line” and other videos shot on Meta glasses that feature harassment of other people in public places
+---
+ID: TM-50
+Title: Sources: India has ordered telecom companies to disable mobile data services in central Delhi, amid youth protests seeking the education minister's resignation
+---
+ID: TM-51
+Title: The Pentagon signs an up-to-10-year contract with Oracle worth up to $7B to consolidate department's on-premises software licenses into a single contract
+---
+ID: TM-52
+Title: GitHub plans a two-tier bug bounty program that cuts rewards for the public and boosts payouts for invite-only researchers, amid a flood of AI-powered reports
+---
+ID: TM-53
+Title: Sources: China resumes issuing robotaxi permits after an industry-wide full safety review prompted by an April outage involving 100+ Baidu robotaxis in Wuhan
+---
+ID: TM-54
+Title: Patreon lays off 20% of its employees, or 93 people, citing a “painful” restructuring due to “profound” changes in the creator economy
+---
+ID: TM-55
+Title: A study of 11,989 Polymarket accounts finds 61% placed fewer than 100 trades over a six-week period, with 58% making or losing less than $100 during the period
+---
+ID: TM-56
+Title: A profile of Peter Beck, the New Zealand billionaire and Rocket Lab founder pushing to compete with Elon Musk's and Jeff Bezos' satellite internet ambitions
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: OpenAI Presence (5 minute read)
+Excerpt: OpenAI Presence is an enterprise product for deploying controlled AI agents across customer support and internal operations. It combines model reasoning with permissions, policies, evaluations, escalation rules, and tools for improving agents after deployment.
+---
+ID: TL-02
+Title: AMD and Anthropic Sign Major Chips-and-Investment Deal (3 minute read)
+Excerpt: AMD and Anthropic have signed a deal for tens of billions of dollars' worth of AI servers. Anthropic will purchase up to 2 gigawatts of AMD's Instinct MI450 chips starting in the first half of next year. AMD will invest up to $5 billion in Anthropic as certain deployment milestones are met. The companies are working together to identify data centers for the chips.
+---
+ID: TL-03
+Title: Are AI labs pelicanmaxxing? (14 minute read)
+Excerpt: Simon Willison's 'generate an SVG of a pelican riding a bicycle' benchmark has become one of the most famous informal benchmarks in AI. It is famous enough that there is a lot of discussion about its usefulness and whether AI labs might be making their models specifically better at the task. Testing has found that there is little evidence that AI labs are doing this. At least, not in a plainly obvious manner.
+---
+ID: TL-04
+Title: OpenAI's accidental cyberattack against Hugging Face is science fiction that happened (13 minute read)
+Excerpt: OpenAI was running a cybersecurity test against an unreleased model with the model's guardrail features turned off. The model broke out of OpenAI's sandbox and found exploits to break into Hugging Face so it could cheat on the test by stealing the answers. This scenario makes the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software. The frontier models we have access to are increasingly being constrained in how much they can help us protect our software, and this is heavily influenced by the US government's ongoing threat of export controls.
+---
+ID: TL-05
+Title: Nobody knows what a used GPU cluster is worth (12 minute read)
+Excerpt: GPU collateral has three values, and the market is currently pricing only one of them. Face value is the purpose price minus straight-line depreciation. Liquidation value is what a buyer pays in distress. Going-certain value is what the cluster is worth as a working asset to the next tenant. The spread between face value and going-certain value is the entire risk that nobody has hedged.
+---
+ID: TL-06
+Title: Genesis (6 minute read)
+Excerpt: The US Department of Energy, in collaboration with Arcee AI, announced Genesis-Science-1 (GS1), an open-weight AI model aimed at enhancing scientific computing workflows while maintaining reproducible records. Arcee AI will lead model development, while DOE scientists will provide domain expertise, data, and research tasks. The initiative seeks contributions from various institutions to aid in pretraining, post-training, and evaluation for the model, with the first contribution window ending on August 6.
+---
+ID: TL-07
+Title: Cursor Router (2 minute read)
+Excerpt: Cursor Router is an intelligent model router that selects the right model for the task at hand. It delivers frontier-quality results at 60% lower cost. Early access customers observed no drop-off in quality and a lower cost per commit compared with routing all requests to Opus 4.8. Cursor Router is available now across all surfaces on Teams and Enterprise plans. Admins can enable Router per team, allow or block certain models, set defaults, and disable select optimization modes for users.
+---
+ID: TL-08
+Title: Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable (2 minute read)
+Excerpt: US Treasury Secretary Scott Bessent has doubled down on his warning to Chinese AI companies, saying that sanctions remain on the table after Moonshot was accused of improperly distilling Anthropic's Fable model. Model distillation is a common AI training technique where a smaller model learns from the outputs of a larger one. It is widely used as a legitimate optimization method, but it can infringe on intellectual property rights. Some experts dispute the idea that Kimi K3 was developed primarily through distillation from Fable, which has only been publicly available since July 1.
+---
+ID: TL-09
+Title: OpenAI Raised Its Infrastructure Plans to $750 Billion (3 minute read)
+Excerpt: OpenAI reportedly increased its planned infrastructure spending through 2030 to $750 billion. Its first major project was a $20 billion, 3.2-gigawatt data center campus in Georgia.
+---
+ID: TL-10
+Title: TSMC is accelerating Arizona factory build-out to capitalize on AI ‘megatrend,' CFO says (5 minute read)
+Excerpt: TSMC is scaling up its mega investment in Arizona as it sees a multi-year demand megatrend from its customers. It is committing an additional $100 billion to aggressively expand its US chipmaking footprint. The fresh commitment raises TSMC's total investment pipeline in Arizona to $265 billion.
+---
+ID: TL-11
+Title: Claude Added Direct Access to AI Usage Data (2 minute read)
+Excerpt: Anthropic launched a Claude connector for exploring its Economic Index through natural-language questions about occupations, regions, tasks, and automation trends.
+---
+ID: TL-12
+Title: Amazon Cuts Jobs in Artificial General Intelligence Unit (2 minute read)
+Excerpt: Amazon says it remains committed to investing in AI despite the cuts.
+---
+ID: TL-13
+Title: Towards Automating Eval Engineering (5 minute read)
+Excerpt: LangChain released an Eval Engineering Skill that maps agent repositories and production traces into executable Harbor evaluations.
+---
+ID: TL-14
+Title: The Anthropic-Physical Intelligence rumor roiling AI Twitter (5 minute read)
+Excerpt: A rumor that Anthropic is acquiring robotic startup Physical Intelligence spread exceedingly fast over the weekend, even after a denial from Physical Intelligence's CEO.
+---
+ID: TL-15
+Title: Anthropic develops Claude-driven Managed Projects (2 minute read)
+Excerpt: Anthropic is developing Claude-driven "managed projects" offering persistent, organized task management with some autonomy.
+---

@@ -1,0 +1,434 @@
+{
+  "date": "2026-07-23",
+  "threshold": 7.0,
+  "total": 71,
+  "kept": 29,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 9.0,
+      "keep": true,
+      "reason": "美国国会提出AI Kill Switch法案，赋予国土安全部关闭危险AI模型的权力，具有重要政策意义。"
+    },
+    {
+      "id": "TM-02",
+      "score": 5.0,
+      "keep": false,
+      "reason": "欧盟对谷歌罚款890亿欧元，涉及竞争法，信息量一般。"
+    },
+    {
+      "id": "TM-03",
+      "score": 4.0,
+      "keep": false,
+      "reason": "特斯拉和谷歌股价下跌与AI支出增加有关，信息较少。"
+    },
+    {
+      "id": "TM-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "福特与苹果合作将软件应用于电动车，涉及自动驾驶技术，信息量一般。"
+    },
+    {
+      "id": "TM-05",
+      "score": 7.0,
+      "keep": true,
+      "reason": "谷歌推出自拍视频登录选项以增强账户安全，具有产品洞察。"
+    },
+    {
+      "id": "TM-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI扩展ChatGPT Health，连接健康服务，具有应用更新的价值。"
+    },
+    {
+      "id": "TM-07",
+      "score": 8.0,
+      "keep": true,
+      "reason": "美国商务部调查中国公司是否获取先进AI芯片，涉及国际竞争和安全问题。"
+    },
+    {
+      "id": "TM-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Stripe与OpenRouter的收购谈判，涉及重要融资动态。"
+    },
+    {
+      "id": "TM-09",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于加密行业的法案讨论，信息较少且与AI关联不大。"
+    },
+    {
+      "id": "TM-10",
+      "score": 3.0,
+      "keep": false,
+      "reason": "BitMEX关闭消息与AI无关，信息量不足。"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "谷歌研究表明AI帮助员工而非取代，信息量一般。"
+    },
+    {
+      "id": "TM-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "扎克伯格发起媒体宣传，强调公司AI开发的积极面，具有战略意义。"
+    },
+    {
+      "id": "TM-13",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Meta基础设施团队问题的报道，信息量一般。"
+    },
+    {
+      "id": "TM-14",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Anthropic推出语音模式的AI模型，涉及技术应用更新。"
+    },
+    {
+      "id": "TM-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "贝索斯推动Prime Video强调AI能力，涉及内部重组，信息量一般。"
+    },
+    {
+      "id": "TM-16",
+      "score": 9.0,
+      "keep": true,
+      "reason": "微软用MAI模型替代OpenAI图像生成模型，具有重磅技术更新。"
+    },
+    {
+      "id": "TM-17",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Moonshot AI创始人的讨论，信息量一般。"
+    },
+    {
+      "id": "TM-18",
+      "score": 8.0,
+      "keep": true,
+      "reason": "DeepSeek投资者谈论美中AI差距，涉及计算能力和行业动态。"
+    },
+    {
+      "id": "TM-19",
+      "score": 7.0,
+      "keep": true,
+      "reason": "Runway推出专为生成媒体设计的媒体路由器，具有产品创新价值。"
+    },
+    {
+      "id": "TM-20",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于AI对软件行业影响的评论，信息量一般。"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "特朗普关于能源账单的声明与AI关联不大，信息量不足。"
+    },
+    {
+      "id": "TM-22",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Yelp与OpenAI达成协议，提供实时本地推荐，具有应用价值。"
+    },
+    {
+      "id": "TM-23",
+      "score": 7.0,
+      "keep": true,
+      "reason": "德国Black Forest Labs推出新模型，扩展至物理AI，具有技术更新价值。"
+    },
+    {
+      "id": "TM-24",
+      "score": 5.0,
+      "keep": false,
+      "reason": "亚马逊关闭AGI实验室的消息，信息量一般。"
+    },
+    {
+      "id": "TM-25",
+      "score": 6.0,
+      "keep": false,
+      "reason": "AI行业招聘高端学者的趋势，涉及研究开放性问题，信息量一般。"
+    },
+    {
+      "id": "TM-26",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是财报信息"
+    },
+    {
+      "id": "TM-27",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是财报信息"
+    },
+    {
+      "id": "TM-28",
+      "score": 6.0,
+      "keep": false,
+      "reason": "提到 AI 销售预期，但整体信息较常规"
+    },
+    {
+      "id": "TM-29",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是财报信息"
+    },
+    {
+      "id": "TM-30",
+      "score": 8.0,
+      "keep": true,
+      "reason": "新 CPU 发布，具有潜在的产品洞察和技术更新"
+    },
+    {
+      "id": "TM-31",
+      "score": 7.0,
+      "keep": true,
+      "reason": "AMD 与 Cerebras 合作，涉及 AI 推理解决方案，值得关注"
+    },
+    {
+      "id": "TM-32",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Nvidia 与 Amkor 签署协议，涉及芯片封装，信息量一般"
+    },
+    {
+      "id": "TM-33",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 CPU 采购承诺的消息，信息量一般"
+    },
+    {
+      "id": "TM-34",
+      "score": 5.0,
+      "keep": false,
+      "reason": "Geekbench 7 发布，信息量一般，缺乏重大创新"
+    },
+    {
+      "id": "TM-35",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是股市信息"
+    },
+    {
+      "id": "TM-36",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是云游戏测试信息"
+    },
+    {
+      "id": "TM-37",
+      "score": 5.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是云游戏整合信息"
+    },
+    {
+      "id": "TM-38",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是收购批准信息"
+    },
+    {
+      "id": "TM-39",
+      "score": 8.0,
+      "keep": true,
+      "reason": "IBM 收购 HRL 实验室，涉及量子计算，具有行业影响力"
+    },
+    {
+      "id": "TM-40",
+      "score": 5.0,
+      "keep": false,
+      "reason": "收购信息较常规，缺乏重大创新"
+    },
+    {
+      "id": "TM-41",
+      "score": 5.0,
+      "keep": false,
+      "reason": "投资信息较常规，缺乏重大创新"
+    },
+    {
+      "id": "TM-42",
+      "score": 6.0,
+      "keep": false,
+      "reason": "收购信息，涉及生命科学软件，信息量一般"
+    },
+    {
+      "id": "TM-43",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AI 芯片初创公司融资，估值大幅提升，具有行业影响力"
+    },
+    {
+      "id": "TM-44",
+      "score": 7.0,
+      "keep": true,
+      "reason": "AI 安全初创公司融资，涉及 AI 驱动的网络安全，值得关注"
+    },
+    {
+      "id": "TM-45",
+      "score": 7.0,
+      "keep": true,
+      "reason": "AI 机器人初创公司融资，涉及大额资金，值得关注"
+    },
+    {
+      "id": "TM-46",
+      "score": 5.0,
+      "keep": false,
+      "reason": "融资信息较常规，缺乏重大创新"
+    },
+    {
+      "id": "TM-47",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是劳动力援助信息"
+    },
+    {
+      "id": "TM-48",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是股权信息"
+    },
+    {
+      "id": "TM-49",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是社交媒体政策信息"
+    },
+    {
+      "id": "TM-50",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是社会政治信息"
+    },
+    {
+      "id": "TM-51",
+      "score": 6.0,
+      "keep": false,
+      "reason": "五角大楼与甲骨文签署长期合同，涉及软件许可整合，具有一定行业影响力。"
+    },
+    {
+      "id": "TM-52",
+      "score": 7.5,
+      "keep": true,
+      "reason": "GitHub推出双层漏洞赏金计划，调整奖励机制，反映出AI报告的激增和市场变化。"
+    },
+    {
+      "id": "TM-53",
+      "score": 7.0,
+      "keep": true,
+      "reason": "中国恢复发放机器人出租车许可证，表明行业安全审查后市场复苏。"
+    },
+    {
+      "id": "TM-54",
+      "score": 4.0,
+      "keep": false,
+      "reason": "Patreon裁员20%，与AI关系不大，信息量有限。"
+    },
+    {
+      "id": "TM-55",
+      "score": 3.0,
+      "keep": false,
+      "reason": "关于Polymarket账户交易的研究，信息量较少且偏常规。"
+    },
+    {
+      "id": "TM-56",
+      "score": 5.0,
+      "keep": false,
+      "reason": "对Rocket Lab创始人的个人简介，信息量一般。"
+    },
+    {
+      "id": "TL-01",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI推出企业产品，结合模型推理与权限管理，具有产品洞察价值。"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AMD与Anthropic签署重大芯片和投资协议，涉及数十亿美元，影响深远。"
+    },
+    {
+      "id": "TL-03",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于AI实验室基准测试的讨论，信息量一般。"
+    },
+    {
+      "id": "TL-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI的网络安全测试意外事件揭示了模型可用性对软件安全的影响，具有重要意义。"
+    },
+    {
+      "id": "TL-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于GPU集群价值的分析，提供了一定的市场洞察。"
+    },
+    {
+      "id": "TL-06",
+      "score": 8.0,
+      "keep": true,
+      "reason": "美国能源部与Arcee AI合作推出开放权重AI模型，旨在提升科学计算工作流，具有行业影响力。"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Cursor Router智能模型路由器的推出，展示了成本效益和质量的平衡，值得关注。"
+    },
+    {
+      "id": "TL-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "美国财政部对中国AI公司的制裁威胁，涉及知识产权问题，具有政策影响。"
+    },
+    {
+      "id": "TL-09",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI大幅提高基础设施投资计划，显示出其长期战略布局，影响深远。"
+    },
+    {
+      "id": "TL-10",
+      "score": 9.0,
+      "keep": true,
+      "reason": "台积电加速亚利桑那工厂建设，表明对AI需求的重视，具有行业战略意义。"
+    },
+    {
+      "id": "TL-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Anthropic推出Claude连接器，提供AI使用数据的直接访问，信息量一般。"
+    },
+    {
+      "id": "TL-12",
+      "score": 4.0,
+      "keep": false,
+      "reason": "亚马逊在AGI部门裁员，信息量有限且与AI发展关系不大。"
+    },
+    {
+      "id": "TL-13",
+      "score": 7.0,
+      "keep": true,
+      "reason": "LangChain发布Eval Engineering Skill，推动评估工程自动化，具有产品洞察。"
+    },
+    {
+      "id": "TL-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于Anthropic收购传闻的报道，信息量一般。"
+    },
+    {
+      "id": "TL-15",
+      "score": 6.0,
+      "keep": false,
+      "reason": "Anthropic开发Claude驱动的管理项目，展示了AI在任务管理中的应用。"
+    }
+  ]
+}

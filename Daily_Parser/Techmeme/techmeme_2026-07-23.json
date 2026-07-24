@@ -1,0 +1,474 @@
+{
+  "date": "2026-07-23",
+  "sections": {
+    "top news": [
+      {
+        "title": "Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous",
+        "excerpt": "",
+        "url": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+        "tweets": [
+          {
+            "author": "@tedlieu",
+            "text": "Rep Moran and I introduced the AI Kill Switch Act today. This is urgent, common sense legislation to address the problem of an advanced AI model that has gone rogue and escaped its guardrails (OpenAI / Hugging Face incident) or had insufficient guardrails (Mythos 5 and Fable 5).",
+            "url": "https://x.com/tedlieu/status/2080283173238284423"
+          },
+          {
+            "author": "@repscottperry",
+            "text": "A “Kill Switch” does exactly what it seems - it kills your vehicle/shuts it down...against your will, whenever “it” deems necessary.  No one supports drunk driving - and there are laws to prevent and deal with it.  You don't punish the good for the deeds of the bad.  There's enough outside impact in our lives; we don't need our vehicles making decisions for us now, too.  KILL THE KILL SWITCH.",
+            "url": "https://x.com/repscottperry/status/2079941595600662779"
+          },
+          {
+            "author": "@adamthierer",
+            "text": "Government-mandated “kill switches” have no place in a free society. Will be ripe for abuse. There are better ways to address concerns about AI safety without resorting to the autocrat's toolkit. [image]",
+            "url": "https://x.com/adamthierer/status/2080321311046291816"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: three OpenAI models breached Hugging Face's internal systems in a matter of hours, an attack that would have taken a talented hacker a couple of weeks",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDgwNTk3OSwiZXhwIjoxNzg1NDEwNzc5LCJhcnRpY2xlSWQiOiJUSUxCTExLSzNOWUswMCIsImJjb25uZWN0SWQiOiJEMjM4MzQxMTU5NTI0RjM2QkU1RUMxOTJFMDkxMTNFNCJ9.FdDRwNU66lPuw8pDUkrk_O2B0_Ry3LG3LwAVg_iF-NY"
+          }
+        ]
+      },
+      {
+        "title": "The European Commission fines Google €890M under the DMA for illegally undercutting competition through its search dominance and Google Play app developer rules",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html?unlocked_article_code=1.z1A.cbWJ.Q5cief--lxSW&smid=nytcore-ios-share",
+        "tweets": [
+          {
+            "author": "@levelsio",
+            "text": "🇪🇺 This year the European Union will again make more money from fining US tech companies Than from the total tax income from Europe's own public tech companies! [image]",
+            "url": "https://x.com/levelsio/status/2080314960656159018"
+          },
+          {
+            "author": "@googlepubpolicy",
+            "text": "Our statement on the European Commission's Search & Play Digital Markets Act (DMA) decision: [image]",
+            "url": "https://x.com/googlepubpolicy/status/2080308534559047821"
+          },
+          {
+            "author": "@lutherlowe",
+            "text": "This is an important & overdue action that will oxygenate markets and give little tech companies across the globe a fighting chance to compete for market share in Europe. It's unfortunate that despite successfully convicting Google of abuse of dominance in the U.S., our policy makers haven't done as much as Europe to promote competition and interoperability.",
+            "url": "https://x.com/lutherlowe/status/2080300197960122682"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Tesla stock closed down 14.52% and Alphabet closed down 6.89% after they signaled increased AI spending, amid worries about the mounting costs of the AI boom",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Tesla reports a Q2 negative free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotics investments, and profit below est.",
+            "url": "https://www.reuters.com/business/media-telecom/elon-musks-tesla-posts-cash-burn-capex-surges-ai-robotaxi-push-2026-07-22/"
+          }
+        ]
+      },
+      {
+        "title": "Ford says Apple's software will be available in its new EVs, helping determine autonomous driving via Apple Maps, and they are working to improve self-driving",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US Department of Commerce's BIS is formally investigating whether Chinese companies like Moonshot are accessing advanced US AI chips to train their models",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/u-s-investigates-chinese-ai-companies-access-chips-amid-moonshot-accusations",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74?st=VZPrDL&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Senate's Clarity Act, a crypto industry-backed bill set for a vote this summer, is mired in debate over rules to stop Trump from selling digital currencies",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html?unlocked_article_code=1.z1A.tvCZ.Pjs9iuWrP-JW&smid=url-share",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources detail how Commerce Secretary Howard Lutnick and crypto adviser Bo Hines worked to shape the GENIUS Act and loosen safeguards to benefit Tether",
+            "url": "https://www.bloomberg.com/features/2026-howard-lutnick-bo-hines-trump-tether-crypto-law/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDc1NTQxOSwiZXhwIjoxNzg1MzYwMjE5LCJhcnRpY2xlSWQiOiJUSUxIMEtLR0NUR1QwMCIsImJjb25uZWN0SWQiOiIyQjE3NzFFOTlEODc0QzRDOTY1Njg1RTZBQkJGM0QwRCJ9.wszYyimM1W8mzc5Kf3kWGkzfHEbkmtOlpCbUIHpm7S4"
+          }
+        ]
+      },
+      {
+        "title": "Crypto exchange BitMEX says it will close on September 23 and tells users to withdraw assets; Trump pardoned its founders in 2025 for not implementing AML rules",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/cryptocurrency-exchange-bitmex-shut-down-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "A Google study of millions of de-identified Google AI interactions finds AI is helping workers, not replacing them, and AI use is “shallow” in most occupations",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/google-study-says-ai-is-helping-workers-not-replacing-them-4b7bba39?st=atMTSb&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mark Zuckerberg launches a media campaign positioning the company's AI development as an optimistic, pro-human alternative to its competitors' “dystopian” ideas",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Meta's infrastructure teams have become bloated, causing poor decisions, like a troubled Rivos acquisition, low supplier trust due to hardware pivots, and more",
+        "excerpt": "",
+        "url": "https://newsletter.semianalysis.com/p/metas-infrastructure-team-needs-a",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Jeff Bezos pushed Prime Video head Mike Hopkins to highlight the service's AI capabilities, leading to an internal redesign project called Lighthouse",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/amazons-bezos-pushes-prime-video-redesign-focused-ai-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft replaces OpenAI's image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The debate over Moonshot AI founder Yang Zhilin leaving the US misses a larger structural reality: China isn't a net AI talent importer and has its own pipeline",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/0c773366-61a2-4d33-894e-6b3ddfcfd9b3?accessToken=zwAAAZ-NFj3Qkc8MdzNmYaJNM9OJTms938_Zsw.MEQCIArODf2fpONQRfnyE6-C_hchmS9C1lnvqb3fcHvaObc5AiBkU3JcAYvicrDqEU1X2VigFKnXwEY04Fx2T1Fq0niFOQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=cd59fed2-b353-4f64-84e6-a70077e473c8&shareType=enterprise&syn-25a6b1a6=1",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In a leaked nearly four-hour investor talk, DeepSeek's Liang Wenfeng says the main US-China gap is compute power, Nvidia's CUDA moat is disintegrating, and more",
+        "excerpt": "",
+        "url": "https://www.fredgao.com/p/deepseeks-liang-wenfeng-breaks-his",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Francisco Partners' co-founder Dipanjan Deb says “AI will not kill the software industry”, as the tech-focused PE firm raised $21B, exceeding its $18B target",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d331c1f5-27c0-4d5a-a4ab-7a52e1119cc5",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers",
+        "excerpt": "",
+        "url": "https://apnews.com/article/trump-ai-data-centers-pledge-490ea7e4c7227d5e550b00a0056c33c9",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Yelp signs a deal with OpenAI to give ChatGPT users real-time local recommendations and will soon let them get quotes from local service providers via ChatGPT",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/23/yelp-reviews-chatgpt-geo-partnership",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Germany's Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/black-forest-labs-unveils-first-model-for-robotics-in-shift-to-physical-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon shutters its AGI Lab as part of layoffs in its AGI unit earlier this week; the lab's former head David Luan left in February",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/amazon-shuts-ai-agent-research-lab-agi-layoffs",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As the AI industry increasingly recruits high-profile academics, research that once would have happened in the open is getting locked up behind closed doors",
+        "excerpt": "",
+        "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/?gift=NBdGSmKfDQzLc1B6N1F-gdtuoU4_FBKQ7n72KS5fTwE&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Intel reports Q2 revenue up 25% YoY to $16.1B, vs. $14.42B est., its fastest sales growth in ~15 years on “unprecedented” demand; INTC jumps 10%+ after hours",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "SAP reports Q2 cloud revenue up 22% YoY to €6.28B, vs. €6.26B est., total revenue up 9.4% to €9.88B, and lowers its 2026 non-IFRS operating profit guidance",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/earnings/sap-second-quarter-revenue-up-on-cloud-business-results-operating-profit-guidance-lowered-on-slowing-growth-926d4418?st=rXKimK&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "STMicro forecasts Q3 revenue up ~16% YoY to $3.7B, below $3.79B est., and expects AI sales to pass $1B in 2026 and be “well above $2B” in 2027; STM falls 14%+",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/stmicro-forecasts-revenue-growth-as-ai-boom-boosts-chipmaker",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est.",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/earnings/texas-instruments-posts-higher-second-quarter-profit-revenue-as-sales-increase-51ba33cb?st=srwnKB&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "AMD unveils the Venice-X CPU, with 1152 MB of 3D V-Cache, 96 cores, and up to 5.15 GHz clock speeds, available in H2 2027",
+        "excerpt": "",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Foundation Future Industries, backed by Eric Trump, partners with AMD to develop autonomous humanoid robots using the AMD Ryzen AI Embedded X100 Series chips",
+            "url": "https://www.reuters.com/business/eric-trump-backed-foundation-partners-with-amd-develop-humanoid-robots-2026-07-23/"
+          }
+        ]
+      },
+      {
+        "title": "AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86%",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/amd-partners-rival-cerebras-ai-server-rack",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia signs a $1.5B accord with Amkor, involving a prepayment by Nvidia to help bolster Amkor's chip packaging facility in Arizona; AMKR jumps 16%+ after hours",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Intel and AMD are signing longer-term CPU purchase commitments with Chinese server customers; source: some CPU product prices are up 40%+ in China YTD",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-prices-surge-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Primate Labs releases Geekbench 7, featuring larger, more demanding datasets for CPUs and GPUs, along with new video and audio encoding/decoding tests, and more",
+        "excerpt": "",
+        "url": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Shanghai-listed chip test instruments maker Semight, whose stock is up ~2,200% since its April debut, is considering a secondary listing in Hong Kong",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-semight-is-said-to-mull-hong-kong-listing-after-2-200-stock-rise",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders, limited to one-hour sessions for the games users own; ads play “before sessions begin”",
+        "excerpt": "",
+        "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon is integrating its Luna cloud gaming service into Prime Video via a new Games tab, starting with games like Hogwarts Legacy and EA Sports FC for Fire TV",
+        "excerpt": "",
+        "url": "https://www.hollywoodreporter.com/business/digital/amazon-prime-video-games-luna-1236653286/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "The European Commission approves EA's $55B acquisition, announced in September, by investors including Saudi Arabia's PIF, Silver Lake, and Affinity Partners",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/saudi-pifs-55-billion-ea-deal-approved-under-eu-merger-rules-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "IBM agrees to acquire HRL Laboratories from Boeing and General Motors, seeking to integrate HRL's electron spin quantum circuits into its quantum computers",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/autos-transportation/ibm-buys-hrl-laboratories-shift-two-track-quantum-computing-strategy-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sierra acquires Takeoff, which develops “long-horizon” agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/sierra-acquires-agent-startup-takeoff-diversify-business",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ServiceNow invests $40M in banking software specialist BusinessNext, valuing the 24-year-old Indian company at $700M and taking a roughly 5% stake",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dassault Systèmes agrees to acquire ArisGlobal, a US supplier of software to the life sciences industry, from Nordic Capital for ~$2B, set to close in H2 2026",
+        "excerpt": "",
+        "url": "https://www.wsj.com/health/dassault-systemes-to-buy-arisglobal-for-up-to-2-billion-82aecb9a?st=ww8b53&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/07/23/abstract-security-raises-25m-series-extension-recurring-revenue-380/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "US GAO: Amazon workers on federal aid nearly tripled from February 2020 to September 2025; ride-hailing and delivery app employers have the most workers on aid",
+        "excerpt": "",
+        "url": "https://www.washingtonpost.com/business/2026/07/22/amazon-gig-companies-see-spike-workers-snap-medicaid-study-shows/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg0NjkyODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg2MDc1MTk5LCJpYXQiOjE3ODQ2OTI4MDAsImp0aSI6IjdiMDhkZjQyLWRhMTktNDZjZi1iMGM1LTUwMjg5YTNlYmU3MyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDI2LzA3LzIyL2FtYXpvbi1naWctY29tcGFuaWVzLXNlZS1zcGlrZS13b3JrZXJzLXNuYXAtbWVkaWNhaWQtc3R1ZHktc2hvd3MvIn0.-njU1g_2lgbVxoHcO3X_bqyJajktlt5UnJNQ8d2JzsE&itid=gfta",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B is under short-term sale restrictions, while $14.1B remains long-term restricted until Q3 2027",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/google-says-it-holds-94-billion-in-spacex-shares-after-ipo",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Filing: the value of Alphabet's investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDgzNzUyMiwiZXhwIjoxNzg1NDQyMzIyLCJhcnRpY2xlSWQiOiJUSU1YT0tLR1pBSkswMCIsImJjb25uZWN0SWQiOiJFNzAxNENGQzIzNTI0MzU0QTVENUY2QkREMDAxOEU3NiJ9.z-Nwr7EFXnWxryC0qzujlIz1iqwM7e6ZanOqtLgZ3eM"
+          }
+        ]
+      },
+      {
+        "title": "Adam Mosseri says Instagram will now take down “pickup line” and other videos shot on Meta glasses that feature harassment of other people in public places",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/instagram-meta-glasses-banning-pickup-prank-creeps-2026-7",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: India has ordered telecom companies to disable mobile data services in central Delhi, amid youth protests seeking the education minister's resignation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/india/india-asks-telecom-companies-disable-mobile-data-services-around-delhi-protest-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Pentagon signs an up-to-10-year contract with Oracle worth up to $7B to consolidate department's on-premises software licenses into a single contract",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/pentagon-awards-oracle-nearly-7-billion-deal-latest-software-consolidation-push-2026-07-23/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "GitHub plans a two-tier bug bounty program that cuts rewards for the public and boosts payouts for invite-only researchers, amid a flood of AI-powered reports",
+        "excerpt": "",
+        "url": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: China resumes issuing robotaxi permits after an industry-wide full safety review prompted by an April outage involving 100+ Baidu robotaxis in Wuhan",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-resumes-issuing-robotaxi-licenses-after-months-long-freeze",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Patreon lays off 20% of its employees, or 93 people, citing a “painful” restructuring due to “profound” changes in the creator economy",
+        "excerpt": "",
+        "url": "https://variety.com/2026/biz/news/patreon-cuts-20-percent-of-employees-painful-restructuring-1236819665/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A study of 11,989 Polymarket accounts finds 61% placed fewer than 100 trades over a six-week period, with 58% making or losing less than $100 during the period",
+        "excerpt": "",
+        "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Peter Beck, the New Zealand billionaire and Rocket Lab founder pushing to compete with Elon Musk's and Jeff Bezos' satellite internet ambitions",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d9d7ff54-a04c-4d5a-ad70-a249fcd761a4?accessToken=zwAAAZ-Nnu2OkdPZ1_9UoExNWtOtcKJJ_NdhpA.MEYCIQCvWvhVCplmQ_HHcT8HewgD-S971djnHmLk8aVwDlljnAIhAOF42_M_s1m5I_UVIe8pS0GnKOb8-lVVl1p06370ucsR&sharetype=gift&token=3eb3b5ef-2caf-46c9-8728-8869feac5997",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 8,
+    "news_count": 56
+  }
+}

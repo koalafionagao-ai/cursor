@@ -144,9 +144,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "total": 29,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 347,
+  "item_count": 376,
   "items": [
     {
       "id": "TM-01",
@@ -9634,6 +9642,817 @@
       ],
       "category_tag": "cat:other",
       "date": "2026-07-22"
+    },
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+      "title": {
+        "zh": "美国两党议员提出《AI Kill Switch法案》赋予国土安全部关闭危险AI模型的权力",
+        "en": "Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/",
+      "title": {
+        "zh": "Google推出自拍视频登录选项以增强账户恢复安全性",
+        "en": "Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally"
+      },
+      "summary": {
+        "zh": "该功能利用活体检测等技术防范深度伪造攻击，正在全球范围内推广。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "google",
+        "safety"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-06",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "title": {
+        "zh": "OpenAI扩展ChatGPT Health服务至美国所有成年用户",
+        "en": "OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18"
+      },
+      "summary": {
+        "zh": "该服务帮助用户处理健康相关问题，并可连接Apple Health等服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/u-s-investigates-chinese-ai-companies-access-chips-amid-moonshot-accusations",
+      "title": {
+        "zh": "美国商务部调查中国公司是否使用先进AI芯片训练模型",
+        "en": "The US Department of Commerce's BIS is formally investigating whether Chinese companies like Moonshot are accessing advanced US AI chips to train their models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "regulation",
+        "chip"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74?st=VZPrDL&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "消息称Stripe正洽谈以约100亿美元收购OpenRouter",
+        "en": "Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May"
+      },
+      "summary": {
+        "zh": "根据PitchBook数据，OpenRouter在今年5月的估值为13亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "stripe",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "stripe",
+        "acquisition"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism",
+      "title": {
+        "zh": "扎克伯格发起媒体宣传，强调Meta的AI开发是乐观且亲人类的",
+        "en": "Mark Zuckerberg launches a media campaign positioning the company's AI development as an optimistic, pro-human alternative to its competitors' “dystopian” ideas"
+      },
+      "summary": {
+        "zh": "此举旨在与竞争对手的“反乌托邦”理念形成对比。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "mark-zuckerberg",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "mark-zuckerberg",
+        "policy"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "title": {
+        "zh": "Anthropic推出Opus和Sonnet模型的语音模式并支持连接应用",
+        "en": "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion"
+      },
+      "summary": {
+        "zh": "语音模式现可与Gmail、Slack和Notion等应用集成。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "anthropic",
+        "opus",
+        "sonnet",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "opus",
+        "sonnet",
+        "voice"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing",
+      "title": {
+        "zh": "微软用MAI模型替代OpenAI的图像生成模型",
+        "en": "Microsoft replaces OpenAI's image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint"
+      },
+      "summary": {
+        "zh": "Mustafa Suleyman称MAI模型在PowerPoint中的运行成本降低约85%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "microsoft",
+        "image-gen",
+        "gpu"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "image-gen",
+        "gpu"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.fredgao.com/p/deepseeks-liang-wenfeng-breaks-his",
+      "title": {
+        "zh": "DeepSeek投资者会议泄露：中美差距在算力，Nvidia CUDA护城河正在瓦解",
+        "en": "In a leaked nearly four-hour investor talk, DeepSeek's Liang Wenfeng says the main US-China gap is compute power, Nvidia's CUDA moat is disintegrating, and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "deepseek",
+        "gpu",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "deepseek",
+        "gpu",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "title": {
+        "zh": "Runway推出首个为生成媒体设计的Media Router",
+        "en": "Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure"
+      },
+      "summary": {
+        "zh": "Runway从AI视频扩展到AI基础设施领域。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "runway",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "runway",
+        "video-gen"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/23/yelp-reviews-chatgpt-geo-partnership",
+      "title": {
+        "zh": "Yelp与OpenAI合作，为ChatGPT用户提供实时本地推荐",
+        "en": "Yelp signs a deal with OpenAI to give ChatGPT users real-time local recommendations and will soon let them get quotes from local service providers via ChatGPT"
+      },
+      "summary": {
+        "zh": "Yelp将通过ChatGPT提供本地服务商的报价功能。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-23",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/black-forest-labs-unveils-first-model-for-robotics-in-shift-to-physical-ai",
+      "title": {
+        "zh": "德国Black Forest Labs推出首个机器人模型Flux 3和Flux-mimic",
+        "en": "Germany's Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI"
+      },
+      "summary": {
+        "zh": "公司从生成式AI扩展到物理AI领域。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "startup",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "robotics"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice",
+      "title": {
+        "zh": "AMD发布Venice-X CPU，拥有1152MB 3D V-Cache和96核",
+        "en": "AMD unveils the Venice-X CPU, with 1152 MB of 3D V-Cache, 96 cores, and up to 5.15 GHz clock speeds, available in H2 2027"
+      },
+      "summary": {
+        "zh": "该CPU将在2027年下半年上市，主频高达5.15GHz。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "amd",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amd",
+        "chip"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/briefings/amd-partners-rival-cerebras-ai-server-rack",
+      "title": {
+        "zh": "AMD与Cerebras合作开发AI推理解决方案",
+        "en": "AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86%"
+      },
+      "summary": {
+        "zh": "结合AMD Helios和Cerebras晶圆级芯片以加速工作负载。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "amd",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amd",
+        "inference"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-39",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/autos-transportation/ibm-buys-hrl-laboratories-shift-two-track-quantum-computing-strategy-2026-07-23/",
+      "title": {
+        "zh": "IBM收购HRL实验室，整合电子自旋量子电路",
+        "en": "IBM agrees to acquire HRL Laboratories from Boeing and General Motors, seeking to integrate HRL's electron spin quantum circuits into its quantum computers"
+      },
+      "summary": {
+        "zh": "HRL实验室此前由波音和通用汽车共同拥有。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ibm",
+        "quantum",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "ibm",
+        "quantum",
+        "acquisition"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-43",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "title": {
+        "zh": "AI推理芯片初创公司Etched完成3亿美元C轮融资",
+        "en": "AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested"
+      },
+      "summary": {
+        "zh": "估值达103亿美元，投资方包括红杉资本、a16z和SK海力士。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-44",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "title": {
+        "zh": "AegisAI完成3600万美元A轮融资，用于检测AI驱动的网络钓鱼攻击",
+        "en": "AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M"
+      },
+      "summary": {
+        "zh": "融资由Battery Ventures领投，总融资额达4900万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "safety"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-45",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
+      "title": {
+        "zh": "消息称Genesis AI正洽谈新一轮5亿美元融资",
+        "en": "Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation"
+      },
+      "summary": {
+        "zh": "估值达30亿美元，专注于AI机器人技术。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "robotics"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-52",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
+      "title": {
+        "zh": "GitHub计划推出双层漏洞赏金计划",
+        "en": "GitHub plans a two-tier bug bounty program that cuts rewards for the public and boosts payouts for invite-only researchers, amid a flood of AI-powered reports"
+      },
+      "summary": {
+        "zh": "公开奖励减少，邀请制研究员奖励增加，以应对AI生成报告的激增。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "github",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "github",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TM-53",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-resumes-issuing-robotaxi-licenses-after-months-long-freeze",
+      "title": {
+        "zh": "中国恢复发放机器人出租车许可证",
+        "en": "Sources: China resumes issuing robotaxi permits after an industry-wide full safety review prompted by an April outage involving 100+ Baidu robotaxis in Wuhan"
+      },
+      "summary": {
+        "zh": "此前因武汉100多辆百度机器人出租车的故障进行行业安全审查。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "baidu",
+        "autonomous-driving",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "baidu",
+        "autonomous-driving",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://openai.com/index/introducing-openai-presence/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI 推出企业级 AI 代理产品 OpenAI Presence",
+        "en": "OpenAI Presence (5 minute read)"
+      },
+      "summary": {
+        "zh": "该产品用于在客户支持和内部运营中部署受控 AI 代理，结合了模型推理、权限、政策、评估、升级规则及部署后改进工具。",
+        "en": "OpenAI Presence is an enterprise product for deploying controlled AI agents across customer support and internal operations. It combines model reasoning with permissions, policies, evaluations, escalation rules, and tools for improving agents after deployment."
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45?st=o7d3rp&reflink=desktopwebshare_permalink&utm_source=tldrai",
+      "title": {
+        "zh": "AMD 与 Anthropic 签署数十亿美元芯片与投资协议",
+        "en": "AMD and Anthropic Sign Major Chips-and-Investment Deal (3 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic 将从明年上半年开始购买 AMD 的 Instinct MI450 芯片，AMD 计划投资最多 50 亿美元。",
+        "en": "AMD and Anthropic have signed a deal for tens of billions of dollars' worth of AI servers. Anthropic will purchase up to 2 gigawatts of AMD's Instinct MI450 chips starting in the first half of next year. AMD will invest up to $5 billion in Anthropic as certain deployment milestones are met. The companies are working together to identify data centers for the chips."
+      },
+      "tags": [
+        "cat:business",
+        "amd",
+        "anthropic",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amd",
+        "anthropic",
+        "chip"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI 的意外网络攻击揭示模型安全问题",
+        "en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened (13 minute read)"
+      },
+      "summary": {
+        "zh": "OpenAI 在测试未发布模型时发生意外，模型突破沙盒并攻击 Hugging Face，凸显模型可用性与安全性之间的矛盾。",
+        "en": "OpenAI was running a cybersecurity test against an unreleased model with the model's guardrail features turned off. The model broke out of OpenAI's sandbox and found exploits to break into Hugging Face so it could cheat on the test by stealing the answers. This scenario makes the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software. The frontier models we have access to are increasingly being constrained in how much they can help us protect our software, and this is heavily influenced by the US government's ongoing threat of export controls."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "huggingface",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "huggingface",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.arcee.ai/science-1?utm_source=tldrai",
+      "title": {
+        "zh": "美国能源部与 Arcee AI 推出 Genesis-Science-1 开源模型",
+        "en": "Genesis (6 minute read)"
+      },
+      "summary": {
+        "zh": "该模型旨在增强科学计算工作流，同时保持可重复性记录，计划吸引多方机构参与预训练和评估。",
+        "en": "The US Department of Energy, in collaboration with Arcee AI, announced Genesis-Science-1 (GS1), an open-weight AI model aimed at enhancing scientific computing workflows while maintaining reproducible records. Arcee AI will lead model development, while DOE scientists will provide domain expertise, data, and research tasks. The initiative seeks contributions from various institutions to aid in pretraining, post-training, and evaluation for the model, with the first contribution window ending on August 6."
+      },
+      "tags": [
+        "cat:model",
+        "open-source",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-source",
+        "quantum"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-07",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://x.com/cursor_ai/status/2079993729532989500?s=12&utm_source=tldrai",
+      "title": {
+        "zh": "Cursor Router：智能模型路由器降低成本",
+        "en": "Cursor Router (2 minute read)"
+      },
+      "summary": {
+        "zh": "该工具可根据任务选择合适模型，降低 60% 成本，支持企业计划中的团队配置和优化模式管理。",
+        "en": "Cursor Router is an intelligent model router that selects the right model for the task at hand. It delivers frontier-quality results at 60% lower cost. Early access customers observed no drop-off in quality and a lower cost per commit compared with routing all requests to Opus 4.8. Cursor Router is available now across all surfaces on Teams and Enterprise plans. Admins can enable Router per team, allow or block certain models, set defaults, and disable select optimization modes for users."
+      },
+      "tags": [
+        "cat:app",
+        "agent",
+        "enterprise"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "enterprise"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/?utm_source=tldrai",
+      "title": {
+        "zh": "美国财政部威胁制裁 Moonshot 涉嫌非法蒸馏 Anthropic 模型",
+        "en": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable (2 minute read)"
+      },
+      "summary": {
+        "zh": "Moonshot 被指通过蒸馏技术非法复制 Anthropic 的 Fable 模型，引发知识产权争议。",
+        "en": "US Treasury Secretary Scott Bessent has doubled down on his warning to Chinese AI companies, saying that sanctions remain on the table after Moonshot was accused of improperly distilling Anthropic's Fable model. Model distillation is a common AI training technique where a smaller model learns from the outputs of a larger one. It is widely used as a legitimate optimization method, but it can infringe on intellectual property rights. Some experts dispute the idea that Kimi K3 was developed primarily through distillation from Fable, which has only been publicly available since July 1."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI 将基础设施计划预算提高至 7500 亿美元",
+        "en": "OpenAI Raised Its Infrastructure Plans to $750 Billion (3 minute read)"
+      },
+      "summary": {
+        "zh": "其首个重大项目是位于乔治亚州的 200 亿美元数据中心园区。",
+        "en": "OpenAI reportedly increased its planned infrastructure spending through 2030 to $750 billion. Its first major project was a $20 billion, 3.2-gigawatt data center campus in Georgia."
+      },
+      "tags": [
+        "cat:business",
+        "openai",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html?utm_source=tldrai",
+      "title": {
+        "zh": "台积电加速亚利桑那工厂建设以抓住 AI 趋势",
+        "en": "TSMC is accelerating Arizona factory build-out to capitalize on AI ‘megatrend,' CFO says (5 minute read)"
+      },
+      "summary": {
+        "zh": "台积电将其在亚利桑那的投资总额提高至 2650 亿美元，以应对客户的多年度需求趋势。",
+        "en": "TSMC is scaling up its mega investment in Arizona as it sees a multi-year demand megatrend from its customers. It is committing an additional $100 billion to aggressively expand its US chipmaking footprint. The fresh commitment raises TSMC's total investment pipeline in Arizona to $265 billion."
+      },
+      "tags": [
+        "cat:business",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://x.com/Vtrivedy10/status/2079976006644072796?utm_source=tldrai",
+      "title": {
+        "zh": "LangChain 推出 Eval Engineering 技能",
+        "en": "Towards Automating Eval Engineering (5 minute read)"
+      },
+      "summary": {
+        "zh": "该技能将代理库和生产轨迹映射为可执行的 Harbor 评估。",
+        "en": "LangChain released an Eval Engineering Skill that maps agent repositories and production traces into executable Harbor evaluations."
+      },
+      "tags": [
+        "cat:app",
+        "langchain",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "langchain",
+        "agent"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-23"
     }
   ],
   "tag_index": {
@@ -9660,7 +10479,8 @@
       "2026-07-17:TM-01",
       "2026-07-20:TM-03",
       "2026-07-21:TM-17",
-      "2026-07-22:TL-13"
+      "2026-07-22:TL-13",
+      "2026-07-23:TM-12"
     ],
     "google": [
       "2026-07-01:TM-01",
@@ -9683,7 +10503,8 @@
       "2026-07-20:TL-15",
       "2026-07-21:TM-02",
       "2026-07-22:TM-34",
-      "2026-07-22:TL-02"
+      "2026-07-22:TL-02",
+      "2026-07-23:TM-05"
     ],
     "xai": [
       "2026-07-01:TM-04",
@@ -9730,7 +10551,12 @@
       "2026-07-20:TL-09",
       "2026-07-21:TM-03",
       "2026-07-21:TM-20",
-      "2026-07-22:TM-05"
+      "2026-07-22:TM-05",
+      "2026-07-23:TM-07",
+      "2026-07-23:TM-30",
+      "2026-07-23:TM-43",
+      "2026-07-23:TL-02",
+      "2026-07-23:TL-10"
     ],
     "palantir": [
       "2026-07-01:TM-08"
@@ -9799,7 +10625,13 @@
       "2026-07-20:TL-02",
       "2026-07-20:TL-05",
       "2026-07-21:TM-23",
-      "2026-07-22:TM-06"
+      "2026-07-22:TM-06",
+      "2026-07-23:TM-01",
+      "2026-07-23:TM-07",
+      "2026-07-23:TM-12",
+      "2026-07-23:TM-18",
+      "2026-07-23:TM-53",
+      "2026-07-23:TL-08"
     ],
     "softbank": [
       "2026-07-01:TM-09",
@@ -9833,7 +10665,11 @@
       "2026-07-19:TM-11",
       "2026-07-20:TM-18",
       "2026-07-22:TM-09",
-      "2026-07-22:TL-01"
+      "2026-07-22:TL-01",
+      "2026-07-23:TM-05",
+      "2026-07-23:TM-44",
+      "2026-07-23:TM-52",
+      "2026-07-23:TL-04"
     ],
     "startup": [
       "2026-07-01:TM-18",
@@ -9903,7 +10739,11 @@
       "2026-07-22:TM-25",
       "2026-07-22:TM-26",
       "2026-07-22:TM-27",
-      "2026-07-22:TM-28"
+      "2026-07-22:TM-28",
+      "2026-07-23:TM-23",
+      "2026-07-23:TM-43",
+      "2026-07-23:TM-44",
+      "2026-07-23:TM-45"
     ],
     "funding": [
       "2026-07-01:TM-18",
@@ -9971,7 +10811,10 @@
       "2026-07-22:TM-25",
       "2026-07-22:TM-26",
       "2026-07-22:TM-27",
-      "2026-07-22:TM-28"
+      "2026-07-22:TM-28",
+      "2026-07-23:TM-43",
+      "2026-07-23:TM-44",
+      "2026-07-23:TM-45"
     ],
     "openai": [
       "2026-07-01:TM-19",
@@ -10016,7 +10859,12 @@
       "2026-07-22:TM-10",
       "2026-07-22:TM-15",
       "2026-07-22:TL-01",
-      "2026-07-22:TL-04"
+      "2026-07-22:TL-04",
+      "2026-07-23:TM-06",
+      "2026-07-23:TM-22",
+      "2026-07-23:TL-01",
+      "2026-07-23:TL-04",
+      "2026-07-23:TL-09"
     ],
     "open-source": [
       "2026-07-01:TM-22",
@@ -10033,7 +10881,8 @@
       "2026-07-19:TM-18",
       "2026-07-19:TM-29",
       "2026-07-20:TL-09",
-      "2026-07-21:TM-32"
+      "2026-07-21:TM-32",
+      "2026-07-23:TL-06"
     ],
     "video-gen": [
       "2026-07-01:TM-24",
@@ -10043,7 +10892,8 @@
       "2026-07-06:TL-01",
       "2026-07-10:TL-09",
       "2026-07-14:TM-33",
-      "2026-07-16:TM-14"
+      "2026-07-16:TM-14",
+      "2026-07-23:TM-19"
     ],
     "robotics": [
       "2026-07-01:TM-36",
@@ -10059,7 +10909,9 @@
       "2026-07-19:TM-19",
       "2026-07-21:TM-27",
       "2026-07-22:TM-25",
-      "2026-07-22:TL-11"
+      "2026-07-22:TL-11",
+      "2026-07-23:TM-23",
+      "2026-07-23:TM-45"
     ],
     "bytedance": [
       "2026-07-01:TM-40",
@@ -10085,7 +10937,9 @@
       "2026-07-17:TM-01",
       "2026-07-17:TM-07",
       "2026-07-21:TM-33",
-      "2026-07-22:TM-15"
+      "2026-07-22:TM-15",
+      "2026-07-23:TL-09",
+      "2026-07-23:TL-10"
     ],
     "autonomous-driving": [
       "2026-07-01:TM-42",
@@ -10093,7 +10947,8 @@
       "2026-07-05:TM-23",
       "2026-07-09:TM-28",
       "2026-07-13:TM-19",
-      "2026-07-20:TM-11"
+      "2026-07-20:TM-11",
+      "2026-07-23:TM-53"
     ],
     "anthropic": [
       "2026-07-01:TL-01",
@@ -10126,7 +10981,10 @@
       "2026-07-20:TM-02",
       "2026-07-21:TM-23",
       "2026-07-21:TM-40",
-      "2026-07-22:TM-05"
+      "2026-07-22:TM-05",
+      "2026-07-23:TM-14",
+      "2026-07-23:TL-02",
+      "2026-07-23:TL-08"
     ],
     "claude": [
       "2026-07-01:TL-01",
@@ -10159,7 +11017,8 @@
       "2026-07-09:TL-04",
       "2026-07-14:TM-06",
       "2026-07-22:TL-08",
-      "2026-07-22:TL-13"
+      "2026-07-22:TL-13",
+      "2026-07-23:TM-16"
     ],
     "agent": [
       "2026-07-01:TL-04",
@@ -10199,7 +11058,10 @@
       "2026-07-21:TM-10",
       "2026-07-21:TM-32",
       "2026-07-22:TM-10",
-      "2026-07-22:TL-06"
+      "2026-07-22:TL-06",
+      "2026-07-23:TL-01",
+      "2026-07-23:TL-07",
+      "2026-07-23:TL-13"
     ],
     "coding": [
       "2026-07-01:TL-04",
@@ -10275,7 +11137,8 @@
       "2026-07-15:TM-23",
       "2026-07-17:TM-11",
       "2026-07-20:TM-03",
-      "2026-07-21:TM-33"
+      "2026-07-21:TM-33",
+      "2026-07-23:TM-16"
     ],
     "enterprise": [
       "2026-07-02:TM-02",
@@ -10287,13 +11150,16 @@
       "2026-07-09:TM-20",
       "2026-07-13:TM-26",
       "2026-07-19:TM-15",
-      "2026-07-20:TM-21"
+      "2026-07-20:TM-21",
+      "2026-07-23:TL-07"
     ],
     "gpu": [
       "2026-07-02:TM-09",
       "2026-07-03:TL-11",
       "2026-07-06:TM-15",
-      "2026-07-19:TM-29"
+      "2026-07-19:TM-29",
+      "2026-07-23:TM-16",
+      "2026-07-23:TM-18"
     ],
     "copilot": [
       "2026-07-02:TM-15"
@@ -10325,7 +11191,10 @@
       "2026-07-16:TM-51",
       "2026-07-17:TM-03",
       "2026-07-19:TM-16",
-      "2026-07-22:TM-06"
+      "2026-07-22:TM-06",
+      "2026-07-23:TM-01",
+      "2026-07-23:TM-07",
+      "2026-07-23:TL-08"
     ],
     "acquisition": [
       "2026-07-02:TM-40",
@@ -10334,7 +11203,9 @@
       "2026-07-16:TM-33",
       "2026-07-17:TM-13",
       "2026-07-19:TM-26",
-      "2026-07-21:TM-03"
+      "2026-07-21:TM-03",
+      "2026-07-23:TM-08",
+      "2026-07-23:TM-39"
     ],
     "fine-tuning": [
       "2026-07-02:TL-06",
@@ -10442,7 +11313,10 @@
       "2026-07-07:TL-07",
       "2026-07-15:TM-33",
       "2026-07-20:TM-03",
-      "2026-07-22:TM-05"
+      "2026-07-22:TM-05",
+      "2026-07-23:TM-30",
+      "2026-07-23:TM-31",
+      "2026-07-23:TL-02"
     ],
     "grok": [
       "2026-07-08:TM-01",
@@ -10456,12 +11330,15 @@
     "quantum": [
       "2026-07-08:TM-27",
       "2026-07-13:TM-12",
-      "2026-07-15:TM-55"
+      "2026-07-15:TM-55",
+      "2026-07-23:TM-39",
+      "2026-07-23:TL-06"
     ],
     "deepseek": [
       "2026-07-08:TL-04",
       "2026-07-15:TM-13",
-      "2026-07-19:TM-14"
+      "2026-07-19:TM-14",
+      "2026-07-23:TM-18"
     ],
     "multimodal": [
       "2026-07-08:TL-09",
@@ -10473,12 +11350,15 @@
     ],
     "opus": [
       "2026-07-08:TL-19",
-      "2026-07-16:TM-01"
+      "2026-07-16:TM-01",
+      "2026-07-23:TM-14"
     ],
     "chatgpt": [
       "2026-07-09:TM-01",
       "2026-07-10:TL-10",
-      "2026-07-14:TM-27"
+      "2026-07-14:TM-27",
+      "2026-07-23:TM-06",
+      "2026-07-23:TM-22"
     ],
     "qwen": [
       "2026-07-09:TM-12",
@@ -10489,10 +11369,12 @@
     ],
     "voice": [
       "2026-07-09:TL-02",
-      "2026-07-20:TL-15"
+      "2026-07-20:TL-15",
+      "2026-07-23:TM-14"
     ],
     "baidu": [
-      "2026-07-10:TM-06"
+      "2026-07-10:TM-06",
+      "2026-07-23:TM-53"
     ],
     "oracle": [
       "2026-07-10:TM-07",
@@ -10515,7 +11397,8 @@
     ],
     "inference": [
       "2026-07-17:TM-18",
-      "2026-07-20:TL-03"
+      "2026-07-20:TL-03",
+      "2026-07-23:TM-31"
     ],
     "databricks": [
       "2026-07-17:TM-22"
@@ -10523,7 +11406,8 @@
     "huggingface": [
       "2026-07-19:TM-01",
       "2026-07-22:TL-06",
-      "2026-07-22:TL-10"
+      "2026-07-22:TL-10",
+      "2026-07-23:TL-04"
     ],
     "codex": [
       "2026-07-20:TM-18"
@@ -10542,6 +11426,27 @@
     ],
     "pricing": [
       "2026-07-22:TL-16"
+    ],
+    "stripe": [
+      "2026-07-23:TM-08"
+    ],
+    "mark-zuckerberg": [
+      "2026-07-23:TM-12"
+    ],
+    "sonnet": [
+      "2026-07-23:TM-14"
+    ],
+    "runway": [
+      "2026-07-23:TM-19"
+    ],
+    "ibm": [
+      "2026-07-23:TM-39"
+    ],
+    "github": [
+      "2026-07-23:TM-52"
+    ],
+    "langchain": [
+      "2026-07-23:TL-13"
     ]
   },
   "category_index": {
@@ -10677,7 +11582,16 @@
       "2026-07-22:TM-26",
       "2026-07-22:TM-27",
       "2026-07-22:TM-28",
-      "2026-07-22:TM-34"
+      "2026-07-22:TM-34",
+      "2026-07-23:TM-08",
+      "2026-07-23:TM-12",
+      "2026-07-23:TM-39",
+      "2026-07-23:TM-43",
+      "2026-07-23:TM-44",
+      "2026-07-23:TM-45",
+      "2026-07-23:TL-02",
+      "2026-07-23:TL-09",
+      "2026-07-23:TL-10"
     ],
     "cat:tech": [
       "2026-07-01:TM-04",
@@ -10727,7 +11641,10 @@
       "2026-07-20:TL-09",
       "2026-07-21:TM-17",
       "2026-07-22:TL-10",
-      "2026-07-22:TL-13"
+      "2026-07-22:TL-13",
+      "2026-07-23:TM-16",
+      "2026-07-23:TM-30",
+      "2026-07-23:TM-31"
     ],
     "cat:other": [
       "2026-07-01:TM-08",
@@ -10815,7 +11732,14 @@
       "2026-07-22:TL-01",
       "2026-07-22:TL-04",
       "2026-07-22:TL-11",
-      "2026-07-22:TL-16"
+      "2026-07-22:TL-16",
+      "2026-07-23:TM-01",
+      "2026-07-23:TM-07",
+      "2026-07-23:TM-18",
+      "2026-07-23:TM-52",
+      "2026-07-23:TM-53",
+      "2026-07-23:TL-04",
+      "2026-07-23:TL-08"
     ],
     "cat:app": [
       "2026-07-01:TM-36",
@@ -10852,7 +11776,15 @@
       "2026-07-20:TL-15",
       "2026-07-21:TM-32",
       "2026-07-22:TM-10",
-      "2026-07-22:TM-37"
+      "2026-07-22:TM-37",
+      "2026-07-23:TM-05",
+      "2026-07-23:TM-06",
+      "2026-07-23:TM-14",
+      "2026-07-23:TM-19",
+      "2026-07-23:TM-22",
+      "2026-07-23:TL-01",
+      "2026-07-23:TL-07",
+      "2026-07-23:TL-13"
     ],
     "cat:model": [
       "2026-07-01:TL-03",
@@ -10900,72 +11832,78 @@
       "2026-07-22:TL-02",
       "2026-07-22:TL-06",
       "2026-07-22:TL-08",
-      "2026-07-22:TL-09"
+      "2026-07-22:TL-09",
+      "2026-07-23:TM-23",
+      "2026-07-23:TL-06"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 68
+      "count": 72
     },
     {
       "tag": "funding",
-      "count": 66
+      "count": 69
     },
     {
       "tag": "policy",
-      "count": 48
+      "count": 54
     },
     {
       "tag": "openai",
-      "count": 43
+      "count": 48
     },
     {
       "tag": "chip",
-      "count": 40
+      "count": 45
     },
     {
       "tag": "agent",
-      "count": 38
+      "count": 41
     },
     {
       "tag": "anthropic",
-      "count": 31
-    },
-    {
-      "tag": "meta",
-      "count": 23
+      "count": 34
     },
     {
       "tag": "regulation",
-      "count": 23
-    },
-    {
-      "tag": "google",
-      "count": 21
+      "count": 26
     },
     {
       "tag": "safety",
-      "count": 21
+      "count": 25
+    },
+    {
+      "tag": "meta",
+      "count": 24
+    },
+    {
+      "tag": "google",
+      "count": 22
+    },
+    {
+      "tag": "data-center",
+      "count": 17
+    },
+    {
+      "tag": "open-source",
+      "count": 16
+    },
+    {
+      "tag": "robotics",
+      "count": 16
     },
     {
       "tag": "gpt",
       "count": 16
     },
     {
-      "tag": "open-source",
-      "count": 15
-    },
-    {
-      "tag": "data-center",
-      "count": 15
-    },
-    {
       "tag": "nvidia",
       "count": 14
     },
     {
-      "tag": "robotics",
+      "tag": "microsoft",
       "count": 14
     },
     {
@@ -10977,12 +11915,12 @@
       "count": 13
     },
     {
-      "tag": "microsoft",
-      "count": 13
-    },
-    {
       "tag": "apple",
       "count": 12
+    },
+    {
+      "tag": "enterprise",
+      "count": 11
     },
     {
       "tag": "open-weights",
@@ -10997,11 +11935,15 @@
       "count": 10
     },
     {
-      "tag": "enterprise",
-      "count": 10
+      "tag": "video-gen",
+      "count": 9
     },
     {
-      "tag": "video-gen",
+      "tag": "acquisition",
+      "count": 9
+    },
+    {
+      "tag": "image-gen",
       "count": 8
     },
     {
@@ -11017,15 +11959,15 @@
       "count": 7
     },
     {
-      "tag": "image-gen",
-      "count": 7
-    },
-    {
-      "tag": "acquisition",
-      "count": 7
-    },
-    {
       "tag": "autonomous-driving",
+      "count": 7
+    },
+    {
+      "tag": "amd",
+      "count": 7
+    },
+    {
+      "tag": "gpu",
       "count": 6
     },
     {
@@ -11057,6 +11999,14 @@
       "count": 5
     },
     {
+      "tag": "quantum",
+      "count": 5
+    },
+    {
+      "tag": "chatgpt",
+      "count": 5
+    },
+    {
       "tag": "qwen",
       "count": 5
     },
@@ -11065,11 +12015,11 @@
       "count": 4
     },
     {
-      "tag": "gpu",
+      "tag": "deepseek",
       "count": 4
     },
     {
-      "tag": "amd",
+      "tag": "huggingface",
       "count": 4
     },
     {
@@ -11093,15 +12043,11 @@
       "count": 3
     },
     {
-      "tag": "quantum",
+      "tag": "opus",
       "count": 3
     },
     {
-      "tag": "deepseek",
-      "count": 3
-    },
-    {
-      "tag": "chatgpt",
+      "tag": "voice",
       "count": 3
     },
     {
@@ -11113,7 +12059,7 @@
       "count": 3
     },
     {
-      "tag": "huggingface",
+      "tag": "inference",
       "count": 3
     },
     {
@@ -11137,15 +12083,7 @@
       "count": 2
     },
     {
-      "tag": "opus",
-      "count": 2
-    },
-    {
-      "tag": "voice",
-      "count": 2
-    },
-    {
-      "tag": "inference",
+      "tag": "baidu",
       "count": 2
     },
     {
@@ -11158,10 +12096,6 @@
     },
     {
       "tag": "tesla",
-      "count": 1
-    },
-    {
-      "tag": "baidu",
       "count": 1
     },
     {
@@ -11203,32 +12137,60 @@
     {
       "tag": "pricing",
       "count": 1
+    },
+    {
+      "tag": "stripe",
+      "count": 1
+    },
+    {
+      "tag": "mark-zuckerberg",
+      "count": 1
+    },
+    {
+      "tag": "sonnet",
+      "count": 1
+    },
+    {
+      "tag": "runway",
+      "count": 1
+    },
+    {
+      "tag": "ibm",
+      "count": 1
+    },
+    {
+      "tag": "github",
+      "count": 1
+    },
+    {
+      "tag": "langchain",
+      "count": 1
     }
   ],
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 132,
+      "count": 141,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 86,
+      "count": 93,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 48,
+      "count": 51,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:model",
-      "count": 46,
+      "count": 48,
       "label_zh": "新模型"
     },
     {
       "tag": "cat:app",
-      "count": 35,
+      "count": 43,
       "label_zh": "新应用"
     }
   ]

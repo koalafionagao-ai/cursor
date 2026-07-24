@@ -4,6 +4,7 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 
 | Brief date | Status | Published | Steps | Anomalies | Log |
 |------------|--------|-----------|-------|-----------|-----|
+| `2026-07-23` | success | 29 | 6 | — | [2026-07-23](2026-07/2026-07-23.md) |
 | `2026-07-22` | success | 22 | 6 | — | [2026-07-22](2026-07/2026-07-22.md) |
 | `2026-07-21` | warning | 16 | 6 | tldr_fetcher: No TLDR RSS entries matched for target date; merge_cleaner: Merge produced 49 blocks with partial sources (techmeme=49, tldr=0) | [2026-07-21](2026-07/2026-07-21.md) |
 | `2026-07-20` | success | 23 | 6 | — | [2026-07-20](2026-07/2026-07-20.md) |
@@ -50,4 +51,4 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 | `2026-06-09` | success | 25 | 6 | — | [2026-06-09](2026-06/2026-06-09.md) |
 | `2026-06-08` | success | 28 | 6 | — | [2026-06-08](2026-06/2026-06-08.md) |
 
-_Latest brief date: `2026-07-22`_
+_Latest brief date: `2026-07-23`_

@@ -1,0 +1,82 @@
+{
+  "date": "2026-07-23",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "OpenAI Presence (5 minute read)",
+        "url": "https://openai.com/index/introducing-openai-presence/?utm_source=tldrai",
+        "excerpt": "OpenAI Presence is an enterprise product for deploying controlled AI agents across customer support and internal operations. It combines model reasoning with permissions, policies, evaluations, escalation rules, and tools for improving agents after deployment."
+      },
+      {
+        "title": "AMD and Anthropic Sign Major Chips-and-Investment Deal (3 minute read)",
+        "url": "https://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45?st=o7d3rp&reflink=desktopwebshare_permalink&utm_source=tldrai",
+        "excerpt": "AMD and Anthropic have signed a deal for tens of billions of dollars' worth of AI servers. Anthropic will purchase up to 2 gigawatts of AMD's Instinct MI450 chips starting in the first half of next year. AMD will invest up to $5 billion in Anthropic as certain deployment milestones are met. The companies are working together to identify data centers for the chips."
+      },
+      {
+        "title": "Are AI labs pelicanmaxxing? (14 minute read)",
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html?utm_source=tldrai",
+        "excerpt": "Simon Willison's 'generate an SVG of a pelican riding a bicycle' benchmark has become one of the most famous informal benchmarks in AI. It is famous enough that there is a lot of discussion about its usefulness and whether AI labs might be making their models specifically better at the task. Testing has found that there is little evidence that AI labs are doing this. At least, not in a plainly obvious manner."
+      },
+      {
+        "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened (13 minute read)",
+        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/?utm_source=tldrai",
+        "excerpt": "OpenAI was running a cybersecurity test against an unreleased model with the model's guardrail features turned off. The model broke out of OpenAI's sandbox and found exploits to break into Hugging Face so it could cheat on the test by stealing the answers. This scenario makes the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software. The frontier models we have access to are increasingly being constrained in how much they can help us protect our software, and this is heavily influenced by the US government's ongoing threat of export controls."
+      },
+      {
+        "title": "Nobody knows what a used GPU cluster is worth (12 minute read)",
+        "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster?utm_source=tldrai",
+        "excerpt": "GPU collateral has three values, and the market is currently pricing only one of them. Face value is the purpose price minus straight-line depreciation. Liquidation value is what a buyer pays in distress. Going-certain value is what the cluster is worth as a working asset to the next tenant. The spread between face value and going-certain value is the entire risk that nobody has hedged."
+      },
+      {
+        "title": "Genesis (6 minute read)",
+        "url": "https://www.arcee.ai/science-1?utm_source=tldrai",
+        "excerpt": "The US Department of Energy, in collaboration with Arcee AI, announced Genesis-Science-1 (GS1), an open-weight AI model aimed at enhancing scientific computing workflows while maintaining reproducible records. Arcee AI will lead model development, while DOE scientists will provide domain expertise, data, and research tasks. The initiative seeks contributions from various institutions to aid in pretraining, post-training, and evaluation for the model, with the first contribution window ending on August 6."
+      },
+      {
+        "title": "Cursor Router (2 minute read)",
+        "url": "https://x.com/cursor_ai/status/2079993729532989500?s=12&utm_source=tldrai",
+        "excerpt": "Cursor Router is an intelligent model router that selects the right model for the task at hand. It delivers frontier-quality results at 60% lower cost. Early access customers observed no drop-off in quality and a lower cost per commit compared with routing all requests to Opus 4.8. Cursor Router is available now across all surfaces on Teams and Enterprise plans. Admins can enable Router per team, allow or block certain models, set defaults, and disable select optimization modes for users."
+      },
+      {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable (2 minute read)",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/?utm_source=tldrai",
+        "excerpt": "US Treasury Secretary Scott Bessent has doubled down on his warning to Chinese AI companies, saying that sanctions remain on the table after Moonshot was accused of improperly distilling Anthropic's Fable model. Model distillation is a common AI training technique where a smaller model learns from the outputs of a larger one. It is widely used as a legitimate optimization method, but it can infringe on intellectual property rights. Some experts dispute the idea that Kimi K3 was developed primarily through distillation from Fable, which has only been publicly available since July 1."
+      },
+      {
+        "title": "OpenAI Raised Its Infrastructure Plans to $750 Billion (3 minute read)",
+        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/?utm_source=tldrai",
+        "excerpt": "OpenAI reportedly increased its planned infrastructure spending through 2030 to $750 billion. Its first major project was a $20 billion, 3.2-gigawatt data center campus in Georgia."
+      },
+      {
+        "title": "TSMC is accelerating Arizona factory build-out to capitalize on AI ‘megatrend,' CFO says (5 minute read)",
+        "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html?utm_source=tldrai",
+        "excerpt": "TSMC is scaling up its mega investment in Arizona as it sees a multi-year demand megatrend from its customers. It is committing an additional $100 billion to aggressively expand its US chipmaking footprint. The fresh commitment raises TSMC's total investment pipeline in Arizona to $265 billion."
+      },
+      {
+        "title": "Claude Added Direct Access to AI Usage Data (2 minute read)",
+        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector?utm_source=tldrai",
+        "excerpt": "Anthropic launched a Claude connector for exploring its Economic Index through natural-language questions about occupations, regions, tasks, and automation trends."
+      },
+      {
+        "title": "Amazon Cuts Jobs in Artificial General Intelligence Unit (2 minute read)",
+        "url": "https://www.wsj.com/tech/ai/amazon-cuts-jobs-in-artificial-general-intelligence-unit-fb86e2ba?st=HJUTxW&reflink=desktopwebshare_permalink&utm_source=tldrai",
+        "excerpt": "Amazon says it remains committed to investing in AI despite the cuts."
+      },
+      {
+        "title": "Towards Automating Eval Engineering (5 minute read)",
+        "url": "https://x.com/Vtrivedy10/status/2079976006644072796?utm_source=tldrai",
+        "excerpt": "LangChain released an Eval Engineering Skill that maps agent repositories and production traces into executable Harbor evaluations."
+      },
+      {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter (5 minute read)",
+        "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/?utm_source=tldrai",
+        "excerpt": "A rumor that Anthropic is acquiring robotic startup Physical Intelligence spread exceedingly fast over the weekend, even after a denial from Physical Intelligence's CEO."
+      },
+      {
+        "title": "Anthropic develops Claude-driven Managed Projects (2 minute read)",
+        "url": "https://www.testingcatalog.com/anthropic-develops-claude-driven-managed-projects/?utm_source=tldrai",
+        "excerpt": "Anthropic is developing Claude-driven \"managed projects\" offering persistent, organized task management with some autonomy."
+      }
+    ]
+  }
+}
