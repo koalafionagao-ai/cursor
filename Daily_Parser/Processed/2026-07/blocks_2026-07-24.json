@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-24",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max",
+      "excerpt": "",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Meta, Microsoft, OpenAI, and others sign a letter defending open-weight AI models; Jensen Huang, in his first X post, says open models strengthen cybersecurity",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Trump says the US will initiate a probe into the EU's practice of “robbing” US tech giants with fines, threatening the bloc with “substantial” tariffs",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges",
+      "excerpt": "",
+      "url": "https://www.engadget.com/2222353/meta-launches-facebook-verified/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a “duress” passcode that wiped the contents of his GrapheneOS phone",
+      "excerpt": "",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Preliminary findings: the EU Commission says TikTok's accounts for minors violate the DSA, citing features that could expose children to bullying and predators",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/tiktok-charged-with-breaching-eu-tech-rules-online-safety-kids-eu-says-2026-07-24/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: Anduril is in talks with investors for a new funding round that could see it valued at around $100B; the company raised $5B at a $61B valuation in May",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/aerospace-defense/defense-tech-company-anduril-talks-raise-funding-about-100-billion-valuation-2026-07-24/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Sources: OpenAI's models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/07/24/meta-muse-spark-agents",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of “synthetic performers” in ads",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/indian-court-rules-favor-openai-copyright-lawsuit-brought-by-news-agency-ani-2026-07-24/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Sources: Shanghai-based GPU maker MetaX confidentially filed for a Hong Kong listing, targeting an IPO by the year-end, amid a surge of fundraising from rivals",
+      "excerpt": "",
+      "url": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/qualcomm-tells-customers-that-prices-are-going-up-by-double-digits",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "A look at China's push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor",
+      "excerpt": "",
+      "url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0?st=WZJze5&reflink=desktopwebshare_permalink",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Facebook plans to test a full-screen “immersive video” player when users open the app, replacing the newsfeed, in select international markets this year",
+      "excerpt": "",
+      "url": "https://www.hollywoodreporter.com/business/digital/facebook-testing-immersive-video-home-page-app-1236655831/",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts",
+      "excerpt": "",
+      "url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
+      "section": "social networks"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkwMzU3MywiZXhwIjoxNzg1NTA4MzczLCJhcnRpY2xlSWQiOiJUSU9PQUtSS1YyVUwwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.PxCFecBMy1MeMbaXowAtencwv-qVbq2-LyQKrK0eLJU",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke's parent in the “low nine figures”",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "section": "m&a"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "World Foundation, the nonprofit behind the World protocol, raised $52.5M led by Pantera through a strategic sale of its WLD token with a one-year lockup",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/23/paper-software-design-accel-iconiq",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/23/ropedia-raises-22m-scale-human-centric-data-collection-embodied-ai/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
+      "section": "more news"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Poolin, previously regarded as one of the world's largest crypto mining pool providers, files for Chapter 11 and seeks to sell its Texas mining assets for $52M",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Google says it has $811B in contracted future spending commitments as of June, up nearly $500B from March, covering chips, data centers, electricity, and more",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-future-spending-commitments-soar-to-811-billion",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/media-telecom/us-appeals-court-blocks-part-texas-childrens-online-safety-law-2026-07-24/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "The US OCC denies Wise's application to create a national trust bank, citing incompatibility with new Federal Reserve policies; Wise says it plans to reapply",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/wise-tumbles-after-us-declines-national-trust-bank-application-2026-07-24/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669",
+      "section": "more news"
+    }
+  ]
+}

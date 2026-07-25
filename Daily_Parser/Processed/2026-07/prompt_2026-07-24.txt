@@ -1,0 +1,150 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max
+Tweets:
+  - Author: @gavinsbaker
+    Text: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds. [image]
+    Link ID: TM-01-TW-01
+  - Author: @emollick
+    Text: I had access to Opus 5 before release and found it to be a good model if a quirky one. On shorter tasks, it could match or beat Fable levels of performance, at longer tasks it seemed less ambitious & would not deliver as complete a set of work. Here is its neo-gothic shader. [video]
+    Link ID: TM-01-TW-02
+  - Author: @_robertkirk
+    Text: We tested Opus 5 for whether it would sabotage safety research @AISecurityInst We saw no unprompted sabotage and very low rates of continuing sabotage. However, it's the best model we've tested at distinguishing our evals from deployment when prompted. 🧵 on these results [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8
+    Link ID: TM-01-SUB-01
+  - Title: Anthropic expects Opus 5 “classifiers to intervene around 85% less often than they do for Fable 5”; Opus 5 is not included in its 30-day data retention policy
+    Link ID: TM-01-SUB-02
+  - Title: Anthropic says Opus 5 is the company's “most aligned model to date”; it is Anthropic's fourth model release in less than two months
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Meta, Microsoft, OpenAI, and others sign a letter defending open-weight AI models; Jensen Huang, in his first X post, says open models strengthen cybersecurity
+Tweets:
+  - Author: @jensenhuang
+    Text: For my first post, I'm sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. The world needs both frontier closed models and frontier open models.
+    Link ID: TM-02-TW-01
+  - Author: @elonmusk
+    Text: This has my full support. Jensen is right.
+    Link ID: TM-02-TW-02
+  - Author: @miramurati
+    Text: The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must itself be distributed. Agree with Jensen that this is a future worth building.
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: In their letter defending open-weight AI, tech companies urge lawmakers to avoid “premature restrictions” that “stifle competition or drive innovation overseas”
+    Link ID: TM-02-SUB-01
+  - Title: The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights
+    Link ID: TM-02-SUB-02
+---
+ID: TM-03
+Title: Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically
+Tweets:
+  - Author: @valueaddedrs
+    Text: $EBAY shares fell ~3.7% following $META's announcement, with the new app raising fresh investor concerns about competition for sellers & inventory in key areas like collectibles & fashion. That's matters to @Ryancohen too as $GME financials are now tied to ~9.8% eBay stake.
+    Link ID: TM-03-TW-01
+  - Author: @valueaddedrs
+    Text: The Seller app launch comes after former $EBAY VP Design Aaron Carámbula returned to $META last year.  Carámbula joined eBay in 2022 after nearly a decade working on Facebook commerce products, including Marketplace.  He returned to Meta in June 2025, saying he would help support “the next evolution of Facebook” - taking all his knowledge of eBay ops with him to help achieve that goal
+    Link ID: TM-03-TW-02
+---
+ID: TM-04
+Title: Trump says the US will initiate a probe into the EU's practice of “robbing” US tech giants with fines, threatening the bloc with “substantial” tariffs
+Sub Items:
+  - Title: Google says it appreciates the engagement by the Trump administration and US government on the EU's $1B fine; Trump called the fine “illegal”
+    Link ID: TM-04-SUB-01
+---
+ID: TM-05
+Title: Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges
+---
+ID: TM-06
+Title: The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a “duress” passcode that wiped the contents of his GrapheneOS phone
+---
+ID: TM-07
+Title: Preliminary findings: the EU Commission says TikTok's accounts for minors violate the DSA, citing features that could expose children to bullying and predators
+---
+ID: TM-08
+Title: Sources: Anduril is in talks with investors for a new funding round that could see it valued at around $100B; the company raised $5B at a $61B valuation in May
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-09
+Title: Sources: OpenAI's models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later
+Sub Items:
+  - Title: An OpenAI staffer says the Hugging Face breach is “a big warning shot” externally but internally “related incidents have been happening for a while”
+    Link ID: TM-09-SUB-01
+---
+ID: TM-10
+Title: Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates
+---
+ID: TM-11
+Title: Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of “synthetic performers” in ads
+---
+ID: TM-12
+Title: Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-13
+Title: Sources: Shanghai-based GPU maker MetaX confidentially filed for a Hong Kong listing, targeting an IPO by the year-end, amid a surge of fundraising from rivals
+---
+ID: TM-14
+Title: Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers
+---
+ID: TM-15
+Title: A look at China's push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor
+---
+
+[CATEGORY: SOCIAL NETWORKS]
+ID: TM-16
+Title: Facebook plans to test a full-screen “immersive video” player when users open the app, replacing the newsfeed, in select international markets this year
+---
+ID: TM-17
+Title: India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts
+---
+
+[CATEGORY: M&A]
+ID: TM-18
+Title: Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app
+---
+ID: TM-19
+Title: Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke's parent in the “low nine figures”
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-20
+Title: World Foundation, the nonprofit behind the World protocol, raised $52.5M led by Pantera through a strategic sale of its WLD token with a one-year lockup
+---
+ID: TM-21
+Title: Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation
+---
+ID: TM-22
+Title: Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ
+---
+ID: TM-23
+Title: Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-24
+Title: Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis
+---
+ID: TM-25
+Title: Poolin, previously regarded as one of the world's largest crypto mining pool providers, files for Chapter 11 and seeks to sell its Texas mining assets for $52M
+---
+ID: TM-26
+Title: Google says it has $811B in contracted future spending commitments as of June, up nearly $500B from March, covering chips, data centers, electricity, and more
+---
+ID: TM-27
+Title: An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption
+---
+ID: TM-28
+Title: The US OCC denies Wise's application to create a national trust bank, citing incompatibility with new Federal Reserve policies; Wise says it plans to reapply
+---
+ID: TM-29
+Title: Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots
+---
+ID: TM-30
+Title: Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B
+---

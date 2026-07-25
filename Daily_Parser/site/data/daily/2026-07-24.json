@@ -1,0 +1,367 @@
+{
+  "date": "2026-07-24",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 13,
+    "by_category": {
+      "cat:model": 1,
+      "cat:other": 3,
+      "cat:business": 8,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": {
+        "zh": "Anthropic 推出 Claude Opus 5，性能接近 Fable 5 且价格减半",
+        "en": "Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max"
+      },
+      "summary": {
+        "zh": "Claude Opus 5 成为 Claude Max 的默认模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai",
+      "title": {
+        "zh": "Meta、微软、OpenAI 等签署支持开放权重 AI 模型的公开信",
+        "en": "Meta, Microsoft, OpenAI, and others sign a letter defending open-weight AI models; Jensen Huang, in his first X post, says open models strengthen cybersecurity"
+      },
+      "summary": {
+        "zh": "Jensen Huang 首次发文称开放模型有助于加强网络安全。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "microsoft",
+        "openai",
+        "jensen-huang",
+        "open-weights",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "microsoft",
+        "openai",
+        "jensen-huang",
+        "open-weights",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/aerospace-defense/defense-tech-company-anduril-talks-raise-funding-about-100-billion-valuation-2026-07-24/",
+      "title": {
+        "zh": "消息称 Anduril 正在洽谈新一轮融资，估值或达 1000 亿美元",
+        "en": "Sources: Anduril is in talks with investors for a new funding round that could see it valued at around $100B; the company raised $5B at a $61B valuation in May"
+      },
+      "summary": {
+        "zh": "该公司在 5 月份以 610 亿美元估值筹集了 50 亿美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/24/meta-muse-spark-agents",
+      "title": {
+        "zh": "Meta 更新 Meta AI，新增 Muse Spark 1.1 驱动的代理功能",
+        "en": "Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates"
+      },
+      "summary": {
+        "zh": "新功能可连接 Gmail 和 Google Calendar 执行任务，如创建每日更新。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "meta",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "agent"
+      ],
+      "category_tag": "cat:app"
+    },
+    {
+      "id": "TM-12",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/legal/litigation/indian-court-rules-favor-openai-copyright-lawsuit-brought-by-news-agency-ani-2026-07-24/",
+      "title": {
+        "zh": "德里高等法院裁定 OpenAI 使用 ANI 内容训练 ChatGPT 不构成版权侵权",
+        "en": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports"
+      },
+      "summary": {
+        "zh": "法院认为新闻机构未能证明 ChatGPT 复制了其报道。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "chatgpt",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "chatgpt",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-15",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0?st=WZJze5&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "中国推动追赶美国 AI 芯片，副总理警告抵制本地芯片者为叛徒",
+        "en": "A look at China's push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "chip",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chip",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkwMzU3MywiZXhwIjoxNzg1NTA4MzczLCJhcnRpY2xlSWQiOiJUSU9PQUtSS1YyVUwwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.PxCFecBMy1MeMbaXowAtencwv-qVbq2-LyQKrK0eLJU",
+      "title": {
+        "zh": "Midjourney 收购 AI 占星应用 Co-Star，计划推出独立图像生成应用",
+        "en": "Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "midjourney",
+        "image-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "midjourney",
+        "image-gen"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "title": {
+        "zh": "Cognition 收购 AI 助手 Poke 的开发公司，交易估值“低九位数”",
+        "en": "Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke's parent in the “low nine figures”"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "agent",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "acquisition"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "title": {
+        "zh": "消息称 Prentis 正在洽谈以 10 亿美元估值筹集 1 亿美元",
+        "en": "Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation"
+      },
+      "summary": {
+        "zh": "Prentis 专注于开发计算机使用模型，由 Reid Hoffman 和 Marc Pincus 联合创立。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/23/paper-software-design-accel-iconiq",
+      "title": {
+        "zh": "Paper 完成 3400 万美元 A 轮融资，由 Accel 和 ICONIQ 领投",
+        "en": "Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ"
+      },
+      "summary": {
+        "zh": "Paper 允许设计师直接连接生产代码和 AI 代理。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
+      "title": {
+        "zh": "消息称 Waymo 正在考虑退出与 Uber 的合作",
+        "en": "Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis"
+      },
+      "summary": {
+        "zh": "双方关系因围绕机器人出租车未来的激烈游说战而恶化。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "uber",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "uber",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-29",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "title": {
+        "zh": "Mobileye 创始人兼 CEO Amnon Shashua 计划卸任",
+        "en": "Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots"
+      },
+      "summary": {
+        "zh": "在公司推进机器人出租车和人形机器人领域的背景下，他结束了近三十年的领导生涯。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "robotics",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "robotics",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669",
+      "title": {
+        "zh": "韩国企业借助 AI 资金加大对美投资",
+        "en": "Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B"
+      },
+      "summary": {
+        "zh": "韩国企业在第一季度对美直接投资同比增长超 100%，达到 102 亿美元，创下近年来最大投资力度。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    }
+  ]
+}

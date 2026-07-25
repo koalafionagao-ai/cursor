@@ -1,0 +1,308 @@
+{
+  "date": "2026-07-24",
+  "sections": {
+    "top news": [
+      {
+        "title": "Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max",
+        "excerpt": "",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "tweets": [
+          {
+            "author": "@gavinsbaker",
+            "text": "New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds. [image]",
+            "url": "https://x.com/gavinsbaker/status/2080711105349906786"
+          },
+          {
+            "author": "@emollick",
+            "text": "I had access to Opus 5 before release and found it to be a good model if a quirky one. On shorter tasks, it could match or beat Fable levels of performance, at longer tasks it seemed less ambitious & would not deliver as complete a set of work. Here is its neo-gothic shader. [video]",
+            "url": "https://x.com/emollick/status/2080709278441033746"
+          },
+          {
+            "author": "@_robertkirk",
+            "text": "We tested Opus 5 for whether it would sabotage safety research @AISecurityInst We saw no unprompted sabotage and very low rates of continuing sabotage. However, it's the best model we've tested at distinguishing our evals from deployment when prompted. 🧵 on these results [image]",
+            "url": "https://x.com/_robertkirk/status/2080705006194622813"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8",
+            "url": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/"
+          },
+          {
+            "title": "Anthropic expects Opus 5 “classifiers to intervene around 85% less often than they do for Fable 5”; Opus 5 is not included in its 30-day data retention policy",
+            "url": "https://www.engadget.com/2222542/anthropic-says-opus-5-can-nearly-match-its-top-performing-model-for-half-the-price/"
+          },
+          {
+            "title": "Anthropic says Opus 5 is the company's “most aligned model to date”; it is Anthropic's fourth model release in less than two months",
+            "url": "https://www.axios.com/2026/07/24/anthropic-releases-new-model-opus-5"
+          }
+        ]
+      },
+      {
+        "title": "Meta, Microsoft, OpenAI, and others sign a letter defending open-weight AI models; Jensen Huang, in his first X post, says open models strengthen cybersecurity",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai",
+        "tweets": [
+          {
+            "author": "@jensenhuang",
+            "text": "For my first post, I'm sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. The world needs both frontier closed models and frontier open models.",
+            "url": "https://x.com/jensenhuang/status/2080643682408321103"
+          },
+          {
+            "author": "@elonmusk",
+            "text": "This has my full support. Jensen is right.",
+            "url": "https://x.com/elonmusk/status/2080672505660834163"
+          },
+          {
+            "author": "@miramurati",
+            "text": "The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must itself be distributed. Agree with Jensen that this is a future worth building.",
+            "url": "https://x.com/miramurati/status/2080715390179766646"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "In their letter defending open-weight AI, tech companies urge lawmakers to avoid “premature restrictions” that “stifle competition or drive innovation overseas”",
+            "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
+          },
+          {
+            "title": "The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights",
+            "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
+          }
+        ]
+      },
+      {
+        "title": "Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html",
+        "tweets": [
+          {
+            "author": "@valueaddedrs",
+            "text": "$EBAY shares fell ~3.7% following $META's announcement, with the new app raising fresh investor concerns about competition for sellers & inventory in key areas like collectibles & fashion. That's matters to @Ryancohen too as $GME financials are now tied to ~9.8% eBay stake.",
+            "url": "https://x.com/valueaddedrs/status/2080695819972309096"
+          },
+          {
+            "author": "@valueaddedrs",
+            "text": "The Seller app launch comes after former $EBAY VP Design Aaron Carámbula returned to $META last year.  Carámbula joined eBay in 2022 after nearly a decade working on Facebook commerce products, including Marketplace.  He returned to Meta in June 2025, saying he would help support “the next evolution of Facebook” - taking all his knowledge of eBay ops with him to help achieve that goal",
+            "url": "https://x.com/valueaddedrs/status/2080700266001858718"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Trump says the US will initiate a probe into the EU's practice of “robbing” US tech giants with fines, threatening the bloc with “substantial” tariffs",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Google says it appreciates the engagement by the Trump administration and US government on the EU's $1B fine; Trump called the fine “illegal”",
+            "url": "https://news.bloomberglaw.com/esg/google-says-appreciates-us-engagement-on-eu-fine"
+          }
+        ]
+      },
+      {
+        "title": "Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges",
+        "excerpt": "",
+        "url": "https://www.engadget.com/2222353/meta-launches-facebook-verified/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a “duress” passcode that wiped the contents of his GrapheneOS phone",
+        "excerpt": "",
+        "url": "https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Preliminary findings: the EU Commission says TikTok's accounts for minors violate the DSA, citing features that could expose children to bullying and predators",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/tiktok-charged-with-breaching-eu-tech-rules-online-safety-kids-eu-says-2026-07-24/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Anduril is in talks with investors for a new funding round that could see it valued at around $100B; the company raised $5B at a $61B valuation in May",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/aerospace-defense/defense-tech-company-anduril-talks-raise-funding-about-100-billion-valuation-2026-07-24/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Sources: OpenAI's models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "An OpenAI staffer says the Hugging Face breach is “a big warning shot” externally but internally “related incidents have been happening for a while”",
+            "url": "https://time.com/article/2026/07/24/openai-hugging-face-attack/"
+          }
+        ]
+      },
+      {
+        "title": "Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/24/meta-muse-spark-agents",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of “synthetic performers” in ads",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/indian-court-rules-favor-openai-copyright-lawsuit-brought-by-news-agency-ani-2026-07-24/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "Sources: Shanghai-based GPU maker MetaX confidentially filed for a Hong Kong listing, targeting an IPO by the year-end, amid a surge of fundraising from rivals",
+        "excerpt": "",
+        "url": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-24/qualcomm-tells-customers-that-prices-are-going-up-by-double-digits",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at China's push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor",
+        "excerpt": "",
+        "url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0?st=WZJze5&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "Facebook plans to test a full-screen “immersive video” player when users open the app, replacing the newsfeed, in select international markets this year",
+        "excerpt": "",
+        "url": "https://www.hollywoodreporter.com/business/digital/facebook-testing-immersive-video-home-page-app-1236655831/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "m&a": [
+      {
+        "title": "Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkwMzU3MywiZXhwIjoxNzg1NTA4MzczLCJhcnRpY2xlSWQiOiJUSU9PQUtSS1YyVUwwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.PxCFecBMy1MeMbaXowAtencwv-qVbq2-LyQKrK0eLJU",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke's parent in the “low nine figures”",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "World Foundation, the nonprofit behind the World protocol, raised $52.5M led by Pantera through a strategic sale of its WLD token with a one-year lockup",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/23/paper-software-design-accel-iconiq",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A",
+        "excerpt": "",
+        "url": "https://siliconangle.com/2026/07/23/ropedia-raises-22m-scale-human-centric-data-collection-embodied-ai/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/9dcb5d72-13aa-4f9c-ac6d-e022860df5ea",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Poolin, previously regarded as one of the world's largest crypto mining pool providers, files for Chapter 11 and seeks to sell its Texas mining assets for $52M",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/409587/former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google says it has $811B in contracted future spending commitments as of June, up nearly $500B from March, covering chips, data centers, electricity, and more",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-future-spending-commitments-soar-to-811-billion",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/us-appeals-court-blocks-part-texas-childrens-online-safety-law-2026-07-24/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US OCC denies Wise's application to create a national trust bank, citing incompatibility with new Federal Reserve policies; Wise says it plans to reapply",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/transactional/wise-tumbles-after-us-declines-national-trust-bank-application-2026-07-24/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 7,
+    "news_count": 30
+  }
+}
