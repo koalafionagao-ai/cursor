@@ -1,0 +1,229 @@
+{
+  "date": "2026-07-26",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_code=1.0VA.x5Vk.-BDaVDBrJDeO&smid=nytcore-ios-share",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Samsung announces a $200B+ contract to make chips for Broadcom through 2030, focusing on its 2nm and below process technologies for Broadcom's products",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10GW data center project that SoftBank is developing in Ohio",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3?st=pTU9bH",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta's glasses created for the category, as it works to address the issues",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTA3NDYwMywiZXhwIjoxNzg1Njc5NDAzLCJhcnRpY2xlSWQiOiJUSVNDODJLR0lGUUkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.dU3UPLeMyhVrb6Ioem0B8cWg3n-2o7HmUSNTdVDQpbg",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "CXMT, which raised $9.8B in a hugely oversubscribed Shanghai IPO, is poised for a debut pop that could lift its market cap several times above its initial ~$85B",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkzODk3OCwiZXhwIjoxNzg1NTQzNzc4LCJhcnRpY2xlSWQiOiJUSVA0QTZLR0lGUEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.RTZs72B-BUZBHv-zAv89Ctqrtb57kaEefkk2X5JEYYU",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/trump-apple-micron-china-chips-784bbd3d?st=EeHhte&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' “de minimis” rule removal",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/transactional/shein-reveals-key-financials-ahead-hong-kong-ipo-2026-07-26/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "China's market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/asia-pacific/china-fines-tripcom-770-million-over-online-hotel-booking-monopoly-2026-07-25/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "A look at China's bid to build an alternative global order in AI by making open models widely available and training people in developing countries to use them",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/fd3e703e-7ff7-4561-b039-54b280e4952d?accessToken=zwAAAZ-W5Kv2kdP9PnA-f_dFYdOwOVSygOSVLQ.MEYCIQClpjjXmXfgw1GyJJcV30JzRNw99MghzqUIaiML__VLywIhAPc-dbwbTDWGvUE1oGTO_UO62n-QoYiZG1J4fmu4vdh_&sharetype=gift&token=02e7d651-1c9d-4ddf-a19a-6668f2a7523b&syn-25a6b1a6=1",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a “DeepSeek moment”",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c?accessToken=zwAAAZ-V2Aafkc9HMK2RZqpHfNOSRm2UavsMjA.MEQCIFFQse3WZkO03-HtW1KpHRHSyXJikcbtRXscV0-HLRIRAiA55zHl7l-ehMK9kd6hrRNzg1rr6I13T2DBL_pfX-w-EA&sharetype=gift&token=fd3551ba-a528-44b0-9370-12f8085570a8&syn-25a6b1a6=1",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons",
+      "excerpt": "",
+      "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c?st=7bY6ZG&reflink=desktopwebshare_permalink",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "Progress Software agrees to acquire Domo's AI and data platform business for $400M; Domo will remain publicly listed and change its name after the deal closes",
+      "excerpt": "",
+      "url": "https://www.constellationr.com/insights/news/progress-software-buys-domos-ai-and-data-platform-business-400-million",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/e23e8b1c-693b-48b5-85b3-5852ebf70b02",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "SK Group Chair Chey Tae Won says Anthropic has asked SK Hynix for supplies to make its own chips, calling it remarkable that an AI developer has chip ambitions",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "Sources: CXMT expelled Huawei-linked SiCarrier staff from its R&D zone amid a pricing dispute, as Chinese memory makers flex their newfound clout to hike prices",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/china/chinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24/",
+      "section": "semiconductors"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Neocloud Fluidstack, which has partnered with Anthropic, announces that it raised an $830M Series A led by Situational Awareness at a $7.5B valuation in January",
+      "excerpt": "",
+      "url": "https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "Meshy, whose AI-powered tech lets users generate 3D assets from text and image prompts, raised a ~$400M Series B at a $1.5B valuation",
+      "excerpt": "",
+      "url": "https://techfundingnews.com/from-mit-research-to-1-5b-unicorn-ethan-hus-meshy-raises-400m-for-ai-powered-3d-creation/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth",
+      "excerpt": "",
+      "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Elio, which is developing a new type of image sensor designed for AI rather than human vision, raised a $21M Series A led by Innovation Endeavors and Xora",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/rkhattyhzl",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "As student protests spread across India, Narendra Modi turns to Reels, swapping his trademark cinematic videos for self-recorded messages aimed at Gen Z",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest",
+      "section": "more news"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "Verizon CEO Dan Schulman says Verizon will provide dark-fiber connectivity for Google's data centers in a $1B+ deal, with more such deals in the pipeline",
+      "excerpt": "",
+      "url": "https://www.reuters.com/business/media-telecom/verizon-signs-deal-with-google-worth-over-1-billion-2026-07-24/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "After a backlash, Meta pauses its plan to “rate limit” Conversation Focus, an accessibility feature for its glasses that runs on-device",
+      "excerpt": "",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InJNNnpCYUMxN2giLCJwIjoiL3RlY2gvOTcwOTcwL2FmdGVyLWJhY2tsYXNoLW1ldGEtcGF1c2VzLXBsYW4tdG8tcmF0ZS1saW1pdC1pdHMtc21hcnQtZ2xhc3NlcyIsImV4cCI6MTc4NTM3MjE2OSwiaWF0IjoxNzg0OTQwMTY5fQ.9DFHwR9IK98hHwfhknWqaiuJd00Na_GecIg05RVv8oQ&utm_medium=gift-link",
+      "section": "more news"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "Analysis: US tech companies have cut ~140K jobs YTD, or more than 33% of announced US layoffs in 2026, with ~50K cuts from Amazon, Oracle, Meta, and Microsoft",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f",
+      "section": "more news"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/india/india-relaxes-e-commerce-investment-rules-exports-win-amazon-2026-07-23/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "A profile of Hangzhou-based Unitree, which shipped 5,500 humanoid robots in 2025, accounting for 25%+ of the global market, as it prepares for a Shanghai IPO",
+      "excerpt": "",
+      "url": "https://time.com/article/2026/07/23/unitree-china-human-robotics/",
+      "section": "more news"
+    }
+  ]
+}

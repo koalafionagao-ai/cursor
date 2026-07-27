@@ -1,0 +1,128 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI
+Tweets:
+  - Author: @davidsacks
+    Text: The entire tech industry (save for Anthropic) has come out in favor of open source AI.  So what happens next?  Will Anthropic change its lobbying efforts?  Not likely.  Now the gaslighting begins: “Nobody is trying to ban open source.”  “We just want to limit who can use it.”  “We just want to limit who can contribute to it.”  “We just want to limit how powerful those models can be.”  “We just want to make sure the guardrails (we lobbied for) can't be removed.”  The net effect will be the same.  They won't stop until they kneecap open source.  The rest of the industry needs to watch these guys like a hawk.
+    Link ID: TM-01-TW-01
+  - Author: @packym
+    Text: I will say, it would have been easy for Anthropic to just sign the letter and then lobby behind the scenes and I respect that they didn't. They believe something and they're sticking to it even when costly.
+    Link ID: TM-01-TW-02
+  - Author: @mononofu
+    Text: I'm so excited that @JensenHuang is a believer in open source now, looking forward to the CUDA and GPU driver open source release!
+    Link ID: TM-01-TW-03
+---
+ID: TM-02
+Title: Samsung announces a $200B+ contract to make chips for Broadcom through 2030, focusing on its 2nm and below process technologies for Broadcom's products
+Tweets:
+  - Author: @wdchokepoint
+    Text: The $200B isn't just a foundry win.  Samsung is bundling 2nm fabrication with advanced packaging in the same contract.  TSMC's CoWoS is fully allocated.  Samsung just locked in the alternative.  The qualification clock is now running.
+    Link ID: TM-02-TW-01
+  - Author: @cozybearlog
+    Text: Quietly, this might be more significant than the NVIDIA-SK deal everyone's talking about.  Samsung has the fab capacity.  Broadcom has the AI ASIC design expertise (they're already behind Google's TPUs).  Together they can offer an alternative to NVIDIA's CUDA monopoly that isn't just “another GPU maker.”  The AI chip supply chain is bifurcating faster than most realize: NVIDIA ecosystem vs. everyone else.  And the “everyone else” camp just got a lot stronger.
+    Link ID: TM-02-TW-02
+  - Author: @evankirstel
+    Text: Nobody signed four year supply contracts in this industry a few years ago because the forecasts were worthless past about six quarters. What changed is which direction the risk runs. Being short capacity in 2028 is now scarier than being long.
+    Link ID: TM-02-TW-03
+---
+ID: TM-03
+Title: Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10GW data center project that SoftBank is developing in Ohio
+Tweets:
+  - Author: @scottlincicome
+    Text: “Commerce Secretary Howard Lutnick is involved in deciding who will get the power, some of the people said.” 🤔 [image]
+    Link ID: TM-03-TW-01
+---
+ID: TM-04
+Title: Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta's glasses created for the category, as it works to address the issues
+---
+ID: TM-05
+Title: CXMT, which raised $9.8B in a hugely oversubscribed Shanghai IPO, is poised for a debut pop that could lift its market cap several times above its initial ~$85B
+Sub Items:
+  - Title: Crypto exchanges like tradeXYZ are giving global investors exposure to Chinese AI-linked stocks like CXMT, bypassing Beijing's control on foreign capital access
+    Link ID: TM-05-SUB-01
+---
+ID: TM-06
+Title: Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers
+Sub Items:
+  - Title: Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM
+    Link ID: TM-06-SUB-01
+---
+ID: TM-07
+Title: Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry
+---
+ID: TM-08
+Title: Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' “de minimis” rule removal
+---
+ID: TM-09
+Title: China's market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-10
+Title: Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers
+---
+ID: TM-11
+Title: Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral
+---
+ID: TM-12
+Title: A look at China's bid to build an alternative global order in AI by making open models widely available and training people in developing countries to use them
+---
+ID: TM-13
+Title: A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a “DeepSeek moment”
+---
+ID: TM-14
+Title: Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons
+---
+ID: TM-15
+Title: Progress Software agrees to acquire Domo's AI and data platform business for $400M; Domo will remain publicly listed and change its name after the deal closes
+---
+ID: TM-16
+Title: How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups
+Sub Items:
+  - Title: Several universities including Yale, Johns Hopkins, and the University of Waterloo have restricted or disabled their use of AI detectors over accuracy concerns
+    Link ID: TM-16-SUB-01
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-17
+Title: SK Group Chair Chey Tae Won says Anthropic has asked SK Hynix for supplies to make its own chips, calling it remarkable that an AI developer has chip ambitions
+---
+ID: TM-18
+Title: Sources: CXMT expelled Huawei-linked SiCarrier staff from its R&D zone amid a pricing dispute, as Chinese memory makers flex their newfound clout to hike prices
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-19
+Title: Neocloud Fluidstack, which has partnered with Anthropic, announces that it raised an $830M Series A led by Situational Awareness at a $7.5B valuation in January
+---
+ID: TM-20
+Title: Meshy, whose AI-powered tech lets users generate 3D assets from text and image prompts, raised a ~$400M Series B at a $1.5B valuation
+---
+ID: TM-21
+Title: Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth
+---
+ID: TM-22
+Title: Elio, which is developing a new type of image sensor designed for AI rather than human vision, raised a $21M Series A led by Innovation Endeavors and Xora
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-23
+Title: As student protests spread across India, Narendra Modi turns to Reels, swapping his trademark cinematic videos for self-recorded messages aimed at Gen Z
+---
+ID: TM-24
+Title: Verizon CEO Dan Schulman says Verizon will provide dark-fiber connectivity for Google's data centers in a $1B+ deal, with more such deals in the pipeline
+---
+ID: TM-25
+Title: After a backlash, Meta pauses its plan to “rate limit” Conversation Focus, an accessibility feature for its glasses that runs on-device
+---
+ID: TM-26
+Title: Analysis: US tech companies have cut ~140K jobs YTD, or more than 33% of announced US layoffs in 2026, with ~50K cuts from Amazon, Oracle, Meta, and Microsoft
+---
+ID: TM-27
+Title: India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas
+---
+ID: TM-28
+Title: A profile of Hangzhou-based Unitree, which shipped 5,500 humanoid robots in 2025, accounting for 25%+ of the global market, as it prepares for a Shanghai IPO
+---

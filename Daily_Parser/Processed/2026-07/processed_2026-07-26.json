@@ -1,0 +1,251 @@
+{
+  "date": "2026-07-26",
+  "sources": [
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 11,
+    "by_category": {
+      "cat:other": 4,
+      "cat:business": 6,
+      "cat:app": 1
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_code=1.0VA.x5Vk.-BDaVDBrJDeO&smid=nytcore-ios-share",
+      "title": {
+        "zh": "消息称 OpenAI 和 Anthropic 私下游说华盛顿监管机构限制开源 AI 模型",
+        "en": "Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI"
+      },
+      "summary": {
+        "zh": "尽管 Sam Altman 公开表示支持开源 AI，但 OpenAI 和 Anthropic 被曝私下游说限制开源模型。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "anthropic",
+        "open-source",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-03",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3?st=pTU9bH",
+      "title": {
+        "zh": "消息称 Nvidia 正与 SoftBank 合作，为 OpenAI 提供约 2500 亿美元的支持",
+        "en": "Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10GW data center project that SoftBank is developing in Ohio"
+      },
+      "summary": {
+        "zh": "此项目是 SoftBank 在俄亥俄州开发的 10GW 数据中心计划的一部分。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "openai",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-06",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkzODk3OCwiZXhwIjoxNzg1NTQzNzc4LCJhcnRpY2xlSWQiOiJUSVA0QTZLR0lGUEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.RTZs72B-BUZBHv-zAv89Ctqrtb57kaEefkk2X5JEYYU",
+      "title": {
+        "zh": "Nvidia 计划投资 10 亿美元支持 Naver 在韩国建设 AI 数据中心",
+        "en": "Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers"
+      },
+      "summary": {
+        "zh": "同时与 SK 集团合作建设超过 2GW 的 AI 数据中心。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7",
+      "title": {
+        "zh": "Satya Nadella 面临压力，微软优先支持自家 AI 产品而非 Azure 云客户",
+        "en": "Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers"
+      },
+      "summary": {
+        "zh": "计算资源紧张迫使微软在 AI 产品和云客户之间做出选择。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "microsoft",
+        "satya-nadella",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/fd3e703e-7ff7-4561-b039-54b280e4952d?accessToken=zwAAAZ-W5Kv2kdP9PnA-f_dFYdOwOVSygOSVLQ.MEYCIQClpjjXmXfgw1GyJJcV30JzRNw99MghzqUIaiML__VLywIhAPc-dbwbTDWGvUE1oGTO_UO62n-QoYiZG1J4fmu4vdh_&sharetype=gift&token=02e7d651-1c9d-4ddf-a19a-6668f2a7523b&syn-25a6b1a6=1",
+      "title": {
+        "zh": "中国通过开源模型和培训发展中国家人才推动全球 AI 新秩序",
+        "en": "A look at China's bid to build an alternative global order in AI by making open models widely available and training people in developing countries to use them"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "open-source",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-14",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c?st=7bY6ZG&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "消息称用户诱导聊天机器人回答关于大规模伤害攻击和生物武器的提示",
+        "en": "Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-16",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/e23e8b1c-693b-48b5-85b3-5852ebf70b02",
+      "title": {
+        "zh": "AI 公司如何通过免费或低价工具进入教育市场",
+        "en": "How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups"
+      },
+      "summary": {
+        "zh": "包括与学校和教育科技初创公司合作开发定制学习工具。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "startup"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/",
+      "title": {
+        "zh": "Neocloud Fluidstack 宣布完成 8.3 亿美元 A 轮融资，估值 75 亿美元",
+        "en": "Neocloud Fluidstack, which has partnered with Anthropic, announces that it raised an $830M Series A led by Situational Awareness at a $7.5B valuation in January"
+      },
+      "summary": {
+        "zh": "该公司与 Anthropic 合作，融资由 Situational Awareness 领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "anthropic",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techfundingnews.com/from-mit-research-to-1-5b-unicorn-ethan-hus-meshy-raises-400m-for-ai-powered-3d-creation/",
+      "title": {
+        "zh": "Meshy 完成约 4 亿美元 B 轮融资，估值达 15 亿美元",
+        "en": "Meshy, whose AI-powered tech lets users generate 3D assets from text and image prompts, raised a ~$400M Series B at a $1.5B valuation"
+      },
+      "summary": {
+        "zh": "Meshy 的 AI 技术支持用户通过文本和图像提示生成 3D 资产。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-21",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/",
+      "title": {
+        "zh": "Candid Health 完成 1.2 亿美元 D 轮融资，用于自动化医疗账单和理赔流程",
+        "en": "Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth"
+      },
+      "summary": {
+        "zh": "本轮融资由 Sixth Street Growth 领投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://time.com/article/2026/07/23/unitree-china-human-robotics/",
+      "title": {
+        "zh": "杭州企业Unitree：2025年出货5500台人形机器人，占全球市场25%以上，筹备上海IPO",
+        "en": "A profile of Hangzhou-based Unitree, which shipped 5,500 humanoid robots in 2025, accounting for 25%+ of the global market, as it prepares for a Shanghai IPO"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "ipo",
+        "robotics"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}
