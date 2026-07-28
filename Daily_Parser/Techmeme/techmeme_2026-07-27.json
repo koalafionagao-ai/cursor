@@ -1,0 +1,322 @@
+{
+  "date": "2026-07-27",
+  "sections": {
+    "top news": [
+      {
+        "title": "Nvidia forms the Open Secure AI Alliance, a coalition including CrowdStrike, Hugging Face, and Dell to develop and share tools for AI safety and cybersecurity",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/",
+        "tweets": [
+          {
+            "author": "@jensenhuang",
+            "text": "Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That's why we created the Open Secure AI Alliance.",
+            "url": "https://x.com/jensenhuang/status/2081698060330250294"
+          },
+          {
+            "author": "@bgurley",
+            "text": "“Open” projects are already inherently safer than situations where proprietary large companies hold all the cards. More eyes, more transparency, more analysis. This collaboration - multiple companies all working to ensure AI safety together - is the exact right move. This is the very best path to safe AI. Kudos.",
+            "url": "https://x.com/bgurley/status/2081754784843919580"
+          },
+          {
+            "author": "@elonmusk",
+            "text": "Extremely important point",
+            "url": "https://x.com/elonmusk/status/2081798385833570773"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more",
+        "excerpt": "",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "tweets": [
+          {
+            "author": "@signulll",
+            "text": "anthropic finally releases their position on the broader ai ecosystem particularly w.r.t. to open weights.. which is dare i say is... entirely reasonable? [image]",
+            "url": "https://x.com/signulll/status/2081866012039770432"
+          },
+          {
+            "author": "@suchenzang",
+            "text": "this is actually the nicest dario has ever been about whacking china.  simply adding a few caveats that it's “not just about china” is already _much better_ than everything else said about china up until now (tho it seems like someone is coaching the PR machine, rather than some authentic concession). it's all still cope, but at least there's some minuscule directional adjustment. perhaps kimi related? or whispers of DUV progress in china?",
+            "url": "https://x.com/suchenzang/status/2081872354406523044"
+          },
+          {
+            "author": "@zeffmax",
+            "text": "part of the openai/anthropic cold war is that dario rarely ever mentions openai by name when speaking publicly but in his latest blog, he links to a story about the openai/hugging face incident when referencing “serious alignment problems” [image]",
+            "url": "https://x.com/zeffmax/status/2081880010793918811"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Microsoft introduces MAI-Cyber-1-Flash, an AI model trained for cybersecurity, and launches Perception, an agentic security system to patch vulnerabilities",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html?unlocked_article_code=1.01A.c_Y4.7RhNYnUPQCWP&smid=url-share",
+        "tweets": [
+          {
+            "author": "@satyanadella",
+            "text": "MAI-Cyber-1-Flash is our first cybersecurity model, built ground up to find the most challenging vulnerabilities in complex code bases.  When combined with MDASH, it delivers world-class performance at 50 percent of the cost of leading models.  We are bringing this capability to market through Project Perception, a complete agentic security offering grounded in real-world signals and security workflows.",
+            "url": "https://x.com/satyanadella/status/2081779755146482153"
+          },
+          {
+            "author": "@willtowntech",
+            "text": "Pretty impressive - @msftsecurity MDASH multi-model agentic scanning harness bests @AnthropicAI Mythos 5 based on recent CyberGym cybersecurity benchmarking. Interesting insight - MDASH was created for internal use at Microsoft and now it is integrated into the Project Perception preview launched today.",
+            "url": "https://x.com/willtowntech/status/2081785563410215392"
+          },
+          {
+            "author": "@mustafasuleyman",
+            "text": "That's the motivation of MAI-Cyber-1-Flash in MDASH. It's been designed to handle up to 90% of vulnerability detection and patching tasks in CyberGym, enabling the agentic harness to use larger / more costly models (in this case GPT-5.4) for the 10% of exceptionally hard tasks that truly need them.",
+            "url": "https://x.com/mustafasuleyman/status/2081782592370524510"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Microsoft says MAI-Cyber-1-Flash and MDASH, its vulnerability identification harness, deliver “world-class performance at 50% of the cost of leading models”",
+            "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"
+          }
+        ]
+      },
+      {
+        "title": "Moonshot AI releases model weights for Kimi K3 under the “Kimi K3 License”",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Nvidia says it made a “substantial” investment in Safe Superintelligence, which will get access to Nvidia GPUs to up computing power by an “order of magnitude”",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8?st=D8NSpD&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Sources: Nvidia has committed to invest $5B in Ilya Sutskever's SSI; the startup has previously raised about $3B in funding and was valued at $32B last year",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup"
+          }
+        ]
+      },
+      {
+        "title": "Sources: a Chinese state-backed company has begun manufacturing DUV machines, a key step in Beijing's drive to reduce its reliance on foreign chipmaking tech",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "ASML shares fall 7%+ after a report that a Chinese state-backed company has begun manufacturing DUV machines; Applied Materials fell 6.5%+ and Lam Research 7%+",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-27/asml-slides-after-report-of-china-beginning-duv-tool-production"
+          }
+        ]
+      },
+      {
+        "title": "CXMT's stock closed up 466% in its Shanghai debut, giving the Hefei-based memory chipmaker a ~$487B market cap, making it the most valuable China-listed company",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity",
+        "excerpt": "",
+        "url": "https://www.reuters.com/science/amazon-leo-proposes-constellation-over-5000-satellites-direct-to-phone-service-2026-07-27/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI's upcoming family of AI models",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a “noindex” tag",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "China warns it will take “all necessary measures” if the US sanctions Chinese AI companies over allegations they improperly used US models to train their models",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI's sandbox and should be treated as critical",
+        "excerpt": "",
+        "url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government",
+        "excerpt": "",
+        "url": "https://spyglass.org/open-weight-ai-models/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "US companies have flipped from “tokenmaxxing” to “thrift-maxxing”, mixing cheaper Chinese models with OpenAI's and Anthropic's, threatening the labs' valuations",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96?st=VxRECn&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "As open-weight models become the next AI ecosystem's foundation, a US ban on Chinese models would risk ceding the neutral substrate where innovation compounds",
+        "excerpt": "",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How some young adults are using AI to navigate social situations, from drafting pickup lines and texts to formulating responses in face-to-face conversations",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/ai-chatbot-in-person-social-interactions-d1cb6831?st=GZCYP6&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "A look at the secretive process Meta used to get an advantageous deal for its Hyperion data center in Louisiana, including tax breaks and lack of public input",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html?unlocked_article_code=1.01A.qwMM.9wYnTyu0M430&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "French carrier Orange and infrastructure investor Morrison agree to create a data center platform in France targeting 400 MW, backed by a €3B investment program",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/orange-morrison-partner-on-french-data-center-project",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "social networks": [
+      {
+        "title": "X rolls out X Money to US Premium and Premium+ subscribers, combining a deposit account with up to 6% APY, free instant transfers on X, and a Visa debit card",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-24/how-tiktok-creators-earn-midlevel-salaries-with-small-audiences-brand-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDkzMTI2MiwiZXhwIjoxNzg1NTM2MDYyLCJhcnRpY2xlSWQiOiJUSU9BUkJLR1pBSjAwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.yGa3uHJkMEIrBaChdyNGqNohdRE9nE01ZR_o5DvC8-w",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Spain-based Multiverse Computing, which shrinks LLMs to reduce energy and compute costs, raised a $570M Series C at a $1.7B valuation",
+        "excerpt": "",
+        "url": "https://pathfounders.com/p/multiverse-computing-lands-570m-series-c",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/startup-raises-470-million-to-build-tiny-reactors-for-military",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Enigma, which runs large-scale experiments exploring how humans interact with robots, emerges from stealth with a $70M seed led by Index Ventures and Ribbit",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Way Security, which uses AI-driven automation and agentic workflows to help deploy IAM systems, raised a $20M seed from Insight Partners and Glilot Capital",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/27/identity-way-security-microsoft-software",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs",
+        "excerpt": "",
+        "url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTE3ODM1OSwiZXhwIjoxNzg1NzgzMTU5LCJhcnRpY2xlSWQiOiJUSVVETlBUOU5KTFQwMCIsImJjb25uZWN0SWQiOiI0OEFDOEE5MkEwNTM0MkQ4OEIyRjkwQjhDMTgzMTdDMyJ9.z3BDvCQbIyLyRcRQgIsKejrHduNgHbyS9TXTJZhVFi0",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/cadence-raises-annual-forecasts-demand-booms-ai-chip-design-2026-07-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A federal judge issues a preliminary injunction blocking Minnesota from enforcing a newly enacted law that banned prediction markets like Kalshi and Polymarket",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/judge-blocks-minnesota-implementing-novel-prediction-markets-ban-2026-07-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Xbox says it is working to resolve a “major outage” affecting its Account & Profile, Store & Subscriptions, and Apps & Mobile services",
+        "excerpt": "",
+        "url": "https://www.videogameschronicle.com/news/xbox-says-its-aware-of-major-outages-when-signing-in-and-launching-games-and-is-working-to-mitigate-the-issue/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Framework Laptop 13 Pro review: very good Intel Core Ultra X7 performance, excellent build quality and keyboard, but expensive because of high RAM prices",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImlxU2RBRG9NUEYiLCJwIjoiL3RlY2gvOTcxMTYwL2ZyYW1ld29yay1sYXB0b3AtMTMtcHJvLWludGVsLXJldmlldyIsImV4cCI6MTc4NTU5ODQ5MCwiaWF0IjoxNzg1MTY2NDkwfQ.oFgqd4dUeJqpbfMkBrQU8fYrWaAfSKXulTUpejVTCzQ&utm_medium=gift-link",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "European satellite operators Eutelsat and SES stand to receive ~$6.1B in combined payments for helping clear 160 MHz satellite spectrum for US wireless services",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/media-telecom/eutelsat-receive-504-million-under-us-wireless-spectrum-plan-2026-07-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Crypto exchange BitMart says it plans to wind down its trading platform on January 31, 2027, ending nine years of operation, and stops accepting new orders",
+        "excerpt": "",
+        "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 6,
+    "news_count": 34
+  }
+}

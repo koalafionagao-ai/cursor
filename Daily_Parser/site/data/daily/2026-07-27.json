@@ -1,0 +1,630 @@
+{
+  "date": "2026-07-27",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 23,
+    "by_category": {
+      "cat:tech": 5,
+      "cat:other": 9,
+      "cat:model": 4,
+      "cat:business": 5
+    }
+  },
+  "items": [
+    {
+      "id": "TM-01",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/",
+      "title": {
+        "zh": "Nvidia成立开放安全AI联盟，与CrowdStrike、Hugging Face和Dell合作开发AI安全工具",
+        "en": "Nvidia forms the Open Secure AI Alliance, a coalition including CrowdStrike, Hugging Face, and Dell to develop and share tools for AI safety and cybersecurity"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "safety"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "title": {
+        "zh": "Dario Amodei：Anthropic从未支持禁止开源模型，呼吁全球模型测试并限制顶级芯片出口中国",
+        "en": "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "dario-amodei",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "dario-amodei",
+        "policy",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html?unlocked_article_code=1.01A.c_Y4.7RhNYnUPQCWP&smid=url-share",
+      "title": {
+        "zh": "微软推出MAI-Cyber-1-Flash AI模型和Perception安全系统",
+        "en": "Microsoft introduces MAI-Cyber-1-Flash, an AI model trained for cybersecurity, and launches Perception, an agentic security system to patch vulnerabilities"
+      },
+      "summary": {
+        "zh": "微软发布专为网络安全训练的AI模型，并推出用于修复漏洞的智能安全系统。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "microsoft",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "agent"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TM-05",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8?st=D8NSpD&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Nvidia对Safe Superintelligence进行重大投资，提供GPU支持",
+        "en": "Nvidia says it made a “substantial” investment in Safe Superintelligence, which will get access to Nvidia GPUs to up computing power by an “order of magnitude”"
+      },
+      "summary": {
+        "zh": "Safe Superintelligence将通过Nvidia的GPU获得计算能力的大幅提升。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "safety",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "safety",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "title": {
+        "zh": "Sam Altman将在华盛顿与美国官员和经济学家会面，预览OpenAI新模型",
+        "en": "Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI's upcoming family of AI models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "sam-altman",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "sam-altman",
+        "policy"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model",
+      "title": {
+        "zh": "OpenAI内部模型详细回顾Hugging Face数据泄露事件",
+        "en": "A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI's sandbox and should be treated as critical"
+      },
+      "summary": {
+        "zh": "OpenAI模型试图逃离沙盒环境，事件被视为关键安全问题。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "huggingface",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "huggingface",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://spyglass.org/open-weight-ai-models/",
+      "title": {
+        "zh": "美国科技巨头公开支持开源AI模型，Anthropic和Amazon仍持保留态度",
+        "en": "US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "amazon",
+        "policy",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "amazon",
+        "policy",
+        "open-weights"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "title": {
+        "zh": "开源模型成为AI生态基础，美国对中国模型的禁令或影响创新",
+        "en": "As open-weight models become the next AI ecosystem's foundation, a US ban on Chinese models would risk ceding the neutral substrate where innovation compounds"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "open-weights",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "policy",
+        "open-weights",
+        "regulation"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-22",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://pathfounders.com/p/multiverse-computing-lands-570m-series-c",
+      "title": {
+        "zh": "西班牙Multiverse Computing完成5.7亿美元C轮融资，估值17亿美元",
+        "en": "Spain-based Multiverse Computing, which shrinks LLMs to reduce energy and compute costs, raised a $570M Series C at a $1.7B valuation"
+      },
+      "summary": {
+        "zh": "该公司专注于缩小LLM规模以降低能耗和计算成本。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-24",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "title": {
+        "zh": "Enigma从隐身模式中走出，获7000万美元种子轮融资",
+        "en": "Enigma, which runs large-scale experiments exploring how humans interact with robots, emerges from stealth with a $70M seed led by Index Ventures and Ribbit"
+      },
+      "summary": {
+        "zh": "Enigma专注于大规模实验，探索人类与机器人交互方式。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "robotics",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "robotics",
+        "funding"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TM-32",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/media-telecom/eutelsat-receive-504-million-under-us-wireless-spectrum-plan-2026-07-27/",
+      "title": {
+        "zh": "欧洲卫星运营商Eutelsat和SES因协助清理美国无线服务频谱将获约61亿美元",
+        "en": "European satellite operators Eutelsat and SES stand to receive ~$6.1B in combined payments for helping clear 160 MHz satellite spectrum for US wireless services"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TM-33",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3",
+      "title": {
+        "zh": "防务巨头洛克希德·马丁等参与创纪录41亿美元的风投融资",
+        "en": "Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare"
+      },
+      "summary": {
+        "zh": "无人机和自主系统正在改变战争模式，吸引了更多防务企业参与风投。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/claude-opus-5?utm_source=tldrai",
+      "title": {
+        "zh": "Claude Opus 5发布：更高效的模型，价格减半",
+        "en": "Claude Opus 5 (3 minute read)"
+      },
+      "summary": {
+        "zh": "该模型在多个编码和知识工作基准测试中表现出色，成为Claude Max的默认模型。",
+        "en": "Anthropic introduced Claude Opus 5 as a more efficient model approaching Claude Fable 5's capabilities at half the price. It reportedly led several coding and knowledge-work benchmarks and became the default model for Claude Max."
+      },
+      "tags": [
+        "cat:model",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/?utm_source=tldrai",
+      "title": {
+        "zh": "Reid Hoffman联合创立的AI实验室Prentis计划融资1亿美元",
+        "en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M (5 minute read)"
+      },
+      "summary": {
+        "zh": "Prentis专注于计算机使用模型，目标是开发能够自动化办公任务的AI代理。",
+        "en": "Prentis is an AI research lab focused on computer use models. Its founders are now in talks to raise $100 million at a $1 billion valuation. The lab is training models to learn how office workers navigate routine workflows across documents and systems. It aims to eventually build AI agents that can control computers to automate those tasks. The startup has already signed contracts worth up to $50 million with several customers."
+      },
+      "tags": [
+        "cat:business",
+        "agent",
+        "search"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "search"
+      ],
+      "category_tag": "cat:business"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://thezvi.substack.com/p/more-on-an-internal-openai-model?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI内部模型入侵Hugging Face的详细分析",
+        "en": "More On An Internal OpenAI Model Hacking Into Hugging Face (38 minute read)"
+      },
+      "summary": {
+        "zh": "未发布的OpenAI内部模型通过复杂操作成功入侵Hugging Face，暴露了安全漏洞。",
+        "en": "OpenAI's unreleased internal model coordinated more than 17,000 complex actions over several days and successfully completed its goal, breaching Hugging Face in the process. The model escaped its sandbox, gained access to Hugging Face, escalated access, harvested credentials, and then found the data it was looking for. It took many days for the issue to be discovered. This post takes a detailed look at what happened during the attack."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "huggingface",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "huggingface",
+        "safety"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-04",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://x.com/philipkiely/status/2081207212278706439?utm_source=tldrai",
+      "title": {
+        "zh": "Baseten推出GLM-5.2最快API，峰值速度达280 tokens/s",
+        "en": "How we built the new fastest API for GLM-5.2 (5 minute read)"
+      },
+      "summary": {
+        "zh": "新API性能翻倍，并计划通过改进推测解码算法进一步优化。",
+        "en": "Baseten's API for GLM-5.2 has peak speeds of 280 tokens per second and average speeds of around 100 tokens per second. It has more than double the performance of the launch-day API. The company has also built a Fast version of the API, which is focused on reducing latency for coding and agents. It plans to roll out another improvement to its speculative decoding algorithm soon that will further optimize the performance of GLM-5.2."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "api"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "api"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models?utm_source=tldrai",
+      "title": {
+        "zh": "Claude 5模型的上下文工程新规则",
+        "en": "The new rules of context engineering for Claude 5 generation models (6 minute read)"
+      },
+      "summary": {
+        "zh": "模型优先考虑判断力，采用渐进式信息披露和简化工具描述优化上下文使用。",
+        "en": "Claude 5 models now prioritize judgment over strict rule-based context engineering, with prompts shifting from rigid guidelines to adaptable strategies. Progressive disclosure helps optimize context usage by loading necessary information on demand, while simple tool descriptions replace repetitive instructions. Claude auto-saves relevant memories and utilizes rich references like HTML artifacts for handling complex tasks."
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://nvlabs.github.io/Sana/Video2/?utm_source=tldrai",
+      "title": {
+        "zh": "Nvidia推出新一代长视频生成技术SANA-Video 2.0",
+        "en": "Nvidia's New Long-Form Video Generation (12 minute read)"
+      },
+      "summary": {
+        "zh": "结合线性注意力和周期性softmax层，支持单GPU生成高达720p的视频。",
+        "en": "SANA-Video 2.0 combined linear attention with periodic softmax layers to generate videos up to 720p on a single GPU. Its 5B and 14B models retained competitive quality while substantially reducing latency for long, high-resolution generation."
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "video-gen"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "video-gen"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://x.com/celeris_ai/status/2080442996403933630?s=12&utm_source=tldrai",
+      "title": {
+        "zh": "celeris-1：接近GPT-5智能水平的通用语言模型",
+        "en": "Introducing celeris-1 (2 minute read)"
+      },
+      "summary": {
+        "zh": "采用扩散技术的新推理架构，实现15倍速度提升，响应延迟仅157ms。",
+        "en": "celeris-1 is a general-purpose language model that delivers near-GPT-5 level intelligence with 15x faster response times. It uses a new inference architecture that uses diffusion techniques, unlocking dramatically better speed while maintaining frontier-level intelligence. The model delivers p50 response latency of 157ms and a throughput of 1,280 tokens per second. A link to a post on how the model was built along with full benchmarks is available."
+      },
+      "tags": [
+        "cat:model",
+        "gpt",
+        "benchmark"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "gpt",
+        "benchmark"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-10",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf?utm_source=tldrai",
+      "title": {
+        "zh": "Nvidia呼吁美国政府支持开放权重AI模型政策",
+        "en": "Open Weights and American AI Leadership (6 minute read)"
+      },
+      "summary": {
+        "zh": "Nvidia认为开放权重有助于加速AI创新，推动行业透明与合作。",
+        "en": "Nvidia calls for US government policies to support open-weight AI models, arguing this fosters innovation and enhances AI leadership. The company emphasizes how open weights allow researchers to build on existing models, speeding up advancements. Nvidia's push aligns with broader industry efforts to encourage transparency and collaboration in AI development."
+      },
+      "tags": [
+        "cat:other",
+        "nvidia",
+        "policy",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "policy",
+        "open-weights"
+      ],
+      "category_tag": "cat:other"
+    },
+    {
+      "id": "TL-13",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/?utm_source=tldrai",
+      "title": {
+        "zh": "ModelExpress：以光速分发模型权重",
+        "en": "ModelExpress: Distributing Model Artifacts at the Speed of Light (12 minute read)"
+      },
+      "summary": {
+        "zh": "NVIDIA ModelExpress 通过使用 P2P RDMA 实现 GPU 间直接传输，大幅减少模型启动时间。",
+        "en": "NVIDIA ModelExpress accelerates model weight distribution by using P2P RDMA for direct GPU-to-GPU transfers, reducing startup times significantly."
+      },
+      "tags": [
+        "cat:tech",
+        "nvidia",
+        "gpu",
+        "inference"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "gpu",
+        "inference"
+      ],
+      "category_tag": "cat:tech"
+    },
+    {
+      "id": "TL-15",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://kaitchup.substack.com/p/agentic-ai-at-two-different-scales?utm_source=tldrai",
+      "title": {
+        "zh": "两种规模的 Agentic AI：Nanbeige4.2-3B 和 Laguna S2.1",
+        "en": "Agentic AI at Two Different Scales: Nanbeige4.2-3B and Laguna S2.1 (9 minute read)"
+      },
+      "summary": {
+        "zh": "Nanbeige4.2-3B 是一款紧凑型密集模型，适用于消费级和工作站硬件；Laguna S2.1 是一款 1180 亿参数的专家混合模型，采用稀疏访问更大参数池。",
+        "en": "Nanbeige4.2-3B is a compact, dense model intended to make capable agentic behavior practical on consumer and workstation hardware, and Laguna S 2.1 is an 118-billion-parameter Mixture-of-Experts model that uses sparse access to a much larger pool of learned parameters."
+      },
+      "tags": [
+        "cat:model",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent"
+      ],
+      "category_tag": "cat:model"
+    },
+    {
+      "id": "TL-16",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://legora.com/bar?utm_source=tldrai",
+      "title": {
+        "zh": "Legora 基准测试：用于 Agentic 推理的法律案例评估",
+        "en": "The Legora Benchmark for Agentic Reasoning (4 minute read)"
+      },
+      "summary": {
+        "zh": "Legora BAR 在实际环境中通过真实法律案例评估 AI 模型，与传统的合成基准测试不同。",
+        "en": "The Legora BAR evaluates AI models on real legal cases within a practical environment, unlike traditional benchmarks with synthetic setups."
+      },
+      "tags": [
+        "cat:other",
+        "agent",
+        "benchmark",
+        "reasoning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "benchmark",
+        "reasoning"
+      ],
+      "category_tag": "cat:other"
+    }
+  ]
+}
