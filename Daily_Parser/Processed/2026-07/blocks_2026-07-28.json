@@ -1,0 +1,493 @@
+{
+  "date": "2026-07-28",
+  "items": [
+    {
+      "id": "TM-01",
+      "source": "techmeme",
+      "title": "Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to “pace” AI development",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI1OTMxOCwiZXhwIjoxNzg1ODY0MTE4LCJhcnRpY2xlSWQiOiJUSVVPTDNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.1OZ9Q9tpQyb4UKCCxCYZwDIhUSsS7oVy3mPN2ir2YZQ",
+      "section": "top news"
+    },
+    {
+      "id": "TM-02",
+      "source": "techmeme",
+      "title": "Mark Zuckerberg argues that superintelligence should be widely distributed as a tool that empowers everyone, rather than centralized in a few institutions",
+      "excerpt": "",
+      "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=p6gb3f&reflink=desktopwebshare_permalink",
+      "section": "top news"
+    },
+    {
+      "id": "TM-03",
+      "source": "techmeme",
+      "title": "Hugging Face publishes a timeline of the OpenAI agent intrusion, including how the agent took ~17.6K actions, and details using GLM-5.2 to analyze the attack",
+      "excerpt": "",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "section": "top news"
+    },
+    {
+      "id": "TM-04",
+      "source": "techmeme",
+      "title": "South Korea's KOSPI drops 11%+, led by chip stocks, amid concerns over China's chipmaking progress and the AI spending boom; Samsung falls 11%+ and SK Hynix 12%",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
+      "section": "top news"
+    },
+    {
+      "id": "TM-05",
+      "source": "techmeme",
+      "title": "Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones",
+      "excerpt": "",
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-06",
+      "source": "techmeme",
+      "title": "Sources: Apple is preparing to debut a smart home hub with a 7\" square display and facial recognition tech, a new Apple TV, and a refreshed HomePod mini in 2026",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI0NDE0NSwiZXhwIjoxNzg1ODQ4OTQ1LCJhcnRpY2xlSWQiOiJUSUhNM0tLSzNOWUIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.umlC4nkV4RlOa2djdz4HK-Zy2jhCDTHEHtnb0IiBfxU",
+      "section": "top news"
+    },
+    {
+      "id": "TM-07",
+      "source": "techmeme",
+      "title": "AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt",
+      "excerpt": "",
+      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "section": "top news"
+    },
+    {
+      "id": "TM-08",
+      "source": "techmeme",
+      "title": "Sources: OpenAI and Anthropic are lobbying the Trump administration to make sure lagging competitors also have to comply with government reviews of their models",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/openai-anthropic-quietly-teaming-washington",
+      "section": "top news"
+    },
+    {
+      "id": "TM-09",
+      "source": "techmeme",
+      "title": "Q&A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, the concentration of power, robotics, OpenAI's future, and more",
+      "excerpt": "",
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-10",
+      "source": "techmeme",
+      "title": "ChatGPT now refuses direct requests to copy an author's style and instead offers to capture the overall “feeling”, amid book authors' lawsuits against OpenAI",
+      "excerpt": "",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-11",
+      "source": "techmeme",
+      "title": "Sources: Amazon overhauls its AI strategy, deprecating most of its flagship Nova AI models, as it shifts resources to its Frontier Model Research initiative",
+      "excerpt": "",
+      "url": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-12",
+      "source": "techmeme",
+      "title": "Cursor introduces Cursor Start, a ~$7/month subscription exclusive to India, its third-largest market, priced well below its standard $20/month Pro subscription",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-13",
+      "source": "techmeme",
+      "title": "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-14",
+      "source": "techmeme",
+      "title": "Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors",
+      "excerpt": "",
+      "url": "https://www.axios.com/2026/07/28/coursera-learnvector-andrew-ng",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-15",
+      "source": "techmeme",
+      "title": "How Chinese platforms like ActID and New Claw are paying people to license their likeness for AI-generated dramas and ads, often using vague licensing terms",
+      "excerpt": "",
+      "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/",
+      "section": "artificial intelligence"
+    },
+    {
+      "id": "TM-16",
+      "source": "techmeme",
+      "title": "Meta and BlackRock form a strategic venture to develop a 1GW data center campus in El Paso, Texas, set to cost ~$14B and bring capacity online starting in 2028",
+      "excerpt": "",
+      "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-17",
+      "source": "techmeme",
+      "title": "Core Scientific and AMD announce a deal under which AMD will secure 500+ MW of US data center capacity starting in 2027, with the ability to scale up to 2.5 GW",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-18",
+      "source": "techmeme",
+      "title": "ESA satellite images show damage to two Amazon data centers in Bahrain, supporting Iran's claims last week that it struck the sites; Amazon declined to comment",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-19",
+      "source": "techmeme",
+      "title": "Sources: Nvidia signs leases worth up to $50B for Hut 8's planned 1GW data center in Texas, hosting hundreds of thousands of chips; Hut 8 didn't name its client",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f",
+      "section": "data centers"
+    },
+    {
+      "id": "TM-20",
+      "source": "techmeme",
+      "title": "European police say Binance's April 2025 policy asking law enforcement to route certain requests to foreign government agencies hinders criminal investigations",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html?unlocked_article_code=1.1FA.K7IG.NJdMdH8RKzVm&smid=bs-share",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-21",
+      "source": "techmeme",
+      "title": "Several digital-asset treasury firms have pivoted to AI amid a slump in crypto prices, but their poor stock performance suggests the strategy is not working",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/crypto-to-data-centers-treasury-model-bust-has-firms-chasing-ai",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-22",
+      "source": "techmeme",
+      "title": "Bitcoin miner and AI infrastructure company Ionic Digital surged more than 25% to nearly $63 in its Nasdaq debut, giving it an implied valuation of ~$2.75B",
+      "excerpt": "",
+      "url": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-23",
+      "source": "techmeme",
+      "title": "A profile of Justin Sun, who made his fortune in the early phase of crypto, advised the Trump family's WLF, and sued WLF, alleging fraud and breach of contract",
+      "excerpt": "",
+      "url": "https://nymag.com/intelligencer/article/justin-sun-world-liberty-lawsuit-trump-crypto-herro.html",
+      "section": "cryptocurrency"
+    },
+    {
+      "id": "TM-24",
+      "source": "techmeme",
+      "title": "PayPal reports Q2 revenue up 5% YoY to $8.68B, above $8.47B est., transaction margin dollars up 1% YoY to $3.9B, and a $1.1B profit, down from $1.26B in Q2 2025",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/earnings/paypal-lifts-profitability-guidance-says-turnaround-is-progressing-ddfd0c54?st=WyEaXL&reflink=desktopwebshare_permalink",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-25",
+      "source": "techmeme",
+      "title": "Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts' forecast of $5.10; STX jumps 6%+ after hours",
+      "excerpt": "",
+      "url": "https://www.barrons.com/articles/seagate-earnings-stock-price-57669b63?st=e1hAsp&reflink=desktopwebshare_permalink",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-26",
+      "source": "techmeme",
+      "title": "NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors",
+      "section": "earnings"
+    },
+    {
+      "id": "TM-27",
+      "source": "techmeme",
+      "title": "GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February",
+      "excerpt": "",
+      "url": "https://www.reuters.com/technology/grubmarket-confidentially-files-us-ipo-2026-07-28/",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-28",
+      "source": "techmeme",
+      "title": "Corning's stock closed down 12.1% after weak Q3 guidance, as production limits on its AI connectivity products squeeze its growth; Q2 sales rose 17% to $4.74B",
+      "excerpt": "",
+      "url": "https://www.wsj.com/business/earnings/corning-posts-higher-profit-sales-on-ai-demand-000765cd?st=FpXqQA&reflink=desktopwebshare_permalink",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-29",
+      "source": "techmeme",
+      "title": "CXMT's IPO delivers a windfall for Hefei, an eastern China inland industrial city, with the government sitting on 5,000%+ paper gains after its early investment",
+      "excerpt": "",
+      "url": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4",
+      "section": "public listings"
+    },
+    {
+      "id": "TM-30",
+      "source": "techmeme",
+      "title": "Anthropic says Claude Mythos Preview was able to break a weaker version of AES and orchestrated another improved attack against the cryptographic system HAWK",
+      "excerpt": "",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html?unlocked_article_code=1.1FA.n8t8.V0StB9-mJb0x&smid=url-share",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-31",
+      "source": "techmeme",
+      "title": "The Agentic AI Foundation updates MCP with a fully stateless architecture, a hardened authentication model, a formal 12-month deprecation policy, and more",
+      "excerpt": "",
+      "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-32",
+      "source": "techmeme",
+      "title": "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries",
+      "excerpt": "",
+      "url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+      "section": "infosec"
+    },
+    {
+      "id": "TM-33",
+      "source": "techmeme",
+      "title": "eBay and former executives agree to pay a nearly $56M settlement to resolve a 2021 civil case over the 2019 stalking and harassment of two e-commerce bloggers",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-34",
+      "source": "techmeme",
+      "title": "NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to “build essentially a clone” of Runlayer's safety and governance product",
+      "excerpt": "",
+      "url": "https://nypost.com/2026/07/28/business/nyc-ai-startup-backed-by-tech-billionaire-khosla-sues-rippling-over-trade-secret-theft/",
+      "section": "litigation"
+    },
+    {
+      "id": "TM-35",
+      "source": "techmeme",
+      "title": "July 16 letter: the US EPA says power plants providing electricity only to data centers and not to the public grid wouldn't be subject to federal pollution laws",
+      "excerpt": "",
+      "url": "https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-36",
+      "source": "techmeme",
+      "title": "Filing: Shein says its US business is under FTC investigation and it is “cooperating”, without giving specifics, as the company prepares for an IPO in Hong Kong",
+      "excerpt": "",
+      "url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+      "section": "regulation"
+    },
+    {
+      "id": "TM-37",
+      "source": "techmeme",
+      "title": "UK startup Dwelly, which buys real estate businesses and adds AI to handle maintenance, contracts, and other tasks, raised $95M in equity and $75M in debt",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-startup-dwelly-raises-170-million-for-real-estate-rollup",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-38",
+      "source": "techmeme",
+      "title": "Fish Audio, which offers AI voice models for creators and enterprises and generates $21M in ARR, raised a $52M seed led by Coreline Ventures and Capital Today",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-39",
+      "source": "techmeme",
+      "title": "Tel Aviv-based Act Security, whose platform reduces the access surface across cloud infrastructure, emerges from stealth with a $40M Series A and a $20M seed",
+      "excerpt": "",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/28/act-security-cloud-bessemer",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-40",
+      "source": "techmeme",
+      "title": "Mate, which is developing a platform to allow AI agents to detect, respond to, and proactively hunt threats, raised a $35M Series A led by Canaan Partners",
+      "excerpt": "",
+      "url": "https://www.calcalistech.com/ctechnews/article/ryb30q8bge",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-41",
+      "source": "techmeme",
+      "title": "Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M",
+      "excerpt": "",
+      "url": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+      "section": "funding deals"
+    },
+    {
+      "id": "TM-42",
+      "source": "techmeme",
+      "title": "Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI0MjE1NiwiZXhwIjoxNzg1ODQ2OTU2LCJhcnRpY2xlSWQiOiJUSVZBREhUOU5KTFUwMCIsImJjb25uZWN0SWQiOiJCNzg3N0QzQzg1QzM0MTAwOEEwNUUwNjdBQzNFMzc5MSJ9.i3-4u13pvb52RD1Qr_SxOeHfiubi5ckFkUYagpVeu1Q",
+      "section": "more news"
+    },
+    {
+      "id": "TM-43",
+      "source": "techmeme",
+      "title": "Memo: Visa is cutting ~2,600 jobs, or ~7% of staff, primarily affecting tech and product teams; source: Visa plans to reinvest in stablecoin and other offerings",
+      "excerpt": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/visa-to-cut-7-of-workforce-as-ceo-seeks-to-revamp-payments-firm",
+      "section": "more news"
+    },
+    {
+      "id": "TM-44",
+      "source": "techmeme",
+      "title": "Data security startup Cyera, founded in 2021, agrees to acquire Oasis Security, which was founded in 2022 and provides non-human identity security, for $1B",
+      "excerpt": "",
+      "url": "https://www.crn.com/news/security/2026/5-things-to-know-about-cyera-s-deal-to-acquire-oasis-security",
+      "section": "more news"
+    },
+    {
+      "id": "TM-45",
+      "source": "techmeme",
+      "title": "Sources: Moonshot is seeking access to more Nvidia Blackwell chips to prepare for Kimi K4's development, after training K3 on Nvidia chips, including Blackwell",
+      "excerpt": "",
+      "url": "https://www.theinformation.com/articles/chinese-ai-startup-moonshot-seeks-nvidia-blackwell-chips-next-model",
+      "section": "more news"
+    },
+    {
+      "id": "TM-46",
+      "source": "techmeme",
+      "title": "Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to offer the taxis on Lyft's Freenow",
+      "excerpt": "",
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "section": "more news"
+    },
+    {
+      "id": "TM-47",
+      "source": "techmeme",
+      "title": "Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high",
+      "excerpt": "",
+      "url": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+      "section": "more news"
+    },
+    {
+      "id": "TL-01",
+      "source": "tldr",
+      "title": "Anthropic Rejected Blanket Bans on Open-Weight Models (2 minute read)",
+      "excerpt": "Anthropic said it had not advocated banning open-weight models and argued that less capable releases were a public good. It instead supported tighter chip controls, action against industrial-scale distillation, and mandatory safety testing for sufficiently capable open and closed models.",
+      "url": "https://www.anthropic.com/news/position-open-weights-models?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-02",
+      "source": "tldr",
+      "title": "Releasing the model weights and technical report of Kimi K3 (2 minute read)",
+      "excerpt": "Moonshot has released the model weights for Kimi K3, along with a technical report. Kimi K3 is a 2.8T Mixture-of-Experts model with native visual understanding. It has a 1-million-token context window and a new model architecture that gives it 2.5x the intelligence per unit of compute. Alongside Kimi K3, Moonshot is opening up more of the stack behind it — high-performance attention kernels, a MoE communication library, and infrastructure for running agent environments at scale.",
+      "url": "https://threadreaderapp.com/thread/2081760186235289764.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-03",
+      "source": "tldr",
+      "title": "Microsoft Introduced a Cybersecurity Model (6 minute read)",
+      "excerpt": "Microsoft has launched MAI-Cyber-1-Flash, a specialized model for finding difficult vulnerabilities in large codebases. It powers MDASH, a new platform designed to identify and remediate software security flaws.",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-04",
+      "source": "tldr",
+      "title": "OpenAI's Report on How AI is Expanding (6 minute read)",
+      "excerpt": "OpenAI found that workers increasingly used ChatGPT for tasks traditionally associated with other occupations. Its analysis of 800,000 US user messages identified this “task crossover” in a high percentage of occupation-specific conversations.",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-05",
+      "source": "tldr",
+      "title": "Gemini Distillation Service (17 minute read)",
+      "excerpt": "The Gemini Distillation Service allows users to train a smaller, more efficient 'student' model that uses the outputs and reasoning patterns of a larger, more capable 'teacher' model. Distillation enables production-grade efficiency while allowing smaller models to achieve a deeper level of reasoning. It is recommended for high-volume, latency-sensitive applications, complex reasoning tasks, and when there are significant performance gaps between the teacher and student models. The distillation service currently only supports gemini-3.1-pro as the teacher model and gemini-2.5-flash as the student model.",
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-06",
+      "source": "tldr",
+      "title": "How we built and benchmarked VR-1, our frontier cyber reasoning model (6 minute read)",
+      "excerpt": "Cogent VR-1 can autonomously investigate environments, test hypotheses, cross system boundaries, and execute attack chains. IntrusionBench is a benchmark for measuring whether cyber agents can complete realistic enterprise attack chains from limited starting access. On the black-box configuration of IntrusionBench, VR-1 achieved more than a 2x lift in pass@3 over the strongest frontier baseline. VR-1 and IntrusionBench are both at an early preview stage, so the results are preliminary.",
+      "url": "https://www.cogent.com/blog/how-we-built-and-benchmarked-vr-1-our-frontier-cyber-reasoning-model?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-07",
+      "source": "tldr",
+      "title": "PorTAL (1 minute read)",
+      "excerpt": "Ramp Labs has open-sourced PorTAL, a framework for shared task representations and cross-model LoRA adaptation. PorTAL learns a base-agnostic task latent and a light per-base alignment that generates ordinary per-layer LoRA weights. A task can be trained once, adapted to supported frozen base models, and exported as a standard Hugging Face PEFT adapter.",
+      "url": "https://threadreaderapp.com/thread/2081819550329327689.html?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-08",
+      "source": "tldr",
+      "title": "Molt Agentic Reinforcement Learning Framework (GitHub Repo)",
+      "excerpt": "Molt is a PyTorch-native framework that treats the agent itself as the program and supports custom Python rewards, tool use, multimodal environments, and LLM judges. Its compact stack combines Ray, vLLM, NVIDIA AutoModel, and FSDP2 to scale training to trillion-parameter mixture-of-experts models.",
+      "url": "https://github.com/NVIDIA-NeMo/labs-molt?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-09",
+      "source": "tldr",
+      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security (6 minute read)",
+      "excerpt": "The Open Secure AI Alliance, featuring leaders like NVIDIA and Microsoft, aims to enhance AI safety by using open source technologies to address vulnerabilities. This initiative provides defenders with open defensive tools, enhancing transparency and adaptability while avoiding reliance on closed systems. The alliance encourages policymakers to view open models and tools as assets in AI and cybersecurity strategy, promoting resilience and shared security in the AI era.",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-10",
+      "source": "tldr",
+      "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+      "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!",
+      "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-11",
+      "source": "tldr",
+      "title": "How much can you delegate to agents? (7 minute read)",
+      "excerpt": "Agent autonomy depends on task complexity, not just model quality. Tasks fall into four levels: assistant, human-in-the-loop, agent delegation, and self-driving, determined by ease of checking and potential consequences of errors. Implementing guardrails, custom skills, and domain-specific models enhances agent autonomy and efficiency.",
+      "url": "https://newsletter.posthog.com/p/agent-autonomy?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-12",
+      "source": "tldr",
+      "title": "LLaDA2.X (GitHub Repo)",
+      "excerpt": "LLaDA2 diffusion language models for text generation and agent workflows.",
+      "url": "https://github.com/inclusionAI/LLaDA2.X?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-13",
+      "source": "tldr",
+      "title": "What Are Looped Transformers? Explained Clearly (8 minute read)",
+      "excerpt": "Looped transformers reuse the same core layers across multiple passes, trading fewer stored parameters for additional sequential compute.",
+      "url": "https://x.com/neural_avb/status/2081741935883223196?utm_source=tldrai",
+      "section": "TLDR News"
+    },
+    {
+      "id": "TL-14",
+      "source": "tldr",
+      "title": "Safe Superintelligence Partnered with Nvidia (4 minute read)",
+      "excerpt": "Safe Superintelligence announced a long-term partnership with Nvidia that includes an undisclosed investment and access to the Vera Rubin GPU platform.",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/?utm_source=tldrai",
+      "section": "TLDR News"
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "date": "2026-07-28",
+  "sections": {
+    "top news": [
+      {
+        "title": "Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to “pace” AI development",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI1OTMxOCwiZXhwIjoxNzg1ODY0MTE4LCJhcnRpY2xlSWQiOiJUSVVPTDNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.1OZ9Q9tpQyb4UKCCxCYZwDIhUSsS7oVy3mPN2ir2YZQ",
+        "tweets": [
+          {
+            "author": "@tedlieu",
+            "text": "House Republican leadership and the trump Administration let the AI industry run wild. That was a major mistake. Now even some in the industry are saying to the federal government: please don't let us run wild. November is coming.",
+            "url": "https://x.com/tedlieu/status/2082225005937803709"
+          },
+          {
+            "author": "@stevesi",
+            "text": "If you don't like what your company is doing and claim some moral high ground in saying that, then what does it mean if you continue to advance that mission? This is the definition of signaling. Just quit and work on something you deem moral. Your AI expertise is in short supply and many options will avail themselves to you.",
+            "url": "https://x.com/stevesi/status/2082205254813102480"
+          },
+          {
+            "author": "@miles_brundage",
+            "text": "One of the reasons I decided to go all in on frontier AI auditing after leaving OpenAI is so that, if AI companies need to take costly steps on safety/security, they can be reassured (by independent auditors) that their peers are doing the same thing.",
+            "url": "https://x.com/miles_brundage/status/2082208861105307871"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "OpenAI and Anthropic release statements in support of the “Pacing the Frontier” initiative; Anthropic says Dario Amodei and several co-founders have signed it",
+            "url": "https://www.reuters.com/legal/litigation/tech-employees-call-us-backed-global-effort-manage-risks-advanced-ai-2026-07-28/"
+          }
+        ]
+      },
+      {
+        "title": "Mark Zuckerberg argues that superintelligence should be widely distributed as a tool that empowers everyone, rather than centralized in a few institutions",
+        "excerpt": "",
+        "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=p6gb3f&reflink=desktopwebshare_permalink",
+        "tweets": [
+          {
+            "author": "@davidsacks",
+            "text": "Mark Zuckerberg gets it right...Concentration of power is the biggest risk of AI.  When a small number of labs (working hand-in-glove with the administrative state) decide who has access to which model capabilities, they inevitably shape what can be said, known, and built.  That's not “safety.”  It's control...Personal superintelligence in everyone's hands",
+            "url": "https://x.com/davidsacks/status/2082226325621035131"
+          },
+          {
+            "author": "@yuchenj_uw",
+            "text": "Great to see Zuck tweeting more, and Jensen Huang recently joined X too! Both are advocating for an open AI ecosystem. Giving everyone access to powerful AI will create far more value than concentrating that power in the hands of a few.",
+            "url": "https://x.com/yuchenj_uw/status/2082162320365830522"
+          },
+          {
+            "author": "@satyanadella",
+            "text": "A good read from Mark. Establishing a frontier ecosystem that empowers people and orgs everywhere is what we collectively need to build together.",
+            "url": "https://x.com/satyanadella/status/2082177964675133931"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Hugging Face publishes a timeline of the OpenAI agent intrusion, including how the agent took ~17.6K actions, and details using GLM-5.2 to analyze the attack",
+        "excerpt": "",
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "tweets": [
+          {
+            "author": "@kimmonismus",
+            "text": "The biggest surprise in Hugging Face's full forensic report isn't that OpenAI's agent escaped its sandbox.  We already knew that.  It's how deep and persistent the intrusion became...a frontier agent can autonomously sustain a resilient, multi-day intrusion across cloud infrastructure, Kubernetes clusters, internal networks and the software supply chain. crazy.",
+            "url": "https://x.com/kimmonismus/status/2082232405629235649"
+          },
+          {
+            "author": "@simonw",
+            "text": "This is detailed, fascinating and answers all sorts of open questions I'd love to know more about the “unsecured public code-evaluation sandbox hosted on a third-party provider's infrastructure” that the agent used to stage its attack against HF after it broke out of OpenAI",
+            "url": "https://x.com/simonw/status/2082205602772844978"
+          },
+          {
+            "author": "@thibaudm",
+            "text": "I've never seen a bigger argument for keeping open source models completely unregulated, regardless of how “dangerous” (powerful) they are or where they were made. Having a few select companies as anointed gatekeepers is a recipe for disaster.",
+            "url": "https://x.com/thibaudm/status/2082203571471405255"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs",
+            "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28/"
+          }
+        ]
+      },
+      {
+        "title": "South Korea's KOSPI drops 11%+, led by chip stocks, amid concerns over China's chipmaking progress and the AI spending boom; Samsung falls 11%+ and SK Hynix 12%",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "LSEG data: prices for credit default swaps, a closely watched gauge of risk, tied to Oracle, SpaceX, Alphabet, Nvidia, and others rise sharply to record highs",
+            "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099"
+          },
+          {
+            "title": "Apple overtakes Nvidia to become the world's most valuable publicly traded company, two years after it lost the crown, closing at a $4.95T market cap on Monday",
+            "url": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html"
+          }
+        ]
+      },
+      {
+        "title": "Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones",
+        "excerpt": "",
+        "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Apple is preparing to debut a smart home hub with a 7\" square display and facial recognition tech, a new Apple TV, and a refreshed HomePod mini in 2026",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI0NDE0NSwiZXhwIjoxNzg1ODQ4OTQ1LCJhcnRpY2xlSWQiOiJUSUhNM0tLSzNOWUIwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.umlC4nkV4RlOa2djdz4HK-Zy2jhCDTHEHtnb0IiBfxU",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: OpenAI and Anthropic are lobbying the Trump administration to make sure lagging competitors also have to comply with government reviews of their models",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/openai-anthropic-quietly-teaming-washington",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Q&A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, the concentration of power, robotics, OpenAI's future, and more",
+        "excerpt": "",
+        "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ChatGPT now refuses direct requests to copy an author's style and instead offers to capture the overall “feeling”, amid book authors' lawsuits against OpenAI",
+        "excerpt": "",
+        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Amazon overhauls its AI strategy, deprecating most of its flagship Nova AI models, as it shifts resources to its Frontier Model Research initiative",
+        "excerpt": "",
+        "url": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Cursor introduces Cursor Start, a ~$7/month subscription exclusive to India, its third-largest market, priced well below its standard $20/month Pro subscription",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/28/coursera-learnvector-andrew-ng",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "How Chinese platforms like ActID and New Claw are paying people to license their likeness for AI-generated dramas and ads, often using vague licensing terms",
+        "excerpt": "",
+        "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "data centers": [
+      {
+        "title": "Meta and BlackRock form a strategic venture to develop a 1GW data center campus in El Paso, Texas, set to cost ~$14B and bring capacity online starting in 2028",
+        "excerpt": "",
+        "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Core Scientific and AMD announce a deal under which AMD will secure 500+ MW of US data center capacity starting in 2027, with the ability to scale up to 2.5 GW",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ESA satellite images show damage to two Amazon data centers in Bahrain, supporting Iran's claims last week that it struck the sites; Amazon declined to comment",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/amazon-data-centers-hit-in-iran-strikes-satellite-images-show",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Nvidia signs leases worth up to $50B for Hut 8's planned 1GW data center in Texas, hosting hundreds of thousands of chips; Hut 8 didn't name its client",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "cryptocurrency": [
+      {
+        "title": "European police say Binance's April 2025 policy asking law enforcement to route certain requests to foreign government agencies hinders criminal investigations",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html?unlocked_article_code=1.1FA.K7IG.NJdMdH8RKzVm&smid=bs-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Several digital-asset treasury firms have pivoted to AI amid a slump in crypto prices, but their poor stock performance suggests the strategy is not working",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/crypto-to-data-centers-treasury-model-bust-has-firms-chasing-ai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Bitcoin miner and AI infrastructure company Ionic Digital surged more than 25% to nearly $63 in its Nasdaq debut, giving it an implied valuation of ~$2.75B",
+        "excerpt": "",
+        "url": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A profile of Justin Sun, who made his fortune in the early phase of crypto, advised the Trump family's WLF, and sued WLF, alleging fraud and breach of contract",
+        "excerpt": "",
+        "url": "https://nymag.com/intelligencer/article/justin-sun-world-liberty-lawsuit-trump-crypto-herro.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "PayPal reports Q2 revenue up 5% YoY to $8.68B, above $8.47B est., transaction margin dollars up 1% YoY to $3.9B, and a $1.1B profit, down from $1.26B in Q2 2025",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/earnings/paypal-lifts-profitability-guidance-says-turnaround-is-progressing-ddfd0c54?st=WyEaXL&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts' forecast of $5.10; STX jumps 6%+ after hours",
+        "excerpt": "",
+        "url": "https://www.barrons.com/articles/seagate-earnings-stock-price-57669b63?st=e1hAsp&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "public listings": [
+      {
+        "title": "GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February",
+        "excerpt": "",
+        "url": "https://www.reuters.com/technology/grubmarket-confidentially-files-us-ipo-2026-07-28/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Corning's stock closed down 12.1% after weak Q3 guidance, as production limits on its AI connectivity products squeeze its growth; Q2 sales rose 17% to $4.74B",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/earnings/corning-posts-higher-profit-sales-on-ai-demand-000765cd?st=FpXqQA&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CXMT's IPO delivers a windfall for Hefei, an eastern China inland industrial city, with the government sitting on 5,000%+ paper gains after its early investment",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "Anthropic says Claude Mythos Preview was able to break a weaker version of AES and orchestrated another improved attack against the cryptographic system HAWK",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html?unlocked_article_code=1.1FA.n8t8.V0StB9-mJb0x&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The Agentic AI Foundation updates MCP with a fully stateless architecture, a hardened authentication model, a formal 12-month deprecation policy, and more",
+        "excerpt": "",
+        "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "eBay and former executives agree to pay a nearly $56M settlement to resolve a 2021 civil case over the 2019 stalking and harassment of two e-commerce bloggers",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/28/ebay-blogger-harassment-stalking-steiner.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to “build essentially a clone” of Runlayer's safety and governance product",
+        "excerpt": "",
+        "url": "https://nypost.com/2026/07/28/business/nyc-ai-startup-backed-by-tech-billionaire-khosla-sues-rippling-over-trade-secret-theft/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "regulation": [
+      {
+        "title": "July 16 letter: the US EPA says power plants providing electricity only to data centers and not to the public grid wouldn't be subject to federal pollution laws",
+        "excerpt": "",
+        "url": "https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Filing: Shein says its US business is under FTC investigation and it is “cooperating”, without giving specifics, as the company prepares for an IPO in Hong Kong",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "UK startup Dwelly, which buys real estate businesses and adds AI to handle maintenance, contracts, and other tasks, raised $95M in equity and $75M in debt",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-startup-dwelly-raises-170-million-for-real-estate-rollup",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Fish Audio, which offers AI voice models for creators and enterprises and generates $21M in ARR, raised a $52M seed led by Coreline Ventures and Capital Today",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tel Aviv-based Act Security, whose platform reduces the access surface across cloud infrastructure, emerges from stealth with a $40M Series A and a $20M seed",
+        "excerpt": "",
+        "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/28/act-security-cloud-bessemer",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mate, which is developing a platform to allow AI agents to detect, respond to, and proactively hunt threats, raised a $35M Series A led by Canaan Partners",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/ryb30q8bge",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M",
+        "excerpt": "",
+        "url": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI0MjE1NiwiZXhwIjoxNzg1ODQ2OTU2LCJhcnRpY2xlSWQiOiJUSVZBREhUOU5KTFUwMCIsImJjb25uZWN0SWQiOiJCNzg3N0QzQzg1QzM0MTAwOEEwNUUwNjdBQzNFMzc5MSJ9.i3-4u13pvb52RD1Qr_SxOeHfiubi5ckFkUYagpVeu1Q",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Memo: Visa is cutting ~2,600 jobs, or ~7% of staff, primarily affecting tech and product teams; source: Visa plans to reinvest in stablecoin and other offerings",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/visa-to-cut-7-of-workforce-as-ceo-seeks-to-revamp-payments-firm",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Data security startup Cyera, founded in 2021, agrees to acquire Oasis Security, which was founded in 2022 and provides non-human identity security, for $1B",
+        "excerpt": "",
+        "url": "https://www.crn.com/news/security/2026/5-things-to-know-about-cyera-s-deal-to-acquire-oasis-security",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Moonshot is seeking access to more Nvidia Blackwell chips to prepare for Kimi K4's development, after training K3 on Nvidia chips, including Blackwell",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/chinese-ai-startup-moonshot-seeks-nvidia-blackwell-chips-next-model",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to offer the taxis on Lyft's Freenow",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high",
+        "excerpt": "",
+        "url": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 11,
+    "news_count": 47
+  }
+}

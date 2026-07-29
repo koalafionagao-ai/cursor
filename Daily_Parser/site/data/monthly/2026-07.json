@@ -174,9 +174,17 @@
         "TLDR",
         "Techmeme"
       ]
+    },
+    {
+      "date": "2026-07-28",
+      "total": 33,
+      "sources": [
+        "TLDR",
+        "Techmeme"
+      ]
     }
   ],
-  "item_count": 423,
+  "item_count": 456,
   "items": [
     {
       "id": "TM-01",
@@ -11778,6 +11786,919 @@
       ],
       "category_tag": "cat:other",
       "date": "2026-07-27"
+    },
+    {
+      "id": "TM-01",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI1OTMxOCwiZXhwIjoxNzg1ODY0MTE4LCJhcnRpY2xlSWQiOiJUSVVPTDNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDQThGQ0Y4NkY1QjY0ODlCODA4ODkwNTFBNjMxRERBRCJ9.1OZ9Q9tpQyb4UKCCxCYZwDIhUSsS7oVy3mPN2ir2YZQ",
+      "title": {
+        "zh": "超过1100名AI公司员工签署信函，要求美国政府“放缓”AI发展",
+        "en": "Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to “pace” AI development"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-02",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=p6gb3f&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "扎克伯格主张超级智能应广泛分布以赋能每个人，而非集中于少数机构",
+        "en": "Mark Zuckerberg argues that superintelligence should be widely distributed as a tool that empowers everyone, rather than centralized in a few institutions"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "meta",
+        "mark-zuckerberg"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "mark-zuckerberg"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-03",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "title": {
+        "zh": "Hugging Face发布OpenAI代理入侵时间线，详述代理执行约17.6K次操作并使用GLM-5.2分析攻击",
+        "en": "Hugging Face publishes a timeline of the OpenAI agent intrusion, including how the agent took ~17.6K actions, and details using GLM-5.2 to analyze the attack"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "huggingface",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "huggingface",
+        "agent"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-07",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "title": {
+        "zh": "AI取证：Hugging Face上九大顶级AI图像模型中有七个通过简单六字提示将穿衣女性图像编辑为裸露图像",
+        "en": "AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "huggingface",
+        "image-gen",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "huggingface",
+        "image-gen",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-08",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.theinformation.com/articles/openai-anthropic-quietly-teaming-washington",
+      "title": {
+        "zh": "消息称OpenAI和Anthropic正游说特朗普政府，确保落后竞争者也需遵守政府对模型的审查",
+        "en": "Sources: OpenAI and Anthropic are lobbying the Trump administration to make sure lagging competitors also have to comply with government reviews of their models"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "anthropic",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "anthropic",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-09",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "title": {
+        "zh": "与Sam Altman的问答：关于Hugging Face漏洞、算力竞赛、蒸馏、开源、权力集中、机器人技术及OpenAI未来",
+        "en": "Q&A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, the concentration of power, robotics, OpenAI's future, and more"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "sam-altman",
+        "agent",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "openai",
+        "sam-altman",
+        "agent",
+        "open-source"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-10",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "title": {
+        "zh": "ChatGPT现拒绝直接模仿作者风格的请求，仅提供整体“感觉”，因书籍作者对OpenAI提起诉讼",
+        "en": "ChatGPT now refuses direct requests to copy an author's style and instead offers to capture the overall “feeling”, amid book authors' lawsuits against OpenAI"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "chatgpt",
+        "openai",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "chatgpt",
+        "openai",
+        "safety"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-11",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
+      "title": {
+        "zh": "消息称亚马逊调整AI战略，弃用大部分旗舰Nova AI模型，将资源转向Frontier Model Research计划",
+        "en": "Sources: Amazon overhauls its AI strategy, deprecating most of its flagship Nova AI models, as it shifts resources to its Frontier Model Research initiative"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "amazon"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amazon"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-13",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "title": {
+        "zh": "Richard Socher的Recursive Superintelligence与AWS签署4.1亿美元多年计算协议，支持其自我改进AI系统",
+        "en": "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-14",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/28/coursera-learnvector-andrew-ng",
+      "title": {
+        "zh": "Coursera投资1亿美元于Andrew Ng创立的新AI教育公司LearnVector，旨在打造作为私人导师的AI代理",
+        "en": "Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-16",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/",
+      "title": {
+        "zh": "Meta与BlackRock合作开发德州El Paso 1GW数据中心园区",
+        "en": "Meta and BlackRock form a strategic venture to develop a 1GW data center campus in El Paso, Texas, set to cost ~$14B and bring capacity online starting in 2028"
+      },
+      "summary": {
+        "zh": "项目预计耗资约140亿美元，计划2028年开始上线容量。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "meta",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "meta",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-17",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal",
+      "title": {
+        "zh": "Core Scientific与AMD达成协议，确保500+MW美国数据中心容量",
+        "en": "Core Scientific and AMD announce a deal under which AMD will secure 500+ MW of US data center capacity starting in 2027, with the ability to scale up to 2.5 GW"
+      },
+      "summary": {
+        "zh": "协议允许AMD扩展至2.5GW容量，计划2027年开始交付。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "amd",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "amd",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-19",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f",
+      "title": {
+        "zh": "消息称Nvidia签署高达500亿美元租赁协议用于德州1GW数据中心",
+        "en": "Sources: Nvidia signs leases worth up to $50B for Hut 8's planned 1GW data center in Texas, hosting hundreds of thousands of chips; Hut 8 didn't name its client"
+      },
+      "summary": {
+        "zh": "Hut 8计划的数据中心将托管数十万芯片，但未透露客户名称。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "data-center"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-30",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html?unlocked_article_code=1.1FA.n8t8.V0StB9-mJb0x&smid=url-share",
+      "title": {
+        "zh": "Anthropic称Claude Mythos Preview破解弱版AES并改进HAWK攻击",
+        "en": "Anthropic says Claude Mythos Preview was able to break a weaker version of AES and orchestrated another improved attack against the cryptographic system HAWK"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-31",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+      "title": {
+        "zh": "Agentic AI Foundation更新MCP架构并引入强化认证模型",
+        "en": "The Agentic AI Foundation updates MCP with a fully stateless architecture, a hardened authentication model, a formal 12-month deprecation policy, and more"
+      },
+      "summary": {
+        "zh": "更新包括无状态架构、12个月弃用政策等改进。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-32",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/",
+      "title": {
+        "zh": "美国FCC禁止进口中国人形机器人和逆变器以保护AI产业",
+        "en": "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries"
+      },
+      "summary": {
+        "zh": "此举旨在应对国家安全威胁并推动关键产业回流。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "regulation",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "regulation",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-37",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-startup-dwelly-raises-170-million-for-real-estate-rollup",
+      "title": {
+        "zh": "英国初创公司Dwelly融资1.7亿美元，用AI管理房地产业务",
+        "en": "UK startup Dwelly, which buys real estate businesses and adds AI to handle maintenance, contracts, and other tasks, raised $95M in equity and $75M in debt"
+      },
+      "summary": {
+        "zh": "公司通过AI处理维护、合同等任务，融资包括9500万美元股权和7500万美元债务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "title": {
+        "zh": "Fish Audio融资5200万美元，提供AI语音模型服务",
+        "en": "Fish Audio, which offers AI voice models for creators and enterprises and generates $21M in ARR, raised a $52M seed led by Coreline Ventures and Capital Today"
+      },
+      "summary": {
+        "zh": "公司年收入达2100万美元，服务对象包括创作者和企业。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "voice"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "voice"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-39",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/07/28/act-security-cloud-bessemer",
+      "title": {
+        "zh": "以色列Act Security公司融资6000万美元，专注云基础设施安全",
+        "en": "Tel Aviv-based Act Security, whose platform reduces the access surface across cloud infrastructure, emerges from stealth with a $40M Series A and a $20M seed"
+      },
+      "summary": {
+        "zh": "公司通过平台减少云基础设施的访问面，融资包括4000万美元A轮和2000万美元种子轮。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.calcalistech.com/ctechnews/article/ryb30q8bge",
+      "title": {
+        "zh": "Mate融资3500万美元开发AI威胁检测与响应平台",
+        "en": "Mate, which is developing a platform to allow AI agents to detect, respond to, and proactively hunt threats, raised a $35M Series A led by Canaan Partners"
+      },
+      "summary": {
+        "zh": "由Canaan Partners领投，平台旨在主动狩猎和应对威胁。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-41",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
+      "title": {
+        "zh": "总部位于特拉维夫的 Hush Security 完成 3000 万美元 A 轮融资",
+        "en": "Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M"
+      },
+      "summary": {
+        "zh": "Hush Security 提供企业 AI 代理的安全控制服务，总融资额达 4100 万美元。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-42",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI0MjE1NiwiZXhwIjoxNzg1ODQ2OTU2LCJhcnRpY2xlSWQiOiJUSVZBREhUOU5KTFUwMCIsImJjb25uZWN0SWQiOiJCNzg3N0QzQzg1QzM0MTAwOEEwNUUwNjdBQzNFMzc5MSJ9.i3-4u13pvb52RD1Qr_SxOeHfiubi5ckFkUYagpVeu1Q",
+      "title": {
+        "zh": "消息称台湾拘留一名 Nvidia 员工，涉 AI 芯片走私调查",
+        "en": "Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24"
+      },
+      "summary": {
+        "zh": "此事件涉及对其住宅和办公室的搜查，调查重点为向中国走私 AI 芯片。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "nvidia",
+        "chip",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "chip",
+        "regulation"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-44",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.crn.com/news/security/2026/5-things-to-know-about-cyera-s-deal-to-acquire-oasis-security",
+      "title": {
+        "zh": "数据安全初创公司 Cyera 以 10 亿美元收购 Oasis Security",
+        "en": "Data security startup Cyera, founded in 2021, agrees to acquire Oasis Security, which was founded in 2022 and provides non-human identity security, for $1B"
+      },
+      "summary": {
+        "zh": "Cyera 成立于 2021 年，Oasis Security 提供非人类身份安全服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "acquisition"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "acquisition"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-46",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "title": {
+        "zh": "百度在伦敦测试 Apollo Go RT6 无人驾驶出租车",
+        "en": "Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to offer the taxis on Lyft's Freenow"
+      },
+      "summary": {
+        "zh": "测试车辆配备安全员，未来计划通过 Lyft 的 Freenow 提供服务。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "baidu",
+        "autonomous-driving"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "baidu",
+        "autonomous-driving"
+      ],
+      "category_tag": "cat:app",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TM-47",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+      "title": {
+        "zh": "安全与 AI 相关初创公司今年种子轮融资已达 8.55 亿美元",
+        "en": "Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high"
+      },
+      "summary": {
+        "zh": "超过 150 个种子轮融资案例，预计将创历史新高。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "startup",
+        "funding"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-01",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/news/position-open-weights-models?utm_source=tldrai",
+      "title": {
+        "zh": "Anthropic 拒绝全面禁止开源模型的提议",
+        "en": "Anthropic Rejected Blanket Bans on Open-Weight Models (2 minute read)"
+      },
+      "summary": {
+        "zh": "公司支持更严格的芯片管控、工业级蒸馏行动以及强制安全测试。",
+        "en": "Anthropic said it had not advocated banning open-weight models and argued that less capable releases were a public good. It instead supported tighter chip controls, action against industrial-scale distillation, and mandatory safety testing for sufficiently capable open and closed models."
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "open-weights",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "anthropic",
+        "open-weights",
+        "policy"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-02",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://threadreaderapp.com/thread/2081760186235289764.html?utm_source=tldrai",
+      "title": {
+        "zh": "Moonshot 发布 Kimi K3 模型权重及技术报告",
+        "en": "Releasing the model weights and technical report of Kimi K3 (2 minute read)"
+      },
+      "summary": {
+        "zh": "Kimi K3 是一款 2.8T 专家混合模型，具备 100 万 token 上下文窗口和新型架构。",
+        "en": "Moonshot has released the model weights for Kimi K3, along with a technical report. Kimi K3 is a 2.8T Mixture-of-Experts model with native visual understanding. It has a 1-million-token context window and a new model architecture that gives it 2.5x the intelligence per unit of compute. Alongside Kimi K3, Moonshot is opening up more of the stack behind it — high-performance attention kernels, a MoE communication library, and infrastructure for running agent environments at scale."
+      },
+      "tags": [
+        "cat:model",
+        "open-weights"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "open-weights"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-03",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/?utm_source=tldrai",
+      "title": {
+        "zh": "微软推出 MAI-Cyber-1-Flash 网络安全模型",
+        "en": "Microsoft Introduced a Cybersecurity Model (6 minute read)"
+      },
+      "summary": {
+        "zh": "该模型用于发现大型代码库中的复杂漏洞，并支持 MDASH 平台。",
+        "en": "Microsoft has launched MAI-Cyber-1-Flash, a specialized model for finding difficult vulnerabilities in large codebases. It powers MDASH, a new platform designed to identify and remediate software security flaws."
+      },
+      "tags": [
+        "cat:model",
+        "microsoft",
+        "safety",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "microsoft",
+        "safety",
+        "coding"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-05",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini 蒸馏服务助力高效模型训练",
+        "en": "Gemini Distillation Service (17 minute read)"
+      },
+      "summary": {
+        "zh": "通过教师模型输出训练学生模型，适用于高负载、复杂推理任务。",
+        "en": "The Gemini Distillation Service allows users to train a smaller, more efficient 'student' model that uses the outputs and reasoning patterns of a larger, more capable 'teacher' model. Distillation enables production-grade efficiency while allowing smaller models to achieve a deeper level of reasoning. It is recommended for high-volume, latency-sensitive applications, complex reasoning tasks, and when there are significant performance gaps between the teacher and student models. The distillation service currently only supports gemini-3.1-pro as the teacher model and gemini-2.5-flash as the student model."
+      },
+      "tags": [
+        "cat:tech",
+        "gemini",
+        "fine-tuning"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "gemini",
+        "fine-tuning"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-06",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://www.cogent.com/blog/how-we-built-and-benchmarked-vr-1-our-frontier-cyber-reasoning-model?utm_source=tldrai",
+      "title": {
+        "zh": "Cogent 推出 VR-1 网络推理模型及 IntrusionBench 基准测试",
+        "en": "How we built and benchmarked VR-1, our frontier cyber reasoning model (6 minute read)"
+      },
+      "summary": {
+        "zh": "VR-1 可自主调查环境并执行攻击链，基准测试结果显示性能显著提升。",
+        "en": "Cogent VR-1 can autonomously investigate environments, test hypotheses, cross system boundaries, and execute attack chains. IntrusionBench is a benchmark for measuring whether cyber agents can complete realistic enterprise attack chains from limited starting access. On the black-box configuration of IntrusionBench, VR-1 achieved more than a 2x lift in pass@3 over the strongest frontier baseline. VR-1 and IntrusionBench are both at an early preview stage, so the results are preliminary."
+      },
+      "tags": [
+        "cat:model",
+        "agent",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "safety"
+      ],
+      "category_tag": "cat:model",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-08",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://github.com/NVIDIA-NeMo/labs-molt?utm_source=tldrai",
+      "title": {
+        "zh": "Molt Agentic 强化学习框架（GitHub 仓库）",
+        "en": "Molt Agentic Reinforcement Learning Framework (GitHub Repo)"
+      },
+      "summary": {
+        "zh": "Molt 是一个基于 PyTorch 的框架，将代理本身视为程序，支持自定义 Python 奖励、工具使用、多模态环境和 LLM 评估。其紧凑的技术栈结合了 Ray、vLLM、NVIDIA AutoModel 和 FSDP2，可扩展到万亿参数的专家混合模型训练。",
+        "en": "Molt is a PyTorch-native framework that treats the agent itself as the program and supports custom Python rewards, tool use, multimodal environments, and LLM judges. Its compact stack combines Ray, vLLM, NVIDIA AutoModel, and FSDP2 to scale training to trillion-parameter mixture-of-experts models."
+      },
+      "tags": [
+        "cat:tech",
+        "agent",
+        "multimodal",
+        "training"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "multimodal",
+        "training"
+      ],
+      "category_tag": "cat:tech",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-09",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/?utm_source=tldrai",
+      "title": {
+        "zh": "行业领袖联合成立开放安全 AI 联盟，推动 AI 安全与安全性",
+        "en": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security (6 minute read)"
+      },
+      "summary": {
+        "zh": "开放安全 AI 联盟由 NVIDIA 和 Microsoft 等行业领袖组成，旨在通过开源技术解决 AI 漏洞，增强 AI 安全性。该联盟鼓励政策制定者将开源模型和工具视为 AI 和网络安全战略中的资产。",
+        "en": "The Open Secure AI Alliance, featuring leaders like NVIDIA and Microsoft, aims to enhance AI safety by using open source technologies to address vulnerabilities. This initiative provides defenders with open defensive tools, enhancing transparency and adaptability while avoiding reliance on closed systems. The alliance encourages policymakers to view open models and tools as assets in AI and cybersecurity strategy, promoting resilience and shared security in the AI era."
+      },
+      "tags": [
+        "cat:business",
+        "nvidia",
+        "microsoft",
+        "safety",
+        "open-source"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "nvidia",
+        "microsoft",
+        "safety",
+        "open-source"
+      ],
+      "category_tag": "cat:business",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "TL-11",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://newsletter.posthog.com/p/agent-autonomy?utm_source=tldrai",
+      "title": {
+        "zh": "代理能承担多少任务？",
+        "en": "How much can you delegate to agents? (7 minute read)"
+      },
+      "summary": {
+        "zh": "代理的自主性取决于任务复杂性，而不仅仅是模型质量。任务分为四个级别：助手、人类参与、代理委托和自动驾驶，具体由检查难度和错误后果决定。通过实施防护措施、定制技能和领域特定模型，可提升代理自主性和效率。",
+        "en": "Agent autonomy depends on task complexity, not just model quality. Tasks fall into four levels: assistant, human-in-the-loop, agent delegation, and self-driving, determined by ease of checking and potential consequences of errors. Implementing guardrails, custom skills, and domain-specific models enhances agent autonomy and efficiency."
+      },
+      "tags": [
+        "cat:other",
+        "agent",
+        "autonomous-driving",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null,
+      "entity_tags": [
+        "agent",
+        "autonomous-driving",
+        "safety"
+      ],
+      "category_tag": "cat:other",
+      "date": "2026-07-28"
     }
   ],
   "tag_index": {
@@ -11807,7 +12728,9 @@
       "2026-07-22:TL-13",
       "2026-07-23:TM-12",
       "2026-07-24:TM-02",
-      "2026-07-24:TM-10"
+      "2026-07-24:TM-10",
+      "2026-07-28:TM-02",
+      "2026-07-28:TM-16"
     ],
     "google": [
       "2026-07-01:TM-01",
@@ -11884,7 +12807,8 @@
       "2026-07-23:TM-43",
       "2026-07-23:TL-02",
       "2026-07-23:TL-10",
-      "2026-07-24:TM-15"
+      "2026-07-24:TM-15",
+      "2026-07-28:TM-42"
     ],
     "palantir": [
       "2026-07-01:TM-08"
@@ -11910,7 +12834,10 @@
       "2026-07-27:TM-05",
       "2026-07-27:TL-08",
       "2026-07-27:TL-10",
-      "2026-07-27:TL-13"
+      "2026-07-27:TL-13",
+      "2026-07-28:TM-19",
+      "2026-07-28:TM-42",
+      "2026-07-28:TL-09"
     ],
     "policy": [
       "2026-07-01:TM-08",
@@ -11976,7 +12903,10 @@
       "2026-07-27:TM-10",
       "2026-07-27:TM-14",
       "2026-07-27:TM-16",
-      "2026-07-27:TL-10"
+      "2026-07-27:TL-10",
+      "2026-07-28:TM-08",
+      "2026-07-28:TM-32",
+      "2026-07-28:TL-01"
     ],
     "softbank": [
       "2026-07-01:TM-09",
@@ -12020,7 +12950,14 @@
       "2026-07-27:TM-01",
       "2026-07-27:TM-05",
       "2026-07-27:TM-13",
-      "2026-07-27:TL-03"
+      "2026-07-27:TL-03",
+      "2026-07-28:TM-07",
+      "2026-07-28:TM-10",
+      "2026-07-28:TM-30",
+      "2026-07-28:TL-03",
+      "2026-07-28:TL-06",
+      "2026-07-28:TL-09",
+      "2026-07-28:TL-11"
     ],
     "startup": [
       "2026-07-01:TM-18",
@@ -12104,7 +13041,16 @@
       "2026-07-26:TM-20",
       "2026-07-26:TM-21",
       "2026-07-27:TM-22",
-      "2026-07-27:TM-24"
+      "2026-07-27:TM-24",
+      "2026-07-28:TM-13",
+      "2026-07-28:TM-14",
+      "2026-07-28:TM-37",
+      "2026-07-28:TM-38",
+      "2026-07-28:TM-39",
+      "2026-07-28:TM-40",
+      "2026-07-28:TM-41",
+      "2026-07-28:TM-44",
+      "2026-07-28:TM-47"
     ],
     "funding": [
       "2026-07-01:TM-18",
@@ -12185,7 +13131,15 @@
       "2026-07-26:TM-21",
       "2026-07-27:TM-05",
       "2026-07-27:TM-22",
-      "2026-07-27:TM-24"
+      "2026-07-27:TM-24",
+      "2026-07-28:TM-13",
+      "2026-07-28:TM-14",
+      "2026-07-28:TM-37",
+      "2026-07-28:TM-38",
+      "2026-07-28:TM-39",
+      "2026-07-28:TM-40",
+      "2026-07-28:TM-41",
+      "2026-07-28:TM-47"
     ],
     "openai": [
       "2026-07-01:TM-19",
@@ -12242,7 +13196,11 @@
       "2026-07-26:TM-03",
       "2026-07-27:TM-10",
       "2026-07-27:TM-13",
-      "2026-07-27:TL-03"
+      "2026-07-27:TL-03",
+      "2026-07-28:TM-01",
+      "2026-07-28:TM-08",
+      "2026-07-28:TM-09",
+      "2026-07-28:TM-10"
     ],
     "open-source": [
       "2026-07-01:TM-22",
@@ -12262,7 +13220,9 @@
       "2026-07-21:TM-32",
       "2026-07-23:TL-06",
       "2026-07-26:TM-01",
-      "2026-07-26:TM-12"
+      "2026-07-26:TM-12",
+      "2026-07-28:TM-09",
+      "2026-07-28:TL-09"
     ],
     "video-gen": [
       "2026-07-01:TM-24",
@@ -12326,7 +13286,10 @@
       "2026-07-23:TL-10",
       "2026-07-26:TM-03",
       "2026-07-26:TM-06",
-      "2026-07-26:TM-10"
+      "2026-07-26:TM-10",
+      "2026-07-28:TM-16",
+      "2026-07-28:TM-17",
+      "2026-07-28:TM-19"
     ],
     "autonomous-driving": [
       "2026-07-01:TM-42",
@@ -12337,7 +13300,9 @@
       "2026-07-20:TM-11",
       "2026-07-23:TM-53",
       "2026-07-24:TM-24",
-      "2026-07-24:TM-29"
+      "2026-07-24:TM-29",
+      "2026-07-28:TM-46",
+      "2026-07-28:TL-11"
     ],
     "anthropic": [
       "2026-07-01:TL-01",
@@ -12380,7 +13345,10 @@
       "2026-07-27:TM-02",
       "2026-07-27:TM-14",
       "2026-07-27:TL-01",
-      "2026-07-27:TL-06"
+      "2026-07-27:TL-06",
+      "2026-07-28:TM-08",
+      "2026-07-28:TM-30",
+      "2026-07-28:TL-01"
     ],
     "claude": [
       "2026-07-01:TL-01",
@@ -12395,7 +13363,8 @@
       "2026-07-16:TM-22",
       "2026-07-24:TM-01",
       "2026-07-27:TL-01",
-      "2026-07-27:TL-06"
+      "2026-07-27:TL-06",
+      "2026-07-28:TM-30"
     ],
     "gemini": [
       "2026-07-01:TL-03",
@@ -12407,7 +13376,8 @@
       "2026-07-20:TM-18",
       "2026-07-20:TL-15",
       "2026-07-21:TM-02",
-      "2026-07-22:TL-02"
+      "2026-07-22:TL-02",
+      "2026-07-28:TL-05"
     ],
     "image-gen": [
       "2026-07-01:TL-03",
@@ -12418,7 +13388,8 @@
       "2026-07-22:TL-08",
       "2026-07-22:TL-13",
       "2026-07-23:TM-16",
-      "2026-07-24:TM-18"
+      "2026-07-24:TM-18",
+      "2026-07-28:TM-07"
     ],
     "agent": [
       "2026-07-01:TL-04",
@@ -12469,7 +13440,14 @@
       "2026-07-27:TL-02",
       "2026-07-27:TL-04",
       "2026-07-27:TL-15",
-      "2026-07-27:TL-16"
+      "2026-07-27:TL-16",
+      "2026-07-28:TM-03",
+      "2026-07-28:TM-09",
+      "2026-07-28:TM-31",
+      "2026-07-28:TM-40",
+      "2026-07-28:TL-06",
+      "2026-07-28:TL-08",
+      "2026-07-28:TL-11"
     ],
     "coding": [
       "2026-07-01:TL-04",
@@ -12484,7 +13462,8 @@
       "2026-07-09:TL-05",
       "2026-07-15:TM-30",
       "2026-07-16:TM-07",
-      "2026-07-20:TL-07"
+      "2026-07-20:TL-07",
+      "2026-07-28:TL-03"
     ],
     "reasoning": [
       "2026-07-01:TL-06",
@@ -12515,7 +13494,8 @@
       "2026-07-07:TL-07",
       "2026-07-09:TL-08",
       "2026-07-10:TM-12",
-      "2026-07-20:TL-06"
+      "2026-07-20:TL-06",
+      "2026-07-28:TL-08"
     ],
     "gpt": [
       "2026-07-01:TL-12",
@@ -12553,7 +13533,9 @@
       "2026-07-23:TM-16",
       "2026-07-24:TM-02",
       "2026-07-26:TM-10",
-      "2026-07-27:TM-03"
+      "2026-07-27:TM-03",
+      "2026-07-28:TL-03",
+      "2026-07-28:TL-09"
     ],
     "enterprise": [
       "2026-07-02:TM-02",
@@ -12583,7 +13565,8 @@
     "sam-altman": [
       "2026-07-02:TM-18",
       "2026-07-16:TM-28",
-      "2026-07-27:TM-10"
+      "2026-07-27:TM-10",
+      "2026-07-28:TM-09"
     ],
     "regulation": [
       "2026-07-02:TM-18",
@@ -12613,7 +13596,9 @@
       "2026-07-23:TM-07",
       "2026-07-23:TL-08",
       "2026-07-27:TM-02",
-      "2026-07-27:TM-16"
+      "2026-07-27:TM-16",
+      "2026-07-28:TM-32",
+      "2026-07-28:TM-42"
     ],
     "acquisition": [
       "2026-07-02:TM-40",
@@ -12625,12 +13610,14 @@
       "2026-07-21:TM-03",
       "2026-07-23:TM-08",
       "2026-07-23:TM-39",
-      "2026-07-24:TM-19"
+      "2026-07-24:TM-19",
+      "2026-07-28:TM-44"
     ],
     "fine-tuning": [
       "2026-07-02:TL-06",
       "2026-07-02:TL-08",
-      "2026-07-02:TL-12"
+      "2026-07-02:TL-12",
+      "2026-07-28:TL-05"
     ],
     "api": [
       "2026-07-03:TM-14",
@@ -12662,7 +13649,8 @@
       "2026-07-08:TM-12",
       "2026-07-10:TM-07",
       "2026-07-10:TM-19",
-      "2026-07-27:TM-14"
+      "2026-07-27:TM-14",
+      "2026-07-28:TM-11"
     ],
     "alibaba": [
       "2026-07-05:TM-11",
@@ -12728,7 +13716,9 @@
       "2026-07-24:TM-02",
       "2026-07-27:TM-14",
       "2026-07-27:TM-16",
-      "2026-07-27:TL-10"
+      "2026-07-27:TL-10",
+      "2026-07-28:TL-01",
+      "2026-07-28:TL-02"
     ],
     "mistral": [
       "2026-07-06:TL-12",
@@ -12744,7 +13734,8 @@
       "2026-07-22:TM-05",
       "2026-07-23:TM-30",
       "2026-07-23:TM-31",
-      "2026-07-23:TL-02"
+      "2026-07-23:TL-02",
+      "2026-07-28:TM-17"
     ],
     "grok": [
       "2026-07-08:TM-01",
@@ -12774,7 +13765,8 @@
       "2026-07-09:TL-04",
       "2026-07-09:TL-11",
       "2026-07-13:TM-09",
-      "2026-07-22:TL-09"
+      "2026-07-22:TL-09",
+      "2026-07-28:TL-08"
     ],
     "opus": [
       "2026-07-08:TL-19",
@@ -12787,7 +13779,8 @@
       "2026-07-14:TM-27",
       "2026-07-23:TM-06",
       "2026-07-23:TM-22",
-      "2026-07-24:TM-12"
+      "2026-07-24:TM-12",
+      "2026-07-28:TM-10"
     ],
     "qwen": [
       "2026-07-09:TM-12",
@@ -12799,11 +13792,13 @@
     "voice": [
       "2026-07-09:TL-02",
       "2026-07-20:TL-15",
-      "2026-07-23:TM-14"
+      "2026-07-23:TM-14",
+      "2026-07-28:TM-38"
     ],
     "baidu": [
       "2026-07-10:TM-06",
-      "2026-07-23:TM-53"
+      "2026-07-23:TM-53",
+      "2026-07-28:TM-46"
     ],
     "oracle": [
       "2026-07-10:TM-07",
@@ -12840,7 +13835,9 @@
       "2026-07-22:TL-10",
       "2026-07-23:TL-04",
       "2026-07-27:TM-13",
-      "2026-07-27:TL-03"
+      "2026-07-27:TL-03",
+      "2026-07-28:TM-03",
+      "2026-07-28:TM-07"
     ],
     "codex": [
       "2026-07-20:TM-18"
@@ -12864,7 +13861,8 @@
       "2026-07-23:TM-08"
     ],
     "mark-zuckerberg": [
-      "2026-07-23:TM-12"
+      "2026-07-23:TM-12",
+      "2026-07-28:TM-02"
     ],
     "sonnet": [
       "2026-07-23:TM-14"
@@ -13055,7 +14053,21 @@
       "2026-07-27:TM-22",
       "2026-07-27:TM-24",
       "2026-07-27:TM-33",
-      "2026-07-27:TL-02"
+      "2026-07-27:TL-02",
+      "2026-07-28:TM-11",
+      "2026-07-28:TM-13",
+      "2026-07-28:TM-14",
+      "2026-07-28:TM-16",
+      "2026-07-28:TM-17",
+      "2026-07-28:TM-19",
+      "2026-07-28:TM-37",
+      "2026-07-28:TM-38",
+      "2026-07-28:TM-39",
+      "2026-07-28:TM-40",
+      "2026-07-28:TM-41",
+      "2026-07-28:TM-44",
+      "2026-07-28:TM-47",
+      "2026-07-28:TL-09"
     ],
     "cat:tech": [
       "2026-07-01:TM-04",
@@ -13113,7 +14125,11 @@
       "2026-07-27:TL-04",
       "2026-07-27:TL-06",
       "2026-07-27:TL-08",
-      "2026-07-27:TL-13"
+      "2026-07-27:TL-13",
+      "2026-07-28:TM-30",
+      "2026-07-28:TM-31",
+      "2026-07-28:TL-05",
+      "2026-07-28:TL-08"
     ],
     "cat:other": [
       "2026-07-01:TM-08",
@@ -13224,7 +14240,17 @@
       "2026-07-27:TM-32",
       "2026-07-27:TL-03",
       "2026-07-27:TL-10",
-      "2026-07-27:TL-16"
+      "2026-07-27:TL-16",
+      "2026-07-28:TM-01",
+      "2026-07-28:TM-02",
+      "2026-07-28:TM-03",
+      "2026-07-28:TM-07",
+      "2026-07-28:TM-08",
+      "2026-07-28:TM-09",
+      "2026-07-28:TM-32",
+      "2026-07-28:TM-42",
+      "2026-07-28:TL-01",
+      "2026-07-28:TL-11"
     ],
     "cat:app": [
       "2026-07-01:TM-36",
@@ -13271,7 +14297,9 @@
       "2026-07-23:TL-07",
       "2026-07-23:TL-13",
       "2026-07-24:TM-10",
-      "2026-07-26:TM-16"
+      "2026-07-26:TM-16",
+      "2026-07-28:TM-10",
+      "2026-07-28:TM-46"
     ],
     "cat:model": [
       "2026-07-01:TL-03",
@@ -13326,60 +14354,67 @@
       "2026-07-27:TM-03",
       "2026-07-27:TL-01",
       "2026-07-27:TL-09",
-      "2026-07-27:TL-15"
+      "2026-07-27:TL-15",
+      "2026-07-28:TL-02",
+      "2026-07-28:TL-03",
+      "2026-07-28:TL-06"
     ]
   },
   "tag_stats": [
     {
       "tag": "startup",
-      "count": 82
+      "count": 91
     },
     {
       "tag": "funding",
-      "count": 79
+      "count": 87
     },
     {
       "tag": "policy",
-      "count": 64
+      "count": 67
     },
     {
       "tag": "openai",
-      "count": 55
+      "count": 59
     },
     {
       "tag": "agent",
-      "count": 49
+      "count": 56
     },
     {
       "tag": "chip",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "anthropic",
-      "count": 41
+      "count": 44
     },
     {
       "tag": "safety",
-      "count": 31
+      "count": 38
     },
     {
       "tag": "regulation",
-      "count": 28
+      "count": 30
     },
     {
       "tag": "meta",
-      "count": 26
+      "count": 28
+    },
+    {
+      "tag": "nvidia",
+      "count": 24
+    },
+    {
+      "tag": "data-center",
+      "count": 23
     },
     {
       "tag": "google",
       "count": 22
     },
     {
-      "tag": "nvidia",
-      "count": 21
-    },
-    {
-      "tag": "data-center",
+      "tag": "open-source",
       "count": 20
     },
     {
@@ -13387,39 +14422,47 @@
       "count": 19
     },
     {
-      "tag": "open-source",
-      "count": 18
+      "tag": "microsoft",
+      "count": 19
     },
     {
       "tag": "gpt",
       "count": 17
     },
     {
-      "tag": "microsoft",
+      "tag": "open-weights",
       "count": 17
     },
     {
-      "tag": "open-weights",
-      "count": 15
+      "tag": "claude",
+      "count": 14
+    },
+    {
+      "tag": "coding",
+      "count": 14
     },
     {
       "tag": "reasoning",
       "count": 14
     },
     {
-      "tag": "claude",
-      "count": 13
-    },
-    {
-      "tag": "coding",
-      "count": 13
-    },
-    {
       "tag": "apple",
       "count": 12
     },
     {
+      "tag": "autonomous-driving",
+      "count": 11
+    },
+    {
+      "tag": "gemini",
+      "count": 11
+    },
+    {
       "tag": "enterprise",
+      "count": 11
+    },
+    {
+      "tag": "acquisition",
       "count": 11
     },
     {
@@ -13427,20 +14470,8 @@
       "count": 10
     },
     {
-      "tag": "gemini",
-      "count": 10
-    },
-    {
-      "tag": "acquisition",
-      "count": 10
-    },
-    {
-      "tag": "autonomous-driving",
-      "count": 9
-    },
-    {
       "tag": "image-gen",
-      "count": 9
+      "count": 10
     },
     {
       "tag": "alibaba",
@@ -13448,6 +14479,14 @@
     },
     {
       "tag": "alignment",
+      "count": 8
+    },
+    {
+      "tag": "amd",
+      "count": 8
+    },
+    {
+      "tag": "huggingface",
       "count": 8
     },
     {
@@ -13463,7 +14502,15 @@
       "count": 7
     },
     {
-      "tag": "amd",
+      "tag": "amazon",
+      "count": 7
+    },
+    {
+      "tag": "multimodal",
+      "count": 7
+    },
+    {
+      "tag": "chatgpt",
       "count": 7
     },
     {
@@ -13471,27 +14518,11 @@
       "count": 6
     },
     {
-      "tag": "amazon",
-      "count": 6
-    },
-    {
-      "tag": "multimodal",
-      "count": 6
-    },
-    {
-      "tag": "chatgpt",
-      "count": 6
-    },
-    {
-      "tag": "huggingface",
+      "tag": "training",
       "count": 6
     },
     {
       "tag": "softbank",
-      "count": 5
-    },
-    {
-      "tag": "training",
       "count": 5
     },
     {
@@ -13511,6 +14542,14 @@
       "count": 5
     },
     {
+      "tag": "sam-altman",
+      "count": 4
+    },
+    {
+      "tag": "fine-tuning",
+      "count": 4
+    },
+    {
       "tag": "search",
       "count": 4
     },
@@ -13519,19 +14558,15 @@
       "count": 4
     },
     {
+      "tag": "voice",
+      "count": 4
+    },
+    {
       "tag": "inference",
       "count": 4
     },
     {
       "tag": "xai",
-      "count": 3
-    },
-    {
-      "tag": "sam-altman",
-      "count": 3
-    },
-    {
-      "tag": "fine-tuning",
       "count": 3
     },
     {
@@ -13551,7 +14586,7 @@
       "count": 3
     },
     {
-      "tag": "voice",
+      "tag": "baidu",
       "count": 3
     },
     {
@@ -13575,11 +14610,11 @@
       "count": 2
     },
     {
-      "tag": "baidu",
+      "tag": "dario-amodei",
       "count": 2
     },
     {
-      "tag": "dario-amodei",
+      "tag": "mark-zuckerberg",
       "count": 2
     },
     {
@@ -13635,10 +14670,6 @@
       "count": 1
     },
     {
-      "tag": "mark-zuckerberg",
-      "count": 1
-    },
-    {
       "tag": "sonnet",
       "count": 1
     },
@@ -13678,27 +14709,27 @@
   "category_stats": [
     {
       "tag": "cat:business",
-      "count": 160,
+      "count": 174,
       "label_zh": "新商业"
     },
     {
       "tag": "cat:other",
-      "count": 109,
+      "count": 119,
       "label_zh": "其它"
     },
     {
       "tag": "cat:tech",
-      "count": 56,
+      "count": 60,
       "label_zh": "新技术"
     },
     {
       "tag": "cat:model",
-      "count": 53,
+      "count": 56,
       "label_zh": "新模型"
     },
     {
       "tag": "cat:app",
-      "count": 45,
+      "count": 47,
       "label_zh": "新应用"
     }
   ]
