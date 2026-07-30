@@ -1,0 +1,424 @@
+{
+  "date": "2026-07-29",
+  "sections": {
+    "top news": [
+      {
+        "title": "Meta reports Q2 revenue up 28% YoY to $60.8B, family DAP up 3% to 3.6B on average for June, forecasts Q3 revenue below estimates; META drops 8%+ after hours",
+        "excerpt": "",
+        "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx",
+        "tweets": [
+          {
+            "author": "@munster_gene",
+            "text": "$META call just wrapped.  Stock is down 9.5%, near after-hours session lows.  The drift in the stock was tied to investors less encouraged about the timing of the Cloud business.  That is a large growth lever that we will have to wait for.  The other new products, consumer personalized AI agents will be announced soon, the only problem is investors don't believe they will be impactful in the next year.",
+            "url": "https://x.com/munster_gene/status/2082581532741710191"
+          },
+          {
+            "author": "@firstadopter",
+            "text": "Meta CEO Mark Zuckerberg: “the high level observation is that there's just nowhere near enough compute for all the demand. So that is why we see that like, basically we are getting a large number of offers for the compute that we have, but also we have a lot of internal uses that we think are going to be quite valuable.”",
+            "url": "https://x.com/firstadopter/status/2082577170484834308"
+          },
+          {
+            "author": "@charliebilello",
+            "text": "Meta's Reality Labs unit lost another $4.6 billion in Q2, bringing its cumulative losses since 2020 up to $87 billion. We've never seen a public company light money on fire to this extent. $META [image]",
+            "url": "https://x.com/charliebilello/status/2082567601071255670"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Meta reports free cash flow of $784M in Q2, down 91% YoY, and now expects 2026 capex to be $130B-$145B, compared with its prior forecast of $125B-$145B",
+            "url": "https://www.reuters.com/business/meta-narrows-annual-capex-forecast-ai-buildout-grows-2026-07-29/"
+          },
+          {
+            "title": "Meta reports $2.4B in charges related to legal proceedings in Q2 and $1.18B in severance expenses in connection with the May 2026 layoff of about 8,000 staff",
+            "url": "https://variety.com/2026/digital/news/meta-q2-2026-earnings-results-legal-proceedings-charge-1236823577/"
+          },
+          {
+            "title": "Meta reports Reality Labs Q2 revenue up 16% YoY to $431M, vs. $423.4M est., and a $4.62B operating loss, vs. $5.07B estimated",
+            "url": "https://www.cnbc.com/2026/07/29/metas-reality-labs-lost-over-4point6-billion-in-second-quarter.html"
+          }
+        ]
+      },
+      {
+        "title": "Microsoft reports Q4 revenue up 18% YoY to $90.1B, vs. $87.62B est., and says 365 Copilot has 30M+ paid seats, up from 20M+ in Q3; MSFT jumps 7%+ after hours",
+        "excerpt": "",
+        "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast",
+        "tweets": [
+          {
+            "author": "@firstadopter",
+            "text": "This was the best Microsoft quarterly earnings report in recent memory, along with incredible Azure results/guidance and an accelerating outlook for the first half of the fiscal year. Well done.",
+            "url": "https://x.com/firstadopter/status/2082604219874308346"
+          },
+          {
+            "author": "@timadeline",
+            "text": "Very exciting news shared today during @Microsoft's earnings reports: +50% Copilot paid seats from 20M to 30M in just 3 months. Great to see Copilot accelerate.",
+            "url": "https://x.com/timadeline/status/2082595607538212926"
+          },
+          {
+            "author": "@mukund",
+            "text": "Take out $MSFT @AnthropicAI “gain - mark to market” and your EPS is $4.39 vs $4.29 estimated. As I have been saying for the last few weeks. Anthropic is the tide that's lifting all profitability boats - for $GOOGL last week and today for $MSFT",
+            "url": "https://x.com/mukund/status/2082566293207785576"
+          }
+        ],
+        "sub_items": [
+          {
+            "title": "Microsoft reports Q4 Azure and other cloud services revenue up 43% YoY, vs. 40% est., and says Azure revenue in FY 2026 exceeded $100B for the first time",
+            "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html"
+          },
+          {
+            "title": "Microsoft reports Q4 Windows OEM and Devices revenue down 7% YoY, Xbox hardware revenue down 13%, and Xbox content and services revenue down 10%",
+            "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026"
+          }
+        ]
+      },
+      {
+        "title": "Russia charges Pavel Durov with facilitating terrorist activity, alleging that Telegram was being used by Ukrainian spies to organize attacks inside Russia",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/russias-fsb-charges-telegram-founder-durov-with-facilitating-terrorism-ifax-says-2026-07-29/",
+        "tweets": [
+          {
+            "author": "@0xdamx",
+            "text": "Russia: you are aiding terrorism... * issues an international arrest warrant* Telegram: posts him giving the middle finger Durov: dresses his Telegram profile picture up as a terrorist. The most UNFAZED response in tech history 💀 [image]",
+            "url": "https://x.com/0xdamx/status/2082483800810893735"
+          },
+          {
+            "author": "@insider0x",
+            "text": "Official Telegram account on X responds to news about Pavel Durov being charged with Terrorism Support in Russia. This is a historic photo that Pavel posted back in 2011 when pro-government  group tried to take over VK (it succeeded eventually).",
+            "url": "https://x.com/insider0x/status/2082465355851542614"
+          },
+          {
+            "author": "@sarahadams",
+            "text": "The irony is that Russia is giving an air defense system to the Taliban, the very regime harboring the head of ISIS Central Asia, Gulmurod Khalimov (yes, he's still very much alive), arguably the greatest terrorist threat to Russia itself. Yet somehow, the owner of Telegram is considered the bigger issue. As the old saying goes, never interrupt your enemy when he's making a mistake.",
+            "url": "https://x.com/sarahadams/status/2082433140094570722"
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "title": "Brookfield and NextEra partner to develop a $100B, 1.2GW+ AI data center campus at a former DOE uranium-enrichment site in Kentucky, set to open in 2032",
+        "excerpt": "",
+        "url": "https://www.wsj.com/business/energy-oil/brookfield-nextera-to-develop-100-billion-data-center-campus-in-kentucky-c0615347?st=JwHnop&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic's cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them",
+        "excerpt": "",
+        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/faa-approves-doordash-delivery-drones-humans-will-still-handle-most-orders",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Mark Zuckerberg says the US should not ban Chinese AI models and that AI model peer reviewing or vetting could be positive if “done well with thoughtful people”",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?accessToken=zwAAAZ-sanlskdOvT6FHf91C69OOsj9iSomk5A.MEQCIEaTp2G5DgLhXA4ltTNuoo77RpDvXbvwqf-w2UXjqMTUAiALH1L5jNJJu6QLe7xZbeWKNVRs2ztPEMt10vsVjiv02g&sharetype=gift&token=eec2d779-e254-4609-b44e-77dc88732c7c",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Thinking Machines Lab co-founder Lilian Weng is returning to OpenAI after announcing earlier this week she was leaving TML over workload-related health concerns",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/briefings/thinking-machines-cofounder-return-openai",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Investors continue to dump chipmaker stocks on Wednesday following disappointing results from SK Hynix; Sandisk is down 7.5%+, Arm 6.5%+, and AMD 6.5%+",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as “very large online platforms” under the DSA as soon as August",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "artificial intelligence": [
+      {
+        "title": "Sources: Google DeepMind has reassigned most of the AlphaFold papers' original authors over the past year; nearly a quarter of the full-time authors have left",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/61b2953d-ee0d-45de-af6e-a9c1cf524b33?accessToken=zwAAAZ-saIC9kc9hspU97g1F3tOvbqnBz1JLMw.MEUCIDABGXDaUtwfjiMl_j0Ohk_6Hx0HjyE1Uzp_OG2oNaMlAiEA6DTjVNTJxSj7jaq_c69FedmGnNqmN-lSINe3xyIgX4A&sharetype=gift&token=56cb59cc-cc42-4a97-9807-70b1d6540680",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models",
+        "excerpt": "",
+        "url": "https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80?st=HcuwR3&reflink=desktopwebshare_permalink",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027",
+        "excerpt": "",
+        "url": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "In an internal meeting, OpenAI finance chief Sarah Friar told employees that the company's annualized recurring revenue in July was higher than in Q2 as a whole",
+        "excerpt": "",
+        "url": "https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI, Google, Meta, BlackRock, and others are recruiting electricians and carpenters by the thousands, with some of the highest pay the industry has ever seen",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?unlocked_article_code=1.1VA.e8sV.PdyR8boC53M4&smid=nytcore-ios-share",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at OpenAI's open-source agent harness that now powers Codex and ChatGPT Work, as the company works to optimize the harness to cut runaway token usage",
+        "excerpt": "",
+        "url": "https://www.thedeepview.com/articles/openai-s-secret-weapon-underneath-codex",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Google launches its Lyria 3.5 music generation model in Google Flow Music, highlighting improved musicality, lyrics, vocal quality, and creative control",
+        "excerpt": "",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source: OpenRouter was recently generating ~$140M in annualized revenue, or ~$12M per month, up nearly 3x since April, making Stripe's $10B offer a big premium",
+        "excerpt": "",
+        "url": "https://www.theinformation.com/articles/openrouter-financials-suggest-steep-price-possible-acquirer-stripe",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero's prior investigations led EY and KPMG to retract reports with apparent hallucinations",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c?accessToken=zwAAAZ-saNlskc9-FJrILOJCZtOJQBkvmCGzPA.MEQCIB4QcO-EieUBJcSm2aKVE-2CPlzIp6X2ybz0z7CtBCWVAiBW2x-m3L_HC80hcP_ZAaHnRwPU6o3Lsz5ykpMfPd5r8g&sharetype=gift&token=6a7e4856-f5f9-4071-996e-8fedf70334e7",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "earnings": [
+      {
+        "title": "Qualcomm reports Q3 revenue down 4% YoY to $9.95B, forecasts Q4 profit below est., and expects revenue from Apple to fall faster; QCOM drops 7%+ after hours",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/qualcomm-forecasts-weak-quarterly-profit-expects-apple-revenue-drop-accelerate-2026-07-29/",
+        "tweets": [],
+        "sub_items": [
+          {
+            "title": "Qualcomm says it has signed a 10-year deal to supply chips for BMW's future digital cockpit and advanced driver-assistance systems",
+            "url": "https://www.reuters.com/business/qualcomm-wins-bmw-chip-supply-deal-future-vehicle-platforms-2026-07-29/"
+          }
+        ]
+      },
+      {
+        "title": "Arm reports Q1 revenue up 22% YoY to $1.29B, vs. $1.26B est., royalty revenue up 22% YoY to $715M, and forecasts Q2 profit above estimates",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/retail-consumer/arm-forecasts-quarterly-revenue-above-estimates-ai-driven-chip-demand-2026-07-29/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Robinhood reports Q2 revenue up 32% YoY to $1.31B, vs. $1.29B est., event contracts revenue up over 10x to $156M, and crypto revenue down 38% to $100M",
+        "excerpt": "",
+        "url": "https://www.morningstar.com/news/marketwatch/20260729243/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "semiconductors": [
+      {
+        "title": "GlobalFoundries says the US plans to award it $300M in CHIPS Act funding to bolster R&D of silicon photonics tech to power more efficient AI data centers",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "A look at Kioxia, the Japanese NAND flash memory maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/features/2026-07-28/rescued-by-the-ai-boom-japan-s-kioxia-faces-a-capex-race?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTI4NzEyNywiZXhwIjoxNzg1ODkxOTI3LCJhcnRpY2xlSWQiOiJUSVdMMFFLR1pBS1MwMCIsImJjb25uZWN0SWQiOiJBRDcxOUY5NDBGRTk0MzNBOERCNzI2OEJDOTY3NzY3QyJ9.ve4G51ud788pfq2jY0wt5qLRFfLH_CITCpci6FK5B7k",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "CXMT's IPO prospectus showed Alibaba had a nearly 5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT's ~$464B closing market cap on July 28",
+        "excerpt": "",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3362156/cxmt-zhipu-how-alibabas-investment-pays-growing-ai-and-chip-portfolio",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Source and docs: Intel has given access to its Atom processor tech to Rosaic, a new startup led by Amarjit Gill; Lip-Bu Tan and Gill are longtime co-investors",
+        "excerpt": "",
+        "url": "https://www.reuters.com/world/intel-providing-chip-technology-startup-led-by-co-investor-tan-rare-deal-2026-07-29/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "infosec": [
+      {
+        "title": "OpenAI says the rogue AI agent that breached Hugging Face used exposed credentials from “four accounts” tied to four “publicly available” third-party services",
+        "excerpt": "",
+        "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "OpenAI releases an “early” version of its open-source Codex Security CLI for scanning repositories, verifying fixes, adding security checks to CI/CD, and more",
+        "excerpt": "",
+        "url": "https://x.com/openai/status/2082263717916586117",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "smartphones": [
+      {
+        "title": "Samsung Galaxy Z Fold 8 review: comfortable when shut, the 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors",
+        "excerpt": "",
+        "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Survey: 77% of US adults support in-class cellphone bans for middle and high school students, up from 74% in 2025 and 68% in 2024; just 18% oppose such bans",
+        "excerpt": "",
+        "url": "https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "litigation": [
+      {
+        "title": "X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/e1725176-ebe2-4d29-abe9-a27e11e8c1a8",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "xAI sues Minnesota's AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment",
+        "excerpt": "",
+        "url": "https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "funding deals": [
+      {
+        "title": "Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Eliyan, which aims to license tech and make physical “chiplets” to ease AI chip data transfer bottlenecks, raised a $145M Series C at a $1B valuation",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/eliyan-raises-145-million-1-billion-valuation-ease-ai-chip-data-bottlenecks-2026-07-29/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M",
+        "excerpt": "",
+        "url": "https://www.calcalistech.com/ctechnews/article/r19aupvrme",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024",
+        "excerpt": "",
+        "url": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ChipAgents, which uses AI agents to help speed up the process of chip design, raised a $60M Series A2 led by B Capital, bringing the expanded round to $134M",
+        "excerpt": "",
+        "url": "https://www.reuters.com/business/nvidia-partner-chipagents-raises-60-million-accelerate-chip-design-with-ai-2026-07-29/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Encore AI, which studies companies' customer interactions to train and deploy AI voice agents, raised a $30M Series A led by Team8, Planven, and The Garage",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "London-based Agon, which is developing sovereign AI training infrastructure for European defense, emerges from stealth with a $7M pre-seed and a $23M seed",
+        "excerpt": "",
+        "url": "https://resiliencemedia.co/agon-emerges-from-stealth-with-30m-to-build-ai-training-models-for-defence/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation",
+        "excerpt": "",
+        "url": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/29/business/dealbook/sick-of-ai-generated-content-the-slop-janitor-is-here-to-help.html?unlocked_article_code=1.1VA.dT93.w5tXvUOcek7n&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ],
+    "more news": [
+      {
+        "title": "The UK CMA opens an investigation into Microsoft over a potential consumer law breach involving users paying more to renew Microsoft 365 after it added Copilot",
+        "excerpt": "",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-faces-uk-probe-over-copilot-linked-price-hikes",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Waymo gradually resumes freeway routes, starting with Phoenix, more than two months after suspending them to improve performance around construction zones",
+        "excerpt": "",
+        "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "BNY, the world's biggest bank for safeguarding assets, plans to use blockchain tech for its transfer agency record-keeping systems that service ~$8.6T in assets",
+        "excerpt": "",
+        "url": "https://www.ft.com/content/7b1197a5-e59a-4beb-ab83-e800e6ebc527",
+        "tweets": [],
+        "sub_items": []
+      },
+      {
+        "title": "Doctors and researchers worry that FDA-related wagers on Kalshi and Polymarket could compromise drug development studies and erode public trust in the process",
+        "excerpt": "",
+        "url": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html?unlocked_article_code=1.1FA.v7pw.l7VK2Yjz9HVK&smid=url-share",
+        "tweets": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "stats": {
+    "section_count": 9,
+    "news_count": 46
+  }
+}

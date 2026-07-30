@@ -1,0 +1,392 @@
+{
+  "date": "2026-07-29",
+  "threshold": 7.0,
+  "total": 64,
+  "kept": 30,
+  "items": [
+    {
+      "id": "TM-01",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是财报信息"
+    },
+    {
+      "id": "TM-02",
+      "score": 8.0,
+      "keep": true,
+      "reason": "微软 365 Copilot 用户增长显著，反映出 AI 应用的市场需求"
+    },
+    {
+      "id": "TM-03",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是法律事件"
+    },
+    {
+      "id": "TM-04",
+      "score": 8.0,
+      "keep": true,
+      "reason": "大型 AI 数据中心项目，涉及重要合作与投资"
+    },
+    {
+      "id": "TM-05",
+      "score": 9.0,
+      "keep": true,
+      "reason": "AI 在密码分析领域的新进展，具有重要技术意义"
+    },
+    {
+      "id": "TM-06",
+      "score": 5.0,
+      "keep": false,
+      "reason": "无人机送货服务的启动，信息量一般"
+    },
+    {
+      "id": "TM-07",
+      "score": 6.0,
+      "keep": false,
+      "reason": "关于 AI 模型审查的观点，具有一定行业影响"
+    },
+    {
+      "id": "TM-08",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与 AI 相关性较弱，主要是人事变动"
+    },
+    {
+      "id": "TM-09",
+      "score": 2.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是股市波动"
+    },
+    {
+      "id": "TM-10",
+      "score": 7.0,
+      "keep": true,
+      "reason": "欧盟对 AI 平台的监管动向，具有政策意义"
+    },
+    {
+      "id": "TM-11",
+      "score": 6.0,
+      "keep": false,
+      "reason": "DeepMind 内部变动，可能影响研究方向"
+    },
+    {
+      "id": "TM-12",
+      "score": 7.0,
+      "keep": true,
+      "reason": "对 Anthropic 的反馈反映出行业内的竞争与挑战"
+    },
+    {
+      "id": "TM-13",
+      "score": 9.0,
+      "keep": true,
+      "reason": "OpenAI 为学术研究者提供免费访问，具有重大影响"
+    },
+    {
+      "id": "TM-14",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财务信息较常规，缺乏深度洞察"
+    },
+    {
+      "id": "TM-15",
+      "score": 4.0,
+      "keep": false,
+      "reason": "招聘信息，行业动态较弱"
+    },
+    {
+      "id": "TM-16",
+      "score": 8.0,
+      "keep": true,
+      "reason": "OpenAI 的开源代理工具优化，具有技术价值"
+    },
+    {
+      "id": "TM-17",
+      "score": 7.0,
+      "keep": true,
+      "reason": "音乐生成模型的发布，展示了 AI 应用的多样性"
+    },
+    {
+      "id": "TM-18",
+      "score": 8.0,
+      "keep": true,
+      "reason": "Moonshot AI 融资情况及估值，值得关注的融资动态"
+    },
+    {
+      "id": "TM-19",
+      "score": 6.0,
+      "keep": false,
+      "reason": "OpenRouter 收入增长，反映市场需求"
+    },
+    {
+      "id": "TM-20",
+      "score": 9.0,
+      "keep": true,
+      "reason": "GPTZero 发现 AI 幻觉，影响行业信任度"
+    },
+    {
+      "id": "TM-21",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与 AI 关系不大，主要是财报信息"
+    },
+    {
+      "id": "TM-22",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财报信息，缺乏深度洞察"
+    },
+    {
+      "id": "TM-23",
+      "score": 5.0,
+      "keep": false,
+      "reason": "财报信息，缺乏深度洞察"
+    },
+    {
+      "id": "TM-24",
+      "score": 8.0,
+      "keep": true,
+      "reason": "CHIPS Act 资金支持 AI 数据中心研发，具有政策意义"
+    },
+    {
+      "id": "TM-25",
+      "score": 5.0,
+      "keep": false,
+      "reason": "关于 Kioxia 的财务状况，信息量一般"
+    },
+    {
+      "id": "TM-26",
+      "score": 5.0,
+      "keep": false,
+      "reason": "信息量一般，主要涉及股权价值变化，缺乏深度分析"
+    },
+    {
+      "id": "TM-27",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及Intel技术授权新创公司的合作，信息量有限"
+    },
+    {
+      "id": "TM-28",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及OpenAI安全问题，可能影响行业信任和安全性"
+    },
+    {
+      "id": "TM-29",
+      "score": 7.0,
+      "keep": true,
+      "reason": "OpenAI发布新工具，可能对开发者有实用价值"
+    },
+    {
+      "id": "TM-30",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系较弱，主要是产品评测"
+    },
+    {
+      "id": "TM-31",
+      "score": 3.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是社会调查结果"
+    },
+    {
+      "id": "TM-32",
+      "score": 4.0,
+      "keep": false,
+      "reason": "法律问题，信息量较少，未涉及AI核心内容"
+    },
+    {
+      "id": "TM-33",
+      "score": 6.0,
+      "keep": false,
+      "reason": "涉及法律诉讼，可能影响AI应用的合规性"
+    },
+    {
+      "id": "TM-34",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资信息，涉及AI流量监测，值得关注"
+    },
+    {
+      "id": "TM-35",
+      "score": 8.0,
+      "keep": true,
+      "reason": "融资信息，涉及AI芯片技术，具有行业影响力"
+    },
+    {
+      "id": "TM-36",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资信息，涉及AI监控软件，具有应用前景"
+    },
+    {
+      "id": "TM-37",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息，涉及AI供应链管理，信息量一般"
+    },
+    {
+      "id": "TM-38",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资信息，涉及AI芯片设计，值得关注"
+    },
+    {
+      "id": "TM-39",
+      "score": 6.0,
+      "keep": false,
+      "reason": "融资信息，涉及AI语音代理，信息量一般"
+    },
+    {
+      "id": "TM-40",
+      "score": 8.0,
+      "keep": true,
+      "reason": "融资信息，涉及国防AI基础设施，具有战略意义"
+    },
+    {
+      "id": "TM-41",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资信息，涉及量子计算，具有前沿技术价值"
+    },
+    {
+      "id": "TM-42",
+      "score": 7.0,
+      "keep": true,
+      "reason": "融资信息，涉及AI检测技术，具有市场潜力"
+    },
+    {
+      "id": "TM-43",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及监管调查，可能影响微软的AI产品策略"
+    },
+    {
+      "id": "TM-44",
+      "score": 5.0,
+      "keep": false,
+      "reason": "信息量一般，主要是运营恢复情况"
+    },
+    {
+      "id": "TM-45",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及区块链技术应用，可能影响金融行业的AI应用"
+    },
+    {
+      "id": "TM-46",
+      "score": 4.0,
+      "keep": false,
+      "reason": "与AI关系不大，主要是FDA相关担忧"
+    },
+    {
+      "id": "TL-01",
+      "score": 7.0,
+      "keep": true,
+      "reason": "新功能发布，可能对开发者有实用价值"
+    },
+    {
+      "id": "TL-02",
+      "score": 9.0,
+      "keep": true,
+      "reason": "涉及AI研究的未来发展和治理，具有重要行业影响"
+    },
+    {
+      "id": "TL-03",
+      "score": 8.0,
+      "keep": true,
+      "reason": "涉及OpenAI安全事件，可能影响行业信任和安全性"
+    },
+    {
+      "id": "TL-04",
+      "score": 6.0,
+      "keep": false,
+      "reason": "技术架构更新，信息量一般，适合技术从业者关注"
+    },
+    {
+      "id": "TL-05",
+      "score": 6.0,
+      "keep": false,
+      "reason": "介绍了Kimi K3的架构和推理引擎，信息量一般。"
+    },
+    {
+      "id": "TL-06",
+      "score": 9.0,
+      "keep": true,
+      "reason": "描述了AI代理入侵事件，涉及安全和技术的重大问题。"
+    },
+    {
+      "id": "TL-07",
+      "score": 7.5,
+      "keep": true,
+      "reason": "Google更新了Gemini API，增加了管理功能，具有产品洞察。"
+    },
+    {
+      "id": "TL-08",
+      "score": 7.0,
+      "keep": true,
+      "reason": "介绍了Mage模型家族，具有研究友好的特性，值得关注。"
+    },
+    {
+      "id": "TL-09",
+      "score": 6.0,
+      "keep": false,
+      "reason": "camelAI迁移到Durable Object，信息量一般。"
+    },
+    {
+      "id": "TL-10",
+      "score": 8.0,
+      "keep": true,
+      "reason": "展示了AI在密码学研究中的潜力，具有重要的安全意义。"
+    },
+    {
+      "id": "TL-11",
+      "score": 5.0,
+      "keep": false,
+      "reason": "讨论AI风险的观点，信息量有限。"
+    },
+    {
+      "id": "TL-12",
+      "score": 6.0,
+      "keep": false,
+      "reason": "探讨AI未来的可及性，信息量一般。"
+    },
+    {
+      "id": "TL-13",
+      "score": 6.0,
+      "keep": false,
+      "reason": "讨论个人超智能的潜力，信息量一般。"
+    },
+    {
+      "id": "TL-14",
+      "score": 2.0,
+      "keep": false,
+      "reason": "招聘信息，与AI相关性弱。"
+    },
+    {
+      "id": "TL-15",
+      "score": 8.0,
+      "keep": true,
+      "reason": "亚马逊计划整合AI模型，可能影响行业格局。"
+    },
+    {
+      "id": "TL-16",
+      "score": 4.0,
+      "keep": false,
+      "reason": "关于安全漏洞的工具，信息量较少。"
+    },
+    {
+      "id": "TL-17",
+      "score": 3.0,
+      "keep": false,
+      "reason": "寻求GPU的消息，信息量较少。"
+    },
+    {
+      "id": "TL-18",
+      "score": 5.0,
+      "keep": false,
+      "reason": "新产品发布，信息量一般。"
+    }
+  ]
+}

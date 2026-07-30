@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-29",
+  "sections": {
+    "TLDR News": [
+      {
+        "title": "Introducing Build Mode (2 minute read)",
+        "url": "https://x.ai/news/grok-build-mode?utm_source=tldrai",
+        "excerpt": "xAI launched Build Mode for SuperGrok Heavy subscribers, letting users generate, edit, preview, and publish websites, apps, games, and dashboards directly from chat. Projects require no setup and can be shared through grok.me links or custom domains."
+      },
+      {
+        "title": "Pacing the Frontier (Website)",
+        "url": "https://www.pacingthefrontier.com/?utm_source=tldrai",
+        "excerpt": "AI could help create a dramatically better future. The world's leading AI companies believe they could be close to automating AI research. There is a real risk that capability development rapidly accelerates beyond researchers' ability to understand or control the resulting systems. Over a thousand employees from frontier AI companies have signed a statement requesting that the US government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development."
+      },
+      {
+        "title": "OpenAI's agents hacked second account during model testing (4 minute read)",
+        "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack?utm_source=tldrai",
+        "excerpt": "Modal Labs says that one of its customers' assets was hacked when an OpenAI agent broke into Hugging Face's systems earlier this month. Hugging Face noted in a technical write-up of the hack that OpenAI's agent system accessed an isolated testing environment hosted on third-party infrastructure during the attack. A Modal customer had published an unauthenticated endpoint that allowed anyone on the internet to use their sandboxes for code execution. This was used by the rogue agent."
+      },
+      {
+        "title": "Kimi K3 Architecture Notes (4 minute read)",
+        "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html?utm_source=tldrai",
+        "excerpt": "Kimi K3's architecture is essentially a scaled-up production version of the Kimi Linear model released last year. The model seems to be trending toward better inference efficiency. It now has native multimodal support. This post summarizes some of the major changes and additions noted in the open-weight model release."
+      },
+      {
+        "title": "The Inference Engine Guide for K3 Deployment (10 minute read)",
+        "url": "https://x.com/vllm_project/status/2081788542079123939?utm_source=tldrai",
+        "excerpt": "Kimi K3 is a 2.8-trillion-parameter multimodal MoE (16 of 896 experts active per token) with a context window of up to 1M tokens. Its architecture departs from a standard transformer in several ways. Each changes what a serving engine has to do. This post looks at Kimi K3's architecture and how vLLM serves it."
+      },
+      {
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident (45 minute read)",
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline?utm_source=tldrai",
+        "excerpt": "An autonomous AI agent driven by a combination of OpenAI models ran an end-to-end intrusion against Hugging Face's platform over roughly two and a half days. The models made thousands of small, automated decisions, and executed at machine speed across short-lived sandboxed environments. Command-and-control was staged on ordinary public web services. The intrusion was likely, from the agent's point of view, an attempt to cheat on an evaluation by stealing test solutions rather than solving a challenge on its own."
+      },
+      {
+        "title": "Managed Gemini Agents Gain More Controls (3 minute read)",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/?utm_source=tldrai",
+        "excerpt": "Google updated Gemini API Managed Agents with Gemini 3.6 Flash, environment hooks for inspecting tool calls, budget controls, scheduled triggers, model selection, and free-tier access."
+      },
+      {
+        "title": "Mage (2 minute read)",
+        "url": "https://microsoft.github.io/Mage/?utm_source=tldrai",
+        "excerpt": "Mage is a lightweight, research-friendly multimodal model family. It was built with a fixed 4B-parameter budget. The models are compact enough to train, fine-tune, and deploy onto modest hardware while remaining competitive with much larger open systems. Mage-VL is an efficient codec-native streaming multimodal foundation model, and Mage-Flow is an efficient native-resolution foundation model for image generation and editing."
+      },
+      {
+        "title": "We rewrote our agent to run entirely in a Durable Object with Pi, Agents SDK, and Code Mode (10 minute read)",
+        "url": "https://x.com/Vercantez/status/2082138839888589200?utm_source=tldrai",
+        "excerpt": "camelAI recently moved its agent off of virtual machines and onto a Cloudflare Durable Object. Its file system lives in SQLite and R2, and it writes JavaScript instead of bash. The team moved off VMs because giving every user an always-on machine with attached disk was too expensive to scale. This post explains how the team completed the migration. camelAI's codebase recently went open source."
+      },
+      {
+        "title": "Discovering cryptographic weaknesses with Claude (15 minute read)",
+        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses?utm_source=tldrai",
+        "excerpt": "Researchers at Anthropic used Claude Mythos Preview to uncover weaknesses in cryptographic algorithms, notably improving attacks on the HAWK digital signature scheme and round-reduced AES. The AI model efficiently identified flaws previously undetected by human experts, showcasing its potential in cryptographic research. While these findings don't impact current systems, they highlight AI's role in enhancing security standards and stress-testing cryptographic designs."
+      },
+      {
+        "title": "The real AI risk is inside the labs (5 minute read)",
+        "url": "https://antirez.com/news/172?utm_source=tldrai",
+        "excerpt": "AI should not be considered safe. The danger is that there are just a few CEOs around the world, without the required background and legitimacy, making hard choices for humanity at large. They weren't selected to do so, it was just chance that created this setup. They have GPUs and money, but given the stakes, they shouldn't be speaking for everybody."
+      },
+      {
+        "title": "The AI Future Is for Everyone (6 minute read)",
+        "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=8y8M3L&reflink=desktopwebshare_permalink&utm_source=tldrai",
+        "excerpt": "As AI continues to improve, the question isn't whether superintelligence will exist, but who will have access to it. The technology could be centralized and restricted to a few institutions, or it could be used to empower everyone. The notion that AI is such a threat that the only safe path is an extreme concentration of power seems dangerous. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened hasn't led to safe or positive outcomes."
+      },
+      {
+        "title": "The AI Future Is for Everyone (6 minute read)",
+        "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?utm_source=tldrai",
+        "excerpt": "Widely distributed personal superintelligence could shift AI from automation toward invention, entrepreneurship, and individual agency. Concentrating advanced intelligence in a few institutions risks economic and political imbalance, while broad access, open systems, and targeted safeguards create stronger checks and balances."
+      },
+      {
+        "title": "TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)",
+        "url": "mailto:hardware@tldr.tech?utm_source=tldrai",
+        "excerpt": "500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!"
+      },
+      {
+        "title": "Amazon Reportedly Plans to Consolidate Nova AI Models (9 minute read)",
+        "url": "https://www.techrepublic.com/article/news-amazon-nova-ai-model-consolidation-aws/?utm_source=tldrai",
+        "excerpt": "Amazon plans to shift from having a wide portfolio of models for text, images, video, and multimodal tasks toward having a single frontier model."
+      },
+      {
+        "title": "Codex Security (GitHub Repo)",
+        "url": "https://github.com/openai/codex-security?utm_source=tldrai",
+        "excerpt": "Codex Security is a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities."
+      },
+      {
+        "title": "Moonshot Openly Defies The Trump Administration (3 minute read)",
+        "url": "https://wccftech.com/moonshot-openly-defies-the-trump-administration-by-seeking-access-to-additional-nvidia-gpus-for-training-the-next-gen-kimi-k4-model/?utm_source=tldrai",
+        "excerpt": "Moonshot is seeking access to additional Nvidia GPUs to train its next model."
+      },
+      {
+        "title": "Fish Audio launches S2.1 Pro with support for 83 languages (2 minute read)",
+        "url": "https://www.testingcatalog.com/fish-audio-launches-s2-1-pro-with-support-for-83-languages/?utm_source=tldrai",
+        "excerpt": "Fish Audio has launched S2.1 Pro, a real-time conversational speech model supporting 83 languages."
+      }
+    ]
+  }
+}

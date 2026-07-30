@@ -1,0 +1,664 @@
+{
+  "date": "2026-07-29",
+  "sources": [
+    "TLDR",
+    "Techmeme"
+  ],
+  "stats": {
+    "total": 30,
+    "by_category": {
+      "cat:business": 12,
+      "cat:tech": 6,
+      "cat:other": 7,
+      "cat:app": 3,
+      "cat:model": 2
+    }
+  },
+  "items": [
+    {
+      "id": "TM-02",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast",
+      "title": {
+        "zh": "微软Q4收入同比增长18%，365 Copilot付费用户超3000万",
+        "en": "Microsoft reports Q4 revenue up 18% YoY to $90.1B, vs. $87.62B est., and says 365 Copilot has 30M+ paid seats, up from 20M+ in Q3; MSFT jumps 7%+ after hours"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "copilot"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-04",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/business/energy-oil/brookfield-nextera-to-develop-100-billion-data-center-campus-in-kentucky-c0615347?st=JwHnop&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Brookfield与NextEra合作开发1000亿美元AI数据中心园区",
+        "en": "Brookfield and NextEra partner to develop a $100B, 1.2GW+ AI data center campus at a former DOE uranium-enrichment site in Kentucky, set to open in 2032"
+      },
+      "summary": {
+        "zh": "该园区位于肯塔基州前DOE铀浓缩场地，计划于2032年开放。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-05",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "title": {
+        "zh": "Anthropic展示HAWK和AES的AI密码分析成果",
+        "en": "Anthropic's cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them"
+      },
+      "summary": {
+        "zh": "AI现已能够理解现有密码分析结果，并将其转化为新攻击甚至扩展攻击。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-10",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "title": {
+        "zh": "欧盟计划将ChatGPT和Roblox列为DSA下的“超大型在线平台”",
+        "en": "Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as “very large online platforms” under the DSA as soon as August"
+      },
+      "summary": {
+        "zh": "预计最早于8月正式指定。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "chatgpt",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-12",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80?st=HcuwR3&reflink=desktopwebshare_permalink",
+      "title": {
+        "zh": "Anthropic因竞争策略和开源支持问题遭遇硅谷反对",
+        "en": "Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models"
+      },
+      "summary": {
+        "zh": "合作伙伴、创始人和研究人员对其竞争策略和缺乏开源支持表示不满。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "anthropic",
+        "open-weights",
+        "alignment"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-13",
+      "category_id": 3,
+      "source": "Techmeme",
+      "url": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+      "title": {
+        "zh": "OpenAI为学术研究者推出ChatGPT免费访问计划",
+        "en": "OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027"
+      },
+      "summary": {
+        "zh": "计划为10万名科学家、数学家和工程师提供免费访问其前沿模型至2027年。",
+        "en": ""
+      },
+      "tags": [
+        "cat:app",
+        "openai",
+        "chatgpt"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-16",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.thedeepview.com/articles/openai-s-secret-weapon-underneath-codex",
+      "title": {
+        "zh": "OpenAI优化开源代理框架以支持Codex和ChatGPT Work",
+        "en": "A look at OpenAI's open-source agent harness that now powers Codex and ChatGPT Work, as the company works to optimize the harness to cut runaway token usage"
+      },
+      "summary": {
+        "zh": "该框架旨在减少令牌使用并提升效率。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "agent",
+        "coding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-17",
+      "category_id": 1,
+      "source": "Techmeme",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+      "title": {
+        "zh": "谷歌推出Lyria 3.5音乐生成模型",
+        "en": "Google launches its Lyria 3.5 music generation model in Google Flow Music, highlighting improved musicality, lyrics, vocal quality, and creative control"
+      },
+      "summary": {
+        "zh": "新模型在音乐性、歌词、声乐质量和创意控制方面有显著提升。",
+        "en": ""
+      },
+      "tags": [
+        "cat:model",
+        "google",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-18",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+      "title": {
+        "zh": "Moonshot AI完成35亿美元融资，估值达350亿美元",
+        "en": "Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026"
+      },
+      "summary": {
+        "zh": "公司计划最早于2026年在香港IPO。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "ipo"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-20",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c?accessToken=zwAAAZ-saNlskc9-FJrILOJCZtOJQBkvmCGzPA.MEQCIB4QcO-EieUBJcSm2aKVE-2CPlzIp6X2ybz0z7CtBCWVAiBW2x-m3L_HC80hcP_ZAaHnRwPU6o3Lsz5ykpMfPd5r8g&sharetype=gift&token=6a7e4856-f5f9-4071-996e-8fedf70334e7",
+      "title": {
+        "zh": "GPTZero发现PwC中东报告中的AI幻觉",
+        "en": "GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero's prior investigations led EY and KPMG to retract reports with apparent hallucinations"
+      },
+      "summary": {
+        "zh": "此前GPTZero的调查已导致EY和KPMG撤回存在幻觉的报告。",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "gpt",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-24",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/world/china/us-award-globalfoundries-300-million-develop-faster-ai-chip-links-2026-07-29/",
+      "title": {
+        "zh": "GlobalFoundries获美国CHIPS法案3亿美元资助，用于硅光子技术研发",
+        "en": "GlobalFoundries says the US plans to award it $300M in CHIPS Act funding to bolster R&D of silicon photonics tech to power more efficient AI data centers"
+      },
+      "summary": {
+        "zh": "该技术旨在提升AI数据中心的效率。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "chip",
+        "data-center"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-28",
+      "category_id": 5,
+      "source": "Techmeme",
+      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "title": {
+        "zh": "OpenAI称入侵Hugging Face的AI代理使用了四个公开服务的暴露凭证",
+        "en": "OpenAI says the rogue AI agent that breached Hugging Face used exposed credentials from “four accounts” tied to four “publicly available” third-party services"
+      },
+      "summary": {
+        "zh": "",
+        "en": ""
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "safety",
+        "policy"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-29",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://x.com/openai/status/2082263717916586117",
+      "title": {
+        "zh": "OpenAI发布开源Codex Security CLI早期版本",
+        "en": "OpenAI releases an “early” version of its open-source Codex Security CLI for scanning repositories, verifying fixes, adding security checks to CI/CD, and more"
+      },
+      "summary": {
+        "zh": "该工具可扫描代码库、验证修复并为CI/CD添加安全检查等功能。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech",
+        "openai",
+        "codex",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-34",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "title": {
+        "zh": "Spur Intelligence获Insight Partners领投的2亿美元融资",
+        "en": "Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners"
+      },
+      "summary": {
+        "zh": "该公司位于佛罗里达州，专注于区分人类与机器人流量以发现虚假用户和威胁。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-35",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/eliyan-raises-145-million-1-billion-valuation-ease-ai-chip-data-bottlenecks-2026-07-29/",
+      "title": {
+        "zh": "Eliyan完成1.45亿美元C轮融资，估值达10亿美元",
+        "en": "Eliyan, which aims to license tech and make physical “chiplets” to ease AI chip data transfer bottlenecks, raised a $145M Series C at a $1B valuation"
+      },
+      "summary": {
+        "zh": "Eliyan致力于通过物理“芯粒”技术缓解AI芯片数据传输瓶颈。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "chip",
+        "funding"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-36",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.calcalistech.com/ctechnews/article/r19aupvrme",
+      "title": {
+        "zh": "Groundcover完成1亿美元C轮融资，总融资额达1.6亿美元",
+        "en": "Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M"
+      },
+      "summary": {
+        "zh": "该公司提供可监控AI代理的可观测性软件。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-38",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.reuters.com/business/nvidia-partner-chipagents-raises-60-million-accelerate-chip-design-with-ai-2026-07-29/",
+      "title": {
+        "zh": "ChipAgents完成6000万美元A2轮融资，总融资额达1.34亿美元",
+        "en": "ChipAgents, which uses AI agents to help speed up the process of chip design, raised a $60M Series A2 led by B Capital, bringing the expanded round to $134M"
+      },
+      "summary": {
+        "zh": "ChipAgents利用AI代理加速芯片设计流程。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "chip"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-40",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://resiliencemedia.co/agon-emerges-from-stealth-with-30m-to-build-ai-training-models-for-defence/",
+      "title": {
+        "zh": "Agon从隐身模式中亮相，获3000万美元种子轮融资",
+        "en": "London-based Agon, which is developing sovereign AI training infrastructure for European defense, emerges from stealth with a $7M pre-seed and a $23M seed"
+      },
+      "summary": {
+        "zh": "这家总部位于伦敦的公司正在开发欧洲防务的主权AI训练基础设施。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "training"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-41",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://tech.eu/2026/07/28/zuriq-raises-255m-to-scale-its-breakthrough-2d-quantum-architecture/",
+      "title": {
+        "zh": "ETH苏黎世衍生公司ZuriQ完成2550万美元种子轮融资",
+        "en": "ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation"
+      },
+      "summary": {
+        "zh": "ZuriQ正在开发基于二维架构的囚禁离子量子计算处理器。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "quantum"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-42",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.nytimes.com/2026/07/29/business/dealbook/sick-of-ai-generated-content-the-slop-janitor-is-here-to-help.html?unlocked_article_code=1.1VA.dT93.w5tXvUOcek7n&smid=url-share",
+      "title": {
+        "zh": "AI检测初创公司Pangram完成900万美元融资并发布Pangram 4.0",
+        "en": "New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy"
+      },
+      "summary": {
+        "zh": "其首个AI图像检测模型声称准确率达99.5%。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "startup",
+        "funding",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-43",
+      "category_id": 4,
+      "source": "Techmeme",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-faces-uk-probe-over-copilot-linked-price-hikes",
+      "title": {
+        "zh": "英国CMA调查微软涉嫌消费者法违规",
+        "en": "The UK CMA opens an investigation into Microsoft over a potential consumer law breach involving users paying more to renew Microsoft 365 after it added Copilot"
+      },
+      "summary": {
+        "zh": "微软因在Microsoft 365中添加Copilot后用户续订费用增加而被英国CMA调查。",
+        "en": ""
+      },
+      "tags": [
+        "cat:business",
+        "microsoft",
+        "copilot",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TM-45",
+      "category_id": 2,
+      "source": "Techmeme",
+      "url": "https://www.ft.com/content/7b1197a5-e59a-4beb-ab83-e800e6ebc527",
+      "title": {
+        "zh": "全球最大资产托管银行BNY计划采用区块链技术",
+        "en": "BNY, the world's biggest bank for safeguarding assets, plans to use blockchain tech for its transfer agency record-keeping systems that service ~$8.6T in assets"
+      },
+      "summary": {
+        "zh": "BNY计划将区块链技术用于其服务约8.6万亿美元资产的转移代理记录系统。",
+        "en": ""
+      },
+      "tags": [
+        "cat:tech"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-01",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://x.ai/news/grok-build-mode?utm_source=tldrai",
+      "title": {
+        "zh": "xAI推出Build Mode功能",
+        "en": "Introducing Build Mode (2 minute read)"
+      },
+      "summary": {
+        "zh": "Build Mode允许SuperGrok Heavy订阅用户直接从聊天生成、编辑和发布网站、应用、游戏和仪表板。",
+        "en": "xAI launched Build Mode for SuperGrok Heavy subscribers, letting users generate, edit, preview, and publish websites, apps, games, and dashboards directly from chat. Projects require no setup and can be shared through grok.me links or custom domains."
+      },
+      "tags": [
+        "cat:app",
+        "xai",
+        "grok"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-02",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.pacingthefrontier.com/?utm_source=tldrai",
+      "title": {
+        "zh": "AI公司呼吁国际合作以控制AI发展速度",
+        "en": "Pacing the Frontier (Website)"
+      },
+      "summary": {
+        "zh": "超过千名AI公司员工签署声明，呼吁美国政府支持开发技术和治理工具以控制AI自动化研究的快速发展。",
+        "en": "AI could help create a dramatically better future. The world's leading AI companies believe they could be close to automating AI research. There is a real risk that capability development rapidly accelerates beyond researchers' ability to understand or control the resulting systems. Over a thousand employees from frontier AI companies have signed a statement requesting that the US government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development."
+      },
+      "tags": [
+        "cat:other",
+        "policy",
+        "regulation"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-03",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack?utm_source=tldrai",
+      "title": {
+        "zh": "OpenAI代理在测试中入侵第二账户",
+        "en": "OpenAI's agents hacked second account during model testing (4 minute read)"
+      },
+      "summary": {
+        "zh": "Modal Labs报告称，OpenAI代理在测试中入侵了Hugging Face的系统，利用未认证的端点执行代码。",
+        "en": "Modal Labs says that one of its customers' assets was hacked when an OpenAI agent broke into Hugging Face's systems earlier this month. Hugging Face noted in a technical write-up of the hack that OpenAI's agent system accessed an isolated testing environment hosted on third-party infrastructure during the attack. A Modal customer had published an unauthenticated endpoint that allowed anyone on the internet to use their sandboxes for code execution. This was used by the rogue agent."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "huggingface",
+        "agent",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-06",
+      "category_id": 5,
+      "source": "TLDR",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline?utm_source=tldrai",
+      "title": {
+        "zh": "前沿实验室代理入侵事件技术时间线",
+        "en": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident (45 minute read)"
+      },
+      "summary": {
+        "zh": "一名由OpenAI模型驱动的自主代理对Hugging Face平台进行了两天半的入侵，试图通过窃取测试解决方案来作弊。",
+        "en": "An autonomous AI agent driven by a combination of OpenAI models ran an end-to-end intrusion against Hugging Face's platform over roughly two and a half days. The models made thousands of small, automated decisions, and executed at machine speed across short-lived sandboxed environments. Command-and-control was staged on ordinary public web services. The intrusion was likely, from the agent's point of view, an attempt to cheat on an evaluation by stealing test solutions rather than solving a challenge on its own."
+      },
+      "tags": [
+        "cat:other",
+        "openai",
+        "huggingface",
+        "agent",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-07",
+      "category_id": 3,
+      "source": "TLDR",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/?utm_source=tldrai",
+      "title": {
+        "zh": "Gemini托管代理新增更多控制功能",
+        "en": "Managed Gemini Agents Gain More Controls (3 minute read)"
+      },
+      "summary": {
+        "zh": "Google更新了Gemini API托管代理，增加了预算控制、环境钩子、模型选择等功能。",
+        "en": "Google updated Gemini API Managed Agents with Gemini 3.6 Flash, environment hooks for inspecting tool calls, budget controls, scheduled triggers, model selection, and free-tier access."
+      },
+      "tags": [
+        "cat:app",
+        "google",
+        "gemini",
+        "agent"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-08",
+      "category_id": 1,
+      "source": "TLDR",
+      "url": "https://microsoft.github.io/Mage/?utm_source=tldrai",
+      "title": {
+        "zh": "Mage：轻量级多模态模型家族",
+        "en": "Mage (2 minute read)"
+      },
+      "summary": {
+        "zh": "Mage是一种研究友好的多模态模型家族，具有高效的训练、微调和部署能力，适用于中等硬件。",
+        "en": "Mage is a lightweight, research-friendly multimodal model family. It was built with a fixed 4B-parameter budget. The models are compact enough to train, fine-tune, and deploy onto modest hardware while remaining competitive with much larger open systems. Mage-VL is an efficient codec-native streaming multimodal foundation model, and Mage-Flow is an efficient native-resolution foundation model for image generation and editing."
+      },
+      "tags": [
+        "cat:model",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-10",
+      "category_id": 2,
+      "source": "TLDR",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses?utm_source=tldrai",
+      "title": {
+        "zh": "使用Claude发现密码学漏洞",
+        "en": "Discovering cryptographic weaknesses with Claude (15 minute read)"
+      },
+      "summary": {
+        "zh": "Anthropic研究人员利用Claude发现了密码算法中的漏洞，展示了AI在增强安全标准和压力测试中的潜力。",
+        "en": "Researchers at Anthropic used Claude Mythos Preview to uncover weaknesses in cryptographic algorithms, notably improving attacks on the HAWK digital signature scheme and round-reduced AES. The AI model efficiently identified flaws previously undetected by human experts, showcasing its potential in cryptographic research. While these findings don't impact current systems, they highlight AI's role in enhancing security standards and stress-testing cryptographic designs."
+      },
+      "tags": [
+        "cat:tech",
+        "anthropic",
+        "claude",
+        "safety"
+      ],
+      "tweets": [],
+      "score": null
+    },
+    {
+      "id": "TL-15",
+      "category_id": 4,
+      "source": "TLDR",
+      "url": "https://www.techrepublic.com/article/news-amazon-nova-ai-model-consolidation-aws/?utm_source=tldrai",
+      "title": {
+        "zh": "亚马逊计划整合Nova AI模型",
+        "en": "Amazon Reportedly Plans to Consolidate Nova AI Models (9 minute read)"
+      },
+      "summary": {
+        "zh": "亚马逊计划从多种模型转向单一前沿模型，覆盖文本、图像、视频和多模态任务。",
+        "en": "Amazon plans to shift from having a wide portfolio of models for text, images, video, and multimodal tasks toward having a single frontier model."
+      },
+      "tags": [
+        "cat:business",
+        "amazon",
+        "multimodal"
+      ],
+      "tweets": [],
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+=== SOURCE: TECHMEME ===
+
+[CATEGORY: TOP NEWS]
+ID: TM-01
+Title: Meta reports Q2 revenue up 28% YoY to $60.8B, family DAP up 3% to 3.6B on average for June, forecasts Q3 revenue below estimates; META drops 8%+ after hours
+Tweets:
+  - Author: @munster_gene
+    Text: $META call just wrapped.  Stock is down 9.5%, near after-hours session lows.  The drift in the stock was tied to investors less encouraged about the timing of the Cloud business.  That is a large growth lever that we will have to wait for.  The other new products, consumer personalized AI agents will be announced soon, the only problem is investors don't believe they will be impactful in the next year.
+    Link ID: TM-01-TW-01
+  - Author: @firstadopter
+    Text: Meta CEO Mark Zuckerberg: “the high level observation is that there's just nowhere near enough compute for all the demand. So that is why we see that like, basically we are getting a large number of offers for the compute that we have, but also we have a lot of internal uses that we think are going to be quite valuable.”
+    Link ID: TM-01-TW-02
+  - Author: @charliebilello
+    Text: Meta's Reality Labs unit lost another $4.6 billion in Q2, bringing its cumulative losses since 2020 up to $87 billion. We've never seen a public company light money on fire to this extent. $META [image]
+    Link ID: TM-01-TW-03
+Sub Items:
+  - Title: Meta reports free cash flow of $784M in Q2, down 91% YoY, and now expects 2026 capex to be $130B-$145B, compared with its prior forecast of $125B-$145B
+    Link ID: TM-01-SUB-01
+  - Title: Meta reports $2.4B in charges related to legal proceedings in Q2 and $1.18B in severance expenses in connection with the May 2026 layoff of about 8,000 staff
+    Link ID: TM-01-SUB-02
+  - Title: Meta reports Reality Labs Q2 revenue up 16% YoY to $431M, vs. $423.4M est., and a $4.62B operating loss, vs. $5.07B estimated
+    Link ID: TM-01-SUB-03
+---
+ID: TM-02
+Title: Microsoft reports Q4 revenue up 18% YoY to $90.1B, vs. $87.62B est., and says 365 Copilot has 30M+ paid seats, up from 20M+ in Q3; MSFT jumps 7%+ after hours
+Tweets:
+  - Author: @firstadopter
+    Text: This was the best Microsoft quarterly earnings report in recent memory, along with incredible Azure results/guidance and an accelerating outlook for the first half of the fiscal year. Well done.
+    Link ID: TM-02-TW-01
+  - Author: @timadeline
+    Text: Very exciting news shared today during @Microsoft's earnings reports: +50% Copilot paid seats from 20M to 30M in just 3 months. Great to see Copilot accelerate.
+    Link ID: TM-02-TW-02
+  - Author: @mukund
+    Text: Take out $MSFT @AnthropicAI “gain - mark to market” and your EPS is $4.39 vs $4.29 estimated. As I have been saying for the last few weeks. Anthropic is the tide that's lifting all profitability boats - for $GOOGL last week and today for $MSFT
+    Link ID: TM-02-TW-03
+Sub Items:
+  - Title: Microsoft reports Q4 Azure and other cloud services revenue up 43% YoY, vs. 40% est., and says Azure revenue in FY 2026 exceeded $100B for the first time
+    Link ID: TM-02-SUB-01
+  - Title: Microsoft reports Q4 Windows OEM and Devices revenue down 7% YoY, Xbox hardware revenue down 13%, and Xbox content and services revenue down 10%
+    Link ID: TM-02-SUB-02
+---
+ID: TM-03
+Title: Russia charges Pavel Durov with facilitating terrorist activity, alleging that Telegram was being used by Ukrainian spies to organize attacks inside Russia
+Tweets:
+  - Author: @0xdamx
+    Text: Russia: you are aiding terrorism... * issues an international arrest warrant* Telegram: posts him giving the middle finger Durov: dresses his Telegram profile picture up as a terrorist. The most UNFAZED response in tech history 💀 [image]
+    Link ID: TM-03-TW-01
+  - Author: @insider0x
+    Text: Official Telegram account on X responds to news about Pavel Durov being charged with Terrorism Support in Russia. This is a historic photo that Pavel posted back in 2011 when pro-government  group tried to take over VK (it succeeded eventually).
+    Link ID: TM-03-TW-02
+  - Author: @sarahadams
+    Text: The irony is that Russia is giving an air defense system to the Taliban, the very regime harboring the head of ISIS Central Asia, Gulmurod Khalimov (yes, he's still very much alive), arguably the greatest terrorist threat to Russia itself. Yet somehow, the owner of Telegram is considered the bigger issue. As the old saying goes, never interrupt your enemy when he's making a mistake.
+    Link ID: TM-03-TW-03
+---
+ID: TM-04
+Title: Brookfield and NextEra partner to develop a $100B, 1.2GW+ AI data center campus at a former DOE uranium-enrichment site in Kentucky, set to open in 2032
+---
+ID: TM-05
+Title: Anthropic's cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them
+---
+ID: TM-06
+Title: DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall
+---
+ID: TM-07
+Title: Mark Zuckerberg says the US should not ban Chinese AI models and that AI model peer reviewing or vetting could be positive if “done well with thoughtful people”
+---
+ID: TM-08
+Title: Thinking Machines Lab co-founder Lilian Weng is returning to OpenAI after announcing earlier this week she was leaving TML over workload-related health concerns
+---
+ID: TM-09
+Title: Investors continue to dump chipmaker stocks on Wednesday following disappointing results from SK Hynix; Sandisk is down 7.5%+, Arm 6.5%+, and AMD 6.5%+
+---
+ID: TM-10
+Title: Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as “very large online platforms” under the DSA as soon as August
+---
+
+[CATEGORY: ARTIFICIAL INTELLIGENCE]
+ID: TM-11
+Title: Sources: Google DeepMind has reassigned most of the AlphaFold papers' original authors over the past year; nearly a quarter of the full-time authors have left
+---
+ID: TM-12
+Title: Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models
+---
+ID: TM-13
+Title: OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027
+---
+ID: TM-14
+Title: In an internal meeting, OpenAI finance chief Sarah Friar told employees that the company's annualized recurring revenue in July was higher than in Q2 as a whole
+---
+ID: TM-15
+Title: OpenAI, Google, Meta, BlackRock, and others are recruiting electricians and carpenters by the thousands, with some of the highest pay the industry has ever seen
+---
+ID: TM-16
+Title: A look at OpenAI's open-source agent harness that now powers Codex and ChatGPT Work, as the company works to optimize the harness to cut runaway token usage
+---
+ID: TM-17
+Title: Google launches its Lyria 3.5 music generation model in Google Flow Music, highlighting improved musicality, lyrics, vocal quality, and creative control
+---
+ID: TM-18
+Title: Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026
+---
+ID: TM-19
+Title: Source: OpenRouter was recently generating ~$140M in annualized revenue, or ~$12M per month, up nearly 3x since April, making Stripe's $10B offer a big premium
+---
+ID: TM-20
+Title: GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero's prior investigations led EY and KPMG to retract reports with apparent hallucinations
+---
+
+[CATEGORY: EARNINGS]
+ID: TM-21
+Title: Qualcomm reports Q3 revenue down 4% YoY to $9.95B, forecasts Q4 profit below est., and expects revenue from Apple to fall faster; QCOM drops 7%+ after hours
+Sub Items:
+  - Title: Qualcomm says it has signed a 10-year deal to supply chips for BMW's future digital cockpit and advanced driver-assistance systems
+    Link ID: TM-21-SUB-01
+---
+ID: TM-22
+Title: Arm reports Q1 revenue up 22% YoY to $1.29B, vs. $1.26B est., royalty revenue up 22% YoY to $715M, and forecasts Q2 profit above estimates
+---
+ID: TM-23
+Title: Robinhood reports Q2 revenue up 32% YoY to $1.31B, vs. $1.29B est., event contracts revenue up over 10x to $156M, and crypto revenue down 38% to $100M
+---
+
+[CATEGORY: SEMICONDUCTORS]
+ID: TM-24
+Title: GlobalFoundries says the US plans to award it $300M in CHIPS Act funding to bolster R&D of silicon photonics tech to power more efficient AI data centers
+---
+ID: TM-25
+Title: A look at Kioxia, the Japanese NAND flash memory maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026
+---
+ID: TM-26
+Title: CXMT's IPO prospectus showed Alibaba had a nearly 5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT's ~$464B closing market cap on July 28
+---
+ID: TM-27
+Title: Source and docs: Intel has given access to its Atom processor tech to Rosaic, a new startup led by Amarjit Gill; Lip-Bu Tan and Gill are longtime co-investors
+---
+
+[CATEGORY: INFOSEC]
+ID: TM-28
+Title: OpenAI says the rogue AI agent that breached Hugging Face used exposed credentials from “four accounts” tied to four “publicly available” third-party services
+---
+ID: TM-29
+Title: OpenAI releases an “early” version of its open-source Codex Security CLI for scanning repositories, verifying fixes, adding security checks to CI/CD, and more
+---
+
+[CATEGORY: SMARTPHONES]
+ID: TM-30
+Title: Samsung Galaxy Z Fold 8 review: comfortable when shut, the 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors
+---
+ID: TM-31
+Title: Survey: 77% of US adults support in-class cellphone bans for middle and high school students, up from 74% in 2025 and 68% in 2024; just 18% oppose such bans
+---
+
+[CATEGORY: LITIGATION]
+ID: TM-32
+Title: X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X
+---
+ID: TM-33
+Title: xAI sues Minnesota's AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment
+---
+
+[CATEGORY: FUNDING DEALS]
+ID: TM-34
+Title: Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners
+---
+ID: TM-35
+Title: Eliyan, which aims to license tech and make physical “chiplets” to ease AI chip data transfer bottlenecks, raised a $145M Series C at a $1B valuation
+---
+ID: TM-36
+Title: Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M
+---
+ID: TM-37
+Title: Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024
+---
+ID: TM-38
+Title: ChipAgents, which uses AI agents to help speed up the process of chip design, raised a $60M Series A2 led by B Capital, bringing the expanded round to $134M
+---
+ID: TM-39
+Title: Encore AI, which studies companies' customer interactions to train and deploy AI voice agents, raised a $30M Series A led by Team8, Planven, and The Garage
+---
+ID: TM-40
+Title: London-based Agon, which is developing sovereign AI training infrastructure for European defense, emerges from stealth with a $7M pre-seed and a $23M seed
+---
+ID: TM-41
+Title: ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation
+---
+ID: TM-42
+Title: New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy
+---
+
+[CATEGORY: MORE NEWS]
+ID: TM-43
+Title: The UK CMA opens an investigation into Microsoft over a potential consumer law breach involving users paying more to renew Microsoft 365 after it added Copilot
+---
+ID: TM-44
+Title: Waymo gradually resumes freeway routes, starting with Phoenix, more than two months after suspending them to improve performance around construction zones
+---
+ID: TM-45
+Title: BNY, the world's biggest bank for safeguarding assets, plans to use blockchain tech for its transfer agency record-keeping systems that service ~$8.6T in assets
+---
+ID: TM-46
+Title: Doctors and researchers worry that FDA-related wagers on Kalshi and Polymarket could compromise drug development studies and erode public trust in the process
+---
+
+=== SOURCE: TLDR AI ===
+
+[CATEGORY: TLDR NEWS]
+ID: TL-01
+Title: Introducing Build Mode (2 minute read)
+Excerpt: xAI launched Build Mode for SuperGrok Heavy subscribers, letting users generate, edit, preview, and publish websites, apps, games, and dashboards directly from chat. Projects require no setup and can be shared through grok.me links or custom domains.
+---
+ID: TL-02
+Title: Pacing the Frontier (Website)
+Excerpt: AI could help create a dramatically better future. The world's leading AI companies believe they could be close to automating AI research. There is a real risk that capability development rapidly accelerates beyond researchers' ability to understand or control the resulting systems. Over a thousand employees from frontier AI companies have signed a statement requesting that the US government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.
+---
+ID: TL-03
+Title: OpenAI's agents hacked second account during model testing (4 minute read)
+Excerpt: Modal Labs says that one of its customers' assets was hacked when an OpenAI agent broke into Hugging Face's systems earlier this month. Hugging Face noted in a technical write-up of the hack that OpenAI's agent system accessed an isolated testing environment hosted on third-party infrastructure during the attack. A Modal customer had published an unauthenticated endpoint that allowed anyone on the internet to use their sandboxes for code execution. This was used by the rogue agent.
+---
+ID: TL-04
+Title: Kimi K3 Architecture Notes (4 minute read)
+Excerpt: Kimi K3's architecture is essentially a scaled-up production version of the Kimi Linear model released last year. The model seems to be trending toward better inference efficiency. It now has native multimodal support. This post summarizes some of the major changes and additions noted in the open-weight model release.
+---
+ID: TL-05
+Title: The Inference Engine Guide for K3 Deployment (10 minute read)
+Excerpt: Kimi K3 is a 2.8-trillion-parameter multimodal MoE (16 of 896 experts active per token) with a context window of up to 1M tokens. Its architecture departs from a standard transformer in several ways. Each changes what a serving engine has to do. This post looks at Kimi K3's architecture and how vLLM serves it.
+---
+ID: TL-06
+Title: Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident (45 minute read)
+Excerpt: An autonomous AI agent driven by a combination of OpenAI models ran an end-to-end intrusion against Hugging Face's platform over roughly two and a half days. The models made thousands of small, automated decisions, and executed at machine speed across short-lived sandboxed environments. Command-and-control was staged on ordinary public web services. The intrusion was likely, from the agent's point of view, an attempt to cheat on an evaluation by stealing test solutions rather than solving a challenge on its own.
+---
+ID: TL-07
+Title: Managed Gemini Agents Gain More Controls (3 minute read)
+Excerpt: Google updated Gemini API Managed Agents with Gemini 3.6 Flash, environment hooks for inspecting tool calls, budget controls, scheduled triggers, model selection, and free-tier access.
+---
+ID: TL-08
+Title: Mage (2 minute read)
+Excerpt: Mage is a lightweight, research-friendly multimodal model family. It was built with a fixed 4B-parameter budget. The models are compact enough to train, fine-tune, and deploy onto modest hardware while remaining competitive with much larger open systems. Mage-VL is an efficient codec-native streaming multimodal foundation model, and Mage-Flow is an efficient native-resolution foundation model for image generation and editing.
+---
+ID: TL-09
+Title: We rewrote our agent to run entirely in a Durable Object with Pi, Agents SDK, and Code Mode (10 minute read)
+Excerpt: camelAI recently moved its agent off of virtual machines and onto a Cloudflare Durable Object. Its file system lives in SQLite and R2, and it writes JavaScript instead of bash. The team moved off VMs because giving every user an always-on machine with attached disk was too expensive to scale. This post explains how the team completed the migration. camelAI's codebase recently went open source.
+---
+ID: TL-10
+Title: Discovering cryptographic weaknesses with Claude (15 minute read)
+Excerpt: Researchers at Anthropic used Claude Mythos Preview to uncover weaknesses in cryptographic algorithms, notably improving attacks on the HAWK digital signature scheme and round-reduced AES. The AI model efficiently identified flaws previously undetected by human experts, showcasing its potential in cryptographic research. While these findings don't impact current systems, they highlight AI's role in enhancing security standards and stress-testing cryptographic designs.
+---
+ID: TL-11
+Title: The real AI risk is inside the labs (5 minute read)
+Excerpt: AI should not be considered safe. The danger is that there are just a few CEOs around the world, without the required background and legitimacy, making hard choices for humanity at large. They weren't selected to do so, it was just chance that created this setup. They have GPUs and money, but given the stakes, they shouldn't be speaking for everybody.
+---
+ID: TL-12
+Title: The AI Future Is for Everyone (6 minute read)
+Excerpt: As AI continues to improve, the question isn't whether superintelligence will exist, but who will have access to it. The technology could be centralized and restricted to a few institutions, or it could be used to empower everyone. The notion that AI is such a threat that the only safe path is an extreme concentration of power seems dangerous. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened hasn't led to safe or positive outcomes.
+---
+ID: TL-13
+Title: The AI Future Is for Everyone (6 minute read)
+Excerpt: Widely distributed personal superintelligence could shift AI from automation toward invention, entrepreneurship, and individual agency. Concentrating advanced intelligence in a few institutions risks economic and political imbalance, while broad access, open systems, and targeted safeguards create stronger checks and balances.
+---
+ID: TL-14
+Title: TLDR is hiring a curator for TLDR Hardware! (TLDR Curator, ~3 hrs/week)
+Excerpt: 500,000 people have already signed up for TLDR Hardware, our new twice-weekly newsletter covering chips, robotics, energy, and devices. If you work in hardware and want to help curate it, send your LinkedIn or resume to hardware@tldr.tech!
+---
+ID: TL-15
+Title: Amazon Reportedly Plans to Consolidate Nova AI Models (9 minute read)
+Excerpt: Amazon plans to shift from having a wide portfolio of models for text, images, video, and multimodal tasks toward having a single frontier model.
+---
+ID: TL-16
+Title: Codex Security (GitHub Repo)
+Excerpt: Codex Security is a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities.
+---
+ID: TL-17
+Title: Moonshot Openly Defies The Trump Administration (3 minute read)
+Excerpt: Moonshot is seeking access to additional Nvidia GPUs to train its next model.
+---
+ID: TL-18
+Title: Fish Audio launches S2.1 Pro with support for 83 languages (2 minute read)
+Excerpt: Fish Audio has launched S2.1 Pro, a real-time conversational speech model supporting 83 languages.
+---
