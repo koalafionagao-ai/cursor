@@ -4,6 +4,7 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 
 | Brief date | Status | Published | Steps | Anomalies | Log |
 |------------|--------|-----------|-------|-----------|-----|
+| `2026-08-15` | warning | — | 6 | techmeme_fetcher: No Techmeme newsletter matched for target date; tldr_fetcher: No TLDR RSS entries matched for target date; merge_cleaner: skipped — Both Techmeme and TLDR sources empty; merge aborted; filter_scorer: skipped — Missing input file: blocks_2026-08-15.json; enrich: skipped — Missing blocks file for 2026-08-15; build_site_data: skipped — Missing processed_2026-08-15.json | [2026-08-15](2026-08/2026-08-15.md) |
 | `2026-08-08` | warning | — | 6 | techmeme_fetcher: No Techmeme newsletter matched for target date; tldr_fetcher: No TLDR RSS entries matched for target date; merge_cleaner: skipped — Both Techmeme and TLDR sources empty; merge aborted; filter_scorer: skipped — Missing input file: blocks_2026-08-08.json; enrich: skipped — Missing blocks file for 2026-08-08; build_site_data: skipped — Missing processed_2026-08-08.json | [2026-08-08](2026-08/2026-08-08.md) |
 | `2026-08-01` | warning | — | 6 | techmeme_fetcher: No Techmeme newsletter matched for target date; tldr_fetcher: No TLDR RSS entries matched for target date; merge_cleaner: skipped — Both Techmeme and TLDR sources empty; merge aborted; filter_scorer: skipped — Missing input file: blocks_2026-08-01.json; enrich: skipped — Missing blocks file for 2026-08-01; build_site_data: skipped — Missing processed_2026-08-01.json | [2026-08-01](2026-08/2026-08-01.md) |
 | `2026-07-29` | success | 30 | 6 | — | [2026-07-29](2026-07/2026-07-29.md) |
@@ -59,4 +60,4 @@ Roll-up of completed pipeline runs. Open a date link for the full step-by-step l
 | `2026-06-09` | success | 25 | 6 | — | [2026-06-09](2026-06/2026-06-09.md) |
 | `2026-06-08` | success | 28 | 6 | — | [2026-06-08](2026-06/2026-06-08.md) |
 
-_Latest brief date: `2026-08-08`_
+_Latest brief date: `2026-08-15`_
